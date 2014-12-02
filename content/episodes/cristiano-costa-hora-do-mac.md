@@ -1,0 +1,127 @@
+Title: Cristiano Costa: Hora do Mac
+Date: 2012-08-06 14:35
+Author: Og Maciel
+Category: Podcast
+Tags: Acqua, Airton Ortiz, Albert Einstein, Amazon Prime, Amyr Klink, Breaking Bad, Carla Bruni, Computadores Apple, David Baldacci, Dead Kennedys, FISL, Game of Thrones, GNU/Linux, Google Hangout, Hora do Mac, House, iPhone, iTunes, Jeffrey Archer, John Sandford, Jorge Ben, Kit Inicial de Podcasts, Leo Laporte, Mac OS, MacBreak Weekly, Madeleine Peyroux, Michael Connelly, Netflix, Norah Jones, Plataforma Android, Plataforma iOS, R.E.M., Rdio, Sex Pistols, Skype, Steve Jobs, The Beatles, Two and a Half Man, U2, Unix, Windows 8, WordPress
+
+![Cristiano Costa: Hora do Mac]({filename}/images/cristianocosta.jpg)
+
+
+**Atualização**: Me esqueci novamente de colocar o link para o vídeo da
+entrevista:  <http://www.youtube.com/watch?v=k58aVfWhIWE&feature=g-upl>
+
+Mais um dia de calor aqui na **Carolina do Norte**, e mesmo na correria
+desta semana eu consegui achar um pouco de tempo para entrevistar o
+**Cristiano Costa**, aka
+[@caccac](http://twitter.com/#!/caccac "http://twitter.com/#!/caccac"),
+do podcast [Hora do
+Mac](http://www.horadomac.com/ "http://www.horadomac.com/") (**HDM**)!
+Quem ainda não conhece o **HDM** não sabe o que está perdendo!
+
+O **HDM** começou à quase 4 anos no fimzinho de 2008 lá em **Porto
+Alegre** e desde então o podcast já publicou **82 episódios** e só tem
+aumentado em tamanho de equipe (divertidíssima diga-se de passagem),
+qualidade de assuntos, e popularidade. Hoje em dia conta com uma base de
+usuários super fiéis e até mesmo aparece dentre os podcasts mais
+destacados no **iTunes**!
+
+Mesmo tendo somente uma hora (meu almoço) para conversar com o
+Cristiano, ainda assim deu tempo de conversar sobre como que tudo
+começou e como que foi gravado o primeiro episódio no dia 20 de outubro
+de 2008. Conversamos sobre o processo de gravar um podcast e como que o
+podcast evoluiu nos últimos anos. Também falamos sobre como que muitos
+usuários de **GNU/Linux** são atraídos pelo **Mac OS**, consumismo de
+música, livros e conteúdo digital, sobre o seu blog e gosto pela
+gastronomia e vários outros assuntos!
+
+Escute agora:
+* [MP3](http://downloads.ogmaciel.com/castalio-podcast-42.mp3)
+* [Ogg](http://downloads.ogmaciel.com/castalio-podcast-42.ogg)
+* [M4A](http://downloads.ogmaciel.com/castalio-podcast-42.m4a)
+
+-   Blog:  <http://www.cristianocosta.com.br/>
+-   Hora do Mac:  <http://www.horadomac.com/>
+-   ChefRS:  <http://www.chefrs.com.br/>
+-   Twitter:  <http://twitter.com/#!/caccac>
+-   Facebook:  <http://www.facebook.com/caccac>
+-   Linkedin:  <http://br.linkedin.com/in/cristianocosta>
+-   Rdio:  <http://www.rdio.com/people/caccac/>
+
+**Resumo:**
+
+-   **Apresentação** 01:00
+-   **Como começou o Podcast** 02:00
+-   **Dificuldades** 08:00
+-   **Destaque no iTunes** 13:00
+-   **Quem é o público** 17:30
+-   **Episódio divertido** 19:00
+-   **A equipe do Hora do Mac** 20:00
+-   **Usuários GNU/Linux usando Mac OS** 25:50
+-   **Pagando por aplicativos e coisas** 28:00
+-   **ChefRS** 33:10
+-   **Top 5** 37:00
+-   **Conclusão** 42:38
+
+**Top 5:**
+
+-   **Música:** [Sex Pistols](http://www.last.fm/search?q=Sex+Pistols)
+-   **Música:** [Dead
+    Kennedys](http://www.last.fm/search?q=Dead+Kennedys)
+-   **Música:** [U2](http://www.last.fm/search?q=U2)
+-   **Música:** [R.E.M.](http://www.last.fm/search?q=R.E.M.)
+-   **Música:** [Norah Jones](http://www.last.fm/search?q=Norah+Jones)
+-   **Música:** [Madeleine
+    Peyroux](http://www.last.fm/search?q=Madeleine+Peyroux)
+-   **Música:** [Carla Bruni](http://www.last.fm/search?q=Carla+Bruni)
+-   **Música:** [Jorge Ben](http://www.last.fm/search?q=Jorge+Ben)
+-   **Música:** [The Beatles](http://www.last.fm/search?q=The+Beatles)
+-   **Filmes:** [House](http://www.imdb.com/find?s=all&q=House)
+-   **Filmes:** [Breaking
+    Bad](http://www.imdb.com/find?s=all&q=Breaking+Bad)
+-   **Filmes:** [Two and a Half
+    Man](http://www.imdb.com/find?s=all&q=Two+and+a+Half+Man)
+-   **Filmes:** [Game of
+    Thrones](http://www.imdb.com/find?s=all&q=Game+of+Thrones)
+-   **Livros:** [John
+    Sandford](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=John+Sandford)
+-   **Livros:** [Michael
+    Connelly](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Michael+Connelly)
+-   **Livros:** [David
+    Baldacci](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=David+Baldacci)
+-   **Livros:** [Steve
+    Jobs](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Steve+Jobs)
+-   **Livros:** [Albert
+    Einstein](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Albert+Einstein)
+-   **Livros:** [Jeffrey
+    Archer](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jeffrey+Archer)
+-   **Livros:** [Airton
+    Ortiz](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Airton+Ortiz)
+
+**Links:**
+
+-   [Leo Laporte](https://duckduckgo.com/?q=Leo+Laporte)
+-   [MacBreak Weekly](https://duckduckgo.com/?q=MacBreak+Weekly)
+-   [Computadores Apple](https://duckduckgo.com/?q=Computadores+Apple)
+-   [iPhone](https://duckduckgo.com/?q=iPhone)
+-   [Skype](https://duckduckgo.com/?q=Skype)
+-   [Google Hangout](https://duckduckgo.com/?q=Google+Hangout)
+-   [WordPress](https://duckduckgo.com/?q=WordPress)
+-   [iTunes](https://duckduckgo.com/?q=iTunes)
+-   [Hora do Mac](https://duckduckgo.com/?q=Hora+do+Mac)
+-   [FISL](https://duckduckgo.com/?q=FISL)
+-   [Kit Inicial de
+    Podcasts](https://duckduckgo.com/?q=Kit+Inicial+de+Podcasts)
+-   [Plataforma Android](https://duckduckgo.com/?q=Plataforma+Android)
+-   [Plataforma iOS](https://duckduckgo.com/?q=Plataforma+iOS)
+-   [Unix](https://duckduckgo.com/?q=Unix)
+-   [Acqua](https://duckduckgo.com/?q=Acqua)
+-   [Windows 8](https://duckduckgo.com/?q=Windows+8)
+-   [Amazon Prime](https://duckduckgo.com/?q=Amazon+Prime)
+-   [Rdio](https://duckduckgo.com/?q=Rdio)
+-   [Netflix](https://duckduckgo.com/?q=Netflix)
+-   [Amyr Klink](https://duckduckgo.com/?q=Amyr+Klink)
+
+***Música**: [Ain't Gonna Give Jelly
+Roll](http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll)
+by [Red Hook Ramblers](http://www.redhookramblers.com/) is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
