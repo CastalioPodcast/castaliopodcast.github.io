@@ -1,16 +1,31 @@
 <style>
 	#banner{
-	    background-image:url("{{ SITEURL}}/{{ BANNER }}");
+    {% if BANNER_BACKGROUND_COLOR %}
+	    background-color: {{ BANNER_BACKGROUND_COLOR }};
+    {% elif BANNER_BACKGROUND_IMAGE %}
+	    background-image: url("{{ SITEURL}}/{{ BANNER_BACKGROUND_IMAGE }}");
+    {% elif BANNER_BACKGROUND_GRADIENT %}
+	    background-image: {{ BANNER_BACKGROUND_GRADIENT }};
+    {% endif %}
 	}
 </style>
 
 <div id="banner">
 	<div class="container">
-		<div class="copy">
+    {% if BANNER_IMAGE %}
+        <div class="banner-image">
+            <a href="{{ SITEURL }}"><img height="{{ BANNER_IMAGE_HEIGHT }}" class="img-circle" alt="{{ SITENAME }}" src="{{ SITEURL }}/{{ BANNER_IMAGE }}"></a>
+			{% if BANNER_SUBTITLE %}
+				<p class="intro">{{ BANNER_SUBTITLE }}</p>
+			{% endif %}
+        </div>
+    {% else %}
+		<div class="copy ">
 			<h1>{{ SITENAME }}</h1>
 			{% if BANNER_SUBTITLE %}
 				<p class="intro">{{ BANNER_SUBTITLE }}</p>
 			{% endif %}
 		</div>
+    {% endif %}
 	</div>
 </div>

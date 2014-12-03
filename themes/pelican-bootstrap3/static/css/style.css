@@ -221,3 +221,10 @@ figure.floatcenter, .align-center {
         font-size: 16px;
     }
 }
+
+.banner-image {
+	text-align: center;
+}
+.banner-image .intro{
+	margin-top: 20px;
+}
