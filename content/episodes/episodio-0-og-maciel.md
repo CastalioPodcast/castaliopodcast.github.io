@@ -4,7 +4,7 @@ Author: Og Maciel
 Category: Podcast
 Tags: Podcast
 
-![Episódio Zero]({filename}/images/episodiozero.jpg)[/caption]
+![Episódio Zero]({filename}/images/episodiozero.jpg)
 
 Apresentando o primeiro episódio do **Castalio**. O entrevistado neste
 episódio é o[Og Maciel](http://www.ogmaciel.com), conhecido contribuinte
@@ -21,9 +21,7 @@ perguntamos várias coisas sobre assuntos variádos, como:
 Ah, antes que de me esquecer, o nome do podcast foi escolhido da
 seguinte forma:
 
-<div>
-
-Baixamos o arquivo <http://pkgs.org/package/myspell-pt-br> e extraimos
+Baixamos o arquivo [http://pkgs.org/package/myspell-pt-br](http://pkgs.org/package/myspell-pt-br) e extraimos
 dele o arquivo **pt\_BR.dic**. Depois, usamos o grep para filtrar todas
 as palavras que continham a palavra **CAST**:
 
