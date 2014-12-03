@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Og Maciel & Eli\xe9zer Rezende'
-SITENAME = u'Cast\xe1lio Podcast'
+AUTHOR = u'Og Maciel & Eliézer Rezende'
+SITENAME = u'Castálio Podcast'
 SITEURL = ''
 
 PATH = 'content'
