@@ -36,7 +36,7 @@ RELATIVE_URLS = True
 STATIC_PATHS = ['images', 'pages']
 
 THEME = './themes/pelican-bootstrap3'
-PLUGIN_PATHS = ['./plugins/pelican-plugins', ]
+PLUGIN_PATHS = ['./plugins', ]
 PLUGINS = [
     'summary',
     'feed_summary',
