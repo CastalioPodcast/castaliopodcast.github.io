@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castaliopodcast.github.io/index.html</loc>
-<lastmod>2014-12-04T20:11:14-00:00</lastmod>
+<lastmod>2014-12-04T20:47:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://castaliopodcast.github.io/archives.html</loc>
-<lastmod>2014-12-04T20:11:14-00:00</lastmod>
+<lastmod>2014-12-04T20:47:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://castaliopodcast.github.io/tags.html</loc>
-<lastmod>2014-12-04T20:11:14-00:00</lastmod>
+<lastmod>2014-12-04T20:47:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://castaliopodcast.github.io/categories.html</loc>
-<lastmod>2014-12-04T20:11:14-00:00</lastmod>
+<lastmod>2014-12-04T20:47:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,13 +34,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://castaliopodcast.github.io/pages/sobre.html</loc>
 <lastmod>2011-01-22T16:00:00-05:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://castaliopodcast.github.io/episodio-56-splinter.html</loc>
-<lastmod>2014-12-07T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -488,7 +481,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castaliopodcast.github.io/category/podcast.html</loc>
-<lastmod>2014-12-07T00:00:00-04:56</lastmod>
+<lastmod>2014-11-23T18:44:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1257,8 +1250,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://castaliopodcast.github.io/tag/splinter.html</loc>
-<lastmod>2014-12-07T00:00:00-04:56</lastmod>
+<loc>https://castaliopodcast.github.io/tag/windows-azzure.html</loc>
+<lastmod>2012-04-29T13:03:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2826,7 +2819,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castaliopodcast.github.io/tag/selenium.html</loc>
-<lastmod>2014-12-07T00:00:00-04:56</lastmod>
+<lastmod>2013-03-03T21:48:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5632,8 +5625,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://castaliopodcast.github.io/tag/windows-azzure.html</loc>
-<lastmod>2012-04-29T13:03:00-04:56</lastmod>
+<loc>https://castaliopodcast.github.io/tag/identica.html</loc>
+<lastmod>2012-01-22T17:53:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5788,13 +5781,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://castaliopodcast.github.io/tag/os-jogos-da-vida.html</loc>
 <lastmod>2013-03-03T21:48:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://castaliopodcast.github.io/tag/identica.html</loc>
-<lastmod>2012-01-22T17:53:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9323,13 +9309,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://castaliopodcast.github.io/author/og-maciel.html</loc>
 <lastmod>2014-11-23T18:44:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://castaliopodcast.github.io/author/og-maciel-e-elyezer-rezende.html</loc>
-<lastmod>2014-12-07T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
