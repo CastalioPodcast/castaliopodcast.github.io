@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="pt"
+>
+<head>
+    <title>Episódio 55: Editor Vim - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="https://castaliopodcast.github.io/episodio-55-editor-vim.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="Github,Vim" />
+        <meta name="description" content="Depois de um longo e tenebroso inverno, estamos de volta ao ar, desta vez para ficar e com algumas novidades.Mas primeiramente, uma explicação sobre o sumiço súbito. O processo de planejamento, gravação e edição de um podcast requer muitas horas e perseverança para poder correr atrás de assuntos (ou ..." />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 55: Editor Vim"/>
+        <meta property="og:url" content="https://castaliopodcast.github.io/episodio-55-editor-vim.html"/>
+        <meta property="og:description" content="Depois de um longo e tenebroso inverno, estamos de volta ao ar, desta vez para ficar e com algumas novidades.Mas primeiramente, uma explicação sobre o sumiço súbito. O processo de planejamento, gravação e edição de um podcast requer muitas horas e perseverança para poder correr atrás de assuntos (ou ..."/>
+        <meta property="article:published_time" content="2014-11-23" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="Github" />
+            <meta property="article:tag" content="Vim" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castaliopodcast.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castaliopodcast.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castaliopodcast.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castaliopodcast.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castaliopodcast.github.io/" class="navbar-brand">
+Castálio Podcast            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="https://castaliopodcast.github.io/pages/sobre.html">
+                             Sobre
+                          </a></li>
+                        <li >
+                            <a href="https://castaliopodcast.github.io/category/noticia.html">Notícia</a>
+                        </li>
+                        <li class="active">
+                            <a href="https://castaliopodcast.github.io/category/podcast.html">Podcast</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://castaliopodcast.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="https://castaliopodcast.github.io/episodio-55-editor-vim.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 55: Editor Vim">
+                        Episódio 55: Editor Vim
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2014-11-23T18:44:00-05:00"> Sun 23 November 2014</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="https://castaliopodcast.github.io/tag/github.html">Github</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/vim.html">Vim</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p><img alt="Editor Vim" src="https://castaliopodcast.github.io/images/episodio-55-vim.png" /></p>
+<p>Depois de um longo e tenebroso inverno, estamos de volta ao ar, desta
+vez para ficar e com algumas novidades.Mas primeiramente, uma explicação
+sobre o sumiço súbito.</p>
+<p>O processo de planejamento, gravação e edição de um podcast requer
+muitas horas e perseverança para poder correr atrás de assuntos (ou no
+caso deste podcast, entrevistados), pesquisar para ter um bom
+"background", e horas e horas editando arquivos de áudio para poder
+fornecer algo de (espero) boa qualidade para vocês que nos honram com
+sua presença e apoio. Devido a algumas mudanças no trabalho (algumas
+promoções com mais responsabilidades e longas horas) e na vida pessoal
+(o nascimento de minha terceira filha, Iza), eu senti que não teria mais
+o tempo livre necessário para continuar o podcast sem que o mesmo não
+perdesse a qualidade das entrevistas ou áudio. Foi muito difícil
+simplesmente abandonar o projeto às moscas, sem sequer dar alguma
+explicação a vocês que sempre acompanhou o podcast... por isso, quero
+então pedir 1,000 desculpas e que perdoem esta minha falta de
+profissionalismo.</p>
+<p>Durante os muitos meses que o podcast ficou parado, foram muitos os
+e-mails e comentários de amigos e ouvintes perguntando se o projeto
+estava realmente morto ou se existia alguma chance de trazê-lo de volta
+ao ar, e eu sempre respondi que estava sem tempo livre, nem mesmo para
+editar o áudio, então a resposta era não.</p>
+<p>Eis que nas últimas semanas, tendo participado como convidado do
+<a href="http://tecnologiaaberta.com.br/" title="Opencast">Opencast</a> podcast, aquela
+vontade enorme que eu tive para começar o Castálio podcast voltou com
+uma força total, e depois de bater um papo com meu amigo Evandro Pastor,
+muso inspirador e responsável principal pela criação deste, decidi
+voltar a fazer o podcast, porém com algumas mudanças:</p>
+<ol>
+<li>Ao invés de somente fazer episódios de entrevistas (que realmente é
+    mais complicado devido ao agendamento com convidados, etc), desta
+    vez também farei episódios temáticos, onde discutiremos sobre algum
+    aplicativo, tecnologia ou assunto que seja interessante ao ouvinte.</li>
+<li>Notou que falei "discutiremos", no plural? Pois é, um dos grandes
+    motivos para trazer o podcast de volta é a presença do Elyézer que
+    aceitou formar uma parceria comigo e me ajudar a manter o projeto no
+    ar. Com a presença dele, vocês terão a oportunidade de escutar uma
+    pessoa super técnica e tarimbada em tudo quanto é assunto de
+    tecnologia e programação. E tem mais, além de saber sobre um monte
+    de assuntos, ele ainda acha tempo para cozinhar uns rangos pra lá de
+    interessantes e até mesmo fazer sushi!</li>
+<li>Quer mais novidade? Beleza! Estamos também considerando deixar o
+    WordPress de lado e usar algo mais "programático" que utilize
+    Github, Jekyll e outras tecnologias do gênero, já que somos para lá
+    de inspirados sobre programação e automatização (que é onde ganhamos
+    o nosso "pão de cada dia" aqui na Red Hat). Um dia desses vou
+    mostrar como que as coisas estão...</li>
+</ol>
+<p>Para finalizar, eu não estaria aqui, depois de ter passado um tempinho
+editando um bate-papo que tive com o Elyézer esta última semana, se não
+fosse por vocês que deixaram comentários aqui, no Twitter, pedindo pela
+volta do podcast... e especialmente quero deixar aqui o meu
+agradecimento ao <a href="http://www.castalio.info/ivan-brasil-fuzzer-ubuntero/" title="Ivan Fuzzer">Ivan
+Fuzzer</a>
+e <a href="http://www.castalio.info/evandro-pastor-quarto-estudio/" title="Evandro Pastor">Evandro
+Pastor</a>,
+pelo apoio e incentivo para voltar! Muito obrigado mesmo!</p>
+<p>Então, para nosso primeiro episódio temático decidimos falar sobre o
+editor Vim, aquele editor que vem instalado por padrão na maioria das
+distribuições GNU/Linux e no Mac OS, mas que muitos não devem usar por
+ser um pouco estranho e assustador para quem somente conhece editores
+com interface gráfica.</p>
+<p>Neste episódio falamos um pouco sobre o que atrai as pessoas a usarem o
+Vim como editor de texto e código, como sair dele (já que este deve ser
+o primeiro problema que novos usuários encontram pela primeira vez) e
+sobre formas de deixá-lo super configurado da forma mais fácil do mundo!</p>
+<p>Mesmo que você não use o Vim (eu mesmo uso o Emacs!!!) ou já tenha
+usado, mas não achou nada interessante para convencê-lo(a) a a converter
+como usuário, algumas das ferramentas mencionadas aqui são super
+interessantes e podem ser úteis para que você mesmo(a) possa desenvolver
+algo para o seu editor ou aplicativo favorito!!!</p>
+<p>Escute agora:</p>
+<ul>
+<li><a href="http://downloads.ogmaciel.com/castalio-podcast-55.mp3">MP3</a></li>
+<li><a href="http://downloads.ogmaciel.com/castalio-podcast-55.ogg">Ogg</a></li>
+<li><a href="http://downloads.ogmaciel.com/castalio-podcast-55.m4a">M4A</a></li>
+</ul>
+<h2>Links</h2>
+<ul>
+<li><a href="http://www.vim.org/">Editor Vim</a></li>
+<li><a href="http://github.com">Github</a></li>
+<li><a href="http://gist.github.com">Gist</a></li>
+<li><a href="https://cygwin.com/">Cygwin</a></li>
+<li>Gerenciadores de plugins:<ul>
+<li><a href="https://github.com/gmarik/Vundle.vim">Vundle</a></li>
+<li><a href="https://github.com/Shougo/neobundle.vim">NeoBundle</a> (versão
+    melhorada do Vundle)</li>
+</ul>
+</li>
+<li><a href="http://vim-bootstrap.com/">Vim
+    Bootstrap</a> (<a href="https://github.com/avelino/vim-bootstrap">vim-bootstrap</a>
+    no Github, consulte para uma <a href="https://github.com/avelino/vim-bootstrap#commands">lista de
+    atalhos</a>)</li>
+<li><a href="https://github.com/liangxianzhe/oh-my-vim">oh-my-vim</a></li>
+<li><a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a> (framework
+    para o zsh)</li>
+<li><a href="https://github.com/altercation/vim-colors-solarized">vim-solarized</a> (tema
+    de cores)</li>
+<li><a href="https://github.com/scrooloose/syntastic">Syntastic</a> (plugin para
+    verificação da sintaxe)</li>
+<li><a href="https://github.com/tpope/vim-fugitive">vim-fugitive</a> (git wrapper
+    para o vim)</li>
+<li><a href="https://github.com/kien/ctrlp.vim">ctrlp plugin</a></li>
+<li><a href="https://github.com/mattn/gist-vim">gist-vim plugin</a></li>
+<li><a href="https://github.com/davidhalter/jedi-vim">jedi-vim plugin</a></li>
+<li><a href="https://github.com/SirVer/ultisnips">Snippets plugin</a></li>
+<li><a href="https://github.com/honza/vim-snippets">Pacote com vários plugins</a></li>
+<li><a href="https://github.com/elyezer/.vim">.vim Elyézer</a></li>
+</ul>
+<h2>Entrando e saindo do modo de edição no Vim</h2>
+<p>Durante o episódio foi comentado do modo de inserção (edição) porém
+faltaram as teclas. Ao entrar no Vim, ao digitar "i", você entrará no
+modo de inserção e poderá digitar textos livremente como em qualquer
+outro editor.</p>
+<p>Para retornar ao modo normal, basta pressionar "Esc". Lembre-se que
+neste modo é onde você irá executar os comandos como ":q" para sair,
+":w" para salvar o arquivo (ou ":w teste.txt" para salvar como
+teste.txt), ":x" para salvar e sair, entre outros.</p>
+<p>Seleções visuais são feitas no modo visual, que pode ser acessado a
+partir do modo normal utilizando a tecla "v", desta forma você poderá
+realizar a seleção caracter por caracter. "Shift+v" ("V") para entrar no
+modo visual, mas selecionando linhas. Ao realizar uma seleção utilize
+"y" para copiar e, no modo normal, "p" para colar.</p>
+<p><strong>*Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+            </div>
+            <!-- /.entry-content -->
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-55-editor-vim';
+                var disqus_url = 'https://castaliopodcast.github.io/episodio-55-editor-vim.html';
+
+            var disqus_config = function () {
+                this.language = "pt";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://twitter.com/castaliopod"><i class="fa fa-@castaliopod-square fa-lg"></i> @castaliopod</a></li>
+              </ul>
+            </li>
+
+
+
+            <li class="list-group-item"><a href="https://castaliopodcast.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/github.html">
+                            Github
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/python.html">
+                            python
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">
+                            Ubuntu Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/gnome.html">
+                            GNOME
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/netflix.html">
+                            Netflix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/wordpress.html">
+                            WordPress
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/slackware-linux.html">
+                            Slackware Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/debian-linux.html">
+                            Debian Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/c.html">
+                            C++
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/canonical.html">
+                            Canonical
+                        </a>
+                    </li>
+                </ul>
+            </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 Og Maciel & Eliézer Rezende
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://castaliopodcast.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castaliopodcast.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castaliopodcast.github.io/theme/js/respond.min.js"></script>
+
+    <script src="https://castaliopodcast.github.io/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+
+</body>
+</html>

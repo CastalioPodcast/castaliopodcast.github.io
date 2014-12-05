@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="pt"
+>
+<head>
+    <title>Felipe Ribeiro: Spotify - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="https://castaliopodcast.github.io/felipe-ribeiro-spotify.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="AC/DC,Back to the future,Being Geek,Caike Souza,Creedence Clearwater Revival,Ensaio sobre a cegueira,Explosions in the Sky,Facebook,FISL,Flávio Ribeiro,Forrest Gump,Groove Shark,Inception,Java Script,Linkedin,Memcache,MySQL,Pandora,Pearl Jam,PHP,PHP Conference,Programming pearls,Rdio,Spotify,Starman: Truth Behind the Legend of Yuri Gagarin,The algorithm design manual,the Bad and the Ugly,The Big Lebowski,The Good,The Hichhiker's guide to the galaxy,Tuenti,Will Farrel,Wolfmother,Youtube" />
+        <meta name="description" content="Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para comprar o meu presente hehehe) tive a chance de conversar com o Felipe Ribeiro, o único Brasileiro que trabalha na companhia ..." />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Felipe Ribeiro: Spotify"/>
+        <meta property="og:url" content="https://castaliopodcast.github.io/felipe-ribeiro-spotify.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para comprar o meu presente hehehe) tive a chance de conversar com o Felipe Ribeiro, o único Brasileiro que trabalha na companhia ..."/>
+        <meta property="article:published_time" content="2012-06-10" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="AC/DC" />
+            <meta property="article:tag" content="Back to the future" />
+            <meta property="article:tag" content="Being Geek" />
+            <meta property="article:tag" content="Caike Souza" />
+            <meta property="article:tag" content="Creedence Clearwater Revival" />
+            <meta property="article:tag" content="Ensaio sobre a cegueira" />
+            <meta property="article:tag" content="Explosions in the Sky" />
+            <meta property="article:tag" content="Facebook" />
+            <meta property="article:tag" content="FISL" />
+            <meta property="article:tag" content="Flávio Ribeiro" />
+            <meta property="article:tag" content="Forrest Gump" />
+            <meta property="article:tag" content="Groove Shark" />
+            <meta property="article:tag" content="Inception" />
+            <meta property="article:tag" content="Java Script" />
+            <meta property="article:tag" content="Linkedin" />
+            <meta property="article:tag" content="Memcache" />
+            <meta property="article:tag" content="MySQL" />
+            <meta property="article:tag" content="Pandora" />
+            <meta property="article:tag" content="Pearl Jam" />
+            <meta property="article:tag" content="PHP" />
+            <meta property="article:tag" content="PHP Conference" />
+            <meta property="article:tag" content="Programming pearls" />
+            <meta property="article:tag" content="Rdio" />
+            <meta property="article:tag" content="Spotify" />
+            <meta property="article:tag" content="Starman: Truth Behind the Legend of Yuri Gagarin" />
+            <meta property="article:tag" content="The algorithm design manual" />
+            <meta property="article:tag" content="the Bad and the Ugly" />
+            <meta property="article:tag" content="The Big Lebowski" />
+            <meta property="article:tag" content="The Good" />
+            <meta property="article:tag" content="The Hichhiker's guide to the galaxy" />
+            <meta property="article:tag" content="Tuenti" />
+            <meta property="article:tag" content="Will Farrel" />
+            <meta property="article:tag" content="Wolfmother" />
+            <meta property="article:tag" content="Youtube" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castaliopodcast.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castaliopodcast.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castaliopodcast.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castaliopodcast.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castaliopodcast.github.io/" class="navbar-brand">
+Castálio Podcast            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="https://castaliopodcast.github.io/pages/sobre.html">
+                             Sobre
+                          </a></li>
+                        <li >
+                            <a href="https://castaliopodcast.github.io/category/noticia.html">Notícia</a>
+                        </li>
+                        <li class="active">
+                            <a href="https://castaliopodcast.github.io/category/podcast.html">Podcast</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://castaliopodcast.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="https://castaliopodcast.github.io/felipe-ribeiro-spotify.html"
+                       rel="bookmark"
+                       title="Permalink to Felipe Ribeiro: Spotify">
+                        Felipe Ribeiro: Spotify
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-06-10T16:43:00-04:00"> Sun 10 June 2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="https://castaliopodcast.github.io/tag/acdc.html">AC/DC</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/back-to-the-future.html">Back to the future</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/being-geek.html">Being Geek</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/caike-souza.html">Caike Souza</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/creedence-clearwater-revival.html">Creedence Clearwater Revival</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/ensaio-sobre-a-cegueira.html">Ensaio sobre a cegueira</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/explosions-in-the-sky.html">Explosions in the Sky</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/facebook.html">Facebook</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/fisl.html">FISL</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/flavio-ribeiro.html">Flávio Ribeiro</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/forrest-gump.html">Forrest Gump</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/groove-shark.html">Groove Shark</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/inception.html">Inception</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/java-script.html">Java Script</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/linkedin.html">Linkedin</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/memcache.html">Memcache</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/mysql.html">MySQL</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/pandora.html">Pandora</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/pearl-jam.html">Pearl Jam</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/php.html">PHP</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/php-conference.html">PHP Conference</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/programming-pearls.html">Programming pearls</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/rdio.html">Rdio</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/spotify.html">Spotify</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/starman-truth-behind-the-legend-of-yuri-gagarin.html">Starman: Truth Behind the Legend of Yuri Gagarin</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/the-algorithm-design-manual.html">The algorithm design manual</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/the-bad-and-the-ugly.html">the Bad and the Ugly</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/the-big-lebowski.html">The Big Lebowski</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/the-good.html">The Good</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/the-hichhikers-guide-to-the-galaxy.html">The Hichhiker's guide to the galaxy</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/tuenti.html">Tuenti</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/will-farrel.html">Will Farrel</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/wolfmother.html">Wolfmother</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/youtube.html">Youtube</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p><img alt="Felipe Ribeiro: Spotify" src="https://castaliopodcast.github.io/images/feliperibeiro.jpg" /></p>
+<p>Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para
+comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há
+tempo para comprar o meu
+<a href="http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1" title="http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1">presente</a>
+hehehe) tive a chance de conversar com o <strong>Felipe Ribeiro</strong>, o único
+Brasileiro que trabalha na companhia
+<strong><a href="http://www.spotify.com/" title="http://www.spotify.com/">Spotify</a></strong>! O
+Felipe é irmão do <strong>Flávio Ribeiro</strong> que eu entrevistei no <a href="http://www.castalio.info/flavio-ribeiro-globo-com/" title="http://www.castalio.info/flavio-ribeiro-globo-com/">último
+episódio</a>,
+o que me leva a pensar que existe um movimento muito forte na
+<strong>Paraíba</strong> nas áreas de educação e software livre, já que foram várias
+pessoas da região que passaram por aqui. :)</p>
+<p>Mesmo já sendo tarde na Suécia onde ele mora desde janeiro deste ano, e
+de ter voltado de um happy hour que teve lá na Spotify, conversamos
+sobre o seu trabalho, começando pela passagem pela Espanha na companhia
+Tuenti, diferenças de culturas, climas e pessoas, e eventualmente sua
+chegada na Suécia em pleno inverno (logo depois de ter passado umas
+semanas no Brasil aproveitando o calorzinho em sua terra natal). Também
+conversamos sobre as dificuldades que existem em fechar contratos com
+gravadoras, como que cervejas são caras na Suécia, contratações e seu
+Top 5!</p>
+<p>Escute agora:
+<em> <a href="http://downloads.ogmaciel.com/castalio-podcast-38.mp3">MP3</a>
+</em> <a href="http://downloads.ogmaciel.com/castalio-podcast-38.ogg">Ogg</a>
+* <a href="http://downloads.ogmaciel.com/castalio-podcast-38.m4a">M4A</a></p>
+<ul>
+<li><strong>Blog</strong>:  <a href="http://blog.feliperibeiro.com/">http://blog.feliperibeiro.com/</a> e
+     <a href="http://old.feliperibeiro.com/">http://old.feliperibeiro.com/</a></li>
+<li><strong>Twitter</strong>:  <a href="https://twitter.com/#!/felipernb">https://twitter.com/#!/felipernb</a></li>
+<li><strong>Facebook</strong>:  <a href="https://www.facebook.com/felipernb">https://www.facebook.com/felipernb</a></li>
+<li><strong>Google+</strong>:  <a href="https://plus.google.com/115362068810405278627/posts">https://plus.google.com/115362068810405278627/posts</a></li>
+<li><strong>Linkedin</strong>:  <a href="http://www.linkedin.com/in/felipernb">http://www.linkedin.com/in/felipernb</a></li>
+<li><strong>Last.fm</strong>:  <a href="http://www.last.fm/user/felipernb">http://www.last.fm/user/felipernb</a></li>
+</ul>
+<p><strong>Resumo:</strong></p>
+<ul>
+<li><strong>Apresentação</strong> 01:37</li>
+<li><strong>Spotify</strong> 02:56</li>
+<li><strong>Parando na Suécia</strong> 04:20</li>
+<li><strong>Trabalhando na Espanha</strong> 05:20</li>
+<li><strong>Conexão faculdade e trabalho</strong> 07:05</li>
+<li><strong>O que você faz na Spotify?</strong> 09:00</li>
+<li><strong>América do sul no roadmap</strong> 11:15</li>
+<li><strong>Spotify x Youtube</strong> 13:30</li>
+<li><strong>Suporte para Linux</strong> 15:07</li>
+<li><strong>Vivendo fora do Brasil</strong> 16:05</li>
+<li><strong>Happy hour no trabalho e inovações</strong> 21:35</li>
+<li><strong>Top 5</strong> 23:27</li>
+<li><strong>Perks</strong> 30:12</li>
+<li><strong>Conclusão</strong> 32:22</li>
+</ul>
+<p><strong>Top 5:</strong></p>
+<ul>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Pearl+Jam">Pearl Jam</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Wolfmother">Wolfmother</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=AC/DC">AC/DC</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Creedence+Clearwater+Revival">Creedence Clearwater
+    Revival</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Explosions+in+the+Sky">Explosions in the
+    Sky</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=Forrest+Gump">Forrest
+    Gump</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=Back+to+the+future">Back to the
+    future</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=Inception">Inception</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=The+Big+Lebowski">The Big
+    Lebowski</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=The+Good,+the+Bad+and+the+Ugly">The Good, the Bad and the
+    Ugly</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Programming+pearls">Programming
+    pearls</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=The+algorithm+design+manual">The algorithm design
+    manual</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Being+Geek">Being
+    Geek</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=The+Hichhiker's+guide+to+the+galaxy">The Hichhiker's guide to the
+    galaxy</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Starman:+Truth+Behind+the+Legend+of+Yuri+Gagarin">Starman: Truth Behind the Legend of Yuri
+    Gagarin</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Ensaio+sobre+a+cegueira">Ensaio sobre a
+    cegueira</a></li>
+</ul>
+<p><strong>Links:</strong></p>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Flávio+Ribeiro">Flávio Ribeiro</a></li>
+<li><a href="https://duckduckgo.com/?q=Spotify">Spotify</a></li>
+<li><a href="https://duckduckgo.com/?q=Tuenti">Tuenti</a></li>
+<li><a href="https://duckduckgo.com/?q=PHP">PHP</a></li>
+<li><a href="https://duckduckgo.com/?q=Java+Script">Java Script</a></li>
+<li><a href="https://duckduckgo.com/?q=MySQL">MySQL</a></li>
+<li><a href="https://duckduckgo.com/?q=Memcache">Memcache</a></li>
+<li><a href="https://duckduckgo.com/?q=FISL">FISL</a></li>
+<li><a href="https://duckduckgo.com/?q=PHP+Conference">PHP Conference</a></li>
+<li><a href="https://duckduckgo.com/?q=Linkedin">Linkedin</a></li>
+<li><a href="https://duckduckgo.com/?q=Caike+Souza">Caike Souza</a></li>
+<li><a href="https://duckduckgo.com/?q=Facebook">Facebook</a></li>
+<li><a href="https://duckduckgo.com/?q=Youtube">Youtube</a></li>
+<li><a href="https://duckduckgo.com/?q=Rdio">Rdio</a></li>
+<li><a href="https://duckduckgo.com/?q=Pandora">Pandora</a></li>
+<li><a href="https://duckduckgo.com/?q=Groove+Shark">Groove Shark</a></li>
+<li><a href="https://duckduckgo.com/?q=Will+Farrel">Will Farrel</a></li>
+</ul>
+<p><strong>*Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+            </div>
+            <!-- /.entry-content -->
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'felipe-ribeiro-spotify';
+                var disqus_url = 'https://castaliopodcast.github.io/felipe-ribeiro-spotify.html';
+
+            var disqus_config = function () {
+                this.language = "pt";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://twitter.com/castaliopod"><i class="fa fa-@castaliopod-square fa-lg"></i> @castaliopod</a></li>
+              </ul>
+            </li>
+
+
+
+            <li class="list-group-item"><a href="https://castaliopodcast.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/github.html">
+                            Github
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/python.html">
+                            python
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">
+                            Ubuntu Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/gnome.html">
+                            GNOME
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/netflix.html">
+                            Netflix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/wordpress.html">
+                            WordPress
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/slackware-linux.html">
+                            Slackware Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/debian-linux.html">
+                            Debian Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/c.html">
+                            C++
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/canonical.html">
+                            Canonical
+                        </a>
+                    </li>
+                </ul>
+            </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 Og Maciel & Eliézer Rezende
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://castaliopodcast.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castaliopodcast.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castaliopodcast.github.io/theme/js/respond.min.js"></script>
+
+    <script src="https://castaliopodcast.github.io/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+
+</body>
+</html>

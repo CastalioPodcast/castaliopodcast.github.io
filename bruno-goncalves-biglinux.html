@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="pt"
+>
+<head>
+    <title>Bruno Gonçalves: BigLinux - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="https://castaliopodcast.github.io/bruno-goncalves-biglinux.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="BigBashView,BigLinux,BR-Linux,Bruno Gonçalves,Canonical,Carlos Morimoto,Chapolin,Chavez,Chuck Berry,Compiz,Conectiva Linux,Debian Linux,DistroWatch,Elvis Presley,Fórum BigLinux,Fórum Hard Science,Fórum Outer Space,Fórum Ubuntu BR,Fluxbox,Forum nix,Frejat,Gimp,GNOME,Gnumeric,IceWM,ICQ,Ivan Brasil Fuzzer,Kalango Linux,KDE,Kurumin Linux,Mark Shuttleworth,Metisse,Mint Linux,NVIDIA,O Grande Dragão Branco,OpenCast,OpenOffice,openSuse Linux,Planet Hemp,Planet KDE,python,QT Webkit,Raul Seixas,Red Hat,Rocky,Scarface,Ubuntu Linux,Ultrage a Rigor,União Livre,Vladimir Melo" />
+        <meta name="description" content="Na semana passada eu tive o grande prazer e honra de participar do Opencast em um episódio onde discutimos várias coisas relacionadas à distribuições Linux! Por coincidência, meu amigo Vladimir Melo tinha me recomendando entrevistar uma pessoa que por muito tempo tinha criado e mantido uma distribuição nacional, e recentemente ..." />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Bruno Gonçalves: BigLinux"/>
+        <meta property="og:url" content="https://castaliopodcast.github.io/bruno-goncalves-biglinux.html"/>
+        <meta property="og:description" content="Na semana passada eu tive o grande prazer e honra de participar do Opencast em um episódio onde discutimos várias coisas relacionadas à distribuições Linux! Por coincidência, meu amigo Vladimir Melo tinha me recomendando entrevistar uma pessoa que por muito tempo tinha criado e mantido uma distribuição nacional, e recentemente ..."/>
+        <meta property="article:published_time" content="2012-09-03" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="BigBashView" />
+            <meta property="article:tag" content="BigLinux" />
+            <meta property="article:tag" content="BR-Linux" />
+            <meta property="article:tag" content="Bruno Gonçalves" />
+            <meta property="article:tag" content="Canonical" />
+            <meta property="article:tag" content="Carlos Morimoto" />
+            <meta property="article:tag" content="Chapolin" />
+            <meta property="article:tag" content="Chavez" />
+            <meta property="article:tag" content="Chuck Berry" />
+            <meta property="article:tag" content="Compiz" />
+            <meta property="article:tag" content="Conectiva Linux" />
+            <meta property="article:tag" content="Debian Linux" />
+            <meta property="article:tag" content="DistroWatch" />
+            <meta property="article:tag" content="Elvis Presley" />
+            <meta property="article:tag" content="Fórum BigLinux" />
+            <meta property="article:tag" content="Fórum Hard Science" />
+            <meta property="article:tag" content="Fórum Outer Space" />
+            <meta property="article:tag" content="Fórum Ubuntu BR" />
+            <meta property="article:tag" content="Fluxbox" />
+            <meta property="article:tag" content="Forum nix" />
+            <meta property="article:tag" content="Frejat" />
+            <meta property="article:tag" content="Gimp" />
+            <meta property="article:tag" content="GNOME" />
+            <meta property="article:tag" content="Gnumeric" />
+            <meta property="article:tag" content="IceWM" />
+            <meta property="article:tag" content="ICQ" />
+            <meta property="article:tag" content="Ivan Brasil Fuzzer" />
+            <meta property="article:tag" content="Kalango Linux" />
+            <meta property="article:tag" content="KDE" />
+            <meta property="article:tag" content="Kurumin Linux" />
+            <meta property="article:tag" content="Mark Shuttleworth" />
+            <meta property="article:tag" content="Metisse" />
+            <meta property="article:tag" content="Mint Linux" />
+            <meta property="article:tag" content="NVIDIA" />
+            <meta property="article:tag" content="O Grande Dragão Branco" />
+            <meta property="article:tag" content="OpenCast" />
+            <meta property="article:tag" content="OpenOffice" />
+            <meta property="article:tag" content="openSuse Linux" />
+            <meta property="article:tag" content="Planet Hemp" />
+            <meta property="article:tag" content="Planet KDE" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="QT Webkit" />
+            <meta property="article:tag" content="Raul Seixas" />
+            <meta property="article:tag" content="Red Hat" />
+            <meta property="article:tag" content="Rocky" />
+            <meta property="article:tag" content="Scarface" />
+            <meta property="article:tag" content="Ubuntu Linux" />
+            <meta property="article:tag" content="Ultrage a Rigor" />
+            <meta property="article:tag" content="União Livre" />
+            <meta property="article:tag" content="Vladimir Melo" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castaliopodcast.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castaliopodcast.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castaliopodcast.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castaliopodcast.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castaliopodcast.github.io/" class="navbar-brand">
+Castálio Podcast            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="https://castaliopodcast.github.io/pages/sobre.html">
+                             Sobre
+                          </a></li>
+                        <li >
+                            <a href="https://castaliopodcast.github.io/category/noticia.html">Notícia</a>
+                        </li>
+                        <li class="active">
+                            <a href="https://castaliopodcast.github.io/category/podcast.html">Podcast</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://castaliopodcast.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="https://castaliopodcast.github.io/bruno-goncalves-biglinux.html"
+                       rel="bookmark"
+                       title="Permalink to Bruno Gonçalves: BigLinux">
+                        Bruno Gonçalves: BigLinux
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-09-03T16:42:00-04:00"> Mon 03 September 2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="https://castaliopodcast.github.io/tag/bigbashview.html">BigBashView</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/biglinux.html">BigLinux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/br-linux.html">BR-Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/bruno-goncalves.html">Bruno Gonçalves</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/canonical.html">Canonical</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/carlos-morimoto.html">Carlos Morimoto</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/chapolin.html">Chapolin</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/chavez.html">Chavez</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/chuck-berry.html">Chuck Berry</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/compiz.html">Compiz</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/conectiva-linux.html">Conectiva Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/debian-linux.html">Debian Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/distrowatch.html">DistroWatch</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/elvis-presley.html">Elvis Presley</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/forum-biglinux.html">Fórum BigLinux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/forum-hard-science.html">Fórum Hard Science</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/forum-outer-space.html">Fórum Outer Space</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/forum-ubuntu-br.html">Fórum Ubuntu BR</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/fluxbox.html">Fluxbox</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/forum-nix.html">Forum nix</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/frejat.html">Frejat</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/gimp.html">Gimp</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/gnome.html">GNOME</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/gnumeric.html">Gnumeric</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/icewm.html">IceWM</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/icq.html">ICQ</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/ivan-brasil-fuzzer.html">Ivan Brasil Fuzzer</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/kalango-linux.html">Kalango Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/kde.html">KDE</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/kurumin-linux.html">Kurumin Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/mark-shuttleworth.html">Mark Shuttleworth</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/metisse.html">Metisse</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/mint-linux.html">Mint Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/nvidia.html">NVIDIA</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/o-grande-dragao-branco.html">O Grande Dragão Branco</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/opencast.html">OpenCast</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/openoffice.html">OpenOffice</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/opensuse-linux.html">openSuse Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/planet-hemp.html">Planet Hemp</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/planet-kde.html">Planet KDE</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/python.html">python</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/qt-webkit.html">QT Webkit</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/raul-seixas.html">Raul Seixas</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/red-hat.html">Red Hat</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/rocky.html">Rocky</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/scarface.html">Scarface</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">Ubuntu Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/ultrage-a-rigor.html">Ultrage a Rigor</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/uniao-livre.html">União Livre</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/vladimir-melo.html">Vladimir Melo</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p><img alt="Bruno Gonçalves: BigLinux" src="https://castaliopodcast.github.io/images/brunogoncalves.jpg" /></p>
+<p>Na semana passada eu tive o grande prazer e honra de participar do
+<a href="http://www.ubuntero.com.br/" title="http://www.ubuntero.com.br/">Opencast</a> em
+um
+<a href="http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/" title="http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/">episódio</a>
+onde discutimos várias coisas relacionadas à distribuições Linux! Por
+coincidência, meu amigo <strong>Vladimir Melo</strong> tinha me recomendando
+entrevistar uma pessoa que por muito tempo tinha criado e mantido uma
+distribuição nacional, e recentemente decidiu parar o projeto!</p>
+<p>Neste último episódio então tive o grande prazer de conversar com o
+<strong>Bruno Gonçalves</strong>, criador e mantenedor do
+<a href="http://www.biglinux.com.br/web/" title="http://www.biglinux.com.br/web/">BigLinux</a>!
+Até este nosso bate-papo eu confesso que não conhecia este projeto, o
+que é realmente uma pena. O BigLinux nasceu de uma "remasterização" do
+<a href="http://www.hardware.com.br/kurumin/" title="http://www.hardware.com.br/kurumin/">Kurumin
+Linux</a>
+e em pouquíssimo tempo fez bastante barulho ao adicionar vários recursos
+super avançados para a sua época! O número de recursos e tecnologias
+utilizados pelo Bruno é realmente impressionante e quando terminamos
+nossa entrevista eu fiquei literalmente fã número 1 dele! :)</p>
+<p>Durante nosso bate-papo ele conta todos os detalhes de como que o
+projeto nasceu, quais foram os obstáculos que enfrentou, e quais foram
+os motivos que o levou a parar o projeto. Também falamos sobre
+<strong>BigBashView</strong>, seu novo projeto <a href="http://uniaolivre.com/" title="http://uniaolivre.com/">União
+Livre</a>, que na minha
+opinião promete muito, e um <strong>livro</strong> que esta escrevendo em parceria
+com um amigo, chamado "<strong>Linux: Simplicidade ao seu Alcance</strong>"!</p>
+<p>Quem quizer experimentar o BigLinux, dê uma olhadinha no seguinte
+<a href="http://www.las.ic.unicamp.br/pub/biglinux/" title="http://www.las.ic.unicamp.br/pub/biglinux/">link</a>
+para algumas imagens ISO e se você quizer aprender mais sobre o
+<a href="http://code.google.com/p/bigbashview/" title="http://code.google.com/p/bigbashview/">BigBashLinux</a>,
+olhem este link
+<a href="http://biglinux.com.br/forum/viewforum.php?f=62" title="http://biglinux.com.br/forum/viewforum.php?f=62">aqui</a>!</p>
+<p>Ah e não se esqueca de assistir o
+<a href="http://www.youtube.com/watch?v=lpDNGGOw_tY&amp;feature=g-all-u" title="http://www.youtube.com/watch?v=lpDNGGOw_tY&amp;feature=g-all-u">vídeo</a>
+da entrevista!</p>
+<p>Escute agora:
+<em> <a href="http://downloads.ogmaciel.com/castalio-podcast-44.mp3">MP3</a>
+</em> <a href="http://downloads.ogmaciel.com/castalio-podcast-44.ogg">Ogg</a>
+* <a href="http://downloads.ogmaciel.com/castalio-podcast-44.m4a">M4A</a></p>
+<ul>
+<li><strong>Web site</strong>:  <a href="http://www.biglinux.com.br/web/">http://www.biglinux.com.br/web/</a></li>
+<li><strong>Web site</strong>:  <a href="http://uniaolivre.com/">http://uniaolivre.com/</a></li>
+<li><strong>Twitter</strong>:  <a href="https://twitter.com/biglinux">https://twitter.com/biglinux</a></li>
+<li><strong>Facebook</strong>:  <a href="https://www.facebook.com/biglinux">https://www.facebook.com/biglinux</a></li>
+<li><strong>Google Plus</strong>:
+     <a href="https://plus.google.com/115814533855252983527/about">https://plus.google.com/115814533855252983527/about</a></li>
+</ul>
+<p><strong>Resumo:</strong></p>
+<ul>
+<li><strong>Apresentação</strong> 01:05</li>
+<li><strong>Sobre o Big Linux</strong> 02:00</li>
+<li><strong>O começo</strong> 03:50</li>
+<li><strong>Avançado para sua época</strong> 07:00</li>
+<li><strong>Um pouco de background</strong> 09:30</li>
+<li><strong>Primeiras versões</strong> 11:00</li>
+<li><strong>BigBashView</strong> 14:00</li>
+<li><strong>Obstáculos e progressos</strong> 15:26</li>
+<li><strong>Parando o projeto</strong> 22:00</li>
+<li><strong>União Livre</strong> 27:00</li>
+<li><strong>Planos futuros</strong> 31:00</li>
+<li><strong>Top 5</strong> 38:50</li>
+<li><strong>Conclusão</strong> 41:00</li>
+</ul>
+<p><strong>Top 5:</strong></p>
+<ul>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Raul+Seixas">Raul Seixas</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Ultrage+a+Rigor">Ultrage a
+    Rigor</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Chuck+Berry">Chuck Berry</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Elvis+Presley">Elvis
+    Presley</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Planet+Hemp">Planet Hemp</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Frejat">Frejat</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=Rocky">Rocky</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=Scarface">Scarface</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=Chavez">Chavez</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=Chapolin">Chapolin</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=O+Grande+Dragão+Branco">O Grande Dragão
+    Branco</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Fórum+BigLinux">Fórum
+    BigLinux</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Fórum+Ubuntu+BR">Fórum Ubuntu
+    BR</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Fórum+Outer+Space">Fórum Outer
+    Space</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Fórum+Hard+Science">Fórum Hard
+    Science</a></li>
+<li><strong>Livros:</strong>
+    <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=BR-Linux">BR-Linux</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Forum+nix">Forum
+    nix</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Planet+KDE">Planet
+    KDE</a></li>
+</ul>
+<p><strong>Links:</strong></p>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Vladimir+Melo">Vladimir Melo</a></li>
+<li><a href="https://duckduckgo.com/?q=BigLinux">BigLinux</a></li>
+<li><a href="https://duckduckgo.com/?q=Bruno+Gonçalves">Bruno Gonçalves</a></li>
+<li><a href="https://duckduckgo.com/?q=Kurumin+Linux">Kurumin Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=OpenOffice">OpenOffice</a></li>
+<li><a href="https://duckduckgo.com/?q=Gimp">Gimp</a></li>
+<li><a href="https://duckduckgo.com/?q=ICQ">ICQ</a></li>
+<li><a href="https://duckduckgo.com/?q=Kalango+Linux">Kalango Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Debian+Linux">Debian Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=KDE">KDE</a></li>
+<li><a href="https://duckduckgo.com/?q=GNOME">GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=Metisse">Metisse</a></li>
+<li><a href="https://duckduckgo.com/?q=Fluxbox">Fluxbox</a></li>
+<li><a href="https://duckduckgo.com/?q=Mark+Shuttleworth">Mark Shuttleworth</a></li>
+<li><a href="https://duckduckgo.com/?q=Compiz">Compiz</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+Linux">Ubuntu Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Carlos+Morimoto">Carlos Morimoto</a></li>
+<li><a href="https://duckduckgo.com/?q=IceWM">IceWM</a></li>
+<li><a href="https://duckduckgo.com/?q=Gnumeric">Gnumeric</a></li>
+<li><a href="https://duckduckgo.com/?q=Python">Python</a></li>
+<li><a href="https://duckduckgo.com/?q=BigBashView">BigBashView</a></li>
+<li><a href="https://duckduckgo.com/?q=QT+Webkit">QT Webkit</a></li>
+<li><a href="https://duckduckgo.com/?q=NVIDIA">NVIDIA</a></li>
+<li><a href="https://duckduckgo.com/?q=OpenCast">OpenCast</a></li>
+<li><a href="https://duckduckgo.com/?q=DistroWatch">DistroWatch</a></li>
+<li><a href="https://duckduckgo.com/?q=BR-Linux">BR-Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Conectiva+Linux">Conectiva Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=União+Livre">União Livre</a></li>
+<li><a href="https://duckduckgo.com/?q=OpenSUSE+Linux">OpenSUSE Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Red+Hat">Red Hat</a></li>
+<li><a href="https://duckduckgo.com/?q=Canonical">Canonical</a></li>
+<li><a href="https://duckduckgo.com/?q=Mint+Linux">Mint Linux</a></li>
+</ul>
+<p><strong>*Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+            </div>
+            <!-- /.entry-content -->
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'bruno-goncalves-biglinux';
+                var disqus_url = 'https://castaliopodcast.github.io/bruno-goncalves-biglinux.html';
+
+            var disqus_config = function () {
+                this.language = "pt";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://twitter.com/castaliopod"><i class="fa fa-@castaliopod-square fa-lg"></i> @castaliopod</a></li>
+              </ul>
+            </li>
+
+
+
+            <li class="list-group-item"><a href="https://castaliopodcast.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/github.html">
+                            Github
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/python.html">
+                            python
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">
+                            Ubuntu Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/gnome.html">
+                            GNOME
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/netflix.html">
+                            Netflix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/wordpress.html">
+                            WordPress
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/slackware-linux.html">
+                            Slackware Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/debian-linux.html">
+                            Debian Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/c.html">
+                            C++
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/canonical.html">
+                            Canonical
+                        </a>
+                    </li>
+                </ul>
+            </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 Og Maciel & Eliézer Rezende
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://castaliopodcast.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castaliopodcast.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castaliopodcast.github.io/theme/js/respond.min.js"></script>
+
+    <script src="https://castaliopodcast.github.io/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+
+</body>
+</html>

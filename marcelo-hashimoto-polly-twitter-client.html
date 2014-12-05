@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="pt"
+>
+<head>
+    <title>Marcelo Hashimoto: Polly Twitter Client - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="https://castaliopodcast.github.io/marcelo-hashimoto-polly-twitter-client.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="A Revolução dos Bichos,Annihilator,Augusto dos Anjos,BillReminder,C++,Carlos Drummond de Andrade,Debian Linux,Facebook,Foresight Linux,GNOME HIG,Google Plus,Gtk,Gtk3,Gwibber,Halloween,Hotot,Identi.ca,Launchpad,libcv,Linguagem Python,Linux,Livraria Cultura,Marcelo Hashimoto,Megadeath,Metallica,Monty Python,O Parque dos Dinossáuros,OMG Ubuntu,OpenCV,Os Miseráveis,Penny Arcade,Pinot,Piratas do Caribe,Polly,Polly Twitter Client,python,Python Socks,Savatage,schizobird,Twitter,Ubuntero BR,Ubuntu Dicas,Ubuntu Linux,Victor Hugo,Visão Computacional,William Blake" />
+        <meta name="description" content="Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano! O convidado de hoje é o Marcelo Hashimoto, desenvolvedor do cliente de Twitter chamado Polly! Se você curte programar com Gtk e Python, ou tem interesse em conhecer um aplicativo específico para o seu sistem Linux para ..." />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Marcelo Hashimoto: Polly Twitter Client"/>
+        <meta property="og:url" content="https://castaliopodcast.github.io/marcelo-hashimoto-polly-twitter-client.html"/>
+        <meta property="og:description" content="Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano! O convidado de hoje é o Marcelo Hashimoto, desenvolvedor do cliente de Twitter chamado Polly! Se você curte programar com Gtk e Python, ou tem interesse em conhecer um aplicativo específico para o seu sistem Linux para ..."/>
+        <meta property="article:published_time" content="2012-01-22" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="A Revolução dos Bichos" />
+            <meta property="article:tag" content="Annihilator" />
+            <meta property="article:tag" content="Augusto dos Anjos" />
+            <meta property="article:tag" content="BillReminder" />
+            <meta property="article:tag" content="C++" />
+            <meta property="article:tag" content="Carlos Drummond de Andrade" />
+            <meta property="article:tag" content="Debian Linux" />
+            <meta property="article:tag" content="Facebook" />
+            <meta property="article:tag" content="Foresight Linux" />
+            <meta property="article:tag" content="GNOME HIG" />
+            <meta property="article:tag" content="Google Plus" />
+            <meta property="article:tag" content="Gtk" />
+            <meta property="article:tag" content="Gtk3" />
+            <meta property="article:tag" content="Gwibber" />
+            <meta property="article:tag" content="Halloween" />
+            <meta property="article:tag" content="Hotot" />
+            <meta property="article:tag" content="Identi.ca" />
+            <meta property="article:tag" content="Launchpad" />
+            <meta property="article:tag" content="libcv" />
+            <meta property="article:tag" content="Linguagem Python" />
+            <meta property="article:tag" content="Linux" />
+            <meta property="article:tag" content="Livraria Cultura" />
+            <meta property="article:tag" content="Marcelo Hashimoto" />
+            <meta property="article:tag" content="Megadeath" />
+            <meta property="article:tag" content="Metallica" />
+            <meta property="article:tag" content="Monty Python" />
+            <meta property="article:tag" content="O Parque dos Dinossáuros" />
+            <meta property="article:tag" content="OMG Ubuntu" />
+            <meta property="article:tag" content="OpenCV" />
+            <meta property="article:tag" content="Os Miseráveis" />
+            <meta property="article:tag" content="Penny Arcade" />
+            <meta property="article:tag" content="Pinot" />
+            <meta property="article:tag" content="Piratas do Caribe" />
+            <meta property="article:tag" content="Polly" />
+            <meta property="article:tag" content="Polly Twitter Client" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="Python Socks" />
+            <meta property="article:tag" content="Savatage" />
+            <meta property="article:tag" content="schizobird" />
+            <meta property="article:tag" content="Twitter" />
+            <meta property="article:tag" content="Ubuntero BR" />
+            <meta property="article:tag" content="Ubuntu Dicas" />
+            <meta property="article:tag" content="Ubuntu Linux" />
+            <meta property="article:tag" content="Victor Hugo" />
+            <meta property="article:tag" content="Visão Computacional" />
+            <meta property="article:tag" content="William Blake" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castaliopodcast.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castaliopodcast.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castaliopodcast.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castaliopodcast.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castaliopodcast.github.io/" class="navbar-brand">
+Castálio Podcast            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="https://castaliopodcast.github.io/pages/sobre.html">
+                             Sobre
+                          </a></li>
+                        <li >
+                            <a href="https://castaliopodcast.github.io/category/noticia.html">Notícia</a>
+                        </li>
+                        <li class="active">
+                            <a href="https://castaliopodcast.github.io/category/podcast.html">Podcast</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://castaliopodcast.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="https://castaliopodcast.github.io/marcelo-hashimoto-polly-twitter-client.html"
+                       rel="bookmark"
+                       title="Permalink to Marcelo Hashimoto: Polly Twitter Client">
+                        Marcelo Hashimoto: Polly Twitter Client
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-01-22T17:53:00-05:00"> Sun 22 January 2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="https://castaliopodcast.github.io/tag/a-revolucao-dos-bichos.html">A Revolução dos Bichos</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/annihilator.html">Annihilator</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/augusto-dos-anjos.html">Augusto dos Anjos</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/billreminder.html">BillReminder</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/c.html">C++</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/carlos-drummond-de-andrade.html">Carlos Drummond de Andrade</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/debian-linux.html">Debian Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/facebook.html">Facebook</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/foresight-linux.html">Foresight Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/gnome-hig.html">GNOME HIG</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/google-plus.html">Google Plus</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/gtk.html">Gtk</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/gtk3.html">Gtk3</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/gwibber.html">Gwibber</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/halloween.html">Halloween</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/hotot.html">Hotot</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/identica.html">Identi.ca</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/launchpad.html">Launchpad</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/libcv.html">libcv</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/linguagem-python.html">Linguagem Python</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/linux.html">Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/livraria-cultura.html">Livraria Cultura</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/marcelo-hashimoto.html">Marcelo Hashimoto</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/megadeath.html">Megadeath</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/metallica.html">Metallica</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/monty-python.html">Monty Python</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/o-parque-dos-dinossauros.html">O Parque dos Dinossáuros</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/omg-ubuntu.html">OMG Ubuntu</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/opencv.html">OpenCV</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/os-miseraveis.html">Os Miseráveis</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/penny-arcade.html">Penny Arcade</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/pinot.html">Pinot</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/piratas-do-caribe.html">Piratas do Caribe</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/polly.html">Polly</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/polly-twitter-client.html">Polly Twitter Client</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/python.html">python</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/python-socks.html">Python Socks</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/savatage.html">Savatage</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/schizobird.html">schizobird</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/twitter.html">Twitter</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/ubuntero-br.html">Ubuntero BR</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/ubuntu-dicas.html">Ubuntu Dicas</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">Ubuntu Linux</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/victor-hugo.html">Victor Hugo</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/visao-computacional.html">Visão Computacional</a>
+        /
+	<a href="https://castaliopodcast.github.io/tag/william-blake.html">William Blake</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p><img alt="Marcelo Hashimoto" src="https://castaliopodcast.github.io/images/marcelohashimoto.jpg" /></p>
+<p>Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste
+ano! O convidado de hoje é o <strong>Marcelo Hashimoto</strong>, desenvolvedor do
+cliente de <strong>Twitter</strong> chamado <strong>Polly</strong>! Se você curte programar com
+<strong>Gtk</strong> e <strong>Python</strong>, ou tem interesse em conhecer um aplicativo
+específico para o seu sistem <strong>Linux</strong> para acessar o Twitter, então dê
+uma olhadinho no programa do Marcelo. Ultimamente o Polly tem atraído
+bastante atenção, especialmente depois de ter saído em sites como o
+<a href="http://www.omgubuntu.co.uk/" title="http://www.omgubuntu.co.uk/">OMG!
+Ubuntu</a>,
+<a href="http://www.ubuntudicas.com.br/blog/" title="http://www.ubuntudicas.com.br/blog/">Ubuntu
+Dicas</a>
+e <a href="http://www.ubuntero.com.br/" title="http://www.ubuntero.com.br/">Ubuntero
+Brasil</a>!<br />
+Durante nosso bate-papo, o Marcelo conta porque decidiu criar "mais um
+cliente para o Twitter", o que faz ele destacar dos outros, a história
+do nome do projeto (você sabia que o nome original do projeto era
+<strong>schizobird</strong>?), como lidar com usuários nos forums de pergunta, sobre
+seu doutorado, e o seu Top 5!</p>
+<p>Escute agora:</p>
+<ul>
+<li><a href="http://downloads.ogmaciel.com/castalio-podcast-28.mp3">MP3</a></li>
+<li>
+<p><a href="http://downloads.ogmaciel.com/castalio-podcast-28.ogg">Ogg</a></p>
+</li>
+<li>
+<p><strong>Blog</strong>:  <a href="http://consciouslyusing.blogspot.com/">http://consciouslyusing.blogspot.com/</a></p>
+</li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/#!/conscioususer">https://twitter.com/#!/conscioususer</a></li>
+<li><strong>Launchpad</strong>:  <a href="https://launchpad.net/~conscioususer">https://launchpad.net/~conscioususer</a></li>
+<li><strong>Projeto Polly Twitter Client</strong>:  <a href="https://launchpad.net/polly">https://launchpad.net/polly</a></li>
+</ul>
+<p><strong>Resumo:</strong></p>
+<ul>
+<li><strong>Apresentação</strong> 01:15</li>
+<li><strong>Por que mais um cliente de Twitter?</strong> 02:15</li>
+<li><strong>Observações</strong> 07:00</li>
+<li><strong>Qual o seu background?</strong> 08:37</li>
+<li><strong>Um pouco mais sobre o Polly</strong> 11:00</li>
+<li><strong>O que esperar da próxima versão</strong> 14:32</li>
+<li><strong>Quem são os usuários</strong> 15:57</li>
+<li><strong>A origem do nome Polly</strong> 17:42</li>
+<li><strong>Para brincar com o Polly</strong> 22:35</li>
+<li><strong>A história do nome Conscious User</strong> 24:00</li>
+<li><strong>Doutorado</strong> 27:26</li>
+<li><strong>Top 5</strong> 28:35</li>
+<li><strong>Onde aprendeu inglês</strong> 32:28</li>
+<li><strong>Conclusão</strong> 33:32</li>
+</ul>
+<p><strong>Top 5:</strong></p>
+<ul>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Halloween">Halloween</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Savatage">Savatage</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Metallica">Metallica</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Megadeath">Megadeath</a></li>
+<li><strong>Música:</strong> <a href="http://www.last.fm/search?q=Annihilator">Annihilator</a></li>
+<li><strong>Filmes:</strong> <a href="http://www.imdb.com/find?s=all&amp;q=Piratas+do+Caribe">Piratas do
+    Caribe</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Victor+Hugo">Victor
+    Hugo</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Os+Miseráveis">Os
+    Miseráveis</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=A+Revolução+dos+Bichos">A Revolução dos
+    Bichos</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=O+Parque+dos+Dinossáuros">O Parque dos
+    Dinossáuros</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Augusto+dos+Anjos">Augusto dos
+    Anjos</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Carlos+Drummond+de+Andrade">Carlos Drummond de
+    Andrade</a></li>
+<li><strong>Livros:</strong> <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=William+Blake">William
+    Blake</a></li>
+<li><strong>Livros:</strong>
+    <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Baudelaire">Baudelaire</a></li>
+</ul>
+<p><strong>Links:</strong></p>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Polly+Twitter+Client">Polly Twitter
+    Client</a></li>
+<li><a href="https://duckduckgo.com/?q=Twitter">Twitter</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+Linux">Ubuntu Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Gwibber">Gwibber</a></li>
+<li><a href="https://duckduckgo.com/?q=Facebook">Facebook</a></li>
+<li><a href="https://duckduckgo.com/?q=Identi.ca">Identi.ca</a></li>
+<li><a href="https://duckduckgo.com/?q=Google+Plus">Google Plus</a></li>
+<li><a href="https://duckduckgo.com/?q=Pinot">Pinot</a></li>
+<li><a href="https://duckduckgo.com/?q=Hotot">Hotot</a></li>
+<li><a href="https://duckduckgo.com/?q=GNOME+HIG">GNOME HIG</a></li>
+<li><a href="https://duckduckgo.com/?q=Linguagem+Python">Linguagem Python</a></li>
+<li><a href="https://duckduckgo.com/?q=Gtk">Gtk</a></li>
+<li><a href="https://duckduckgo.com/?q=Foresight+Linux">Foresight Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Gtk3">Gtk3</a></li>
+<li><a href="https://duckduckgo.com/?q=OMG+Ubuntu">OMG Ubuntu</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+Dicas">Ubuntu Dicas</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntero+BR">Ubuntero BR</a></li>
+<li><a href="https://duckduckgo.com/?q=BillReminder">BillReminder</a></li>
+<li><a href="https://duckduckgo.com/?q=Debian+Linux">Debian Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Monty+Python">Monty Python</a></li>
+<li><a href="https://duckduckgo.com/?q=Python+Socks">Python Socks</a></li>
+<li><a href="https://duckduckgo.com/?q=Launchpad">Launchpad</a></li>
+<li><a href="https://duckduckgo.com/?q=Penny+Arcade">Penny Arcade</a></li>
+<li><a href="https://duckduckgo.com/?q=Visão+Computacional">Visão Computacional</a></li>
+<li><a href="https://duckduckgo.com/?q=C++">C++</a></li>
+<li><a href="https://duckduckgo.com/?q=OpenCV">OpenCV</a></li>
+<li><a href="https://duckduckgo.com/?q=libcv">libcv</a></li>
+<li><a href="https://duckduckgo.com/?q=Livraria+Cultura">Livraria Cultura</a></li>
+<li><a href="http://www.omgubuntu.co.uk/2011/07/scizobird-seeking/" title="http://www.omgubuntu.co.uk/2011/07/scizobird-seeking/">Enquete para o novo nome do
+    aplicativo</a></li>
+<li>
+<p><a href="http://www.myspace.com/video/vid/1390811" title="http://www.myspace.com/video/vid/1390811">Monty Python: Polly o
+    papagaio</a></p>
+<p><em>* <strong>Música</strong>: <a href="http://soundcloud.com/clebertsuconic/sunday-night-lerning" title="http://soundcloud.com/clebertsuconic/sunday-night-lerning">Sunday Night
+Learning</a>
+por <a href="http://soundcloud.com/clebertsuconic" title="http://soundcloud.com/clebertsuconic">Clebert
+Suconic</a>.</em></p>
+</li>
+</ul>
+            </div>
+            <!-- /.entry-content -->
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'marcelo-hashimoto-polly-twitter-client';
+                var disqus_url = 'https://castaliopodcast.github.io/marcelo-hashimoto-polly-twitter-client.html';
+
+            var disqus_config = function () {
+                this.language = "pt";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://twitter.com/castaliopod"><i class="fa fa-@castaliopod-square fa-lg"></i> @castaliopod</a></li>
+              </ul>
+            </li>
+
+
+
+            <li class="list-group-item"><a href="https://castaliopodcast.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/github.html">
+                            Github
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/python.html">
+                            python
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">
+                            Ubuntu Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/gnome.html">
+                            GNOME
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/netflix.html">
+                            Netflix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/wordpress.html">
+                            WordPress
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/slackware-linux.html">
+                            Slackware Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/debian-linux.html">
+                            Debian Linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/c.html">
+                            C++
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="https://castaliopodcast.github.io/tag/canonical.html">
+                            Canonical
+                        </a>
+                    </li>
+                </ul>
+            </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 Og Maciel & Eliézer Rezende
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://castaliopodcast.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castaliopodcast.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castaliopodcast.github.io/theme/js/respond.min.js"></script>
+
+    <script src="https://castaliopodcast.github.io/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+
+</body>
+</html>
