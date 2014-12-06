@@ -11,6 +11,8 @@ PATH = 'content'
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'pt'
+LANG = u'pt_BR.UTF-8'
+CC_LICENSE = u'CC-BY-NC-SA'
 
 TAG_CLOUD_STEPS = 8
 TAG_CLOUD_MAX_ITEMS = 10
@@ -33,7 +35,14 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-STATIC_PATHS = ['images', 'pages']
+STATIC_PATHS = [
+    'extra',
+    'images',
+    'pages',
+]
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+}
 
 THEME = './themes/pelican-bootstrap3'
 PLUGIN_PATHS = ['./plugins', ]
@@ -56,10 +65,14 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
 # Disqus configuration
+DISQUS_SITENAME = 'castliopodcast'
+GOOGLE_ANALYTICS = "UA-21449168-1"
 
 BANNER = True
 BANNER_SUBTITLE = u"Um podcast inspirado pra castálio!"
 BANNER_BACKGROUND_GRADIENT = 'linear-gradient(#2a2a29, #1c1c1c)'
-BANNER_IMAGE = '/images/castalio-podcast.jpg'
+BANNER_IMAGE = 'images/castalio-podcast.jpg'
 BANNER_IMAGE_HEIGHT = 250
+FAVICON = 'images/favicon.ico'
