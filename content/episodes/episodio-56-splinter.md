@@ -4,7 +4,7 @@ Author: Og Maciel e Elyézer Rezende
 Category: Podcast
 Tags: splinter, selenium, automatização, splinter, selenium, python
 
-No episódio de hoje, eug e o Elyézer conversamos um pouco sobre o **Splinter**, uma ferramente muito interessante para quem trabalha com a **automatização** de aplicativos web com **python**.
+No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o **Splinter**, uma ferramente muito interessante para quem trabalha com a **automatização** de aplicativos web com **python**.
 
 Na Red Hat, eu e Elyézer trabalhamos na automatização de testes funcionais do produto **Satellite 6**, certificando que todos recursos expostos pelas camadas de API, CLI (linha de comando) e UI (interface web gráfica) funcionam conforme as expectativas do design. Uma opção para efetuar estes testes seria fazer um mutirão no trabalho e testar tudo manualmente... mas isso é coisa de iniciante, e todo engenheiro de automatização que se preze eventualmente tenta automatizar tudo.
 
