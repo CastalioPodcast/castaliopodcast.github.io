@@ -2,6 +2,7 @@ Title: Episódio Zero: Og Maciel
 Date: 2011-02-16 15:07
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/0-CastalioPodcast.mp3
 Tags: Podcast
 
 ![Episódio Zero]({filename}/images/episodiozero.jpg)

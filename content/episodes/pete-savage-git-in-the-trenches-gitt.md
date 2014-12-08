@@ -3,6 +3,7 @@ Date: 2011-09-18 21:44
 Author: Og Maciel
 Category: Podcast
 Tags: Alchemy Reigns, Edubuntu, Emblem Divide, Ethestra, GeekDeck, Git, Git in The Trenches, Glade, Green Day, Gtk, Inception, J-Pop, J-Rock, Kamikaze Girls, Lagwagon, Mike Oldfield, Night Watch, ProgBox, python, Sergei Lukyanenko, Slashdot, Tamagoyaki, The Prestige, Ubuntu
+podcast: http://downloads.ogmaciel.com/castalio-podcast-17.mp3
 
 ![Pete Savage: Git In The Trenches]({filename}/images/petesavage.png)
 

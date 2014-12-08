@@ -3,6 +3,7 @@ Date: 2014-11-23 18:44
 Author: Og Maciel
 Category: Podcast
 Tags: Github, Vim
+podcast: http://downloads.ogmaciel.com/castalio-podcast-55.mp3
 
 ![Editor Vim]({filename}/images/episodio-55-vim.png)
 

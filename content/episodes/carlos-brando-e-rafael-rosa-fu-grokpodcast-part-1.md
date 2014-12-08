@@ -2,6 +2,7 @@ Title: Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1
 Date: 2012-09-30 18:39
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-46.mp3
 Tags: .NET, 2Pay, Amanaiê, Arduino, AT&amp;T, AT&amp;T Latin America, Audacity, Carlos Brando, CarlosBrando OS, DatabaseCast, DirecTV, Dreamhost, Erlang, Fábio Akita, Founders at Work: Stories of Startups' Early Days, Garage Band, Google Hangout, GrokPodcast, iWeb, iWeb Hosting, Jason Fried, Jessica Livingston, José Valim, PayPal, PHP, Portugal Telecom Group, python, Rafael Rosa Fu, Rails Podcast Brasil, Rdio, Rework, Ruby Inside, Ruby on Rails, RubyConf, Scala, SKY, Skype, Sociably, Surgeworks, Sushi, Telecom Group, VISA, Webbynode, Wikipedia, WordPress, X4 Internet Development Solutions
 
 ![Carlos Brando e Rafael Rosa Fu: GrokPodcast]({filename}/images/grokpodcast.png)

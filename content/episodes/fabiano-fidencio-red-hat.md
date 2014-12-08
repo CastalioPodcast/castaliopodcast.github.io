@@ -2,6 +2,7 @@ Title: Fabiano Fidêncio: Red Hat
 Date: 2013-01-21 02:04
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-49.mp3
 Tags: GNOME, GNOME Boxes, Google Summer of Code, libosinfo, ProFUSION, Red Hat, Red Hat Linux
 
 ![Fabiano Fidêncio: Red Hat]({filename}/images/fabianofidencio.jpg)

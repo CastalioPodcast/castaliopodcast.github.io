@@ -2,6 +2,7 @@ Title: Aline Duarte Bessa - Accerciser
 Date: 2011-07-25 00:00
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-13.mp3
 Tags: Accerciser, Bloody Valentine, Colivre, David Bowie, Fernando de Castro Ferro, Fiction Press, Gabriel Garcia Marquez, HackToons, John Hughes, Juliana Cunha, Julio Cortazar, Krzysztof Kieslowski, Orca, Rails, Smiths, Television, Velvet Underground, Virginia Wolfe, XKCD
 
 ![Aline Duarte Bessa - Accerciser]({filename}/images/alinebessa.jpg)

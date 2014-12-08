@@ -3,6 +3,7 @@ Date: 2011-04-16 16:46
 Author: Og Maciel
 Category: Podcast
 Tags: Atari, Pitfall, TK-85, ZX-81
+podcast: http://downloads.ogmaciel.com/castalio-podcast-05.mp3
 
 ![Em Busca dos Tesouros]({filename}/images/muriloqueiroz.png)
 

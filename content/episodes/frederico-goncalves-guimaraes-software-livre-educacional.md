@@ -2,6 +2,7 @@ Title: Frederico Gonçalves Guimaraes - Software Livre Educacional
 Date: 2011-05-12 23:31
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-07.mp3
 
 ![Frederico Gonçalves Guimaraes]({filename}/images/fredericoguimaraes.jpg)
 

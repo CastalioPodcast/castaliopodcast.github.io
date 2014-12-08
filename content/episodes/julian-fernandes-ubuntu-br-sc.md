@@ -2,6 +2,7 @@ Title: Julian Fernandes: Ubuntu BR SC
 Date: 2012-12-03 14:21
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-48.mp3
 Tags: Ubuntu BR SC
 
 ![Julian Fernandes: Ubuntu BR SC]({filename}/images/julianfernandes.png)

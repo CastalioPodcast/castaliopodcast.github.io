@@ -2,6 +2,7 @@ Title: Edição de 2 Anos - Og Maciel: Red Hat
 Date: 2013-02-18 16:15
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-51.mp3
 Tags: .NET, Bitbucket, Fabiano Fidêncio, Fedora Linux, Fernando Collor de Mello, Foresight Linux, Gentoo Linux, Github, GNOME, Google Reader, Google Summer of Code, IRC, KurtKraut, LXDE, Miguel de Icaza, Og Mandino, Openbox, Oracle, PL/SQL, python, Red Hat, Richard Stallman, rPath, Scrum, Selenium, Slackware Linux, Twitter, Ubuntu Brasil, Ubuntu Linux, Ubuntu UDS, Visual Basic, Xfce
 
 ![Og Maciel: Red Hat]({filename}/images/ogmaciel.jpg)

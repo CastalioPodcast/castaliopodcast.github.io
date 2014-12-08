@@ -2,6 +2,7 @@ Title: João Fernando Costa Júnior: Revista Espírito Livre
 Date: 2011-12-12 02:31
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-25.mp3
 Tags: Agentes do Destino, Angra, Apollo 18, Bíblia, BR-Linux, Cloud Computing, Criminal Minds, Dexter, Dream Fitter, Enya, Estadão, Folha, GhostScript, Gimp, Google Docs, GTalk, Inkscape, John Maddog, kitaro, Legião Urbana, Libre Office, Matrix, Mentalist, Night Wish, O Senhor dos Anéis, PDF, Revista Espírito Livre, Scribus, Source Code, Stratovarious, Super 8, V de Vingança, With Temptation, Xfce, Xubuntu
 
 ![João Fernando Costa Junior]({filename}/images/joaojunior.jpg)

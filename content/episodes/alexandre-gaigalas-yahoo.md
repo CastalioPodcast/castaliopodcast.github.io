@@ -2,6 +2,7 @@ Title: Alexandre Gaigalas: Yahoo
 Date: 2013-03-03 21:48
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-52.mp3
 Tags: Android, Breaking Bad, CakePHP, CSS, Cygwin, Daniel Lima, Dependency Injection, Deus, Dexter, Django Framework, DOM Inspector, Editor Nano, Editor Vim, Firebug, Firefox, Firefox Web Browser, Formato Atom, Formato JSON, Github, Google Maps, Google Search, Grok Podcast, House of Cards, HTML, HTTP, InfoQ, Internet Explorer, Java Script, Mad Men, Mamonas Assassinas, Marissa Mayer, Marissa Meyer, Megadeth, Metodologia Ágil, Netflix, NodeJS, Os Jogos da Vida, PHP, PHP Documenter, PHP Engine, Programação Extrema Explicada, Rafael Rosa Fu, Rails Framework, RDF, Respect Config, Respect Doc, Respect Project, Respect Rest, RestFul, RFC1626, Richard Dawkins, Safary Web Browser, Selenium, Shadow Gallery, Sublime Text, Tableless, The Lean Startup, Top Gear, Ubuntu Linux, Um Delírio, Vinícius Magalhães Peres, Visual Studio 2012, Web Semântica, Web Socket, William Sanders, Windows 8, Windows Poer Shell, XML Schema, Yahoo, Yahoo Mail, Yahoo Memo, Yahoo Profile
 
 ![Alexandre Gaigalas: Yahoo]({filename}/images/alexandregaigalas.jpg)

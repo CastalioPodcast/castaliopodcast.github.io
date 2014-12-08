@@ -2,6 +2,7 @@ Title: Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 2
 Date: 2012-10-14 17:01
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-47.mp3
 
 ![Carlos Brando e Rafael Rosa Fu: GrokPodcast]({filename}/images/grokpodcast.png)
 

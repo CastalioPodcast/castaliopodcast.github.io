@@ -2,6 +2,7 @@ Title: Evandro Pastor: Quarto Estudio
 Date: 2011-10-17 12:37
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-19.mp3
 Tags: Ana White, Código Livre Cast, Chrome, Conectiva Linux, Dreamweaver, Firefox, Foresight Linux, Gimp, Illustrator, Inkscape, iTunes, Photoshop, Quarto Estudio, Safari, Text Expander, TextMate, TextWrangler, WordPress
 
 ![Evandro Pastor]({filename}/images/evandropastor.png)

@@ -3,6 +3,7 @@ Date: 2011-12-26 18:16
 Author: Og Maciel
 Category: Podcast
 Tags: Anaconda Installer, Arnaldo "pacman", Aurélio "verde" Jargas, Caldera Graphical Installer, Caldera Linux, Canonical, Conectiva Linux, CVS, DOS, Edubuntu, Frank Sinatra, GCC, GooglePlex, IMDB.com, INDT, Jeff Hwang, KDE, Linux BR, Livraria Saraiva, Mandrake Linux, Mandriva Linux, Marcelo Tosatti, Midnight Commander, MiniLinux, Mountain View, NFS, Nina Simone, Open Linux, Parolin Linux, Pot-Limit Omaha Poker, Qt, Red Hat Linux, RPM, Silicon Valley, Slackware Linux, Texas Holden Poker, TFTP, The Shawshank Redemption, Ubuntu Developers Summit, Universidade Federal de Santa Catarina, Venture Capital
+podcast: http://downloads.ogmaciel.com/castalio-podcast-26.mp3
 
 ![Rodrigo Novo]({filename}/images/rodrigonovo.png)
 

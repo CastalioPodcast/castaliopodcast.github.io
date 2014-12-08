@@ -2,6 +2,7 @@ Title: Caike Souza: Envy Labs
 Date: 2012-05-13 23:03
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-36.mp3
 Tags: ActiveRecord, Backbone, Banco de dados, Blink 182, Breaking Bad, Caike Souza, Capitão América, Code School, Code TV, Coffee Script, Crash, CSS, Envy Labs, Flórida, Gold Finger, Gunslinger, Henrique Bastos, Heroes Will Fall, HoraExtra, HTML 5, Hulk, IBM, In Flames, Interfaces, Javascript, jQuery, LivingSocial, Massive Attack, Mötley Crüe, Metallica, NASA, Netflix, New York Times, Node.js, Orlando, Pantera, Pendulum, Postal Service, python, Rails for Zombies, Rails Testing for Zombies, RailsConf, RailsConf 2012, Ramones, Rancid, Responsive Web, Ruby, Ruby for Zombies, Ruby on Rails, Screencast, Sepultura, Small Acts Manifesto, Speaker Deck, Swarm Inteligence, Tá Safo Conf 2012, The Avengers, Thor, TopWorks, TryRuby.org, United States of Terror, Weeds, Welcome to the Django, WordPress
 
 

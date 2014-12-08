@@ -2,6 +2,7 @@ Title: Felipe Ribeiro: Spotify
 Date: 2012-06-10 16:43
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-38.mp3
 Tags: AC/DC, Back to the future, Being Geek, Caike Souza, Creedence Clearwater Revival, Ensaio sobre a cegueira, Explosions in the Sky, Facebook, FISL, Flávio Ribeiro, Forrest Gump, Groove Shark, Inception, Java Script, Linkedin, Memcache, MySQL, Pandora, Pearl Jam, PHP, PHP Conference, Programming pearls, Rdio, Spotify, Starman: Truth Behind the Legend of Yuri Gagarin, The algorithm design manual, the Bad and the Ugly, The Big Lebowski, The Good, The Hichhiker's guide to the galaxy, Tuenti, Will Farrel, Wolfmother, Youtube
 
 ![Felipe Ribeiro: Spotify]({filename}/images/feliperibeiro.jpg)

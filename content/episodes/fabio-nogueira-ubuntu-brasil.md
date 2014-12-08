@@ -2,6 +2,7 @@ Title: Fábio Nogueira: Ubuntu Brasil
 Date: 2012-07-22 22:52
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-41.mp3
 Tags: Alexandre Silva, André Gondim, André Noel, Ayrton Araújo, Bee Gees, Black Sabath, Canonical, Círculo de fogo, Chave GPG, Coringão, De Volta Para o Futuro, Deep Purple, Duda Nogueira, Elvis Presley, Emerson Soares, Fábio Nogueira, Ian Laurence, Johnny Cash, Jonh Wendell, Jorge Amado, Kalango Linux, Lício Fonseca, Mário Meyer, Paulino Michelazzo, Planeta Ubuntu Brasil, Portões de Fogo, Projeto GNOME, Raphael Higino, Ricardo Cropalato, Rodrigo Belém, Stalingrado Cerco Fatal, Thiago Hillebrandt, Ubuntu Bahía, Ubuntu Brasil, Ubuntu Linux
 
 ![Fábio Nogueira: Ubuntu Brasil]({filename}/images/fabionogueira.jpg)

@@ -2,6 +2,7 @@ Title: Júlio Monteiro: JobScore
 Date: 2012-04-15 20:40
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-34.mp3
 Tags: Blink, Cadê?, Companhia Startup, Continuous Integration, Daft Punk, Daniel H. Pink, Django, Drive, Fábio Kung, FISL 2004, FlipBoard, Four Tet, Game of Thrones, Github, Github Drinkup, Gotan Project, Hacker News, Hayao Miyazaki, Henrique Bastos, Heroku, Howl's Moving Castle, HTML, Instapaper, iPad, Javascript, Júlio Monteiro, Job Board, JobScore, Justice, Kraftwerk, Linux, Malcolm Gladwell, Mato Grosso, Meetups, MongoDB, Outliers, Pat Metheny Group, Pedro Belo, Penguin Cafe Orchestra, Professor Marco André, Programação PHP, Programação Python, Programação Ruby, QA, Rails BR, Royksopp, Ruby on Rails, Symphony, Tanghetto, The Big Bang Theory, The IT Crowd, The Tipping Poing, TurboGears, Ubuntu Brasil, Walking Dead, Windows
 
 ![Júlio Monteiro: JobScore]({filename}/images/juliomonteiro.png)

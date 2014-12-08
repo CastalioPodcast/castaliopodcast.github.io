@@ -2,6 +2,7 @@ Title: Enrico Nicoletto e Rafael Ferreira: Projeto GNOME
 Date: 2013-09-03 01:11
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-54.mp3
 Tags: Arcade Fire, Arch Linux, Audacity, Biblia Sagrada, Blankman, Bon Jovi, Bryan Adams, C++, Cliente de e-mail Thunderbird, Damned Lies, Decker, Deus Tem Um Plano Para Voce, El Estudiante, Fala Mansa, Fernandinho, Gedit, Ghost in the Shell, GNOME Bugzilla, GNOME Terminal, GOM Player, Google Chrome, Harry Potter, How Things Work Encyclopedia, Kalibre, Laugh and learn : 95 ways to use humor for more effective teaching and training, Launchpad, Lawless, LDP, Leslie Watter, Libre Office, Media Player Classic, Meld, Notepad++, O Hobbit, Open Cast, Open-Tran, Papo de Buteco, poEdit, Projeto GNOME, Projeto KDE, Quatro por Um, Ruby on Rails, Sagarana, Sexto Sentido, Stratovarius, The Strokes, Tio Nino, Total Recall, Trance, Transifex, Translation Toolkit, Uma Professora Muito Maluquinha, Vala, War Games
 
 

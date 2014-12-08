@@ -2,6 +2,7 @@ Title: Cristiano Costa: Hora do Mac
 Date: 2012-08-06 14:35
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-42.mp3
 Tags: Acqua, Airton Ortiz, Albert Einstein, Amazon Prime, Amyr Klink, Breaking Bad, Carla Bruni, Computadores Apple, David Baldacci, Dead Kennedys, FISL, Game of Thrones, GNU/Linux, Google Hangout, Hora do Mac, House, iPhone, iTunes, Jeffrey Archer, John Sandford, Jorge Ben, Kit Inicial de Podcasts, Leo Laporte, Mac OS, MacBreak Weekly, Madeleine Peyroux, Michael Connelly, Netflix, Norah Jones, Plataforma Android, Plataforma iOS, R.E.M., Rdio, Sex Pistols, Skype, Steve Jobs, The Beatles, Two and a Half Man, U2, Unix, Windows 8, WordPress
 
 ![Cristiano Costa: Hora do Mac]({filename}/images/cristianocosta.jpg)

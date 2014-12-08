@@ -2,6 +2,7 @@ Title: Henrique Bastos: Welcome to the Django
 Date: 2012-04-01 16:18
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-33.mp3
 Tags: .NET, A Origem do Capitalism, Adobe Connect, Adobe Flash, Amazon EC2, Bernardo Fontes, C++, Caike, Código Morse, Charles Petzold, Code, Code Review, Coding Dojo, Coding Sprint, Controle de Versão Distribuído, DataK7, De Volta Para o Futuro, Dekode, Desenvolvimento Ágil, Django, Ellen Wood, FISL 2009, Gabriel Falcão, Garr Reynolds, Genial, Git, Github, Globo.com, Go To PC, Google, Guake, Guilherme Chapievsky, Guns and Roses, Henrique Bastos, Heroku, HoverBoard, Hugo Doria, Illustrator, Jacob Kaplan-Moss, Java, Jeff Patton, Joomla, Megadeath, Metallica, MetaPix, O Conselheiro, O Poderoso Chefão, Photoshop, PHP Rio, Platform as a Service (PaaS), Porto alegre, Presentation Zen, PyCon 2010, python, Python Brasil, Revista INPUT, Rise Against the Machine, Ryan Ozimek, Small Acts, Star Gate, The Matrix, Tiago Garcia, TK-85, VB.Net, Vimeo, WebEx, Welcome to the Django, ZX Spectrum
 
 

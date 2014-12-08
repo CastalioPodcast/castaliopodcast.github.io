@@ -2,6 +2,7 @@ Title: Augusto Campos: BR-Linux, BR-Mac, Efetividade
 Date: 2011-10-02 16:43
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-18.mp3
 Tags: Android, Augusto Campos, AWK, BBEdit, BR-Linux, BR-Mac, CentOS Linux, Cobol, eBook, Efetividade, Estrella Roja, Evandro Pastor, Ferris Bueller's Day Off, FlipBoard, GTalk Show, iPad, Istoé, Karlisson, Kate, Keith Richards, Kindle, Livraria Saraiva, Lobão, Mac OS, Marcelo Tosatti, MySQL, Pascal, Punk Rock, Ramones, Red Hat Linux, SCP, SSH, Star Trek, Star Wars, The Clash, WordPress
 
 ![Augusto Campos: BR-Linux, BR-Mac, Efetividades]({filename}/images/augustocampos.jpg)

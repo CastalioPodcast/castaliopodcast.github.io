@@ -2,6 +2,7 @@ Title: Carlos Ribeiro - RadioTray
 Date: 2011-08-21 21:03
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-15.mp3
 Tags: Amélie, Carlos Ribeiro, Célia Cruz, Cold Play, Dan Brown, Dilbert, DZone, Edgar Allan Poe, Eminem, Foresight Linux, FS Daily, Google Alerts, H. G. Wells, Indiana Jones, J.R.R. Tolkien, Java, John Williams, LaTeX, Matrix, MULTICERT, Portugal, Pulp Fiction, python, RadioTray, Senhor dos Anéis, software livre, Star Wars, The Code Book, The H, U2, Vila Nova de Gaia, War of The Worlds
 
 ![Carlos Ribeiro - RadioTray]({filename}/images/carlosribeiro.jpg)

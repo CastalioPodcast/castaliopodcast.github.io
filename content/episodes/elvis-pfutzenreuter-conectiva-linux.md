@@ -2,6 +2,7 @@ Title: Elvis Pfutzenreuter: Conectiva Linux
 Date: 2011-11-28 03:37
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-23.mp3
 Tags: Android, Asia, Clara Nunes, Conectiva Linux, Debian Linux, Emperor of the North, Enron, ERP, Facção Central, IEEE, iOS, iPhone, Jacob do Bandolim, Linux World Expo, Madoff, Mandrake Linux, Mandriva Linux, O Poderoso Chefão, Racionais Mc, Red Hat Linux, Revista do Linux, Runaway Train, Slackware Linux, Toccata und Fuge, Windows
 
 

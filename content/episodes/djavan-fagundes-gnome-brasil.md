@@ -2,6 +2,7 @@ Title: Djavan Fagundes: GNOME Brasil
 Date: 2012-06-25 01:22
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-39.mp3
 Tags: Ambiente GNOME, Ambiente KDE, Ambiente Openbox, Ambiente XFCE, Belo Horizonte, Breaking Bad, Casa 21, Chaves, Cidades Ilustradas, Constantine, Creedence Clearwater Revival, Distribuição Arch Linux, Distribuição Debian Linux, Distribuição Fedora Linux, Distribuição Foresight Linux, Djavan Fagundes, Gandhi: A Magia dos gestos poéticos, GNOME 3, GNOME Brasil, gnome-tweak-tool, Google Hangout, Google Maps, Hell Boy, Hora do Mac, Jonh Wendell, Led Zeppelin, Linus Torvalds, Mapping Party, OpenStreet Map, Oscar Wilde, Pedro Almodóvar, Raul Seixas, Rubem Alves, Sin City, The Big Bang Theory, The IT Crowd, The Picture of Dorian Gray, The Raincoats, Youtube
 
 ![Djavan Fagundes: GNOME Brasil]({filename}/images/djavanfagundes.png)

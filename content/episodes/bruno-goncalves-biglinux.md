@@ -2,6 +2,7 @@ Title: Bruno Gonçalves: BigLinux
 Date: 2012-09-03 16:42
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-44.mp3
 Tags: BigBashView, BigLinux, BR-Linux, Bruno Gonçalves, Canonical, Carlos Morimoto, Chapolin, Chavez, Chuck Berry, Compiz, Conectiva Linux, Debian Linux, DistroWatch, Elvis Presley, Fórum BigLinux, Fórum Hard Science, Fórum Outer Space, Fórum Ubuntu BR, Fluxbox, Forum nix, Frejat, Gimp, GNOME, Gnumeric, IceWM, ICQ, Ivan Brasil Fuzzer, Kalango Linux, KDE, Kurumin Linux, Mark Shuttleworth, Metisse, Mint Linux, NVIDIA, O Grande Dragão Branco, OpenCast, OpenOffice, openSuse Linux, Planet Hemp, Planet KDE, python, QT Webkit, Raul Seixas, Red Hat, Rocky, Scarface, Ubuntu Linux, Ultrage a Rigor, União Livre, Vladimir Melo
 
 ![Bruno Gonçalves: BigLinux]({filename}/images/brunogoncalves.jpg)

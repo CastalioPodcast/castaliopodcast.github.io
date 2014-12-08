@@ -2,6 +2,7 @@ Title: Episódio Especial: André Gondim - Ubuntu Brasil
 Date: 2011-11-06 23:17
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-21.mp3
 Tags: André Gondim, André Noel, Canonical, Fábio Nogueira, FISL, Fridge, GNOME, Launchpad, LXDE, Rafael Higino, Rosetta, Ubuntu, Xfce
 
 
