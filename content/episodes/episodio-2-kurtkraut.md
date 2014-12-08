@@ -2,6 +2,7 @@ Title: Episódio 2: KurtKraut
 Date: 2011-03-21 12:24
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/2-CastalioPodcast.mp3
 
 ![KurtKraut]({filename}/images/kurtkraut.png)
 

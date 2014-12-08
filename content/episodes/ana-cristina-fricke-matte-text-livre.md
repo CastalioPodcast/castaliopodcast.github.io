@@ -2,6 +2,7 @@ Title: Ana Cristina Fricke Matte: Texto Livre
 Date: 2012-02-05 22:13
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-29.mp3
 Tags: Amadeus, Associação Software Livre, Brasnet, Código DaVince, Dexter, Evidosol, FAPEMIG, Fedora Linux, FISL, Freenode, GT de Educação do FILS, Inteligência Adaptiva, Inteligência Artificial, Kernel, Kurt Kraut, Laboratório de Semiótica e Tecnologia, Madonna, Marcelo Hashimoto, Moodle, Ning, Polly Twitter Client, Ponto de Impacto, Portal do Professor Livre na Rede, Praat, Revista Texto Livre, Slackware Linux, Software Livre Educacional, Texto Livre, Ubuntu Brasil, Ubuntu Linux, UFBA, UFMG, ULGG, UML, Underlinux, UNESP, Universidade de São Paulo, Universidade Federal de Minas Gerais, Windows, WordPress, Xoops
 
 

@@ -2,6 +2,7 @@ Title: Everaldo Canuto: Toca do Canuto
 Date: 2013-03-18 02:54
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-53.mp3
 Tags: .NET, Andréia Gaita, Apache Web Server, ASP.NET, CSS3, DBASE III Plus, Delphi, Deus Um Delírio, DotGNU, ECMA, Editor gEdit, Editor KATE, Engenheiros do Hawaii, Git, Google Hangout, GTMeter, GUADEC, HTML 5, Ilhas Canárias, Intel, Java, Legião Urbana, LoadImpact, Markdown, Microsoft, Miguel de Icaza, Moblin, Mono, Moonlight, Nat Friedman, Novell, O Código DaVinci, O Hobbit, O Homem da Areia, OpenSSH, Pandora, PHP, Pink Floyd, Power Shell, Processador Atom, Projeto GNOME, Projeto Ximian, Richard Stallman, Silverlight, Sir Arthur Conan Doyle, Spotify, Sun Corporation, Suse Linux, Suse Studio, Titãs, Toca do Canuto, Windows Forms, Xamarin, Xen, Youtube
 
 ![Everaldo Canuto: Toca do Canuto]({filename}/images/everaldocanuto.png)

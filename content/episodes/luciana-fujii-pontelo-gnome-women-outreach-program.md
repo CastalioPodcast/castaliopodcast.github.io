@@ -2,6 +2,7 @@ Title: Luciana Fujii Pontelo - GNOME Women Outreach Program
 Date: 2011-04-03 23:55
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-04.mp3
 
 ![GNOME Women Outreach Program]({filename}/images/lucianapontelo.png)
 

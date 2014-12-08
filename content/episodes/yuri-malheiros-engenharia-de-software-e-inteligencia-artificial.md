@@ -2,6 +2,7 @@ Title: Yuri Malheiros - Engenharia de Software e Inteligência Artificial
 Date: 2011-05-30 01:48
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-08.mp3
 
 ![Yuri Malheiros - Engenharia de Software e Inteligência Artificial]({filename}/images/yurimalheiros.jpg)
 

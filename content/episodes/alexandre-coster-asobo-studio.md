@@ -2,6 +2,7 @@ Title: Alexandre Coster: Asobo Studio
 Date: 2011-11-14 02:33
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-22.mp3
 
 
 ![Alexandre Coster - Asobo Studio]({filename}/images/alexandrecoster.jpg)

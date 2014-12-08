@@ -2,6 +2,7 @@ Title: Felipe Borges: Google Summer of Code
 Date: 2012-08-19 22:49
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-43.mp3
 Tags: A Coruña, Amazon, Batalha do Apocalipse, Biblioteca libevince, Big Bang Theory, Bob Marley, Bugzilla, Cavalera Conspiracy, Chavez, Cidade do Sol, Cosimo Cecchi, Criolo, Design for Hackers, Djavan Fagundes, Eduardo Galeano, Eduardo Spohr, Euclydes da Cunha, Evince, Felipe Borges, FISL, Formato epub, Formato mobi, Fundação GNOME, Fundação Mozilla, GIO, Github, GLib, GNOME Documents, Google Summer of Code, GUADEC, Homeland, Immortal Technique, iTunes, Javascript, Khaled Hossein, Lowkey, Microsoft SkyDrive, Nokia, Os Sertões, Pablo Neruda, Planet GNOME, Prison Break, Programação em C, Programação em Python, Projeto GNOME, Red Hat, Sepultura, The IT Crowd, Tracker, Universidade Federal de Pelotas, Walt Disney
 
 ![Felipe Borges]({filename}/images/felipeborges.jpeg)

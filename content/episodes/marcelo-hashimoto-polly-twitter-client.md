@@ -3,6 +3,7 @@ Date: 2012-01-22 17:53
 Author: Og Maciel
 Category: Podcast
 Tags: A Revolução dos Bichos, Annihilator, Augusto dos Anjos, BillReminder, C++, Carlos Drummond de Andrade, Debian Linux, Facebook, Foresight Linux, GNOME HIG, Google Plus, Gtk, Gtk3, Gwibber, Halloween, Hotot, Identi.ca, Launchpad, libcv, Linguagem Python, Linux, Livraria Cultura, Marcelo Hashimoto, Megadeath, Metallica, Monty Python, O Parque dos Dinossáuros, OMG Ubuntu, OpenCV, Os Miseráveis, Penny Arcade, Pinot, Piratas do Caribe, Polly, Polly Twitter Client, python, Python Socks, Savatage, schizobird, Twitter, Ubuntero BR, Ubuntu Dicas, Ubuntu Linux, Victor Hugo, Visão Computacional, William Blake
+podcast: http://downloads.ogmaciel.com/castalio-podcast-28.mp3
 
 ![Marcelo Hashimoto]({filename}/images/marcelohashimoto.jpg)
 

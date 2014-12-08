@@ -2,6 +2,7 @@ Title: Ivan Brasil Fuzzer: Ubuntero
 Date: 2012-03-04 15:36
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-31.mp3
 Tags: AC/DC, Animatrix, Assembly, Audacity, Batalha do Apocalipse, BR-Linux, C++, Capital Inicial, Cesar Oliveira, Cidadão Quem, Cinelera, Cobol, Debian Linux, Delphi, Eduardo Spohr, Filhos do Éden, Grupo Caudílho Livre, GtkRecordMyDesktop, Inception, Iron Madden, Java, KDenlive, List, Ludwig van Beethoven, Mettalica, Mozilla Thunderbird, Neto Fagundes, OpenCast, Openshot, Piresca Greco, Rogério Melo, Shell Script, Skype, Skype Call Recorder, The Matrix, The Walking Dead, Twitter, Ubuntero, Ubuntu Linux, Ubuntu Unity, Vim, Virtual Box, W32 Codecs, Youtube
 
 ![Ivan Brasil Fuzzer: Ubuntero]({filename}/images/ivanfuzzer.jpg)

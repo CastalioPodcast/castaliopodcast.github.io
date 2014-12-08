@@ -3,6 +3,7 @@ Date: 2013-02-05 03:47
 Author: Og Maciel
 Category: Podcast
 Tags: Arduino, Associação Python Brasil, C++, CMS, Coding Dojo, Django, Flask, Fortran, Garoa Hacker Clube, Github, Global Arrays, HackerSpace, Henrique Bastos, Hora Extra, iPython, Kivy Toolkit, Petrobras, Plone, Plone Foundation, PyCon, Pylons, Pyramid, python, Rasberry Pi, SlideShare, SpeakerDeck, TurboGears, Web2Py, ZODB, Zope, Zope Brasil
+podcast: http://downloads.ogmaciel.com/castalio-podcast-50.mp3
 
 ![Luciano Ramalho: Oficinas Turing]({filename}/images/lucianoramalho.jpg)
 

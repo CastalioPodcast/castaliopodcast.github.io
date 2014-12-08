@@ -3,6 +3,7 @@ Date: 2012-01-08 17:11
 Author: Og Maciel
 Category: Podcast
 Tags: 2001 Uma Odisséia no Espaço, A Arte da Guerra, A Profecia, AC/DC, Aristóteles, Beatles, Canonical, Compiz, Conectiva Linux, Engenheiros do Hawai, Fedora Linux, Formato ODF, Forrest Gump, GNOME Board of Directors, GNOME Shell, Hugo Cisneiro, IRA, Iron Maiden, Izabel Valverde, Jack Johnson, Jonh Wendell, Karen Sandler, Libre Office, Linked.in, Linux Plus Magazine, Microsoft Academic Alliance, Microsoft Office, Microsoft Windows, Navegador Firefox, Navegador Internet Explorer, Netflix, Netscape, O Exorcista, O Senhor dos Anéis, Platão, Projeto Fedora, Projeto GNOME, Projeto KDE, Projeto Mozilla, Raul Seixas, Red Hat Linux, Sistemas Operacionais Modernos, Slackware Linux, Starfish and the Spider, Stormy Peters, UFRJ, Utopia
+podcast: http://downloads.ogmaciel.com/castalio-podcast-27.mp3
 
 ![Rodrigo Padula]({filename}/images/rodrigopadula.png)
 

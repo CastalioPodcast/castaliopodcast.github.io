@@ -2,6 +2,7 @@ Title: Fábio Kung e Pedro Belo: Heroku
 Date: 2012-04-29 13:03
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-35.mp3
 Tags: ActiveRecord, Adaptation, Amazon Cloud, Being John Malkovich, BrainFuck, Bruce Eckel, Certificado SSL, Cloud Foundry, Clube da Luta, Cold Play, DotCloud, Dreamhost, DrinkUp, Effective C++, Emulador de NES, Erlang, Framework Django, Fringe, Game of Thrones, Git, Github, Google, Google AppEngine, Hacker News, Heroku, Hybernate, Jabberd, Java, Júlio Monteiro, JSON, Kenneth Reitz, Kindle, man pages, MeetUp, Mozilla, nginx, Node.js, O Senhor dos Anéis, PHP, PJ Harvey, Platform as a Service, python, Python Requests, Queens of the Stone Age, Radio Head, RailsConf, Red Hat, rPath, Ruby, Ruby on Rails, Spring MVC, Supernatural, Survival, tempwatch, The Atomic BitchWax, The Big Bang Theory, The Black Keys, The Girl with the Dragon Tatoo, Vale do Silício, Vampire Diaries, WhiteSpace, Wikipedia, Windows Azzure, Yukihiro Matsumoto
 
 

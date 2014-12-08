@@ -2,6 +2,7 @@ Title: Episódio 1: Karlisson Bezerra, Ilustrador
 Date: 2011-03-07 00:00
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/1-CastalioPodcast.mp3
 
 
 Em um sábado ensolarado (aqui em North Carolina pelo menos, não sei em

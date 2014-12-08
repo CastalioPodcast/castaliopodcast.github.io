@@ -2,6 +2,7 @@ Title: Diego Búrigo Zacarão - Projeto Transifex
 Date: 2011-04-30 15:29
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-06.mp3
 
 ![Transifex]({filename}/images/transifex.png)
 

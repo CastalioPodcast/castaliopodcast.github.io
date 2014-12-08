@@ -2,6 +2,7 @@ Title: Álvaro "Turicas" Justen - Arduino
 Date: 2011-09-05 03:26
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-16.mp3
 Tags: Android, Apollo 13, Arduino, Bottle, Brazuino, David Halliday, Django, Douglas Adams, Eagle, ELua, FISL, Flask, Frets on Fire, Getting Started With Arduino, Guitar Hero, Guns and Roses, Holoscópio, Howard Anton, Inception, Infected Mushroom, Iron Maiden, Iron Man, Júlio Neves, Making Things Talk, Massimo Banzi, Matrix, Nirvana, O Guia do Mochileiro das Galáxias, Pearl Jam, Potiche, QCAD, Robert Resnick, Severino, Shell Script, Tiny OS, Tom Igoe, Turiquinhas, Uma Mente Brilhante, Web2Py, Zope
 
 ![Álvaro "Turicas" Justen - Arduino]({filename}/images/alvarojusten.png)

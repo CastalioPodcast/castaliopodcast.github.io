@@ -2,6 +2,7 @@ Title: Gabriel Falcão: Yipit
 Date: 2012-03-18 20:33
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-32.mp3
 Tags: Bamboo, Banco do Brasil, Banda Lettuce, Behavior Driven Development, Belo Horizonte, Bernardo Heynemann, Big Band Theory, Bolacha, C++, Capybara, Cucumber, Daft Punk, Dead Parrot, DebConf, Debian Linux, Desenvolvimento Agile, Dexter, Django, DjangoCon, Github, GLib, Globo.com, GNOME, GNU/Linux, Groupon, Gtk, Guake, Guy Ritchie, HBase, HTTPretty, Integração contínua, Jenkins, Jogos Mortais, KDE, Lettuce, Licença GPL, Licença MIT, Linguagem Python, Linguagem Ruby, Little Joy, Lock, Mac OS, MGMT, Music For Programming, New York City, Node.js, Peixe Urbano, Pyccuracy, Qt, RSpec, Salad, Selenium, Servidor Apache, Sherlock Holmes, Skink, Socket.IO, software livre, Stock and Two Smoking Barrels, Strokes, Técnica Scrum, Teste unitário, Tilda, Two Door Cinema Club, Ubuntu Linux, Uncle Bob, White Collar, White Stripes, Windows, Yakauke, YipIt
 
 

@@ -2,6 +2,7 @@ Title: Danilo Resende: Facebook
 Date: 2012-07-09 02:52
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-40.mp3
 Tags: A Rede Social, Amélie, API, Ben Harper, Dominguinhos, Facebook, Flávio Ribeiro, Hackathon, Inception, Introdução a Algorítimos, Jack Johnson, Javascript, Mark Zuckerberg, Martinho da Vila, Netflix, Non Disclosure Agreement, O Clube da Luta, o Homem que Desafiou o Diabo, O Poderoso Chefão I, O Poderoso Chefão II, Pelejas de Ojuara, Programming Perl, Samba, Sistema de Controle de Versão, Skype, The Art of Motocycle Repair, The Visual Display of Quantitative Information, Ubuntero, Universidade Federal de Campinas Grande, Vale do Silício, Yamandu Costa, Youtube, Zen
 
 ![Danilo Resende: Facebook]({filename}/images/daniloresende.png)

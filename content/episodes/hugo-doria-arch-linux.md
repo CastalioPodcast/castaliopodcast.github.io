@@ -2,6 +2,7 @@ Title: Hugo Dória - Arch Linux
 Date: 2011-08-08 02:15
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-14.mp3
 Tags: Admirável Mundo Novo, Arch Linux, Arch Sheriff, Black Sabath, BR-Linux, BR-Mac, Cavaleiros do Zodíaco, De Volta Para o Futuro, Deep Purple, Game of Thrones, Ghost in the Shell, HnTool, Iron Maiden, Led Zeppelin, Matrix, Metallica, Nirvana, pacupdate, Pink Floyd, POPCode, Samurai X, Senhor dos Anéis, Steppenwolf
 
 ![Hugo Dória - Arch Linux]({filename}/images/hugodoria.png)

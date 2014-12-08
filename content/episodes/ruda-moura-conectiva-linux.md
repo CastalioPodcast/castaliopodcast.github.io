@@ -3,6 +3,7 @@ Date: 2011-12-04 17:05
 Author: Og Maciel
 Category: Podcast
 Tags: 7 anos no tibet, Art Of Computer Program, Avahi, Blade Runner, Cammel Book, Canonical, Conectiva Linux, Debian Linux, DeLillo, Fedora Linux, GCC, GNOME, Haxent, KDE, Knuth, Kraftwerk, Larry Wall, Matrix, Mutantes, New Order, Novel, openSuse Linux, Portal Terra, Qt, Red Hat Linux, Revista Linux, Ruído Branco, Saramago, Slackware Linux, Sociedade dos poetas mortos, Tequila Baby, Ubuntu Linux, WinModem, X.org, Yo La Tengo
+podcast: http://downloads.ogmaciel.com/castalio-podcast-24.mp3
 
 ![Rudá Moura: Conectiva Linux]({filename}/images/rudamoura.png)
 

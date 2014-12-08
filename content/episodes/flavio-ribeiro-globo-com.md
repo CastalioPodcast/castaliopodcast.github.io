@@ -2,6 +2,7 @@ Title: Flávio Ribeiro: Globo.com
 Date: 2012-05-27 18:01
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-37.mp3
 Tags: 4Clojure, Andrews Medina, Apple, Big Brother, Bolacha, Broadway, Brooklyn, C/C++, Clean Code, Clojure, Code Sprints, Cooks, Domingão do Faustão, Estátua da Liberdade, Family Guy, Fantástico, Fedex Day, FISL 13, Flash Media Server, Flask, Flogging Molly, Fox Channel, Functional Programming, FX Channel, Gabriel Falcão, Github, Globo TV, Hackers and Painters, Instagram, Kindle, Land of Lisp, Linus Torvald, Manhattan, Miguel de Icaza, MongoDB, MTV, Music Video Awards, Netflix, nginx, NY City, NY Times, Objective Oriented Programming, Os Trapalhões, Programação Lisp, Programação Python, Programming Collective Intelligence, Python Brasil, Rebel Code, Rede Globo, Richard Stallman, Rise Against, Roku, Ruby, Ruby on Rails, Scrum, Scrum Master, SDK, Silverchair, Simpsons, Some 451, Stewie, Streaming Media East 2012, Streetlight Manifesto, System of a Down, The Clean Coder, The Cleveland Show, The Fratellis, The Pacific, The Strokes, The Walking Dead, Tornado, Treze Futebol Clube, UFC, YipIt, Youtube
 
 ![Flávio Ribeiro: Globo.com]({filename}/images/flavioribeiro.png)

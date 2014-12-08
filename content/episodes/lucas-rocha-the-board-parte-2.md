@@ -3,6 +3,7 @@ Date: 2011-07-04 00:00
 Author: Og Maciel
 Category: Podcast
 Tags: Agatha Chistie, Beleza Americana, Cinema Paradiso, Clutter, CoffeeScript, Donald A. Norman, GJs, GStreamer, GUADEC, Ikea, Jason Fried, John Coltrane, John Coultrane, jQuery, Litl, MacGyver, Martrix, Matrix, Miles Davis, MongoDB, Node.js, Pekka Himanen, Plasma, The Board, Tim Burton
+podcast: http://downloads.ogmaciel.com/castalio-podcast-11.mp3
 
 ![Lucas Rocha - The Board]({filename}/images/lucasrocha.jpg)
 

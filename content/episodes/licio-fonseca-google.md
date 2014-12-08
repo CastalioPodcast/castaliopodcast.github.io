@@ -2,6 +2,7 @@ Title: Licio Fonseca: Google
 Date: 2012-09-16 21:45
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-45.mp3
 Tags: André Vianco, Anime, Batman, Ben Alves, Bit Twiddler, Carlos Drummond de Andrade, Charles Cafe Google, Death Note, Fernando Sabino, Fernão Capelo Gaivota, Gangnam Style, GMail, Google, Google Pounds, Hackers and Painters, Homem de Ferro, Hugh Laurie, Lake Louise, Linked.in, Lisbela e o Prisioneiro, Longe é um lugar que não existe, Marvel, Mountain View, Novela, Os Vingadores, Para Gostar de Ler, PSY, Richard Bach, Rodrigo Pereira, StarWars, Transifex, Ubuntu BR, Ubuntu Desktop Summit, XBox
 
 ![Licio Fonseca: Google]({filename}/images/liciofonseca.jpg)

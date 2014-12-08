@@ -2,6 +2,7 @@ Title: Igor Pires Soares - Projeto Fedora
 Date: 2011-07-11 00:00
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-12.mp3
 Tags: Fedora, FUDCon, REM, Smolt, Transifex, U2
 
 ![Igor Soares - Projeto Fedora]({filename}/images/igorsoares.png)

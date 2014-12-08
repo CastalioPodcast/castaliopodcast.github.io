@@ -2,6 +2,7 @@ Title: Lucas Rocha - The Board (Parte 1)
 Date: 2011-06-26 22:15
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-10.mp3
 
 ![Lucas Rocha - The Board]({filename}/images/lucasrocha.jpg)
 

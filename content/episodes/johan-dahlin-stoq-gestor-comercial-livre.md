@@ -2,6 +2,7 @@ Title: Johan Dahlin - Stoq: Gestor Comercial Livre
 Date: 2011-06-12 21:31
 Author: Og Maciel
 Category: Podcast
+pocast: http://downloads.ogmaciel.com/castalio-podcast-09.mp3
 Tags: Async, Fluendo, Litl, pygtk, Stoq
 
 ![Johan Dahlin - Stoq: Gestor Comercial Livre]({filename}/images/johandahlin.jpg)

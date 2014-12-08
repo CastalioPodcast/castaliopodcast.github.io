@@ -2,6 +2,7 @@ Title: Guilherme Salgado: Canonical e Linaro
 Date: 2011-10-30 21:59
 Author: Og Maciel
 Category: Podcast
+podcast: http://downloads.ogmaciel.com/castalio-podcast-20.mp3
 Tags: ARM, Async, Canonical, Linaro, Ubuntu
 
 ![Guilherme Salgado: Canonical e Linaro]({filename}/images/guilhermesalgado.jpg)

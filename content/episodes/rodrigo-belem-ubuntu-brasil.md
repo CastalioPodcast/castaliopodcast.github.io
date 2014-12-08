@@ -3,6 +3,7 @@ Date: 2012-02-20 00:02
 Author: Og Maciel
 Category: Podcast
 Tags: Amazonas, Antônio Pereira, Arch Linux, ARM, Bash, Battlestar Gallactica, Benjamin Mako Hill, Carlos "segfault" Santiviago, Cavalo de Tróia, DebConf, Debian Amazonas, Debian Linux, Dexter, Doctor Who, Emerson Soares, Encontro Marcado, Fábio Nogueira, File Sharing, Geraldo Azevedo, GNOME, Guia do Muchileiro das Galáxias, Ian Lawrence, Indp, Intel, Jonathan Riddell, KDE, Kubuntu, Lício Fonseca, Licença GPL, Licença MIT, Linaro, MacOS, Marcelo Mendes, Mark Shuttleworth, Mário Meyer, Monty Python, Natural Language Processing with Python, Netflix, Oswaldo Montenegro, Perl, Plasma, Porto alegre, Postology, Professional Ubuntu Mobile Development, python, Python NLTK, Rafel Proença, Roberto Mello, Rodrigo Belém, ShiptIt, Slackware Linux, Supernatural, The Advantage, Tom Venuto, Ubuntu, Ubuntu Brasil, Ubuntu Business Remix, Ubuntu Linux, Ubuntu Mobile, Ubuntu Summit, UMEGuide.net, Unity, Windows
+podcast: http://downloads.ogmaciel.com/castalio-podcast-30.mp3
 
 
 ![Rodrigo Belém: Ubuntu Brasil]({filename}/images/rodrigobelem.png)
