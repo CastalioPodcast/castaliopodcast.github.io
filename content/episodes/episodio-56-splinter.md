@@ -3,7 +3,7 @@ Date: 2014-12-07
 Author: Og Maciel e Elyézer Rezende
 Category: Podcast
 Tags: splinter, selenium, automatização, splinter, selenium, python
-podcast: http://bit.ly/episodio-56-mp3
+podcast: https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3
 
 No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o **Splinter**, uma ferramente muito interessante para quem trabalha com a **automatização** de aplicativos web com **python**.
 
