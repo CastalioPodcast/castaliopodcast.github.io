@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Og Maciel & Eliézer Rezende'
+AUTHOR = u'Og Maciel & Elyézer Rezende'
 SITENAME = u'Castálio Podcast'
 SITEURL = 'http://castalio.info'
 
@@ -28,7 +28,10 @@ FEED_USE_SUMMARY = True
 GITHUB_URL = 'http://github.com/CastalioPodcast'
 
 # Social widget
-SOCIAL = (('@castaliopod', 'https://twitter.com/castaliopod'),)
+SOCIAL = (
+    ('github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
+    ('twitter', 'https://twitter.com/castaliopod'),
+)
 
 DEFAULT_PAGINATION = 10
 
@@ -47,6 +50,7 @@ EXTRA_PATH_METADATA = {
 THEME = './themes/pelican-bootstrap3'
 PLUGIN_PATHS = ['./plugins', ]
 PLUGINS = [
+    'caster',
     'summary',
     'feed_summary',
     'sitemap',
@@ -83,11 +87,11 @@ ITUNES_FEED_PATH = u'feeds/podcast.rss'
 ITUNES_FEED_TITLE = u'Castálio Podcast'
 ITUNES_FEED_EXPLICIT = u'No'
 ITUNES_FEED_LANGUAGE = u'pt-br'
-ITUNES_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2014 Og Maciel'
+ITUNES_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-2014 Og Maciel e Elyézer Rezende'
 ITUNES_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
 ITUNES_FEED_AUTHOR = u'Og Maciel'
 ITUNES_FEED_SUMMARY = u''
 ITUNES_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.jpg'
 ITUNES_FEED_OWNER_NAME = 'Og Maciel'
 ITUNES_FEED_EMAIL_EMAIL = ''
-ITUNES_FEED_CATEGORY = ['Technology', 'Software How-To']
+ITUNES_FEED_CATEGORY = ['Technology', 'Podcasting']
