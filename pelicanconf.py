@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Og Maciel & Eliézer Rezende'
 SITENAME = u'Castálio Podcast'
-SITEURL = ''
+SITEURL = 'http://castalio.info'
 
 PATH = 'content'
 
@@ -50,6 +50,7 @@ PLUGINS = [
     'summary',
     'feed_summary',
     'sitemap',
+    'itunes',
 ]
 
 SITEMAP = {
@@ -76,3 +77,17 @@ BANNER_BACKGROUND_GRADIENT = 'linear-gradient(#2a2a29, #1c1c1c)'
 BANNER_IMAGE = 'images/castalio-podcast.jpg'
 BANNER_IMAGE_HEIGHT = 250
 FAVICON = 'images/favicon.ico'
+
+# iTunes plugin settings
+ITUNES_FEED_PATH = u'feeds/podcast.rss'
+ITUNES_FEED_TITLE = u'Castálio Podcast'
+ITUNES_FEED_EXPLICIT = u'No'
+ITUNES_FEED_LANGUAGE = u'pt-br'
+ITUNES_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2014 Og Maciel'
+ITUNES_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
+ITUNES_FEED_AUTHOR = u'Og Maciel'
+ITUNES_FEED_SUMMARY = u''
+ITUNES_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.jpg'
+ITUNES_FEED_OWNER_NAME = 'Og Maciel'
+ITUNES_FEED_EMAIL_EMAIL = ''
+ITUNES_FEED_CATEGORY = ['Technology', 'Software How-To']
