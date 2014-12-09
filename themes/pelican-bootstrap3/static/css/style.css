@@ -228,3 +228,7 @@ figure.floatcenter, .align-center {
 .banner-image .intro{
 	margin-top: 20px;
 }
+
+article {
+	overflow: auto;
+}
