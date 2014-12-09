@@ -3,11 +3,13 @@
       <hr>
       <div class="row">
          {% if articles %}
-            {% set copy_date = articles[0].date.strftime('%Y') %}
+            {% set copy_date_end = articles[0].date.strftime('%Y') %}
+            {% set copy_date_start = articles[-1].date.strftime('%Y') %}
          {% else %}
-            {% set copy_date = '' %}
+            {% set copy_date_start = '' %}
+            {% set copy_date_end = '' %}
          {% endif %}
-         <div class="col-xs-10">&copy; {{ copy_date }} {{ AUTHOR }}
+         <div class="col-xs-10">&copy; {{ copy_date_start }} - {{ copy_date_end }} {{ AUTHOR }}
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
