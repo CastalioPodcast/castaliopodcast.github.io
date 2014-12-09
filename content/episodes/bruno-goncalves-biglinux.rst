@@ -8,6 +8,8 @@ Bruno Gonçalves: BigLinux
 
 .. figure:: {filename}/images/brunogoncalves.jpg
    :alt: Bruno Gonçalves: BigLinux
+   :align: left
+   :scale: 50%
 
    Bruno Gonçalves: BigLinux
 
@@ -37,6 +39,8 @@ os motivos que o levou a parar o projeto. Também falamos sobre
 Livre <http://uniaolivre.com/>`__, que na minha opinião promete muito, e
 um **livro** que esta escrevendo em parceria com um amigo, chamado
 "**Linux: Simplicidade ao seu Alcance**\ "!
+
+.. more
 
 Quem quizer experimentar o BigLinux, dê uma olhadinha no seguinte
 `link <http://www.las.ic.unicamp.br/pub/biglinux/>`__ para algumas

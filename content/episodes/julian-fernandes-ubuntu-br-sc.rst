@@ -4,10 +4,11 @@ Julian Fernandes: Ubuntu BR SC
 :author: Og Maciel
 :category: Podcast
 :podcast: http://downloads.ogmaciel.com/castalio-podcast-48.mp3
-:tags: ubuntu br sc 
+:tags: ubuntu br sc
 
 .. figure:: {filename}/images/julianfernandes.png
    :alt: Julian Fernandes: Ubuntu BR SC
+   :align: left
 
    Julian Fernandes: Ubuntu BR SC
 
@@ -35,6 +36,8 @@ dispositivo ou serviço! Com uma média de 8 a 10 mil visitantes por dia,
 o Ubuntu BR SC conta com uma equipe super dinâmica que está sempre
 adicionando conteúdo ou respondendo os comentários e perguntas de seus
 visitantes.
+
+.. more
 
 Durante nosso bate-papo conversamos sobre como que o site **Ubuntu BR
 SC** nasceu, quais as ferramentas e tecnologias que são usadas, quem são

@@ -7,6 +7,7 @@ Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 2
 
 .. figure:: {filename}/images/grokpodcast.png
    :alt: Carlos Brando e Rafael Rosa Fu: GrokPodcast
+   :align: left
 
    Carlos Brando e Rafael Rosa Fu: GrokPodcast
 
@@ -20,6 +21,8 @@ interessantes que cada um já fez em suas vidas. Quem tem 5 gatos? Quem
 já escreveu alguns livros sobre Ruby on Rails? Quem curte comédias e
 quem recentemente assistiu um filme sobre sushi? Escutem o finalzinho do
 nosso bate-papo para descrobir! :)
+
+.. more
 
 Claro que vocês podem também assistir o vídeo da entrevista no canal do
 `Youtube <http://bit.ly/QDn1p2>`__!

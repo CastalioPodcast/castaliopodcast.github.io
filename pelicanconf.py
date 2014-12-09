@@ -56,6 +56,7 @@ PLUGINS = [
     'sitemap',
     'itunes',
 ]
+SUMMARY_END_MARKER = "<!-- more -->"
 
 SITEMAP = {
     'format': 'xml',

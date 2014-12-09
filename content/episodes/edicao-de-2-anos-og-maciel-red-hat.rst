@@ -8,6 +8,7 @@ Edição de 2 Anos - Og Maciel: Red Hat
 
 .. figure:: {filename}/images/ogmaciel.jpg
    :alt: Og Maciel: Red Hat
+   :align: left
 
    Og Maciel: Red Hat
 
@@ -42,6 +43,8 @@ estes 60+ minutos conversamos sobre a origem do meu nome, como que eu
 vim parar nos Estados Unidos há 21 anos atrás, minha carreira como
 programador, minha vinda para a Carolina do Norte, sobre o Ubuntu,
 compilando kernels, trabalhando na Red Hat, privacidade, e meu Top 5!
+
+.. more
 
 **Bastidores**: quando gravamos a entrevista, nós tivemos que lutar
 contra alguns problemas técnicos e depois de muita tentativa tivemos que

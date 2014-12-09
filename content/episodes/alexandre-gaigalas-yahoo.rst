@@ -8,6 +8,7 @@ Alexandre Gaigalas: Yahoo
 
 .. figure:: {filename}/images/alexandregaigalas.jpg
    :alt: Alexandre Gaigalas: Yahoo
+   :align: left
 
    Alexandre Gaigalas: Yahoo
 
@@ -30,6 +31,8 @@ o Alexandre fez ao-vivo para o código do **Respect Doc** em
 `homenagem <https://github.com/Respect/Doc/commit/c1b6a473c62253725321eeb4a4125e3c25e709f1>`__
 ao podcast! :)
 
+.. more
+
 Também falamos de programação **RESTful**, **web semântica**, o `Respect
 Project <http://respect.li/>`__ e seu **Top 5**!
 
@@ -37,11 +40,9 @@ Agradeço ao `Rafael Rosa Fu <https://twitter.com/rafaelrosafu>`__ do
 `GrokPodcast <http://grokpodcast.com/>`__ e o `Daniel
 Lima <https://twitter.com/yourwebmaker>`__ por enviarem suas perguntas!
 
-Escute agora:
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-52.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-52.ogg>`__
--  `M4A <http://downloads.ogmaciel.com/castalio-podcast-52.m4a>`__
+Contato
+-------
 
 -  **Web site**:  http://about.me/alganet
 -  **Facebook**:  https://www.facebook.com/alganet
@@ -53,7 +54,18 @@ Escute agora:
 -  **InfoQ**: `Dados na Web Semântica: padrões e
    ferramentas <http://www.infoq.com/br/presentations/web-semantica-dados;jsessionid=E408164E3C4277902ADA1D8782C45380>`__
 
-**Top 5:**
+Escute Agora
+------------
+
+Download
+--------
+
+-  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-52.mp3>`__
+-  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-52.ogg>`__
+-  `M4A <http://downloads.ogmaciel.com/castalio-podcast-52.m4a>`__
+
+Top 5
+-----
 
 -  **Música:** `Mamonas
    Assassinas <http://www.last.fm/search?q=Mamonas+Assassinas>`__
@@ -87,7 +99,8 @@ Escute agora:
 -  **Software:** `Windows Poer
    Shell <https://duckduckgo.com/?q=Windows+Poer+Shell>`__
 
-**Links:**
+Links
+-----
 
 -  `Yahoo <https://duckduckgo.com/?q=Yahoo>`__
 -  `Yahoo Memo <https://duckduckgo.com/?q=Yahoo+Memo>`__

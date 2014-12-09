@@ -1,9 +1,9 @@
 Episódio 55: Editor Vim
 #######################
 :date: 2014-11-23 18:44
-:author: Og Maciel
+:author: Og Maciel e Elyézer Rezende
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-55.mp3
+:podcast: https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3
 :tags: github, vim
 
 .. figure:: {filename}/images/episodio-55-vim.png
@@ -35,6 +35,8 @@ e-mails e comentários de amigos e ouvintes perguntando se o projeto
 estava realmente morto ou se existia alguma chance de trazê-lo de volta
 ao ar, e eu sempre respondi que estava sem tempo livre, nem mesmo para
 editar o áudio, então a resposta era não.
+
+.. more
 
 Eis que nas últimas semanas, tendo participado como convidado do
 `Opencast <http://tecnologiaaberta.com.br/>`__ podcast, aquela vontade
@@ -89,11 +91,10 @@ como usuário, algumas das ferramentas mencionadas aqui são super
 interessantes e podem ser úteis para que você mesmo(a) possa desenvolver
 algo para o seu editor ou aplicativo favorito!!!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-55.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-55.ogg>`__
--  `M4A <http://downloads.ogmaciel.com/castalio-podcast-55.m4a>`__
+.. podcast:: castalio-podcast-55
 
 Links
 -----

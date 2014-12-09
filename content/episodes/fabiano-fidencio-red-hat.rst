@@ -8,6 +8,7 @@ Fabiano Fidêncio: Red Hat
 
 .. figure:: {filename}/images/fabianofidencio.jpg
    :alt: Fabiano Fidêncio: Red Hat
+   :align: left
 
    Fabiano Fidêncio: Red Hat
 
@@ -31,6 +32,8 @@ para uma cidade européia, onde cerveja é mais barato que água!
 Como sempre, a entrevista foi gravada por vídeo e você pode assistir
 nosso bate-papo na íntegra e sem edição `aqui <http://bit.ly/Vfblgu>`__,
 incluindo como que ele está se preparando para se mudar para a europa!
+
+.. more
 
 Escute agora: \*
 `MP3 <http://downloads.ogmaciel.com/castalio-podcast-49.mp3>`__ \*

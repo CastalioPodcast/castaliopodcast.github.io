@@ -8,6 +8,7 @@ Licio Fonseca: Google
 
 .. figure:: {filename}/images/liciofonseca.jpg
    :alt: Licio Fonseca: Google
+   :align: left
 
    Licio Fonseca: Google
 
@@ -30,6 +31,8 @@ teve até o Licio dançando a música `Gangnam
 Style <https://www.youtube.com/watch?v=9bZkp7q19f0>`__ do **PSY**!!! Mas
 se você perdeu a gravação, não esquenta a cabeça porque o vídeo pode ser
 visto `aqui <http://bit.ly/QTNlg0>`__ (aos 41 minutos)! :)
+
+.. more
 
 Escute agora: \*
 `MP3 <http://downloads.ogmaciel.com/castalio-podcast-45.mp3>`__ \*

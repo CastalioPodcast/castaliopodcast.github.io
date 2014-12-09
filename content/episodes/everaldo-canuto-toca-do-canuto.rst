@@ -8,6 +8,7 @@ Everaldo Canuto: Toca do Canuto
 
 .. figure:: {filename}/images/everaldocanuto.png
    :alt: Everaldo Canuto: Toca do Canuto
+   :align: left
 
    Everaldo Canuto: Toca do Canuto
 
@@ -31,6 +32,8 @@ dia-a-dia lidando com o sentimento anti- Microsoft, quais tecnologias
 ele recomenda para quem está começando a trabalhar na área de TI, o
 "problema" do **Java**, e sobre seu mais novo projeto,\ `Toca do
 Canuto <http://www.youtube.com/user/tocadocanuto?feature=g-subs-u>`__.
+
+.. more
 
 Assista o `vídeo <http://bit.ly/Z8tFWJ>`__ da entrevista para ver a
 nossa conversa na íntegra, sem edição e escutar algumas coisas que não

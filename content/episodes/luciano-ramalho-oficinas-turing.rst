@@ -8,6 +8,7 @@ Luciano Ramalho: Oficinas Turing
 
 .. figure:: {filename}/images/lucianoramalho.jpg
    :alt: Luciano Ramalho: Oficinas Turing
+   :align: left
 
    Luciano Ramalho: Oficinas Turing
 
@@ -39,6 +40,8 @@ mesma. Também discutimos sobre os vários frameworks que existem para
 quem quer ser programador web com python, alguns fatos interessantes
 sobre o **Zope**, **Plone**, **Flask**, e **Web2Py**, e quais delas ele
 recomenda para quem está iniciando no mundo de programação.
+
+.. more
 
 Para quem estiver interessado a aprender a programar, o Luciano também
 oferece cursos online na `Oficinas

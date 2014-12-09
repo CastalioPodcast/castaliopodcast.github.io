@@ -32,6 +32,8 @@ escutar sobre outros temas que acabaram ficando de fora na hora da
 edição (devido ao tamanho final do podcast), como seus planos para o
 futuro da equipe.
 
+.. more
+
 Aproveito a oportunidade para agradecer todo o apoio que tenho recebido
 nestes últimos meses, especialmente de vocês que continuam acompanhando
 o podcast e a todo o pessoal do

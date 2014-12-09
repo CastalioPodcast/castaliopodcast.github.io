@@ -8,6 +8,7 @@ Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1
 
 .. figure:: {filename}/images/grokpodcast.png
    :alt: Carlos Brando e Rafael Rosa Fu: GrokPodcast
+   :align: left
 
    Carlos Brando e Rafael Rosa Fu: GrokPodcast
 
@@ -36,6 +37,8 @@ Latin America**, **DirecTV**, **SKY**, **VISA**, \ **Surgeworks**,
 Franca, SP. Também temos o Rafael Rosa Fu que mora em Montreal no
 Canadá, tem 5 gatos (Cecília, Dalila, Ariela, Juju e Bebê), e hoje
 trabalha no **iWeb**.
+
+.. more
 
 No próximo episódio vocês poderam também conhecer um pouco mais sobre o
 lado pessoal e background deles, inclusive como que eles são tão
