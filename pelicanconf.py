@@ -79,7 +79,7 @@ DISQUS_SITENAME = 'castliopodcast'
 GOOGLE_ANALYTICS = "UA-21449168-1"
 
 BANNER = True
-BANNER_SUBTITLE = u"Um podcast inspirado pra castálio!"
+BANNER_SUBTITLE = u"Um podcast inspirado prá castálio!"
 BANNER_BACKGROUND_GRADIENT = 'linear-gradient(#2a2a29, #1c1c1c)'
 BANNER_IMAGE = 'images/castalio-podcast.jpg'
 BANNER_IMAGE_HEIGHT = 250
