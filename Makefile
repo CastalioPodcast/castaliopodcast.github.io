@@ -109,7 +109,7 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 travis: publish
-	ghp-import -n $(OUTPUTDIR)
+	ghp-import  -m "Updated podcast site." -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	@git push -fq https://${GH_TOKEN)@github.com/$(TRAVIS_REPO_SLUG).git master > /dev/null
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github travis
