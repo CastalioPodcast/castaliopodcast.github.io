@@ -31,7 +31,7 @@ GITHUB_URL = 'http://github.com/CastalioPodcast'
 SOCIAL = (
     ('GitHub', 'github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
     ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
-    ('Podcast', 'microphone', 'https://itunes.apple.com/us/podcast/castalio-podcast/id446259197'),
+    ('iTunes', 'apple', 'https://itunes.apple.com/us/podcast/castalio-podcast/id446259197'),
     ('RSS Feed', 'rss', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
 )
 
