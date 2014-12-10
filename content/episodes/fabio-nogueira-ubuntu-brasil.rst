@@ -53,8 +53,7 @@ Escute agora: \*
 `Ogg <http://downloads.ogmaciel.com/castalio-podcast-41.ogg>`__ \*
 `M4A <http://downloads.ogmaciel.com/castalio-podcast-41.m4a>`__
 
--  **Blog**:
-   `http://blog.fnogueira.com.br <http://blog.fnogueira.com.br/>`__
+-  **Blog**: `http://blog.fnogueira.com.br <http://blog.fnogueira.com.br/>`__
 -  **Twitter**:  https://twitter.com/Ubuntuser
 -  **Facebook**:  https://www.facebook.com/ubuntuser
 -  **Google+**:  https://plus.google.com/u/1/113268886471244843047
@@ -79,23 +78,16 @@ Escute agora: \*
 
 **Top 5:**
 
--  **Música:** `Elvis
-   Presley <http://www.last.fm/search?q=Elvis+Presley>`__
+-  **Música:** `Elvis Presley <http://www.last.fm/search?q=Elvis+Presley>`__
 -  **Música:** `Johnny Cash <http://www.last.fm/search?q=Johnny+Cash>`__
 -  **Música:** `Bee Gees <http://www.last.fm/search?q=Bee+Gees>`__
--  **Música:** `Black
-   Sabath <http://www.last.fm/search?q=Black+Sabath>`__
+-  **Música:** `Black Sabath <http://www.last.fm/search?q=Black+Sabath>`__
 -  **Música:** `Deep Purple <http://www.last.fm/search?q=Deep+Purple>`__
--  **Filmes:** `De volta para o
-   futuro <http://www.imdb.com/find?s=all&q=De+volta+para+o+futuro>`__
--  **Filmes:** `Círculo de
-   fogo <http://www.imdb.com/find?s=all&q=Círculo+de+fogo>`__
--  **Livros:** `Stalingrado Cerco
-   Fatal <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Stalingrado+Cerco+Fatal>`__
--  **Livros:** `Portões de
-   Fogo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Portões+de+Fogo>`__
--  **Livros:** `Jorge
-   Amado <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jorge+Amado>`__
+-  **Filmes:** `De volta para o futuro <http://www.imdb.com/find?s=all&q=De+volta+para+o+futuro>`__
+-  **Filmes:** `Círculo de fogo <http://www.imdb.com/find?s=all&q=Círculo+de+fogo>`__
+-  **Livros:** `Stalingrado Cerco Fatal <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Stalingrado+Cerco+Fatal>`__
+-  **Livros:** `Portões de Fogo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Portões+de+Fogo>`__
+-  **Livros:** `Jorge Amado <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jorge+Amado>`__
 
 **Links:**
 
@@ -109,8 +101,7 @@ Escute agora: \*
 -  `Mário Meyer <https://duckduckgo.com/?q=Mário+Meyer>`__
 -  `Paulino Michelazzo <https://duckduckgo.com/?q=Paulino+Michelazzo>`__
 -  `Rodrigo Belém <https://duckduckgo.com/?q=Rodrigo+Belém>`__
--  `Planeta Ubuntu
-   Brasil <https://duckduckgo.com/?q=Planeta+Ubuntu+Brasil>`__
+-  `Planeta Ubuntu Brasil <https://duckduckgo.com/?q=Planeta+Ubuntu+Brasil>`__
 -  `Ian Laurence <https://duckduckgo.com/?q=Ian+Laurence>`__
 -  `Lício Fonseca <https://duckduckgo.com/?q=Lício+Fonseca>`__
 -  `Duda Nogueira <https://duckduckgo.com/?q=Duda+Nogueira>`__
@@ -124,10 +115,6 @@ Escute agora: \*
 -  `Ayrton Araújo <https://duckduckgo.com/?q=Ayrton+Araújo>`__
 -  `Canonical <https://duckduckgo.com/?q=Canonical>`__
 -  `Elvis Presley <https://duckduckgo.com/?q=Elvis+Presley>`__
--  `Coringão <https://duckduckgo.com/?q=Coringão>`__ \*\ **Música**:
-   `Ain't Gonna Give Jelly
-   Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-   by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is
-   licensed under a Creative Commons
-   Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
+-  `Coringão <https://duckduckgo.com/?q=Coringão>`__
+  
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

@@ -40,8 +40,7 @@ Escute agora: \*
 `M4A <http://downloads.ogmaciel.com/castalio-podcast-34.m4a>`__
 
 -  **Blog**:  http://jmonteiro.com/
--  **Twitter**:
-    `twitter.com/jmonteiro <http://twitter.com/jmonteiro>`__
+-  **Twitter**:  `twitter.com/jmonteiro <http://twitter.com/jmonteiro>`__
 -  **Github**:  https://github.com/jmonteiro
 -  **Linked.in:**  http://br.linkedin.com/in/juliosantosmonteiro
 
@@ -65,35 +64,23 @@ Escute agora: \*
 -  **Música:** `Four Tet <http://www.last.fm/search?q=Four+Tet>`__
 -  **Música:** `Justice <http://www.last.fm/search?q=Justice>`__
 -  **Música:** `Kraftwerk <http://www.last.fm/search?q=Kraftwerk>`__
--  **Música:** `Pat Metheny
-   Group <http://www.last.fm/search?q=Pat+Metheny+Group>`__
+-  **Música:** `Pat Metheny Group <http://www.last.fm/search?q=Pat+Metheny+Group>`__
 -  **Música:** `Royksopp <http://www.last.fm/search?q=Royksopp>`__
--  **Música:** `Penguin Cafe
-   Orchestra <http://www.last.fm/search?q=Penguin+Cafe+Orchestra>`__
--  **Música:** `Gotan
-   Project <http://www.last.fm/search?q=Gotan+Project>`__
+-  **Música:** `Penguin Cafe Orchestra <http://www.last.fm/search?q=Penguin+Cafe+Orchestra>`__
+-  **Música:** `Gotan Project <http://www.last.fm/search?q=Gotan+Project>`__
 -  **Música:** `Tanghetto <http://www.last.fm/search?q=Tanghetto>`__
 -  **Podcast:** `Grok Podcast <http://grokpodcast.com/>`__
 -  **Podcast:** `NerdCast <http://jovemnerd.ig.com.br/categoria/nerdcast/>`__
 -  **Podcast:** `Escriba Café <http://www.escribacafe.com/>`__
--  **Filmes:** [Howl's Moving
-   Castle](http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle)
--  **Filmes:** `Game of
-   Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
--  **Filmes:** `The Big Bang
-   Theory <http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory>`__
--  **Filmes:** `The IT
-   Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
--  **Filmes:** `Walking
-   Dead <http://www.imdb.com/find?s=all&q=Walking+Dead>`__
--  **Livros:** `The Tipping
-   Poing <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Tipping+Poing>`__
--  **Livros:**
-   `Blink <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Blink>`__
--  **Livros:**
-   `Outliers <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Outliers>`__
--  **Livros:**
-   `Drive <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive>`__
+-  **Filmes:** [Howl's Moving Castle](http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle)
+-  **Filmes:** `Game of Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
+-  **Filmes:** `The Big Bang Theory <http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory>`__
+-  **Filmes:** `The IT Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
+-  **Filmes:** `Walking Dead <http://www.imdb.com/find?s=all&q=Walking+Dead>`__
+-  **Livros:** `The Tipping Poing <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Tipping+Poing>`__
+-  **Livros:** `Blink <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Blink>`__
+-  **Livros:** `Outliers <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Outliers>`__
+-  **Livros:** `Drive <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive>`__
 
 **Links:**
 
@@ -106,8 +93,7 @@ Escute agora: \*
 -  `Javascript <https://duckduckgo.com/?q=Javascript>`__
 -  `Programação Ruby <https://duckduckgo.com/?q=Programação+Ruby>`__
 -  `Programação Python <https://duckduckgo.com/?q=Programação+Python>`__
--  `Professor Marco
-   André <https://duckduckgo.com/?q=Professor+Marco+André>`__
+-  `Professor Marco André <https://duckduckgo.com/?q=Professor+Marco+André>`__
 -  `Programação PHP <https://duckduckgo.com/?q=Programação+PHP>`__
 -  `Django <https://duckduckgo.com/?q=Django>`__
 -  `TurboGears <https://duckduckgo.com/?q=TurboGears>`__
@@ -119,8 +105,7 @@ Escute agora: \*
 -  `Companhia Startup <https://duckduckgo.com/?q=Companhia+Startup>`__
 -  `Job Board <https://duckduckgo.com/?q=Job+Board>`__
 -  `QA <https://duckduckgo.com/?q=QA>`__
--  `Continuous
-   Integration <https://duckduckgo.com/?q=Continuous+Integration>`__
+-  `Continuous Integration <https://duckduckgo.com/?q=Continuous+Integration>`__
 -  `Heroku <https://duckduckgo.com/?q=Heroku>`__
 -  `Henrique Bastos <https://duckduckgo.com/?q=Henrique+Bastos>`__
 -  `Pedro Belo <https://duckduckgo.com/?q=Pedro+Belo>`__
@@ -134,10 +119,4 @@ Escute agora: \*
 -  `HackerNews <http://news.ycombinator.com/>`__
 -  `HackerNews Monthly <http://hackermonthly.com/>`__
 
-   \*\ **Música**: `Ain't Gonna Give Jelly
-   Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-   by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is
-   licensed under a Creative Commons
-   Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
-
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

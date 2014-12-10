@@ -32,8 +32,7 @@ Escute agora:
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-29.ogg>`__
 
 -  **Blog**:  http://softwarelivre.org/acris/blog
--  **Facebook**:
-    https://www.facebook.com/profile.php?id=100003061250725
+-  **Facebook**:  https://www.facebook.com/profile.php?id=100003061250725
 
 **Resumo:**
 
@@ -56,19 +55,15 @@ Escute agora:
 
 -  **Música:** `Madonna <http://www.last.fm/search?q=Madonna>`__
 -  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
--  **Livros:** `Ponto de
-   Impacto <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ponto+de+Impacto>`__
+-  **Livros:** `Ponto de Impacto <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ponto+de+Impacto>`__
 
 **Links:**
 
--  `Polly Twitter
-   Client <https://duckduckgo.com/?q=Polly+Twitter+Client>`__
+-  `Polly Twitter Client <https://duckduckgo.com/?q=Polly+Twitter+Client>`__
 -  `Texto Livre <https://duckduckgo.com/?q=Texto+Livre>`__
--  `Universidade Federal de Minas
-   Gerais <https://duckduckgo.com/?q=Universidade+Federal+de+Minas+Gerais>`__
+-  `Universidade Federal de Minas Gerais <https://duckduckgo.com/?q=Universidade+Federal+de+Minas+Gerais>`__
 -  `Evidosol <https://duckduckgo.com/?q=Evidosol>`__
--  `Revista Texto
-   Livre <https://duckduckgo.com/?q=Revista+Texto+Livre>`__
+-  `Revista Texto Livre <https://duckduckgo.com/?q=Revista+Texto+Livre>`__
 -  `Ubuntu Brasil <https://duckduckgo.com/?q=Ubuntu+Brasil>`__
 -  `Xoops <https://duckduckgo.com/?q=Xoops>`__
 -  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
@@ -76,29 +71,21 @@ Escute agora:
 -  `Kernel <https://duckduckgo.com/?q=Kernel>`__
 -  `Ning <https://duckduckgo.com/?q=Ning>`__
 -  `Moodle <https://duckduckgo.com/?q=Moodle>`__
--  `Software Livre
-   Educacional <https://duckduckgo.com/?q=Software+Livre+Educacional>`__
--  `Associação Software
-   Livre <https://duckduckgo.com/?q=Associação+Software+Livre>`__
--  `Portal do Professor Livre na
-   Rede <https://duckduckgo.com/?q=Portal+do+Professor+Livre+na+Rede>`__
--  `Inteligência
-   Artificial <https://duckduckgo.com/?q=Inteligência+Artificial>`__
--  `Inteligência
-   Adaptiva <https://duckduckgo.com/?q=Inteligência+Adaptiva>`__
--  `Universidade de São
-   Paulo <https://duckduckgo.com/?q=Universidade+de+São+Paulo>`__
+-  `Software Livre Educacional <https://duckduckgo.com/?q=Software+Livre+Educacional>`__
+-  `Associação Software Livre <https://duckduckgo.com/?q=Associação+Software+Livre>`__
+-  `Portal do Professor Livre na Rede <https://duckduckgo.com/?q=Portal+do+Professor+Livre+na+Rede>`__
+-  `Inteligência Artificial <https://duckduckgo.com/?q=Inteligência+Artificial>`__
+-  `Inteligência Adaptiva <https://duckduckgo.com/?q=Inteligência+Adaptiva>`__
+-  `Universidade de São Paulo <https://duckduckgo.com/?q=Universidade+de+São+Paulo>`__
 -  `Kurt Kraut <https://duckduckgo.com/?q=Kurt+Kraut>`__
 -  `UFBA <https://duckduckgo.com/?q=UFBA>`__
 -  `UNESP <https://duckduckgo.com/?q=UNESP>`__
--  `Laboratório de Semiótica e
-   Tecnologia <https://duckduckgo.com/?q=Laboratório+de+Semiótica+e+Tecnologia>`__
+-  `Laboratório de Semiótica e Tecnologia <https://duckduckgo.com/?q=Laboratório+de+Semiótica+e+Tecnologia>`__
 -  `FAPEMIG <https://duckduckgo.com/?q=FAPEMIG>`__
 -  `Amadeus <http://amadeus.cin.ufpe.br/blog/>`__
 -  `WordPress <https://duckduckgo.com/?q=WordPress>`__
 -  `ULGG <https://duckduckgo.com/?q=ULGG>`__
--  `GT de Educação do
-   FILS <https://duckduckgo.com/?q=GT+de+Educação+do+FILS>`__
+-  `GT de Educação do FILS <https://duckduckgo.com/?q=GT+de+Educação+do+FILS>`__
 -  `FISL <https://duckduckgo.com/?q=FISL>`__
 -  `Praat <https://duckduckgo.com/?q=Praat>`__
 -  `Fedora Linux <https://duckduckgo.com/?q=Fedora+Linux>`__
@@ -113,6 +100,4 @@ problemas por causa de incompatibilidade com versões do **Python <
 2.6**, ele já tem o código "portado", que pode ser encontrado
 aqui: \ https://code.launchpad.net/~conscioususer/polly/python2.6
 
-*\* **Música**: `Sunday Night
-Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__
-por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

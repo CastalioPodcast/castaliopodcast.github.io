@@ -42,8 +42,7 @@ Escute agora: \*
 -  **Blog**:  http://blog.licio.eti.br/
 -  **Twitter**:  http://twitter.com/licio
 -  **Facebook**:  http://www.facebook.com/liciofonseca
--  **Google Plus**:
-    https://plus.google.com/u/1/103327178278111902620/about
+-  **Google Plus**:  https://plus.google.com/u/1/103327178278111902620/about
 -  **Linkedin**:  http://br.linkedin.com/in/liciofonseca
 -  **Github**:  https://github.com/licio
 
@@ -69,31 +68,19 @@ Escute agora: \*
 
 -  **Música:** `Hugh Laurie <http://www.last.fm/search?q=Hugh+Laurie>`__
 -  **Filmes:** `Novela <http://www.imdb.com/find?s=all&q=Novela>`__
--  **Filmes:** `Lisbela e o
-   Prisioneiro <http://www.imdb.com/find?s=all&q=Lisbela+e+o+Prisioneiro>`__
--  **Filmes:** `Homem de
-   Ferro <http://www.imdb.com/find?s=all&q=Homem+de+Ferro>`__
+-  **Filmes:** `Lisbela e o Prisioneiro <http://www.imdb.com/find?s=all&q=Lisbela+e+o+Prisioneiro>`__
+-  **Filmes:** `Homem de Ferro <http://www.imdb.com/find?s=all&q=Homem+de+Ferro>`__
 -  **Filmes:** `Batman <http://www.imdb.com/find?s=all&q=Batman>`__
--  **Filmes:** `Os
-   Vingadores <http://www.imdb.com/find?s=all&q=Os+Vingadores>`__
--  **Livros:** `Longe é um lugar que não
-   existe <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Longe+é+um+lugar+que+não+existe>`__
--  **Livros:** `Richard
-   Bach <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Richard+Bach>`__
--  **Livros:** `Fernão Capelo
-   Gaivota <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fernão+Capelo+Gaivota>`__
--  **Livros:** `Para Gostar de
-   Ler <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Para+Gostar+de+Ler>`__
--  **Livros:** `Carlos Drummond de
-   Andrade <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Carlos+Drummond+de+Andrade>`__
--  **Livros:** `Ben
-   Alves <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ben+Alves>`__
--  **Livros:** `Fernando
-   Sabino <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fernando+Sabino>`__
--  **Livros:** `André
-   Vianco <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=André+Vianco>`__
--  **Livros:** `Hackers and
-   Painters <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters>`__
+-  **Filmes:** `Os Vingadores <http://www.imdb.com/find?s=all&q=Os+Vingadores>`__
+-  **Livros:** `Longe é um lugar que não existe <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Longe+é+um+lugar+que+não+existe>`__
+-  **Livros:** `Richard Bach <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Richard+Bach>`__
+-  **Livros:** `Fernão Capelo Gaivota <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fernão+Capelo+Gaivota>`__
+-  **Livros:** `Para Gostar de Ler <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Para+Gostar+de+Ler>`__
+-  **Livros:** `Carlos Drummond de Andrade <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Carlos+Drummond+de+Andrade>`__
+-  **Livros:** `Ben Alves <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ben+Alves>`__
+-  **Livros:** `Fernando Sabino <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fernando+Sabino>`__
+-  **Livros:** `André Vianco <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=André+Vianco>`__
+-  **Livros:** `Hackers and Painters <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters>`__
 
 **Links:**
 
@@ -106,10 +93,8 @@ Escute agora: \*
 -  `Lake Louise <https://duckduckgo.com/?q=Lake+Louise>`__
 -  `Google Pounds <https://duckduckgo.com/?q=Google+Pounds>`__
 -  `Mountain View <https://duckduckgo.com/?q=Mountain+View>`__
--  `Ubuntu Desktop
-   Summit <https://duckduckgo.com/?q=Ubuntu+Desktop+Summit>`__
--  `Charles Cafe
-   Google <https://duckduckgo.com/?q=Charles+Cafe+Google>`__
+-  `Ubuntu Desktop Summit <https://duckduckgo.com/?q=Ubuntu+Desktop+Summit>`__
+-  `Charles Cafe Google <https://duckduckgo.com/?q=Charles+Cafe+Google>`__
 -  `XBox <https://duckduckgo.com/?q=XBox>`__
 -  `StarWars <https://duckduckgo.com/?q=StarWars>`__
 -  `Marvel <https://duckduckgo.com/?q=Marvel>`__
@@ -117,13 +102,7 @@ Escute agora: \*
 -  `Death Note <https://duckduckgo.com/?q=Death+Note>`__
 -  `Gangnam Style <https://duckduckgo.com/?q=Gangnam+Style>`__
 -  `Transifex <https://duckduckgo.com/?q=Transifex>`__
--  `DataCenter:
-   Chile <http://www.google.com/about/datacenters/locations/quilicura/>`__
--  `DataCenter: North
-   Carolina <http://www.google.com/about/datacenters/locations/lenoir/>`__
+-  `DataCenter: Chile <http://www.google.com/about/datacenters/locations/quilicura/>`__
+-  `DataCenter: North Carolina <http://www.google.com/about/datacenters/locations/lenoir/>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

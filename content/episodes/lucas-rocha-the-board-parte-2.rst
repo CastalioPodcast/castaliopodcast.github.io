@@ -28,10 +28,10 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-11.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-11.ogg>`__ 
 
-| **Blog**: http://lucasr.org/blog/
-| **Twitter**: http://twitter.com/lucasratmundo
-| **Facebook**: http://www.facebook.com/lucasrocha
-| **Identi.ca**: http://identi.ca/lucasr
+**Blog**: http://lucasr.org/blog/
+**Twitter**: http://twitter.com/lucasratmundo
+**Facebook**: http://www.facebook.com/lucasrocha
+**Identi.ca**: http://identi.ca/lucasr
 
 **Resumo:**
 
@@ -60,35 +60,16 @@ Escute agora:
 -  `Node.js <http://nodejs.org/>`__
 -  `MongoDB <http://www.mongodb.org/>`__
 -  `CoffeeScript <http://coffeescript.org/>`__
--  **Música**: `John
-   Coltrane <https://secure.wikimedia.org/wikipedia/en/wiki/John_coltrane>`__
-   (`A Love
-   Supreme <http://www.amazon.com/Love-Supreme-John-Coltrane/dp/B0000A118M/ref=sr_1_1?ie=UTF8&qid=1309220869&sr=8-1>`__)
--  **Música**: `Miles
-   Davis <https://secure.wikimedia.org/wikipedia/en/wiki/Miles_davis>`__
-   (`Kind of
-   Blue <http://www.amazon.com/Kind-Of-Blue/dp/B00136JQMI/ref=sr_1_1?ie=UTF8&qid=1309221007&sr=8-1>`__)
+-  **Música**: `John Coltrane <https://secure.wikimedia.org/wikipedia/en/wiki/John_coltrane>`__ (`A Love Supreme <http://www.amazon.com/Love-Supreme-John-Coltrane/dp/B0000A118M/ref=sr_1_1?ie=UTF8&qid=1309220869&sr=8-1>`__)
+-  **Música**: `Miles Davis <https://secure.wikimedia.org/wikipedia/en/wiki/Miles_davis>`__ (`Kind of Blue <http://www.amazon.com/Kind-Of-Blue/dp/B00136JQMI/ref=sr_1_1?ie=UTF8&qid=1309221007&sr=8-1>`__)
 -  **Livros**: **Agatha Chistie**
--  **Livros**: `The Hacker
-   Ethic <http://www.amazon.com/Hacker-Ethic-Pekka-Himanen/dp/037575878X/ref=sr_1_1?ie=UTF8&qid=1309220775&sr=8-1>`__
-   por **Pekka Himanen**
--  **Livros**: `The Design of Everyday
-   Things <http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?ie=UTF8&qid=1309220669&sr=8-1>`__
-   por **Donald A. Norman**
--  **Livros**: `Melancholy Death of Oyster Boy and Other
-   Stories <http://www.amazon.com/Melancholy-Death-Oyster-Other-Stories/dp/0060526491/ref=sr_1_4?ie=UTF8&qid=1309220636&sr=8-4>`__
-   por **Tim Burton**
--  **Livros**:
-   `Rework <http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&qid=1309219021&sr=8-1>`__
-   por **Jason Fried**
--  **Filme e Televisão**:
-   `MacGyver <https://secure.wikimedia.org/wikipedia/en/wiki/MacGyver>`__
--  **Filme e Televisão**: `The
-   Matrix <http://www.imdb.com/title/tt0133093/>`__
--  **Filme e Televisão**: `Beleza
-   Americana <http://www.imdb.com/title/tt0169547/>`__
--  **Filme e Televisão**: `Cinema
-   Paradiso <http://www.imdb.com/title/tt0095765/>`__
+-  **Livros**: `The Hacker Ethic <http://www.amazon.com/Hacker-Ethic-Pekka-Himanen/dp/037575878X/ref=sr_1_1?ie=UTF8&qid=1309220775&sr=8-1>`__ por **Pekka Himanen**
+-  **Livros**: `The Design of Everyday Things <http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?ie=UTF8&qid=1309220669&sr=8-1>`__ por **Donald A. Norman**
+-  **Livros**: `Melancholy Death of Oyster Boy and Other Stories <http://www.amazon.com/Melancholy-Death-Oyster-Other-Stories/dp/0060526491/ref=sr_1_4?ie=UTF8&qid=1309220636&sr=8-4>`__ por **Tim Burton**
+-  **Livros**: `Rework <http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&qid=1309219021&sr=8-1>`__ por **Jason Fried**
+-  **Filme e Televisão**: `MacGyver <https://secure.wikimedia.org/wikipedia/en/wiki/MacGyver>`__
+-  **Filme e Televisão**: `The Matrix <http://www.imdb.com/title/tt0133093/>`__
+-  **Filme e Televisão**: `Beleza Americana <http://www.imdb.com/title/tt0169547/>`__
+-  **Filme e Televisão**: `Cinema Paradiso <http://www.imdb.com/title/tt0095765/>`__
 -  **Pessoas e Blogs**: `Havoc Pennington <http://blog.ometer.com/>`__
 -  **Pessoas e Blogs**: `Vincent Untz <http://www.vuntz.net/journal/>`__
-

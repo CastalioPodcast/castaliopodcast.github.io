@@ -50,9 +50,9 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-17.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-17.ogg>`__ 
 
-| **Blog**: http://geekdeck.wordpress.com
-| **Twitter**: http://twitter.com/#!/cbx33
-| **Github**: https://github.com/cbx33
+**Blog**: http://geekdeck.wordpress.com
+**Twitter**: http://twitter.com/#!/cbx33
+**Github**: https://github.com/cbx33
 
 **Summary**:
 
@@ -74,34 +74,24 @@ Escute agora:
 
 -  **Music**:  `Lagwagon <http://www.last.fm/music/Lagwagon>`__
 -  **Music**:  `Green Day <http://www.last.fm/music/Green+Day>`__
--  **Music**:  `Mike
-   Oldfield <http://www.last.fm/music/Mike+Oldfield>`__
--  **Music**:
-    `J-Rock <http://duckduckgo.com/?q=!lastfm%20Top%2010%20J-Rock%20Songs>`__
+-  **Music**:  `Mike Oldfield <http://www.last.fm/music/Mike+Oldfield>`__
+-  **Music**:  `J-Rock <http://duckduckgo.com/?q=!lastfm%20Top%2010%20J-Rock%20Songs>`__
 -  **Music**:  `J-Pop <http://www.last.fm/tag/j-pop>`__
--  **Books**:  `Night
-   Watch <http://www.amazon.com/s/ref=ntt_athr_dp_sr_1?_encoding=UTF8&sort=relevancerank&search-alias=books&field-author=Sergei%20Lukyanenko#/ref=nb_sb_ss_i_1_11?field-keywords=night+watch+sergei+lukyanenko&url=search-alias%3Dstripbooks&sprefix=night+watch&rh=n%3A283155%2Ck%3Anight+watch+sergei+lukyanenko>`__
-   series by `Sergei
-   Lukyanenko <https://secure.wikimedia.org/wikipedia/en/wiki/Sergei_Lukyanenko>`__
+-  **Books**:  `Night Watch <http://www.amazon.com/s/ref=ntt_athr_dp_sr_1?_encoding=UTF8&sort=relevancerank&search-alias=books&field-author=Sergei%20Lukyanenko#/ref=nb_sb_ss_i_1_11?field-keywords=night+watch+sergei+lukyanenko&url=search-alias%3Dstripbooks&sprefix=night+watch&rh=n%3A283155%2Ck%3Anight+watch+sergei+lukyanenko>`__ series by `Sergei Lukyanenko <https://secure.wikimedia.org/wikipedia/en/wiki/Sergei_Lukyanenko>`__
 -  **Website**:  `Slashdot <http://slashdot.org/>`__
--  \*\*\*\*Website\*\*\*\*:  `The
-   Register <http://www.theregister.co.uk/>`__
+-  \*\*\*\*Website\*\*\*\*:  `The Register <http://www.theregister.co.uk/>`__
 -  \*\*\*\*Website\*\*\*\*:  `The Daily WTF <http://thedailywtf.com/>`__
--  **Movies**:  `Kamikaze
-   Girls <http://www.imdb.com/title/tt0416220/>`__
+-  **Movies**:  `Kamikaze Girls <http://www.imdb.com/title/tt0416220/>`__
 -  **Movies**:  `Inception <http://www.imdb.com/title/tt1375666/>`__
 -  **Movies**:  `The Prestige <http://www.imdb.com/title/tt0482571/>`__
 
 **Links**:
 
--  `Greater New Hampshire Linux User Group
-   (NHLUG) <http://gnhlug.org/>`__
--  `"Building GUI applications with Python, Gtk and
-   Glade" <http://video.google.com/videoplay?docid=5838951374743244232>`__
+-  `Greater New Hampshire Linux User Group (NHLUG) <http://gnhlug.org/>`__
+-  `"Building GUI applications with Python, Gtk and Glade" <http://video.google.com/videoplay?docid=5838951374743244232>`__
 -  `PyGtk <http://www.pygtk.org/>`__
 -  `Duck Duck Go <https://duckduckgo.com/?t=i>`__
--  `Official Ubuntu
-   Book <https://www.amazon.com/Official-Ubuntu-Book-Benjamin-Mako/dp/0132435942?tag=duckduckgo-d-20>`__
+-  `Official Ubuntu Book <https://www.amazon.com/Official-Ubuntu-Book-Benjamin-Mako/dp/0132435942?tag=duckduckgo-d-20>`__
 -  `Edubuntu <http://www.edubuntu.org/>`__
 -  `PHP <http://www.php.net/>`__
 -  `Knoppix <http://www.knoppix.org/>`__
@@ -118,8 +108,5 @@ Escute agora:
 -  `Bento lunchbox <http://www.bentolunchbox.com/>`__
 -  `Tamagoyaki <https://secure.wikimedia.org/wikipedia/en/wiki/Tamagoyaki>`__
 -  `Manga <https://secure.wikimedia.org/wikipedia/en/wiki/Manga>`__
--  `Hiragana <https://secure.wikimedia.org/wikipedia/en/wiki/Hiragana>`__
-   and
-   `Katakana <https://secure.wikimedia.org/wikipedia/en/wiki/Katakana>`__
+-  `Hiragana <https://secure.wikimedia.org/wikipedia/en/wiki/Hiragana>`__ and `Katakana <https://secure.wikimedia.org/wikipedia/en/wiki/Katakana>`__
 -  `Ethestra <https://github.com/cbx33/ethestra>`__
-

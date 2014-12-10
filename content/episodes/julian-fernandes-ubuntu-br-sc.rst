@@ -63,12 +63,7 @@ Escute agora: \*
 -  **Blog**:  http://www.julianfernandes.com/
 -  **Projeto**:  http://www.ubuntubrsc.com/
 -  **Twitter**:  http://twitter.com/julian_fern
--  **Facebook**:
-    https://www.facebook.com/pages/Julian-Fernandes/514117681932235
+-  **Facebook**:  https://www.facebook.com/pages/Julian-Fernandes/514117681932235
 -  **Google Plus**:  https://plus.google.com/103732078940971226082
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

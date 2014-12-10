@@ -75,46 +75,29 @@ Escute agora: \*
 
 -  **Música:** `Radio Head <http://www.last.fm/search?q=Radio+Head>`__
 -  **Música:** `PJ Harvey <http://www.last.fm/search?q=PJ+Harvey>`__
--  **Música:** `The Black
-   Keys <http://www.last.fm/search?q=The+Black+Keys>`__
--  **Música:** `Queens of the Stone
-   Age <http://www.last.fm/search?q=Queens+of+the+Stone+Age>`__
--  **Música:** `The Atomic
-   BitchWax <http://www.last.fm/search?q=The+Atomic+BitchWax>`__
+-  **Música:** `The Black Keys <http://www.last.fm/search?q=The+Black+Keys>`__
+-  **Música:** `Queens of the Stone Age <http://www.last.fm/search?q=Queens+of+the+Stone+Age>`__
+-  **Música:** `The Atomic BitchWax <http://www.last.fm/search?q=The+Atomic+BitchWax>`__
 -  **Música:** `Cold Play <http://www.last.fm/search?q=Cold+Play>`__
--  **Filmes:** `The Girl with the Dragon
-   Tatoo <http://www.imdb.com/find?s=all&q=The+Girl+with+the+Dragon+Tatoo>`__
--  **Filmes:** `O Senhor dos
-   Anéis <http://www.imdb.com/find?s=all&q=O+Senhor+dos+Anéis>`__
+-  **Filmes:** `The Girl with the Dragon Tatoo <http://www.imdb.com/find?s=all&q=The+Girl+with+the+Dragon+Tatoo>`__
+-  **Filmes:** `O Senhor dos Anéis <http://www.imdb.com/find?s=all&q=O+Senhor+dos+Anéis>`__
 -  **Filmes:** `Fringe <http://www.imdb.com/find?s=all&q=Fringe>`__
--  **Filmes:** `Vampire
-   Diaries <http://www.imdb.com/find?s=all&q=Vampire+Diaries>`__
--  **Filmes:**
-   `Supernatural <http://www.imdb.com/find?s=all&q=Supernatural>`__
--  **Filmes:** `The Big Bang
-   Theory <http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory>`__
--  **Filmes:** `Game of
-   Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
--  **Filmes:**
-   `Adaptation <http://www.imdb.com/find?s=all&q=Adaptation>`__
--  **Filmes:** `Being John
-   Malkovich <http://www.imdb.com/find?s=all&q=Being+John+Malkovich>`__
--  **Livros:** `Clube da
-   Luta <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clube+da+Luta>`__
--  **Livros:** `Survivor: A
-   Novel <http://www.amazon.com/Survivor-A-Novel-Chuck-Palahniuk/dp/0385498721?tag=duckduckgo-d-20>`__
--  **Livros:** `Effective
-   C++ <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Effective+C++>`__
--  **Livros:**
-   `Wikipedia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Wikipedia>`__
--  **Livros:** `Hacker
-   News <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News>`__
+-  **Filmes:** `Vampire Diaries <http://www.imdb.com/find?s=all&q=Vampire+Diaries>`__
+-  **Filmes:** `Supernatural <http://www.imdb.com/find?s=all&q=Supernatural>`__
+-  **Filmes:** `The Big Bang Theory <http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory>`__
+-  **Filmes:** `Game of Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
+-  **Filmes:** `Adaptation <http://www.imdb.com/find?s=all&q=Adaptation>`__
+-  **Filmes:** `Being John Malkovich <http://www.imdb.com/find?s=all&q=Being+John+Malkovich>`__
+-  **Livros:** `Clube da Luta <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clube+da+Luta>`__
+-  **Livros:** `Survivor: A Novel <http://www.amazon.com/Survivor-A-Novel-Chuck-Palahniuk/dp/0385498721?tag=duckduckgo-d-20>`__
+-  **Livros:** `Effective C++ <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Effective+C++>`__
+-  **Livros:** `Wikipedia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Wikipedia>`__
+-  **Livros:** `Hacker News <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News>`__
 
 **Links:**
 
 -  `Heroku <https://duckduckgo.com/?q=Heroku>`__
--  `Platform as a
-   Service <https://duckduckgo.com/?q=Platform+as+a+Service>`__
+-  `Platform as a Service <https://duckduckgo.com/?q=Platform+as+a+Service>`__
 -  `Júlio Monteiro <https://duckduckgo.com/?q=Júlio+Monteiro>`__
 -  `Amazon Cloud <https://duckduckgo.com/?q=Amazon+Cloud>`__
 -  `Dreamhost <https://duckduckgo.com/?q=Dreamhost>`__
@@ -158,8 +141,4 @@ Escute agora: \*
 -  `ActiveRecord <https://duckduckgo.com/?q=ActiveRecord>`__
 -  `Kindle <https://duckduckgo.com/?q=Kindle>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

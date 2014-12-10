@@ -56,40 +56,28 @@ Escute agora:
 
 -  **Música:** `Jethro Tull <http://www.last.fm/search?q=Jethro+Tull>`__
 -  **Música:** `Pink Floyd <http://www.last.fm/search?q=Pink+Floyd>`__
--  **Música:** `Queens of Stone
-   Age <http://www.last.fm/search?q=Queens+of+Stone+Age>`__
+-  **Música:** `Queens of Stone Age <http://www.last.fm/search?q=Queens+of+Stone+Age>`__
 -  **Música:** `Ween <http://www.last.fm/search?q=Ween>`__
--  **Música:** `Jupiter
-   Maçã <http://www.last.fm/search?q=Jupiter+Maçã>`__
+-  **Música:** `Jupiter Maçã <http://www.last.fm/search?q=Jupiter+Maçã>`__
 -  **Música:** `Paralamas <http://www.last.fm/search?q=Paralamas>`__
 -  **Música:** `Engenheiros <http://www.last.fm/search?q=Engenheiros>`__
--  **Filmes:** `The
-   Pacific <http://www.imdb.com/find?s=all&q=The+Pacific>`__
--  **Filmes:** `Monty
-   Python <http://www.imdb.com/find?s=all&q=Monty+Python>`__
+-  **Filmes:** `The Pacific <http://www.imdb.com/find?s=all&q=The+Pacific>`__
+-  **Filmes:** `Monty Python <http://www.imdb.com/find?s=all&q=Monty+Python>`__
 -  **Filmes:** `Snatch <http://www.imdb.com/find?s=all&q=Snatch>`__
--  **Filmes:** `Pulp
-   Fiction <http://www.imdb.com/find?s=all&q=Pulp+Fiction>`__
--  **Filmes:** `Inglorious
-   Bastards <http://www.imdb.com/find?s=all&q=Inglorious+Bastards>`__
+-  **Filmes:** `Pulp Fiction <http://www.imdb.com/find?s=all&q=Pulp+Fiction>`__
+-  **Filmes:** `Inglorious Bastards <http://www.imdb.com/find?s=all&q=Inglorious+Bastards>`__
 -  **Filmes:** `Futurama <http://www.imdb.com/find?s=all&q=Futurama>`__
--  **Filmes:** `Life on
-   Mars <http://www.imdb.com/find?s=all&q=Life+on+Mars>`__
--  **Jogos:** `Portal
-   2 <http://www.amazon.com/Portal-2-Xbox-360/dp/B002I0J9M0/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813372&sr=1-1>`__
--  **Jogos:** `Half Life
-   2 <http://www.amazon.com/Half-Life-2-Xbox/dp/B000B2YR74/ref=sr_1_2?s=videogames&ie=UTF8&qid=1320813403&sr=1-2>`__
--  **Jogos:**
-   `Scribblenauts <http://www.amazon.com/Scribblenauts-Nintendo-DS/dp/B002B1TDV8/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813436&sr=1-1>`__
--  **Jogos:** `Just Cause
-   2 <http://www.amazon.com/Just-Cause-2-Xbox-360/dp/B0013RATNM/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813465&sr=1-1>`__
+-  **Filmes:** `Life on Mars <http://www.imdb.com/find?s=all&q=Life+on+Mars>`__
+-  **Jogos:** `Portal 2 <http://www.amazon.com/Portal-2-Xbox-360/dp/B002I0J9M0/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813372&sr=1-1>`__
+-  **Jogos:** `Half Life 2 <http://www.amazon.com/Half-Life-2-Xbox/dp/B000B2YR74/ref=sr_1_2?s=videogames&ie=UTF8&qid=1320813403&sr=1-2>`__
+-  **Jogos:** `Scribblenauts <http://www.amazon.com/Scribblenauts-Nintendo-DS/dp/B002B1TDV8/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813436&sr=1-1>`__
+-  **Jogos:** `Just Cause 2 <http://www.amazon.com/Just-Cause-2-Xbox-360/dp/B0013RATNM/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813465&sr=1-1>`__
 
 **Links:**
 
 -  `Asobo Studio <https://duckduckgo.com/?q=Asobo+Studio>`__
 -  `Western Union <https://duckduckgo.com/?q=Western+Union>`__
--  `Deer Hunter
-   Tournament <https://duckduckgo.com/?q=Deer+Hunter+Tournament>`__
+-  `Deer Hunter Tournament <https://duckduckgo.com/?q=Deer+Hunter+Tournament>`__
 -  `Party Planner <https://duckduckgo.com/?q=Party+Planner>`__
 -  `Wii <https://duckduckgo.com/?q=Wii>`__
 -  `XBox <https://duckduckgo.com/?q=XBox>`__
@@ -111,8 +99,7 @@ Escute agora:
 -  `GPS <https://duckduckgo.com/?q=GPS>`__
 -  `Checkpoint <https://duckduckgo.com/?q=Checkpoint>`__
 -  `Head Hunter <https://duckduckgo.com/?q=Head+Hunter>`__
--  `Asobo Studio
-   Ratatuille <https://duckduckgo.com/?q=Asobo+Studio+Ratatuille>`__
+-  `Asobo Studio Ratatuille <https://duckduckgo.com/?q=Asobo+Studio+Ratatuille>`__
 -  `Pixar <https://duckduckgo.com/?q=Pixar>`__
 -  `Toy Story 3 <https://duckduckgo.com/?q=Toy+Story+3>`__
 -  `Asobo Studio Fuel <https://duckduckgo.com/?q=Asobo+Studio+Fuel>`__
@@ -126,11 +113,9 @@ Escute agora:
 -  `Companhia de jogos Aquiris <http://www.aquiris.com.br/pt/home/>`__
 -  `PSN <https://duckduckgo.com/?q=PSN>`__
 -  `Crayon Physics <https://duckduckgo.com/?q=Crayon+Physics>`__
--  `Atomic Zoombie
-   Smasher <https://duckduckgo.com/?q=Atomic+Zoombie+Smasher>`__
+-  `Atomic Zoombie Smasher <https://duckduckgo.com/?q=Atomic+Zoombie+Smasher>`__
 -  `Tumbler <https://duckduckgo.com/?q=Tumbler>`__
--  `Foto de 2003 parecendo um
-   indio <http://acoster.tumblr.com/post/10514260563/thats-me-as-a-freshman-at-ufrgs-back-in-2003>`__
+-  `Foto de 2003 parecendo um indio <http://acoster.tumblr.com/post/10514260563/thats-me-as-a-freshman-at-ufrgs-back-in-2003>`__
 -  `Unabomber <https://duckduckgo.com/?q=Unabomber>`__
 -  `Eclipse <https://duckduckgo.com/?q=Eclipse>`__
 -  `Visual Studio <https://duckduckgo.com/?q=Visual+Studio>`__
@@ -140,4 +125,3 @@ Escute agora:
 -  `TextMate <https://duckduckgo.com/?q=TextMate>`__
 -  `Valve <https://duckduckgo.com/?q=Valve>`__
 -  `Steam <https://duckduckgo.com/?q=Steam>`__
-

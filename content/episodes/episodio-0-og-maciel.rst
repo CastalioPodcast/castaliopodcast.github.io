@@ -65,4 +65,3 @@ Escute agora:
 -  **Subversion**: http://en.wikipedia.org/wiki/Subversion_(software)
 -  **Bitbucket**: https://bitbucket.org/
 -  **BillReminder**: http://billreminder.gnulinuxbrasil.org/
-

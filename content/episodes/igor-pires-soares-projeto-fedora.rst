@@ -40,10 +40,10 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-12.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-12.ogg>`__ 
 
-| **Blog**: http://igorsoares.com/
-| **Twitter**: http://www.twitter.com/igorsoares
-| **Identi.ca**: http://identi.ca/igorsoares
-| **Linked.in**: http://www.linkedin.com/pub/igor-soares/29/4a1/99a
+**Blog**: http://igorsoares.com/
+**Twitter**: http://www.twitter.com/igorsoares
+**Identi.ca**: http://identi.ca/igorsoares
+**Linked.in**: http://www.linkedin.com/pub/igor-soares/29/4a1/99a
 
 **Resumo**:
 
@@ -59,8 +59,7 @@ Escute agora:
 **Links**:
 
 -  `Transifex <http://transifex.net>`__
--  `Smolt <https://secure.wikimedia.org/wikipedia/en/wiki/Smolt_(Linux)>`__
-   (sistema de pesquisas de hardware)
+-  `Smolt <https://secure.wikimedia.org/wikipedia/en/wiki/Smolt_(Linux)>`__ (sistema de pesquisas de hardware)
 -  `FUDCon <http://fedoraproject.org/wiki/FUDCon>`__
 -  **Música**: U2
 -  **Música**: REM
@@ -76,8 +75,6 @@ Escute agora:
 -  **Livros**: Quadrinhos e revistas de informática
 -  **Livros**: José Saramago
 -  **Pessoas/Sites**: `BR-Linux <http://br-linux.org/>`__
--  **Pessoas/Sites**: Blog do `Diego Búrigo
-   Zacarão <http://diegobz.net/>`__
+-  **Pessoas/Sites**: Blog do `Diego Búrigo Zacarão <http://diegobz.net/>`__
 -  **Pessoas/Sites**: `OS News <http://www.osnews.com/>`__
 -  **Pessoas/Sites**: `Linux Forums <http://www.linuxforums.org/>`__
-

@@ -82,33 +82,23 @@ Escute agora: \*
 **Top 5:**
 
 -  **Música:** `Raul Seixas <http://www.last.fm/search?q=Raul+Seixas>`__
--  **Música:** `Ultrage a
-   Rigor <http://www.last.fm/search?q=Ultrage+a+Rigor>`__
+-  **Música:** `Ultrage a Rigor <http://www.last.fm/search?q=Ultrage+a+Rigor>`__
 -  **Música:** `Chuck Berry <http://www.last.fm/search?q=Chuck+Berry>`__
--  **Música:** `Elvis
-   Presley <http://www.last.fm/search?q=Elvis+Presley>`__
+-  **Música:** `Elvis Presley <http://www.last.fm/search?q=Elvis+Presley>`__
 -  **Música:** `Planet Hemp <http://www.last.fm/search?q=Planet+Hemp>`__
 -  **Música:** `Frejat <http://www.last.fm/search?q=Frejat>`__
 -  **Filmes:** `Rocky <http://www.imdb.com/find?s=all&q=Rocky>`__
 -  **Filmes:** `Scarface <http://www.imdb.com/find?s=all&q=Scarface>`__
 -  **Filmes:** `Chavez <http://www.imdb.com/find?s=all&q=Chavez>`__
 -  **Filmes:** `Chapolin <http://www.imdb.com/find?s=all&q=Chapolin>`__
--  **Filmes:** `O Grande Dragão
-   Branco <http://www.imdb.com/find?s=all&q=O+Grande+Dragão+Branco>`__
--  **Livros:** `Fórum
-   BigLinux <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+BigLinux>`__
--  **Livros:** `Fórum Ubuntu
-   BR <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Ubuntu+BR>`__
--  **Livros:** `Fórum Outer
-   Space <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Outer+Space>`__
--  **Livros:** `Fórum Hard
-   Science <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Hard+Science>`__
--  **Livros:**
-   `BR-Linux <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=BR-Linux>`__
--  **Livros:** `Forum
-   nix <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Forum+nix>`__
--  **Livros:** `Planet
-   KDE <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Planet+KDE>`__
+-  **Filmes:** `O Grande Dragão Branco <http://www.imdb.com/find?s=all&q=O+Grande+Dragão+Branco>`__
+-  **Livros:** `Fórum BigLinux <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+BigLinux>`__
+-  **Livros:** `Fórum Ubuntu BR <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Ubuntu+BR>`__
+-  **Livros:** `Fórum Outer Space <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Outer+Space>`__
+-  **Livros:** `Fórum Hard Science <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Hard+Science>`__
+-  **Livros:** `BR-Linux <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=BR-Linux>`__
+-  **Livros:** `Forum nix <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Forum+nix>`__
+-  **Livros:** `Planet KDE <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Planet+KDE>`__
 
 **Links:**
 
@@ -145,8 +135,4 @@ Escute agora: \*
 -  `Canonical <https://duckduckgo.com/?q=Canonical>`__
 -  `Mint Linux <https://duckduckgo.com/?q=Mint+Linux>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

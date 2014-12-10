@@ -56,46 +56,30 @@ Escute agora: \*
 **Top 5:**
 
 -  **Música:** `Samba <http://www.last.fm/search?q=Samba>`__
--  **Música:** `Martinho da
-   Vila <http://www.last.fm/search?q=Martinho+da+Vila>`__
--  **Música:**
-   `Dominguinhos <http://www.last.fm/search?q=Dominguinhos>`__
--  **Música:** `Jack
-   Johnson <http://www.last.fm/search?q=Jack+Johnson>`__
+-  **Música:** `Martinho da Vila <http://www.last.fm/search?q=Martinho+da+Vila>`__
+-  **Música:** `Dominguinhos <http://www.last.fm/search?q=Dominguinhos>`__
+-  **Música:** `Jack Johnson <http://www.last.fm/search?q=Jack+Johnson>`__
 -  **Música:** `Ben Harper <http://www.last.fm/search?q=Ben+Harper>`__
--  **Música:** `Yamandu
-   Costa <http://www.last.fm/search?q=Yamandu+Costa>`__
--  **Filmes:** `O Poderoso Chefão
-   I <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+I>`__
--  **Filmes:** `O Poderoso Chefão
-   II <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+II>`__
--  **Filmes:** `O Clube da
-   Luta <http://www.imdb.com/find?s=all&q=O+Clube+da+Luta>`__
--  **Filmes:**
-   `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
+-  **Música:** `Yamandu Costa <http://www.last.fm/search?q=Yamandu+Costa>`__
+-  **Filmes:** `O Poderoso Chefão I <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+I>`__
+-  **Filmes:** `O Poderoso Chefão II <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+II>`__
+-  **Filmes:** `O Clube da Luta <http://www.imdb.com/find?s=all&q=O+Clube+da+Luta>`__
+-  **Filmes:** `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
 -  **Filmes:** `Amelie <http://www.imdb.com/find?s=all&q=Amelie>`__
--  **Livros:** `Introdução a
-   Algorítimos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Introdução+a+Algorítimos>`__
--  **Livros:** `Programming
-   Perl <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Perl>`__
--  **Livros:** `Zen, The Art of Motocycle
-   Repair <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Zen,+The+Art+of+Motocycle+Repair>`__
--  **Livros:** `Pelejas de Ojuara, o Homem que Desafiou o
-   Diabo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pelejas+de+Ojuara,+o+Homem+que+Desafiou+o+Diabo>`__
--  **Livros:** `The Visual Display of Quantitative
-   Information <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Visual+Display+of+Quantitative+Information>`__
+-  **Livros:** `Introdução a Algorítimos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Introdução+a+Algorítimos>`__
+-  **Livros:** `Programming Perl <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Perl>`__
+-  **Livros:** `Zen, The Art of Motocycle Repair <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Zen,+The+Art+of+Motocycle+Repair>`__
+-  **Livros:** `Pelejas de Ojuara, o Homem que Desafiou o Diabo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pelejas+de+Ojuara,+o+Homem+que+Desafiou+o+Diabo>`__
+-  **Livros:** `The Visual Display of Quantitative Information <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Visual+Display+of+Quantitative+Information>`__
 
 **Links:**
 
 -  `Ubuntero <https://duckduckgo.com/?q=Ubuntero>`__
 -  `Youtube <https://duckduckgo.com/?q=Youtube>`__
 -  `Facebook <https://duckduckgo.com/?q=Facebook>`__
--  `Universidade Federal de Campinas
-   Grande <https://duckduckgo.com/?q=Universidade+Federal+de+Campinas+Grande>`__
--  `Non Disclosure
-   Agreement <https://duckduckgo.com/?q=Non+Disclosure+Agreement>`__
--  `Sistema de Controle de
-   Versão <https://duckduckgo.com/?q=Sistema+de+Controle+de+Versão>`__
+-  `Universidade Federal de Campinas Grande <https://duckduckgo.com/?q=Universidade+Federal+de+Campinas+Grande>`__
+-  `Non Disclosure Agreement <https://duckduckgo.com/?q=Non+Disclosure+Agreement>`__
+-  `Sistema de Controle de Versão <https://duckduckgo.com/?q=Sistema+de+Controle+de+Versão>`__
 -  `Javascript <https://duckduckgo.com/?q=Javascript>`__
 -  `API <https://duckduckgo.com/?q=API>`__
 -  `Vale do Silício <https://duckduckgo.com/?q=Vale+do+Silício>`__
@@ -106,8 +90,4 @@ Escute agora: \*
 -  `Mark Zuckerberg <https://duckduckgo.com/?q=Mark+Zuckerberg>`__
 -  `Skype <https://duckduckgo.com/?q=Skype>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

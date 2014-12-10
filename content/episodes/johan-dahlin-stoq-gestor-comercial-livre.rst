@@ -33,8 +33,7 @@ Escute agora:
 
 **Links**:
 
--  Goleiro da equipe **Malmö FF** da Suecia:
-   https://secure.wikimedia.org/wikipedia/en/wiki/Johan\_Dahlin?
+-  Goleiro da equipe **Malmö FF** da Suecia: https://secure.wikimedia.org/wikipedia/en/wiki/Johan\_Dahlin?
 -  **Filmes**: 8 1/2 do Felini
 -  **Filmes**: Pulp Fiction
 -  **Filmes**: Miyazaki (Spirited Away)
@@ -51,4 +50,3 @@ Escute agora:
 -  **Pessoas/Blogs**: Joel on Software
 -  **Pessoas/Blogs**: Coding Horror
 -  **Pessoas/Blogs**: Guido pai do python
-

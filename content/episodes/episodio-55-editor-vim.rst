@@ -106,22 +106,14 @@ Links
 -  Gerenciadores de plugins:
 
    -  `Vundle <https://github.com/gmarik/Vundle.vim>`__
-   -  `NeoBundle <https://github.com/Shougo/neobundle.vim>`__ (versão
-      melhorada do Vundle)
+   -  `NeoBundle <https://github.com/Shougo/neobundle.vim>`__ (versão melhorada do Vundle)
 
--  `Vim
-   Bootstrap <http://vim-bootstrap.com/>`__ (`vim-bootstrap <https://github.com/avelino/vim-bootstrap>`__
-   no Github, consulte para uma `lista de
-   atalhos <https://github.com/avelino/vim-bootstrap#commands>`__)
+-  `Vim Bootstrap <http://vim-bootstrap.com/>`__ (`vim-bootstrap <https://github.com/avelino/vim-bootstrap>`__ no Github, consulte para uma `lista de atalhos <https://github.com/avelino/vim-bootstrap#commands>`__)
 -  `oh-my-vim <https://github.com/liangxianzhe/oh-my-vim>`__
--  `oh-my-zsh <https://github.com/robbyrussell/oh-my-zsh>`__ (framework
-   para o zsh)
--  `vim-solarized <https://github.com/altercation/vim-colors-solarized>`__ (tema
-   de cores)
--  `Syntastic <https://github.com/scrooloose/syntastic>`__ (plugin para
-   verificação da sintaxe)
--  `vim-fugitive <https://github.com/tpope/vim-fugitive>`__ (git wrapper
-   para o vim)
+-  `oh-my-zsh <https://github.com/robbyrussell/oh-my-zsh>`__ (framework para o zsh)
+-  `vim-solarized <https://github.com/altercation/vim-colors-solarized>`__ (tema de cores)
+-  `Syntastic <https://github.com/scrooloose/syntastic>`__ (plugin para verificação da sintaxe)
+-  `vim-fugitive <https://github.com/tpope/vim-fugitive>`__ (git wrapper para o vim)
 -  `ctrlp plugin <https://github.com/kien/ctrlp.vim>`__
 -  `gist-vim plugin <https://github.com/mattn/gist-vim>`__
 -  `jedi-vim plugin <https://github.com/davidhalter/jedi-vim>`__
@@ -148,8 +140,4 @@ realizar a seleção caracter por caracter. "Shift+v" ("V") para entrar no
 modo visual, mas selecionando linhas. Ao realizar uma seleção utilize
 "y" para copiar e, no modo normal, "p" para colar.
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

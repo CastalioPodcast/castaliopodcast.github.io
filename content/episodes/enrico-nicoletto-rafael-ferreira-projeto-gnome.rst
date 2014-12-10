@@ -76,8 +76,7 @@ Escute agora:
 -  **Filmes:** `Sexto Sentido <http://www.imdb.com/find?s=all&q=Sexto+Sentido>`__
 -  **Livros:** `Biblia Sagrada <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Biblia+Sagrada>`__
 -  **Livros:** `Deus Tem Um Plano Para Voce <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus+Tem+Um+Plano+Para+Voce>`__
--  **Livros:** `Laugh and learn : 95 ways to use humor for more
-   effective teaching and training <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Laugh+and+learn+:+95+ways+to+use+humor+for+more+effective+teaching+and+training>`__
+-  **Livros:** `Laugh and learn : 95 ways to use humor for more effective teaching and training <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Laugh+and+learn+:+95+ways+to+use+humor+for+more+effective+teaching+and+training>`__
 -  **Livros:** `How Things Work Encyclopedia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=How+Things+Work+Encyclopedia>`__
 -  **Livros:** `Sagarana <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sagarana>`__
 -  **Livros:** `O Hobbit <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit>`__

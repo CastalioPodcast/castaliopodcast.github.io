@@ -42,9 +42,9 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-13.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-13.ogg>`__ 
 
-| **Blog**: /
-| **Twitter**: https://twitter.com/#!/_alibezz
-| **Facebook**: https://www.facebook.com/people/Aline-Bessa/1019868161
+**Blog**: /
+**Twitter**: https://twitter.com/#!/_alibezz
+**Facebook**: https://www.facebook.com/people/Aline-Bessa/1019868161
 
 **Resumo**:
 
@@ -70,28 +70,20 @@ Escute agora:
 -  **Música**: Bloody Valentine
 -  **Música**: Velvet Underground
 -  **Música**: David Bowie
--  **Livro**: **On The Road** por \ `Jack
-   Kerouac <http://www.amazon.com/Jack-Kerouac/e/B000APV9LY/ref=sr_ntt_srch_lnk_1?qid=1310835590&sr=8-1>`__
--  **Livro**: **The Corrections** e **Freedom** por \ `Jonathan
-   Franzen <http://www.amazon.com/Jonathan-Franzen/e/B00458HQ7S/ref=sr_ntt_srch_lnk_1?qid=1310835694&sr=8-1>`__
--  **Livro**: **Cem Anos de Solidão** por `Gabriel Garcia
-   Marquez <http://www.amazon.com/Gabriel-Garcia-Marquez/e/B000AQ1JWC/ref=sr_ntt_srch_lnk_1?qid=1310835752&sr=8-1>`__
+-  **Livro**: **On The Road** por \ `Jack Kerouac <http://www.amazon.com/Jack-Kerouac/e/B000APV9LY/ref=sr_ntt_srch_lnk_1?qid=1310835590&sr=8-1>`__
+-  **Livro**: **The Corrections** e **Freedom** por \ `Jonathan Franzen <http://www.amazon.com/Jonathan-Franzen/e/B00458HQ7S/ref=sr_ntt_srch_lnk_1?qid=1310835694&sr=8-1>`__
+-  **Livro**: **Cem Anos de Solidão** por `Gabriel Garcia Marquez <http://www.amazon.com/Gabriel-Garcia-Marquez/e/B000AQ1JWC/ref=sr_ntt_srch_lnk_1?qid=1310835752&sr=8-1>`__
 -  **Livro**: **O Jogo da Amarelinha** por \ **Julio Cortazar** and
    **Fernando de Castro Ferro**
--  **Livro**: **To the Light House** por `Virginia
-   Woolf <http://www.amazon.com/Virginia-Woolf/e/B000AQ1T7W/ref=sr_ntt_srch_lnk_1?qid=1310835868&sr=8-1>`__
--  **Filme**: A Dupla Vida de Veronique do \ `Krzysztof
-   Kieslowski <http://www.imdb.com/name/nm0001425/>`__
+-  **Livro**: **To the Light House** por `Virginia Woolf <http://www.amazon.com/Virginia-Woolf/e/B000AQ1T7W/ref=sr_ntt_srch_lnk_1?qid=1310835868&sr=8-1>`__
+-  **Filme**: A Dupla Vida de Veronique do \ `Krzysztof Kieslowski <http://www.imdb.com/name/nm0001425/>`__
 -  **Filme**: O Poderoso Chefão (trilogia)
 -  **Filme** : Matrix (trilogia)
 -  **Filme**: De Volta Para o Futuro (trilogia)
--  **Filmes**: Curtindo a Vida a Doidado e outros filmes do `John
-   Hughes <http://www.imdb.com/name/nm0000455/>`__
--  **Pessoas/Web Site**: `Já Matei Por Menos e Já Escrevi Por
-   Mais <http://mateipormenos.blogspot.com/>`__ da **Juliana Cunha**
+-  **Filmes**: Curtindo a Vida a Doidado e outros filmes do `John Hughes <http://www.imdb.com/name/nm0000455/>`__
+-  **Pessoas/Web Site**: `Já Matei Por Menos e Já Escrevi Por Mais <http://mateipormenos.blogspot.com/>`__ da **Juliana Cunha**
 -  **Pessoas/Web Site**: `XKCD <http://xkcd.com/>`__
--  **Pessoas/Web Site**: `Fiction
-   Press <http://www.fictionpress.com/>`__
+-  **Pessoas/Web Site**: `Fiction Press <http://www.fictionpress.com/>`__
 
 **Links**:
 
@@ -102,6 +94,4 @@ Escute agora:
 -  `Revista Espírito Livre <http://www.revista.espiritolivre.org/>`__
 -  `HackToons <http://hacktoon.com/>`__
 
-E não se esqueça de votar
-no \ `Castálio <http://premiofrida.org/por/projects/view/1424>`__ para o
-**Prêmio Frida**!
+E não se esqueça de votar no \ `Castálio <http://premiofrida.org/por/projects/view/1424>`__ para o **Prêmio Frida**!

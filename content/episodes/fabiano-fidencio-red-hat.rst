@@ -52,16 +52,14 @@ Escute agora: \*
    -  `Tim Maia <http://www.last.fm/music/Tim+Maia?ac=tim%20maia>`__
    -  `Criolo <http://www.criolo.net/music.html>`__
    -  `Arnaldo Baptista <http://www.arnaldobaptista.com.br/>`__
-   -  `Os
-      Mutantes <http://www.last.fm/music/Os+Mutantes?ac=os%20muta>`__
+   -  `Os Mutantes <http://www.last.fm/music/Os+Mutantes?ac=os%20muta>`__
    -  `Taquinho Noronha <http://www.myspace.com/taquinhonoronha>`__
    -  `The Name <http://www.myspace.com/thenamemusik>`__
    -  `Club America <https://www.facebook.com/clubclubamerica>`__
    -  `Schoolbell <https://soundcloud.com/rwbclub/schoobell-spin-me>`__
    -  `Bonde do Rolê <https://soundcloud.com/bondedorole>`__
    -  `Pink Floyd <http://www.last.fm/music/Pink+Floyd?ac=pink>`__
-   -  `Led
-      Zeppelin <http://www.last.fm/music/Led+Zeppelin?ac=led%20zep>`__
+   -  `Led Zeppelin <http://www.last.fm/music/Led+Zeppelin?ac=led%20zep>`__
    -  `Panthera <http://www.last.fm/music/Pantera?ac=pantera>`__
    -  `Miles Davis <http://www.last.fm/music/Miles+Davis?ac=miles>`__
 
@@ -75,8 +73,7 @@ Escute agora: \*
 **Links:**
 
 -  `Planet GNOME <https://duckduckgo.com/?q=Planet+GNOME>`__
--  `Google Summer of
-   Code <https://duckduckgo.com/?q=Google+Summer+of+Code>`__
+-  `Google Summer of Code <https://duckduckgo.com/?q=Google+Summer+of+Code>`__
 -  `GOME Boxes <https://duckduckgo.com/?q=GOME+Boxes>`__
 -  `libosinfo <https://duckduckgo.com/?q=libosinfo>`__
 -  `VMWare Player <https://duckduckgo.com/?q=VMWare+Player>`__
@@ -96,8 +93,4 @@ Escute agora: \*
 -  `Brno <https://duckduckgo.com/?q=Brno>`__
 -  `South by SouthWest <https://duckduckgo.com/?q=South+by+SouthWest>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

@@ -51,15 +51,13 @@ Escute agora: \*
 
 **Links:**
 
--  `Rails Podcast
-   Brasil <https://duckduckgo.com/?q=Rails+Podcast+Brasil>`__
+-  `Rails Podcast Brasil <https://duckduckgo.com/?q=Rails+Podcast+Brasil>`__
 -  `Fábio Akita <https://duckduckgo.com/?q=Fábio+Akita>`__
 -  `RubyConf <https://duckduckgo.com/?q=RubyConf>`__
 -  `Ruby Inside <https://duckduckgo.com/?q=Ruby+Inside>`__
 -  `PayPal <https://duckduckgo.com/?q=PayPal>`__
 -  `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__
--  [Founders at Work: Stories of Startups' Early
-   Days](https://duckduckgo.com/?q=Founders+at+Work:+Stories+of+Startups'+Early+Days)
+-  [Founders at Work: Stories of Startups' Early Days](https://duckduckgo.com/?q=Founders+at+Work:+Stories+of+Startups'+Early+Days)
 -  `Jessica Livingston <https://duckduckgo.com/?q=Jessica+Livingston>`__
 -  `José Valim <https://duckduckgo.com/?q=José+Valim>`__
 -  `Rework <https://duckduckgo.com/?q=Rework>`__
@@ -74,8 +72,7 @@ Escute agora: \*
 -  `Arduino <https://duckduckgo.com/?q=Arduino>`__
 -  `Wikipedia <https://duckduckgo.com/?q=Wikipedia>`__
 -  `Erlang <https://duckduckgo.com/?q=Erlang>`__
--  `X4 Internet Development
-   Solutions <https://duckduckgo.com/?q=X4+Internet+Development+Solutions>`__
+-  `X4 Internet Development Solutions <https://duckduckgo.com/?q=X4+Internet+Development+Solutions>`__
 -  `Webbynode <https://duckduckgo.com/?q=Webbynode>`__
 -  `WordPress <https://duckduckgo.com/?q=WordPress>`__
 -  `Dreamhost <https://duckduckgo.com/?q=Dreamhost>`__
@@ -91,8 +88,4 @@ Escute agora: \*
 -  `Rdio <https://duckduckgo.com/?q=Rdio>`__
 -  `DatabaseCast <https://duckduckgo.com/?q=DatabaseCast>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

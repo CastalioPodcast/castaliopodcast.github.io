@@ -59,7 +59,4 @@ Links mencionados:
 -  `Fedora Brasil <http://www.projetofedora.org/>`__
 -  `FISL <http://softwarelivre.org/fisl11/english/news>`__
 -  `Indifex <http://www.indifex.com/>`__
--  **Livro**: `Digital
-   Fortress <http://www.amazon.com/Digital-Fortress-Thriller-Dan-Brown/dp/0312944926/ref=sr_1_1?ie=UTF8&qid=1304171005&sr=8-1>`__
-   por **Dan Brown**
-
+-  **Livro**: `Digital Fortress <http://www.amazon.com/Digital-Fortress-Thriller-Dan-Brown/dp/0312944926/ref=sr_1_1?ie=UTF8&qid=1304171005&sr=8-1>`__ por **Dan Brown**

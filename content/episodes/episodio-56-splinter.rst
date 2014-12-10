@@ -146,13 +146,7 @@ Links
 -  `Splinter <http://splinter.cobrateam.info/en/latest/>`__
 -  `Selenium <http://docs.seleniumhq.org/>`__
 -  `Selenium IDE <http://docs.seleniumhq.org/projects/ide/>`__
--  `Selenium
-   WebDriver <http://docs.seleniumhq.org/projects/webdriver/>`__
--  `Satellite
-   6 <https://www.youtube.com/watch?v=BlNl7BJTUBs&list=PLcvmpY7C1j8l2rizvq7HLxLxX2fZioEuw>`__
+-  `Selenium WebDriver <http://docs.seleniumhq.org/projects/webdriver/>`__
+-  `Satellite 6 <https://www.youtube.com/watch?v=BlNl7BJTUBs&list=PLcvmpY7C1j8l2rizvq7HLxLxX2fZioEuw>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

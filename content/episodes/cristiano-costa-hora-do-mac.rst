@@ -68,37 +68,25 @@ Escute agora: \*
 **Top 5:**
 
 -  **Música:** `Sex Pistols <http://www.last.fm/search?q=Sex+Pistols>`__
--  **Música:** `Dead
-   Kennedys <http://www.last.fm/search?q=Dead+Kennedys>`__
+-  **Música:** `Dead Kennedys <http://www.last.fm/search?q=Dead+Kennedys>`__
 -  **Música:** `U2 <http://www.last.fm/search?q=U2>`__
 -  **Música:** `R.E.M. <http://www.last.fm/search?q=R.E.M.>`__
 -  **Música:** `Norah Jones <http://www.last.fm/search?q=Norah+Jones>`__
--  **Música:** `Madeleine
-   Peyroux <http://www.last.fm/search?q=Madeleine+Peyroux>`__
+-  **Música:** `Madeleine Peyroux <http://www.last.fm/search?q=Madeleine+Peyroux>`__
 -  **Música:** `Carla Bruni <http://www.last.fm/search?q=Carla+Bruni>`__
 -  **Música:** `Jorge Ben <http://www.last.fm/search?q=Jorge+Ben>`__
 -  **Música:** `The Beatles <http://www.last.fm/search?q=The+Beatles>`__
 -  **Filmes:** `House <http://www.imdb.com/find?s=all&q=House>`__
--  **Filmes:** `Breaking
-   Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
--  **Filmes:** `Two and a Half
-   Man <http://www.imdb.com/find?s=all&q=Two+and+a+Half+Man>`__
--  **Filmes:** `Game of
-   Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
--  **Livros:** `John
-   Sandford <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=John+Sandford>`__
--  **Livros:** `Michael
-   Connelly <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Michael+Connelly>`__
--  **Livros:** `David
-   Baldacci <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=David+Baldacci>`__
--  **Livros:** `Steve
-   Jobs <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Steve+Jobs>`__
--  **Livros:** `Albert
-   Einstein <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Albert+Einstein>`__
--  **Livros:** `Jeffrey
-   Archer <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jeffrey+Archer>`__
--  **Livros:** `Airton
-   Ortiz <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Airton+Ortiz>`__
+-  **Filmes:** `Breaking Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
+-  **Filmes:** `Two and a Half Man <http://www.imdb.com/find?s=all&q=Two+and+a+Half+Man>`__
+-  **Filmes:** `Game of Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
+-  **Livros:** `John Sandford <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=John+Sandford>`__
+-  **Livros:** `Michael Connelly <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Michael+Connelly>`__
+-  **Livros:** `David Baldacci <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=David+Baldacci>`__
+-  **Livros:** `Steve Jobs <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Steve+Jobs>`__
+-  **Livros:** `Albert Einstein <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Albert+Einstein>`__
+-  **Livros:** `Jeffrey Archer <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jeffrey+Archer>`__
+-  **Livros:** `Airton Ortiz <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Airton+Ortiz>`__
 
 **Links:**
 
@@ -112,8 +100,7 @@ Escute agora: \*
 -  `iTunes <https://duckduckgo.com/?q=iTunes>`__
 -  `Hora do Mac <https://duckduckgo.com/?q=Hora+do+Mac>`__
 -  `FISL <https://duckduckgo.com/?q=FISL>`__
--  `Kit Inicial de
-   Podcasts <https://duckduckgo.com/?q=Kit+Inicial+de+Podcasts>`__
+-  `Kit Inicial de Podcasts <https://duckduckgo.com/?q=Kit+Inicial+de+Podcasts>`__
 -  `Plataforma Android <https://duckduckgo.com/?q=Plataforma+Android>`__
 -  `Plataforma iOS <https://duckduckgo.com/?q=Plataforma+iOS>`__
 -  `Unix <https://duckduckgo.com/?q=Unix>`__
@@ -124,8 +111,4 @@ Escute agora: \*
 -  `Netflix <https://duckduckgo.com/?q=Netflix>`__
 -  `Amyr Klink <https://duckduckgo.com/?q=Amyr+Klink>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

@@ -61,33 +61,20 @@ Escute agora: \*
 
 **Top 5:**
 
--  **Música:** `The
-   Advantage <http://www.last.fm/search?q=The+Advantage>`__
--  **Música:** `Antônio
-   Pereira <http://www.last.fm/search?q=Antônio+Pereira>`__
--  **Música:** `Geraldo
-   Azevedo <http://www.last.fm/search?q=Geraldo+Azevedo>`__
--  **Música:** `Oswaldo
-   Montenegro <http://www.last.fm/search?q=Oswaldo+Montenegro>`__
--  **Filmes:** `Encontro
-   Marcado <http://www.imdb.com/find?s=all&q=Encontro+Marcado>`__
--  **Filmes:**
-   `Supernatural <http://www.imdb.com/find?s=all&q=Supernatural>`__
+-  **Música:** `The Advantage <http://www.last.fm/search?q=The+Advantage>`__
+-  **Música:** `Antônio Pereira <http://www.last.fm/search?q=Antônio+Pereira>`__
+-  **Música:** `Geraldo Azevedo <http://www.last.fm/search?q=Geraldo+Azevedo>`__
+-  **Música:** `Oswaldo Montenegro <http://www.last.fm/search?q=Oswaldo+Montenegro>`__
+-  **Filmes:** `Encontro Marcado <http://www.imdb.com/find?s=all&q=Encontro+Marcado>`__
+-  **Filmes:** `Supernatural <http://www.imdb.com/find?s=all&q=Supernatural>`__
 -  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
--  **Filmes:** `Battlestar
-   Gallactica <http://www.imdb.com/find?s=all&q=Battlestar+Gallactica>`__
--  **Filmes:** `Doctor
-   Who <http://www.imdb.com/find?s=all&q=Doctor+Who>`__
--  **Filmes:** `Monty
-   Python <http://www.imdb.com/find?s=all&q=Monty+Python>`__
--  **Livros:** `Natural Language Processing with
-   Python <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Natural+Language+Processing+with+Python>`__
--  **Livros:** `Guía do Muchileiro das
-   Galáxias <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Guia+do+Muchileiro+das+Galáxias>`__
--  **Livros:** `Cavalo de
-   Tróia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cavalo+de+Tróia>`__
--  **Livros:** `Tom
-   Venuto <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Tom+Venuto>`__
+-  **Filmes:** `Battlestar Gallactica <http://www.imdb.com/find?s=all&q=Battlestar+Gallactica>`__
+-  **Filmes:** `Doctor Who <http://www.imdb.com/find?s=all&q=Doctor+Who>`__
+-  **Filmes:** `Monty Python <http://www.imdb.com/find?s=all&q=Monty+Python>`__
+-  **Livros:** `Natural Language Processing with Python <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Natural+Language+Processing+with+Python>`__
+-  **Livros:** `Guía do Muchileiro das Galáxias <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Guia+do+Muchileiro+das+Galáxias>`__
+-  **Livros:** `Cavalo de Tróia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cavalo+de+Tróia>`__
+-  **Livros:** `Tom Venuto <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Tom+Venuto>`__
 
 **Links:**
 
@@ -122,13 +109,11 @@ Escute agora: \*
 -  `Python NLTK <https://duckduckgo.com/?q=Python+NLTK>`__
 -  `File Sharing <https://duckduckgo.com/?q=File+Sharing>`__
 -  `Intel <https://duckduckgo.com/?q=Intel>`__
--  `Professional Ubuntu Mobile
-   Development <https://duckduckgo.com/?q=Professional+Ubuntu+Mobile+Development>`__
+-  `Professional Ubuntu Mobile Development <https://duckduckgo.com/?q=Professional+Ubuntu+Mobile+Development>`__
 -  `UMEGuide.net <https://duckduckgo.com/?q=UMEGuide.net>`__
 -  `Linaro <https://duckduckgo.com/?q=Linaro>`__
 -  `ARM <https://duckduckgo.com/?q=ARM>`__
--  `Ubuntu Business
-   Remix <https://duckduckgo.com/?q=Ubuntu+Business+Remix>`__
+-  `Ubuntu Business Remix <https://duckduckgo.com/?q=Ubuntu+Business+Remix>`__
 -  `Windows <https://duckduckgo.com/?q=Windows>`__
 -  `MacOS <https://duckduckgo.com/?q=MacOS>`__
 -  `Slackware Linux <https://duckduckgo.com/?q=Slackware+Linux>`__
@@ -138,6 +123,4 @@ Escute agora: \*
 -  `Jonathan Riddell <https://duckduckgo.com/?q=Jonathan+Riddell>`__
 -  `Netflix <https://duckduckgo.com/?q=Netflix>`__
 
-*\* **Música**: `Sunday Night
-Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__
-por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

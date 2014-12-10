@@ -73,8 +73,7 @@ Escute agora:
 
 -  **Twitter**: https://twitter.com/ramalhoorg
 -  **Google Plus**: https://plus.google.com/116910241204290316157/posts
--  **Oficinas Turing:**
-   http://turing.com.br/wiki/index.php?title=Oficinas_Turing
+-  **Oficinas Turing:** http://turing.com.br/wiki/index.php?title=Oficinas_Turing
 -  **Speaker Deck**: https://speakerdeck.com/ramalho
 -  **Slideshare**\ *:* http://www.slideshare.net/ramalho
 
@@ -84,25 +83,17 @@ Escute agora:
 -  **Música:** `Frank Zappa <http://www.last.fm/search?q=Frank+Zappa>`__
 -  **Música:** `Mozart <http://www.last.fm/search?q=Mozart>`__
 -  **Música:** `Pink Floyd <http://www.last.fm/search?q=Pink+Floyd>`__
--  **Música:** `Led
-   Zeppelin <http://www.last.fm/search?q=Led+Zeppelin>`__
+-  **Música:** `Led Zeppelin <http://www.last.fm/search?q=Led+Zeppelin>`__
 -  **Música:** `Björk <http://www.last.fm/search?q=Björk>`__
--  **Música:** `Philip
-   Glass <http://www.last.fm/search?q=Philip+Glass>`__
--  **Filmes:** `Apocalipse
-   Now <http://www.imdb.com/find?s=all&q=Apocalipse+Now>`__
+-  **Música:** `Philip Glass <http://www.last.fm/search?q=Philip+Glass>`__
+-  **Filmes:** `Apocalipse Now <http://www.imdb.com/find?s=all&q=Apocalipse+Now>`__
 -  **Filmes:** `Brazil <http://www.imdb.com/find?s=all&q=Brazil>`__
--  **Filmes:** `Senhor dos
-   Aneis <http://www.imdb.com/find?s=all&q=Senhor+dos+Aneis>`__
+-  **Filmes:** `Senhor dos Aneis <http://www.imdb.com/find?s=all&q=Senhor+dos+Aneis>`__
 -  **Filmes:** `O Hobbit <http://www.imdb.com/find?s=all&q=O+Hobbit>`__
--  **Filmes:** `O Poderoso
-   Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
--  **Livros:** `Império a
-   Deriva <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Império+a+Deriva>`__
--  **Livros:** `O
-   Hobbit <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit>`__
--  **Livros:** `Estação
-   Carandiru <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estação+Carandiru>`__
+-  **Filmes:** `O Poderoso Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
+-  **Livros:** `Império a Deriva <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Império+a+Deriva>`__
+-  **Livros:** `O Hobbit <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit>`__
+-  **Livros:** `Estação Carandiru <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estação+Carandiru>`__
 
 **Links:**
 
@@ -134,8 +125,4 @@ Escute agora:
 -  `Garoa Hacker Clube <https://duckduckgo.com/?q=Garoa+Hacker+Clube>`__
 -  `Coding Dojo <https://duckduckgo.com/?q=Coding+Dojo>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

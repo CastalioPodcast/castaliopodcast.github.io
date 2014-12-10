@@ -39,9 +39,7 @@ Escute agora:
 
 **Links mencionados:**
 
--  Tradutor do `Claws Mail <http://claws-mail.org>`__,
-   `GCompris <http://gcompris.net>`__,
-   `TuxPaint <http://tuxpaint.org>`__
+-  Tradutor do `Claws Mail <http://claws-mail.org>`__, `GCompris <http://gcompris.net>`__, `TuxPaint <http://tuxpaint.org>`__
 -  **Televisão**: Seriados policiais e de ficção científica
 -  **Televisão**: Ultramen
 -  **Televisão**: Mulher Maravilha
@@ -54,4 +52,3 @@ Escute agora:
 -  **Música**: tudo que não seja forró, pagode, etc
 -  **Música**: Linkin Park
 -  **Música**: Pet Shop Boys
-
