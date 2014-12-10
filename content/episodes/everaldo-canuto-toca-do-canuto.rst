@@ -45,8 +45,7 @@ Escute agora:
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-53.ogg>`__
 -  `M4A <http://downloads.ogmaciel.com/castalio-podcast-53.m4a>`__
 
--  **Toca do Canuto**:
-    http://www.youtube.com/user/tocadocanuto?feature=g-subs-u
+-  **Toca do Canuto**:  http://www.youtube.com/user/tocadocanuto?feature=g-subs-u
 -  **Google Plus**:  https://plus.google.com/107474108478986239078/about
 -  **Github**:  https://github.com/ecanuto
 -  **Facebook**:  https://www.facebook.com/tocacanuto?fref=ts
@@ -54,26 +53,18 @@ Escute agora:
 **Top 5:**
 
 -  **Música:** `Titãs <http://www.last.fm/search?q=Titãs>`__
--  **Música:** `Legião
-   Urbana <http://www.last.fm/search?q=Legião+Urbana>`__
--  **Música:** `Engenheiros do
-   Hawaii <http://www.last.fm/search?q=Engenheiros+do+Hawaii>`__
+-  **Música:** `Legião Urbana <http://www.last.fm/search?q=Legião+Urbana>`__
+-  **Música:** `Engenheiros do Hawaii <http://www.last.fm/search?q=Engenheiros+do+Hawaii>`__
 -  **Música:** `Pink Floyd <http://www.last.fm/search?q=Pink+Floyd>`__
--  **Livros:** `O Homem da
-   Areia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Homem+da+Areia>`__
--  **Livros:** `Sir Arthur Conan
-   Doyle <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sir+Arthur+Conan+Doyle>`__
--  **Livros:** `Deus Um
-   Delírio <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus+Um+Delírio>`__
--  **Livros:** `O
-   Hobbit <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit>`__
--  **Livros:** `O Código
-   DaVinci <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Código+DaVinci>`__
+-  **Livros:** `O Homem da Areia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Homem+da+Areia>`__
+-  **Livros:** `Sir Arthur Conan Doyle <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sir+Arthur+Conan+Doyle>`__
+-  **Livros:** `Deus Um Delírio <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus+Um+Delírio>`__
+-  **Livros:** `O Hobbit <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit>`__
+-  **Livros:** `O Código DaVinci <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Código+DaVinci>`__
 -  **Software:** `OpenSSH <https://duckduckgo.com/?q=OpenSSH>`__
 -  **Software:** `Git <https://duckduckgo.com/?q=Git>`__
 -  **Software:** `Markdown <https://duckduckgo.com/?q=Markdown>`__
--  **Software:** `Google
-   Hangout <https://duckduckgo.com/?q=Google+Hangout>`__
+-  **Software:** `Google Hangout <https://duckduckgo.com/?q=Google+Hangout>`__
 -  **Software:** `Youtube <https://duckduckgo.com/?q=Youtube>`__
 -  **Software:** `HTML 5 <https://duckduckgo.com/?q=HTML+5>`__
 -  **Software:** `CSS3 <https://duckduckgo.com/?q=CSS3>`__
@@ -120,8 +111,4 @@ Escute agora:
 -  `Spotify <https://duckduckgo.com/?q=Spotify>`__
 -  `Pandora <https://duckduckgo.com/?q=Pandora>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__\ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__\ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

@@ -30,7 +30,5 @@ Links deste episódio:
 
 -  `Nerdson não vai à escola <http://nerdson.com/blog/>`__
 -  `Inkscape <http://inkscape.org/>`__
--  `1001 Códigos Que Você Precisa Implementar Antes De
-   Morrer <https://github.com/karlisson/1001>`__
+-  `1001 Códigos Que Você Precisa Implementar Antes De Morrer <https://github.com/karlisson/1001>`__
 -  ... **e trocentos assuntos variados!**
-

@@ -30,12 +30,12 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-18.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-18.ogg>`__ 
 
-| **Blog**: http://augustocampos.net/
-| **Twitter**: http://twitter.com/#!/augustocc
-| **Linked.in**: http://www.linkedin.com/in/augustocampos
-| **BR-Linux**: http://br-linux.org/
-| **BR-Mac**: http://br-mac.org/
-| **Efetividade**: http://www.efetividade.net/
+**Blog**: http://augustocampos.net/
+**Twitter**: http://twitter.com/#!/augustocc
+**Linked.in**: http://www.linkedin.com/in/augustocampos
+**BR-Linux**: http://br-linux.org/
+**BR-Mac**: http://br-mac.org/
+**Efetividade**: http://www.efetividade.net/
 
 **Resumo**:
 
@@ -56,33 +56,21 @@ Escute agora:
 
 **Top 5**:
 
--  **Música**:  `Punk
-   Rock <http://www.last.fm/search?q=punk+rock&from=ac>`__
+-  **Música**:  `Punk Rock <http://www.last.fm/search?q=punk+rock&from=ac>`__
 -  **Música**:  `The Clash <http://www.last.fm/music/The+Clash>`__
 -  **Música**:  `Ramones <http://www.last.fm/music/Ramones>`__
 -  **Música**:  Top 50 dos anos 90
--  **Livro**:
-    `Life <http://www.amazon.com/Life-Keith-Richards/dp/031603441X/ref=sr_1_1?s=books&ie=UTF8&qid=1317570186&sr=1-1>`__ por
-   `Keith Richards <https://pt.wikipedia.org/wiki/Keith_Richards>`__ e
-   James Fox
--  **Livro**:  `Lobão 50 Anos a
-   Mil <http://www.walmart.com.br/Produto/Livros/Literatura-Nacional/Nova-Fronteira/233090-Lobao-50-Anos-a-Mil>`__ por
-   `Lobão <https://pt.wikipedia.org/wiki/Lob%C3%A3o_(m%C3%BAsico)>`__
+-  **Livro**:  `Life <http://www.amazon.com/Life-Keith-Richards/dp/031603441X/ref=sr_1_1?s=books&ie=UTF8&qid=1317570186&sr=1-1>`__ por `Keith Richards <https://pt.wikipedia.org/wiki/Keith_Richards>`__ e James Fox
+-  **Livro**:  `Lobão 50 Anos a Mil <http://www.walmart.com.br/Produto/Livros/Literatura-Nacional/Nova-Fronteira/233090-Lobao-50-Anos-a-Mil>`__ por `Lobão <https://pt.wikipedia.org/wiki/Lob%C3%A3o_(m%C3%BAsico)>`__
 -  **Filme**:  `Star Wars <http://www.imdb.com/title/tt0076759/>`__
--  **Filme**:  `Star Wars: The Empire Strikes
-   Back <http://www.imdb.com/title/tt0080684/>`__
--  **Filme** :  `Star Wars: Return of the
-   Jedi <http://www.imdb.com/title/tt0086190/>`__
--  **Filme**:  `Ferris Bueller's Day
-   Off <http://www.imdb.com/title/tt0091042/>`__
--  **Filme**:  `Star
-   Trek <http://www.imdb.com/find?s=all&q=star+trek>`__
+-  **Filme**:  `Star Wars: The Empire Strikes Back <http://www.imdb.com/title/tt0080684/>`__
+-  **Filme** :  `Star Wars: Return of the Jedi <http://www.imdb.com/title/tt0086190/>`__
+-  **Filme**:  `Ferris Bueller's Day Off <http://www.imdb.com/title/tt0091042/>`__
+-  **Filme**:  `Star Trek <http://www.imdb.com/find?s=all&q=star+trek>`__
 
 **Links**:
 
--  **Mora em**:
-   `Florianópolis <http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Florianopolis+-+SC,+Brazil&aq=0&ie=UTF8&hq=&hnear=Florian%C3%B3polis+-+Santa+Catarina,+Brazil&t=h&z=11&vpsrc=0>`__,  \ **Santa
-   Catarina**
+-  **Mora em**: `Florianópolis <http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Florianopolis+-+SC,+Brazil&aq=0&ie=UTF8&hq=&hnear=Florian%C3%B3polis+-+Santa+Catarina,+Brazil&t=h&z=11&vpsrc=0>`__,  \ **Santa Catarina**
 -  `WordPress <http://wordpress.com>`__
 -  `MySQL <http://www.mysql.com/>`__
 -  `CentOS Linux <http://www.centos.org/>`__
@@ -95,8 +83,7 @@ Escute agora:
 -  `FlipBoard <http://flipboard.com/>`__
 -  `BBEdit <http://www.barebones.com/products/bbedit/>`__
 -  `Kate <https://pt.wikipedia.org/wiki/Kate_(KDE)>`__
--  `SSH <https://pt.wikipedia.org/wiki/Ssh>`__,
-   `SCP <https://pt.wikipedia.org/wiki/Unix_SCP>`__
+-  `SSH <https://pt.wikipedia.org/wiki/Ssh>`__, `SCP <https://pt.wikipedia.org/wiki/Unix_SCP>`__
 -  `AWK <https://pt.wikipedia.org/wiki/Awk>`__
 -  `Pascal <https://pt.wikipedia.org/wiki/Pascal>`__
 -  `Cobol <https://pt.wikipedia.org/wiki/Cobol>`__
@@ -105,4 +92,3 @@ Escute agora:
 -  `eBook <https://pt.wikipedia.org/wiki/Ebook>`__
 -  `Livraria Saraiva <http://www.livrariasaraiva.com.br/>`__
 -  `Android <http://www.android.com/>`__
-

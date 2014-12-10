@@ -55,21 +55,14 @@ Escute agora:
 -  **Música:** `Mutantes <http://www.last.fm/search?q=Mutantes>`__
 -  **Música:** `New Order <http://www.last.fm/search?q=New+Order>`__
 -  **Música:** `Kraftwerk <http://www.last.fm/search?q=Kraftwerk>`__
--  **Filmes:** `Blade
-   Runner <http://www.imdb.com/find?s=all&q=Blade+Runner>`__
+-  **Filmes:** `Blade Runner <http://www.imdb.com/find?s=all&q=Blade+Runner>`__
 -  **Filmes:** `Matrix <http://www.imdb.com/find?s=all&q=matrix>`__
--  **Filmes:** `Sociedade dos poetas
-   mortos <http://www.imdb.com/find?s=all&q=Sociedade+dos+poetas+mortos>`__
--  **Filmes:** `7 anos no
-   tibet <http://www.imdb.com/find?s=all&q=7+anos+no+tibet>`__
--  **Livros:** `Ruído Branco
-   (DeLillo) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ruído+Branco+(DeLillo)>`__
--  **Livros:** `Qualquer um do
-   Saramago <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Saramago>`__
--  **Livros:** `Art Of Computer Program
-   (Knuth) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Art+Of+Computer+Program+(Knuth)>`__
--  **Livros:** `Cammel Book (Larry
-   Wall) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cammel+Book+(Larry+Wall)>`__
+-  **Filmes:** `Sociedade dos poetas mortos <http://www.imdb.com/find?s=all&q=Sociedade+dos+poetas+mortos>`__
+-  **Filmes:** `7 anos no tibet <http://www.imdb.com/find?s=all&q=7+anos+no+tibet>`__
+-  **Livros:** `Ruído Branco (DeLillo) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ruído+Branco+(DeLillo)>`__
+-  **Livros:** `Qualquer um do Saramago <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Saramago>`__
+-  **Livros:** `Art Of Computer Program (Knuth) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Art+Of+Computer+Program+(Knuth)>`__
+-  **Livros:** `Cammel Book (Larry Wall) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cammel+Book+(Larry+Wall)>`__
 
 **Links:**
 
@@ -94,6 +87,4 @@ Escute agora:
 -  `Haxent <https://duckduckgo.com/?q=Haxent>`__
 -  `Portal Terra <https://duckduckgo.com/?q=Portal+Terra>`__
 
-*\* **Música**: `Sunday Night
-Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__
-por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

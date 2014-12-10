@@ -50,8 +50,7 @@ Escute agora: \*
 -  **Blog:**  http://caikesouza.com/blog/
 -  **Twitter**:   https://twitter.com/#!/caike
 -  **Facebook**:  https://www.facebook.com/caike.souza
--  **Banda**:  `Heroes Will
-   Fall <https://www.facebook.com/heroeswillfall>`__
+-  **Banda**:  `Heroes Will Fall <https://www.facebook.com/heroeswillfall>`__
 -  **Github**:  https://github.com/caike
 -  **Envy Labs**:  http://envylabs.com/
 -  **Code School**:  http://www.codeschool.com/
@@ -82,28 +81,19 @@ Escute agora: \*
 -  **Música:** `Pantera <http://www.last.fm/search?q=Pantera>`__
 -  **Música:** `Sepultura <http://www.last.fm/search?q=Sepultura>`__
 -  **Música:** `Pendulum <http://www.last.fm/search?q=Pendulum>`__
--  **Música:** `Massive
-   Attack <http://www.last.fm/search?q=Massive+Attack>`__
--  **Música:** `Postal
-   Service <http://www.last.fm/search?q=Postal+Service>`__
+-  **Música:** `Massive Attack <http://www.last.fm/search?q=Massive+Attack>`__
+-  **Música:** `Postal Service <http://www.last.fm/search?q=Postal+Service>`__
 -  **Música:** `Blink 182 <http://www.last.fm/search?q=Blink+182>`__
 -  **Música:** `Gold Finger <http://www.last.fm/search?q=Gold+Finger>`__
 -  **Música:** `Rancid <http://www.last.fm/search?q=Rancid>`__
 -  **Filmes:** `Crash <http://www.imdb.com/find?s=all&q=Crash>`__
--  **Filmes:** `The
-   Avengers <http://www.imdb.com/find?s=all&q=The+Avengers>`__
--  **Filmes:** `Breaking
-   Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
--  **Filmes:** `United States of
-   Tara <http://www.imdb.com/find?s=all&q=United+States+of+Tara>`__
--  **Livros:**
-   `Gunslinger <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gunslinger>`__
--  **Livros:**
-   `Ramones <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ramones>`__
--  **Livros:**
-   `Sepultura <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sepultura>`__
--  **Livros:** `Mötley
-   Crüe <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Mötley+Crüe>`__
+-  **Filmes:** `The Avengers <http://www.imdb.com/find?s=all&q=The+Avengers>`__
+-  **Filmes:** `Breaking Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
+-  **Filmes:** `United States of Tara <http://www.imdb.com/find?s=all&q=United+States+of+Tara>`__
+-  **Livros:** `Gunslinger <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gunslinger>`__
+-  **Livros:** `Ramones <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ramones>`__
+-  **Livros:** `Sepultura <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sepultura>`__
+-  **Livros:** `Mötley Crüe <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Mötley+Crüe>`__
 -  **Twitter**: https://twitter.com/#!/henriquebastos
 -  **Twitter**: https://twitter.com/#!/rafaelp
 -  **Twitter**: https://twitter.com/#!/ramonpage
@@ -129,8 +119,7 @@ Escute agora: \*
 -  `HTML 5 <https://duckduckgo.com/?q=HTML+5>`__
 -  `CSS <https://duckduckgo.com/?q=CSS>`__
 -  `Responsive Web <https://duckduckgo.com/?q=Responsive+Web>`__
--  `Welcome to the
-   Django <https://duckduckgo.com/?q=Welcome+to+the+Django>`__
+-  `Welcome to the Django <https://duckduckgo.com/?q=Welcome+to+the+Django>`__
 -  `Banco de dados <https://duckduckgo.com/?q=Banco+de+dados>`__
 -  `ActiveRecord <https://duckduckgo.com/?q=ActiveRecord>`__
 -  `LivingSocial <https://duckduckgo.com/?q=LivingSocial>`__
@@ -147,8 +136,7 @@ Escute agora: \*
 -  `Screencast <https://duckduckgo.com/?q=Screencast>`__
 -  `RailsConf <https://duckduckgo.com/?q=RailsConf>`__
 -  `Python <https://duckduckgo.com/?q=Python>`__
--  `Rails Testing for
-   Zombies <https://duckduckgo.com/?q=Rails+Testing+for+Zombies>`__
+-  `Rails Testing for Zombies <https://duckduckgo.com/?q=Rails+Testing+for+Zombies>`__
 -  `Interfaces <https://duckduckgo.com/?q=Interfaces>`__
 -  `Tá Safo Conf 2012 <http://tasafo.org/conf2012/>`__
 -  `Speaker Deck <https://duckduckgo.com/?q=Speaker+Deck>`__
@@ -161,10 +149,4 @@ Escute agora: \*
 -  `Swarm Inteligence <https://duckduckgo.com/?q=Swarm+Inteligence>`__
 -  `Small Acts Manifesto <http://smallactsmanifesto.org/>`__
 
-   \*\ **Música**: `Ain't Gonna Give Jelly
-   Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-   by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is
-   licensed under a Creative Commons
-   Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
-
+   \*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

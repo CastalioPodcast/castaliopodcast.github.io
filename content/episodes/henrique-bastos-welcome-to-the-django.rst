@@ -72,27 +72,16 @@ Escute agora: \*
 
 -  **Música:** `Metallica <http://www.last.fm/search?q=Metallica>`__
 -  **Música:** `Megadeath <http://www.last.fm/search?q=Megadeath>`__
--  **Música:** `Rise Against the
-   Machine <http://www.last.fm/search?q=Rise+Against+the+Machine>`__
--  **Filmes:** `The
-   Matrix <http://www.imdb.com/find?s=all&q=The+Matrix>`__
--  **Filmes:** `O Poderoso
-   Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
--  **Filmes:** `De Volta para o
-   Futuro <http://www.imdb.com/find?s=all&q=De+Volta+para+o+Futuro>`__
--  **Filmes:** `Star
-   Gate <http://www.imdb.com/find?s=all&q=Star+Gate>`__
--  **Livros:** `Revista
-   INPUT <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Revista+INPUT>`__ (`PDFs <http://www.datacassete.com.br/>`__
-   de todas)
--  **Livros:** `Presentation
-   Zen <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Presentation+Zen>`__
--  **Livros:**
-   `Code <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Code>`__
--  **Livros:** `O
-   Conselheiro <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Conselheiro>`__
--  **Livros:** `A Origem do
-   Capitalism <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism>`__
+-  **Música:** `Rise Against the Machine <http://www.last.fm/search?q=Rise+Against+the+Machine>`__
+-  **Filmes:** `The Matrix <http://www.imdb.com/find?s=all&q=The+Matrix>`__
+-  **Filmes:** `O Poderoso Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
+-  **Filmes:** `De Volta para o Futuro <http://www.imdb.com/find?s=all&q=De+Volta+para+o+Futuro>`__
+-  **Filmes:** `Star Gate <http://www.imdb.com/find?s=all&q=Star+Gate>`__
+-  **Livros:** `Revista INPUT <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Revista+INPUT>`__ (`PDFs <http://www.datacassete.com.br/>`__ de todas)
+-  **Livros:** `Presentation Zen <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Presentation+Zen>`__
+-  **Livros:** `Code <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Code>`__
+-  **Livros:** `O Conselheiro <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Conselheiro>`__
+-  **Livros:** `A Origem do Capitalism <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism>`__
 
 **Links:**
 
@@ -101,16 +90,13 @@ Escute agora: \*
 -  `Coding Dojo <https://duckduckgo.com/?q=Coding+Dojo>`__
 -  `Python <https://duckduckgo.com/?q=Python>`__
 -  `Coding Sprint <https://duckduckgo.com/?q=Coding+Sprint>`__
--  `Desenvolvimento
-   Ágil <https://duckduckgo.com/?q=Desenvolvimento+Ágil>`__
+-  `Desenvolvimento Ágil <https://duckduckgo.com/?q=Desenvolvimento+Ágil>`__
 -  `Python Brasil <https://duckduckgo.com/?q=Python+Brasil>`__
 -  `Heroku <https://duckduckgo.com/?q=Heroku>`__
 -  `Amazon EC2 <https://duckduckgo.com/?q=Amazon+EC2>`__
 -  `Git <https://duckduckgo.com/?q=Git>`__
--  `Platform as a Service
-   (PaaS) <https://duckduckgo.com/?q=Platform+as+a+Service+(PaaS)>`__
--  `Controle de Versão
-   Distribuído <https://duckduckgo.com/?q=Controle+de+Versão+Distribuído>`__
+-  `Platform as a Service (PaaS) <https://duckduckgo.com/?q=Platform+as+a+Service+(PaaS)>`__
+-  `Controle de Versão Distribuído <https://duckduckgo.com/?q=Controle+de+Versão+Distribuído>`__
 -  `Github <https://duckduckgo.com/?q=Github>`__
 -  `Adobe Connect <https://duckduckgo.com/?q=Adobe+Connect>`__
 -  `WebEx <https://duckduckgo.com/?q=WebEx>`__
@@ -130,18 +116,14 @@ Escute agora: \*
 -  `FISL 2009 <https://duckduckgo.com/?q=FISL+2009>`__
 -  `Porto Alegre <https://duckduckgo.com/?q=Porto+Alegre>`__
 -  `Jacob Kaplan-Moss <https://duckduckgo.com/?q=Jacob+Kaplan-Moss>`__
--  `Guilherme
-   Chapievsky <https://duckduckgo.com/?q=Guilherme+Chapievsky>`__
+-  `Guilherme Chapievsky <https://duckduckgo.com/?q=Guilherme+Chapievsky>`__
 -  `Google <https://duckduckgo.com/?q=Google>`__
 -  `Ryan Ozimek <https://duckduckgo.com/?q=Ryan+Ozimek>`__
 -  `Joomla <https://duckduckgo.com/?q=Joomla>`__
 -  `PHP Rio <https://duckduckgo.com/?q=PHP+Rio>`__
 -  `Jeff Patton <https://duckduckgo.com/?q=Jeff+Patton>`__
 -  `Globo.com <https://duckduckgo.com/?q=Globo.com>`__
--  `Vimeo <https://duckduckgo.com/?q=Vimeo>`__ (vídeos
-   `1 <http://devinrio.com.br/2009>`__ `2 <http://devinrio.com.br/>`__
-   `3 <http://vimeo.com/channels/devinrio>`__
-   `4 <http://www.flickr.com/groups/devinrio/>`__)
+-  `Vimeo <https://duckduckgo.com/?q=Vimeo>`__ (vídeos `1 <http://devinrio.com.br/2009>`__ `2 <http://devinrio.com.br/>`__ `3 <http://vimeo.com/channels/devinrio>`__ `4 <http://www.flickr.com/groups/devinrio/>`__)
 -  `Java <https://duckduckgo.com/?q=Java>`__
 -  `Small Acts <https://duckduckgo.com/?q=Small+Acts>`__
 -  `Caike <https://duckduckgo.com/?q=Caike>`__ Souza
@@ -156,8 +138,4 @@ Escute agora: \*
 -  `Ellen Wood <https://duckduckgo.com/?q=Ellen+Wood>`__
 -  `Hugo Doria <https://duckduckgo.com/?q=Hugo+Doria>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

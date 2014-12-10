@@ -65,35 +65,22 @@ Escute agora: \*
 
 **Top 5:**
 
--  **Música:** `Cesar
-   Oliveira <http://www.last.fm/search?q=Cesar+Oliveira>`__
--  **Música:** `Rogério
-   Melo <http://www.last.fm/search?q=Rogério+Melo>`__
--  **Música:** `Neto
-   Fagundes <http://www.last.fm/search?q=Neto+Fagundes>`__
--  **Música:** `Piresca
-   Greco <http://www.last.fm/search?q=Piresca+Greco>`__
+-  **Música:** `Cesar Oliveira <http://www.last.fm/search?q=Cesar+Oliveira>`__
+-  **Música:** `Rogério Melo <http://www.last.fm/search?q=Rogério+Melo>`__
+-  **Música:** `Neto Fagundes <http://www.last.fm/search?q=Neto+Fagundes>`__
+-  **Música:** `Piresca Greco <http://www.last.fm/search?q=Piresca+Greco>`__
 -  **Música:** `Iron Madden <http://www.last.fm/search?q=Iron+Madden>`__
 -  **Música:** `AC/DC <http://www.last.fm/search?q=AC/DC>`__
 -  **Música:** `Mettalica <http://www.last.fm/search?q=Mettalica>`__
--  **Música:** `Ludwig van
-   Beethoven <http://www.last.fm/search?q=Ludwig+van+Beethoven>`__
--  **Música:** `Cidadão
-   Quem <http://www.last.fm/search?q=Cidadão+Quem>`__
--  **Música:** `Capital
-   Inicial <http://www.last.fm/search?q=Capital+Inicial>`__
--  **Filmes:** `The Walking
-   Dead <http://www.imdb.com/find?s=all&q=The+Walking+Dead>`__
--  **Filmes:**
-   `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
--  **Filmes:** `The
-   Matrix <http://www.imdb.com/find?s=all&q=The+Matrix>`__
--  **Filmes:**
-   `Animatrix <http://www.imdb.com/find?s=all&q=Animatrix>`__
--  **Livros:** `Filhos do
-   Éden <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Filhos+do+Éden>`__
--  **Livros:** `Batalha do
-   Apocalipse <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse>`__
+-  **Música:** `Ludwig van Beethoven <http://www.last.fm/search?q=Ludwig+van+Beethoven>`__
+-  **Música:** `Cidadão Quem <http://www.last.fm/search?q=Cidadão+Quem>`__
+-  **Música:** `Capital Inicial <http://www.last.fm/search?q=Capital+Inicial>`__
+-  **Filmes:** `The Walking Dead <http://www.imdb.com/find?s=all&q=The+Walking+Dead>`__
+-  **Filmes:** `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
+-  **Filmes:** `The Matrix <http://www.imdb.com/find?s=all&q=The+Matrix>`__
+-  **Filmes:** `Animatrix <http://www.imdb.com/find?s=all&q=Animatrix>`__
+-  **Livros:** `Filhos do Éden <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Filhos+do+Éden>`__
+-  **Livros:** `Batalha do Apocalipse <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse>`__
 
 **Links:**
 
@@ -102,16 +89,14 @@ Escute agora: \*
 -  `OpenCast <https://duckduckgo.com/?q=OpenCast>`__
 -  `Twitter <https://duckduckgo.com/?q=Twitter>`__
 -  `Debian Linux <https://duckduckgo.com/?q=Debian+Linux>`__
--  `Grupo Caudílho
-   Livre <https://duckduckgo.com/?q=Grupo+Caudílho+Livre>`__
+-  `Grupo Caudílho Livre <https://duckduckgo.com/?q=Grupo+Caudílho+Livre>`__
 -  `Youtube <https://duckduckgo.com/?q=Youtube>`__
 -  `GtkRecordMyDesktop <https://duckduckgo.com/?q=GtkRecordMyDesktop>`__
 -  `KDenlive <https://duckduckgo.com/?q=KDenlive>`__
 -  `Cinelera <https://duckduckgo.com/?q=Cinelera>`__
 -  `Openshot <https://duckduckgo.com/?q=Openshot>`__
 -  `Skype <https://duckduckgo.com/?q=Skype>`__
--  `Skype Call
-   Recorder <https://duckduckgo.com/?q=Skype+Call+Recorder>`__
+-  `Skype Call Recorder <https://duckduckgo.com/?q=Skype+Call+Recorder>`__
 -  `Audacity <https://duckduckgo.com/?q=Audacity>`__
 -  `Delphi <https://duckduckgo.com/?q=Delphi>`__
 -  `Shell Script <https://duckduckgo.com/?q=Shell+Script>`__
@@ -123,13 +108,8 @@ Escute agora: \*
 -  `Eduardo Spohr <https://duckduckgo.com/?q=Eduardo+Spohr>`__
 -  `Vim <https://duckduckgo.com/?q=Vim>`__
 -  `W32 Codecs <https://duckduckgo.com/?q=W32+Codecs>`__
--  `Mozilla
-   Thunderbird <https://duckduckgo.com/?q=Mozilla+Thunderbird>`__
+-  `Mozilla Thunderbird <https://duckduckgo.com/?q=Mozilla+Thunderbird>`__
 -  `Virtual Box <https://duckduckgo.com/?q=Virtual+Box>`__
 -  `Ubuntu Unity <https://duckduckgo.com/?q=Ubuntu+Unity>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

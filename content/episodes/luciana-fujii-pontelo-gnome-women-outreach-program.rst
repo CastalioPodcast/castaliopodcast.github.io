@@ -33,14 +33,10 @@ Escute agora:
 
 **Links mencionados**:
 
--  `GNOME Women Outreach
-   Program <https://live.gnome.org/GnomeWomen/OutreachProgram2010>`__
+-  `GNOME Women Outreach Program <https://live.gnome.org/GnomeWomen/OutreachProgram2010>`__
 -  `Identi.ca <http://identi.ca/>`__
 -  `FISL <http://fisl.softwarelivre.org/>`__
 -  `CEFET <https://secure.wikimedia.org/wikipedia/pt/wiki/Anexo:Lista_de_Centros_Federais_de_Educa%C3%A7%C3%A3o_Tecnol%C3%B3gica>`__
--  `Conectiva
-   Linux <https://secure.wikimedia.org/wikipedia/en/wiki/Conectiva>`__
--  `OpenCast
-   Podcast <http://br-linux.org/2011/opencast-episodio-2-ubuntu/>`__
+-  `Conectiva Linux <https://secure.wikimedia.org/wikipedia/en/wiki/Conectiva>`__
+-  `OpenCast Podcast <http://br-linux.org/2011/opencast-episodio-2-ubuntu/>`__
 -  `Razec's Lab <http://razec.wordpress.com>`__
-

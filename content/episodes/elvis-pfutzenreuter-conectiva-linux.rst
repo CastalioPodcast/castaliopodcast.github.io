@@ -26,8 +26,7 @@ Escute agora:
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-23.ogg>`__
 
 -  **Blog**: http://epx.com.br/
--  **Twitter**: 
-   `http://twitter.com/#!/elvis\_epx <http://twitter.com/#%21/elvis_epx>`__
+-  **Twitter**:  `http://twitter.com/#!/elvis\_epx <http://twitter.com/#%21/elvis_epx>`__
 -  **Facebook**:  http://www.facebook.com/elvis.pfutzenreuter
 -  **Google Plus**:  https://plus.google.com/112532072854107970163/posts
 
@@ -51,32 +50,20 @@ Escute agora:
 
 **Top 5:**
 
--  **Música:** `Toccata und
-   Fuge <http://www.last.fm/search?q=Toccata+und+Fuge>`__
+-  **Música:** `Toccata und Fuge <http://www.last.fm/search?q=Toccata+und+Fuge>`__
 -  **Música:** `Asia <http://www.last.fm/search?q=Asia>`__
--  **Música:** `Racionais
-   Mc <http://www.last.fm/search?q=Racionais+Mc>`__
--  **Música:** `Facção
-   Central <http://www.last.fm/search?q=Facção+Central>`__
+-  **Música:** `Racionais Mc <http://www.last.fm/search?q=Racionais+Mc>`__
+-  **Música:** `Facção Central <http://www.last.fm/search?q=Facção+Central>`__
 -  **Música:** `Clara Nunes <http://www.last.fm/search?q=Clara+Nunes>`__
--  **Música:** `Jacob do
-   Bandolim <http://www.last.fm/search?q=Jacob+do+Bandolim>`__
--  **Filmes:** `O Poderoso
-   Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
--  **Filmes:** `Runaway
-   Train <http://www.imdb.com/find?s=all&q=Runaway+Train>`__
--  **Filmes:** `Emperor of the
-   North <http://www.imdb.com/find?s=all&q=Emperor+of+the+Noth>`__
--  **Livros:** `UNIX Network Programming: The sockets networking
-   API <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=UNIX+Network+Programming:+The+sockets+networking+API>`__
--  **Livros:** `Inverted
-   World <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Inverted+World>`__
--  **Livros:** `The smartest guys in the
-   room <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+smartest+guys+in+the+room>`__
--  **Livros:** `No One Would Listen: A True Financial
-   Thriller <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=No+One+Would+Listen:+A+True+Financial+Thriller>`__
--  **Livros:** `A ditadura
-   derrotada <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+ditadura+derrotada>`__
+-  **Música:** `Jacob do Bandolim <http://www.last.fm/search?q=Jacob+do+Bandolim>`__
+-  **Filmes:** `O Poderoso Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
+-  **Filmes:** `Runaway Train <http://www.imdb.com/find?s=all&q=Runaway+Train>`__
+-  **Filmes:** `Emperor of the North <http://www.imdb.com/find?s=all&q=Emperor+of+the+Noth>`__
+-  **Livros:** `UNIX Network Programming: The sockets networking API <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=UNIX+Network+Programming:+The+sockets+networking+API>`__
+-  **Livros:** `Inverted World <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Inverted+World>`__
+-  **Livros:** `The smartest guys in the room <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+smartest+guys+in+the+room>`__
+-  **Livros:** `No One Would Listen: A True Financial Thriller <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=No+One+Would+Listen:+A+True+Financial+Thriller>`__
+-  **Livros:** `A ditadura derrotada <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+ditadura+derrotada>`__
 
 **Links:**
 
@@ -92,20 +79,12 @@ Escute agora:
 -  `Linux World Expo <https://duckduckgo.com/?q=Linux+World+Expo>`__
 -  `Signove <http://www.signove.com/>`__
 -  `Android <https://duckduckgo.com/?q=Android>`__
--  Aplicativo
-   `1 <https://market.android.com/details?id=br.com.epx.andro12c&hl=pt_BR>`__,
-   `2 <https://market.android.com/details?id=br.com.epx.andro12cd&hl=pt_BR>`__,
-   `3 <https://market.android.com/details?id=br.com.epx.andro11c&hl=pt_BR>`__
+-  Aplicativo `1 <https://market.android.com/details?id=br.com.epx.andro12c&hl=pt_BR>`__, `2 <https://market.android.com/details?id=br.com.epx.andro12cd&hl=pt_BR>`__, `3 <https://market.android.com/details?id=br.com.epx.andro11c&hl=pt_BR>`__
 -  `iOS <https://duckduckgo.com/?q=iOS>`__
--  Aplicativo
-   `1 <http://itunes.apple.com/us/app/epx-12c/id463497845?mt=8>`__,
-   `2 <http://itunes.apple.com/br/app/epx-11c/id463632731?mt=8>`__
+-  Aplicativo `1 <http://itunes.apple.com/us/app/epx-12c/id463497845?mt=8>`__, `2 <http://itunes.apple.com/br/app/epx-11c/id463632731?mt=8>`__
 -  `iPhone <https://duckduckgo.com/?q=iPhone>`__
--  `Biblioteca IEEE
-   11073 <http://oss.signove.com/index.php/Antidote:_IEEE_11073-20601_Library>`__
+-  `Biblioteca IEEE 11073 <http://oss.signove.com/index.php/Antidote:_IEEE_11073-20601_Library>`__
 -  `Enron <https://duckduckgo.com/?q=Enron>`__
 -  `Madoff <https://duckduckgo.com/?q=Madoff>`__
 
-*\* **Música**: `Sunday Night
-Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__
-por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

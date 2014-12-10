@@ -47,12 +47,10 @@ Escute agora: \*
 -  **Blog:  **\ http://butequeiro.comum.org/
 -  **Twitter**:  https://twitter.com/dnoway
 -  **Facebook**:  http://facebook.com/dnoway
--  **Google+**:
-    https://plus.google.com/107441790587076222299/posts?banner=pwa
+-  **Google+**:  https://plus.google.com/107441790587076222299/posts?banner=pwa
 -  **Linked.in**:  http://www.linkedin.com/in/djavanfagundes
 -  **Last.fm**:  http://www.lastfm.com.br/user/dnoway
--  **OpenStreet Maps**:
-    http://www.openstreetmap.org/user/Djavan%20Fagundes
+-  **OpenStreet Maps**:  http://www.openstreetmap.org/user/Djavan%20Fagundes
 
 **Resumo:**
 
@@ -68,36 +66,23 @@ Escute agora: \*
 
 **Top 5:**
 
--  **Música:** `Creedence Clearwater
-   Revival <http://www.last.fm/search?q=Creedence+Clearwater+Revival>`__
--  **Música:** `Led
-   Zeppelin <http://www.last.fm/search?q=Led+Zeppelin>`__
+-  **Música:** `Creedence Clearwater Revival <http://www.last.fm/search?q=Creedence+Clearwater+Revival>`__
+-  **Música:** `Led Zeppelin <http://www.last.fm/search?q=Led+Zeppelin>`__
 -  **Música:** `Raul Seixas <http://www.last.fm/search?q=Raul+Seixas>`__
--  **Música:** `The
-   Raincoats <http://www.last.fm/search?q=The+Raincoats>`__
+-  **Música:** `The Raincoats <http://www.last.fm/search?q=The+Raincoats>`__
 -  **Filmes:** `Chaves <http://www.imdb.com/find?s=all&q=Chaves>`__
--  **Filmes:** `The IT
-   Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
--  **Filmes:** `Breaking
-   Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
--  **Filmes:** `Pedro
-   Almodóvar <http://www.imdb.com/find?s=all&q=Pedro+Almodóvar>`__
+-  **Filmes:** `The IT Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
+-  **Filmes:** `Breaking Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
+-  **Filmes:** `Pedro Almodóvar <http://www.imdb.com/find?s=all&q=Pedro+Almodóvar>`__
 -  **Filmes:** `Sin City <http://www.imdb.com/find?s=all&q=Sin+City>`__
 -  **Filmes:** `Hell Boy <http://www.imdb.com/find?s=all&q=Hell+Boy>`__
--  **Filmes:**
-   `Constantine <http://www.imdb.com/find?s=all&q=Constantine>`__
--  **Livros:** `Rubem
-   Alves <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Rubem+Alves>`__
--  **Livros:** `Gandhi: A Magia dos gestos
-   poéticos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gandhi:+A+Magia+dos+gestos+poéticos>`__
--  **Livros:** `Casa
-   21 <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Casa+21>`__
--  **Livros:** `Cidades
-   Ilustradas <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidades+Ilustradas>`__
--  **Livros:** `Oscar
-   Wilde <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Oscar+Wilde>`__
--  **Livros:** `The Picture of Dorian
-   Gray <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Picture+of+Dorian+Gray>`__
+-  **Filmes:** `Constantine <http://www.imdb.com/find?s=all&q=Constantine>`__
+-  **Livros:** `Rubem Alves <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Rubem+Alves>`__
+-  **Livros:** `Gandhi: A Magia dos gestos poéticos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gandhi:+A+Magia+dos+gestos+poéticos>`__
+-  **Livros:** `Casa 21 <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Casa+21>`__
+-  **Livros:** `Cidades Ilustradas <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidades+Ilustradas>`__
+-  **Livros:** `Oscar Wilde <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Oscar+Wilde>`__
+-  **Livros:** `The Picture of Dorian Gray <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Picture+of+Dorian+Gray>`__
 
 **Links:**
 
@@ -106,14 +91,10 @@ Escute agora: \*
 -  `Jonh Wendell <https://duckduckgo.com/?q=Jonh+Wendell>`__
 -  `Ambiente KDE <https://duckduckgo.com/?q=Ambiente+KDE>`__
 -  `Ambiente XFCE <https://duckduckgo.com/?q=Ambiente+XFCE>`__
--  `Distribuição Arch
-   Linux <https://duckduckgo.com/?q=Distribuição+Arch+Linux>`__
--  `Distribuição Debian
-   Linux <https://duckduckgo.com/?q=Distribuição+Debian+Linux>`__
--  `Distribuição Foresight
-   Linux <https://duckduckgo.com/?q=Distribuição+Foresight+Linux>`__
--  `Distribuição Fedora
-   Linux <https://duckduckgo.com/?q=Distribuição+Fedora+Linux>`__
+-  `Distribuição Arch Linux <https://duckduckgo.com/?q=Distribuição+Arch+Linux>`__
+-  `Distribuição Debian Linux <https://duckduckgo.com/?q=Distribuição+Debian+Linux>`__
+-  `Distribuição Foresight Linux <https://duckduckgo.com/?q=Distribuição+Foresight+Linux>`__
+-  `Distribuição Fedora Linux <https://duckduckgo.com/?q=Distribuição+Fedora+Linux>`__
 -  `GNOME 3 <https://duckduckgo.com/?q=GNOME+3>`__
 -  `Linus Torvalds <https://duckduckgo.com/?q=Linus+Torvalds>`__
 -  `gnome-tweak-tool <https://duckduckgo.com/?q=gnome-tweak-tool>`__
@@ -122,11 +103,6 @@ Escute agora: \*
 -  `Belo Horizonte <https://duckduckgo.com/?q=Belo+Horizonte>`__
 -  `Mapping Party <https://duckduckgo.com/?q=Mapping+Party>`__
 -  `Google Maps <https://duckduckgo.com/?q=Google+Maps>`__
--  `The Big Bang
-   Theory <https://duckduckgo.com/?q=The+Big+Bang+Theory>`__
+-  `The Big Bang Theory <https://duckduckgo.com/?q=The+Big+Bang+Theory>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

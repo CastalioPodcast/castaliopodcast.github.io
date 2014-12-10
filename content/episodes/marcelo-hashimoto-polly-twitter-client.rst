@@ -61,29 +61,19 @@ Escute agora:
 -  **Música:** `Metallica <http://www.last.fm/search?q=Metallica>`__
 -  **Música:** `Megadeath <http://www.last.fm/search?q=Megadeath>`__
 -  **Música:** `Annihilator <http://www.last.fm/search?q=Annihilator>`__
--  **Filmes:** `Piratas do
-   Caribe <http://www.imdb.com/find?s=all&q=Piratas+do+Caribe>`__
--  **Livros:** `Victor
-   Hugo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Victor+Hugo>`__
--  **Livros:** `Os
-   Miseráveis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis>`__
--  **Livros:** `A Revolução dos
-   Bichos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Revolução+dos+Bichos>`__
--  **Livros:** `O Parque dos
-   Dinossáuros <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Parque+dos+Dinossáuros>`__
--  **Livros:** `Augusto dos
-   Anjos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Augusto+dos+Anjos>`__
--  **Livros:** `Carlos Drummond de
-   Andrade <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Carlos+Drummond+de+Andrade>`__
--  **Livros:** `William
-   Blake <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=William+Blake>`__
--  **Livros:**
-   `Baudelaire <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Baudelaire>`__
+-  **Filmes:** `Piratas do Caribe <http://www.imdb.com/find?s=all&q=Piratas+do+Caribe>`__
+-  **Livros:** `Victor Hugo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Victor+Hugo>`__
+-  **Livros:** `Os Miseráveis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis>`__
+-  **Livros:** `A Revolução dos Bichos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Revolução+dos+Bichos>`__
+-  **Livros:** `O Parque dos Dinossáuros <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Parque+dos+Dinossáuros>`__
+-  **Livros:** `Augusto dos Anjos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Augusto+dos+Anjos>`__
+-  **Livros:** `Carlos Drummond de Andrade <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Carlos+Drummond+de+Andrade>`__
+-  **Livros:** `William Blake <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=William+Blake>`__
+-  **Livros:** `Baudelaire <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Baudelaire>`__
 
 **Links:**
 
--  `Polly Twitter
-   Client <https://duckduckgo.com/?q=Polly+Twitter+Client>`__
+-  `Polly Twitter Client <https://duckduckgo.com/?q=Polly+Twitter+Client>`__
 -  `Twitter <https://duckduckgo.com/?q=Twitter>`__
 -  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
 -  `Gwibber <https://duckduckgo.com/?q=Gwibber>`__
@@ -106,19 +96,12 @@ Escute agora:
 -  `Python Socks <https://duckduckgo.com/?q=Python+Socks>`__
 -  `Launchpad <https://duckduckgo.com/?q=Launchpad>`__
 -  `Penny Arcade <https://duckduckgo.com/?q=Penny+Arcade>`__
--  `Visão
-   Computacional <https://duckduckgo.com/?q=Visão+Computacional>`__
+-  `Visão Computacional <https://duckduckgo.com/?q=Visão+Computacional>`__
 -  `C++ <https://duckduckgo.com/?q=C++>`__
 -  `OpenCV <https://duckduckgo.com/?q=OpenCV>`__
 -  `libcv <https://duckduckgo.com/?q=libcv>`__
 -  `Livraria Cultura <https://duckduckgo.com/?q=Livraria+Cultura>`__
--  `Enquete para o novo nome do
-   aplicativo <http://www.omgubuntu.co.uk/2011/07/scizobird-seeking/>`__
--  `Monty Python: Polly o
-   papagaio <http://www.myspace.com/video/vid/1390811>`__
+-  `Enquete para o novo nome do aplicativo <http://www.omgubuntu.co.uk/2011/07/scizobird-seeking/>`__
+-  `Monty Python: Polly o papagaio <http://www.myspace.com/video/vid/1390811>`__
 
-   *\* **Música**: `Sunday Night
-   Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__
-   por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
-
-
+*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

@@ -28,10 +28,10 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-14.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-14.ogg>`__ 
 
-| **Blog**: http://hdoria.com/
-| **Twitter**: https://twitter.com/#!/hdoria
-| **Facebook**: http://www.facebook.com/hugodorian
-| **Linked.in**: http://www.linkedin.com/in/hdoria
+**Blog**: http://hdoria.com/
+**Twitter**: https://twitter.com/#!/hdoria
+**Facebook**: http://www.facebook.com/hugodorian
+**Linked.in**: http://www.linkedin.com/in/hdoria
 
 **Resumo**:
 
@@ -71,19 +71,13 @@ Escute agora:
 -  **Filme**: Samurai X
 -  **Filmes**: Dragon Ball
 -  **Filmes**: Cavaleiros do Zodíaco
--  **Pessoas/Web Site**: agregador de notícias `Planeta GNU/Linux
-   Brasil <http://planeta.gnulinuxbrasil.org/>`__
--  **Pessoas/Web Site**: `BR-Linux <http://br-linux.org/>`__,
-   `BR-Mac <http://br-mac.org/>`__ do **Augusto Campos**
+-  **Pessoas/Web Site**: agregador de notícias `Planeta GNU/Linux Brasil <http://planeta.gnulinuxbrasil.org/>`__
+-  **Pessoas/Web Site**: `BR-Linux <http://br-linux.org/>`__, `BR-Mac <http://br-mac.org/>`__ do **Augusto Campos**
 
 **Links**:
 
 -  `HnTool <http://code.google.com/p/hntool/>`__
 -  `pacupdate <https://code.google.com/p/pacupdate/>`__
--  `Arch
-   Sheriff <http://www.mail-archive.com/aur-general@archlinux.org/msg01001.html>`__
--  `POPCode <http://www.popcode.com.br/>`__
-   (`fotos <https://picasaweb.google.com/hugodoria/Popcode#>`__)
--  `Rock and Roll
-   Racing <https://secure.wikimedia.org/wikipedia/pt/wiki/Rock_%26_Roll_Racing>`__
-
+-  `Arch Sheriff <http://www.mail-archive.com/aur-general@archlinux.org/msg01001.html>`__
+-  `POPCode <http://www.popcode.com.br/>`__ (`fotos <https://picasaweb.google.com/hugodoria/Popcode#>`__)
+-  `Rock and Roll Racing <https://secure.wikimedia.org/wikipedia/pt/wiki/Rock_%26_Roll_Racing>`__

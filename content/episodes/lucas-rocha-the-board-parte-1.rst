@@ -27,10 +27,10 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-10.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-10.ogg>`__ 
 
-| **Blog**: http://lucasr.org/blog/
-| **Twitter**: http://twitter.com/lucasratmundo
-| **Facebook**: http://www.facebook.com/lucasrocha
-| **Identi.ca**: http://identi.ca/lucasr
+**Blog**: http://lucasr.org/blog/
+**Twitter**: http://twitter.com/lucasratmundo
+**Facebook**: http://www.facebook.com/lucasrocha
+**Identi.ca**: http://identi.ca/lucasr
 
 **Resumo:**
 
@@ -52,8 +52,7 @@ Escute agora:
 
 -  `Universidade Federal da Bahia <http://www.ufba.br/>`__
 -  `PHP <http://www.php.net/>`__
--  `Projeto Software Livre Bahia
-   (PSL-BA) <http://wiki.dcc.ufba.br/bin/view/PSL>`__
+-  `Projeto Software Livre Bahia (PSL-BA) <http://wiki.dcc.ufba.br/bin/view/PSL>`__
 -  `Zenity <http://live.gnome.org/Zenity>`__
 -  `GNOME <http://gnome.org>`__
 -  `Nokia <http://www.nokia.com/>`__

@@ -63,37 +63,23 @@ Escute agora: \*
 
 -  **Música:** `The Strokes <http://www.last.fm/search?q=The+Strokes>`__
 -  **Música:** `Cooks <http://www.last.fm/search?q=Cooks>`__
--  **Música:** `The
-   Fratellis <http://www.last.fm/search?q=The+Fratellis>`__
+-  **Música:** `The Fratellis <http://www.last.fm/search?q=The+Fratellis>`__
 -  **Música:** `Some 451 <http://www.last.fm/search?q=Some+451>`__
--  **Música:** `Streetlight
-   Manifesto <http://www.last.fm/search?q=Streetlight+Manifesto>`__
+-  **Música:** `Streetlight Manifesto <http://www.last.fm/search?q=Streetlight+Manifesto>`__
 -  **Música:** `Silverchair <http://www.last.fm/search?q=Silverchair>`__
--  **Música:** `Rise
-   Against <http://www.last.fm/search?q=Rise+Against>`__
--  **Música:** `System of a
-   Down <http://www.last.fm/search?q=System+of+a+Down>`__
--  **Música:** `Flogging
-   Molly <http://www.last.fm/search?q=Flogging+Molly>`__
--  **Filmes:** `Family
-   Guy <http://www.imdb.com/find?s=all&q=Family+Guy>`__
--  **Filmes:** `The Cleveland
-   Show <http://www.imdb.com/find?s=all&q=The+Cleveland+Show>`__
--  **Filmes:** `The Walking
-   Dead <http://www.imdb.com/find?s=all&q=The+Walking+Dead>`__
--  **Filmes:** `The
-   Pacific <http://www.imdb.com/find?s=all&q=The+Pacific>`__
+-  **Música:** `Rise Against <http://www.last.fm/search?q=Rise+Against>`__
+-  **Música:** `System of a Down <http://www.last.fm/search?q=System+of+a+Down>`__
+-  **Música:** `Flogging Molly <http://www.last.fm/search?q=Flogging+Molly>`__
+-  **Filmes:** `Family Guy <http://www.imdb.com/find?s=all&q=Family+Guy>`__
+-  **Filmes:** `The Cleveland Show <http://www.imdb.com/find?s=all&q=The+Cleveland+Show>`__
+-  **Filmes:** `The Walking Dead <http://www.imdb.com/find?s=all&q=The+Walking+Dead>`__
+-  **Filmes:** `The Pacific <http://www.imdb.com/find?s=all&q=The+Pacific>`__
 -  **Filmes:** `Simpsons <http://www.imdb.com/find?s=all&q=Simpsons>`__
--  **Livros:** `Clean
-   Code <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clean+Code>`__
--  **Livros:** `The Clean
-   Coder <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Clean+Coder>`__
--  **Livros:** `Land of
-   Lisp <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Land+of+Lisp>`__
--  **Livros:** `Hackers and
-   Painters <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters>`__
--  **Livros:** `Programming Collective
-   Intelligence <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Collective+Intelligence>`__
+-  **Livros:** `Clean Code <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clean+Code>`__
+-  **Livros:** `The Clean Coder <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Clean+Coder>`__
+-  **Livros:** `Land of Lisp <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Land+of+Lisp>`__
+-  **Livros:** `Hackers and Painters <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters>`__
+-  **Livros:** `Programming Collective Intelligence <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Collective+Intelligence>`__
 
 **Links:**
 
@@ -118,13 +104,11 @@ Escute agora: \*
 -  `Github <https://duckduckgo.com/?q=Github>`__
 -  `Os Trapalhões <https://duckduckgo.com/?q=Os+Trapalhões>`__
 -  `Fantástico <https://duckduckgo.com/?q=Fantástico>`__
--  `Domingão do
-   Faustão <https://duckduckgo.com/?q=Domingão+do+Faustão>`__
+-  `Domingão do Faustão <https://duckduckgo.com/?q=Domingão+do+Faustão>`__
 -  `Globo TV <https://duckduckgo.com/?q=Globo+TV>`__
 -  `Youtube <https://duckduckgo.com/?q=Youtube>`__
 -  `Fedex Day <https://duckduckgo.com/?q=Fedex+Day>`__
--  `Streaming Media East
-   2012 <https://duckduckgo.com/?q=Streaming+Media+East+2012>`__
+-  `Streaming Media East 2012 <https://duckduckgo.com/?q=Streaming+Media+East+2012>`__
 -  `Roku <https://duckduckgo.com/?q=Roku>`__
 -  `SDK <https://duckduckgo.com/?q=SDK>`__
 -  `MTV <https://duckduckgo.com/?q=MTV>`__
@@ -139,10 +123,8 @@ Escute agora: \*
 -  `Yipit <https://duckduckgo.com/?q=Yipit>`__
 -  `Instagram <https://duckduckgo.com/?q=Instagram>`__
 -  `Broadway <https://duckduckgo.com/?q=Broadway>`__
--  `Estátua da
-   Liberdade <https://duckduckgo.com/?q=Estátua+da+Liberdade>`__
--  `Treze Futebol
-   Clube <https://duckduckgo.com/?q=Treze+Futebol+Clube>`__
+-  `Estátua da Liberdade <https://duckduckgo.com/?q=Estátua+da+Liberdade>`__
+-  `Treze Futebol Clube <https://duckduckgo.com/?q=Treze+Futebol+Clube>`__
 -  `FX Channel <https://duckduckgo.com/?q=FX+Channel>`__
 -  `Fox Channel <https://duckduckgo.com/?q=Fox+Channel>`__
 -  `Kindle <https://duckduckgo.com/?q=Kindle>`__
@@ -151,17 +133,11 @@ Escute agora: \*
 -  `Stewie <http://cobrateam.github.com/stewie/>`__
 -  `4Clojure <https://duckduckgo.com/?q=4Clojure>`__
 -  `FISL 13 <https://duckduckgo.com/?q=FISL+13>`__
--  `Objective Oriented
-   Programming <https://duckduckgo.com/?q=Objective+Oriented+Programming>`__
--  `Functional
-   Programming <https://duckduckgo.com/?q=Functional+Programming>`__
+-  `Objective Oriented Programming <https://duckduckgo.com/?q=Objective+Oriented+Programming>`__
+-  `Functional Programming <https://duckduckgo.com/?q=Functional+Programming>`__
 -  `Rebel Code <https://duckduckgo.com/?q=Rebel+Code>`__
 -  `Richard Stallman <https://duckduckgo.com/?q=Richard+Stallman>`__
 -  `Miguel de Icaza <https://duckduckgo.com/?q=Miguel+de+Icaza>`__
 -  `Linus Torvald <https://duckduckgo.com/?q=Linus+Torvald>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

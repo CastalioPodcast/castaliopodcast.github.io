@@ -26,9 +26,9 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-20.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-20.ogg>`__ 
 
-| **Blog**: http://salgado.livejournal.com/
-| **Twitter**: https://twitter.com/#!/gsalgado
-| **Launchpad**: https://launchpad.net/~salgado
+**Blog**: http://salgado.livejournal.com/
+**Twitter**: https://twitter.com/#!/gsalgado
+**Launchpad**: https://launchpad.net/~salgado
 
 **Resumo:**
 
@@ -52,27 +52,19 @@ Escute agora:
 **Top 5:**
 
 -  **Música:** `Muse <http://www.last.fm/search?q=Muse>`__
--  **Música:** `Smashing
-   Pumpkins <http://www.last.fm/search?q=Smashing+Pumpkins>`__
+-  **Música:** `Smashing Pumpkins <http://www.last.fm/search?q=Smashing+Pumpkins>`__
 -  **Música:** `Fiona Apple <http://www.last.fm/search?q=Fiona+Apple>`__
 -  **Música:** `Oasis <http://www.last.fm/search?q=Oasis>`__
 -  **Música:** `Pearl Jam <http://www.last.fm/search?q=Pearl+Jam>`__
 -  **Música:** `Nirvana <http://www.last.fm/search?q=Nirvana>`__
--  **Filmes:** `Donny
-   Darco <http://www.imdb.com/find?s=all&q=Donny+Darco>`__
--  **Filmes:** `O Silêncio dos
-   Inocentes <http://www.imdb.com/find?s=all&q=O+Silêncio+dos+Inocentes>`__
--  **Filmes:** `O Segredo dos Seus
-   Olhos <http://www.imdb.com/find?s=all&q=O+Segredo+dos+Seus+Olhos>`__
+-  **Filmes:** `Donny Darco <http://www.imdb.com/find?s=all&q=Donny+Darco>`__
+-  **Filmes:** `O Silêncio dos Inocentes <http://www.imdb.com/find?s=all&q=O+Silêncio+dos+Inocentes>`__
+-  **Filmes:** `O Segredo dos Seus Olhos <http://www.imdb.com/find?s=all&q=O+Segredo+dos+Seus+Olhos>`__
 -  **Filmes:** `Crash <http://www.imdb.com/find?s=all&q=Crash>`__
--  **Livros:** `The Dragons of
-   Eden <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Dragons+of+Eden>`__
--  **Livros:**
-   `1984 <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=1984>`__
--  **Livros:** `Admirável Mundo
-   Novo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Admirável+Mundo+Novo>`__
--  **Livros:** `Os
-   Miseráveis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis>`__
+-  **Livros:** `The Dragons of Eden <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Dragons+of+Eden>`__
+-  **Livros:** `1984 <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=1984>`__
+-  **Livros:** `Admirável Mundo Novo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Admirável+Mundo+Novo>`__
+-  **Livros:** `Os Miseráveis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis>`__
 
 **Links:**
 
@@ -81,14 +73,11 @@ Escute agora:
 -  `arm board <https://duckduckgo.com/?q=arm+board>`__
 -  `kernel <https://duckduckgo.com/?q=kernel>`__
 -  `toolchain <https://duckduckgo.com/?q=toolchain>`__
--  `git version
-   control <https://duckduckgo.com/?q=git+version+control>`__
--  `Integração
-   Contínua <https://duckduckgo.com/?q=Integração+Contínua>`__
+-  `git version control <https://duckduckgo.com/?q=git+version+control>`__
+-  `Integração Contínua <https://duckduckgo.com/?q=Integração+Contínua>`__
 -  `Hudson <https://duckduckgo.com/?q=Hudson>`__
 -  `Jenkins <https://duckduckgo.com/?q=Jenkins>`__
--  `Lava Linaro
-   Automation <https://duckduckgo.com/?q=Lava+Linaro+Automation>`__
+-  `Lava Linaro Automation <https://duckduckgo.com/?q=Lava+Linaro+Automation>`__
 -  `Canonical <https://duckduckgo.com/?q=Canonical>`__
 -  `Ubuntu <https://duckduckgo.com/?q=Ubuntu>`__
 -  `Async <https://duckduckgo.com/?q=Async>`__
@@ -103,8 +92,7 @@ Escute agora:
 -  `Guastavo Niemeier <https://duckduckgo.com/?q=Guastavo+Niemeier>`__
 -  `Yui <https://duckduckgo.com/?q=Yui>`__
 -  `Twisted <https://duckduckgo.com/?q=Twisted>`__
--  `Ubuntu Developer
-   Summit <https://duckduckgo.com/?q=Ubuntu+Developer+Summit>`__
+-  `Ubuntu Developer Summit <https://duckduckgo.com/?q=Ubuntu+Developer+Summit>`__
 -  `Juju <https://duckduckgo.com/?q=Juju>`__
 -  `Ensamble <https://duckduckgo.com/?q=Ensamble>`__
 -  `apt-get <https://duckduckgo.com/?q=apt-get>`__
@@ -122,4 +110,3 @@ Escute agora:
 -  `Carl Seagan <https://duckduckgo.com/?q=Carl+Seagan>`__
 -  `George Orwell <https://duckduckgo.com/?q=George+Orwell>`__
 -  `Carlitos Tevez <https://duckduckgo.com/?q=Carlitos+Tevez>`__
-

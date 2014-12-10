@@ -67,45 +67,30 @@ Escute agora: \*
 
 **Top 5:**
 
--  **Música:** `Immortal
-   Technique <http://www.last.fm/search?q=Immortal+Technique>`__
+-  **Música:** `Immortal Technique <http://www.last.fm/search?q=Immortal+Technique>`__
 -  **Música:** `Criolo <http://www.last.fm/search?q=Criolo>`__
 -  **Música:** `Bob Marley <http://www.last.fm/search?q=Bob+Marley>`__
--  **Música:** `Cavalera
-   Conspiracy <http://www.last.fm/search?q=Cavalera+Conspiracy>`__
+-  **Música:** `Cavalera Conspiracy <http://www.last.fm/search?q=Cavalera+Conspiracy>`__
 -  **Música:** `Lowkey <http://www.last.fm/search?q=Lowkey>`__
--  **Filmes:** `Prison
-   Break <http://www.imdb.com/find?s=all&q=Prison+Break>`__
--  **Filmes:** `Big Bang
-   Theory <http://www.imdb.com/find?s=all&q=Big+Bang+Theory>`__
--  **Filmes:** `The IT
-   Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
+-  **Filmes:** `Prison Break <http://www.imdb.com/find?s=all&q=Prison+Break>`__
+-  **Filmes:** `Big Bang Theory <http://www.imdb.com/find?s=all&q=Big+Bang+Theory>`__
+-  **Filmes:** `The IT Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
 -  **Filmes:** `Chavez <http://www.imdb.com/find?s=all&q=Chavez>`__
 -  **Filmes:** `Homeland <http://www.imdb.com/find?s=all&q=Homeland>`__
--  **Livros:** `Pablo
-   Neruda <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pablo+Neruda>`__
--  **Livros:** `Cidade do
-   Sol <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidade+do+Sol>`__
--  **Livros:** `Khaled
-   Hossein <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Khaled+Hossein>`__
--  **Livros:** `Os
-   Sertões <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Sertões>`__
--  **Livros:** `Euclydes da
-   Cunha <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Euclydes+da+Cunha>`__
--  **Livros:** `Batalha do
-   Apocalipse <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse>`__
--  **Livros:** `Eduardo
-   Spohr <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Spohr>`__
--  **Livros:** `Design for
-   Hackers <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Design+for+Hackers>`__
--  **Livros:** `Eduardo
-   Galeano <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Galeano>`__
+-  **Livros:** `Pablo Neruda <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pablo+Neruda>`__
+-  **Livros:** `Cidade do Sol <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidade+do+Sol>`__
+-  **Livros:** `Khaled Hossein <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Khaled+Hossein>`__
+-  **Livros:** `Os Sertões <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Sertões>`__
+-  **Livros:** `Euclydes da Cunha <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Euclydes+da+Cunha>`__
+-  **Livros:** `Batalha do Apocalipse <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse>`__
+-  **Livros:** `Eduardo Spohr <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Spohr>`__
+-  **Livros:** `Design for Hackers <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Design+for+Hackers>`__
+-  **Livros:** `Eduardo Galeano <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Galeano>`__
 
 **Links:**
 
 -  `Planet GNOME <https://duckduckgo.com/?q=Planet+GNOME>`__
--  `Universidade Federal de
-   Pelotas <https://duckduckgo.com/?q=Universidade+Federal+de+Pelotas>`__
+-  `Universidade Federal de Pelotas <https://duckduckgo.com/?q=Universidade+Federal+de+Pelotas>`__
 -  `Projeto GNOME <https://duckduckgo.com/?q=Projeto+GNOME>`__
 -  `FISL <https://duckduckgo.com/?q=FISL>`__
 -  `Fundação GNOME <https://duckduckgo.com/?q=Fundação+GNOME>`__
@@ -121,12 +106,10 @@ Escute agora: \*
 -  `GUADEC <https://duckduckgo.com/?q=GUADEC>`__
 -  `Programação em C <https://duckduckgo.com/?q=Programação+em+C>`__
 -  `Javascript <https://duckduckgo.com/?q=Javascript>`__
--  `Programação em
-   Python <https://duckduckgo.com/?q=Programação+em+Python>`__
+-  `Programação em Python <https://duckduckgo.com/?q=Programação+em+Python>`__
 -  `GLIB <https://duckduckgo.com/?q=GLIB>`__
 -  `Evince <https://duckduckgo.com/?q=Evince>`__
--  `Biblioteca
-   libevince <https://duckduckgo.com/?q=Biblioteca+libevince>`__
+-  `Biblioteca libevince <https://duckduckgo.com/?q=Biblioteca+libevince>`__
 -  `Formato epub <https://duckduckgo.com/?q=Formato+epub>`__
 -  `Formato mobi <https://duckduckgo.com/?q=Formato+mobi>`__
 -  `Amazon <https://duckduckgo.com/?q=Amazon>`__
@@ -136,8 +119,4 @@ Escute agora: \*
 -  `Djavan Fagundes <https://duckduckgo.com/?q=Djavan+Fagundes>`__
 -  `iTunes <https://duckduckgo.com/?q=iTunes>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

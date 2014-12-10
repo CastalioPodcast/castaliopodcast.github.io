@@ -58,56 +58,32 @@ Escute agora:
 **Top 5**:
 
 -  **Música**:  `U2 <http://www.last.fm/search?q=u2&from=ac>`__
--  **Música**:  `Cold
-   Play <http://www.last.fm/search?q=cold+play&from=ac>`__
--  **Música**:  `Célia
-   Cruz <http://www.last.fm/search?q=C%C3%A9lia+Cruz&from=ac>`__
--  **Música**:  `John
-   Williams <http://www.last.fm/search?q=John+Williams&from=ac>`__
+-  **Música**:  `Cold Play <http://www.last.fm/search?q=cold+play&from=ac>`__
+-  **Música**:  `Célia Cruz <http://www.last.fm/search?q=C%C3%A9lia+Cruz&from=ac>`__
+-  **Música**:  `John Williams <http://www.last.fm/search?q=John+Williams&from=ac>`__
 -  **Música**:  `Eminem <http://www.last.fm/search?q=eminem&from=ac>`__
--  **Livro**:  Livros do \ `Edgar Allan
-   Poe <https://secure.wikimedia.org/wikipedia/en/wiki/Edgar_Allan_Poe>`__
--  **Livro**:  `War of The
-   Worlds <http://www.amazon.com/War-Worlds-H-G-Wells/dp/1936594056/ref=sr_1_1?ie=UTF8&qid=1313959221&sr=8-1>`__
-   por `H. G.
-   Wells <https://secure.wikimedia.org/wikipedia/en/wiki/H._G._Wells>`__
--  **Livro**:  Livros do `J.R.R.
-   Tolkien <https://secure.wikimedia.org/wikipedia/en/wiki/J._R._R._Tolkien>`__
--  **Livro**:  `The Code Book: The Secret History of Codes and
-   Code-breaking <http://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?ie=UTF8&qid=1313193191&sr=8-1>`__
--  **Livro**:  `The Code Book: The Science of Secrecy from Ancient Egypt
-   to Quantum
-   Cryptography <http://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=pd_sim_b_1>`__
--  **Livro**:  Livros do `Dan
-   Brown <https://secure.wikimedia.org/wikipedia/en/wiki/Dan_brown>`__
+-  **Livro**:  Livros do \ `Edgar Allan Poe <https://secure.wikimedia.org/wikipedia/en/wiki/Edgar_Allan_Poe>`__
+-  **Livro**:  `War of The Worlds <http://www.amazon.com/War-Worlds-H-G-Wells/dp/1936594056/ref=sr_1_1?ie=UTF8&qid=1313959221&sr=8-1>`__ por `H. G.  Wells <https://secure.wikimedia.org/wikipedia/en/wiki/H._G._Wells>`__
+-  **Livro**:  Livros do `J.R.R.  Tolkien <https://secure.wikimedia.org/wikipedia/en/wiki/J._R._R._Tolkien>`__
+-  **Livro**:  `The Code Book: The Secret History of Codes and Code-breaking <http://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?ie=UTF8&qid=1313193191&sr=8-1>`__
+-  **Livro**:  `The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography <http://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=pd_sim_b_1>`__
+-  **Livro**:  Livros do `Dan Brown <https://secure.wikimedia.org/wikipedia/en/wiki/Dan_brown>`__
 -  **Filme**:  `Amélie <http://www.imdb.com/title/tt0211915/>`__
--  **Filme**: `Matrix <http://www.imdb.com/find?s=all&q=matrix>`__
-   (trilogia)
--  **Filme** :  `Pulp
-   Fiction <http://www.imdb.com/find?s=all&q=Pulp+Fiction>`__
--  **Filme**:  `Senhor dos
-   Anéis <http://www.imdb.com/find?s=all&q=Senhor+dos+An%E9is>`__
-   (trilogia)
--  **Filmes**:  `Indiana
-   Jones <http://www.imdb.com/find?s=all&q=indiana+jones>`__ (série)
--  **Filmes**:  `Star
-   Wars <http://www.imdb.com/find?s=all&q=star+wars>`__ (série)
--  **Pessoas/Web Site**: `DZone: Fresh Links for
-   Developers <http://www.dzone.com/links/index.html>`__
--  **Pessoas/Web Site**:  `FS Daily: Free Software
-   News <http://www.fsdaily.com/>`__
--  **Pessoas/Web Site**:  `The H: Security news and Open source
-   developments <http://www.h-online.com/>`__
+-  **Filme**: `Matrix <http://www.imdb.com/find?s=all&q=matrix>`__ (trilogia)
+-  **Filme** :  `Pulp Fiction <http://www.imdb.com/find?s=all&q=Pulp+Fiction>`__
+-  **Filme**:  `Senhor dos Anéis <http://www.imdb.com/find?s=all&q=Senhor+dos+An%E9is>`__ (trilogia)
+-  **Filmes**:  `Indiana Jones <http://www.imdb.com/find?s=all&q=indiana+jones>`__ (série)
+-  **Filmes**:  `Star Wars <http://www.imdb.com/find?s=all&q=star+wars>`__ (série)
+-  **Pessoas/Web Site**: `DZone: Fresh Links for Developers <http://www.dzone.com/links/index.html>`__
+-  **Pessoas/Web Site**:  `FS Daily: Free Software News <http://www.fsdaily.com/>`__
+-  **Pessoas/Web Site**:  `The H: Security news and Open source developments <http://www.h-online.com/>`__
 -  **Pessoas/Web Site**:  `Dilbert <http://www.dilbert.com/>`__
 
 **Links**:
 
--  **Mora em**: `Vila Nova de
-   Gaia <http://www.flickr.com/photos/stewied/3107027239/>`__ em
-   **Portugal**
+-  **Mora em**: `Vila Nova de Gaia <http://www.flickr.com/photos/stewied/3107027239/>`__ em **Portugal**
 -  **Trabalha**: `MULTICERT <http://www.multicert.com/>`__
 -  **Projeto**: `Radio Tray <http://radiotray.sf.net/>`__
 -  `Foresight Linux <http://foresightlinux.org>`__
 -  `Google Alerts <http://www.google.com/alerts>`__
 -  `LaTeX <http://www.latex-project.org/>`__
-

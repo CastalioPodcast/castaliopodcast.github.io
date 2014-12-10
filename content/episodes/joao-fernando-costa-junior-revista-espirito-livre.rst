@@ -34,11 +34,9 @@ Escute agora:
 -  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-25.mp3>`__
 -  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-25.ogg>`__
 
--  **Twitter**:
-   `https://twitter.com/#!/jfcosta <https://twitter.com/#%21/jfcosta>`__
+-  **Twitter**: `https://twitter.com/#!/jfcosta <https://twitter.com/#%21/jfcosta>`__
 -  **Facebook**: https://www.facebook.com/joao.fernando.costa
--  **Blog**: `Revista Espírito
-   Livre <http://www.revista.espiritolivre.org/>`__
+-  **Blog**: `Revista Espírito Livre <http://www.revista.espiritolivre.org/>`__
 
 **Resumo:**
 
@@ -48,8 +46,7 @@ Escute agora:
 -  **O Começo do Começo** 07:13
 -  **Comparando Hoje Com o Começo** 10:30
 -  **Fazendo Dinheiro?** 12:33
--  **Tudo Que Você Queria Saber Sobre a Revista e Tinha Medo de
-   Perguntar** 14:00
+-  **Tudo Que Você Queria Saber Sobre a Revista e Tinha Medo de Perguntar** 14:00
 -  **Episódio Raro?** 26:27
 -  **Fórum Espírito Livre** 28:31
 -  **Próximo Fórum No Seu Estado** 34:15
@@ -59,49 +56,32 @@ Escute agora:
 
 **Top 5:**
 
--  **Música:** `Dream
-   Theater <http://www.last.fm/search?q=Dream+Theater>`__
+-  **Música:** `Dream Theater <http://www.last.fm/search?q=Dream+Theater>`__
 -  **Música:** `Angra <http://www.last.fm/search?q=Angra>`__
 -  **Música:** `Enya <http://www.last.fm/search?q=Enya>`__
 -  **Música:** `Kitaro <http://www.last.fm/search?q=kitaro>`__
--  **Música:** `Legião
-   Urbana <http://www.last.fm/search?q=Legi%C3%A3o+Urbana>`__
+-  **Música:** `Legião Urbana <http://www.last.fm/search?q=Legi%C3%A3o+Urbana>`__
 -  **Música:** `Nightwish <http://www.last.fm/search?q=Nightwish>`__
--  **Música:** `Within
-   Temptation <http://www.last.fm/search?q=Within+Temptation>`__
--  **Música:**
-   `Stratovarious <http://www.last.fm/search?q=Stratovarious>`__
--  **Filmes:** `Trilogia O Senhor dos
-   Anéis <http://www.imdb.com/find?s=all&q=Trilogia+O+Senhor+dos+An%C3%A9is>`__
--  **Filmes:** `Trilogia
-   Matrix <http://www.imdb.com/find?s=all&q=Trilogia+Matrix>`__
--  **Filmes:** `V de
-   Vingança <http://www.imdb.com/find?s=all&q=V+de+Vingan%C3%A7a>`__
--  **Filmes:** `Agentes do
-   Destino <http://www.imdb.com/find?s=all&q=Agentes+do+Destino>`__
+-  **Música:** `Within Temptation <http://www.last.fm/search?q=Within+Temptation>`__
+-  **Música:** `Stratovarious <http://www.last.fm/search?q=Stratovarious>`__
+-  **Filmes:** `Trilogia O Senhor dos Anéis <http://www.imdb.com/find?s=all&q=Trilogia+O+Senhor+dos+An%C3%A9is>`__
+-  **Filmes:** `Trilogia Matrix <http://www.imdb.com/find?s=all&q=Trilogia+Matrix>`__
+-  **Filmes:** `V de Vingança <http://www.imdb.com/find?s=all&q=V+de+Vingan%C3%A7a>`__
+-  **Filmes:** `Agentes do Destino <http://www.imdb.com/find?s=all&q=Agentes+do+Destino>`__
 -  **Filmes:** `Super 8 <http://www.imdb.com/find?s=all&q=Super+8>`__
--  **Filmes:** `Source
-   Code <http://www.imdb.com/find?s=all&q=Source+Code>`__
--  **Filmes:** `Apollo
-   18 <http://www.imdb.com/find?s=all&q=Apollo+18>`__
+-  **Filmes:** `Source Code <http://www.imdb.com/find?s=all&q=Source+Code>`__
+-  **Filmes:** `Apollo 18 <http://www.imdb.com/find?s=all&q=Apollo+18>`__
 -  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
--  **Filmes:** `Criminal
-   Minds <http://www.imdb.com/find?s=all&q=Criminal+Minds>`__
--  **Filmes:** `The
-   Mentalist <http://www.imdb.com/find?s=all&q=The+Mentalist>`__
--  **Livros:**
-   `Bíblia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=B%C3%ADblia>`__
--  **Livros:**
-   `BR-Linux <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=BR-Linux>`__
--  **Livros:**
-   `Folha <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Folha>`__
--  **Livros:**
-   `Estadão <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estad%C3%A3o>`__
+-  **Filmes:** `Criminal Minds <http://www.imdb.com/find?s=all&q=Criminal+Minds>`__
+-  **Filmes:** `The Mentalist <http://www.imdb.com/find?s=all&q=The+Mentalist>`__
+-  **Livros:** `Bíblia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=B%C3%ADblia>`__
+-  **Livros:** `BR-Linux <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=BR-Linux>`__
+-  **Livros:** `Folha <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Folha>`__
+-  **Livros:** `Estadão <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estad%C3%A3o>`__
 
 **Links:**
 
--  `Revista Espírito
-   Livre <https://duckduckgo.com/?q=Revista+Esp%C3%ADrito+Livre>`__
+-  `Revista Espírito Livre <https://duckduckgo.com/?q=Revista+Esp%C3%ADrito+Livre>`__
 -  `GTalk <https://duckduckgo.com/?q=GTalk>`__
 -  `Jon Maddog Hall <https://duckduckgo.com/?q=Jon+Maddog+Hall>`__
 -  `Xubuntu <https://duckduckgo.com/?q=Xubuntu>`__
@@ -115,6 +95,4 @@ Escute agora:
 -  `PDF <https://duckduckgo.com/?q=PDF>`__
 -  `Cloud Computing <https://duckduckgo.com/?q=Cloud+Computing>`__
 
-*\* **Música**: `Sunday Night
-Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__
-por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

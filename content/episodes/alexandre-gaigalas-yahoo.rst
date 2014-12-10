@@ -51,8 +51,7 @@ Contato
 -  **Github**:  https://github.com/alganet
 -  **Last.fm**:  http://www.last.fm/user/alganet
 -  **Flickr**:  http://www.flickr.com/people/gaigalas/
--  **InfoQ**: `Dados na Web Semântica: padrões e
-   ferramentas <http://www.infoq.com/br/presentations/web-semantica-dados;jsessionid=E408164E3C4277902ADA1D8782C45380>`__
+-  **InfoQ**: `Dados na Web Semântica: padrões e ferramentas <http://www.infoq.com/br/presentations/web-semantica-dados;jsessionid=E408164E3C4277902ADA1D8782C45380>`__
 
 Escute Agora
 ------------
@@ -67,37 +66,24 @@ Download
 Top 5
 -----
 
--  **Música:** `Mamonas
-   Assassinas <http://www.last.fm/search?q=Mamonas+Assassinas>`__
+-  **Música:** `Mamonas Assassinas <http://www.last.fm/search?q=Mamonas+Assassinas>`__
 -  **Música:** `Megadeth <http://www.last.fm/search?q=Megadeth>`__
--  **Música:** `Shadow
-   Gallery <http://www.last.fm/search?q=Shadow+Gallery>`__
--  **Filmes:** `Breaking
-   Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
+-  **Música:** `Shadow Gallery <http://www.last.fm/search?q=Shadow+Gallery>`__
+-  **Filmes:** `Breaking Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
 -  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
 -  **Filmes:** `Top Gear <http://www.imdb.com/find?s=all&q=Top+Gear>`__
 -  **Filmes:** `Mad Men <http://www.imdb.com/find?s=all&q=Mad+Men>`__
--  **Livros:** `The Lean
-   Startup <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Lean+Startup>`__
--  **Livros:** `Programação Extrema
-   Explicada <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programação+Extrema+Explicada>`__
--  **Livros:** `Vinícius Magalhães
-   Peres <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Vinícius+Magalhães+Peres>`__
--  **Livros:** `Deus, Um
-   Delírio <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus,+Um+Delírio>`__
--  **Livros:** `Richard
-   Dawkins <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Richard+Dawkins>`__
--  **Livros:** `Os Jogos da
-   Vida <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Jogos+da+Vida>`__
--  **Software:** `Sublime
-   Text <https://duckduckgo.com/?q=Sublime+Text>`__
--  **Software:** `Ubuntu
-   Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
+-  **Livros:** `The Lean Startup <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Lean+Startup>`__
+-  **Livros:** `Programação Extrema Explicada <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programação+Extrema+Explicada>`__
+-  **Livros:** `Vinícius Magalhães Peres <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Vinícius+Magalhães+Peres>`__
+-  **Livros:** `Deus, Um Delírio <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus,+Um+Delírio>`__
+-  **Livros:** `Richard Dawkins <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Richard+Dawkins>`__
+-  **Livros:** `Os Jogos da Vida <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Jogos+da+Vida>`__
+-  **Software:** `Sublime Text <https://duckduckgo.com/?q=Sublime+Text>`__
+-  **Software:** `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
 -  **Software:** `Firefox <https://duckduckgo.com/?q=Firefox>`__
--  **Software:** `Visual Studio
-   2012 <https://duckduckgo.com/?q=Visual+Studio+2012>`__
--  **Software:** `Windows Poer
-   Shell <https://duckduckgo.com/?q=Windows+Poer+Shell>`__
+-  **Software:** `Visual Studio 2012 <https://duckduckgo.com/?q=Visual+Studio+2012>`__
+-  **Software:** `Windows Poer Shell <https://duckduckgo.com/?q=Windows+Poer+Shell>`__
 
 Links
 -----
@@ -114,8 +100,7 @@ Links
 -  `NodeJS <https://duckduckgo.com/?q=NodeJS>`__
 -  `Web Socket <https://duckduckgo.com/?q=Web+Socket>`__
 -  `Safary Web Browser <https://duckduckgo.com/?q=Safary+Web+Browser>`__
--  `Firefox Web
-   Browser <https://duckduckgo.com/?q=Firefox+Web+Browser>`__
+-  `Firefox Web Browser <https://duckduckgo.com/?q=Firefox+Web+Browser>`__
 -  `CSS <https://duckduckgo.com/?q=CSS>`__
 -  `PHP <https://duckduckgo.com/?q=PHP>`__
 -  `Android <https://duckduckgo.com/?q=Android>`__
@@ -145,8 +130,7 @@ Links
 -  `Respect Rest <https://duckduckgo.com/?q=Respect+Rest>`__
 -  `PHP Engine <https://duckduckgo.com/?q=PHP+Engine>`__
 -  `Respect Config <https://duckduckgo.com/?q=Respect+Config>`__
--  `Dependency
-   Injection <https://duckduckgo.com/?q=Dependency+Injection>`__
+-  `Dependency Injection <https://duckduckgo.com/?q=Dependency+Injection>`__
 -  `Respect Doc <https://duckduckgo.com/?q=Respect+Doc>`__
 -  `PHP Documenter <https://duckduckgo.com/?q=PHP+Documenter>`__
 -  `Cygwin <https://duckduckgo.com/?q=Cygwin>`__
@@ -157,8 +141,4 @@ Links
 -  `Metodologia Ágil <https://duckduckgo.com/?q=Metodologia+Ágil>`__
 -  `William Sanders <https://duckduckgo.com/?q=William+Sanders>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__\ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__\ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

@@ -62,41 +62,26 @@ Escute agora:
 -  **Música:** `Raul Seixas <http://www.last.fm/search?q=Raul+Seixas>`__
 -  **Música:** `AC/DC <http://www.last.fm/search?q=AC/DC>`__
 -  **Música:** `IRA <http://www.last.fm/search?q=IRA>`__
--  **Música:** `Engenheiros do
-   Hawai <http://www.last.fm/search?q=Engenheiros+do+Hawai>`__
--  **Música:** `Jack
-   Johnson <http://www.last.fm/search?q=Jack+Johnson>`__
+-  **Música:** `Engenheiros do Hawai <http://www.last.fm/search?q=Engenheiros+do+Hawai>`__
+-  **Música:** `Jack Johnson <http://www.last.fm/search?q=Jack+Johnson>`__
 -  **Música:** `Iron Maiden <http://www.last.fm/search?q=Iron+Maiden>`__
--  **Filmes:** `O
-   Exorcista <http://www.imdb.com/find?s=all&q=O+Exorcista>`__
--  **Filmes:** `Forrest
-   Gump <http://www.imdb.com/find?s=all&q=Forrest+Gump>`__
--  **Filmes:** `A
-   Profecia <http://www.imdb.com/find?s=all&q=A+Profecia>`__
--  **Filmes:** `O Senhor dos
-   Anéis <http://www.imdb.com/find?s=all&q=O+Senhor+dos+Anéis>`__
--  **Filmes:** `2001 Uma Odisséia no
-   Espaço <http://www.imdb.com/find?s=all&q=2001+Uma+Odisséia+no+Espaço>`__
--  **Livros:** `Starfish and the
-   Spider <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starfish+and+the+Spider>`__
--  **Livros:**
-   `Utopia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Utopia>`__
--  **Livros:** `A Arte da
-   Guerra <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Arte+da+Guerra>`__
--  **Livros:** `O Senhor dos
-   Aneis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Senhor+dos+Aneis>`__
--  **Livros:** `Sistemas Operacionais
-   Modernos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sistemas+Operacionais+Modernos>`__
--  **Livros:**
-   `Aristóteles <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Aristóteles>`__
--  **Livros:**
-   `Platão <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Platão>`__
+-  **Filmes:** `O Exorcista <http://www.imdb.com/find?s=all&q=O+Exorcista>`__
+-  **Filmes:** `Forrest Gump <http://www.imdb.com/find?s=all&q=Forrest+Gump>`__
+-  **Filmes:** `A Profecia <http://www.imdb.com/find?s=all&q=A+Profecia>`__
+-  **Filmes:** `O Senhor dos Anéis <http://www.imdb.com/find?s=all&q=O+Senhor+dos+Anéis>`__
+-  **Filmes:** `2001 Uma Odisséia no Espaço <http://www.imdb.com/find?s=all&q=2001+Uma+Odisséia+no+Espaço>`__
+-  **Livros:** `Starfish and the Spider <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starfish+and+the+Spider>`__
+-  **Livros:** `Utopia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Utopia>`__
+-  **Livros:** `A Arte da Guerra <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Arte+da+Guerra>`__
+-  **Livros:** `O Senhor dos Aneis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Senhor+dos+Aneis>`__
+-  **Livros:** `Sistemas Operacionais Modernos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sistemas+Operacionais+Modernos>`__
+-  **Livros:** `Aristóteles <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Aristóteles>`__
+-  **Livros:** `Platão <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Platão>`__
 
 **Links:**
 
 -  `Linked.in <https://duckduckgo.com/?q=Linked.in>`__
--  `Linux Plus
-   Magazine <https://duckduckgo.com/?q=Linux+Plus+Magazine>`__
+-  `Linux Plus Magazine <https://duckduckgo.com/?q=Linux+Plus+Magazine>`__
 -  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
 -  `Slackware Linux <https://duckduckgo.com/?q=Slackware+Linux>`__
 -  `Red Hat Linux <https://duckduckgo.com/?q=Red+Hat+Linux>`__
@@ -112,22 +97,17 @@ Escute agora:
 -  `Jonh Wendell <https://duckduckgo.com/?q=Jonh+Wendell>`__
 -  `Karen Sandler <https://duckduckgo.com/?q=Karen+Sandler>`__
 -  `Compiz <https://duckduckgo.com/?q=Compiz>`__
--  `GNOME Board of
-   Directors <https://duckduckgo.com/?q=GNOME+Board+of+Directors>`__
+-  `GNOME Board of Directors <https://duckduckgo.com/?q=GNOME+Board+of+Directors>`__
 -  `Stormy Peters <https://duckduckgo.com/?q=Stormy+Peters>`__
 -  `Canonical <https://duckduckgo.com/?q=Canonical>`__
 -  `Formato ODF <https://duckduckgo.com/?q=Formato+ODF>`__
 -  `Libre Office <https://duckduckgo.com/?q=Libre+Office>`__
--  `Navegador Internet
-   Explorer <https://duckduckgo.com/?q=Navegador+Internet+Explorer>`__
+-  `Navegador Internet Explorer <https://duckduckgo.com/?q=Navegador+Internet+Explorer>`__
 -  `Navegador Firefox <https://duckduckgo.com/?q=Navegador+Firefox>`__
 -  `Microsoft Windows <https://duckduckgo.com/?q=Microsoft+Windows>`__
 -  `Microsoft Office <https://duckduckgo.com/?q=Microsoft+Office>`__
--  `Microsoft Academic
-   Alliance <https://duckduckgo.com/?q=Microsoft+Academic+Alliance>`__
+-  `Microsoft Academic Alliance <https://duckduckgo.com/?q=Microsoft+Academic+Alliance>`__
 -  `Netscape <https://duckduckgo.com/?q=Netscape>`__
 -  `Netflix <https://duckduckgo.com/?q=Netflix>`__
 
-*\* **Música**: `Sunday Night
-Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__
-por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

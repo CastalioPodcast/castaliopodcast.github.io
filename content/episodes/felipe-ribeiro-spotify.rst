@@ -39,8 +39,7 @@ Escute agora: \*
 `Ogg <http://downloads.ogmaciel.com/castalio-podcast-38.ogg>`__ \*
 `M4A <http://downloads.ogmaciel.com/castalio-podcast-38.m4a>`__
 
--  **Blog**:  http://blog.feliperibeiro.com/ e
-    http://old.feliperibeiro.com/
+-  **Blog**:  http://blog.feliperibeiro.com/ e  http://old.feliperibeiro.com/
 -  **Twitter**:  https://twitter.com/#!/felipernb
 -  **Facebook**:  https://www.facebook.com/felipernb
 -  **Google+**:  https://plus.google.com/115362068810405278627/posts
@@ -69,32 +68,19 @@ Escute agora: \*
 -  **Música:** `Pearl Jam <http://www.last.fm/search?q=Pearl+Jam>`__
 -  **Música:** `Wolfmother <http://www.last.fm/search?q=Wolfmother>`__
 -  **Música:** `AC/DC <http://www.last.fm/search?q=AC/DC>`__
--  **Música:** `Creedence Clearwater
-   Revival <http://www.last.fm/search?q=Creedence+Clearwater+Revival>`__
--  **Música:** `Explosions in the
-   Sky <http://www.last.fm/search?q=Explosions+in+the+Sky>`__
--  **Filmes:** `Forrest
-   Gump <http://www.imdb.com/find?s=all&q=Forrest+Gump>`__
--  **Filmes:** `Back to the
-   future <http://www.imdb.com/find?s=all&q=Back+to+the+future>`__
--  **Filmes:**
-   `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
--  **Filmes:** `The Big
-   Lebowski <http://www.imdb.com/find?s=all&q=The+Big+Lebowski>`__
--  **Filmes:** `The Good, the Bad and the
-   Ugly <http://www.imdb.com/find?s=all&q=The+Good,+the+Bad+and+the+Ugly>`__
--  **Livros:** `Programming
-   pearls <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+pearls>`__
--  **Livros:** `The algorithm design
-   manual <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+algorithm+design+manual>`__
--  **Livros:** `Being
-   Geek <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Being+Geek>`__
--  **Livros:** [The Hichhiker's guide to the
-   galaxy](http://www.amazon.com/s/ref=nb\_sb\_noss?url=search-alias%3Dstripbooks&field-keywords=The+Hichhiker's+guide+to+the+galaxy)
--  **Livros:** `Starman: Truth Behind the Legend of Yuri
-   Gagarin <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starman:+Truth+Behind+the+Legend+of+Yuri+Gagarin>`__
--  **Livros:** `Ensaio sobre a
-   cegueira <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ensaio+sobre+a+cegueira>`__
+-  **Música:** `Creedence Clearwater Revival <http://www.last.fm/search?q=Creedence+Clearwater+Revival>`__
+-  **Música:** `Explosions in the Sky <http://www.last.fm/search?q=Explosions+in+the+Sky>`__
+-  **Filmes:** `Forrest Gump <http://www.imdb.com/find?s=all&q=Forrest+Gump>`__
+-  **Filmes:** `Back to the future <http://www.imdb.com/find?s=all&q=Back+to+the+future>`__
+-  **Filmes:** `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
+-  **Filmes:** `The Big Lebowski <http://www.imdb.com/find?s=all&q=The+Big+Lebowski>`__
+-  **Filmes:** `The Good, the Bad and the Ugly <http://www.imdb.com/find?s=all&q=The+Good,+the+Bad+and+the+Ugly>`__
+-  **Livros:** `Programming pearls <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+pearls>`__
+-  **Livros:** `The algorithm design manual <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+algorithm+design+manual>`__
+-  **Livros:** `Being Geek <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Being+Geek>`__
+-  **Livros:** [The Hichhiker's guide to the galaxy](http://www.amazon.com/s/ref=nb\_sb\_noss?url=search-alias%3Dstripbooks&field-keywords=The+Hichhiker's+guide+to+the+galaxy)
+-  **Livros:** `Starman: Truth Behind the Legend of Yuri Gagarin <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starman:+Truth+Behind+the+Legend+of+Yuri+Gagarin>`__
+-  **Livros:** `Ensaio sobre a cegueira <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ensaio+sobre+a+cegueira>`__
 
 **Links:**
 
@@ -116,8 +102,4 @@ Escute agora: \*
 -  `Groove Shark <https://duckduckgo.com/?q=Groove+Shark>`__
 -  `Will Farrel <https://duckduckgo.com/?q=Will+Farrel>`__
 
-\*\ **Música**: `Ain't Gonna Give Jelly
-Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed
-under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
-Music Sharing) License.
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

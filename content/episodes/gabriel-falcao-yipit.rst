@@ -64,27 +64,18 @@ Escute agora: \*
 **Top 5:**
 
 -  **Música:** `Strokes <http://www.last.fm/search?q=Strokes>`__
--  **Música:** `White
-   Stripes <http://www.last.fm/search?q=White+Stripes>`__
+-  **Música:** `White Stripes <http://www.last.fm/search?q=White+Stripes>`__
 -  **Música:** `MGMT <http://www.last.fm/search?q=MGMT>`__
--  **Música:** `Two Door Cinema
-   Club <http://www.last.fm/search?q=Two+Door+Cinema+Club>`__
+-  **Música:** `Two Door Cinema Club <http://www.last.fm/search?q=Two+Door+Cinema+Club>`__
 -  **Música:** `Daft Punk <http://www.last.fm/search?q=Daft+Punk>`__
--  **Filmes:** `White
-   Collar <http://www.imdb.com/find?s=all&q=White+Collar>`__
--  **Filmes:** `Big Band
-   Theory <http://www.imdb.com/find?s=all&q=Big+Band+Theory>`__
+-  **Filmes:** `White Collar <http://www.imdb.com/find?s=all&q=White+Collar>`__
+-  **Filmes:** `Big Band Theory <http://www.imdb.com/find?s=all&q=Big+Band+Theory>`__
 -  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
--  **Filmes:** `Guy
-   Ritchie <http://www.imdb.com/find?s=all&q=Guy+Ritchie>`__
--  **Filmes:** `Sherlock
-   Holmes <http://www.imdb.com/find?s=all&q=Sherlock+Holmes>`__
--  **Filmes:** `Lock, Stock and Two Smoking
-   Barrels <http://www.imdb.com/find?s=all&q=Lock,+Stock+and+Two+Smoking+Barrels>`__
--  **Filmes:** `Jogos
-   Mortais <http://www.imdb.com/find?s=all&q=Jogos+Mortais>`__
--  **Livros:**
-   `HBase <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase>`__
+-  **Filmes:** `Guy Ritchie <http://www.imdb.com/find?s=all&q=Guy+Ritchie>`__
+-  **Filmes:** `Sherlock Holmes <http://www.imdb.com/find?s=all&q=Sherlock+Holmes>`__
+-  **Filmes:** `Lock, Stock and Two Smoking Barrels <http://www.imdb.com/find?s=all&q=Lock,+Stock+and+Two+Smoking+Barrels>`__
+-  **Filmes:** `Jogos Mortais <http://www.imdb.com/find?s=all&q=Jogos+Mortais>`__
+-  **Livros:** `HBase <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase>`__
 
 **Links:**
 
@@ -117,10 +108,9 @@ Escute agora: \*
 -  `HTTPretty <https://github.com/gabrielfalcao/HTTPretty>`__
 -  `Salad <https://github.com/gabrielfalcao/salad>`__
 -  `Little Joy <https://github.com/gabrielfalcao/LittleJoy>`__
--  d\ `ead-parrot <https://github.com/gabrielfalcao/dead-parrot>`__
+-  `dead-parrot <https://github.com/gabrielfalcao/dead-parrot>`__
 -  `Bolacha <https://github.com/gabrielfalcao/bolacha>`__
--  `Desenvolvimento
-   Agile <https://duckduckgo.com/?q=Desenvolvimento+Agile>`__
+-  `Desenvolvimento Agile <https://duckduckgo.com/?q=Desenvolvimento+Agile>`__
 -  `Técnica Scrum <https://duckduckgo.com/?q=Técnica+Scrum>`__
 -  `Pyccuracy <https://github.com/heynemann/pyccuracy>`__
 -  `Bernardo Heynemann <https://github.com/heynemann>`__
@@ -132,12 +122,10 @@ Escute agora: \*
 -  `Banda Lettuce <https://duckduckgo.com/?q=Banda+Lettuce>`__
 -  `RSpec <https://duckduckgo.com/?q=RSpec>`__
 -  `Teste unitário <https://duckduckgo.com/?q=Teste+unitário>`__
--  `Behavior Driven
-   Development <https://duckduckgo.com/?q=Behavior+Driven+Development>`__
+-  `Behavior Driven Development <https://duckduckgo.com/?q=Behavior+Driven+Development>`__
 -  `Groupon <https://duckduckgo.com/?q=Groupon>`__
 -  `Peixe Urbano <https://duckduckgo.com/?q=Peixe+Urbano>`__
--  `Integração
-   contínua <https://duckduckgo.com/?q=Integração+contínua>`__
+-  `Integração contínua <https://duckduckgo.com/?q=Integração+contínua>`__
 -  `Jenkins <https://duckduckgo.com/?q=Jenkins>`__
 -  `Bamboo <https://duckduckgo.com/?q=Bamboo>`__
 -  `Node.js <https://duckduckgo.com/?q=Node.js>`__
@@ -146,10 +134,4 @@ Escute agora: \*
 -  `DjangoCon <https://duckduckgo.com/?q=DjangoCon>`__
 -  `Music For Programming <http://musicforprogramming.net/>`__
 
-   \*\ **Música**: `Ain't Gonna Give Jelly
-   Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__
-   by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is
-   licensed under a Creative Commons
-   Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
-
+\*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
