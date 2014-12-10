@@ -29,10 +29,10 @@ GITHUB_URL = 'http://github.com/CastalioPodcast'
 
 # Social widget
 SOCIAL = (
-    ('github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
-    ('twitter', 'https://twitter.com/castaliopod'),
-    ('microphone', 'https://itunes.apple.com/us/podcast/castalio-podcast/id446259197'),
-    ('rss', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
+    ('GitHub', 'github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
+    ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
+    ('Podcast', 'microphone', 'https://itunes.apple.com/us/podcast/castalio-podcast/id446259197'),
+    ('RSS Feed', 'rss', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
 )
 
 DEFAULT_PAGINATION = 10
