@@ -5,7 +5,7 @@ branches:
 install:
 - pip install pelican ghp-import
 script:
-- make publish github
+- make publish travis
 env:
   global:
     secure: Ixim4YnZNgGHzGP5Vpf4wwipQa/tugkLg9aTKoSMHjqSGEsVy0Liiv3Lnx8YOCEckE3UUxOwVunyGwStgAnkiiLuBMSlUwYp8Z+TuXm3MS/2iaA4TwAhoTrOxHQElO0uXXai+/x8z62Qiv9tRdC6Yg174iJcKYD7uZFanXTV+xk=
