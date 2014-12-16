@@ -3,7 +3,7 @@ Episódio 56: Splinter
 :date: 2014-12-07
 :author: Og Maciel e Elyézer Rezende
 :category: Podcast
-:podast: https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3
+:podcast: https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3
 :tags: splinter, selenium, automatização, splinter, selenium, python
 
 No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o
