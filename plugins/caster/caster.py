@@ -41,7 +41,7 @@ class Podcast(Directive):
 
         HTML = u"""
         <div class="podcast text-center">
-            <iframe src="https://archive.org/embed/{title}/{title}.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+            <iframe src="https://archive.org/embed/{title}" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
             <div class="podcast-download">
                 <span class="label label-success"><a href="https://archive.org/download/{title}/{title}.mp3"><i class="fa fa-download"></i> Download MP3</a></span>
