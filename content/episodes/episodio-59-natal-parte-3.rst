@@ -84,8 +84,8 @@ Links
 .. _AWStats: http://www.awstats.org/
 .. _Amazon S3: http://aws.amazon.com/pt/s3
 .. _Archive.org: https://archive.org/
-.. _Buzzsprout - hosting para podcasts (pago): http://www.buzzsprout.com/`_
-.. _CloudFlare - CDN e DNS grátis: https://cloudflare.com`_
+.. _Buzzsprout - hosting para podcasts (pago): http://www.buzzsprout.com/
+.. _CloudFlare - CDN e DNS grátis: https://cloudflare.com
 .. _Especificações de Feed iTunes: https://www.apple.com/itunes/podcasts/specs.html
 .. _Feedburner: http://feedburner.google.com/
 .. _Gerador de Feeds iTunes para Pelican: https://github.com/magnunleno/pelican-podcast-feed
@@ -96,10 +96,10 @@ Links
 .. _GitHub Hack 'n' Cast: https://github.com/hackncast/hackncast
 .. _GitHub Mind The Cloud: https://github.com/rafaelrosafu/mindthecloud
 .. _GitHub Pages: https://pages.github.com/
-.. _GoAccess - estatísticas de acesso baseadas em logs: http://goaccess.io/`_
+.. _GoAccess - estatísticas de acesso baseadas em logs: http://goaccess.io/
 .. _The Wayback Machine: http://archive.org/web/
 .. _Travis CI: https://travis-ci.org/
-.. _Uptime Robot - monitor de sites gratis: https://uptimerobot.com`_
+.. _Uptime Robot - monitor de sites gratis: https://uptimerobot.com
 
 .. Twitter
 .. _Rafael Rosa Fu: https://twitter.com/rafaelrosafu
