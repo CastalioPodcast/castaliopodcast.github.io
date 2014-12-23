@@ -232,3 +232,56 @@ figure.floatcenter, .align-center {
 article {
 	overflow: auto;
 }
+
+/* Figure and Image tweaks */
+.figure {
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    display: table;
+    margin-bottom: 20px;
+    padding: 4px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.figure p.caption {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 4px;
+    font-size: 90%;
+    text-align: center;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+.figure div.legend {
+    padding: 0px 4px;
+    font-size: small;
+    font-style: italic;
+    text-align: justify;
+}
+
+img.align-right, .figure.align-right {
+    float: right;
+    margin-top: 0em;
+    margin-right: 0em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+
+img.align-left, .figure.align-left {
+    float: left;
+    margin-top: 0em;
+    margin-right: 1em;
+    margin-left: 0em;
+    margin-bottom: 1em;
+}
+
+img.align-center, .figure.align-center{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.7em;
+    margin-bottom: 1.5em;
+}
