@@ -3,7 +3,7 @@ Episódio Zero: Og Maciel
 :date: 2011-02-16 15:07
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/0-CastalioPodcast.mp3
+:podcast: https://archive.org/download/castalio-podcast-01/castalio-podcast-01.mp3
 :tags: podcast
 
 .. figure:: {filename}/images/episodiozero.jpg
@@ -37,13 +37,13 @@ as palavras que continham a palavra **CAST**:
 Depois foram horas de muita risada! Agora, quer saber mais? Escute o
 episódio então... :)
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/0-CastalioPodcast.mp3>`__
--  `Oga <http://downloads.ogmaciel.com/0-CastalioPodcast.oga>`__
+.. podcast:: castalio-podcast-01
 
-**Links deste episódio:**
-
+Links
+-----
 -  **GNOME**: http://www.gnome.org
 -  **KDE**: http://en.wikipedia.org/wiki/KDE
 -  **Xfce**: http://en.wikipedia.org/wiki/Xfce

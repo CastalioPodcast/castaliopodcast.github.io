@@ -3,7 +3,7 @@ Alexandre Coster: Asobo Studio
 :date: 2011-11-14 02:33
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-22.mp3
+:podcast: https://archive.org/download/castalio-podcast-22/castalio-podcast-22.mp3
 
 .. figure:: {filename}/images/alexandrecoster.jpg
    :alt: Alexandre Coster - Asobo Studio
@@ -20,18 +20,20 @@ em **Israel** com um **chefe Russo**, se perdendo na **Palestina**,
 fazendo renderizador de jogos "no braço", seu ódio pelo **Eclipse**, e
 muito mais!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-22.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-22.ogg>`__
+.. podcast:: castalio-podcast-22
 
+Contato
+-------
 -  **Twitter**:  http://www.twitter.com/acoster
 -  **Facebook**:  http://www.facebook.com/acoster
 -  **Linked.in**:  http://www.linkedin.com/in/acoster
 -  **Tumblr**:  http://acoster.tumblr.com/
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 00:30
 -  **Assistente de Pesquisas na Alemanha, Banco de XML** 02:30
 -  **Vida na Alemanha: 550 Euros por Mês** 06:50
@@ -52,8 +54,8 @@ Escute agora:
 -  **Patch de Natal** 01:00:00
 -  **Conclusão** 01:06:00
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Jethro Tull <http://www.last.fm/search?q=Jethro+Tull>`__
 -  **Música:** `Pink Floyd <http://www.last.fm/search?q=Pink+Floyd>`__
 -  **Música:** `Queens of Stone Age <http://www.last.fm/search?q=Queens+of+Stone+Age>`__
@@ -73,8 +75,8 @@ Escute agora:
 -  **Jogos:** `Scribblenauts <http://www.amazon.com/Scribblenauts-Nintendo-DS/dp/B002B1TDV8/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813436&sr=1-1>`__
 -  **Jogos:** `Just Cause 2 <http://www.amazon.com/Just-Cause-2-Xbox-360/dp/B0013RATNM/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813465&sr=1-1>`__
 
-**Links:**
-
+Links
+-----
 -  `Asobo Studio <https://duckduckgo.com/?q=Asobo+Studio>`__
 -  `Western Union <https://duckduckgo.com/?q=Western+Union>`__
 -  `Deer Hunter Tournament <https://duckduckgo.com/?q=Deer+Hunter+Tournament>`__

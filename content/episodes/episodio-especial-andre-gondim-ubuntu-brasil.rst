@@ -3,7 +3,7 @@ Episódio Especial: André Gondim - Ubuntu Brasil
 :date: 2011-11-06 23:17
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-21.mp3
+:podcast: https://archive.org/download/castalio-podcast-21/castalio-podcast-21.mp3
 :tags: andré gondim, andré noel, canonical, fábio nogueira, fisl, fridge, gnome, launchpad, lxde, rafael higino, rosetta, ubuntu, xfce
 
 .. figure:: {filename}/images/andregondim.png
@@ -28,11 +28,13 @@ do André foi possível sincronizar o trabalho entre as equipes e assim
 garantir que o Ubuntu tivesse uma tradução de qualidade e ao mesmo tempo
 respeitar o trabalho dos tradutores das equipes GNOME, etc, etc.
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-21.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-21.ogg>`__ 
+.. podcast:: castalio-podcast-21
 
+Contato
+-------
 -  **Blog**: http://andregondim.eti.br/
 -  **Twitter**: https://twitter.com/#!/AndreGondim\ `  <http://andregondim.eti.br/>`__
 -  **Indenti.ca**:  http://identi.ca/andregondim
@@ -66,14 +68,14 @@ em 2 semanas. Este episódio aqui fica, então, como minha homenagem ao
 André Gondim, um símbolo de força de vontade, coragem e um super
 tradutor brasileiro!
 
-**Fatos:**
-
+Fatos
+-----
 -  Membro do **Launchpad** desde **setembro 12, 2005**.
 -  **Ubuntu Member** desde **fevereiro 03, 2008**.
 -  **8,250** contribuições de tradução para o Ubuntu pelo **Rosetta**.
 -  **66** contribuições de tradução para o **GNOME**.
 
-**Links**:
-
+Link
+----
 1. `Canonical observa um minuto de silêncio em memória ao trabalho e vida de André Gondim <http://twitpic.com/7av8qa>`__.
 2. Entrevista pelo site Fridge do Ubuntu: http://fridge.ubuntu.com/2010/12/16/ubuntu-translations-interviews-andre-gondim-brazilian-portugese-translation-team/

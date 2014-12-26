@@ -3,7 +3,7 @@ Pete Savage: Git In The Trenches (GITT)
 :date: 2011-09-18 21:44
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-17.mp3
+:podcast: https://archive.org/download/castalio-podcast-17/castalio-podcast-17.mp3
 :tags: alchemy reigns, edubuntu, emblem divide, ethestra, geekdeck, git, git in the trenches, glade, green day, gtk, inception, j-pop, j-rock, kamikaze girls, lagwagon, mike oldfield, night watch, progbox, python, sergei lukyanenko, slashdot, tamagoyaki, the prestige, ubuntu
 
 .. figure:: {filename}/images/petesavage.png
@@ -45,17 +45,19 @@ Translate <http://translate.google.com/>`__.
 I had a great time chatting with Pete and I hope you'll also enjoy
 learning a bit more about him through this episode!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-17.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-17.ogg>`__ 
+.. podcast:: castalio-podcast-17
 
-**Blog**: http://geekdeck.wordpress.com
-**Twitter**: http://twitter.com/#!/cbx33
-**Github**: https://github.com/cbx33
+Contato
+-------
+- **Blog**: http://geekdeck.wordpress.com
+- **Twitter**: http://twitter.com/#!/cbx33
+- **Github**: https://github.com/cbx33
 
-**Summary**:
-
+Summary
+-------
 -  **Introduction**: 01:06
 -  **How we met**  02:06
 -  **A Little Background**  03:45
@@ -70,8 +72,8 @@ Escute agora:
 -  **Top 5**  49:15
 -  **Conclusion**  54:45
 
-**Top 5**:
-
+Top 5
+-----
 -  **Music**:  `Lagwagon <http://www.last.fm/music/Lagwagon>`__
 -  **Music**:  `Green Day <http://www.last.fm/music/Green+Day>`__
 -  **Music**:  `Mike Oldfield <http://www.last.fm/music/Mike+Oldfield>`__
@@ -85,8 +87,8 @@ Escute agora:
 -  **Movies**:  `Inception <http://www.imdb.com/title/tt1375666/>`__
 -  **Movies**:  `The Prestige <http://www.imdb.com/title/tt0482571/>`__
 
-**Links**:
-
+Links
+-----
 -  `Greater New Hampshire Linux User Group (NHLUG) <http://gnhlug.org/>`__
 -  `"Building GUI applications with Python, Gtk and Glade" <http://video.google.com/videoplay?docid=5838951374743244232>`__
 -  `PyGtk <http://www.pygtk.org/>`__

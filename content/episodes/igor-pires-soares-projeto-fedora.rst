@@ -3,7 +3,7 @@ Igor Pires Soares - Projeto Fedora
 :date: 2011-07-11 00:00
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-12.mp3
+:podcast: https://archive.org/download/castalio-podcast-12/castalio-podcast-12.mp3
 :tags: fedora, fudcon, rem, smolt, transifex, u2
 
 .. figure:: {filename}/images/igorsoares.png
@@ -35,18 +35,20 @@ cantando música do **Pixinguinha**!
     ter ouvido, somando-se os versos da antiga música em português aos
     versos do clássico recente em inglês. Simplesmente encaixou."
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-12.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-12.ogg>`__ 
+.. podcast:: castalio-podcast-12
 
-**Blog**: http://igorsoares.com/
-**Twitter**: http://www.twitter.com/igorsoares
-**Identi.ca**: http://identi.ca/igorsoares
-**Linked.in**: http://www.linkedin.com/pub/igor-soares/29/4a1/99a
+Contato
+-------
+- **Blog**: http://igorsoares.com/
+- **Twitter**: http://www.twitter.com/igorsoares
+- **Identi.ca**: http://identi.ca/igorsoares
+- **Linked.in**: http://www.linkedin.com/pub/igor-soares/29/4a1/99a
 
-**Resumo**:
-
+Resumo
+------
 -  **Apresentação**: 00:00
 -  **Linux e Fedora**: 03:30
 -  **Traduções abrindo portas**: 06:40
@@ -56,11 +58,8 @@ Escute agora:
 -  **Top 5**: 38:00
 -  **Fechamento**: 47:00
 
-**Links**:
-
--  `Transifex <http://transifex.net>`__
--  `Smolt <https://secure.wikimedia.org/wikipedia/en/wiki/Smolt_(Linux)>`__ (sistema de pesquisas de hardware)
--  `FUDCon <http://fedoraproject.org/wiki/FUDCon>`__
+Top 5
+-----
 -  **Música**: U2
 -  **Música**: REM
 -  **Música**: Radio Head
@@ -78,3 +77,9 @@ Escute agora:
 -  **Pessoas/Sites**: Blog do `Diego Búrigo Zacarão <http://diegobz.net/>`__
 -  **Pessoas/Sites**: `OS News <http://www.osnews.com/>`__
 -  **Pessoas/Sites**: `Linux Forums <http://www.linuxforums.org/>`__
+
+Links
+-----
+-  `Transifex <http://transifex.net>`__
+-  `Smolt <https://secure.wikimedia.org/wikipedia/en/wiki/Smolt_(Linux)>`__ (sistema de pesquisas de hardware)
+-  `FUDCon <http://fedoraproject.org/wiki/FUDCon>`__

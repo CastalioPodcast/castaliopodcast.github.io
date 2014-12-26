@@ -3,7 +3,7 @@ Diego Búrigo Zacarão - Projeto Transifex
 :date: 2011-04-30 15:29
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-06.mp3
+:podcast: https://archive.org/download/castalio-podcast-06/castalio-podcast-06.mp3
 
 .. figure:: {filename}/images/transifex.png
    :alt: Transifex
@@ -34,11 +34,13 @@ participar de um projeto de software livre, veio a trabalhar para uma
 companhia grega, e hoje viaja pelo mundo participando de eventos e
 palestrando!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-06.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-06.ogg>`__
+.. podcast:: castalio-podcast-06
 
+Contato
+-------
 -  **Blog**: ﻿http://diegobz.net/
 -  **Twitter**: http://twitter.com/diegobz
 
@@ -53,8 +55,8 @@ Alguns dados interessantes do `Transifex <http://transifex.net>`__:
    -  `Bitbucket <https://bitbucket.org/>`__
    -  `Django <http://www.djangoproject.com/>`__
 
-Links mencionados:
-
+Links
+-----
 -  `Conectiva <https://secure.wikimedia.org/wikipedia/en/wiki/Conectiva>`__
 -  `Fedora Brasil <http://www.projetofedora.org/>`__
 -  `FISL <http://softwarelivre.org/fisl11/english/news>`__

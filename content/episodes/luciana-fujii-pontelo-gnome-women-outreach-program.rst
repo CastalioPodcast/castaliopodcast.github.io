@@ -3,7 +3,7 @@ Luciana Fujii Pontelo - GNOME Women Outreach Program
 :date: 2011-04-03 23:55
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-04.mp3
+:podcast: https://archive.org/download/castalio-podcast-04/castalio-podcast-04.mp3
 
 .. figure:: {filename}/images/lucianapontelo.png
    :alt: GNOME Women Outreach Program
@@ -20,19 +20,19 @@ que mulheres ainda continuam tendo tratamento "especial" no mundo de TI
 e um pouco sobre as coisas que incentivaram a Luciana a ingressar no
 mundo de informática e software livre!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-04.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-04.ogg>`__
+.. podcast:: castalio-podcast-04
 
-**Contato**:
-
+Contato
+-------
 -  **Blog**: http://blog.fujii.eti.br
 -  **IRC**: **fujii** na freenode e gimpnet
 -  **Identi.ca**: `Fujii <http://identi.ca/fujii>`__
 
-**Links mencionados**:
-
+Links
+-----
 -  `GNOME Women Outreach Program <https://live.gnome.org/GnomeWomen/OutreachProgram2010>`__
 -  `Identi.ca <http://identi.ca/>`__
 -  `FISL <http://fisl.softwarelivre.org/>`__

@@ -3,7 +3,7 @@ Lucas Rocha - The Board (Parte 2)
 :date: 2011-07-04 00:00
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-11.mp3
+:podcast: https://archive.org/download/castalio-podcast-11/castalio-podcast-11.mp3
 :tags: agatha chistie, beleza americana, cinema paradiso, clutter, coffeescript, donald a. norman, gjs, gstreamer, guadec, ikea, jason fried, john coltrane, john coultrane, jquery, litl, macgyver, martrix, matrix, miles davis, mongodb, node.js, pekka himanen, plasma, the board, tim burton
 
 .. figure:: {filename}/images/lucasrocha.jpg
@@ -23,18 +23,20 @@ Ah, antes que me esqueça, agora você já pode acompanhar o **Castálio
 Podcast** pelo `iTunes
 Store <http://itunes.apple.com/us/podcast/castalio-podcast/id446259197>`__!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-11.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-11.ogg>`__ 
+.. podcast:: castalio-podcast-11
 
-**Blog**: http://lucasr.org/blog/
-**Twitter**: http://twitter.com/lucasratmundo
-**Facebook**: http://www.facebook.com/lucasrocha
-**Identi.ca**: http://identi.ca/lucasr
+Contato
+-------
+- **Blog**: http://lucasr.org/blog/
+- **Twitter**: http://twitter.com/lucasratmundo
+- **Facebook**: http://www.facebook.com/lucasrocha
+- **Identi.ca**: http://identi.ca/lucasr
 
-**Resumo:**
-
+Resumo
+------
 -  **Vida no estrangeiro**: 00:45
 -  **The Board**: 06:40
 -  **Javascript é cool**: 10:55
@@ -46,20 +48,8 @@ Escute agora:
 -  **Conselho**: 48:00
 -  **Despedida**: 50:00
 
-**Links**:
-
--  `Ikea <http://www.ikea.com/>`__
--  `The Board <https://live.gnome.org/TheBoardProject>`__
--  `GUADEC <http://www.desktopsummit.org/>`__
--  `Plasma <https://secure.wikimedia.org/wikipedia/en/wiki/KDE_Plasma_Workspaces>`__
--  `Litl <http://litl.com/>`__
--  `GJs <http://live.gnome.org/Gjs>`__
--  `Clutter <http://live.gnome.org/Clutter>`__
--  `GStreamer <https://secure.wikimedia.org/wikipedia/en/wiki/GStreamer>`__
--  `jQuery <http://jquery.com/>`__
--  `Node.js <http://nodejs.org/>`__
--  `MongoDB <http://www.mongodb.org/>`__
--  `CoffeeScript <http://coffeescript.org/>`__
+Top 5
+-----
 -  **Música**: `John Coltrane <https://secure.wikimedia.org/wikipedia/en/wiki/John_coltrane>`__ (`A Love Supreme <http://www.amazon.com/Love-Supreme-John-Coltrane/dp/B0000A118M/ref=sr_1_1?ie=UTF8&qid=1309220869&sr=8-1>`__)
 -  **Música**: `Miles Davis <https://secure.wikimedia.org/wikipedia/en/wiki/Miles_davis>`__ (`Kind of Blue <http://www.amazon.com/Kind-Of-Blue/dp/B00136JQMI/ref=sr_1_1?ie=UTF8&qid=1309221007&sr=8-1>`__)
 -  **Livros**: **Agatha Chistie**
@@ -73,3 +63,18 @@ Escute agora:
 -  **Filme e Televisão**: `Cinema Paradiso <http://www.imdb.com/title/tt0095765/>`__
 -  **Pessoas e Blogs**: `Havoc Pennington <http://blog.ometer.com/>`__
 -  **Pessoas e Blogs**: `Vincent Untz <http://www.vuntz.net/journal/>`__
+
+Links
+-----
+-  `Ikea <http://www.ikea.com/>`__
+-  `The Board <https://live.gnome.org/TheBoardProject>`__
+-  `GUADEC <http://www.desktopsummit.org/>`__
+-  `Plasma <https://secure.wikimedia.org/wikipedia/en/wiki/KDE_Plasma_Workspaces>`__
+-  `Litl <http://litl.com/>`__
+-  `GJs <http://live.gnome.org/Gjs>`__
+-  `Clutter <http://live.gnome.org/Clutter>`__
+-  `GStreamer <https://secure.wikimedia.org/wikipedia/en/wiki/GStreamer>`__
+-  `jQuery <http://jquery.com/>`__
+-  `Node.js <http://nodejs.org/>`__
+-  `MongoDB <http://www.mongodb.org/>`__
+-  `CoffeeScript <http://coffeescript.org/>`__

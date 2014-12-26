@@ -3,7 +3,7 @@ Aline Duarte Bessa - Accerciser
 :date: 2011-07-25 00:00
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-13.mp3
+:podcast: https://archive.org/download/castalio-podcast-13/castalio-podcast-13.mp3
 :tags: accerciser, bloody valentine, colivre, david bowie, fernando de castro ferro, fiction press, gabriel garcia marquez, hacktoons, john hughes, juliana cunha, julio cortazar, krzysztof kieslowski, orca, rails, smiths, television, velvet underground, virginia wolfe, xkcd
 
 .. figure:: {filename}/images/alinebessa.jpg
@@ -37,17 +37,18 @@ o que o Accerciser é:
 Também conversamos sobre sua formação, mudança para Belo Horizonte, seu
 Top 5, e o significado do quanto difícil é "**fazer uma jaca**!!!"
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-13.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-13.ogg>`__ 
+.. podcast:: castalio-podcast-13
 
-**Blog**: /
-**Twitter**: https://twitter.com/#!/_alibezz
-**Facebook**: https://www.facebook.com/people/Aline-Bessa/1019868161
+Contato
+-------
+- **Twitter**: https://twitter.com/#!/_alibezz
+- **Facebook**: https://www.facebook.com/people/Aline-Bessa/1019868161
 
-**Resumo**:
-
+Resumo
+------
 -  **Apresentação**: 00:20
 -  **GNOME Women Outreach Program**:  01:00
 -  **Linux na UFBA**:  06:00
@@ -63,8 +64,8 @@ Escute agora:
 -  **Pense... Difícil é Fazer Uma Jaca**:  42:30
 -  **Conclusão**:  43:30
 
-**Top 5**:
-
+Top 5
+-----
 -  **Música**: Television
 -  **Música**: Smiths
 -  **Música**: Bloody Valentine
@@ -85,8 +86,8 @@ Escute agora:
 -  **Pessoas/Web Site**: `XKCD <http://xkcd.com/>`__
 -  **Pessoas/Web Site**: `Fiction Press <http://www.fictionpress.com/>`__
 
-**Links**:
-
+Links
+-----
 -  `Accerciser <http://live.gnome.org/Accerciser>`__
 -  `Orca <http://live.gnome.org/Orca>`__
 -  `Rails <http://rubyonrails.org/>`__

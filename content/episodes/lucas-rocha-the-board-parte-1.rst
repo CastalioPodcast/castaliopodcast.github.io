@@ -3,7 +3,7 @@ Lucas Rocha - The Board (Parte 1)
 :date: 2011-06-26 22:15
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-10.mp3
+:podcast: https://archive.org/download/castalio-podcast-10/castalio-podcast-10.mp3
 
 .. figure:: {filename}/images/lucasrocha.jpg
    :alt: Lucas Rocha - The Board
@@ -22,18 +22,20 @@ durante sua infância. Por ter sido uma conversa muito boa, decidi
 publicar hoje a primera parte desta conversa, e **publicar a segunda
 parte na semana que vem**! Divirtam-se!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-10.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-10.ogg>`__ 
+.. podcast:: castalio-podcast-10
 
-**Blog**: http://lucasr.org/blog/
-**Twitter**: http://twitter.com/lucasratmundo
-**Facebook**: http://www.facebook.com/lucasrocha
-**Identi.ca**: http://identi.ca/lucasr
+Contato
+-------
+- **Blog**: http://lucasr.org/blog/
+- **Twitter**: http://twitter.com/lucasratmundo
+- **Facebook**: http://www.facebook.com/lucasrocha
+- **Identi.ca**: http://identi.ca/lucasr
 
-**Resumo:**
-
+Resumo
+------
 -  **Introdução**: 00:00
 -  **Influências músicais**: 03:00
 -  **Forró na Finlândia**: 09:45
@@ -48,8 +50,8 @@ Escute agora:
 -  **Morando na Europa**: 43:00
 -  **Cenas do próximo capítulo**:  50:00
 
-**Links**:
-
+Links
+-----
 -  `Universidade Federal da Bahia <http://www.ufba.br/>`__
 -  `PHP <http://www.php.net/>`__
 -  `Projeto Software Livre Bahia (PSL-BA) <http://wiki.dcc.ufba.br/bin/view/PSL>`__

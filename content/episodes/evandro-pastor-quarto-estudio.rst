@@ -3,7 +3,7 @@ Evandro Pastor: Quarto Estudio
 :date: 2011-10-17 12:37
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-19.mp3
+:podcast: https://archive.org/download/castalio-podcast-19/castalio-podcast-19.mp3
 :tags: ana white, código livre cast, chrome, conectiva linux, dreamweaver, firefox, foresight linux, gimp, illustrator, inkscape, itunes, photoshop, quarto estudio, safari, text expander, textmate, textwrangler, wordpress
 
 .. figure:: {filename}/images/evandropastor.png
@@ -29,16 +29,18 @@ tive de cortar algumas partes para que não virasse uma maratona para
 vocês. O Evandro é super divertido e é impossível falar com ele sem
 rolar de rir e eu realmente espero que vocês gostem deste episódio!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-19.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-19.ogg>`__ 
+.. podcast:: castalio-podcast-19
 
-**Web Site**:  http://www.quartoestudio.com/web/
-**Twitter**:  https://twitter.com/#!/evandropastor
+Contato
+-------
+- **Web Site**:  http://www.quartoestudio.com/web/
+- **Twitter**:  https://twitter.com/#!/evandropastor
 
-**Resumo**:
-
+Resumo
+------
 -  **Apresentação**:  01:00
 -  **Criação do Quarto Estudio: O Plano B**:  05:30
 -  **Mercado de Web Design**:  11:00
@@ -59,8 +61,8 @@ Escute agora:
 -  **Comendo o Pão que o Evandro Amassou (dica para o Rodrigo Padula)**:  55:21
 -  **Conclusão**:  58:00
 
-**Top 5:**
-
+Top 5
+-----
 -  **Filmes**: `O Corvo <http://www.imdb.com/title/tt0109506/>`__
 -  **Filmes**: `Blade Runner <http://www.imdb.com/title/tt0083658/>`__
 -  **Filmes**: `Snatch <http://www.imdb.com/title/tt0208092/>`__
@@ -76,8 +78,8 @@ Escute agora:
 -  **Música**: Too Limited (?)
 -  **Livros/Web Sites**: `Portal R7 <http://www.r7.com/>`__
 
-**Links**:
-
+Links
+-----
 -  `Photoshop <https://www.photoshop.com/>`__
 -  `Illustrator <http://www.adobe.com/products/illustrator.html>`__
 -  `Dreamweaver <http://www.adobe.com/products/dreamweaver.html>`__

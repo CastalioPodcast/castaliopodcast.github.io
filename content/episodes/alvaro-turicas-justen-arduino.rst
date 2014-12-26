@@ -3,7 +3,7 @@
 :date: 2011-09-05 03:26
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-16.mp3
+:podcast: https://archive.org/download/castalio-podcast-16/castalio-podcast-16.mp3
 :tags: android, apollo 13, arduino, bottle, brazuino, david halliday, django, douglas adams, eagle, elua, fisl, flask, frets on fire, getting started with arduino, guitar hero, guns and roses, holoscópio, howard anton, inception, infected mushroom, iron maiden, iron man, júlio neves, making things talk, massimo banzi, matrix, nirvana, o guia do mochileiro das galáxias, pearl jam, potiche, qcad, robert resnick, severino, shell script, tiny os, tom igoe, turiquinhas, uma mente brilhante, web2py, zope
 
 .. figure:: {filename}/images/alvarojusten.png
@@ -25,19 +25,21 @@ mensagem "lâmpada **on**" que o arduino liga a lâmpada, e "lâmpada
 **off**" para desligá-la! Falamos de sua participação no **FISL 2011**,
 sobre sua viagem à **Bolivia**, terminando com o seu **Top 5**!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-16.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-16.ogg>`__ 
+.. podcast:: castalio-podcast-16
 
-**Blog**: http://blog.justen.eng.br/
-**Facebook**: http://www.facebook.com/alvarojusten
-**Twitter**: http://twitter.com/turicas
-**Github**: http://GitHub.com/turicas
-**Bitbucket**: http://BitBucket.org/turicas
+Contato
+-------
+- **Blog**: http://blog.justen.eng.br/
+- **Facebook**: http://www.facebook.com/alvarojusten
+- **Twitter**: http://twitter.com/turicas
+- **Github**: http://GitHub.com/turicas
+- **Bitbucket**: http://BitBucket.org/turicas
 
-**Resumo**:
-
+Resumo
+------
 -  **Apresentação**: 01:16
 -  **O que é Arduino?**  02:40
 -  **Programando com o Arduino**:  08:38
@@ -56,8 +58,8 @@ Escute agora:
 -  **Top 5**:  46:21
 -  \*\*\*\*Conclusão\*\*\*\*:  50:58
 
-**Top 5**:
-
+Top 5
+-----
 -  **Música**:  `Iron Maiden <http://www.last.fm/search?q=Iron+Maiden&from=ac>`__
 -  **Música**:  `Guns and Roses <http://www.last.fm/search?q=Guns+and+Roses&from=ac>`__
 -  **Música**:  `Nirvana <http://www.last.fm/search?q=Nirvana&from=ac>`__
@@ -76,8 +78,8 @@ Escute agora:
 -  **Filmes**:  `Potiche <http://www.imdb.com/title/tt1521848/>`__
 -  **Filmes**:  `Iron Man <http://www.imdb.com/title/tt0371746/>`__
 
-**Links**:
-
+Links
+-----
 -  **Mora em**: `Niteroi <http://maps.google.com/maps?q=Niteroi+-+Rio+de+Janeiro,+Brazil&hl=en&sll=35.930614,-79.030686&sspn=0.014386,0.03283&vpsrc=0&t=h&z=12>`__ no **Rio de Janeiro**
 -  `Curso de Arduino <http://CursoDeArduino.com.br/>`__
 -  `Eagle <https://secure.wikimedia.org/wikipedia/en/wiki/Eagle_(program)>`__

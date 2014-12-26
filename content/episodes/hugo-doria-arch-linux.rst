@@ -3,7 +3,7 @@ Hugo Dória - Arch Linux
 :date: 2011-08-08 02:15
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-14.mp3
+:podcast: https://archive.org/download/castalio-podcast-14/castalio-podcast-14.mp3
 :tags: admirável mundo novo, arch linux, arch sheriff, black sabath, br-linux, br-mac, cavaleiros do zodíaco, de volta para o futuro, deep purple, game of thrones, ghost in the shell, hntool, iron maiden, led zeppelin, matrix, metallica, nirvana, pacupdate, pink floyd, popcode, samurai x, senhor dos anéis, steppenwolf
 
 .. figure:: {filename}/images/hugodoria.png
@@ -23,18 +23,21 @@ Justiça de Sergipe**, o processo para iniciar a sua startup chamada
 `POPCode <http://www.popcode.com.br/>`__, gostando de música a partir do
 joguinho **Rock N' Roll Racing**, e é claro seu **Top 5**!!!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-14.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-14.ogg>`__ 
+.. podcast:: castalio-podcast-14
 
-**Blog**: http://hdoria.com/
-**Twitter**: https://twitter.com/#!/hdoria
-**Facebook**: http://www.facebook.com/hugodorian
-**Linked.in**: http://www.linkedin.com/in/hdoria
 
-**Resumo**:
+Contato
+-------
+- **Blog**: http://hdoria.com/
+- **Twitter**: https://twitter.com/#!/hdoria
+- **Facebook**: http://www.facebook.com/hugodorian
+- **Linked.in**: http://www.linkedin.com/in/hdoria
 
+Resumo
+------
 -  **Apresentação**: 00:40
 -  **Forró?**:  01:00
 -  **História com o Arch Linux**:  01:50
@@ -50,8 +53,8 @@ Escute agora:
 -  **Top 5**:  50:40
 -  **Conclusão**:  01:02:00
 
-**Top 5**:
-
+Top 5
+-----
 -  **Música**: Black Sabath
 -  **Música**: Deep Purple
 -  **Música**: Steppenwolf
@@ -74,8 +77,8 @@ Escute agora:
 -  **Pessoas/Web Site**: agregador de notícias `Planeta GNU/Linux Brasil <http://planeta.gnulinuxbrasil.org/>`__
 -  **Pessoas/Web Site**: `BR-Linux <http://br-linux.org/>`__, `BR-Mac <http://br-mac.org/>`__ do **Augusto Campos**
 
-**Links**:
-
+Links
+-----
 -  `HnTool <http://code.google.com/p/hntool/>`__
 -  `pacupdate <https://code.google.com/p/pacupdate/>`__
 -  `Arch Sheriff <http://www.mail-archive.com/aur-general@archlinux.org/msg01001.html>`__

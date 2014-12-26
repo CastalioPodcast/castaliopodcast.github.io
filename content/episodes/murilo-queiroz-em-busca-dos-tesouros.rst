@@ -3,7 +3,7 @@ Murilo Queiroz - Em Busca dos Tesouros
 :date: 2011-04-16 16:46
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-05.mp3
+:podcast: https://archive.org/download/castalio-podcast-05/castalio-podcast-05.mp3
 :tags: atari, pitfall, tk-85, zx-81
 
 .. figure:: {filename}/images/muriloqueiroz.png
@@ -18,16 +18,18 @@ e como que um passeio por um museu em Londres foi o catalisador de uma
 nova amizade. Também conversamos sobre microcomputadores como o **TK-85,
 ZX-81** e open source nos anos 80!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-05.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-05.ogg>`__
+.. podcast:: castalio-podcast-05
 
+Contato
+-------
 -  **Blog**: `http://muriloq.com/blog <http://muriloq.com/>`__ e http://www.tecnologiainteligente.com.br/
 -  **Twitter**: http://twitter.com/#!/muriloq
 
-**Links mencionados:**
-
+Links
+-----
 -  **Em Busca dos Tesouros**, um jogo nacional muito sofisticado (para a
    eṕoca e para o hardware), feito por um adolescente de Recife, o
    **Tadeu Curinga da Silva**. A historia toda: http://muriloq.com/ebdt

@@ -3,7 +3,7 @@ Johan Dahlin - Stoq: Gestor Comercial Livre
 :date: 2011-06-12 21:31
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-09.mp3
+:podcast: https://archive.org/download/castalio-podcast-09/castalio-podcast-09.mp3
 :tags: async, fluendo, litl, pygtk, stoq
 
 .. figure:: {filename}/images/johandahlin.jpg
@@ -23,17 +23,18 @@ software livre, vários de seus projetos como o
 `Stoq <http://www.stoq.com.br/pt-br>`__, um software de gestão comercial
 livre, e é claro que não podia faltar o top 5!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-09.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-09.ogg>`__ 
+.. podcast:: castalio-podcast-09
 
-**Twitter**: `twitter.com/johandahlin <http://twitter.com/#!/johandahlin>`__
-**Blog**: `blogs.gnome.org/johan <http://blogs.gnome.org/johan/>`__
+Contato
+-------
+- **Twitter**: `twitter.com/johandahlin <http://twitter.com/#!/johandahlin>`__
+- **Blog**: `blogs.gnome.org/johan <http://blogs.gnome.org/johan/>`__
 
-**Links**:
-
--  Goleiro da equipe **Malmö FF** da Suecia: https://secure.wikimedia.org/wikipedia/en/wiki/Johan\_Dahlin?
+Top 5
+-----
 -  **Filmes**: 8 1/2 do Felini
 -  **Filmes**: Pulp Fiction
 -  **Filmes**: Miyazaki (Spirited Away)
@@ -50,3 +51,7 @@ Escute agora:
 -  **Pessoas/Blogs**: Joel on Software
 -  **Pessoas/Blogs**: Coding Horror
 -  **Pessoas/Blogs**: Guido pai do python
+
+Links
+-----
+-  Goleiro da equipe **Malmö FF** da Suecia: https://secure.wikimedia.org/wikipedia/en/wiki/Johan\_Dahlin?

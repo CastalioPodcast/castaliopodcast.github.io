@@ -3,7 +3,7 @@ Guilherme Salgado: Canonical e Linaro
 :date: 2011-10-30 21:59
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-20.mp3
+:podcast: https://archive.org/download/castalio-podcast-20/castalio-podcast-20.mp3
 :tags: arm, async, canonical, linaro, ubuntu
 
 .. figure:: {filename}/images/guilhermesalgado.jpg
@@ -21,17 +21,19 @@ dispositivos \ **ARM**, sobre **integração contínua**, suas aventuras no
 mundo de **bodyboarding**, nova experiência vivendo na **Argentina** e
 sobre as criticas que a Canonical tem sofrido nos últimos anos!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-20.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-20.ogg>`__ 
+.. podcast:: castalio-podcast-20
 
-**Blog**: http://salgado.livejournal.com/
-**Twitter**: https://twitter.com/#!/gsalgado
-**Launchpad**: https://launchpad.net/~salgado
+Contato
+-------
+- **Blog**: http://salgado.livejournal.com/
+- **Twitter**: https://twitter.com/#!/gsalgado
+- **Launchpad**: https://launchpad.net/~salgado
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:00
 -  **O Que Você Faz Hoje? Trabalhando na Linaro** 01:36
 -  **Compilando Kernels, Integração Contínua** 05:30
@@ -49,8 +51,8 @@ Escute agora:
 -  **Halloween na Argentina** 34:00
 -  **Conclusão** 34:45
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Muse <http://www.last.fm/search?q=Muse>`__
 -  **Música:** `Smashing Pumpkins <http://www.last.fm/search?q=Smashing+Pumpkins>`__
 -  **Música:** `Fiona Apple <http://www.last.fm/search?q=Fiona+Apple>`__
@@ -66,8 +68,8 @@ Escute agora:
 -  **Livros:** `Admirável Mundo Novo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Admirável+Mundo+Novo>`__
 -  **Livros:** `Os Miseráveis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis>`__
 
-**Links:**
-
+Links
+-----
 -  `Linaro <https://duckduckgo.com/?q=Linaro>`__
 -  `rootfs <https://duckduckgo.com/?q=rootfs>`__
 -  `arm board <https://duckduckgo.com/?q=arm+board>`__

@@ -3,7 +3,7 @@ Frederico Gonçalves Guimaraes - Software Livre Educacional
 :date: 2011-05-12 23:31
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-07.mp3
+:podcast: https://archive.org/download/castalio-podcast-07/castalio-podcast-07.mp3
 
 .. figure:: {filename}/images/fredericoguimaraes.jpg
    :alt: Frederico Gonçalves Guimaraes
@@ -28,18 +28,19 @@ que vocês, caso um dia se esbarrem na rua, possam reconhecê-lo(a) e
 convidá-lo(a) para tomar uma cerveja, café, vinho ou bebida preferida.
 :)
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-07.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-07.ogg>`__
+.. podcast:: castalio-podcast-07
 
+Contato
+-------
 -  **Blog:** http://teia.bio.br/
 -  **Twitter:** http://twitter.com/aracnus
 -  **Identi.ca:** http://identi.ca/aracnus
 
-**Links mencionados:**
-
--  Tradutor do `Claws Mail <http://claws-mail.org>`__, `GCompris <http://gcompris.net>`__, `TuxPaint <http://tuxpaint.org>`__
+Top 5
+-----
 -  **Televisão**: Seriados policiais e de ficção científica
 -  **Televisão**: Ultramen
 -  **Televisão**: Mulher Maravilha
@@ -52,3 +53,7 @@ Escute agora:
 -  **Música**: tudo que não seja forró, pagode, etc
 -  **Música**: Linkin Park
 -  **Música**: Pet Shop Boys
+
+Links
+-----
+-  Tradutor do `Claws Mail <http://claws-mail.org>`__, `GCompris <http://gcompris.net>`__, `TuxPaint <http://tuxpaint.org>`__

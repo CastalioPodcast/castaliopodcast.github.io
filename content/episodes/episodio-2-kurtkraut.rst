@@ -3,7 +3,7 @@ Episódio 2: KurtKraut
 :date: 2011-03-21 12:24
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/2-CastalioPodcast.mp3
+:podcast: https://archive.org/download/castalio-podcast-03/castalio-podcast-03.mp3
 
 .. figure:: {filename}/images/kurtkraut.png
    :alt: KurtKraut
@@ -26,13 +26,13 @@ sociedades e orientadores sobre cursos formais na area de TI.
     um e-mail, a controlar as finanças e lembrar o dia de pagar as
     contas sem atrasá-las."
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/2-CastalioPodcast.mp3>`__
--  `Oga <http://downloads.ogmaciel.com/2-CastalioPodcast.oga>`__
+.. podcast:: castalio-podcast-03
 
-Links mencionados:
-
+Links
+-----
 -  `BRASnet <http://www.wordiq.com/definition/BRASnet>`__
 -  `IRC <https://secure.wikimedia.org/wikipedia/pt/wiki/Internet_Relay_Chat>`__
 -  `LaTex <https://secure.wikimedia.org/wikipedia/pt/wiki/Latex>`__

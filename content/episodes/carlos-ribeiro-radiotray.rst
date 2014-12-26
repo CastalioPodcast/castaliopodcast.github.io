@@ -4,7 +4,7 @@ Carlos Ribeiro - RadioTray
 :author: Og Maciel
 :category: Podcast
 :tags: amélie, carlos ribeiro, célia cruz, cold play, dan brown, dilbert, dzone, edgar allan poe, eminem, foresight linux, fs daily, google alerts, h. g.  wells, indiana jones, j.r.r. tolkien, java, john williams, latex, matrix, multicert, portugal, pulp fiction, python, radiotray, senhor dos anéis, software livre, star wars, the code book, the h, u2, vila nova de gaia, war of the worlds
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-15.mp3
+:podcast: https://archive.org/download/castalio-podcast-15/castalio-podcast-15.mp3
 
 .. figure:: {filename}/images/carlosribeiro.jpg
    :alt: Carlos Ribeiro - RadioTray
@@ -22,17 +22,19 @@ No próximo episódio teremos o **Álvaro "Turicas" Justem** para conversar
 sobre **Arduino**! E não se esqueçam de nos acompanhar pelo
 `Twitter <https://twitter.com/#!/castaliopod>`__!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-15.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-15.ogg>`__ 
+.. podcast:: castalio-podcast-15
 
-| **Blog**: http://linuxsoftware.blogsome.com/
-| **Facebook**: https://www.facebook.com/carlmigue
-| **LinkedIn**: http://www.linkedin.com/in/carlosribeiro1
+Contato
+-------
+* **Blog**: http://linuxsoftware.blogsome.com/
+* **Facebook**: https://www.facebook.com/carlmigue
+* **LinkedIn**: http://www.linkedin.com/in/carlosribeiro1
 
-**Resumo**:
-
+Resumo
+------
 -  **Apresentação**: 01:26
 -  **Criação do Radio Tray**:  02:30
 -  **Por que Python**:  05:28
@@ -55,8 +57,8 @@ Escute agora:
 -  **Livros Técnicos em Português no Brasil. Falta em Portugal**:  44:00
 -  **Conclusão**:  46:00
 
-**Top 5**:
-
+Top 5
+-----
 -  **Música**:  `U2 <http://www.last.fm/search?q=u2&from=ac>`__
 -  **Música**:  `Cold Play <http://www.last.fm/search?q=cold+play&from=ac>`__
 -  **Música**:  `Célia Cruz <http://www.last.fm/search?q=C%C3%A9lia+Cruz&from=ac>`__
@@ -79,8 +81,8 @@ Escute agora:
 -  **Pessoas/Web Site**:  `The H: Security news and Open source developments <http://www.h-online.com/>`__
 -  **Pessoas/Web Site**:  `Dilbert <http://www.dilbert.com/>`__
 
-**Links**:
-
+Links
+-----
 -  **Mora em**: `Vila Nova de Gaia <http://www.flickr.com/photos/stewied/3107027239/>`__ em **Portugal**
 -  **Trabalha**: `MULTICERT <http://www.multicert.com/>`__
 -  **Projeto**: `Radio Tray <http://radiotray.sf.net/>`__
