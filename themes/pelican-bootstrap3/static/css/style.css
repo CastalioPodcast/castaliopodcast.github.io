@@ -89,7 +89,6 @@ a, a:hover {
 }
 
 .entry-content img {
-    max-width: 100%;
     height: auto;
 }
 
@@ -241,6 +240,9 @@ article {
     margin-bottom: 20px;
     padding: 4px;
     transition: all 0.2s ease-in-out 0s;
+    width: -moz-min-content;
+    width: -webkit-min-content;
+    width: min-content;
 }
 
 .figure p.caption {
