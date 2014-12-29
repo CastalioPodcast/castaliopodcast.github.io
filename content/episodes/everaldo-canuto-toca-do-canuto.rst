@@ -3,7 +3,7 @@ Everaldo Canuto: Toca do Canuto
 :date: 2013-03-18 02:54
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-53.mp3
+:podcast: https://archive.org/download/castalio-podcast-53/castalio-podcast-53.mp3
 :tags: .net, andréia gaita, apache web server, asp.net, css3, dbase iii plus, delphi, deus um delírio, dotgnu, ecma, editor gedit, editor kate, engenheiros do hawaii, git, google hangout, gtmeter, guadec, html 5, ilhas canárias, intel, java, legião urbana, loadimpact, markdown, microsoft, miguel de icaza, moblin, mono, moonlight, nat friedman, novell, o código davinci, o hobbit, o homem da areia, openssh, pandora, php, pink floyd, power shell, processador atom, projeto gnome, projeto ximian, richard stallman, silverlight, sir arthur conan doyle, spotify, sun corporation, suse linux, suse studio, titãs, toca do canuto, windows forms, xamarin, xen, youtube
 
 .. figure:: {filename}/images/everaldocanuto.png
@@ -39,19 +39,20 @@ Assista o `vídeo <http://bit.ly/Z8tFWJ>`__ da entrevista para ver a
 nossa conversa na íntegra, sem edição e escutar algumas coisas que não
 foram incluídas no podcast.
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-53.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-53.ogg>`__
--  `M4A <http://downloads.ogmaciel.com/castalio-podcast-53.m4a>`__
+.. podcast:: castalio-podcast-53
 
+Contato
+-------
 -  **Toca do Canuto**:  http://www.youtube.com/user/tocadocanuto?feature=g-subs-u
 -  **Google Plus**:  https://plus.google.com/107474108478986239078/about
 -  **Github**:  https://github.com/ecanuto
 -  **Facebook**:  https://www.facebook.com/tocacanuto?fref=ts
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Titãs <http://www.last.fm/search?q=Titãs>`__
 -  **Música:** `Legião Urbana <http://www.last.fm/search?q=Legião+Urbana>`__
 -  **Música:** `Engenheiros do Hawaii <http://www.last.fm/search?q=Engenheiros+do+Hawaii>`__
@@ -69,8 +70,8 @@ Escute agora:
 -  **Software:** `HTML 5 <https://duckduckgo.com/?q=HTML+5>`__
 -  **Software:** `CSS3 <https://duckduckgo.com/?q=CSS3>`__
 
-**Links:**
-
+Links
+-----
 -  `GUADEC <https://duckduckgo.com/?q=GUADEC>`__
 -  `Intel <https://duckduckgo.com/?q=Intel>`__
 -  `Moblin <https://duckduckgo.com/?q=Moblin>`__

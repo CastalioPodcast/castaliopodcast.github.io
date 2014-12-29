@@ -3,7 +3,7 @@ Danilo Resende: Facebook
 :date: 2012-07-09 02:52
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-40.mp3
+:podcast: https://archive.org/download/castalio-podcast-40/castalio-podcast-40.mp3
 :tags: a rede social, amélie, api, ben harper, dominguinhos, facebook, flávio ribeiro, hackathon, inception, introdução a algorítimos, jack johnson, javascript, mark zuckerberg, martinho da vila, netflix, non disclosure agreement, o clube da luta, o homem que desafiou o diabo, o poderoso chefão i, o poderoso chefão ii, pelejas de ojuara, programming perl, samba, sistema de controle de versão, skype, the art of motocycle repair, the visual display of quantitative information, ubuntero, universidade federal de campinas grande, vale do silício, yamandu costa, youtube, zen
 
 .. figure:: {filename}/images/daniloresende.png
@@ -24,22 +24,26 @@ quais os projetos que ele trabalha, sobre sua vinda do Brasil e se
 acostumando à vida nos Estados Unidos, como que ele mata saudade da
 família e onde que ele encontra arroz com feijão na Califórnia!
 
+.. more
+
 A entrevista toda foi tambêm gravada pelo **Youtube** ao vivo e à cores,
 com participação de alguns ouvintes e até mesmo perguntas dos ouvintes e
 algumas falhas (que foram editadas no áudio hehehe). Assistam ao
 episódio
 `aqui <http://www.youtube.com/watch?v=4aYZTH93OMg&feature=plcp>`__!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-40.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-40.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-40.m4a>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-40
+
+Contato
+-------
 -  **Facebook**:  https://www.facebook.com/danilotsr
 -  **Google+**:  https://plus.google.com/110394209316722258177/posts
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:00
 -  **Indo trabalhar no Facebook** 02:10
 -  **Estagiário** 05:08
@@ -53,8 +57,8 @@ Escute agora: \*
 -  **Comunicando com o pessoal no Brasil** 28:40
 -  **Conclusão** 29:33
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Samba <http://www.last.fm/search?q=Samba>`__
 -  **Música:** `Martinho da Vila <http://www.last.fm/search?q=Martinho+da+Vila>`__
 -  **Música:** `Dominguinhos <http://www.last.fm/search?q=Dominguinhos>`__
@@ -72,8 +76,8 @@ Escute agora: \*
 -  **Livros:** `Pelejas de Ojuara, o Homem que Desafiou o Diabo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pelejas+de+Ojuara,+o+Homem+que+Desafiou+o+Diabo>`__
 -  **Livros:** `The Visual Display of Quantitative Information <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Visual+Display+of+Quantitative+Information>`__
 
-**Links:**
-
+Links
+-----
 -  `Ubuntero <https://duckduckgo.com/?q=Ubuntero>`__
 -  `Youtube <https://duckduckgo.com/?q=Youtube>`__
 -  `Facebook <https://duckduckgo.com/?q=Facebook>`__

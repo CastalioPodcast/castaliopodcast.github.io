@@ -3,7 +3,7 @@ Julian Fernandes: Ubuntu BR SC
 :date: 2012-12-03 14:21
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-48.mp3
+:podcast: https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3
 :tags: ubuntu br sc
 
 .. figure:: {filename}/images/julianfernandes.png
@@ -55,11 +55,13 @@ Tem também o `vídeo <http://bit.ly/XgekVI>`__ da entrevista, mas como o
 Julian teve problemas com a web cam, vocês só vão me ver (e minha barba
 de 1 mês) :)
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-48.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-48.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-48.mp3>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-48
+
+Contato
+-------
 -  **Blog**:  http://www.julianfernandes.com/
 -  **Projeto**:  http://www.ubuntubrsc.com/
 -  **Twitter**:  http://twitter.com/julian_fern

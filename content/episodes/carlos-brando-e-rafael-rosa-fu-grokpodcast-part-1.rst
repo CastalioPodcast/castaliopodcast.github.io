@@ -3,7 +3,7 @@ Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1
 :date: 2012-09-30 18:39
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-46.mp3
+:podcast: https://archive.org/download/castalio-podcast-46/castalio-podcast-46.mp3
 :tags: .net, 2pay, amanaiê, arduino, at&t, at&t latin america, audacity, carlos brando, carlosbrando os, databasecast, directv, dreamhost, erlang, fábio akita, founders at work: stories of startups' early days, garage band, google hangout, grokpodcast, iweb, iweb hosting, jason fried, jessica livingston, josé valim, paypal, php, portugal telecom group, python, rafael rosa fu, rails podcast brasil, rdio, rework, ruby inside, ruby on rails, rubyconf, scala, sky, skype, sociably, surgeworks, sushi, telecom group, visa, webbynode, wikipedia, wordpress, x4 internet development solutions
 
 .. figure:: {filename}/images/grokpodcast.png
@@ -49,18 +49,20 @@ Couple <https://en.wikipedia.org/wiki/The_Odd_Couple_(TV_series)>`__\ "?
 Claro que vocês podem também assistir o vídeo da entrevista no canal do
 `Youtube <http://bit.ly/QDn1p2>`__!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-46.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-46.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-46.m4a>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-46
+
+Contato
+-------
 -  **Site**:  http://grokpodcast.com/
 -  **Twitter**:  http://www.twitter.com/GrokPodcast
 -  **Twitter**:  http://twitter.com/carlosbrando
 -  **Twitter**:  http://twitter.com/rafaelrosafu
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 00:50
 -  **Como que nasceu o podcast** 02:00
 -  **Primeiro episódio** 05:50
@@ -71,15 +73,15 @@ Escute agora: \*
 -  **Como se preparam para as entrevistas e patrocinadores** 18:08
 -  **Planos futuros** 25:20
 
-**Links:**
-
+Links
+-----
 -  `Rails Podcast Brasil <https://duckduckgo.com/?q=Rails+Podcast+Brasil>`__
 -  `Fábio Akita <https://duckduckgo.com/?q=Fábio+Akita>`__
 -  `RubyConf <https://duckduckgo.com/?q=RubyConf>`__
 -  `Ruby Inside <https://duckduckgo.com/?q=Ruby+Inside>`__
 -  `PayPal <https://duckduckgo.com/?q=PayPal>`__
 -  `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__
--  [Founders at Work: Stories of Startups' Early Days](https://duckduckgo.com/?q=Founders+at+Work:+Stories+of+Startups'+Early+Days)
+-  `Founders at Work: Stories of Startups' Early Days <https://duckduckgo.com/?q=Founders+at+Work:+Stories+of+Startups'+Early+Days>`__
 -  `Jessica Livingston <https://duckduckgo.com/?q=Jessica+Livingston>`__
 -  `José Valim <https://duckduckgo.com/?q=José+Valim>`__
 -  `Rework <https://duckduckgo.com/?q=Rework>`__

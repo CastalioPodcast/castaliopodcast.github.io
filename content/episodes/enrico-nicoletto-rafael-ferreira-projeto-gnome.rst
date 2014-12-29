@@ -3,7 +3,7 @@ Enrico Nicoletto e Rafael Ferreira: Projeto GNOME
 :date: 2013-09-03 01:11
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-54.mp3
+:podcast: https://archive.org/download/castalio-podcast-54/castalio-podcast-54.mp3
 :tags: arcade fire, arch linux, audacity, biblia sagrada, blankman, bon jovi, bryan adams, c++, cliente de e-mail thunderbird, damned lies, decker, deus tem um plano para voce, el estudiante, fala mansa, fernandinho, gedit, ghost in the shell, gnome bugzilla, gnome terminal, gom player, google chrome, harry potter, how things work encyclopedia, kalibre, laugh and learn : 95 ways to use humor for more effective teaching and training, launchpad, lawless, ldp, leslie watter, libre office, media player classic, meld, notepad++, o hobbit, open cast, open-tran, papo de buteco, poedit, projeto gnome, projeto kde, quatro por um, ruby on rails, sagarana, sexto sentido, stratovarius, the strokes, tio nino, total recall, trance, transifex, translation toolkit, uma professora muito maluquinha, vala, war games
 
 .. figure:: {filename}/images/gnome.png
@@ -43,19 +43,20 @@ algumas alterações (positivas) e infelizmente meu tempo livre sofreu
 bastante, mas pretendo continuar publicando outros episódios, mas talvez
 com menos frequência.
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-54.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-54.ogg>`__
--  `M4A <http://downloads.ogmaciel.com/castalio-podcast-54.m4a>`__
+.. podcast:: castalio-podcast-54
 
+Contato
+-------
 -  **Equipe GNOME Brasil**: https://l10n.gnome.org/teams/pt_BR/
 -  **Google+**: https://plus.google.com/u/0/103658771112274596272/about
 -  **Twitter**: https://twitter.com/exawarrior
 -  **Linkedin**: `br.linkedin.com/pub/dir/Enrico/Nicoletto <http://br.linkedin.com/pub/dir/Enrico/Nicoletto>`__
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `The Strokes <http://www.last.fm/search?q=The+Strokes>`__
 -  **Música:** `Arcade Fire <http://www.last.fm/search?q=Arcade+Fire>`__
 -  **Música:** `Fala Mansa <http://www.last.fm/search?q=Fala+Mansa>`__
@@ -101,8 +102,8 @@ Escute agora:
 -  **Software:** `Libre Office <https://duckduckgo.com/?q=Libre+Office>`__
 -  **Software:** `GOM Player <https://duckduckgo.com/?q=GOM+Player>`__
 
-**Links:**
-
+Links
+-----
 -  `Projeto GNOME <https://duckduckgo.com/?q=Projeto+GNOME>`__
 -  `Damned Lies <https://duckduckgo.com/?q=Damned+Lies>`__
 -  `Open-Tran <https://duckduckgo.com/?q=Open-Tran>`__

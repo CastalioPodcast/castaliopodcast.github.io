@@ -3,7 +3,7 @@ Licio Fonseca: Google
 :date: 2012-09-16 21:45
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-45.mp3
+:podcast: https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3
 :tags: andré vianco, anime, batman, ben alves, bit twiddler, carlos drummond de andrade, charles cafe google, death note, fernando sabino, fernão capelo gaivota, gangnam style, gmail, google, google pounds, hackers and painters, homem de ferro, hugh laurie, lake louise, linked.in, lisbela e o prisioneiro, longe é um lugar que não existe, marvel, mountain view, novela, os vingadores, para gostar de ler, psy, richard bach, rodrigo pereira, starwars, transifex, ubuntu br, ubuntu desktop summit, xbox
 
 .. figure:: {filename}/images/liciofonseca.jpg
@@ -34,11 +34,13 @@ visto `aqui <http://bit.ly/QTNlg0>`__ (aos 41 minutos)! :)
 
 .. more
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-45.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-45.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-45.m4a>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-45
+
+Contato
+-------
 -  **Blog**:  http://blog.licio.eti.br/
 -  **Twitter**:  http://twitter.com/licio
 -  **Facebook**:  http://www.facebook.com/liciofonseca
@@ -46,8 +48,8 @@ Escute agora: \*
 -  **Linkedin**:  http://br.linkedin.com/in/liciofonseca
 -  **Github**:  https://github.com/licio
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 00:50
 -  **Bit Twiddler na Google** 02:25
 -  **Dia a dia** 05:20
@@ -64,8 +66,8 @@ Escute agora: \*
 -  **Gangnam Style** 37:27
 -  **Conclusão** 39:05
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Hugh Laurie <http://www.last.fm/search?q=Hugh+Laurie>`__
 -  **Filmes:** `Novela <http://www.imdb.com/find?s=all&q=Novela>`__
 -  **Filmes:** `Lisbela e o Prisioneiro <http://www.imdb.com/find?s=all&q=Lisbela+e+o+Prisioneiro>`__
@@ -82,8 +84,8 @@ Escute agora: \*
 -  **Livros:** `André Vianco <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=André+Vianco>`__
 -  **Livros:** `Hackers and Painters <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters>`__
 
-**Links:**
-
+Links
+-----
 -  `Google <https://duckduckgo.com/?q=Google>`__
 -  `Linked.in <https://duckduckgo.com/?q=Linked.in>`__
 -  `Bit Twiddler <https://duckduckgo.com/?q=Bit+Twiddler>`__

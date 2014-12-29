@@ -3,13 +3,13 @@ Bruno Gonçalves: BigLinux
 :date: 2012-09-03 16:42
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-44.mp3
+:podcast: https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3
 :tags: bigbashview, biglinux, br-linux, bruno gonçalves, canonical, carlos morimoto, chapolin, chavez, chuck berry, compiz, conectiva linux, debian linux, distrowatch, elvis presley, fórum biglinux, fórum hard science, fórum outer space, fórum ubuntu br, fluxbox, forum nix, frejat, gimp, gnome, gnumeric, icewm, icq, ivan brasil fuzzer, kalango linux, kde, kurumin linux, mark shuttleworth, metisse, mint linux, nvidia, o grande dragão branco, opencast, openoffice, opensuse linux, planet hemp, planet kde, python, qt webkit, raul seixas, red hat, rocky, scarface, ubuntu linux, ultrage a rigor, união livre, vladimir melo
 
 .. figure:: {filename}/images/brunogoncalves.jpg
    :alt: Bruno Gonçalves: BigLinux
    :align: left
-   :scale: 50%
+   :scale: 50 %
 
    Bruno Gonçalves: BigLinux
 
@@ -52,19 +52,21 @@ Ah e não se esqueca de assistir o
 `vídeo <http://www.youtube.com/watch?v=lpDNGGOw_tY&feature=g-all-u>`__
 da entrevista!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-44.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-44.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-44.m4a>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-44
+
+Contato
+-------
 -  **Web site**:  http://www.biglinux.com.br/web/
 -  **Web site**:  http://uniaolivre.com/
 -  **Twitter**:  https://twitter.com/biglinux
 -  **Facebook**:  https://www.facebook.com/biglinux
 -  **Google Plus**:  https://plus.google.com/115814533855252983527/about
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:05
 -  **Sobre o Big Linux** 02:00
 -  **O começo** 03:50
@@ -79,8 +81,8 @@ Escute agora: \*
 -  **Top 5** 38:50
 -  **Conclusão** 41:00
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Raul Seixas <http://www.last.fm/search?q=Raul+Seixas>`__
 -  **Música:** `Ultrage a Rigor <http://www.last.fm/search?q=Ultrage+a+Rigor>`__
 -  **Música:** `Chuck Berry <http://www.last.fm/search?q=Chuck+Berry>`__
@@ -100,8 +102,8 @@ Escute agora: \*
 -  **Livros:** `Forum nix <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Forum+nix>`__
 -  **Livros:** `Planet KDE <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Planet+KDE>`__
 
-**Links:**
-
+Links
+-----
 -  `Vladimir Melo <https://duckduckgo.com/?q=Vladimir+Melo>`__
 -  `BigLinux <https://duckduckgo.com/?q=BigLinux>`__
 -  `Bruno Gonçalves <https://duckduckgo.com/?q=Bruno+Gonçalves>`__

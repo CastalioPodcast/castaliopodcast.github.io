@@ -3,7 +3,8 @@ Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 2
 :date: 2012-10-14 17:01
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-47.mp3
+:podcast: https://archive.org/download/castalio-podcast-47/castalio-podcast-47.mp3
+:tags: .net, 2pay, amanaiê, arduino, at&t, at&t latin america, audacity, carlos brando, carlosbrando os, databasecast, directv, dreamhost, erlang, fábio akita, founders at work: stories of startups' early days, garage band, google hangout, grokpodcast, iweb, iweb hosting, jason fried, jessica livingston, josé valim, paypal, php, portugal telecom group, python, rafael rosa fu, rails podcast brasil, rdio, rework, ruby inside, ruby on rails, rubyconf, scala, sky, skype, sociably, surgeworks, sushi, telecom group, visa, webbynode, wikipedia, wordpress, x4 internet development solutions
 
 .. figure:: {filename}/images/grokpodcast.png
    :alt: Carlos Brando e Rafael Rosa Fu: GrokPodcast
@@ -16,7 +17,7 @@ publicado da cidade de Brno na República Tcheca (estou aqui à trabalho)!
 Como prometido no último episódio, esta é a segunda parte da entrevista
 que eu fiz com o **Carlos Brando** e **Rafael Rosa Fu** do
 `**GrokPodcast** <http://grokpodcast.com/>`__! Desta vez o assunto da
-vez foi sobre o background de casa um, e algumas coisas bem
+vez foi sobre o background de cada um, e algumas coisas bem
 interessantes que cada um já fez em suas vidas. Quem tem 5 gatos? Quem
 já escreveu alguns livros sobre Ruby on Rails? Quem curte comédias e
 quem recentemente assistiu um filme sobre sushi? Escutem o finalzinho do
@@ -27,18 +28,20 @@ nosso bate-papo para descrobir! :)
 Claro que vocês podem também assistir o vídeo da entrevista no canal do
 `Youtube <http://bit.ly/QDn1p2>`__!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-47.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-47.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-47.m4a>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-47
+
+Contato
+-------
 -  **Site**:  http://grokpodcast.com/
 -  **Twitter**:  http://www.twitter.com/GrokPodcast
 -  **Twitter**:  http://twitter.com/carlosbrando
 -  **Twitter**:  http://twitter.com/rafaelrosafu
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 00:50
 -  **Como que nasceu o podcast** 02:00
 -  **Primeiro episódio** 05:50
@@ -49,15 +52,15 @@ Escute agora: \*
 -  **Como se preparam para as entrevistas e patrocinadores** 18:08
 -  **Planos futuros** 25:20
 
-**Links:**
-
+Links
+-----
 -  `Rails Podcast Brasil <https://duckduckgo.com/?q=Rails+Podcast+Brasil>`__
 -  `Fábio Akita <https://duckduckgo.com/?q=Fábio+Akita>`__
 -  `RubyConf <https://duckduckgo.com/?q=RubyConf>`__
 -  `Ruby Inside <https://duckduckgo.com/?q=Ruby+Inside>`__
 -  `PayPal <https://duckduckgo.com/?q=PayPal>`__
 -  `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__
--  [Founders at Work: Stories of Startups' Early Days](https://duckduckgo.com/?q=Founders+at+Work:+Stories+of+Startups'+Early+Days)
+-  `Founders at Work: Stories of Startups' Early Days <https://duckduckgo.com/?q=Founders+at+Work:+Stories+of+Startups'+Early+Days>`__
 -  `Jessica Livingston <https://duckduckgo.com/?q=Jessica+Livingston>`__
 -  `José Valim <https://duckduckgo.com/?q=José+Valim>`__
 -  `Rework <https://duckduckgo.com/?q=Rework>`__

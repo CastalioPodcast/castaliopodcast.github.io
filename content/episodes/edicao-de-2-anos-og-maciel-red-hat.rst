@@ -3,7 +3,7 @@ Edição de 2 Anos - Og Maciel: Red Hat
 :date: 2013-02-18 16:15
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-51.mp3
+:podcast: https://archive.org/download/castalio-podcast-51/castalio-podcast-51.mp3
 :tags: .net, bitbucket, fabiano fidêncio, fedora linux, fernando collor de mello, foresight linux, gentoo linux, github, gnome, google reader, google summer of code, irc, kurtkraut, lxde, miguel de icaza, og mandino, openbox, oracle, pl/sql, python, red hat, richard stallman, rpath, scrum, selenium, slackware linux, twitter, ubuntu brasil, ubuntu linux, ubuntu uds, visual basic, xfce
 
 .. figure:: {filename}/images/ogmaciel.jpg
@@ -55,25 +55,26 @@ e conseguimos fazer as duas coisas juntas. No vídeo vocês escutam a voz
 do Kurt saindo das caixas de som do meu laptop, enquanto conversávamos
 pelo Skype usando outro sistema! :)
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-51.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-51.ogg>`__
--  `M4A <http://downloads.ogmaciel.com/castalio-podcast-51.m4a>`__
+.. podcast:: castalio-podcast-51
 
+Contato
+-------
 -  **Website**: http://www.ogmaciel.com
--  **Blog**:  http://ogmaciel.tumblr.com/
--  **Twitter**:  https://twitter.com/OgMaciel
--  **Facebook**:  https://www.facebook.com/og.maciel
--  **Google+**:  https://plus.google.com/u/0/101951976359009287197/about
--  **Github**:  https://github.com/omaciel
--  **Bitbucket**:  https://bitbucket.org/omaciel
--  **Last.fm**:  http://www.last.fm/user/OgMaciel
--  **LinkedIn**:  http://www.linkedin.com/pub/og-maciel/7/425/257/
--  **GoodReads**:  http://www.goodreads.com/user/show/12048315-og-maciel
+-  **Blog**: http://ogmaciel.tumblr.com/
+-  **Twitter**: https://twitter.com/OgMaciel
+-  **Facebook**: https://www.facebook.com/og.maciel
+-  **Google+**: https://plus.google.com/u/0/101951976359009287197/about
+-  **Github**: https://github.com/omaciel
+-  **Bitbucket**: https://bitbucket.org/omaciel
+-  **Last.fm**: http://www.last.fm/user/OgMaciel
+-  **LinkedIn**: http://www.linkedin.com/pub/og-maciel/7/425/257/
+-  **GoodReads**: http://www.goodreads.com/user/show/12048315-og-maciel
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Legião Urbana <http://www.last.fm/search?q=Legião+Urbana>`__
 -  **Música:** `Os Paralamas do Sucesso <http://www.last.fm/search?q=Os+Paralamas+do+Sucesso>`__
 -  **Música:** `Ultraje a Rigor <http://www.last.fm/search?q=Ultraje+a+Rigor>`__
@@ -117,8 +118,8 @@ Escute agora:
 -  **Software:** `terminator <http://www.tenshu.net/p/terminator.html>`__
 -  **Software:** `git <http://git-scm.com/>`__
 
-**Links:**
-
+Links
+-----
 -  `Og Mandino <https://duckduckgo.com/?q=Og+Mandino>`__
 -  `Fernando Collor de Mello <https://duckduckgo.com/?q=Fernando+Collor+de+Mello>`__
 -  `rPath <https://duckduckgo.com/?q=rPath>`__

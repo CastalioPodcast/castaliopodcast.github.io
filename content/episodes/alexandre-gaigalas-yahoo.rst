@@ -3,7 +3,7 @@ Alexandre Gaigalas: Yahoo
 :date: 2013-03-03 21:48
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-52.mp3
+:podcast: https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3
 :tags: android, breaking bad, cakephp, css, cygwin, daniel lima, dependency injection, deus, dexter, django framework, dom inspector, editor nano, editor vim, firebug, firefox, firefox web browser, formato atom, formato json, github, google maps, google search, grok podcast, house of cards, html, http, infoq, internet explorer, java script, mad men, mamonas assassinas, marissa mayer, marissa meyer, megadeth, metodologia ágil, netflix, nodejs, os jogos da vida, php, php documenter, php engine, programação extrema explicada, rafael rosa fu, rails framework, rdf, respect config, respect doc, respect project, respect rest, restful, rfc1626, richard dawkins, safary web browser, selenium, shadow gallery, sublime text, tableless, the lean startup, top gear, ubuntu linux, um delírio, vinícius magalhães peres, visual studio 2012, web semântica, web socket, william sanders, windows 8, windows poer shell, xml schema, yahoo, yahoo mail, yahoo memo, yahoo profile
 
 .. figure:: {filename}/images/alexandregaigalas.jpg
@@ -43,7 +43,6 @@ Lima <https://twitter.com/yourwebmaker>`__ por enviarem suas perguntas!
 
 Contato
 -------
-
 -  **Web site**:  http://about.me/alganet
 -  **Facebook**:  https://www.facebook.com/alganet
 -  **Twitter**:  https://twitter.com/alganet
@@ -56,16 +55,10 @@ Contato
 Escute Agora
 ------------
 
-Download
---------
-
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-52.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-52.ogg>`__
--  `M4A <http://downloads.ogmaciel.com/castalio-podcast-52.m4a>`__
+.. podcast:: castalio-podcast-52
 
 Top 5
 -----
-
 -  **Música:** `Mamonas Assassinas <http://www.last.fm/search?q=Mamonas+Assassinas>`__
 -  **Música:** `Megadeth <http://www.last.fm/search?q=Megadeth>`__
 -  **Música:** `Shadow Gallery <http://www.last.fm/search?q=Shadow+Gallery>`__
@@ -87,7 +80,6 @@ Top 5
 
 Links
 -----
-
 -  `Yahoo <https://duckduckgo.com/?q=Yahoo>`__
 -  `Yahoo Memo <https://duckduckgo.com/?q=Yahoo+Memo>`__
 -  `Yahoo Profile <https://duckduckgo.com/?q=Yahoo+Profile>`__

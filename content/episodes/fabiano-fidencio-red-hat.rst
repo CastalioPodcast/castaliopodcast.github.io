@@ -3,7 +3,7 @@ Fabiano Fidêncio: Red Hat
 :date: 2013-01-21 02:04
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-49.mp3
+:podcast: https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3
 :tags: gnome, gnome boxes, google summer of code, libosinfo, profusion, red hat, red hat linux
 
 .. figure:: {filename}/images/fabianofidencio.jpg
@@ -29,24 +29,26 @@ qual o projeto que ele vai trabalhar (você vai ter de escutar o
 episódio), mas além de trabalho novo, ele também vai se mudar do Brasil
 para uma cidade européia, onde cerveja é mais barato que água!
 
+.. more
+
 Como sempre, a entrevista foi gravada por vídeo e você pode assistir
 nosso bate-papo na íntegra e sem edição `aqui <http://bit.ly/Vfblgu>`__,
 incluindo como que ele está se preparando para se mudar para a europa!
 
-.. more
+Escute Agora
+------------
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-49.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-49.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-49.m4a>`__
+.. podcast:: castalio-podcast-49
 
+Contato
+-------
 -  `Blog <http://blog.fidencio.org/>`__
 -  `Google+ <https://plus.google.com/116512253405346448508>`__
 -  `Facebook <https://www.facebook.com/fabianofidencio>`__
 -  `Twitter <https://twitter.com/ffidencio>`__
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música**
 
    -  `Tim Maia <http://www.last.fm/music/Tim+Maia?ac=tim%20maia>`__
@@ -70,8 +72,8 @@ Escute agora: \*
    -  `El Chavo <http://www.imdb.com/title/tt0229889/>`__
    -  `Quentin Tarantino <http://www.imdb.com/name/nm0000233/>`__
 
-**Links:**
-
+Links
+-----
 -  `Planet GNOME <https://duckduckgo.com/?q=Planet+GNOME>`__
 -  `Google Summer of Code <https://duckduckgo.com/?q=Google+Summer+of+Code>`__
 -  `GOME Boxes <https://duckduckgo.com/?q=GOME+Boxes>`__

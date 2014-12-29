@@ -3,7 +3,7 @@ Fábio Nogueira: Ubuntu Brasil
 :date: 2012-07-22 22:52
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-41.mp3
+:podcast: https://archive.org/download/castalio-podcast-41/castalio-podcast-41.mp3
 :tags: alexandre silva, andré gondim, andré noel, ayrton araújo, bee gees, black sabath, canonical, círculo de fogo, chave gpg, coringão, de volta para o futuro, deep purple, duda nogueira, elvis presley, emerson soares, fábio nogueira, ian laurence, johnny cash, jonh wendell, jorge amado, kalango linux, lício fonseca, mário meyer, paulino michelazzo, planeta ubuntu brasil, portões de fogo, projeto gnome, raphael higino, ricardo cropalato, rodrigo belém, stalingrado cerco fatal, thiago hillebrandt, ubuntu bahía, ubuntu brasil, ubuntu linux
 
 .. figure:: {filename}/images/fabionogueira.jpg
@@ -37,6 +37,8 @@ Gondim** e **Raphael Higino**, duas pessoas que foram muito importante
 no mundo de software livre no Brasil que infelizmente já não estão mais
 conosco.
 
+.. more
+
 Apesar de conhecer o Fábio (somente online) há mais de 5 anos, esta
 entrevista me mostrou um pouco mais sobre a pessoa por trás do
 computador! É incrível o quanto que nós já passamos juntos e o quanto
@@ -48,18 +50,20 @@ Unidos), conseguiram passar por cima de tantos obstáculos e
 dificuldades, e formaram uma das mais animadas comunidades por trás de
 uma distribuição GNU/Linux no Brasil!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-41.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-41.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-41.m4a>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-41
+
+Contato
+-------
 -  **Blog**: `http://blog.fnogueira.com.br <http://blog.fnogueira.com.br/>`__
 -  **Twitter**:  https://twitter.com/Ubuntuser
 -  **Facebook**:  https://www.facebook.com/ubuntuser
 -  **Google+**:  https://plus.google.com/u/1/113268886471244843047
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:05
 -  **Começando no Ubuntu Brasil** 01:43
 -  **Tornando** se membro do Ubuntu Brasil
@@ -76,8 +80,8 @@ Escute agora: \*
 -  **Palavras finais** 36:26
 -  **Conclusão** 42:38
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Elvis Presley <http://www.last.fm/search?q=Elvis+Presley>`__
 -  **Música:** `Johnny Cash <http://www.last.fm/search?q=Johnny+Cash>`__
 -  **Música:** `Bee Gees <http://www.last.fm/search?q=Bee+Gees>`__
@@ -89,8 +93,8 @@ Escute agora: \*
 -  **Livros:** `Portões de Fogo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Portões+de+Fogo>`__
 -  **Livros:** `Jorge Amado <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jorge+Amado>`__
 
-**Links:**
-
+Links
+-----
 -  `Ubuntu Brasil <https://duckduckgo.com/?q=Ubuntu+Brasil>`__
 -  `Kalango Linux <https://duckduckgo.com/?q=Kalango+Linux>`__
 -  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
@@ -116,5 +120,5 @@ Escute agora: \*
 -  `Canonical <https://duckduckgo.com/?q=Canonical>`__
 -  `Elvis Presley <https://duckduckgo.com/?q=Elvis+Presley>`__
 -  `Coringão <https://duckduckgo.com/?q=Coringão>`__
-  
+
 \*\ **Música**: `Ain't Gonna Give Jelly Roll <http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>`__ by `Red Hook Ramblers <http://www.redhookramblers.com/>`__ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.

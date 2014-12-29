@@ -3,7 +3,7 @@ Felipe Borges: Google Summer of Code
 :date: 2012-08-19 22:49
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-43.mp3
+:podcast: https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3
 :tags: a coruña, amazon, batalha do apocalipse, biblioteca libevince, big bang theory, bob marley, bugzilla, cavalera conspiracy, chavez, cidade do sol, cosimo cecchi, criolo, design for hackers, djavan fagundes, eduardo galeano, eduardo spohr, euclydes da cunha, evince, felipe borges, fisl, formato epub, formato mobi, fundação gnome, fundação mozilla, gio, github, glib, gnome documents, google summer of code, guadec, homeland, immortal technique, itunes, javascript, khaled hossein, lowkey, microsoft skydrive, nokia, os sertões, pablo neruda, planet gnome, prison break, programação em c, programação em python, projeto gnome, red hat, sepultura, the it crowd, tracker, universidade federal de pelotas, walt disney
 
 .. figure:: {filename}/images/felipeborges.jpeg
@@ -37,11 +37,13 @@ Mais uma vez a gravação foi feita ao vivo pelo **Youtube** e se você
 quizer assistir a entrevista, veja este
 `vídeo <http://www.youtube.com/watch?v=0T6nGDSr13o>`__.
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-43.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-43.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-43.m4a>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-43
+
+Contato
+-------
 -  **Blog**: http://felipeborges.net/
 -  **Twitter**:  http://twitter.com/felipeborges
 -  **Facebook**:  http://facebook.com/felipe10borges
@@ -49,8 +51,8 @@ Escute agora: \*
 -  **Github**: https://github.com/felipeborges
 -  **Last.FM**: http://last.fm/user/felipe10borges
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:00
 -  **Background** 01:54
 -  **Google Summer of Code** 02:55
@@ -65,8 +67,8 @@ Escute agora: \*
 -  **Top 5** 28:23
 -  **Conclusão** 43:27
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Immortal Technique <http://www.last.fm/search?q=Immortal+Technique>`__
 -  **Música:** `Criolo <http://www.last.fm/search?q=Criolo>`__
 -  **Música:** `Bob Marley <http://www.last.fm/search?q=Bob+Marley>`__
@@ -87,8 +89,8 @@ Escute agora: \*
 -  **Livros:** `Design for Hackers <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Design+for+Hackers>`__
 -  **Livros:** `Eduardo Galeano <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Galeano>`__
 
-**Links:**
-
+Links
+-----
 -  `Planet GNOME <https://duckduckgo.com/?q=Planet+GNOME>`__
 -  `Universidade Federal de Pelotas <https://duckduckgo.com/?q=Universidade+Federal+de+Pelotas>`__
 -  `Projeto GNOME <https://duckduckgo.com/?q=Projeto+GNOME>`__

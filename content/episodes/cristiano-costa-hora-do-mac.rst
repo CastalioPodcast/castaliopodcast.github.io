@@ -3,7 +3,7 @@ Cristiano Costa: Hora do Mac
 :date: 2012-08-06 14:35
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-42.mp3
+:podcast: https://archive.org/download/castalio-podcast-42/castalio-podcast-42.mp3
 :tags: acqua, airton ortiz, albert einstein, amazon prime, amyr klink, breaking bad, carla bruni, computadores apple, david baldacci, dead kennedys, fisl, game of thrones, gnu/linux, google hangout, hora do mac, house, iphone, itunes, jeffrey archer, john sandford, jorge ben, kit inicial de podcasts, leo laporte, mac os, macbreak weekly, madeleine peyroux, michael connelly, netflix, norah jones, plataforma android, plataforma ios, r.e.m., rdio, sex pistols, skype, steve jobs, the beatles, two and a half man, u2, unix, windows 8, wordpress
 
 .. figure:: {filename}/images/cristianocosta.jpg
@@ -12,12 +12,12 @@ Cristiano Costa: Hora do Mac
    Cristiano Costa: Hora do Mac
 
 **Atualização**: Me esqueci novamente de colocar o link para o vídeo da
-entrevista:  http://www.youtube.com/watch?v=k58aVfWhIWE&feature=g-upl
+entrevista: `Youtube
+<http://www.youtube.com/watch?v=k58aVfWhIWE&feature=g-upl>`__
 
 Mais um dia de calor aqui na **Carolina do Norte**, e mesmo na correria
 desta semana eu consegui achar um pouco de tempo para entrevistar o
-**Cristiano Costa**, aka [@caccac](http://twitter.com/#!/caccac
-"http://twitter.com/#!/caccac"), do podcast `Hora do
+**Cristiano Costa**, aka `@caccac <http://twitter.com/#!/caccac>`__, do podcast `Hora do
 Mac <http://www.horadomac.com/>`__ (**HDM**)! Quem ainda não conhece o
 **HDM** não sabe o que está perdendo!
 
@@ -37,21 +37,23 @@ usuários de **GNU/Linux** são atraídos pelo **Mac OS**, consumismo de
 música, livros e conteúdo digital, sobre o seu blog e gosto pela
 gastronomia e vários outros assuntos!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-42.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-42.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-42.m4a>`__
+Escute Agora
+------------
 
--  Blog:  http://www.cristianocosta.com.br/
--  Hora do Mac:  http://www.horadomac.com/
--  ChefRS:  http://www.chefrs.com.br/
--  Twitter:  http://twitter.com/#!/caccac
--  Facebook:  http://www.facebook.com/caccac
--  Linkedin:  http://br.linkedin.com/in/cristianocosta
--  Rdio:  http://www.rdio.com/people/caccac/
+.. podcast:: castalio-podcast-42
 
-**Resumo:**
+Contato
+-------
+-  Blog: http://www.cristianocosta.com.br/
+-  Hora do Mac: http://www.horadomac.com/
+-  ChefRS: http://www.chefrs.com.br/
+-  Twitter: http://twitter.com/#!/caccac
+-  Facebook: http://www.facebook.com/caccac
+-  Linkedin: http://br.linkedin.com/in/cristianocosta
+-  Rdio: http://www.rdio.com/people/caccac/
 
+Resumo
+------
 -  **Apresentação** 01:00
 -  **Como começou o Podcast** 02:00
 -  **Dificuldades** 08:00
@@ -65,8 +67,8 @@ Escute agora: \*
 -  **Top 5** 37:00
 -  **Conclusão** 42:38
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Sex Pistols <http://www.last.fm/search?q=Sex+Pistols>`__
 -  **Música:** `Dead Kennedys <http://www.last.fm/search?q=Dead+Kennedys>`__
 -  **Música:** `U2 <http://www.last.fm/search?q=U2>`__
@@ -88,8 +90,8 @@ Escute agora: \*
 -  **Livros:** `Jeffrey Archer <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jeffrey+Archer>`__
 -  **Livros:** `Airton Ortiz <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Airton+Ortiz>`__
 
-**Links:**
-
+Links
+-----
 -  `Leo Laporte <https://duckduckgo.com/?q=Leo+Laporte>`__
 -  `MacBreak Weekly <https://duckduckgo.com/?q=MacBreak+Weekly>`__
 -  `Computadores Apple <https://duckduckgo.com/?q=Computadores+Apple>`__
