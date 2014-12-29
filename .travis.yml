@@ -3,7 +3,7 @@ branches:
   only:
   - pelican
 install:
-- pip install pelican==3.5 ghp-import
+- pip install -r requirements.txt
 script:
 - make publish travis
 env:
