@@ -3,7 +3,7 @@ Gabriel Falcão: Yipit
 :date: 2012-03-18 20:33
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-32.mp3
+:podcast: https://archive.org/download/castalio-podcast-32/castalio-podcast-32.mp3
 :tags: bamboo, banco do brasil, banda lettuce, behavior driven development, belo horizonte, bernardo heynemann, big band theory, bolacha, c++, capybara, cucumber, daft punk, dead parrot, debconf, debian linux, desenvolvimento agile, dexter, django, djangocon, github, glib, globo.com, gnome, gnu/linux, groupon, gtk, guake, guy ritchie, hbase, httpretty, integração contínua, jenkins, jogos mortais, kde, lettuce, licença gpl, licença mit, linguagem python, linguagem ruby, little joy, lock, mac os, mgmt, music for programming, new york city, node.js, peixe urbano, pyccuracy, qt, rspec, salad, selenium, servidor apache, sherlock holmes, skink, socket.io, software livre, stock and two smoking barrels, strokes, técnica scrum, teste unitário, tilda, two door cinema club, ubuntu linux, uncle bob, white collar, white stripes, windows, yakauke, yipit
 
 .. figure:: {filename}/images/gabrielfalcao.jpg
@@ -33,20 +33,22 @@ empolgação dele é super contagiante**! Já combinamos de tomar um café
 este julho quando eu for à NYC visitar meus pais, e quem sabe, fazer um
 mini hack-a-ton?
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-32.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-32.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-32.m4a>`__
+Escute Agora
+------------
 
--  **Blog**:  http://falcao.it/
--  **Twitter**:  https://twitter.com/#!/gabrielfalcao
--  **Facebook**:  https://www.facebook.com/falcaogabriel
--  **Github**:  https://github.com/gabrielfalcao
--  **Guake**:  http://guake.org/
--  **Lettuce**:  http://lettuce.it/
+.. podcast:: castalio-podcast-32
 
-**Resumo:**
+Contato
+-------
+-  **Blog**: http://falcao.it/
+-  **Twitter**: https://twitter.com/#!/gabrielfalcao
+-  **Facebook**: https://www.facebook.com/falcaogabriel
+-  **Github**: https://github.com/gabrielfalcao
+-  **Guake**: http://guake.org/
+-  **Lettuce**: http://lettuce.it/
 
+Resumo
+------
 -  **Apresentação** 00:26
 -  **Guake** 02:35
 -  **Globo.com** 08:20
@@ -61,8 +63,8 @@ Escute agora: \*
 -  **Top 5** 33:35
 -  **Conclusão** 38:23
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Strokes <http://www.last.fm/search?q=Strokes>`__
 -  **Música:** `White Stripes <http://www.last.fm/search?q=White+Stripes>`__
 -  **Música:** `MGMT <http://www.last.fm/search?q=MGMT>`__
@@ -77,8 +79,8 @@ Escute agora: \*
 -  **Filmes:** `Jogos Mortais <http://www.imdb.com/find?s=all&q=Jogos+Mortais>`__
 -  **Livros:** `HBase <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase>`__
 
-**Links:**
-
+Links
+-----
 -  `Guake <https://duckduckgo.com/?q=Guake>`__
 -  `Tilda <https://duckduckgo.com/?q=Tilda>`__
 -  `Yakauke <https://duckduckgo.com/?q=Yakauke>`__

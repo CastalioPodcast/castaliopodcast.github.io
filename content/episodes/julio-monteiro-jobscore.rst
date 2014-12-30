@@ -3,7 +3,7 @@ Júlio Monteiro: JobScore
 :date: 2012-04-15 20:40
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-34.mp3
+:podcast: https://archive.org/download/castalio-podcast-34/castalio-podcast-34.mp3
 :tags: blink, cadê?, companhia startup, continuous integration, daft punk, daniel h.  pink, django, drive, fábio kung, fisl 2004, flipboard, four tet, game of thrones, github, github drinkup, gotan project, hacker news, hayao miyazaki, henrique bastos, heroku, howl's moving castle, html, instapaper, ipad, javascript, júlio monteiro, job board, jobscore, justice, kraftwerk, linux, malcolm gladwell, mato grosso, meetups, mongodb, outliers, pat metheny group, pedro belo, penguin cafe orchestra, professor marco andré, programação php, programação python, programação ruby, qa, rails br, royksopp, ruby on rails, symphony, tanghetto, the big bang theory, the it crowd, the tipping poing, turbogears, ubuntu brasil, walking dead, windows
 
 .. figure:: {filename}/images/juliomonteiro.png
@@ -34,18 +34,20 @@ sobre como ele administrava aulas de Ruby, por que usa Ruby on Rails,
 seu dia-a-dia na JobScore, sua experiência em San Francisco, como que as
 companhias por lá dão mais valor aos empregados, e o seu Top 5!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-34.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-34.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-34.m4a>`__
+Escute Agora
+------------
 
--  **Blog**:  http://jmonteiro.com/
--  **Twitter**:  `twitter.com/jmonteiro <http://twitter.com/jmonteiro>`__
--  **Github**:  https://github.com/jmonteiro
--  **Linked.in:**  http://br.linkedin.com/in/juliosantosmonteiro
+.. podcast:: castalio-podcast-34
 
-**Resumo:**
+Contato
+-------
+-  **Blog**: http://jmonteiro.com/
+-  **Twitter**: http://twitter.com/jmonteiro>
+-  **Github**: https://github.com/jmonteiro
+-  **Linked.in:** http://br.linkedin.com/in/juliosantosmonteiro
 
+Resumo
+------
 -  **Apresentação** 00:44
 -  **Tudo começou com uma perna quebrada** 02:00
 -  **Programação com web e um tal de Linux** 04:53
@@ -58,8 +60,8 @@ Escute agora: \*
 -  **Top 5** 34:00
 -  **Conclusão** 42:10
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Daft Punk <http://www.last.fm/search?q=Daft+Punk>`__
 -  **Música:** `Four Tet <http://www.last.fm/search?q=Four+Tet>`__
 -  **Música:** `Justice <http://www.last.fm/search?q=Justice>`__
@@ -69,10 +71,10 @@ Escute agora: \*
 -  **Música:** `Penguin Cafe Orchestra <http://www.last.fm/search?q=Penguin+Cafe+Orchestra>`__
 -  **Música:** `Gotan Project <http://www.last.fm/search?q=Gotan+Project>`__
 -  **Música:** `Tanghetto <http://www.last.fm/search?q=Tanghetto>`__
--  **Podcast:** `Grok Podcast <http://grokpodcast.com/>`__
--  **Podcast:** `NerdCast <http://jovemnerd.ig.com.br/categoria/nerdcast/>`__
--  **Podcast:** `Escriba Café <http://www.escribacafe.com/>`__
--  **Filmes:** [Howl's Moving Castle](http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle)
+-  **Podcast:** `Grok Podcast <http://grokpodcast.com/>`__
+-  **Podcast:** `NerdCast <http://jovemnerd.ig.com.br/categoria/nerdcast/>`__
+-  **Podcast:** `Escriba Café <http://www.escribacafe.com/>`__
+-  **Filmes:** `Howl's Moving Castle <http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle>`__
 -  **Filmes:** `Game of Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
 -  **Filmes:** `The Big Bang Theory <http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory>`__
 -  **Filmes:** `The IT Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
@@ -82,8 +84,8 @@ Escute agora: \*
 -  **Livros:** `Outliers <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Outliers>`__
 -  **Livros:** `Drive <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive>`__
 
-**Links:**
-
+Links
+-----
 -  `JobScore <https://duckduckgo.com/?q=JobScore>`__
 -  `Ubuntu Brasil <https://duckduckgo.com/?q=Ubuntu+Brasil>`__
 -  `HTML <https://duckduckgo.com/?q=HTML>`__

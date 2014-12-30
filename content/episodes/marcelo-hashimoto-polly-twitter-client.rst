@@ -3,7 +3,7 @@ Marcelo Hashimoto: Polly Twitter Client
 :date: 2012-01-22 17:53
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-28.mp3
+:podcast: https://archive.org/download/castalio-podcast-28/castalio-podcast-28.mp3
 :tags: a revolução dos bichos, annihilator, augusto dos anjos, billreminder, c++, carlos drummond de andrade, debian linux, facebook, foresight linux, gnome hig, google plus, gtk, gtk3, gwibber, halloween, hotot, identi.ca, launchpad, libcv, linguagem python, linux, livraria cultura, marcelo hashimoto, megadeath, metallica, monty python, o parque dos dinossáuros, omg ubuntu, opencv, os miseráveis, penny arcade, pinot, piratas do caribe, polly, polly twitter client, python, python socks, savatage, schizobird, twitter, ubuntero br, ubuntu dicas, ubuntu linux, victor hugo, visão computacional, william blake
 
 .. figure:: {filename}/images/marcelohashimoto.jpg
@@ -27,18 +27,20 @@ do nome do projeto (você sabia que o nome original do projeto era
 **schizobird**?), como lidar com usuários nos forums de pergunta, sobre
 seu doutorado, e o seu Top 5!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-28.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-28.ogg>`__
+.. podcast:: castalio-podcast-28
 
--  **Blog**:  http://consciouslyusing.blogspot.com/
+Contato
+-------
+-  **Blog**: http://consciouslyusing.blogspot.com/
 -  **Twitter**: https://twitter.com/#!/conscioususer
--  **Launchpad**:  https://launchpad.net/~conscioususer
--  **Projeto Polly Twitter Client**:  https://launchpad.net/polly
+-  **Launchpad**: https://launchpad.net/~conscioususer
+-  **Projeto Polly Twitter Client**: https://launchpad.net/polly
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:15
 -  **Por que mais um cliente de Twitter?** 02:15
 -  **Observações** 07:00
@@ -54,8 +56,8 @@ Escute agora:
 -  **Onde aprendeu inglês** 32:28
 -  **Conclusão** 33:32
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Halloween <http://www.last.fm/search?q=Halloween>`__
 -  **Música:** `Savatage <http://www.last.fm/search?q=Savatage>`__
 -  **Música:** `Metallica <http://www.last.fm/search?q=Metallica>`__
@@ -71,8 +73,8 @@ Escute agora:
 -  **Livros:** `William Blake <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=William+Blake>`__
 -  **Livros:** `Baudelaire <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Baudelaire>`__
 
-**Links:**
-
+Links
+-----
 -  `Polly Twitter Client <https://duckduckgo.com/?q=Polly+Twitter+Client>`__
 -  `Twitter <https://duckduckgo.com/?q=Twitter>`__
 -  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__

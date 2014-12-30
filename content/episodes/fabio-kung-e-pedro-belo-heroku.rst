@@ -3,7 +3,7 @@ Fábio Kung e Pedro Belo: Heroku
 :date: 2012-04-29 13:03
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-35.mp3
+:podcast: https://archive.org/download/castalio-podcast-35/castalio-podcast-35.mp3
 :tags: activerecord, adaptation, amazon cloud, being john malkovich, brainfuck, bruce eckel, certificado ssl, cloud foundry, clube da luta, cold play, dotcloud, dreamhost, drinkup, effective c++, emulador de nes, erlang, framework django, fringe, game of thrones, git, github, google, google appengine, hacker news, heroku, hybernate, jabberd, java, júlio monteiro, json, kenneth reitz, kindle, man pages, meetup, mozilla, nginx, node.js, o senhor dos anéis, php, pj harvey, platform as a service, python, python requests, queens of the stone age, radio head, railsconf, red hat, rpath, ruby, ruby on rails, spring mvc, supernatural, survival, tempwatch, the atomic bitchwax, the big bang theory, the black keys, the girl with the dragon tatoo, vale do silício, vampire diaries, whitespace, wikipedia, windows azzure, yukihiro matsumoto
 
 .. figure:: {filename}/images/heroku.png
@@ -31,6 +31,8 @@ incluindo uma explicação sobre o que significa Plataforma como Serviço
 contratações no mundo do software livre, vida no exterior, caipirinhas,
 bicicletas, ping-pong e mais!
 
+.. more
+
 **But wait, there's more**!!! Os três primeiro comentários que forem
 enviados respondendo a seguinte pergunta vão receber um coupon da
 **Heroku** no valor de **US$36.50** para pagar por um dyno/worker
@@ -39,27 +41,29 @@ adicional ou um add-on:
     Qual dos meus entrevistados que eu tive o prazer de conhecer **em
     pessoa** (a maioria eu conheço somente online)???
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-35.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-35.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-35.m4a>`__
+Escute Agora
+------------
 
+.. podcast:: castalio-podcast-35
+
+Contato
+-------
 **Fábio Kung**:
 
--  **Blog**:  http://fabiokung.com/
--  **Linked.in**:  http://www.linkedin.com/in/fabiokung
--  **Twitter**:  https://twitter.com/#!/fabiokung
--  **Facebook**:  https://www.facebook.com/fabio.kung
--  **Github**:  https://github.com/fabiokung
+-  **Blog**: http://fabiokung.com/
+-  **Linked.in**: http://www.linkedin.com/in/fabiokung
+-  **Twitter**: https://twitter.com/#!/fabiokung
+-  **Facebook**: https://www.facebook.com/fabio.kung
+-  **Github**: https://github.com/fabiokung
 
 **Pedro Belo**:
 
--  **Blog**:  http://pedro.herokuapp.com/
--  **Twitter**:  https://twitter.com/#!/ped
--  **Github**:  https://github.com/pedro
+-  **Blog**: http://pedro.herokuapp.com/
+-  **Twitter**: https://twitter.com/#!/ped
+-  **Github**: https://github.com/pedro
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:00
 -  **O que é Heroku?** 01:45
 -  **Contratações no mundo open source** 08:13
@@ -71,8 +75,8 @@ Escute agora: \*
 -  **Top 5** 33:29
 -  **Conclusão** 43:06
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Radio Head <http://www.last.fm/search?q=Radio+Head>`__
 -  **Música:** `PJ Harvey <http://www.last.fm/search?q=PJ+Harvey>`__
 -  **Música:** `The Black Keys <http://www.last.fm/search?q=The+Black+Keys>`__
@@ -94,8 +98,8 @@ Escute agora: \*
 -  **Livros:** `Wikipedia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Wikipedia>`__
 -  **Livros:** `Hacker News <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News>`__
 
-**Links:**
-
+Links
+-----
 -  `Heroku <https://duckduckgo.com/?q=Heroku>`__
 -  `Platform as a Service <https://duckduckgo.com/?q=Platform+as+a+Service>`__
 -  `Júlio Monteiro <https://duckduckgo.com/?q=Júlio+Monteiro>`__

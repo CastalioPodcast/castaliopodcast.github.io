@@ -3,7 +3,7 @@ Henrique Bastos: Welcome to the Django
 :date: 2012-04-01 16:18
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-33.mp3
+:podcast: https://archive.org/download/castalio-podcast-33/castalio-podcast-33.mp3
 :tags: .net, a origem do capitalism, adobe connect, adobe flash, amazon ec2, bernardo fontes, c++, caike, código morse, charles petzold, code, code review, coding dojo, coding sprint, controle de versão distribuído, datak7, de volta para o futuro, dekode, desenvolvimento ágil, django, ellen wood, fisl 2009, gabriel falcão, garr reynolds, genial, git, github, globo.com, go to pc, google, guake, guilherme chapievsky, guns and roses, henrique bastos, heroku, hoverboard, hugo doria, illustrator, jacob kaplan-moss, java, jeff patton, joomla, megadeath, metallica, metapix, o conselheiro, o poderoso chefão, photoshop, php rio, platform as a service (paas), porto alegre, presentation zen, pycon 2010, python, python brasil, revista input, rise against the machine, ryan ozimek, small acts, star gate, the matrix, tiago garcia, tk-85, vb.net, vimeo, webex, welcome to the django, zx spectrum
 
 .. figure:: {filename}/images/henriquebastos.png
@@ -26,6 +26,8 @@ conhecimento acumulado nas áreas de programação e gestão de projetos com
 software livre, e foi muito interessante escutar sobre como cada um
 nasceu e evoluiu.
 
+.. more
+
 Durante nosso bate-papo o Henrique nos conta sobre o seu projeto e como
 que invés de ensinar o be-a-bá, ele usa e abusa de técnicas de
 desenvolvimento ágil, deployment first, **Heroku**, **Github** e muita
@@ -33,27 +35,29 @@ interação para uma experiência rica e didática de dar inveja a muitos
 cursos por ai! Depois ele conta como que nasceu a Dekode, sua companhia
 de desenvolvedores "**black belt**\ " criada para providenciar um
 serviço de apoio "nível 2" para aquelas horas do aperto. Também falamos
-sobre a comunidade **Python** do Brasil, **`Small
-Acts <http://smallactsmanifesto.org/>`__**, apresentações pelos Estados
+sobre a comunidade **Python** do Brasil, `Small Acts
+<http://smallactsmanifesto.org/>`__, apresentações pelos Estados
 Unidos, `revista INPUT <http://www.datacassete.com.br/>`__ (quem já teve
 um computador **TK85** ou **ZX Spectrum** sabe do que estou falando), e
 mais um monte coisas bacanas!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-33.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-33.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-33.m4a>`__
+Escute Agora
+------------
 
--  Blog:  http://henriquebastos.net/
--  Twitter:  http://twitter.com/#!/henriquebastos
--  Facebook:  http://www.facebook.com/henriquebastos
--  Flickr:  http://www.flickr.com/photos/henriquebastos
--  Github:  https://github.com/henriquebastos
+.. podcast:: castalio-podcast-33
+
+Contato
+-------
+-  Blog: http://henriquebastos.net/
+-  Twitter: http://twitter.com/#!/henriquebastos
+-  Facebook: http://www.facebook.com/henriquebastos
+-  Flickr: http://www.flickr.com/photos/henriquebastos
+-  Github: https://github.com/henriquebastos
 -  `Welcome to the Django <http://welcometothedjango.com.br/>`__
 -  `Dekode <http://dekode.com.br/>`__
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:00
 -  **Welcome to the Django** 01:45
 -  **Um curso diferente e sem be** a
@@ -68,8 +72,8 @@ Escute agora: \*
 -  **Top 5** 38:15
 -  **Conclusão** 47:50
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Metallica <http://www.last.fm/search?q=Metallica>`__
 -  **Música:** `Megadeath <http://www.last.fm/search?q=Megadeath>`__
 -  **Música:** `Rise Against the Machine <http://www.last.fm/search?q=Rise+Against+the+Machine>`__
@@ -83,8 +87,8 @@ Escute agora: \*
 -  **Livros:** `O Conselheiro <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Conselheiro>`__
 -  **Livros:** `A Origem do Capitalism <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism>`__
 
-**Links:**
-
+Links
+-----
 -  `Guns and Roses <https://duckduckgo.com/?q=Guns+and+Roses>`__
 -  `Django <https://duckduckgo.com/?q=Django>`__
 -  `Coding Dojo <https://duckduckgo.com/?q=Coding+Dojo>`__

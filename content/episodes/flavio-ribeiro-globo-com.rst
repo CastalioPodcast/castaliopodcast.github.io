@@ -3,7 +3,7 @@ Flávio Ribeiro: Globo.com
 :date: 2012-05-27 18:01
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-37.mp3
+:podcast: https://archive.org/download/castalio-podcast-37/castalio-podcast-37.mp3
 :tags: 4clojure, andrews medina, apple, big brother, bolacha, broadway, brooklyn, c/c++, clean code, clojure, code sprints, cooks, domingão do faustão, estátua da liberdade, family guy, fantástico, fedex day, fisl 13, flash media server, flask, flogging molly, fox channel, functional programming, fx channel, gabriel falcão, github, globo tv, hackers and painters, instagram, kindle, land of lisp, linus torvald, manhattan, miguel de icaza, mongodb, mtv, music video awards, netflix, nginx, ny city, ny times, objective oriented programming, os trapalhões, programação lisp, programação python, programming collective intelligence, python brasil, rebel code, rede globo, richard stallman, rise against, roku, ruby, ruby on rails, scrum, scrum master, sdk, silverchair, simpsons, some 451, stewie, streaming media east 2012, streetlight manifesto, system of a down, the clean coder, the cleveland show, the fratellis, the pacific, the strokes, the walking dead, tornado, treze futebol clube, ufc, yipit, youtube
 
 .. figure:: {filename}/images/flavioribeiro.png
@@ -31,20 +31,24 @@ sorvete no parque, a decepção ao ver a **Estátua da Liberade**, e como é
 difícil acompanhar os jogos do **Treze Futebol Clube** lá do Rio de
 Janeiro!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-37.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-37.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-37.m4a>`__
+.. more
 
--  Blog:  http://flavioribeiro.com/
--  Github:  https://github.com/flavioribeiro
--  Twitter:  https://twitter.com/#!/flavioribeiro
--  Facebook:  https://www.facebook.com/flaviornb
--  Google+:  https://plus.google.com/108844804326122931859/posts
--  Linked.in:  http://www.linkedin.com/in/flavioribeiro
+Escute Agora
+------------
 
-**Resumo:**
+.. podcast:: castalio-podcast-37
 
+Contato
+-------
+-  Blog: http://flavioribeiro.com/
+-  Github: https://github.com/flavioribeiro
+-  Twitter: https://twitter.com/#!/flavioribeiro
+-  Facebook: https://www.facebook.com/flaviornb
+-  Google+: https://plus.google.com/108844804326122931859/posts
+-  Linked.in: http://www.linkedin.com/in/flavioribeiro
+
+Resumo
+------
 -  **Apresentação** 00:54
 -  **Background** 01:44
 -  **Trabalhando na Globo** 02:50
@@ -59,8 +63,8 @@ Escute agora: \*
 -  **Top 5** 26:23
 -  **Conclusão** 34:10
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `The Strokes <http://www.last.fm/search?q=The+Strokes>`__
 -  **Música:** `Cooks <http://www.last.fm/search?q=Cooks>`__
 -  **Música:** `The Fratellis <http://www.last.fm/search?q=The+Fratellis>`__
@@ -81,8 +85,8 @@ Escute agora: \*
 -  **Livros:** `Hackers and Painters <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters>`__
 -  **Livros:** `Programming Collective Intelligence <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Collective+Intelligence>`__
 
-**Links:**
-
+Links
+-----
 -  `Rede Globo <https://duckduckgo.com/?q=Rede+Globo>`__
 -  `Scrum <https://duckduckgo.com/?q=Scrum>`__
 -  `Big Brother <https://duckduckgo.com/?q=Big+Brother>`__

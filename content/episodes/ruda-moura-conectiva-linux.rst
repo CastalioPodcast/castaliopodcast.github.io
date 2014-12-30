@@ -3,7 +3,7 @@ Rudá Moura: Conectiva Linux
 :date: 2011-12-04 17:05
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-24.mp3
+:podcast: https://archive.org/download/castalio-podcast-24/castalio-podcast-24.mp3
 :tags: 7 anos no tibet, art of computer program, avahi, blade runner, cammel book, canonical, conectiva linux, debian linux, delillo, fedora linux, gcc, gnome, haxent, kde, knuth, kraftwerk, larry wall, matrix, mutantes, new order, novel, opensuse linux, portal terra, qt, red hat linux, revista linux, ruído branco, saramago, slackware linux, sociedade dos poetas mortos, tequila baby, ubuntu linux, winmodem, x.org, yo la tengo
 
 .. figure:: {filename}/images/rudamoura.png
@@ -22,17 +22,19 @@ o mantra "**Use o X Configurator**\ ", as **críticas** que sofreram dos
 usuários brasileiros, **rock stars**, dia a dia no escritório. **os
 manobristas de garagem** e, é claro, o seu **Top 5**!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-24.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-24.ogg>`__
+.. podcast:: castalio-podcast-24
 
+Contato
+-------
 -  **Twitter**: `@\_\_ruda\_\_ <https://twitter.com/#!/__ruda__>`__
 -  **Facebook**: `ruda.moura <https://www.facebook.com/ruda.moura>`__
 -  **Site**: `rudamoura.com <http://rudamoura.com/>`__
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 00:52
 -  **Como Começou na Conectiva** 01:30
 -  **No Lugar Certo, Na Hora Certa** 03:20
@@ -49,8 +51,8 @@ Escute agora:
 -  **Os Manobristas** 31:00
 -  **Conclusão** 32:26
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Yo La Tengo <http://www.last.fm/search?q=Yo+La+Tengo>`__
 -  **Música:** `Mutantes <http://www.last.fm/search?q=Mutantes>`__
 -  **Música:** `New Order <http://www.last.fm/search?q=New+Order>`__
@@ -64,8 +66,8 @@ Escute agora:
 -  **Livros:** `Art Of Computer Program (Knuth) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Art+Of+Computer+Program+(Knuth)>`__
 -  **Livros:** `Cammel Book (Larry Wall) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cammel+Book+(Larry+Wall)>`__
 
-**Links:**
-
+Links
+-----
 -  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
 -  `Slackware Linux <https://duckduckgo.com/?q=Slackware+Linux>`__
 -  `Canonical <https://duckduckgo.com/?q=Canonical>`__

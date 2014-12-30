@@ -3,7 +3,7 @@ Caike Souza: Envy Labs
 :date: 2012-05-13 23:03
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-36.mp3
+:podcast: https://archive.org/download/castalio-podcast-36/castalio-podcast-36.mp3
 :tags: activerecord, backbone, banco de dados, blink 182, breaking bad, caike souza, capitão américa, code school, code tv, coffee script, crash, css, envy labs, flórida, gold finger, gunslinger, henrique bastos, heroes will fall, horaextra, html 5, hulk, ibm, in flames, interfaces, javascript, jquery, livingsocial, massive attack, mötley crüe, metallica, nasa, netflix, new york times, node.js, orlando, pantera, pendulum, postal service, python, rails for zombies, rails testing for zombies, railsconf, railsconf 2012, ramones, rancid, responsive web, ruby, ruby for zombies, ruby on rails, screencast, sepultura, small acts manifesto, speaker deck, swarm inteligence, tá safo conf 2012, the avengers, thor, topworks, tryruby.org, united states of terror, weeds, welcome to the django, wordpress
 
 .. figure:: {filename}/images/caikesouza.jpg
@@ -34,6 +34,8 @@ participação na conferência **RailsConf 2012**, sua banda de rock
 Manifesto** e até mesmo seu **Top 5 de pessoas para seguir no
 Twitter**!!!
 
+.. more
+
 Esta semana eu ainda pretendo conversar com ele sobre um **brinde** para
 vocês brincarem mais com o Code School, mas enquanto isso, vale a pena
 conferir o Rails for Zombies e baixar a `música da
@@ -42,24 +44,26 @@ se você curte **Heavy Metal** (a música da entrada do episódio é da
 banda) ou quer conhecer um pouco mais sobre esta pessoa super
 interessante que é o Caike!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-36.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-36.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-36.m4a>`__
+Escute Agora
+------------
 
--  **Blog:**  http://caikesouza.com/blog/
--  **Twitter**:   https://twitter.com/#!/caike
--  **Facebook**:  https://www.facebook.com/caike.souza
--  **Banda**:  `Heroes Will Fall <https://www.facebook.com/heroeswillfall>`__
--  **Github**:  https://github.com/caike
--  **Envy Labs**:  http://envylabs.com/
--  **Code School**:  http://www.codeschool.com/
--  **Rails for Zombies**:  http://www.railsforzombies.org/
+.. podcast:: castalio-podcast-36
+
+Contato
+-------
+-  **Blog:** http://caikesouza.com/blog/
+-  **Twitter**: https://twitter.com/#!/caike
+-  **Facebook**: https://www.facebook.com/caike.souza
+-  **Banda**: `Heroes Will Fall <https://www.facebook.com/heroeswillfall>`__
+-  **Github**: https://github.com/caike
+-  **Envy Labs**: http://envylabs.com/
+-  **Code School**: http://www.codeschool.com/
+-  **Rails for Zombies**: http://www.railsforzombies.org/
 -  **Palestra**: `Powerful
    Interfaces <https://speakerdeck.com/u/caike/p/powerful-interfaces>`__
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 00:35
 -  **Envy Labs e Code School** 01:00
 -  **Learn by Doing it** 08:00
@@ -74,8 +78,8 @@ Escute agora: \*
 -  **Small Acts Manifesto** 38:20
 -  **Conclusão** 41:42
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `In Flames <http://www.last.fm/search?q=In+Flames>`__
 -  **Música:** `Metallica <http://www.last.fm/search?q=Metallica>`__
 -  **Música:** `Pantera <http://www.last.fm/search?q=Pantera>`__
@@ -106,8 +110,8 @@ Escute agora: \*
 -  **Twitter**: https://twitter.com/#!/envylabs
 -  **Twitter**: https://twitter.com/#!/codeschool
 
-**Links:**
-
+Links
+-----
 -  `Henrique Bastos <https://duckduckgo.com/?q=Henrique+Bastos>`__
 -  `Envy Labs <https://duckduckgo.com/?q=Envy+Labs>`__
 -  `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__

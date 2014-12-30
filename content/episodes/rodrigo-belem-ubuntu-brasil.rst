@@ -3,7 +3,7 @@ Rodrigo Belém: Ubuntu Brasil
 :date: 2012-02-20 00:02
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-30.mp3
+:podcast: https://archive.org/download/castalio-podcast-30/castalio-podcast-30.mp3
 :tags: amazonas, antônio pereira, arch linux, arm, bash, battlestar gallactica, benjamin mako hill, carlos "segfault" santiviago, cavalo de tróia, debconf, debian amazonas, debian linux, dexter, doctor who, emerson soares, encontro marcado, fábio nogueira, file sharing, geraldo azevedo, gnome, guia do muchileiro das galáxias, ian lawrence, indp, intel, jonathan riddell, kde, kubuntu, lício fonseca, licença gpl, licença mit, linaro, macos, marcelo mendes, mark shuttleworth, mário meyer, monty python, natural language processing with python, netflix, oswaldo montenegro, perl, plasma, porto alegre, postology, professional ubuntu mobile development, python, python nltk, rafel proença, roberto mello, rodrigo belém, shiptit, slackware linux, supernatural, the advantage, tom venuto, ubuntu, ubuntu brasil, ubuntu business remix, ubuntu linux, ubuntu mobile, ubuntu summit, umeguide.net, unity, windows
 
 .. figure:: {filename}/images/rodrigobelem.png
@@ -31,17 +31,20 @@ pouco sobre os fatores que tornaram o Ubuntu tão popular e o nome de
 vários usuários que começaram sua vida no mundo de software livre na
 comunidade Ubuntu Brasil!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-30.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-30.ogg>`__
+Escute Agora
+------------
 
--  **Blog**:  http://rbelem.blogspot.com/
--  **Blog**:  http://www.rbelem.info/
--  **Twitter**:  https://twitter.com/#!/rbelem
--  **Facebook**:  https://www.facebook.com/rclbelem
+.. podcast:: castalio-podcast-30
 
-**Resumo:**
+Contato
+-------
+-  **Blog**: http://rbelem.blogspot.com/
+-  **Blog**: http://www.rbelem.info/
+-  **Twitter**: https://twitter.com/#!/rbelem
+-  **Facebook**: https://www.facebook.com/rclbelem
 
+Resumo
+------
 -  **Nova Série: Ubuntu Brasil** 01:00
 -  **Apresentação** 02:00
 -  **Como que o Ubuntu Brasil nasceu** 02:40
@@ -59,8 +62,8 @@ Escute agora: \*
 -  **Top 5** 28:30
 -  **Conclusão** 33:38
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `The Advantage <http://www.last.fm/search?q=The+Advantage>`__
 -  **Música:** `Antônio Pereira <http://www.last.fm/search?q=Antônio+Pereira>`__
 -  **Música:** `Geraldo Azevedo <http://www.last.fm/search?q=Geraldo+Azevedo>`__
@@ -76,8 +79,8 @@ Escute agora: \*
 -  **Livros:** `Cavalo de Tróia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cavalo+de+Tróia>`__
 -  **Livros:** `Tom Venuto <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Tom+Venuto>`__
 
-**Links:**
-
+Links
+-----
 -  `Ian Lawrence <https://duckduckgo.com/?q=Ian+Lawrence>`__
 -  `Carlos "segfault" Santiviago <https://duckduckgo.com/?q=Carlos+>`__
 -  `DebConf <https://duckduckgo.com/?q=DebConf>`__

@@ -3,7 +3,7 @@ Ivan Brasil Fuzzer: Ubuntero
 :date: 2012-03-04 15:36
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-31.mp3
+:podcast: https://archive.org/download/castalio-podcast-31/castalio-podcast-31.mp3
 :tags: ac/dc, animatrix, assembly, audacity, batalha do apocalipse, br-linux, c++, capital inicial, cesar oliveira, cidadão quem, cinelera, cobol, debian linux, delphi, eduardo spohr, filhos do éden, grupo caudílho livre, gtkrecordmydesktop, inception, iron madden, java, kdenlive, list, ludwig van beethoven, mettalica, mozilla thunderbird, neto fagundes, opencast, openshot, piresca greco, rogério melo, shell script, skype, skype call recorder, the matrix, the walking dead, twitter, ubuntero, ubuntu linux, ubuntu unity, vim, virtual box, w32 codecs, youtube
 
 .. figure:: {filename}/images/ivanfuzzer.jpg
@@ -29,6 +29,8 @@ sobre Linux" e expandiu para outras vias de comunicação, como um `canal
 de vídeos <http://www.youtube.com/user/ubunterobr?feature=watch>`__ no
 **Youtube** e seu mais recente projeto, o **Opencast** podcast!
 
+.. more
+
 Durante nosso bate-papo o Ivan conta sobre como que o site Ubuntero
 nasceu, de onde ele busca informações, algumas estatísticas do site, e
 como que depois de um tempo nasceram o canal de vídeos e o podcast. Ele
@@ -40,16 +42,19 @@ Ah, e mudei a "trilha sonora" do podcast de volta ao tema anterior a
 pedido do meu amigo `Reinaldo
 Bispo <https://twitter.com/#!/corvolinoPUNK>`__! :)
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-31.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-31.ogg>`__
+Escute Agora
+------------
 
--  **Web site**:  http://www.ubuntero.com.br/
--  **Google+**:  https://plus.google.com/116904557812459236393/posts
--  **Twitter**:  http://twitter.com/ubunterobr
+.. podcast:: castalio-podcast-31
 
-**Resumo:**
+Contato
+-------
+-  **Web site**: http://www.ubuntero.com.br/
+-  **Google+**: https://plus.google.com/116904557812459236393/posts
+-  **Twitter**: http://twitter.com/ubunterobr
 
+Resumo
+------
 -  **Apresentação** 00:40
 -  **Como nasceu o site de notícias Ubuntero** 02:15
 -  **A audiência e estatísticas do site** 05:32
@@ -63,8 +68,8 @@ Escute agora: \*
 -  **Previsão para o Ubuntu em 2012** 32:50
 -  **Conclusão** 34:14
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Cesar Oliveira <http://www.last.fm/search?q=Cesar+Oliveira>`__
 -  **Música:** `Rogério Melo <http://www.last.fm/search?q=Rogério+Melo>`__
 -  **Música:** `Neto Fagundes <http://www.last.fm/search?q=Neto+Fagundes>`__
@@ -82,8 +87,8 @@ Escute agora: \*
 -  **Livros:** `Filhos do Éden <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Filhos+do+Éden>`__
 -  **Livros:** `Batalha do Apocalipse <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse>`__
 
-**Links:**
-
+Links
+-----
 -  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
 -  `Ubuntero <https://duckduckgo.com/?q=Ubuntero>`__
 -  `OpenCast <https://duckduckgo.com/?q=OpenCast>`__

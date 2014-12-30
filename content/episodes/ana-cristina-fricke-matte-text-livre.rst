@@ -3,7 +3,7 @@ Ana Cristina Fricke Matte: Texto Livre
 :date: 2012-02-05 22:13
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-29.mp3
+:podcast: https://archive.org/download/castalio-podcast-29/castalio-podcast-29.mp3
 :tags: amadeus, associação software livre, brasnet, código davince, dexter, evidosol, fapemig, fedora linux, fisl, freenode, gt de educação do fils, inteligência adaptiva, inteligência artificial, kernel, kurt kraut, laboratório de semiótica e tecnologia, madonna, marcelo hashimoto, moodle, ning, polly twitter client, ponto de impacto, portal do professor livre na rede, praat, revista texto livre, slackware linux, software livre educacional, texto livre, ubuntu brasil, ubuntu linux, ufba, ufmg, ulgg, uml, underlinux, unesp, universidade de são paulo, universidade federal de minas gerais, windows, wordpress, xoops
 
 .. figure:: {filename}/images/anamatte.jpg
@@ -26,16 +26,18 @@ que largou **10 computadores usando Windows** por um sistema rodando
 **Fedora Linux**, suas preferências musicais, e a forma mais fácil que
 um estudante da **UFMG** pode tirar uma nota 10!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-29.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-29.ogg>`__
+.. podcast:: castalio-podcast-29
 
--  **Blog**:  http://softwarelivre.org/acris/blog
--  **Facebook**:  https://www.facebook.com/profile.php?id=100003061250725
+Contato
+-------
+-  **Blog**: http://softwarelivre.org/acris/blog
+-  **Facebook**: https://www.facebook.com/profile.php?id=100003061250725
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:11
 -  **A Idéia do Text Livre** 02:00
 -  **Tudo Começou no Ubuntu Brasil** 04:10
@@ -51,14 +53,14 @@ Escute agora:
 -  **Pipoca** 33:52
 -  **Conclusão** 34:18
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Madonna <http://www.last.fm/search?q=Madonna>`__
 -  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
 -  **Livros:** `Ponto de Impacto <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ponto+de+Impacto>`__
 
-**Links:**
-
+Links
+-----
 -  `Polly Twitter Client <https://duckduckgo.com/?q=Polly+Twitter+Client>`__
 -  `Texto Livre <https://duckduckgo.com/?q=Texto+Livre>`__
 -  `Universidade Federal de Minas Gerais <https://duckduckgo.com/?q=Universidade+Federal+de+Minas+Gerais>`__

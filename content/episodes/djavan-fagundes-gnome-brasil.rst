@@ -3,7 +3,7 @@ Djavan Fagundes: GNOME Brasil
 :date: 2012-06-25 01:22
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-39.mp3
+:podcast: https://archive.org/download/castalio-podcast-39/castalio-podcast-39.mp3
 :tags: ambiente gnome, ambiente kde, ambiente openbox, ambiente xfce, belo horizonte, breaking bad, casa 21, chaves, cidades ilustradas, constantine, creedence clearwater revival, distribuição arch linux, distribuição debian linux, distribuição fedora linux, distribuição foresight linux, djavan fagundes, gandhi: a magia dos gestos poéticos, gnome 3, gnome brasil, gnome-tweak-tool, google hangout, google maps, hell boy, hora do mac, jonh wendell, led zeppelin, linus torvalds, mapping party, openstreet map, oscar wilde, pedro almodóvar, raul seixas, rubem alves, sin city, the big bang theory, the it crowd, the picture of dorian gray, the raincoats, youtube
 
 .. figure:: {filename}/images/djavanfagundes.png
@@ -28,6 +28,8 @@ Plus <https://plus.google.com/107864992170817866192/posts>`__ e
 `Twitter <https://twitter.com/#!/castaliopod>`__ para saberem quando a
 próxima gravação será feita.
 
+.. more
+
 O entrevistado deste episódio é o **Djavan Fagundes**, atual coordenador
 da equipe de traduções do **GNOME Brasil**! Mesmo com a tempestade
 pesada que eu tive aqui e os cachorros do vizinho do Djavan que
@@ -39,21 +41,23 @@ tornar o coordenador atual! Também conversamos sobre seu projeto de
 **mapear todos os bares de Belo Horizonte** e melhorar a qualidade e
 quantidade de mapas desta cidade (morei em BH em 1981-1982)!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-39.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-39.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-39.m4a>`__
+Escute Agora
+------------
 
--  **Blog:  **\ http://butequeiro.comum.org/
--  **Twitter**:  https://twitter.com/dnoway
--  **Facebook**:  http://facebook.com/dnoway
--  **Google+**:  https://plus.google.com/107441790587076222299/posts?banner=pwa
--  **Linked.in**:  http://www.linkedin.com/in/djavanfagundes
--  **Last.fm**:  http://www.lastfm.com.br/user/dnoway
--  **OpenStreet Maps**:  http://www.openstreetmap.org/user/Djavan%20Fagundes
+.. podcast:: castalio-podcast-39
 
-**Resumo:**
+Contato
+-------
+-  **Blog:** http://butequeiro.comum.org/
+-  **Twitter**: https://twitter.com/dnoway
+-  **Facebook**: http://facebook.com/dnoway
+-  **Google+**: https://plus.google.com/107441790587076222299/posts?banner=pwa
+-  **Linked.in**: http://www.linkedin.com/in/djavanfagundes
+-  **Last.fm**: http://www.lastfm.com.br/user/dnoway
+-  **OpenStreet Maps**: http://www.openstreetmap.org/user/Djavan%20Fagundes
 
+Resumo
+------
 -  **Apresentação** 01:05
 -  **Traduções para o GNOME Brasil** 01:40
 -  **Desempenhando o papel de coordenador** 06:00
@@ -64,8 +68,8 @@ Escute agora: \*
 -  **Top 5** 25:00
 -  **Conclusão** 33:50
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Creedence Clearwater Revival <http://www.last.fm/search?q=Creedence+Clearwater+Revival>`__
 -  **Música:** `Led Zeppelin <http://www.last.fm/search?q=Led+Zeppelin>`__
 -  **Música:** `Raul Seixas <http://www.last.fm/search?q=Raul+Seixas>`__
@@ -84,8 +88,8 @@ Escute agora: \*
 -  **Livros:** `Oscar Wilde <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Oscar+Wilde>`__
 -  **Livros:** `The Picture of Dorian Gray <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Picture+of+Dorian+Gray>`__
 
-**Links:**
-
+Links
+-----
 -  `Ambiente GNOME <https://duckduckgo.com/?q=Ambiente+GNOME>`__
 -  `GNOME Brasil <https://duckduckgo.com/?q=GNOME+Brasil>`__
 -  `Jonh Wendell <https://duckduckgo.com/?q=Jonh+Wendell>`__

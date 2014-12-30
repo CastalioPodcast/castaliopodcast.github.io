@@ -3,7 +3,7 @@ Felipe Ribeiro: Spotify
 :date: 2012-06-10 16:43
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-38.mp3
+:podcast: https://archive.org/download/castalio-podcast-38/castalio-podcast-38.mp3
 :tags: ac/dc, back to the future, being geek, caike souza, creedence clearwater revival, ensaio sobre a cegueira, explosions in the sky, facebook, fisl, flávio ribeiro, forrest gump, groove shark, inception, java script, linkedin, memcache, mysql, pandora, pearl jam, php, php conference, programming pearls, rdio, spotify, starman: truth behind the legend of yuri gagarin, the algorithm design manual, the bad and the ugly, the big lebowski, the good, the hichhiker's guide to the galaxy, tuenti, will farrel, wolfmother, youtube
 
 .. figure:: {filename}/images/feliperibeiro.jpg
@@ -17,12 +17,14 @@ tempo para comprar o meu
 `presente <http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1>`__
 hehehe) tive a chance de conversar com o **Felipe Ribeiro**, o único
 Brasileiro que trabalha na companhia
-**`Spotify <http://www.spotify.com/>`__**! O Felipe é irmão do **Flávio
+`Spotify <http://www.spotify.com/>`__ ! O Felipe é irmão do **Flávio
 Ribeiro** que eu entrevistei no `último
 episódio <http://www.castalio.info/flavio-ribeiro-globo-com/>`__, o que
 me leva a pensar que existe um movimento muito forte na **Paraíba** nas
 áreas de educação e software livre, já que foram várias pessoas da
 região que passaram por aqui. :)
+
+.. more
 
 Mesmo já sendo tarde na Suécia onde ele mora desde janeiro deste ano, e
 de ter voltado de um happy hour que teve lá na Spotify, conversamos
@@ -34,20 +36,23 @@ conversamos sobre as dificuldades que existem em fechar contratos com
 gravadoras, como que cervejas são caras na Suécia, contratações e seu
 Top 5!
 
-Escute agora: \*
-`MP3 <http://downloads.ogmaciel.com/castalio-podcast-38.mp3>`__ \*
-`Ogg <http://downloads.ogmaciel.com/castalio-podcast-38.ogg>`__ \*
-`M4A <http://downloads.ogmaciel.com/castalio-podcast-38.m4a>`__
+Escute Agora
+------------
 
--  **Blog**:  http://blog.feliperibeiro.com/ e  http://old.feliperibeiro.com/
--  **Twitter**:  https://twitter.com/#!/felipernb
--  **Facebook**:  https://www.facebook.com/felipernb
--  **Google+**:  https://plus.google.com/115362068810405278627/posts
--  **Linkedin**:  http://www.linkedin.com/in/felipernb
--  **Last.fm**:  http://www.last.fm/user/felipernb
+.. podcast:: castalio-podcast-38
 
-**Resumo:**
+Contato
+-------
+-  **Blog**: http://blog.feliperibeiro.com/
+-  **Blog**: http://old.feliperibeiro.com/
+-  **Twitter**: https://twitter.com/#!/felipernb
+-  **Facebook**: https://www.facebook.com/felipernb
+-  **Google+**: https://plus.google.com/115362068810405278627/posts
+-  **Linkedin**: http://www.linkedin.com/in/felipernb
+-  **Last.fm**: http://www.last.fm/user/felipernb
 
+Resumo
+------
 -  **Apresentação** 01:37
 -  **Spotify** 02:56
 -  **Parando na Suécia** 04:20
@@ -63,8 +68,8 @@ Escute agora: \*
 -  **Perks** 30:12
 -  **Conclusão** 32:22
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Pearl Jam <http://www.last.fm/search?q=Pearl+Jam>`__
 -  **Música:** `Wolfmother <http://www.last.fm/search?q=Wolfmother>`__
 -  **Música:** `AC/DC <http://www.last.fm/search?q=AC/DC>`__
@@ -78,12 +83,12 @@ Escute agora: \*
 -  **Livros:** `Programming pearls <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+pearls>`__
 -  **Livros:** `The algorithm design manual <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+algorithm+design+manual>`__
 -  **Livros:** `Being Geek <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Being+Geek>`__
--  **Livros:** [The Hichhiker's guide to the galaxy](http://www.amazon.com/s/ref=nb\_sb\_noss?url=search-alias%3Dstripbooks&field-keywords=The+Hichhiker's+guide+to+the+galaxy)
+-  **Livros:** `The Hichhiker\'s guide to the galaxy <https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy>`__
 -  **Livros:** `Starman: Truth Behind the Legend of Yuri Gagarin <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starman:+Truth+Behind+the+Legend+of+Yuri+Gagarin>`__
 -  **Livros:** `Ensaio sobre a cegueira <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ensaio+sobre+a+cegueira>`__
 
-**Links:**
-
+Links
+-----
 -  `Flávio Ribeiro <https://duckduckgo.com/?q=Flávio+Ribeiro>`__
 -  `Spotify <https://duckduckgo.com/?q=Spotify>`__
 -  `Tuenti <https://duckduckgo.com/?q=Tuenti>`__

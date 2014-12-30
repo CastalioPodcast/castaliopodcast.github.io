@@ -3,7 +3,7 @@ João Fernando Costa Júnior: Revista Espírito Livre
 :date: 2011-12-12 02:31
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-25.mp3
+:podcast: https://archive.org/download/castalio-podcast-25/castalio-podcast-25.mp3
 :tags: agentes do destino, angra, apollo 18, bíblia, br-linux, cloud computing, criminal minds, dexter, dream fitter, enya, estadão, folha, ghostscript, gimp, google docs, gtalk, inkscape, john maddog, kitaro, legião urbana, libre office, matrix, mentalist, night wish, o senhor dos anéis, pdf, revista espírito livre, scribus, source code, stratovarious, super 8, v de vingança, with temptation, xfce, xubuntu
 
 .. figure:: {filename}/images/joaojunior.jpg
@@ -29,17 +29,19 @@ Também conversamos sobre a realização do 1º Fórum Espírito Livre que
 aconteceu em Novembro na cidade de Vitória, ES, sobre o "exemplar raro",
 e até mesmo um ovo de páscoa para a próxima edição!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-25.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-25.ogg>`__
+.. podcast:: castalio-podcast-25
 
+Contato
+-------
 -  **Twitter**: `https://twitter.com/#!/jfcosta <https://twitter.com/#%21/jfcosta>`__
 -  **Facebook**: https://www.facebook.com/joao.fernando.costa
 -  **Blog**: `Revista Espírito Livre <http://www.revista.espiritolivre.org/>`__
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 00:58
 -  **Revista Espírito Livre** 01:42
 -  **Dando Espaço a Outras Iniciativas** 05:22
@@ -54,8 +56,8 @@ Escute agora:
 -  **Ovo de Páscoa** 40:45
 -  **Conclusão** 42:07
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Dream Theater <http://www.last.fm/search?q=Dream+Theater>`__
 -  **Música:** `Angra <http://www.last.fm/search?q=Angra>`__
 -  **Música:** `Enya <http://www.last.fm/search?q=Enya>`__
@@ -79,8 +81,8 @@ Escute agora:
 -  **Livros:** `Folha <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Folha>`__
 -  **Livros:** `Estadão <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estad%C3%A3o>`__
 
-**Links:**
-
+Links
+-----
 -  `Revista Espírito Livre <https://duckduckgo.com/?q=Revista+Esp%C3%ADrito+Livre>`__
 -  `GTalk <https://duckduckgo.com/?q=GTalk>`__
 -  `Jon Maddog Hall <https://duckduckgo.com/?q=Jon+Maddog+Hall>`__

@@ -3,7 +3,7 @@ Elvis Pfutzenreuter: Conectiva Linux
 :date: 2011-11-28 03:37
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-23.mp3
+:podcast: https://archive.org/download/castalio-podcast-23/castalio-podcast-23.mp3
 :tags: android, asia, clara nunes, conectiva linux, debian linux, emperor of the north, enron, erp, facção central, ieee, ios, iphone, jacob do bandolim, linux world expo, madoff, mandrake linux, mandriva linux, o poderoso chefão, racionais mc, red hat linux, revista do linux, runaway train, slackware linux, toccata und fuge, windows
 
 O episódio de hoje marca o início de um mini-projeto que estou
@@ -20,18 +20,20 @@ que ele foi parar na Conectiva, como que era o dia-a-dia no escritório,
 a sua saída prematura, e sobre como o Brasil precisa de mais autoria e
 menos ideologia!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-23.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-23.ogg>`__
+.. podcast:: castalio-podcast-23
 
+Contato
+-------
 -  **Blog**: http://epx.com.br/
--  **Twitter**:  `http://twitter.com/#!/elvis\_epx <http://twitter.com/#%21/elvis_epx>`__
--  **Facebook**:  http://www.facebook.com/elvis.pfutzenreuter
--  **Google Plus**:  https://plus.google.com/112532072854107970163/posts
+-  **Twitter**: http://twitter.com/#!/elvis\_epx
+-  **Facebook**: http://www.facebook.com/elvis.pfutzenreuter
+-  **Google Plus**: https://plus.google.com/112532072854107970163/posts
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentando a Série Conectiva** 00:39
 -  **Apresentação** 01:00
 -  **Começo na Conectiva** 01:30
@@ -48,8 +50,8 @@ Escute agora:
 -  **Top 5** 22:01
 -  **Conclusão** 27:22
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Toccata und Fuge <http://www.last.fm/search?q=Toccata+und+Fuge>`__
 -  **Música:** `Asia <http://www.last.fm/search?q=Asia>`__
 -  **Música:** `Racionais Mc <http://www.last.fm/search?q=Racionais+Mc>`__
@@ -65,8 +67,8 @@ Escute agora:
 -  **Livros:** `No One Would Listen: A True Financial Thriller <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=No+One+Would+Listen:+A+True+Financial+Thriller>`__
 -  **Livros:** `A ditadura derrotada <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+ditadura+derrotada>`__
 
-**Links:**
-
+Links
+-----
 -  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
 -  `Revista do Linux <https://duckduckgo.com/?q=Revista+do+Linux>`__
 -  `Red Hat Linux <https://duckduckgo.com/?q=Red+Hat+Linux>`__

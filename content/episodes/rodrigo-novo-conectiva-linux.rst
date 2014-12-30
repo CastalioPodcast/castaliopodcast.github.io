@@ -3,7 +3,7 @@ Rodrigo Novo: Conectiva Linux
 :date: 2011-12-26 18:16
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-26.mp3
+:podcast: https://archive.org/download/castalio-podcast-26/castalio-podcast-26.mp3
 :tags: anaconda installer, arnaldo "pacman", aurélio "verde" jargas, caldera graphical installer, caldera linux, canonical, conectiva linux, cvs, dos, edubuntu, frank sinatra, gcc, googleplex, imdb.com, indt, jeff hwang, kde, linux br, livraria saraiva, mandrake linux, mandriva linux, marcelo tosatti, midnight commander, minilinux, mountain view, nfs, nina simone, open linux, parolin linux, pot-limit omaha poker, qt, red hat linux, rpm, silicon valley, slackware linux, texas holden poker, tftp, the shawshank redemption, ubuntu developers summit, universidade federal de santa catarina, venture capital
 
 .. figure:: {filename}/images/rodrigonovo.png
@@ -22,17 +22,19 @@ distribuição, **KDE 0.11**, a história do "**easter egg**\ " que nunca
 foi publicado, onde será a próxima "**Silicon Valley**\ " brasileira, e
 seu interesse por **poker** e **filmes clássicos**!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-26.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-26.ogg>`__
+.. podcast:: castalio-podcast-26
 
+Contato
+-------
 -  **Linked.in**:  http://www.linkedin.com/in/rodarvus
 -  **Facebook**:  https://www.facebook.com/rodarvus?ref=name
 -  **Twitter**:  https://twitter.com/#!/rodarvus
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:08
 -  **Começando no Conectiva Linux** 03:30
 -  **Um Pouco de Background** 07:00
@@ -44,16 +46,16 @@ Escute agora:
 -  **Top 5** 34:12
 -  **Conclusão** 42:07
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Nina Simone <http://www.last.fm/search?q=Nina+Simone>`__
 -  **Música:** `Frank Sinatra <http://www.last.fm/search?q=Frank+Sinatra>`__
 -  **Filmes:** `The Shawshank Redemption <http://www.imdb.com/find?s=all&q=The+Shawshank+Redemption>`__
 -  **Livros:** `Pot-Limit Omaha Poker <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pot-Limit+Omaha+Poker>`__
 -  **Livros:** `Advanced Pot-Limit Omaha: Small Ball and Short-Handed Play <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Advanced+Pot-Limit+OmahaÇ+Small+Ball+and+Short-Handed+Play>`__
 
-**Links:**
-
+Links
+-----
 -  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
 -  `Canonical <https://duckduckgo.com/?q=Canonical>`__
 -  `Ubuntu Developers Summit <https://duckduckgo.com/?q=Ubuntu+Developers+Summit>`__

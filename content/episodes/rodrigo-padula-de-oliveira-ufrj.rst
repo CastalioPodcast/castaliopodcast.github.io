@@ -3,14 +3,14 @@ Rodrigo Padula de Oliveira: UFRJ
 :date: 2012-01-08 17:11
 :author: Og Maciel
 :category: Podcast
-:podcast: http://downloads.ogmaciel.com/castalio-podcast-27.mp3
+:podcast: https://archive.org/download/castalio-podcast-27/castalio-podcast-27.mp3
 :tags: 2001 uma odisséia no espaço, a arte da guerra, a profecia, ac/dc, aristóteles, beatles, canonical, compiz, conectiva linux, engenheiros do hawai, fedora linux, formato odf, forrest gump, gnome board of directors, gnome shell, hugo cisneiro, ira, iron maiden, izabel valverde, jack johnson, jonh wendell, karen sandler, libre office, linked.in, linux plus magazine, microsoft academic alliance, microsoft office, microsoft windows, navegador firefox, navegador internet explorer, netflix, netscape, o exorcista, o senhor dos anéis, platão, projeto fedora, projeto gnome, projeto kde, projeto mozilla, raul seixas, red hat linux, sistemas operacionais modernos, slackware linux, starfish and the spider, stormy peters, ufrj, utopia
 
 .. figure:: {filename}/images/rodrigopadula.png
    :alt: Rodrigo Padula
 
    Rodrigo Padula
-   
+
 Olá pessoal e sejam muito bem-vindos ao **primeiro episódio de 2012**!
 Desta vez entrevistei o **Rodrigo Padula**, amigo de algum tempo pela
 internet nas traduções do projeto **GNOME**. O Rodrigo tem um currículo
@@ -30,18 +30,20 @@ da nova diretora da **Fundação GNOME**! Por último, conversamos sobre o
 **Laboratório de Open Source** na **UFRJ** onde trabalha, por que ele
 faz **Jiu-Jitsu**, planos para 2012, e seu **Top 5**!
 
-Escute agora:
+Escute Agora
+------------
 
--  `MP3 <http://downloads.ogmaciel.com/castalio-podcast-27.mp3>`__
--  `Ogg <http://downloads.ogmaciel.com/castalio-podcast-27.ogg>`__
+.. podcast: castalio-podcast-27
 
+Contato
+-------
 -  **Blog:** http://www.rodrigopadula.com
--  **Linked.in**:  http://www.linkedin.com/in/rodrigopadula
+-  **Linked.in**: http://www.linkedin.com/in/rodrigopadula
 -  **Facebook**: https://www.facebook.com/rodrigopadula
--  **Twitter**:  https://twitter.com/#!/rodrigopadula
+-  **Twitter**: https://twitter.com/#!/rodrigopadula
 
-**Resumo:**
-
+Resumo
+------
 -  **Apresentação** 01:11
 -  **Linux, Red Hat e Fedora** 02:16
 -  **Saindo da Red Hat** 07:30
@@ -56,8 +58,8 @@ Escute agora:
 -  **Top 5** 33:00
 -  **Conclusão** 37:52
 
-**Top 5:**
-
+Top 5
+-----
 -  **Música:** `Beatles <http://www.last.fm/search?q=Beatles>`__
 -  **Música:** `Raul Seixas <http://www.last.fm/search?q=Raul+Seixas>`__
 -  **Música:** `AC/DC <http://www.last.fm/search?q=AC/DC>`__
@@ -78,8 +80,8 @@ Escute agora:
 -  **Livros:** `Aristóteles <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Aristóteles>`__
 -  **Livros:** `Platão <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Platão>`__
 
-**Links:**
-
+Links
+-----
 -  `Linked.in <https://duckduckgo.com/?q=Linked.in>`__
 -  `Linux Plus Magazine <https://duckduckgo.com/?q=Linux+Plus+Magazine>`__
 -  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
