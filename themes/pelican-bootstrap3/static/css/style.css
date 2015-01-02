@@ -128,6 +128,11 @@ figure.floatcenter, .align-center {
     margin-bottom: 11px;
 }
 
+.figure img {
+    width: 100%;
+    height: auto;
+}
+
 .highlighttable pre {
     /* Removes bootstrap default margin-bottom */
     margin-bottom: 0px;
@@ -239,9 +244,7 @@ article {
     margin-bottom: 20px;
     padding: 4px;
     transition: all 0.2s ease-in-out 0s;
-    width: -moz-min-content;
-    width: -webkit-min-content;
-    width: min-content;
+    heigh: auto;
 }
 
 .figure p.caption {
