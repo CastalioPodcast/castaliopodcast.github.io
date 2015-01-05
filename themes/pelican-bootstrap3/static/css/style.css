@@ -23,23 +23,35 @@ body {
 }
 
 .tag-0 {
-    font-size: 16pt;
+    font-size: 23pt;
 }
 
 .tag-1 {
-    font-size: 13pt;
+    font-size: 20pt;
 }
 
 .tag-2 {
-    font-size: 10pt;
+    font-size: 18pt;
 }
 
 .tag-3 {
-    font-size: 8pt;
+    font-size: 15pt;
 }
 
 .tag-4 {
-    font-size: 6pt;
+    font-size: 12pt;
+}
+
+.tag-5 {
+    font-size: 9pt;
+}
+
+.tag-6 {
+    font-size: 7pt;
+}
+
+.tag-7 {
+    font-size: 5pt;
 }
 
 #aboutme {
@@ -296,4 +308,8 @@ img.align-center, .figure.align-center{
 
 #sidebar-sitename {
 	font-size: 35px;
+}
+
+.tagcloud{
+	padding-left: 20px;
 }
