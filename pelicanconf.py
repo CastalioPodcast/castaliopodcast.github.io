@@ -78,6 +78,10 @@ SITEMAP = {
 DISQUS_SITENAME = 'castliopodcast'
 GOOGLE_ANALYTICS = "UA-21449168-1"
 
+# Dark navbar
+BOOTSTRAP_NAVBAR_INVERSE = True
+
+# Site banner in the sidebar
 SIDEBAR_BRAND_SUBTITLE = u"Um podcast inspirado prá castálio!"
 SIDEBAR_BRAND_IMAGE = 'images/castalio-podcast.jpg'
 SIDEBAR_BRAND_IMAGE_HEIGHT = 200
