@@ -289,3 +289,11 @@ img.align-center, .figure.align-center{
     margin-top: 0.7em;
     margin-bottom: 1.5em;
 }
+
+#sidebar-brand {
+	margin-bottom: 30px;
+}
+
+#sidebar-sitename {
+	font-size: 35px;
+}
