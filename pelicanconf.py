@@ -78,11 +78,9 @@ SITEMAP = {
 DISQUS_SITENAME = 'castliopodcast'
 GOOGLE_ANALYTICS = "UA-21449168-1"
 
-BANNER = True
-BANNER_SUBTITLE = u"Um podcast inspirado prá castálio!"
-BANNER_BACKGROUND_GRADIENT = 'linear-gradient(#2a2a29, #1c1c1c)'
-BANNER_IMAGE = 'images/castalio-podcast.jpg'
-BANNER_IMAGE_HEIGHT = 250
+SIDEBAR_BRAND_SUBTITLE = u"Um podcast inspirado prá castálio!"
+SIDEBAR_BRAND_IMAGE = 'images/castalio-podcast.jpg'
+SIDEBAR_BRAND_IMAGE_HEIGHT = 200
 FAVICON = 'images/favicon.ico'
 
 # iTunes plugin settings
