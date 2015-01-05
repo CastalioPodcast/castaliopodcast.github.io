@@ -14,8 +14,11 @@ DEFAULT_LANG = u'pt'
 LANG = u'pt_BR.UTF-8'
 CC_LICENSE = u'CC-BY-NC-SA'
 
+# Sets Tagcloud usage
 TAG_CLOUD_STEPS = 8
-TAG_CLOUD_MAX_ITEMS = 10
+TAG_CLOUD_MAX_ITEMS = 150
+DISPLAY_TAGS_INLINE = True
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds.atom'
