@@ -50,6 +50,7 @@ STATIC_PATHS = [
 ]
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
+    'extra/robots.txt': {'path': 'robots.txt'},
 }
 
 THEME = './themes/pelican-bootstrap3'
@@ -95,7 +96,7 @@ ITUNES_FEED_PATH = u'feeds/podcast.rss'
 ITUNES_FEED_TITLE = u'Castálio Podcast'
 ITUNES_FEED_EXPLICIT = u'No'
 ITUNES_FEED_LANGUAGE = u'pt-br'
-ITUNES_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-2014 Og Maciel e Elyézer Rezende'
+ITUNES_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-2015 Og Maciel e Elyézer Rezende'
 ITUNES_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
 ITUNES_FEED_AUTHOR = u'Og Maciel'
 ITUNES_FEED_SUMMARY = u''
