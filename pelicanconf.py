@@ -88,8 +88,8 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 
 # Site banner in the sidebar
 SIDEBAR_BRAND_SUBTITLE = u"Um podcast inspirado prá castálio!"
-SIDEBAR_BRAND_IMAGE = 'images/castalio-podcast.jpg'
-SIDEBAR_BRAND_IMAGE_HEIGHT = 200
+SIDEBAR_BRAND_IMAGE = 'images/castalio-podcast.png'
+SIDEBAR_BRAND_IMAGE_HEIGHT = 300
 FAVICON = 'images/favicon.ico'
 
 # iTunes plugin settings
@@ -102,7 +102,7 @@ ITUNES_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(
 ITUNES_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
 ITUNES_FEED_AUTHOR = u'Og Maciel'
 ITUNES_FEED_SUMMARY = u''
-ITUNES_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.jpg'
+ITUNES_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.png'
 ITUNES_FEED_OWNER_NAME = 'Og Maciel'
 ITUNES_FEED_EMAIL_EMAIL = ''
 ITUNES_FEED_CATEGORY = ['Technology', 'Podcasting']

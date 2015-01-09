@@ -5,10 +5,9 @@
 {% if SIDEBAR_BRAND_IMAGE %}
     <div id="sidebar-brand" class="sidebar-brand text-center">
         <a href="{{ SITEURL }}">
-            <img height="{{ SIDEBAR_BRAND_IMAGE_HEIGHT }}" class="img-circle" alt="{{ SITENAME }}" src="{{ SITEURL }}/{{ SIDEBAR_BRAND_IMAGE }}">
+            <img height="{{ SIDEBAR_BRAND_IMAGE_HEIGHT }}"  alt="{{ SITENAME }}" src="{{ SITEURL }}/{{ SIDEBAR_BRAND_IMAGE }}">
         </a>
 
-        <h1 id="sidebar-sitename">{{ SITENAME }}</h1>
     {% if SIDEBAR_BRAND_SUBTITLE %}
         <p class="text-muted">{{ SIDEBAR_BRAND_SUBTITLE }}</p>
     {% endif %}
@@ -89,4 +88,3 @@
         {% include 'includes/links.html' %}
     </ul>
 </section>
-
