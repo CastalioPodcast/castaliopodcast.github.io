@@ -20,7 +20,6 @@ TAG_CLOUD_STEPS = 8
 TAG_CLOUD_MAX_ITEMS = 150
 DISPLAY_TAGS_INLINE = True
 
-
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds.atom'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom'
@@ -47,7 +46,6 @@ RELATIVE_URLS = True
 STATIC_PATHS = [
     'extra',
     'images',
-    'pages',
 ]
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
@@ -106,3 +104,7 @@ ITUNES_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.png'
 ITUNES_FEED_OWNER_NAME = 'Og Maciel'
 ITUNES_FEED_EMAIL_EMAIL = ''
 ITUNES_FEED_CATEGORY = ['Technology', 'Podcasting']
+
+# Cleaner page links
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
