@@ -1,0 +1,9 @@
+Opa!
+####
+:status: hidden
+:slug: 404
+:comments: closed
+
+.. figure:: {filename}/images/erro404.jpg
+   :alt: O que você está procurando não está aqui!
+   :align: center
