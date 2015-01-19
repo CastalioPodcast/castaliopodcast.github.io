@@ -60,7 +60,7 @@ PLUGINS = [
     'summary',
     'feed_summary',
     'sitemap',
-    'itunes',
+    'pelican-podcast-feed',
 ]
 SUMMARY_END_MARKER = "<!-- more -->"
 
@@ -92,19 +92,19 @@ SIDEBAR_BRAND_IMAGE_HEIGHT = 300
 FAVICON = 'images/favicon.ico'
 
 # iTunes plugin settings
-ITUNES_FEED_PATH = u'feeds/podcast.rss'
-ITUNES_FEED_TITLE = u'Castálio Podcast'
-ITUNES_FEED_EXPLICIT = u'No'
-ITUNES_FEED_LANGUAGE = u'pt-br'
-ITUNES_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(
+PODCAST_FEED_PATH = u'feeds/podcast.rss'
+PODCAST_FEED_TITLE = u'Castálio Podcast'
+PODCAST_FEED_EXPLICIT = u'No'
+PODCAST_FEED_LANGUAGE = u'pt-br'
+PODCAST_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(
     datetime.now().year, AUTHOR)
-ITUNES_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
-ITUNES_FEED_AUTHOR = u'Og Maciel'
-ITUNES_FEED_SUMMARY = u''
-ITUNES_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.png'
-ITUNES_FEED_OWNER_NAME = 'Og Maciel'
-ITUNES_FEED_EMAIL_EMAIL = ''
-ITUNES_FEED_CATEGORY = ['Technology', 'Podcasting']
+PODCAST_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
+PODCAST_FEED_AUTHOR = u'Og Maciel'
+PODCAST_FEED_SUMMARY = u''
+PODCAST_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.png'
+PODCAST_FEED_OWNER_NAME = 'Og Maciel'
+PODCAST_FEED_EMAIL_EMAIL = ''
+PODCAST_FEED_CATEGORY = ['Technology', 'Podcasting']
 
 # Cleaner page links
 PAGE_URL = '{slug}.html'
