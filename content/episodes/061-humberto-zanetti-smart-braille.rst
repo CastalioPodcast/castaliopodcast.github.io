@@ -65,6 +65,7 @@ Top 5
 
 Links
 -----
+* `Vídeo – Open hardware, open mind`_
 * `ETEC Itatí­ba`_
 * `FATEC Jundiaí­`_
 * `Evandro Pastor`_
@@ -109,6 +110,7 @@ Links
 \*\ **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
+.. _Vídeo – Open hardware, open mind: http://imasters.com.br/open-hardware-2/video-open-hardware-open-mind-7masters/
 .. _ETEC Itatí­ba: http://www.rosaperrone.com.br/
 .. _FATEC Jundiaí­: http://www.fatecjd.edu.br/site/
 .. _Evandro Pastor: http://www.quartoestudio.com/
