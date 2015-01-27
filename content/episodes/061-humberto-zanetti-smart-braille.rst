@@ -107,7 +107,9 @@ Links
 * `Filme O Código Da Vinci`_
 * `Filme Snatch`_
 
-\*\ **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
+.. class:: panel-body bg-info
+
+        **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
 .. _Vídeo – Open hardware, open mind: http://imasters.com.br/open-hardware-2/video-open-hardware-open-mind-7masters/
