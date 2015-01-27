@@ -35,7 +35,7 @@ SOCIAL = (
     ('GitHub', 'github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
     ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
     ('Facebook', 'facebook', 'https://facebook.com/castaliopod'),
-    ('iTunes', 'apple', 'https://itunes.apple.com/us/podcast/castalio-podcast/id446259197'),
+    ('iTunes', 'apple', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
     ('RSS Feed', 'rss', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
 )
 
