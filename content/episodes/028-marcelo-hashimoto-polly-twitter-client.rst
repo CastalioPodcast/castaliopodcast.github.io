@@ -106,4 +106,6 @@ Links
 -  `Enquete para o novo nome do aplicativo <http://www.omgubuntu.co.uk/2011/07/scizobird-seeking/>`__
 -  `Monty Python: Polly o papagaio <http://www.myspace.com/video/vid/1390811>`__
 
-*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+.. class:: panel-body bg-info
+
+        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

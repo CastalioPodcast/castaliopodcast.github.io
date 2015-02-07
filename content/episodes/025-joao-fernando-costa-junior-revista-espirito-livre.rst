@@ -97,4 +97,6 @@ Links
 -  `PDF <https://duckduckgo.com/?q=PDF>`__
 -  `Cloud Computing <https://duckduckgo.com/?q=Cloud+Computing>`__
 
-*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+.. class:: panel-body bg-info
+
+        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

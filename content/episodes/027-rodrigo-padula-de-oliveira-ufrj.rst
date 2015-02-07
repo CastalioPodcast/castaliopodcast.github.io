@@ -112,4 +112,6 @@ Links
 -  `Netscape <https://duckduckgo.com/?q=Netscape>`__
 -  `Netflix <https://duckduckgo.com/?q=Netflix>`__
 
-*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+.. class:: panel-body bg-info
+
+        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

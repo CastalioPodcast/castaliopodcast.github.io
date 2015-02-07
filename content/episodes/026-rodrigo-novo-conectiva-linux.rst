@@ -93,4 +93,6 @@ Links
 -  `Pot-Limit Omaha Poker <https://duckduckgo.com/?q=Pot-Limit+Omaha+Poker>`__
 -  `Jeff Hwang <https://duckduckgo.com/?q=Jeff+Hwang>`__
 
-*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+.. class:: panel-body bg-info
+
+        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

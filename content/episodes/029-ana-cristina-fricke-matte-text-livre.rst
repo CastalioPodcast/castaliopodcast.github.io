@@ -102,4 +102,6 @@ problemas por causa de incompatibilidade com versões do **Python <
 2.6**, ele já tem o código "portado", que pode ser encontrado
 aqui: \ https://code.launchpad.net/~conscioususer/polly/python2.6
 
-*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+.. class:: panel-body bg-info
+
+        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*

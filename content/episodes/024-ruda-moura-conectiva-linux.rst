@@ -89,4 +89,6 @@ Links
 -  `Haxent <https://duckduckgo.com/?q=Haxent>`__
 -  `Portal Terra <https://duckduckgo.com/?q=Portal+Terra>`__
 
-*\* **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+.. class:: panel-body bg-info
+
+        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
