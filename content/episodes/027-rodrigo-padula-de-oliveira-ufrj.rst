@@ -33,7 +33,7 @@ faz **Jiu-Jitsu**, planos para 2012, e seu **Top 5**!
 Escute Agora
 ------------
 
-.. podcast: castalio-podcast-27
+.. podcast:: castalio-podcast-27
 
 Contato
 -------
