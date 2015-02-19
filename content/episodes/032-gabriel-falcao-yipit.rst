@@ -65,76 +65,76 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Strokes <http://www.last.fm/search?q=Strokes>`__
--  **Música:** `White Stripes <http://www.last.fm/search?q=White+Stripes>`__
--  **Música:** `MGMT <http://www.last.fm/search?q=MGMT>`__
--  **Música:** `Two Door Cinema Club <http://www.last.fm/search?q=Two+Door+Cinema+Club>`__
--  **Música:** `Daft Punk <http://www.last.fm/search?q=Daft+Punk>`__
--  **Filmes:** `White Collar <http://www.imdb.com/find?s=all&q=White+Collar>`__
--  **Filmes:** `Big Band Theory <http://www.imdb.com/find?s=all&q=Big+Band+Theory>`__
--  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
--  **Filmes:** `Guy Ritchie <http://www.imdb.com/find?s=all&q=Guy+Ritchie>`__
--  **Filmes:** `Sherlock Holmes <http://www.imdb.com/find?s=all&q=Sherlock+Holmes>`__
--  **Filmes:** `Lock, Stock and Two Smoking Barrels <http://www.imdb.com/find?s=all&q=Lock,+Stock+and+Two+Smoking+Barrels>`__
--  **Filmes:** `Jogos Mortais <http://www.imdb.com/find?s=all&q=Jogos+Mortais>`__
--  **Livros:** `HBase <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase>`__
+-  **Música:** `Strokes`_
+-  **Música:** `White Stripes`_
+-  **Música:** `MGMT`_
+-  **Música:** `Two Door Cinema Club`_
+-  **Música:** `Daft Punk`_
+-  **Filmes:** `White Collar`_
+-  **Filmes:** `Big Band Theory`_
+-  **Filmes:** `Dexter`_
+-  **Filmes:** `Guy Ritchie`_
+-  **Filmes:** `Sherlock Holmes`_
+-  **Filmes:** `Lock, Stock and Two Smoking Barrels`_
+-  **Filmes:** `Jogos Mortais`_
+-  **Livros:** `HBase`_
 
 Links
 -----
--  `Guake <https://duckduckgo.com/?q=Guake>`__
--  `Tilda <https://duckduckgo.com/?q=Tilda>`__
--  `Yakauke <https://duckduckgo.com/?q=Yakauke>`__
--  `YipIt <http://yipit.com/>`__
--  `Django <https://duckduckgo.com/?q=Django>`__
--  `Linguagem Python <https://duckduckgo.com/?q=Linguagem+Python>`__
--  `GNU/Linux <https://duckduckgo.com/?q=GNU/Linux>`__
--  `Debian Linux <https://duckduckgo.com/?q=Debian+Linux>`__
--  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
--  `KDE <https://duckduckgo.com/?q=KDE>`__
--  `Windows <https://duckduckgo.com/?q=Windows>`__
--  `GNOME <https://duckduckgo.com/?q=GNOME>`__
--  `GLib <https://duckduckgo.com/?q=GLib>`__
--  `Qt <https://duckduckgo.com/?q=Qt>`__
--  `Gtk <https://duckduckgo.com/?q=Gtk>`__
--  `Belo Horizonte <https://duckduckgo.com/?q=Belo+Horizonte>`__
--  `Software Livre <https://duckduckgo.com/?q=Software+Livre>`__
--  `Licença GPL <https://duckduckgo.com/?q=Licença+GPL>`__
--  `Licença MIT <https://duckduckgo.com/?q=Licença+MIT>`__
--  `Servidor Apache <https://duckduckgo.com/?q=Servidor+Apache>`__
--  `Banco do Brasil <https://duckduckgo.com/?q=Banco+do+Brasil>`__
--  `Globo.com <https://duckduckgo.com/?q=Globo.com>`__
--  `Mac OS <https://duckduckgo.com/?q=Mac+OS>`__
--  `Github <https://duckduckgo.com/?q=Github>`__
--  `Uncle Bob <https://github.com/gabrielfalcao/unclebob>`__
--  `Lettuce <https://github.com/gabrielfalcao/lettuce>`__
--  `HTTPretty <https://github.com/gabrielfalcao/HTTPretty>`__
--  `Salad <https://github.com/gabrielfalcao/salad>`__
--  `Little Joy <https://github.com/gabrielfalcao/LittleJoy>`__
--  `dead-parrot <https://github.com/gabrielfalcao/dead-parrot>`__
--  `Bolacha <https://github.com/gabrielfalcao/bolacha>`__
--  `Desenvolvimento Agile <https://duckduckgo.com/?q=Desenvolvimento+Agile>`__
--  `Técnica Scrum <https://duckduckgo.com/?q=Técnica+Scrum>`__
--  `Pyccuracy <https://github.com/heynemann/pyccuracy>`__
--  `Bernardo Heynemann <https://github.com/heynemann>`__
--  `C# <https://duckduckgo.com/?q=C#>`__
--  `Selenium <https://duckduckgo.com/?q=Selenium>`__
--  `Linguagem Ruby <https://duckduckgo.com/?q=Linguagem+Ruby>`__
--  `Cucumber <https://duckduckgo.com/?q=Cucumber>`__
--  `Capybara <https://duckduckgo.com/?q=Capybara>`__
--  `Banda Lettuce <https://duckduckgo.com/?q=Banda+Lettuce>`__
--  `RSpec <https://duckduckgo.com/?q=RSpec>`__
--  `Teste unitário <https://duckduckgo.com/?q=Teste+unitário>`__
--  `Behavior Driven Development <https://duckduckgo.com/?q=Behavior+Driven+Development>`__
--  `Groupon <https://duckduckgo.com/?q=Groupon>`__
--  `Peixe Urbano <https://duckduckgo.com/?q=Peixe+Urbano>`__
--  `Integração contínua <https://duckduckgo.com/?q=Integração+contínua>`__
--  `Jenkins <https://duckduckgo.com/?q=Jenkins>`__
--  `Bamboo <https://duckduckgo.com/?q=Bamboo>`__
--  `Node.js <https://duckduckgo.com/?q=Node.js>`__
--  `Socket.IO <https://duckduckgo.com/?q=Socket.IO>`__
--  `DebConf <https://duckduckgo.com/?q=DebConf>`__
--  `DjangoCon <https://duckduckgo.com/?q=DjangoCon>`__
--  `Music For Programming <http://musicforprogramming.net/>`__
+-  `Guake`_
+-  `Tilda`_
+-  `Yakauke`_
+-  `YipIt`_
+-  `Django`_
+-  `Linguagem Python`_
+-  `GNU/Linux`_
+-  `Debian Linux`_
+-  `Ubuntu Linux`_
+-  `KDE`_
+-  `Windows`_
+-  `GNOME`_
+-  `GLib`_
+-  `Qt`_
+-  `Gtk`_
+-  `Belo Horizonte`_
+-  `Software Livre`_
+-  `Licença GPL`_
+-  `Licença MIT`_
+-  `Servidor Apache`_
+-  `Banco do Brasil`_
+-  `Globo.com`_
+-  `Mac OS`_
+-  `Github`_
+-  `Uncle Bob`_
+-  `Lettuce`_
+-  `HTTPretty`_
+-  `Salad`_
+-  `Little Joy`_
+-  `dead-parrot`_
+-  `Bolacha`_
+-  `Desenvolvimento Agile`_
+-  `Técnica Scrum`_
+-  `Pyccuracy`_
+-  `Bernardo Heynemann`_
+-  `C#`_
+-  `Selenium`_
+-  `Linguagem Ruby`_
+-  `Cucumber`_
+-  `Capybara`_
+-  `Banda Lettuce`_
+-  `RSpec`_
+-  `Teste unitário`_
+-  `Behavior Driven Development`_
+-  `Groupon`_
+-  `Peixe Urbano`_
+-  `Integração contínua`_
+-  `Jenkins`_
+-  `Bamboo`_
+-  `Node.js`_
+-  `Socket.IO`_
+-  `DebConf`_
+-  `DjangoCon`_
+-  `Music For Programming`_
 
 .. class:: panel-body bg-info
 
@@ -143,3 +143,70 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Strokes: http://www.last.fm/search?q=Strokes
+.. _White Stripes: http://www.last.fm/search?q=White+Stripes
+.. _MGMT: http://www.last.fm/search?q=MGMT
+.. _Two Door Cinema Club: http://www.last.fm/search?q=Two+Door+Cinema+Club
+.. _Daft Punk: http://www.last.fm/search?q=Daft+Punk
+.. _White Collar: http://www.imdb.com/find?s=all&q=White+Collar
+.. _Big Band Theory: http://www.imdb.com/find?s=all&q=Big+Band+Theory
+.. _Dexter: http://www.imdb.com/find?s=all&q=Dexter
+.. _Guy Ritchie: http://www.imdb.com/find?s=all&q=Guy+Ritchie
+.. _Sherlock Holmes: http://www.imdb.com/find?s=all&q=Sherlock+Holmes
+.. _Lock, Stock and Two Smoking Barrels: http://www.imdb.com/find?s=all&q=Lock,+Stock+and+Two+Smoking+Barrels
+.. _Jogos Mortais: http://www.imdb.com/find?s=all&q=Jogos+Mortais
+.. _HBase: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase
+.. _Guake: https://duckduckgo.com/?q=Guake
+.. _Tilda: https://duckduckgo.com/?q=Tilda
+.. _Yakauke: https://duckduckgo.com/?q=Yakauke
+.. _YipIt: http://yipit.com/
+.. _Django: https://duckduckgo.com/?q=Django
+.. _Linguagem Python: https://duckduckgo.com/?q=Linguagem+Python
+.. _GNU/Linux: https://duckduckgo.com/?q=GNU/Linux
+.. _Debian Linux: https://duckduckgo.com/?q=Debian+Linux
+.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
+.. _KDE: https://duckduckgo.com/?q=KDE
+.. _Windows: https://duckduckgo.com/?q=Windows
+.. _GNOME: https://duckduckgo.com/?q=GNOME
+.. _GLib: https://duckduckgo.com/?q=GLib
+.. _Qt: https://duckduckgo.com/?q=Qt
+.. _Gtk: https://duckduckgo.com/?q=Gtk
+.. _Belo Horizonte: https://duckduckgo.com/?q=Belo+Horizonte
+.. _Software Livre: https://duckduckgo.com/?q=Software+Livre
+.. _Licença GPL: https://duckduckgo.com/?q=Licença+GPL
+.. _Licença MIT: https://duckduckgo.com/?q=Licença+MIT
+.. _Servidor Apache: https://duckduckgo.com/?q=Servidor+Apache
+.. _Banco do Brasil: https://duckduckgo.com/?q=Banco+do+Brasil
+.. _Globo.com: https://duckduckgo.com/?q=Globo.com
+.. _Mac OS: https://duckduckgo.com/?q=Mac+OS
+.. _Github: https://duckduckgo.com/?q=Github
+.. _Uncle Bob: https://github.com/gabrielfalcao/unclebob
+.. _Lettuce: https://github.com/gabrielfalcao/lettuce
+.. _HTTPretty: https://github.com/gabrielfalcao/HTTPretty
+.. _Salad: https://github.com/gabrielfalcao/salad
+.. _Little Joy: https://github.com/gabrielfalcao/LittleJoy
+.. _dead-parrot: https://github.com/gabrielfalcao/dead-parrot
+.. _Bolacha: https://github.com/gabrielfalcao/bolacha
+.. _Desenvolvimento Agile: https://duckduckgo.com/?q=Desenvolvimento+Agile
+.. _Técnica Scrum: https://duckduckgo.com/?q=Técnica+Scrum
+.. _Pyccuracy: https://github.com/heynemann/pyccuracy
+.. _Bernardo Heynemann: https://github.com/heynemann
+.. _C#: https://duckduckgo.com/?q=C#
+.. _Selenium: https://duckduckgo.com/?q=Selenium
+.. _Linguagem Ruby: https://duckduckgo.com/?q=Linguagem+Ruby
+.. _Cucumber: https://duckduckgo.com/?q=Cucumber
+.. _Capybara: https://duckduckgo.com/?q=Capybara
+.. _Banda Lettuce: https://duckduckgo.com/?q=Banda+Lettuce
+.. _RSpec: https://duckduckgo.com/?q=RSpec
+.. _Teste unitário: https://duckduckgo.com/?q=Teste+unitário
+.. _Behavior Driven Development: https://duckduckgo.com/?q=Behavior+Driven+Development
+.. _Groupon: https://duckduckgo.com/?q=Groupon
+.. _Peixe Urbano: https://duckduckgo.com/?q=Peixe+Urbano
+.. _Integração contínua: https://duckduckgo.com/?q=Integração+contínua
+.. _Jenkins: https://duckduckgo.com/?q=Jenkins
+.. _Bamboo: https://duckduckgo.com/?q=Bamboo
+.. _Node.js: https://duckduckgo.com/?q=Node.js
+.. _Socket.IO: https://duckduckgo.com/?q=Socket.IO
+.. _DebConf: https://duckduckgo.com/?q=DebConf
+.. _DjangoCon: https://duckduckgo.com/?q=DjangoCon
+.. _Music For Programming: http://musicforprogramming.net/

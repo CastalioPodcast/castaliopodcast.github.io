@@ -13,8 +13,8 @@ de vida!
    :alt: Google Analytics
 
    Google Analytics
+
 .. figure:: {filename}/images/castalio-1-ano-wordpress.png
    :alt: WordPress
 
    WordPress
-

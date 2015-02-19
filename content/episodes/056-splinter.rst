@@ -63,9 +63,7 @@ pagina que foi aberta no navegador e salva no arquivo de sistemas:
 
    Editor Vim
 
-O bacana é que o método que tira screenshots foi
-`contribuição <https://github.com/cobrateam/splinter/commit/9913fbb236455fdd94aaa06317536a74c4cd780a>`__
-minha. :)
+O bacana é que o método que tira screenshots foi `contribuição`_ minha. :)
 
 Agora, vamos fazer a mesma coisa, mas desta vez usando o **Selenium
 WebDriver**:
@@ -143,11 +141,11 @@ Escute Agora
 Links
 -----
 
--  `Splinter <http://splinter.cobrateam.info/en/latest/>`__
--  `Selenium <http://docs.seleniumhq.org/>`__
--  `Selenium IDE <http://docs.seleniumhq.org/projects/ide/>`__
--  `Selenium WebDriver <http://docs.seleniumhq.org/projects/webdriver/>`__
--  `Satellite 6 <https://www.youtube.com/watch?v=BlNl7BJTUBs&list=PLcvmpY7C1j8l2rizvq7HLxLxX2fZioEuw>`__
+-  `Splinter`_
+-  `Selenium`_
+-  `Selenium IDE`_
+-  `Selenium WebDriver`_
+-  `Satellite 6`_
 
 .. class:: panel-body bg-info
 
@@ -156,3 +154,9 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _contribuição: https://github.com/cobrateam/splinter/commit/9913fbb236455fdd94aaa06317536a74c4cd780a
+.. _Splinter: http://splinter.cobrateam.info/en/latest/
+.. _Selenium: http://docs.seleniumhq.org/
+.. _Selenium IDE: http://docs.seleniumhq.org/projects/ide/
+.. _Selenium WebDriver: http://docs.seleniumhq.org/projects/webdriver/
+.. _Satellite 6: https://www.youtube.com/watch?v=BlNl7BJTUBs&list=PLcvmpY7C1j8l2rizvq7HLxLxX2fZioEuw

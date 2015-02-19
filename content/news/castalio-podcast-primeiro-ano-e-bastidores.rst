@@ -5,13 +5,18 @@ Castálio Podcast: Primeiro Ano e Bastidores
 :category: Notícia
 :tags: aniversário, bastidores
 
-|1º Aniversário|\ No dia 16 de fevereiro de 2011, de forma simples e
-despretenciosa, foi publicado o primeiro episódio do `Castálio
-Podcast <http://castalio.info>`__! Veterano de alguns podcast nos
-últimos anos (quem ainda se lembra do **Ubuntu Brasil** e
-`Foocast <http://foocast.wordpress.com/>`__ podcasts?), foi com um pouco
-de incerteza que eu decidi iniciar este projeto "com o objetivo de
-entrevistar e ao mesmo tempo apresentar pessoas e projetos que sejam
+.. image:: http://farm8.staticflickr.com/7014/6768863505_0bf59f76a3_m_d.jpg
+    :alt: Happy Birthday
+    :target: http://farm8.staticflickr.com/7014/6768863505_0bf59f76a3_m_d.jpg
+    :align: left
+
+
+No dia 16 de fevereiro de 2011, de forma simples e despretenciosa, foi
+publicado o primeiro episódio do `Castálio Podcast`_! Veterano de alguns
+podcast nos últimos anos (quem ainda se lembra do **Ubuntu Brasil**
+e `Foocast`_ podcasts?), foi com um pouco de incerteza que eu decidi
+iniciar este projeto "com o objetivo de entrevistar e ao mesmo tempo
+apresentar pessoas e projetos que sejam
 fonte de inspiração para os ouvintes".
 
     "O Castalio é sensacional e muito bem feito. O Og conduz tudo muito
@@ -23,8 +28,7 @@ fonte de inspiração para os ouvintes".
     estar em uma mesa de bar com o Og e o entrevistado. Enfim, esse
     podcast é extremamente recomendado.
 
-    Ah! E, por favor, alguém entreviste o Og algum dia." - `Hugo
-    Doria <http://hdoria.com/>`__
+    Ah! E, por favor, alguém entreviste o Og algum dia." - `Hugo Doria`_
 
 Invés de juntar com uns amigos e discutir sobre tecnologia e assuntos do
 dia, eu queria fazer algo um pouco mais diferente e evitar aquela rotina
@@ -35,7 +39,7 @@ esta meta que eu iniciei o processo de entrevistar uma pessoa de 15 em
 
     "Bate-papo informal com nomes de que você encontra facilmente em
     listas de discussões na Internet? Castalio podcast é o lugar." -
-    `Diego Búrigo Zacarão <http://diegobz.net/>`__
+    `Diego Búrigo Zacarão`_
 
 Durante o percurso dos últimos 12 meses eu tive de aprender muitas
 coisas relacionadas ao processo de edição de áudio, uma coisa que até
@@ -51,8 +55,7 @@ mais fluído sem longas pausas.
     Informativo, mas sempre na forma de uma conversa agradável! Além
     disso, também está se tornando um verdadeiro 'portal do tempo' que
     permite aos membros recentes saberem mais sobre os primórdios.
-    Parabéns ao Og pela iniciativa e por todo o esforço!" - `Marcelo
-    Hashimoto <https://launchpad.net/polly>`__
+    Parabéns ao Og pela iniciativa e por todo o esforço!" - `Marcelo Hashimoto`_
 
 Ao mesmo tempo que eu queria publicar um áudio legal, eu também queria
 providenciar mais informações sobre os tópicos discutidos no episódio
@@ -74,7 +77,7 @@ fazer algo para melhorar o meu trabalho.
     essência das comunidades se perde pois as comunidades são feitas de
     pessoas e suas iniciativas e motivações pessoais. Em suma, esta é a
     verdadeira história do SL no Brasil e você está contando! Parabéns,
-    Og!" - `acris <http://softwarelivre.org/acris/blog>`__
+    Og!" - `acris`_
 
 Para quem não sabe, profissionalmente eu trabalho na criação de testes e
 automatização de máquinas virtuais, e quando não estou lidando com as
@@ -95,8 +98,7 @@ notas para o meu programa, e pronto!
     oportunidades mais interessantes que tive na comunidade de código
     aberto. Entretanto, melhor do que isso foi conhecer meus próprios
     amigos e colegas sob uma perspectiva diferente, por meio de
-    episódios sempre divertidos e inusitados." - `Igor
-    Soares <http://igorsoares.com/>`__
+    episódios sempre divertidos e inusitados." - `Igor Soares`_
 
 Uma vez que eu demorava menos tempo compondo o post, eu tive mais tempo
 para me dedicar a pesquisar mais sobre os entrevistados, montar uma
@@ -125,7 +127,7 @@ vida!
     comunidade nacional de outra distribuição) que expõem detalhes que
     mesmo os participantes das comunidades em questão geralmente
     desconhecem, e o fazem de maneira leve e interessante. Continue com
-    o sucesso!" - `Augusto Campos <http://augustocampos.net/>`__
+    o sucesso!" - `Augusto Campos`_
 
 Então muitíssimo obrigado a todos vocês que, de uma forma ou outra
 participaram do processo deste projeto, e espero poder trazer uma nova
@@ -133,4 +135,11 @@ série de entrevistados e assuntos neste ano de 2012, e poder
 compartilhar com vocês um pouco de destes bate-papos prá lá de
 interessantes e divertidos!
 
-.. |1º Aniversário| image:: http://farm8.staticflickr.com/7014/6768863505_0bf59f76a3_m_d.jpg
+.. _Castálio Podcast: http://castalio.info
+.. _Foocast: http://foocast.wordpress.com/
+.. _Hugo Doria: http://hdoria.com/
+.. _Diego Búrigo Zacarão: http://diegobz.net/
+.. _Marcelo Hashimoto: https://launchpad.net/polly
+.. _acris: http://softwarelivre.org/acris/blog
+.. _Igor Soares: http://igorsoares.com/
+.. _Augusto Campos: http://augustocampos.net/

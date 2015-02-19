@@ -11,18 +11,15 @@ Fábio Nogueira: Ubuntu Brasil
 
    Fábio Nogueira: Ubuntu Brasil
 
-**Atualização**: Faltou o link do
-`vídeo <http://www.youtube.com/watch?v=Dgf8Bvn8tYI>`__ da entrevista! :)
+**Atualização**: Faltou o link do `vídeo`_ da entrevista! :)
 
-Olá pessoal e sejam muito bem-vindos à mais um episódio! No começo deste
-ano eu tinha prometido fazer uma série especial sobre os primeiros
-membros do **Ubuntu Brasil** e como tudo começou (quem ainda não escutou
-o episódio com o `Rodrigo
-Belém <http://www.castalio.info/rodrigo-belem-ubuntu-brasil/>`__?), mas
-nem sempre é fácil conseguir arrumar um tempinho para bater um papo com
-estas pessoas. Felizmente, nesta última semana, consegui bater um papo
-com o **Fábio Nogueira**, um dos primeiros integrantes e membro das
-primeiras "safras" de pioneiros da comunidade Ubuntu Brasil!
+Olá pessoal e sejam muito bem-vindos à mais um episódio! No começo deste ano eu
+tinha prometido fazer uma série especial sobre os primeiros membros do **Ubuntu
+Brasil** e como tudo começou (quem ainda não escutou o episódio com o `Rodrigo
+Belém`_?), mas nem sempre é fácil conseguir arrumar um tempinho para bater um
+papo com estas pessoas. Felizmente, nesta última semana, consegui bater um papo
+com o **Fábio Nogueira**, um dos primeiros integrantes e membro das primeiras
+"safras" de pioneiros da comunidade Ubuntu Brasil!
 
 Durante nosso bate-papo o Fábio conta como que sua participação nesta
 comunidade começou no finalzinho de 2005, ao pedir ajuda com certas
@@ -57,7 +54,7 @@ Escute Agora
 
 Contato
 -------
--  **Blog**: `http://blog.fnogueira.com.br <http://blog.fnogueira.com.br/>`__
+-  **Blog**: `http://blog.fnogueira.com.br`_
 -  **Twitter**:  https://twitter.com/Ubuntuser
 -  **Facebook**:  https://www.facebook.com/ubuntuser
 -  **Google+**:  https://plus.google.com/u/1/113268886471244843047
@@ -82,44 +79,44 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Elvis Presley <http://www.last.fm/search?q=Elvis+Presley>`__
--  **Música:** `Johnny Cash <http://www.last.fm/search?q=Johnny+Cash>`__
--  **Música:** `Bee Gees <http://www.last.fm/search?q=Bee+Gees>`__
--  **Música:** `Black Sabath <http://www.last.fm/search?q=Black+Sabath>`__
--  **Música:** `Deep Purple <http://www.last.fm/search?q=Deep+Purple>`__
--  **Filmes:** `De volta para o futuro <http://www.imdb.com/find?s=all&q=De+volta+para+o+futuro>`__
--  **Filmes:** `Círculo de fogo <http://www.imdb.com/find?s=all&q=Círculo+de+fogo>`__
--  **Livros:** `Stalingrado Cerco Fatal <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Stalingrado+Cerco+Fatal>`__
--  **Livros:** `Portões de Fogo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Portões+de+Fogo>`__
--  **Livros:** `Jorge Amado <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jorge+Amado>`__
+-  **Música:** `Elvis Presley`_
+-  **Música:** `Johnny Cash`_
+-  **Música:** `Bee Gees`_
+-  **Música:** `Black Sabath`_
+-  **Música:** `Deep Purple`_
+-  **Filmes:** `De volta para o futuro`_
+-  **Filmes:** `Círculo de fogo`_
+-  **Livros:** `Stalingrado Cerco Fatal`_
+-  **Livros:** `Portões de Fogo`_
+-  **Livros:** `Jorge Amado`_
 
 Links
 -----
--  `Ubuntu Brasil <https://duckduckgo.com/?q=Ubuntu+Brasil>`__
--  `Kalango Linux <https://duckduckgo.com/?q=Kalango+Linux>`__
--  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
--  `Emerson Soares <https://duckduckgo.com/?q=Emerson+Soares>`__
--  `Raphael Higino <https://duckduckgo.com/?q=Raphael+Higino>`__
--  `Projeto GNOME <https://duckduckgo.com/?q=Projeto+GNOME>`__
--  `Chave GPG <https://duckduckgo.com/?q=Chave+GPG>`__
--  `Mário Meyer <https://duckduckgo.com/?q=Mário+Meyer>`__
--  `Paulino Michelazzo <https://duckduckgo.com/?q=Paulino+Michelazzo>`__
--  `Rodrigo Belém <https://duckduckgo.com/?q=Rodrigo+Belém>`__
--  `Planeta Ubuntu Brasil <https://duckduckgo.com/?q=Planeta+Ubuntu+Brasil>`__
--  `Ian Laurence <https://duckduckgo.com/?q=Ian+Laurence>`__
--  `Lício Fonseca <https://duckduckgo.com/?q=Lício+Fonseca>`__
--  `Duda Nogueira <https://duckduckgo.com/?q=Duda+Nogueira>`__
--  `Jonh Wendell <https://duckduckgo.com/?q=Jonh+Wendell>`__
--  `André Noel <https://duckduckgo.com/?q=André+Noel>`__
--  `Ricardo Cropalato <https://duckduckgo.com/?q=Ricardo+Cropalato>`__
--  `Alexandre Silva <https://duckduckgo.com/?q=Alexandre+Silva>`__
--  `Ubuntu Bahía <https://duckduckgo.com/?q=Ubuntu+Bahía>`__
--  `André Gondim <https://duckduckgo.com/?q=André+Gondim>`__
--  `Thiago Hillebrandt <https://duckduckgo.com/?q=Thiago+Hillebrandt>`__
--  `Ayrton Araújo <https://duckduckgo.com/?q=Ayrton+Araújo>`__
--  `Canonical <https://duckduckgo.com/?q=Canonical>`__
--  `Elvis Presley <https://duckduckgo.com/?q=Elvis+Presley>`__
--  `Coringão <https://duckduckgo.com/?q=Coringão>`__
+-  `Ubuntu Brasil`_
+-  `Kalango Linux`_
+-  `Ubuntu Linux`_
+-  `Emerson Soares`_
+-  `Raphael Higino`_
+-  `Projeto GNOME`_
+-  `Chave GPG`_
+-  `Mário Meyer`_
+-  `Paulino Michelazzo`_
+-  `Rodrigo Belém (DuckDuckGo)`_
+-  `Planeta Ubuntu Brasil`_
+-  `Ian Laurence`_
+-  `Lício Fonseca`_
+-  `Duda Nogueira`_
+-  `Jonh Wendell`_
+-  `André Noel`_
+-  `Ricardo Cropalato`_
+-  `Alexandre Silva`_
+-  `Ubuntu Bahía`_
+-  `André Gondim`_
+-  `Thiago Hillebrandt`_
+-  `Ayrton Araújo`_
+-  `Canonical`_
+-  `Elvis Presley (DuckDuckGo)`_
+-  `Coringão`_
 
 .. class:: panel-body bg-info
 
@@ -128,3 +125,41 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _vídeo: http://www.youtube.com/watch?v=Dgf8Bvn8tYI
+.. _Rodrigo Belém: http://www.castalio.info/rodrigo-belem-ubuntu-brasil/
+.. _http://blog.fnogueira.com.br: http://blog.fnogueira.com.br/
+.. _Elvis Presley: http://www.last.fm/search?q=Elvis+Presley
+.. _Johnny Cash: http://www.last.fm/search?q=Johnny+Cash
+.. _Bee Gees: http://www.last.fm/search?q=Bee+Gees
+.. _Black Sabath: http://www.last.fm/search?q=Black+Sabath
+.. _Deep Purple: http://www.last.fm/search?q=Deep+Purple
+.. _De volta para o futuro: http://www.imdb.com/find?s=all&q=De+volta+para+o+futuro
+.. _Círculo de fogo: http://www.imdb.com/find?s=all&q=Círculo+de+fogo
+.. _Stalingrado Cerco Fatal: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Stalingrado+Cerco+Fatal
+.. _Portões de Fogo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Portões+de+Fogo
+.. _Jorge Amado: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jorge+Amado
+.. _Ubuntu Brasil: https://duckduckgo.com/?q=Ubuntu+Brasil
+.. _Kalango Linux: https://duckduckgo.com/?q=Kalango+Linux
+.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
+.. _Emerson Soares: https://duckduckgo.com/?q=Emerson+Soares
+.. _Raphael Higino: https://duckduckgo.com/?q=Raphael+Higino
+.. _Projeto GNOME: https://duckduckgo.com/?q=Projeto+GNOME
+.. _Chave GPG: https://duckduckgo.com/?q=Chave+GPG
+.. _Mário Meyer: https://duckduckgo.com/?q=Mário+Meyer
+.. _Paulino Michelazzo: https://duckduckgo.com/?q=Paulino+Michelazzo
+.. _Rodrigo Belém (DuckDuckGo): https://duckduckgo.com/?q=Rodrigo+Belém
+.. _Planeta Ubuntu Brasil: https://duckduckgo.com/?q=Planeta+Ubuntu+Brasil
+.. _Ian Laurence: https://duckduckgo.com/?q=Ian+Laurence
+.. _Lício Fonseca: https://duckduckgo.com/?q=Lício+Fonseca
+.. _Duda Nogueira: https://duckduckgo.com/?q=Duda+Nogueira
+.. _Jonh Wendell: https://duckduckgo.com/?q=Jonh+Wendell
+.. _André Noel: https://duckduckgo.com/?q=André+Noel
+.. _Ricardo Cropalato: https://duckduckgo.com/?q=Ricardo+Cropalato
+.. _Alexandre Silva: https://duckduckgo.com/?q=Alexandre+Silva
+.. _Ubuntu Bahía: https://duckduckgo.com/?q=Ubuntu+Bahía
+.. _André Gondim: https://duckduckgo.com/?q=André+Gondim
+.. _Thiago Hillebrandt: https://duckduckgo.com/?q=Thiago+Hillebrandt
+.. _Ayrton Araújo: https://duckduckgo.com/?q=Ayrton+Araújo
+.. _Canonical: https://duckduckgo.com/?q=Canonical
+.. _Elvis Presley (DuckDuckGo): https://duckduckgo.com/?q=Elvis+Presley
+.. _Coringão: https://duckduckgo.com/?q=Coringão

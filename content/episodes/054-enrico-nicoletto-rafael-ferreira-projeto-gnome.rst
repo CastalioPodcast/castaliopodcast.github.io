@@ -26,22 +26,19 @@ super legal com o Enrico e Rafael sobre como todo o processo de
 traduções, desde como eles entraram para a equipe oficial, até como
 chegaram a ser os administradores da equipe brasileira.
 
-O episódio todo ficou com um pouco mais de 30 minutos, mas para quem
-quizer assistir o `vídeo <http://bit.ly/136X3jF>`__ vocês poderão
-escutar sobre outros temas que acabaram ficando de fora na hora da
-edição (devido ao tamanho final do podcast), como seus planos para o
-futuro da equipe.
+O episódio todo ficou com um pouco mais de 30 minutos, mas para quem quizer
+assistir o `vídeo`_ vocês poderão escutar sobre outros temas que acabaram
+ficando de fora na hora da edição (devido ao tamanho final do podcast), como
+seus planos para o futuro da equipe.
 
 .. more
 
-Aproveito a oportunidade para agradecer todo o apoio que tenho recebido
-nestes últimos meses, especialmente de vocês que continuam acompanhando
-o podcast e a todo o pessoal do
-`OpenCast <http://www.ubuntero.com.br/>`__ e `Papo de
-Buteco <http://papodebuteco.net/>`__! Minha vida profissional passou por
-algumas alterações (positivas) e infelizmente meu tempo livre sofreu
-bastante, mas pretendo continuar publicando outros episódios, mas talvez
-com menos frequência.
+Aproveito a oportunidade para agradecer todo o apoio que tenho recebido nestes
+últimos meses, especialmente de vocês que continuam acompanhando o podcast
+e a todo o pessoal do `OpenCast`_ e `Papo de Buteco`_! Minha vida
+profissional passou por algumas alterações (positivas) e infelizmente meu tempo
+livre sofreu bastante, mas pretendo continuar publicando outros episódios, mas
+talvez com menos frequência.
 
 Escute Agora
 ------------
@@ -53,69 +50,69 @@ Contato
 -  **Equipe GNOME Brasil**: https://l10n.gnome.org/teams/pt_BR/
 -  **Google+**: https://plus.google.com/u/0/103658771112274596272/about
 -  **Twitter**: https://twitter.com/exawarrior
--  **Linkedin**: `br.linkedin.com/pub/dir/Enrico/Nicoletto <http://br.linkedin.com/pub/dir/Enrico/Nicoletto>`__
+-  **Linkedin**: `br.linkedin.com/pub/dir/Enrico/Nicoletto`_
 
 Top 5
 -----
--  **Música:** `The Strokes <http://www.last.fm/search?q=The+Strokes>`__
--  **Música:** `Arcade Fire <http://www.last.fm/search?q=Arcade+Fire>`__
--  **Música:** `Fala Mansa <http://www.last.fm/search?q=Fala+Mansa>`__
--  **Música:** `Quatro por Um <http://www.last.fm/search?q=Quatro+por+Um>`__
--  **Música:** `Fernandinho <http://www.last.fm/search?q=Fernandinho>`__
--  **Música:** `Bryan Adams <http://www.last.fm/search?q=Bryan+Adams>`__
--  **Música:** `Bon Jovi <http://www.last.fm/search?q=Bon+Jovi>`__
--  **Música:** `Stratovarius <http://www.last.fm/search?q=Stratovarius>`__
--  **Filmes:** `Tio Nino <http://www.imdb.com/find?s=all&q=Tio+Nino>`__
--  **Filmes:** `Uma Professora Muito Maluquinha <http://www.imdb.com/find?s=all&q=Uma+Professora+Muito+Maluquinha>`__
--  **Filmes:** `El Estudiante <http://www.imdb.com/find?s=all&q=El+Estudiante>`__
--  **Filmes:** `War Games <http://www.imdb.com/find?s=all&q=War+Games>`__
--  **Filmes:** `Blankman <http://www.imdb.com/find?s=all&q=Blankman>`__
--  **Filmes:** `Total Recall <http://www.imdb.com/find?s=all&q=Total+Recall>`__
--  **Filmes:** `Lawless <http://www.imdb.com/find?s=all&q=Lawless>`__
--  **Filmes:** `Ghost in the Shell <http://www.imdb.com/find?s=all&q=Ghost+in+the+Shell>`__
--  **Filmes:** `Trance <http://www.imdb.com/find?s=all&q=Trance>`__
--  **Filmes:** `Sexto Sentido <http://www.imdb.com/find?s=all&q=Sexto+Sentido>`__
--  **Livros:** `Biblia Sagrada <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Biblia+Sagrada>`__
--  **Livros:** `Deus Tem Um Plano Para Voce <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus+Tem+Um+Plano+Para+Voce>`__
--  **Livros:** `Laugh and learn : 95 ways to use humor for more effective teaching and training <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Laugh+and+learn+:+95+ways+to+use+humor+for+more+effective+teaching+and+training>`__
--  **Livros:** `How Things Work Encyclopedia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=How+Things+Work+Encyclopedia>`__
--  **Livros:** `Sagarana <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sagarana>`__
--  **Livros:** `O Hobbit <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit>`__
--  **Livros:** `Harry Potter <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Harry+Potter>`__
--  **Software:** `poEdit <https://duckduckgo.com/?q=poEdit>`__
--  **Software:** `Gedit <https://duckduckgo.com/?q=Gedit>`__
--  **Software:** `Open-Tran <https://duckduckgo.com/?q=Open-Tran>`__
--  **Software:** `Meld <https://duckduckgo.com/?q=Meld>`__
--  **Software:** `Decker <https://duckduckgo.com/?q=Decker>`__
--  **Software:** `Damned Lies <https://duckduckgo.com/?q=Damned+Lies>`__
--  **Software:** `Transifex <https://duckduckgo.com/?q=Transifex>`__
--  **Software:** `Launchpad <https://duckduckgo.com/?q=Launchpad>`__
--  **Software:** `Translation Toolkit <https://duckduckgo.com/?q=Translation+Toolkit>`__
--  **Software:** `Notepad++ <https://duckduckgo.com/?q=Notepad++>`__
--  **Software:** `Media Player Classic <https://duckduckgo.com/?q=Media+Player+Classic>`__
--  **Software:** `Cliente de e-mail Thunderbird <https://duckduckgo.com/?q=Cliente+de+e-mail+Thunderbird>`__
--  **Software:** `Audacity <https://duckduckgo.com/?q=Audacity>`__
--  **Software:** `Kalibre <https://duckduckgo.com/?q=Kalibre>`__
--  **Software:** `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__
--  **Software:** `Google Chrome <https://duckduckgo.com/?q=Google+Chrome>`__
--  **Software:** `GNOME Terminal <https://duckduckgo.com/?q=GNOME+Terminal>`__
--  **Software:** `Libre Office <https://duckduckgo.com/?q=Libre+Office>`__
--  **Software:** `GOM Player <https://duckduckgo.com/?q=GOM+Player>`__
+-  **Música:** `The Strokes`_
+-  **Música:** `Arcade Fire`_
+-  **Música:** `Fala Mansa`_
+-  **Música:** `Quatro por Um`_
+-  **Música:** `Fernandinho`_
+-  **Música:** `Bryan Adams`_
+-  **Música:** `Bon Jovi`_
+-  **Música:** `Stratovarius`_
+-  **Filmes:** `Tio Nino`_
+-  **Filmes:** `Uma Professora Muito Maluquinha`_
+-  **Filmes:** `El Estudiante`_
+-  **Filmes:** `War Games`_
+-  **Filmes:** `Blankman`_
+-  **Filmes:** `Total Recall`_
+-  **Filmes:** `Lawless`_
+-  **Filmes:** `Ghost in the Shell`_
+-  **Filmes:** `Trance`_
+-  **Filmes:** `Sexto Sentido`_
+-  **Livros:** `Biblia Sagrada`_
+-  **Livros:** `Deus Tem Um Plano Para Voce`_
+-  **Livros:** `Laugh and learn - 95 ways to use humor for more effective teaching and training`_
+-  **Livros:** `How Things Work Encyclopedia`_
+-  **Livros:** `Sagarana`_
+-  **Livros:** `O Hobbit`_
+-  **Livros:** `Harry Potter`_
+-  **Software:** `poEdit`_
+-  **Software:** `Gedit`_
+-  **Software:** `Open-Tran`_
+-  **Software:** `Meld`_
+-  **Software:** `Decker`_
+-  **Software:** `Damned Lies`_
+-  **Software:** `Transifex`_
+-  **Software:** `Launchpad`_
+-  **Software:** `Translation Toolkit`_
+-  **Software:** `Notepad++`_
+-  **Software:** `Media Player Classic`_
+-  **Software:** `Cliente de e-mail Thunderbird`_
+-  **Software:** `Audacity`_
+-  **Software:** `Kalibre`_
+-  **Software:** `Ruby on Rails`_
+-  **Software:** `Google Chrome`_
+-  **Software:** `GNOME Terminal`_
+-  **Software:** `Libre Office`_
+-  **Software:** `GOM Player`_
 
 Links
 -----
--  `Projeto GNOME <https://duckduckgo.com/?q=Projeto+GNOME>`__
--  `Damned Lies <https://duckduckgo.com/?q=Damned+Lies>`__
--  `Open-Tran <https://duckduckgo.com/?q=Open-Tran>`__
--  `LDP <https://duckduckgo.com/?q=LDP>`__
--  `Leslie Watter <https://duckduckgo.com/?q=Leslie+Watter>`__
--  `GNOME Bugzilla <https://duckduckgo.com/?q=GNOME+Bugzilla>`__
--  `Projeto KDE <https://duckduckgo.com/?q=Projeto+KDE>`__
--  `C++ <https://duckduckgo.com/?q=C++>`__
--  `Vala <https://duckduckgo.com/?q=Vala>`__
--  `Arch Linux <https://duckduckgo.com/?q=Arch+Linux>`__
--  `Papo de Buteco <https://duckduckgo.com/?q=Papo+de+Buteco>`__
--  `Open Cast <https://duckduckgo.com/?q=Open+Cast>`__
+-  `Projeto GNOME`_
+-  `Damned Lies`_
+-  `Open-Tran`_
+-  `LDP`_
+-  `Leslie Watter`_
+-  `GNOME Bugzilla`_
+-  `Projeto KDE`_
+-  `C++`_
+-  `Vala`_
+-  `Arch Linux`_
+-  `Papo de Buteco (DuckDuckGo)`_
+-  `Open Cast`_
 
 .. class:: panel-body bg-info
 
@@ -124,3 +121,63 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _vídeo: http://bit.ly/136X3jF
+.. _OpenCast: http://www.ubuntero.com.br/
+.. _br.linkedin.com/pub/dir/Enrico/Nicoletto: http://br.linkedin.com/pub/dir/Enrico/Nicoletto
+.. _The Strokes: http://www.last.fm/search?q=The+Strokes
+.. _Arcade Fire: http://www.last.fm/search?q=Arcade+Fire
+.. _Fala Mansa: http://www.last.fm/search?q=Fala+Mansa
+.. _Quatro por Um: http://www.last.fm/search?q=Quatro+por+Um
+.. _Fernandinho: http://www.last.fm/search?q=Fernandinho
+.. _Bryan Adams: http://www.last.fm/search?q=Bryan+Adams
+.. _Bon Jovi: http://www.last.fm/search?q=Bon+Jovi
+.. _Stratovarius: http://www.last.fm/search?q=Stratovarius
+.. _Tio Nino: http://www.imdb.com/find?s=all&q=Tio+Nino
+.. _Uma Professora Muito Maluquinha: http://www.imdb.com/find?s=all&q=Uma+Professora+Muito+Maluquinha
+.. _El Estudiante: http://www.imdb.com/find?s=all&q=El+Estudiante
+.. _War Games: http://www.imdb.com/find?s=all&q=War+Games
+.. _Blankman: http://www.imdb.com/find?s=all&q=Blankman
+.. _Total Recall: http://www.imdb.com/find?s=all&q=Total+Recall
+.. _Lawless: http://www.imdb.com/find?s=all&q=Lawless
+.. _Ghost in the Shell: http://www.imdb.com/find?s=all&q=Ghost+in+the+Shell
+.. _Trance: http://www.imdb.com/find?s=all&q=Trance
+.. _Sexto Sentido: http://www.imdb.com/find?s=all&q=Sexto+Sentido
+.. _Biblia Sagrada: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Biblia+Sagrada
+.. _Deus Tem Um Plano Para Voce: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus+Tem+Um+Plano+Para+Voce
+.. _Laugh and learn - 95 ways to use humor for more effective teaching and training: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Laugh+and+learn+:+95+ways+to+use+humor+for+more+effective+teaching+and+training
+.. _How Things Work Encyclopedia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=How+Things+Work+Encyclopedia
+.. _Sagarana: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sagarana
+.. _O Hobbit: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit
+.. _Harry Potter: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Harry+Potter
+.. _poEdit: https://duckduckgo.com/?q=poEdit
+.. _Gedit: https://duckduckgo.com/?q=Gedit
+.. _Open-Tran: https://duckduckgo.com/?q=Open-Tran
+.. _Meld: https://duckduckgo.com/?q=Meld
+.. _Decker: https://duckduckgo.com/?q=Decker
+.. _Damned Lies: https://duckduckgo.com/?q=Damned+Lies
+.. _Transifex: https://duckduckgo.com/?q=Transifex
+.. _Launchpad: https://duckduckgo.com/?q=Launchpad
+.. _Translation Toolkit: https://duckduckgo.com/?q=Translation+Toolkit
+.. _Notepad++: https://duckduckgo.com/?q=Notepad++
+.. _Media Player Classic: https://duckduckgo.com/?q=Media+Player+Classic
+.. _Cliente de e-mail Thunderbird: https://duckduckgo.com/?q=Cliente+de+e-mail+Thunderbird
+.. _Audacity: https://duckduckgo.com/?q=Audacity
+.. _Kalibre: https://duckduckgo.com/?q=Kalibre
+.. _Ruby on Rails: https://duckduckgo.com/?q=Ruby+on+Rails
+.. _Google Chrome: https://duckduckgo.com/?q=Google+Chrome
+.. _GNOME Terminal: https://duckduckgo.com/?q=GNOME+Terminal
+.. _Libre Office: https://duckduckgo.com/?q=Libre+Office
+.. _GOM Player: https://duckduckgo.com/?q=GOM+Player
+.. _Projeto GNOME: https://duckduckgo.com/?q=Projeto+GNOME
+.. _Damned Lies: https://duckduckgo.com/?q=Damned+Lies
+.. _Open-Tran: https://duckduckgo.com/?q=Open-Tran
+.. _LDP: https://duckduckgo.com/?q=LDP
+.. _Leslie Watter: https://duckduckgo.com/?q=Leslie+Watter
+.. _GNOME Bugzilla: https://duckduckgo.com/?q=GNOME+Bugzilla
+.. _Projeto KDE: https://duckduckgo.com/?q=Projeto+KDE
+.. _C++: https://duckduckgo.com/?q=C++
+.. _Vala: https://duckduckgo.com/?q=Vala
+.. _Arch Linux: https://duckduckgo.com/?q=Arch+Linux
+.. _Papo de Buteco (DuckDuckGo): https://duckduckgo.com/?q=Papo+de+Buteco
+.. _Open Cast: https://duckduckgo.com/?q=Open+Cast
+.. _Papo de Buteco: http://papodebuteco.net/

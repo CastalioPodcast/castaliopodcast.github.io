@@ -73,13 +73,22 @@ Top 5
 -  **Televisão/Filmes**: Toy Story
 -  **Livros**: Quadrinhos e revistas de informática
 -  **Livros**: José Saramago
--  **Pessoas/Sites**: `BR-Linux <http://br-linux.org/>`__
--  **Pessoas/Sites**: Blog do `Diego Búrigo Zacarão <http://diegobz.net/>`__
--  **Pessoas/Sites**: `OS News <http://www.osnews.com/>`__
--  **Pessoas/Sites**: `Linux Forums <http://www.linuxforums.org/>`__
+-  **Pessoas/Sites**: `BR-Linux`_
+-  **Pessoas/Sites**: Blog do `Diego Búrigo Zacarão`_
+-  **Pessoas/Sites**: `OS News`_
+-  **Pessoas/Sites**: `Linux Forums`_
 
 Links
 -----
--  `Transifex <http://transifex.net>`__
--  `Smolt <https://secure.wikimedia.org/wikipedia/en/wiki/Smolt_(Linux)>`__ (sistema de pesquisas de hardware)
--  `FUDCon <http://fedoraproject.org/wiki/FUDCon>`__
+-  `Transifex`_
+-  `Smolt`_ (sistema de pesquisas de hardware)
+-  `FUDCon`_
+
+
+.. _BR-Linux: http://br-linux.org/
+.. _Diego Búrigo Zacarão: http://diegobz.net/
+.. _OS News: http://www.osnews.com/
+.. _Linux Forums: http://www.linuxforums.org/
+.. _Transifex: http://transifex.net
+.. _Smolt: https://secure.wikimedia.org/wikipedia/en/wiki/Smolt_(Linux)
+.. _FUDCon: http://fedoraproject.org/wiki/FUDCon

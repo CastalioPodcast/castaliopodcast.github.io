@@ -48,51 +48,95 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Nina Simone <http://www.last.fm/search?q=Nina+Simone>`__
--  **Música:** `Frank Sinatra <http://www.last.fm/search?q=Frank+Sinatra>`__
--  **Filmes:** `The Shawshank Redemption <http://www.imdb.com/find?s=all&q=The+Shawshank+Redemption>`__
--  **Livros:** `Pot-Limit Omaha Poker <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pot-Limit+Omaha+Poker>`__
--  **Livros:** `Advanced Pot-Limit Omaha: Small Ball and Short-Handed Play <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Advanced+Pot-Limit+OmahaÇ+Small+Ball+and+Short-Handed+Play>`__
+-  **Música:** `Nina Simone`_
+-  **Música:** `Frank Sinatra`_
+-  **Filmes:** `The Shawshank Redemption`_
+-  **Livros:** `Pot-Limit Omaha Poker`_
+-  **Livros:** `Advanced Pot-Limit Omaha\: Small Ball and Short-Handed Play`_
 
 Links
 -----
--  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
--  `Canonical <https://duckduckgo.com/?q=Canonical>`__
--  `Ubuntu Developers Summit <https://duckduckgo.com/?q=Ubuntu+Developers+Summit>`__
--  `Mountain View <https://duckduckgo.com/?q=Mountain+View>`__
--  `Edubuntu <https://duckduckgo.com/?q=Edubuntu>`__
--  `GooglePlex <https://duckduckgo.com/?q=GooglePlex>`__
--  `Linux BR <https://duckduckgo.com/?q=Linux+BR>`__
--  `Arnaldo "pacman" <https://duckduckgo.com/?q=Arnaldo+>`__
--  `Parolin Linux <https://duckduckgo.com/?q=Parolin+Linux>`__
--  `MiniLinux <https://duckduckgo.com/?q=MiniLinux>`__
--  `DOS <https://duckduckgo.com/?q=DOS>`__
--  `GCC <https://duckduckgo.com/?q=GCC>`__
--  `Slackware Linux <https://duckduckgo.com/?q=Slackware+Linux>`__
--  `Red Hat Linux <https://duckduckgo.com/?q=Red+Hat+Linux>`__
--  `KDE <https://duckduckgo.com/?q=KDE>`__
--  `RPM <https://duckduckgo.com/?q=RPM>`__
--  `Midnight Commander <https://duckduckgo.com/?q=Midnight+Commander>`__
--  `Caldera Linux <https://duckduckgo.com/?q=Caldera+Linux>`__
--  `Caldera Graphical Installer <https://duckduckgo.com/?q=Caldera+Graphical+Installer>`__
--  `Qt <https://duckduckgo.com/?q=Qt>`__
--  `Anaconda Installer <https://duckduckgo.com/?q=Anaconda+Installer>`__
--  `CVS <https://duckduckgo.com/?q=CVS>`__
--  `NFS <https://duckduckgo.com/?q=NFS>`__
--  `TFTP <https://duckduckgo.com/?q=TFTP>`__
--  `Open Linux <https://duckduckgo.com/?q=Open+Linux>`__
--  `Silicon Valley <https://duckduckgo.com/?q=Silicon+Valley>`__
--  `Venture Capital <https://duckduckgo.com/?q=Venture+Capital>`__
--  `Mandrake Linux <https://duckduckgo.com/?q=Mandrake+Linux>`__
--  `Mandriva Linux <https://duckduckgo.com/?q=Mandriva+Linux>`__
--  `Universidade Federal de Santa Catarina <https://duckduckgo.com/?q=Universidade+Federal+de+Santa+Catarina>`__
--  `INDT <https://duckduckgo.com/?q=INDT>`__
--  `Livraria Saráiva <https://duckduckgo.com/?q=Livraria+Saráiva>`__
--  `IMDB.com <https://duckduckgo.com/?q=IMDB.com>`__
--  `Texas Holden Poker <https://duckduckgo.com/?q=Texas+Holden+Poker>`__
--  `Pot-Limit Omaha Poker <https://duckduckgo.com/?q=Pot-Limit+Omaha+Poker>`__
--  `Jeff Hwang <https://duckduckgo.com/?q=Jeff+Hwang>`__
+-  `Conectiva Linux`_
+-  `Canonical`_
+-  `Ubuntu Developers Summit`_
+-  `Mountain View`_
+-  `Edubuntu`_
+-  `GooglePlex`_
+-  `Linux BR`_
+-  `Arnaldo "pacman"`_
+-  `Parolin Linux`_
+-  `MiniLinux`_
+-  `DOS`_
+-  `GCC`_
+-  `Slackware Linux`_
+-  `Red Hat Linux`_
+-  `KDE`_
+-  `RPM`_
+-  `Midnight Commander`_
+-  `Caldera Linux`_
+-  `Caldera Graphical Installer`_
+-  `Qt`_
+-  `Anaconda Installer`_
+-  `CVS`_
+-  `NFS`_
+-  `TFTP`_
+-  `Open Linux`_
+-  `Silicon Valley`_
+-  `Venture Capital`_
+-  `Mandrake Linux`_
+-  `Mandriva Linux`_
+-  `Universidade Federal de Santa Catarina`_
+-  `INDT`_
+-  `Livraria Saráiva`_
+-  `IMDB.com`_
+-  `Texas Holden Poker`_
+-  `Pot-Limit Omaha Poker (DuckDuckGo)`_
+-  `Jeff Hwang`_
 
 .. class:: panel-body bg-info
 
-        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+        **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
+
+.. _Nina Simone: http://www.last.fm/search?q=Nina+Simone
+.. _Frank Sinatra: http://www.last.fm/search?q=Frank+Sinatra
+.. _The Shawshank Redemption: http://www.imdb.com/find?s=all&q=The+Shawshank+Redemption
+.. _Pot-Limit Omaha Poker: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pot-Limit+Omaha+Poker
+.. _Advanced Pot-Limit Omaha\: Small Ball and Short-Handed Play: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Advanced+Pot-Limit+OmahaÇ+Small+Ball+and+Short-Handed+Play
+.. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux
+.. _Canonical: https://duckduckgo.com/?q=Canonical
+.. _Ubuntu Developers Summit: https://duckduckgo.com/?q=Ubuntu+Developers+Summit
+.. _Mountain View: https://duckduckgo.com/?q=Mountain+View
+.. _Edubuntu: https://duckduckgo.com/?q=Edubuntu
+.. _GooglePlex: https://duckduckgo.com/?q=GooglePlex
+.. _Linux BR: https://duckduckgo.com/?q=Linux+BR
+.. _Arnaldo "pacman": https://duckduckgo.com/?q=Arnaldo+
+.. _Parolin Linux: https://duckduckgo.com/?q=Parolin+Linux
+.. _MiniLinux: https://duckduckgo.com/?q=MiniLinux
+.. _DOS: https://duckduckgo.com/?q=DOS
+.. _GCC: https://duckduckgo.com/?q=GCC
+.. _Slackware Linux: https://duckduckgo.com/?q=Slackware+Linux
+.. _Red Hat Linux: https://duckduckgo.com/?q=Red+Hat+Linux
+.. _KDE: https://duckduckgo.com/?q=KDE
+.. _RPM: https://duckduckgo.com/?q=RPM
+.. _Midnight Commander: https://duckduckgo.com/?q=Midnight+Commander
+.. _Caldera Linux: https://duckduckgo.com/?q=Caldera+Linux
+.. _Caldera Graphical Installer: https://duckduckgo.com/?q=Caldera+Graphical+Installer
+.. _Qt: https://duckduckgo.com/?q=Qt
+.. _Anaconda Installer: https://duckduckgo.com/?q=Anaconda+Installer
+.. _CVS: https://duckduckgo.com/?q=CVS
+.. _NFS: https://duckduckgo.com/?q=NFS
+.. _TFTP: https://duckduckgo.com/?q=TFTP
+.. _Open Linux: https://duckduckgo.com/?q=Open+Linux
+.. _Silicon Valley: https://duckduckgo.com/?q=Silicon+Valley
+.. _Venture Capital: https://duckduckgo.com/?q=Venture+Capital
+.. _Mandrake Linux: https://duckduckgo.com/?q=Mandrake+Linux
+.. _Mandriva Linux: https://duckduckgo.com/?q=Mandriva+Linux
+.. _Universidade Federal de Santa Catarina: https://duckduckgo.com/?q=Universidade+Federal+de+Santa+Catarina
+.. _INDT: https://duckduckgo.com/?q=INDT
+.. _Livraria Saráiva: https://duckduckgo.com/?q=Livraria+Saráiva
+.. _IMDB.com: https://duckduckgo.com/?q=IMDB.com
+.. _Texas Holden Poker: https://duckduckgo.com/?q=Texas+Holden+Poker
+.. _Pot-Limit Omaha Poker (DuckDuckGo): https://duckduckgo.com/?q=Pot-Limit+Omaha+Poker
+.. _Jeff Hwang: https://duckduckgo.com/?q=Jeff+Hwang
+.. _Sunday Night Learning: http://soundcloud.com/clebertsuconic/sunday-night-lerning
+.. _Clebert Suconic: http://soundcloud.com/clebertsuconic

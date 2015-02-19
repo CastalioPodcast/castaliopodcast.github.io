@@ -11,17 +11,15 @@ Hugo Dória - Arch Linux
 
    Hugo Dória - Arch Linux
 
-O meu entrevistado de hoje é o `Hugo Dória <http://hdoria.com/>`__, que
-para mim foi por muito tempo sinônimo do `Arch
-Linux <http://www.archlinux.org/>`__ no Brasil. Durante nosso bate-papo
-conversamos sobre sua história pelo Arch, alguns dos seus projetos de
-segurança e alerta de atualizações, e como que ele deixou de querer ser
-um \ **hacker**, invadir a **NASA** e **FBI**, e acabou se
-especializando em segurança de sistemas! Também conversamos sobre a
-emoção de ser pai pela primeira vez, como que funciona o **Tribunal de
-Justiça de Sergipe**, o processo para iniciar a sua startup chamada
-`POPCode <http://www.popcode.com.br/>`__, gostando de música a partir do
-joguinho **Rock N' Roll Racing**, e é claro seu **Top 5**!!!
+O meu entrevistado de hoje é o `Hugo Dória`_, que para mim foi por muito tempo
+sinônimo do `Arch Linux`_ no Brasil. Durante nosso bate-papo conversamos sobre
+sua história pelo Arch, alguns dos seus projetos de segurança e alerta de
+atualizações, e como que ele deixou de querer ser um \ **hacker**, invadir
+a **NASA** e **FBI**, e acabou se especializando em segurança de sistemas!
+Também conversamos sobre a emoção de ser pai pela primeira vez, como que
+funciona o **Tribunal de Justiça de Sergipe**, o processo para iniciar a sua
+startup chamada `POPCode`_, gostando de música a partir do joguinho **Rock N'
+Roll Racing**, e é claro seu **Top 5**!!!
 
 Escute Agora
 ------------
@@ -74,13 +72,27 @@ Top 5
 -  **Filme**: Samurai X
 -  **Filmes**: Dragon Ball
 -  **Filmes**: Cavaleiros do Zodíaco
--  **Pessoas/Web Site**: agregador de notícias `Planeta GNU/Linux Brasil <http://planeta.gnulinuxbrasil.org/>`__
--  **Pessoas/Web Site**: `BR-Linux <http://br-linux.org/>`__, `BR-Mac <http://br-mac.org/>`__ do **Augusto Campos**
+-  **Pessoas/Web Site**: agregador de notícias `Planeta GNU/Linux Brasil`_
+-  **Pessoas/Web Site**: `BR-Linux`_, `BR-Mac`_ do **Augusto Campos**
 
 Links
 -----
--  `HnTool <http://code.google.com/p/hntool/>`__
--  `pacupdate <https://code.google.com/p/pacupdate/>`__
--  `Arch Sheriff <http://www.mail-archive.com/aur-general@archlinux.org/msg01001.html>`__
--  `POPCode <http://www.popcode.com.br/>`__ (`fotos <https://picasaweb.google.com/hugodoria/Popcode#>`__)
--  `Rock and Roll Racing <https://secure.wikimedia.org/wikipedia/pt/wiki/Rock_%26_Roll_Racing>`__
+-  `HnTool`_
+-  `pacupdate`_
+-  `Arch Sheriff`_
+-  `POPCode`_ (`fotos`_)
+-  `Rock and Roll Racing`_
+
+
+.. _Hugo Dória: http://hdoria.com/
+.. _Arch Linux: http://www.archlinux.org/
+.. _POPCode: http://www.popcode.com.br/
+.. _Planeta GNU/Linux Brasil: http://planeta.gnulinuxbrasil.org/
+.. _BR-Linux: http://br-linux.org/
+.. _HnTool: http://code.google.com/p/hntool/
+.. _BR-Mac: http://br-mac.org/
+.. _pacupdate: https://code.google.com/p/pacupdate/
+.. _Arch Sheriff: http://www.mail-archive.com/aur-general@archlinux.org/msg01001.html
+.. _POPCode: http://www.popcode.com.br/
+.. _Rock and Roll Racing: https://secure.wikimedia.org/wikipedia/pt/wiki/Rock_%26_Roll_Racing
+.. _fotos: https://picasaweb.google.com/hugodoria/Popcode#

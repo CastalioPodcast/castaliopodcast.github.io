@@ -62,64 +62,64 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Daft Punk <http://www.last.fm/search?q=Daft+Punk>`__
--  **Música:** `Four Tet <http://www.last.fm/search?q=Four+Tet>`__
--  **Música:** `Justice <http://www.last.fm/search?q=Justice>`__
--  **Música:** `Kraftwerk <http://www.last.fm/search?q=Kraftwerk>`__
--  **Música:** `Pat Metheny Group <http://www.last.fm/search?q=Pat+Metheny+Group>`__
--  **Música:** `Royksopp <http://www.last.fm/search?q=Royksopp>`__
--  **Música:** `Penguin Cafe Orchestra <http://www.last.fm/search?q=Penguin+Cafe+Orchestra>`__
--  **Música:** `Gotan Project <http://www.last.fm/search?q=Gotan+Project>`__
--  **Música:** `Tanghetto <http://www.last.fm/search?q=Tanghetto>`__
--  **Podcast:** `Grok Podcast <http://grokpodcast.com/>`__
--  **Podcast:** `NerdCast <http://jovemnerd.ig.com.br/categoria/nerdcast/>`__
--  **Podcast:** `Escriba Café <http://www.escribacafe.com/>`__
--  **Filmes:** `Howl's Moving Castle <http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle>`__
--  **Filmes:** `Game of Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
--  **Filmes:** `The Big Bang Theory <http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory>`__
--  **Filmes:** `The IT Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
--  **Filmes:** `Walking Dead <http://www.imdb.com/find?s=all&q=Walking+Dead>`__
--  **Livros:** `The Tipping Poing <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Tipping+Poing>`__
--  **Livros:** `Blink <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Blink>`__
--  **Livros:** `Outliers <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Outliers>`__
--  **Livros:** `Drive <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive>`__
+-  **Música:** `Daft Punk`_
+-  **Música:** `Four Tet`_
+-  **Música:** `Justice`_
+-  **Música:** `Kraftwerk`_
+-  **Música:** `Pat Metheny Group`_
+-  **Música:** `Royksopp`_
+-  **Música:** `Penguin Cafe Orchestra`_
+-  **Música:** `Gotan Project`_
+-  **Música:** `Tanghetto`_
+-  **Podcast:** `Grok Podcast`_
+-  **Podcast:** `NerdCast`_
+-  **Podcast:** `Escriba Café`_
+-  **Filmes:** `Howl's Moving Castle`_
+-  **Filmes:** `Game of Thrones`_
+-  **Filmes:** `The Big Bang Theory`_
+-  **Filmes:** `The IT Crowd`_
+-  **Filmes:** `Walking Dead`_
+-  **Livros:** `The Tipping Poing`_
+-  **Livros:** `Blink`_
+-  **Livros:** `Outliers`_
+-  **Livros:** `Drive`_
 
 Links
 -----
--  `JobScore <https://duckduckgo.com/?q=JobScore>`__
--  `Ubuntu Brasil <https://duckduckgo.com/?q=Ubuntu+Brasil>`__
--  `HTML <https://duckduckgo.com/?q=HTML>`__
--  `Cadê? <https://duckduckgo.com/?q=Cadê?>`__
--  `Linux <https://duckduckgo.com/?q=Linux>`__
--  `Windows <https://duckduckgo.com/?q=Windows>`__
--  `Javascript <https://duckduckgo.com/?q=Javascript>`__
--  `Programação Ruby <https://duckduckgo.com/?q=Programação+Ruby>`__
--  `Programação Python <https://duckduckgo.com/?q=Programação+Python>`__
--  `Professor Marco André <https://duckduckgo.com/?q=Professor+Marco+André>`__
--  `Programação PHP <https://duckduckgo.com/?q=Programação+PHP>`__
--  `Django <https://duckduckgo.com/?q=Django>`__
--  `TurboGears <https://duckduckgo.com/?q=TurboGears>`__
--  `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__
--  `FISL 2004 <https://duckduckgo.com/?q=FISL+2004>`__
--  `Symphony <https://duckduckgo.com/?q=Symphony>`__
--  `Mato Grosso <https://duckduckgo.com/?q=Mato+Grosso>`__
--  `Rails BR <https://duckduckgo.com/?q=Rails+BR>`__
--  `Companhia Startup <https://duckduckgo.com/?q=Companhia+Startup>`__
--  `Job Board <https://duckduckgo.com/?q=Job+Board>`__
--  `QA <https://duckduckgo.com/?q=QA>`__
--  `Continuous Integration <https://duckduckgo.com/?q=Continuous+Integration>`__
--  `Heroku <https://duckduckgo.com/?q=Heroku>`__
--  `Henrique Bastos <https://duckduckgo.com/?q=Henrique+Bastos>`__
--  `Pedro Belo <https://duckduckgo.com/?q=Pedro+Belo>`__
--  `Fábio Kung <https://duckduckgo.com/?q=Fábio+Kung>`__
--  `Meetups <https://duckduckgo.com/?q=Meetups>`__
--  `Github Drinkup <https://duckduckgo.com/?q=Github+Drinkup>`__
--  `Github <https://duckduckgo.com/?q=Github>`__
--  `MongoDB <https://duckduckgo.com/?q=MongoDB>`__
--  `Instapaper <http://www.instapaper.com/>`__
--  `FlipBoard <http://flipboard.com/>`__
--  `HackerNews <http://news.ycombinator.com/>`__
--  `HackerNews Monthly <http://hackermonthly.com/>`__
+-  `JobScore`_
+-  `Ubuntu Brasil`_
+-  `HTML`_
+-  `Cadê?`_
+-  `Linux`_
+-  `Windows`_
+-  `Javascript`_
+-  `Programação Ruby`_
+-  `Programação Python`_
+-  `Professor Marco André`_
+-  `Programação PHP`_
+-  `Django`_
+-  `TurboGears`_
+-  `Ruby on Rails`_
+-  `FISL 2004`_
+-  `Symphony`_
+-  `Mato Grosso`_
+-  `Rails BR`_
+-  `Companhia Startup`_
+-  `Job Board`_
+-  `QA`_
+-  `Continuous Integration`_
+-  `Heroku`_
+-  `Henrique Bastos`_
+-  `Pedro Belo`_
+-  `Fábio Kung`_
+-  `Meetups`_
+-  `Github Drinkup`_
+-  `Github`_
+-  `MongoDB`_
+-  `Instapaper`_
+-  `FlipBoard`_
+-  `HackerNews`_
+-  `HackerNews Monthly`_
 
 .. class:: panel-body bg-info
 
@@ -128,3 +128,58 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Daft Punk: http://www.last.fm/search?q=Daft+Punk
+.. _Four Tet: http://www.last.fm/search?q=Four+Tet
+.. _Justice: http://www.last.fm/search?q=Justice
+.. _Kraftwerk: http://www.last.fm/search?q=Kraftwerk
+.. _Pat Metheny Group: http://www.last.fm/search?q=Pat+Metheny+Group
+.. _Royksopp: http://www.last.fm/search?q=Royksopp
+.. _Penguin Cafe Orchestra: http://www.last.fm/search?q=Penguin+Cafe+Orchestra
+.. _Gotan Project: http://www.last.fm/search?q=Gotan+Project
+.. _Tanghetto: http://www.last.fm/search?q=Tanghetto
+.. _Grok Podcast: http://grokpodcast.com/
+.. _NerdCast: http://jovemnerd.ig.com.br/categoria/nerdcast/
+.. _Escriba Café: http://www.escribacafe.com/
+.. _Howl's Moving Castle: http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle
+.. _Game of Thrones: http://www.imdb.com/find?s=all&q=Game+of+Thrones
+.. _The Big Bang Theory: http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory
+.. _The IT Crowd: http://www.imdb.com/find?s=all&q=The+IT+Crowd
+.. _Walking Dead: http://www.imdb.com/find?s=all&q=Walking+Dead
+.. _The Tipping Poing: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Tipping+Poing
+.. _Blink: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Blink
+.. _Outliers: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Outliers
+.. _Drive: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive
+.. _JobScore: https://duckduckgo.com/?q=JobScore
+.. _Ubuntu Brasil: https://duckduckgo.com/?q=Ubuntu+Brasil
+.. _HTML: https://duckduckgo.com/?q=HTML
+.. _Cadê?: https://duckduckgo.com/?q=Cadê?
+.. _Linux: https://duckduckgo.com/?q=Linux
+.. _Windows: https://duckduckgo.com/?q=Windows
+.. _Javascript: https://duckduckgo.com/?q=Javascript
+.. _Programação Ruby: https://duckduckgo.com/?q=Programação+Ruby
+.. _Programação Python: https://duckduckgo.com/?q=Programação+Python
+.. _Professor Marco André: https://duckduckgo.com/?q=Professor+Marco+André
+.. _Programação PHP: https://duckduckgo.com/?q=Programação+PHP
+.. _Django: https://duckduckgo.com/?q=Django
+.. _TurboGears: https://duckduckgo.com/?q=TurboGears
+.. _Ruby on Rails: https://duckduckgo.com/?q=Ruby+on+Rails
+.. _FISL 2004: https://duckduckgo.com/?q=FISL+2004
+.. _Symphony: https://duckduckgo.com/?q=Symphony
+.. _Mato Grosso: https://duckduckgo.com/?q=Mato+Grosso
+.. _Rails BR: https://duckduckgo.com/?q=Rails+BR
+.. _Companhia Startup: https://duckduckgo.com/?q=Companhia+Startup
+.. _Job Board: https://duckduckgo.com/?q=Job+Board
+.. _QA: https://duckduckgo.com/?q=QA
+.. _Continuous Integration: https://duckduckgo.com/?q=Continuous+Integration
+.. _Heroku: https://duckduckgo.com/?q=Heroku
+.. _Henrique Bastos: https://duckduckgo.com/?q=Henrique+Bastos
+.. _Pedro Belo: https://duckduckgo.com/?q=Pedro+Belo
+.. _Fábio Kung: https://duckduckgo.com/?q=Fábio+Kung
+.. _Meetups: https://duckduckgo.com/?q=Meetups
+.. _Github Drinkup: https://duckduckgo.com/?q=Github+Drinkup
+.. _Github: https://duckduckgo.com/?q=Github
+.. _MongoDB: https://duckduckgo.com/?q=MongoDB
+.. _Instapaper: http://www.instapaper.com/
+.. _FlipBoard: http://flipboard.com/
+.. _HackerNews: http://news.ycombinator.com/
+.. _HackerNews Monthly: http://hackermonthly.com/

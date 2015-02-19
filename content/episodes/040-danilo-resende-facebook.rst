@@ -11,11 +11,10 @@ Danilo Resende: Facebook
 
    Danilo Resende: Facebook
 
-Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez
-com uma novidade: uma participação especial do \ **Ivan Brasil Fuzzer**,
-criador e mantenedor do web site de dicas e tutoriais
- `Ubuntero <http://www.ubuntero.com.br>`__! Com uma conexão **Carolina
-do Norte** - **Rio Grande do Sul** - **Califórnia**, batemos um papo
+Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez com uma
+novidade: uma participação especial do **Ivan Brasil Fuzzer**, criador
+e mantenedor do web site de dicas e tutoriais  `Ubuntero`_! Com uma conexão
+**Carolina do Norte** - **Rio Grande do Sul** - **Califórnia**, batemos um papo
 muito legal com o **Danilo Resende** do **Facebook**!
 
 Durante nosso bate-papo, conversamos sobre como que o Danilo começou sua
@@ -30,7 +29,7 @@ A entrevista toda foi tambêm gravada pelo **Youtube** ao vivo e à cores,
 com participação de alguns ouvintes e até mesmo perguntas dos ouvintes e
 algumas falhas (que foram editadas no áudio hehehe). Assistam ao
 episódio
-`aqui <http://www.youtube.com/watch?v=4aYZTH93OMg&feature=plcp>`__!
+`aqui`_!
 
 Escute Agora
 ------------
@@ -59,40 +58,40 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Samba <http://www.last.fm/search?q=Samba>`__
--  **Música:** `Martinho da Vila <http://www.last.fm/search?q=Martinho+da+Vila>`__
--  **Música:** `Dominguinhos <http://www.last.fm/search?q=Dominguinhos>`__
--  **Música:** `Jack Johnson <http://www.last.fm/search?q=Jack+Johnson>`__
--  **Música:** `Ben Harper <http://www.last.fm/search?q=Ben+Harper>`__
--  **Música:** `Yamandu Costa <http://www.last.fm/search?q=Yamandu+Costa>`__
--  **Filmes:** `O Poderoso Chefão I <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+I>`__
--  **Filmes:** `O Poderoso Chefão II <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+II>`__
--  **Filmes:** `O Clube da Luta <http://www.imdb.com/find?s=all&q=O+Clube+da+Luta>`__
--  **Filmes:** `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
--  **Filmes:** `Amelie <http://www.imdb.com/find?s=all&q=Amelie>`__
--  **Livros:** `Introdução a Algorítimos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Introdução+a+Algorítimos>`__
--  **Livros:** `Programming Perl <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Perl>`__
--  **Livros:** `Zen, The Art of Motocycle Repair <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Zen,+The+Art+of+Motocycle+Repair>`__
--  **Livros:** `Pelejas de Ojuara, o Homem que Desafiou o Diabo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pelejas+de+Ojuara,+o+Homem+que+Desafiou+o+Diabo>`__
--  **Livros:** `The Visual Display of Quantitative Information <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Visual+Display+of+Quantitative+Information>`__
+-  **Música:** `Samba`_
+-  **Música:** `Martinho da Vila`_
+-  **Música:** `Dominguinhos`_
+-  **Música:** `Jack Johnson`_
+-  **Música:** `Ben Harper`_
+-  **Música:** `Yamandu Costa`_
+-  **Filmes:** `O Poderoso Chefão I`_
+-  **Filmes:** `O Poderoso Chefão II`_
+-  **Filmes:** `O Clube da Luta`_
+-  **Filmes:** `Inception`_
+-  **Filmes:** `Amelie`_
+-  **Livros:** `Introdução a Algorítimos`_
+-  **Livros:** `Programming Perl`_
+-  **Livros:** `Zen, The Art of Motocycle Repair`_
+-  **Livros:** `Pelejas de Ojuara, o Homem que Desafiou o Diabo`_
+-  **Livros:** `The Visual Display of Quantitative Information`_
 
 Links
 -----
--  `Ubuntero <https://duckduckgo.com/?q=Ubuntero>`__
--  `Youtube <https://duckduckgo.com/?q=Youtube>`__
--  `Facebook <https://duckduckgo.com/?q=Facebook>`__
--  `Universidade Federal de Campinas Grande <https://duckduckgo.com/?q=Universidade+Federal+de+Campinas+Grande>`__
--  `Non Disclosure Agreement <https://duckduckgo.com/?q=Non+Disclosure+Agreement>`__
--  `Sistema de Controle de Versão <https://duckduckgo.com/?q=Sistema+de+Controle+de+Versão>`__
--  `Javascript <https://duckduckgo.com/?q=Javascript>`__
--  `API <https://duckduckgo.com/?q=API>`__
--  `Vale do Silício <https://duckduckgo.com/?q=Vale+do+Silício>`__
--  `Flávio Ribeiro <https://duckduckgo.com/?q=Flávio+Ribeiro>`__
--  `Netflix <https://duckduckgo.com/?q=Netflix>`__
--  `Hackathon <https://duckduckgo.com/?q=Hackathon>`__
--  `A Rede Social <https://duckduckgo.com/?q=A+Rede+Social>`__
--  `Mark Zuckerberg <https://duckduckgo.com/?q=Mark+Zuckerberg>`__
--  `Skype <https://duckduckgo.com/?q=Skype>`__
+-  `Ubuntero (DuckDuckGo)`_
+-  `Youtube`_
+-  `Facebook`_
+-  `Universidade Federal de Campinas Grande`_
+-  `Non Disclosure Agreement`_
+-  `Sistema de Controle de Versão`_
+-  `Javascript`_
+-  `API`_
+-  `Vale do Silício`_
+-  `Flávio Ribeiro`_
+-  `Netflix`_
+-  `Hackathon`_
+-  `A Rede Social`_
+-  `Mark Zuckerberg`_
+-  `Skype`_
 
 .. class:: panel-body bg-info
 
@@ -101,3 +100,36 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Ubuntero: http://www.ubuntero.com.br
+.. _aqui: http://www.youtube.com/watch?v=4aYZTH93OMg&feature=plcp
+.. _Samba: http://www.last.fm/search?q=Samba
+.. _Martinho da Vila: http://www.last.fm/search?q=Martinho+da+Vila
+.. _Dominguinhos: http://www.last.fm/search?q=Dominguinhos
+.. _Jack Johnson: http://www.last.fm/search?q=Jack+Johnson
+.. _Ben Harper: http://www.last.fm/search?q=Ben+Harper
+.. _Yamandu Costa: http://www.last.fm/search?q=Yamandu+Costa
+.. _O Poderoso Chefão I: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+I
+.. _O Poderoso Chefão II: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+II
+.. _O Clube da Luta: http://www.imdb.com/find?s=all&q=O+Clube+da+Luta
+.. _Inception: http://www.imdb.com/find?s=all&q=Inception
+.. _Amelie: http://www.imdb.com/find?s=all&q=Amelie
+.. _Introdução a Algorítimos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Introdução+a+Algorítimos
+.. _Programming Perl: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Perl
+.. _Zen, The Art of Motocycle Repair: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Zen,+The+Art+of+Motocycle+Repair
+.. _Pelejas de Ojuara, o Homem que Desafiou o Diabo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pelejas+de+Ojuara,+o+Homem+que+Desafiou+o+Diabo
+.. _The Visual Display of Quantitative Information: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Visual+Display+of+Quantitative+Information
+.. _Ubuntero (DuckDuckGo): https://duckduckgo.com/?q=Ubuntero
+.. _Youtube: https://duckduckgo.com/?q=Youtube
+.. _Facebook: https://duckduckgo.com/?q=Facebook
+.. _Universidade Federal de Campinas Grande: https://duckduckgo.com/?q=Universidade+Federal+de+Campinas+Grande
+.. _Non Disclosure Agreement: https://duckduckgo.com/?q=Non+Disclosure+Agreement
+.. _Sistema de Controle de Versão: https://duckduckgo.com/?q=Sistema+de+Controle+de+Versão
+.. _Javascript: https://duckduckgo.com/?q=Javascript
+.. _API: https://duckduckgo.com/?q=API
+.. _Vale do Silício: https://duckduckgo.com/?q=Vale+do+Silício
+.. _Flávio Ribeiro: https://duckduckgo.com/?q=Flávio+Ribeiro
+.. _Netflix: https://duckduckgo.com/?q=Netflix
+.. _Hackathon: https://duckduckgo.com/?q=Hackathon
+.. _A Rede Social: https://duckduckgo.com/?q=A+Rede+Social
+.. _Mark Zuckerberg: https://duckduckgo.com/?q=Mark+Zuckerberg
+.. _Skype: https://duckduckgo.com/?q=Skype

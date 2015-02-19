@@ -12,17 +12,13 @@ Felipe Ribeiro: Spotify
    Felipe Ribeiro: Spotify
 
 Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para
-comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há
-tempo para comprar o meu
-`presente <http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1>`__
-hehehe) tive a chance de conversar com o **Felipe Ribeiro**, o único
-Brasileiro que trabalha na companhia
-`Spotify <http://www.spotify.com/>`__ ! O Felipe é irmão do **Flávio
-Ribeiro** que eu entrevistei no `último
-episódio <http://www.castalio.info/flavio-ribeiro-globo-com/>`__, o que
-me leva a pensar que existe um movimento muito forte na **Paraíba** nas
-áreas de educação e software livre, já que foram várias pessoas da
-região que passaram por aqui. :)
+comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para
+comprar o meu `presente`_ hehehe) tive a chance de conversar com o **Felipe
+Ribeiro**, o único Brasileiro que trabalha na companhia `Spotify`_ ! O Felipe
+é irmão do **Flávio Ribeiro** que eu entrevistei no `último episódio`_, o que
+me leva a pensar que existe um movimento muito forte na **Paraíba** nas áreas
+de educação e software livre, já que foram várias pessoas da região que
+passaram por aqui. :)
 
 .. more
 
@@ -70,42 +66,42 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Pearl Jam <http://www.last.fm/search?q=Pearl+Jam>`__
--  **Música:** `Wolfmother <http://www.last.fm/search?q=Wolfmother>`__
--  **Música:** `AC/DC <http://www.last.fm/search?q=AC/DC>`__
--  **Música:** `Creedence Clearwater Revival <http://www.last.fm/search?q=Creedence+Clearwater+Revival>`__
--  **Música:** `Explosions in the Sky <http://www.last.fm/search?q=Explosions+in+the+Sky>`__
--  **Filmes:** `Forrest Gump <http://www.imdb.com/find?s=all&q=Forrest+Gump>`__
--  **Filmes:** `Back to the future <http://www.imdb.com/find?s=all&q=Back+to+the+future>`__
--  **Filmes:** `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
--  **Filmes:** `The Big Lebowski <http://www.imdb.com/find?s=all&q=The+Big+Lebowski>`__
--  **Filmes:** `The Good, the Bad and the Ugly <http://www.imdb.com/find?s=all&q=The+Good,+the+Bad+and+the+Ugly>`__
--  **Livros:** `Programming pearls <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+pearls>`__
--  **Livros:** `The algorithm design manual <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+algorithm+design+manual>`__
--  **Livros:** `Being Geek <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Being+Geek>`__
--  **Livros:** `The Hichhiker\'s guide to the galaxy <https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy>`__
--  **Livros:** `Starman: Truth Behind the Legend of Yuri Gagarin <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starman:+Truth+Behind+the+Legend+of+Yuri+Gagarin>`__
--  **Livros:** `Ensaio sobre a cegueira <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ensaio+sobre+a+cegueira>`__
+-  **Música:** `Pearl Jam`_
+-  **Música:** `Wolfmother`_
+-  **Música:** `AC/DC`_
+-  **Música:** `Creedence Clearwater Revival`_
+-  **Música:** `Explosions in the Sky`_
+-  **Filmes:** `Forrest Gump`_
+-  **Filmes:** `Back to the future`_
+-  **Filmes:** `Inception`_
+-  **Filmes:** `The Big Lebowski`_
+-  **Filmes:** `The Good, the Bad and the Ugly`_
+-  **Livros:** `Programming pearls`_
+-  **Livros:** `The algorithm design manual`_
+-  **Livros:** `Being Geek`_
+-  **Livros:** `The Hichhiker\'s guide to the galaxy`_
+-  **Livros:** `Starman - Truth Behind the Legend of Yuri Gagarin`_
+-  **Livros:** `Ensaio sobre a cegueira`_
 
 Links
 -----
--  `Flávio Ribeiro <https://duckduckgo.com/?q=Flávio+Ribeiro>`__
--  `Spotify <https://duckduckgo.com/?q=Spotify>`__
--  `Tuenti <https://duckduckgo.com/?q=Tuenti>`__
--  `PHP <https://duckduckgo.com/?q=PHP>`__
--  `Java Script <https://duckduckgo.com/?q=Java+Script>`__
--  `MySQL <https://duckduckgo.com/?q=MySQL>`__
--  `Memcache <https://duckduckgo.com/?q=Memcache>`__
--  `FISL <https://duckduckgo.com/?q=FISL>`__
--  `PHP Conference <https://duckduckgo.com/?q=PHP+Conference>`__
--  `Linkedin <https://duckduckgo.com/?q=Linkedin>`__
--  `Caike Souza <https://duckduckgo.com/?q=Caike+Souza>`__
--  `Facebook <https://duckduckgo.com/?q=Facebook>`__
--  `Youtube <https://duckduckgo.com/?q=Youtube>`__
--  `Rdio <https://duckduckgo.com/?q=Rdio>`__
--  `Pandora <https://duckduckgo.com/?q=Pandora>`__
--  `Groove Shark <https://duckduckgo.com/?q=Groove+Shark>`__
--  `Will Farrel <https://duckduckgo.com/?q=Will+Farrel>`__
+-  `Flávio Ribeiro`_
+-  `Spotify (DuckDuckGo)`_
+-  `Tuenti`_
+-  `PHP`_
+-  `Java Script`_
+-  `MySQL`_
+-  `Memcache`_
+-  `FISL`_
+-  `PHP Conference`_
+-  `Linkedin`_
+-  `Caike Souza`_
+-  `Facebook`_
+-  `Youtube`_
+-  `Rdio`_
+-  `Pandora`_
+-  `Groove Shark`_
+-  `Will Farrel`_
 
 .. class:: panel-body bg-info
 
@@ -114,3 +110,39 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _presente: http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1
+.. _Spotify: http://www.spotify.com/
+.. _último episódio: http://www.castalio.info/flavio-ribeiro-globo-com/
+.. _Pearl Jam: http://www.last.fm/search?q=Pearl+Jam
+.. _Wolfmother: http://www.last.fm/search?q=Wolfmother
+.. _AC/DC: http://www.last.fm/search?q=AC/DC
+.. _Creedence Clearwater Revival: http://www.last.fm/search?q=Creedence+Clearwater+Revival
+.. _Explosions in the Sky: http://www.last.fm/search?q=Explosions+in+the+Sky
+.. _Forrest Gump: http://www.imdb.com/find?s=all&q=Forrest+Gump
+.. _Back to the future: http://www.imdb.com/find?s=all&q=Back+to+the+future
+.. _Inception: http://www.imdb.com/find?s=all&q=Inception
+.. _The Big Lebowski: http://www.imdb.com/find?s=all&q=The+Big+Lebowski
+.. _The Good, the Bad and the Ugly: http://www.imdb.com/find?s=all&q=The+Good,+the+Bad+and+the+Ugly
+.. _Programming pearls: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+pearls
+.. _The algorithm design manual: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+algorithm+design+manual
+.. _Being Geek: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Being+Geek
+.. _The Hichhiker\'s guide to the galaxy: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
+.. _Starman - Truth Behind the Legend of Yuri Gagarin: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starman:+Truth+Behind+the+Legend+of+Yuri+Gagarin
+.. _Ensaio sobre a cegueira: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ensaio+sobre+a+cegueira
+.. _Flávio Ribeiro: https://duckduckgo.com/?q=Flávio+Ribeiro
+.. _Spotify (DuckDuckGo): https://duckduckgo.com/?q=Spotify
+.. _Tuenti: https://duckduckgo.com/?q=Tuenti
+.. _PHP: https://duckduckgo.com/?q=PHP
+.. _Java Script: https://duckduckgo.com/?q=Java+Script
+.. _MySQL: https://duckduckgo.com/?q=MySQL
+.. _Memcache: https://duckduckgo.com/?q=Memcache
+.. _FISL: https://duckduckgo.com/?q=FISL
+.. _PHP Conference: https://duckduckgo.com/?q=PHP+Conference
+.. _Linkedin: https://duckduckgo.com/?q=Linkedin
+.. _Caike Souza: https://duckduckgo.com/?q=Caike+Souza
+.. _Facebook: https://duckduckgo.com/?q=Facebook
+.. _Youtube: https://duckduckgo.com/?q=Youtube
+.. _Rdio: https://duckduckgo.com/?q=Rdio
+.. _Pandora: https://duckduckgo.com/?q=Pandora
+.. _Groove Shark: https://duckduckgo.com/?q=Groove+Shark
+.. _Will Farrel: https://duckduckgo.com/?q=Will+Farrel

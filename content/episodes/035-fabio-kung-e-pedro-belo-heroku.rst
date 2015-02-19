@@ -13,15 +13,11 @@ Fábio Kung e Pedro Belo: Heroku
 
 Olá pessoal e sejam bem-vindos à mais um episódio, desta vez com dois
 convidados: **Fábio Kung** e **Pedro Belo**, que atualmente trabalham na
-companhia Californiana **Heroku**! Se você escutou os dois últimos
-episódios, você deve se lembrar que eu mencionei sobre esta companhia
-com o `Henrique
-Bastos <http://www.castalio.info/henrique-bastos-welcome-to-the-django/>`__
-e `Júlio
-Monteiro <http://www.castalio.info/julio-monteiro-jobscore/>`__, e como
-que eu tenho usado os serviços que eles oferecem para hospedar e rodar
-alguns dos meus projetos. Então quando o Júlio se ofereceu para me
-apresentar ao pessoal da Heroku eu aceitei na mesma hora!
+companhia Californiana **Heroku**! Se você escutou os dois últimos episódios,
+você deve se lembrar que eu mencionei sobre esta companhia com o `Henrique
+Bastos`_ e `Júlio Monteiro`_, e como que eu tenho usado os serviços que eles
+oferecem para hospedar e rodar alguns dos meus projetos. Então quando o Júlio
+se ofereceu para me apresentar ao pessoal da Heroku eu aceitei na mesma hora!
 
 Nosso bate-papo foi super divertido, e mesmo com os **três fusos de
 horário diferentes** (o Fábio na **California**, Pedro no **Texas** e eu
@@ -77,73 +73,73 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Radio Head <http://www.last.fm/search?q=Radio+Head>`__
--  **Música:** `PJ Harvey <http://www.last.fm/search?q=PJ+Harvey>`__
--  **Música:** `The Black Keys <http://www.last.fm/search?q=The+Black+Keys>`__
--  **Música:** `Queens of the Stone Age <http://www.last.fm/search?q=Queens+of+the+Stone+Age>`__
--  **Música:** `The Atomic BitchWax <http://www.last.fm/search?q=The+Atomic+BitchWax>`__
--  **Música:** `Cold Play <http://www.last.fm/search?q=Cold+Play>`__
--  **Filmes:** `The Girl with the Dragon Tatoo <http://www.imdb.com/find?s=all&q=The+Girl+with+the+Dragon+Tatoo>`__
--  **Filmes:** `O Senhor dos Anéis <http://www.imdb.com/find?s=all&q=O+Senhor+dos+Anéis>`__
--  **Filmes:** `Fringe <http://www.imdb.com/find?s=all&q=Fringe>`__
--  **Filmes:** `Vampire Diaries <http://www.imdb.com/find?s=all&q=Vampire+Diaries>`__
--  **Filmes:** `Supernatural <http://www.imdb.com/find?s=all&q=Supernatural>`__
--  **Filmes:** `The Big Bang Theory <http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory>`__
--  **Filmes:** `Game of Thrones <http://www.imdb.com/find?s=all&q=Game+of+Thrones>`__
--  **Filmes:** `Adaptation <http://www.imdb.com/find?s=all&q=Adaptation>`__
--  **Filmes:** `Being John Malkovich <http://www.imdb.com/find?s=all&q=Being+John+Malkovich>`__
--  **Livros:** `Clube da Luta <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clube+da+Luta>`__
--  **Livros:** `Survivor: A Novel <http://www.amazon.com/Survivor-A-Novel-Chuck-Palahniuk/dp/0385498721?tag=duckduckgo-d-20>`__
--  **Livros:** `Effective C++ <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Effective+C++>`__
--  **Livros:** `Wikipedia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Wikipedia>`__
--  **Livros:** `Hacker News <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News>`__
+-  **Música:** `Radio Head`_
+-  **Música:** `PJ Harvey`_
+-  **Música:** `The Black Keys`_
+-  **Música:** `Queens of the Stone Age`_
+-  **Música:** `The Atomic BitchWax`_
+-  **Música:** `Cold Play`_
+-  **Filmes:** `The Girl with the Dragon Tatoo`_
+-  **Filmes:** `O Senhor dos Anéis`_
+-  **Filmes:** `Fringe`_
+-  **Filmes:** `Vampire Diaries`_
+-  **Filmes:** `Supernatural`_
+-  **Filmes:** `The Big Bang Theory`_
+-  **Filmes:** `Game of Thrones`_
+-  **Filmes:** `Adaptation`_
+-  **Filmes:** `Being John Malkovich`_
+-  **Livros:** `Clube da Luta`_
+-  **Livros:** `Survivor\: A Novel`_
+-  **Livros:** `Effective C++`_
+-  **Livros:** `Wikipedia`_
+-  **Livros:** `Hacker News`_
 
 Links
 -----
--  `Heroku <https://duckduckgo.com/?q=Heroku>`__
--  `Platform as a Service <https://duckduckgo.com/?q=Platform+as+a+Service>`__
--  `Júlio Monteiro <https://duckduckgo.com/?q=Júlio+Monteiro>`__
--  `Amazon Cloud <https://duckduckgo.com/?q=Amazon+Cloud>`__
--  `Dreamhost <https://duckduckgo.com/?q=Dreamhost>`__
--  `Framework Django <https://duckduckgo.com/?q=Framework+Django>`__
--  `nginx <https://duckduckgo.com/?q=nginx>`__
--  `Certificado SSL <https://duckduckgo.com/?q=Certificado+SSL>`__
--  `PHP <https://duckduckgo.com/?q=PHP>`__
--  `Python <https://duckduckgo.com/?q=Python>`__
--  `Ruby <https://duckduckgo.com/?q=Ruby>`__
--  `Emulador de NES <https://duckduckgo.com/?q=Emulador+de+NES>`__
--  `WhiteSpace <https://duckduckgo.com/?q=WhiteSpace>`__
--  `BrainFuck <https://duckduckgo.com/?q=BrainFuck>`__
--  `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__
--  `Node.js <https://duckduckgo.com/?q=Node.js>`__
--  `Kenneth Reitz <https://duckduckgo.com/?q=Kenneth+Reitz>`__
--  `Python Requests <https://duckduckgo.com/?q=Python+Requests>`__
--  `Jabberd <https://duckduckgo.com/?q=Jabberd>`__
--  `Erlang <https://duckduckgo.com/?q=Erlang>`__
--  `rPath <https://duckduckgo.com/?q=rPath>`__
--  `tempwatch <https://duckduckgo.com/?q=tempwatch>`__
--  `man pages <https://duckduckgo.com/?q=man+pages>`__
--  `Red Hat <https://duckduckgo.com/?q=Red+Hat>`__
--  `Mozilla <https://duckduckgo.com/?q=Mozilla>`__
--  `Github <https://duckduckgo.com/?q=Github>`__
--  `Vale do Silício <https://duckduckgo.com/?q=Vale+do+Silício>`__
--  `Bruce Eckel <https://duckduckgo.com/?q=Bruce+Eckel>`__
--  `Google <https://duckduckgo.com/?q=Google>`__
--  `Yukihiro Matsumoto <https://duckduckgo.com/?q=Yukihiro+Matsumoto>`__
--  `Google AppEngine <https://duckduckgo.com/?q=Google+AppEngine>`__
--  `Cloud Foundry <https://duckduckgo.com/?q=Cloud+Foundry>`__
--  `Windows Azzure <https://duckduckgo.com/?q=Windows+Azzure>`__
--  `DotCloud <https://duckduckgo.com/?q=DotCloud>`__
--  `Java <https://duckduckgo.com/?q=Java>`__
--  `Spring MVC <https://duckduckgo.com/?q=Spring+MVC>`__
--  `Hybernate <https://duckduckgo.com/?q=Hybernate>`__
--  `Git <https://duckduckgo.com/?q=Git>`__
--  `DrinkUp <https://duckduckgo.com/?q=DrinkUp>`__
--  `MeetUp <https://duckduckgo.com/?q=MeetUp>`__
--  `RailsConf <https://duckduckgo.com/?q=RailsConf>`__
--  `JSON <https://duckduckgo.com/?q=JSON>`__
--  `ActiveRecord <https://duckduckgo.com/?q=ActiveRecord>`__
--  `Kindle <https://duckduckgo.com/?q=Kindle>`__
+-  `Heroku`_
+-  `Platform as a Service`_
+-  `Júlio Monteiro (DuckDuckGo)`_
+-  `Amazon Cloud`_
+-  `Dreamhost`_
+-  `Framework Django`_
+-  `nginx`_
+-  `Certificado SSL`_
+-  `PHP`_
+-  `Python`_
+-  `Ruby`_
+-  `Emulador de NES`_
+-  `WhiteSpace`_
+-  `BrainFuck`_
+-  `Ruby on Rails`_
+-  `Node.js`_
+-  `Kenneth Reitz`_
+-  `Python Requests`_
+-  `Jabberd`_
+-  `Erlang`_
+-  `rPath`_
+-  `tempwatch`_
+-  `man pages`_
+-  `Red Hat`_
+-  `Mozilla`_
+-  `Github`_
+-  `Vale do Silício`_
+-  `Bruce Eckel`_
+-  `Google`_
+-  `Yukihiro Matsumoto`_
+-  `Google AppEngine`_
+-  `Cloud Foundry`_
+-  `Windows Azzure`_
+-  `DotCloud`_
+-  `Java`_
+-  `Spring MVC`_
+-  `Hybernate`_
+-  `Git`_
+-  `DrinkUp`_
+-  `MeetUp`_
+-  `RailsConf`_
+-  `JSON`_
+-  `ActiveRecord`_
+-  `Kindle`_
 
 .. class:: panel-body bg-info
 
@@ -152,3 +148,69 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Henrique Bastos: http://www.castalio.info/henrique-bastos-welcome-to-the-django/
+.. _Júlio Monteiro: http://www.castalio.info/julio-monteiro-jobscore/
+.. _Radio Head: http://www.last.fm/search?q=Radio+Head
+.. _PJ Harvey: http://www.last.fm/search?q=PJ+Harvey
+.. _The Black Keys: http://www.last.fm/search?q=The+Black+Keys
+.. _Queens of the Stone Age: http://www.last.fm/search?q=Queens+of+the+Stone+Age
+.. _The Atomic BitchWax: http://www.last.fm/search?q=The+Atomic+BitchWax
+.. _Cold Play: http://www.last.fm/search?q=Cold+Play
+.. _The Girl with the Dragon Tatoo: http://www.imdb.com/find?s=all&q=The+Girl+with+the+Dragon+Tatoo
+.. _O Senhor dos Anéis: http://www.imdb.com/find?s=all&q=O+Senhor+dos+Anéis
+.. _Fringe: http://www.imdb.com/find?s=all&q=Fringe
+.. _Vampire Diaries: http://www.imdb.com/find?s=all&q=Vampire+Diaries
+.. _Supernatural: http://www.imdb.com/find?s=all&q=Supernatural
+.. _The Big Bang Theory: http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory
+.. _Game of Thrones: http://www.imdb.com/find?s=all&q=Game+of+Thrones
+.. _Adaptation: http://www.imdb.com/find?s=all&q=Adaptation
+.. _Being John Malkovich: http://www.imdb.com/find?s=all&q=Being+John+Malkovich
+.. _Clube da Luta: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clube+da+Luta
+.. _Survivor\: A Novel: http://www.amazon.com/Survivor-A-Novel-Chuck-Palahniuk/dp/0385498721?tag=duckduckgo-d-20
+.. _Effective C++: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Effective+C++
+.. _Wikipedia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Wikipedia
+.. _Hacker News: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News
+.. _Heroku: https://duckduckgo.com/?q=Heroku
+.. _Platform as a Service: https://duckduckgo.com/?q=Platform+as+a+Service
+.. _Júlio Monteiro (DuckDuckGo): https://duckduckgo.com/?q=Júlio+Monteiro
+.. _Amazon Cloud: https://duckduckgo.com/?q=Amazon+Cloud
+.. _Dreamhost: https://duckduckgo.com/?q=Dreamhost
+.. _Framework Django: https://duckduckgo.com/?q=Framework+Django
+.. _nginx: https://duckduckgo.com/?q=nginx
+.. _Certificado SSL: https://duckduckgo.com/?q=Certificado+SSL
+.. _PHP: https://duckduckgo.com/?q=PHP
+.. _Python: https://duckduckgo.com/?q=Python
+.. _Ruby: https://duckduckgo.com/?q=Ruby
+.. _Emulador de NES: https://duckduckgo.com/?q=Emulador+de+NES
+.. _WhiteSpace: https://duckduckgo.com/?q=WhiteSpace
+.. _BrainFuck: https://duckduckgo.com/?q=BrainFuck
+.. _Ruby on Rails: https://duckduckgo.com/?q=Ruby+on+Rails
+.. _Node.js: https://duckduckgo.com/?q=Node.js
+.. _Kenneth Reitz: https://duckduckgo.com/?q=Kenneth+Reitz
+.. _Python Requests: https://duckduckgo.com/?q=Python+Requests
+.. _Jabberd: https://duckduckgo.com/?q=Jabberd
+.. _Erlang: https://duckduckgo.com/?q=Erlang
+.. _rPath: https://duckduckgo.com/?q=rPath
+.. _tempwatch: https://duckduckgo.com/?q=tempwatch
+.. _man pages: https://duckduckgo.com/?q=man+pages
+.. _Red Hat: https://duckduckgo.com/?q=Red+Hat
+.. _Mozilla: https://duckduckgo.com/?q=Mozilla
+.. _Github: https://duckduckgo.com/?q=Github
+.. _Vale do Silício: https://duckduckgo.com/?q=Vale+do+Silício
+.. _Bruce Eckel: https://duckduckgo.com/?q=Bruce+Eckel
+.. _Google: https://duckduckgo.com/?q=Google
+.. _Yukihiro Matsumoto: https://duckduckgo.com/?q=Yukihiro+Matsumoto
+.. _Google AppEngine: https://duckduckgo.com/?q=Google+AppEngine
+.. _Cloud Foundry: https://duckduckgo.com/?q=Cloud+Foundry
+.. _Windows Azzure: https://duckduckgo.com/?q=Windows+Azzure
+.. _DotCloud: https://duckduckgo.com/?q=DotCloud
+.. _Java: https://duckduckgo.com/?q=Java
+.. _Spring MVC: https://duckduckgo.com/?q=Spring+MVC
+.. _Hybernate: https://duckduckgo.com/?q=Hybernate
+.. _Git: https://duckduckgo.com/?q=Git
+.. _DrinkUp: https://duckduckgo.com/?q=DrinkUp
+.. _MeetUp: https://duckduckgo.com/?q=MeetUp
+.. _RailsConf: https://duckduckgo.com/?q=RailsConf
+.. _JSON: https://duckduckgo.com/?q=JSON
+.. _ActiveRecord: https://duckduckgo.com/?q=ActiveRecord
+.. _Kindle: https://duckduckgo.com/?q=Kindle

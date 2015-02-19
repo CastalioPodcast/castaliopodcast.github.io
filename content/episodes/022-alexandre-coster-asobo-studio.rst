@@ -56,74 +56,145 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Jethro Tull <http://www.last.fm/search?q=Jethro+Tull>`__
--  **Música:** `Pink Floyd <http://www.last.fm/search?q=Pink+Floyd>`__
--  **Música:** `Queens of Stone Age <http://www.last.fm/search?q=Queens+of+Stone+Age>`__
--  **Música:** `Ween <http://www.last.fm/search?q=Ween>`__
--  **Música:** `Jupiter Maçã <http://www.last.fm/search?q=Jupiter+Maçã>`__
--  **Música:** `Paralamas <http://www.last.fm/search?q=Paralamas>`__
--  **Música:** `Engenheiros <http://www.last.fm/search?q=Engenheiros>`__
--  **Filmes:** `The Pacific <http://www.imdb.com/find?s=all&q=The+Pacific>`__
--  **Filmes:** `Monty Python <http://www.imdb.com/find?s=all&q=Monty+Python>`__
--  **Filmes:** `Snatch <http://www.imdb.com/find?s=all&q=Snatch>`__
--  **Filmes:** `Pulp Fiction <http://www.imdb.com/find?s=all&q=Pulp+Fiction>`__
--  **Filmes:** `Inglorious Bastards <http://www.imdb.com/find?s=all&q=Inglorious+Bastards>`__
--  **Filmes:** `Futurama <http://www.imdb.com/find?s=all&q=Futurama>`__
--  **Filmes:** `Life on Mars <http://www.imdb.com/find?s=all&q=Life+on+Mars>`__
--  **Jogos:** `Portal 2 <http://www.amazon.com/Portal-2-Xbox-360/dp/B002I0J9M0/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813372&sr=1-1>`__
--  **Jogos:** `Half Life 2 <http://www.amazon.com/Half-Life-2-Xbox/dp/B000B2YR74/ref=sr_1_2?s=videogames&ie=UTF8&qid=1320813403&sr=1-2>`__
--  **Jogos:** `Scribblenauts <http://www.amazon.com/Scribblenauts-Nintendo-DS/dp/B002B1TDV8/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813436&sr=1-1>`__
--  **Jogos:** `Just Cause 2 <http://www.amazon.com/Just-Cause-2-Xbox-360/dp/B0013RATNM/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813465&sr=1-1>`__
+-  **Música:** `Jethro Tull`_
+-  **Música:** `Pink Floyd`_
+-  **Música:** `Queens of Stone Age`_
+-  **Música:** `Ween`_
+-  **Música:** `Jupiter Maçã`_
+-  **Música:** `Paralamas`_
+-  **Música:** `Engenheiros`_
+-  **Filmes:** `The Pacific`_
+-  **Filmes:** `Monty Python`_
+-  **Filmes:** `Snatch`_
+-  **Filmes:** `Pulp Fiction`_
+-  **Filmes:** `Inglorious Bastards`_
+-  **Filmes:** `Futurama`_
+-  **Filmes:** `Life on Mars`_
+-  **Jogos:** `Portal 2`_
+-  **Jogos:** `Half Life 2`_
+-  **Jogos:** `Scribblenauts`_
+-  **Jogos:** `Just Cause 2`_
 
 Links
 -----
--  `Asobo Studio <https://duckduckgo.com/?q=Asobo+Studio>`__
--  `Western Union <https://duckduckgo.com/?q=Western+Union>`__
--  `Deer Hunter Tournament <https://duckduckgo.com/?q=Deer+Hunter+Tournament>`__
--  `Party Planner <https://duckduckgo.com/?q=Party+Planner>`__
--  `Wii <https://duckduckgo.com/?q=Wii>`__
--  `XBox <https://duckduckgo.com/?q=XBox>`__
--  `Nintendo DS <https://duckduckgo.com/?q=Nintendo+DS>`__
--  `Bordeaux <https://duckduckgo.com/?q=Bordeaux>`__
--  `TU Kaiserslautern <https://duckduckgo.com/?q=TU+Kaiserslautern>`__
--  `Boot Camp <https://duckduckgo.com/?q=Boot+Camp>`__
--  `Python <https://duckduckgo.com/?q=Python>`__
--  `Southlogic Studios <https://duckduckgo.com/?q=Southlogic+Studios>`__
--  `Matchmaking <https://duckduckgo.com/?q=Matchmaking>`__
--  `XBox Live <https://duckduckgo.com/?q=XBox+Live>`__
--  `Ubisoft <https://duckduckgo.com/?q=Ubisoft>`__
--  `C++ <https://duckduckgo.com/?q=C++>`__
--  `Facebook <https://duckduckgo.com/?q=Facebook>`__
--  `PHP <https://duckduckgo.com/?q=PHP>`__
--  `Elbit Systems Ltd. <https://duckduckgo.com/?q=Elbit+Systems+Ltd.>`__
--  `Unit Test <https://duckduckgo.com/?q=Unit+Test>`__
--  `Yonkpur <https://duckduckgo.com/?q=Yonkpur>`__
--  `GPS <https://duckduckgo.com/?q=GPS>`__
--  `Checkpoint <https://duckduckgo.com/?q=Checkpoint>`__
--  `Head Hunter <https://duckduckgo.com/?q=Head+Hunter>`__
--  `Asobo Studio Ratatuille <https://duckduckgo.com/?q=Asobo+Studio+Ratatuille>`__
--  `Pixar <https://duckduckgo.com/?q=Pixar>`__
--  `Toy Story 3 <https://duckduckgo.com/?q=Toy+Story+3>`__
--  `Asobo Studio Fuel <https://duckduckgo.com/?q=Asobo+Studio+Fuel>`__
--  `OpenGL <https://duckduckgo.com/?q=OpenGL>`__
--  `Pacman <https://duckduckgo.com/?q=Pacman>`__
--  `App Store <https://duckduckgo.com/?q=App+Store>`__
--  `Google Android <https://duckduckgo.com/?q=Google+Android>`__
--  `Humble Bundle <https://duckduckgo.com/?q=Humble+Bundle>`__
--  `EFF <https://duckduckgo.com/?q=EFF>`__
--  `Childs Play <https://duckduckgo.com/?q=Childs+Play>`__
--  `Companhia de jogos Aquiris <http://www.aquiris.com.br/pt/home/>`__
--  `PSN <https://duckduckgo.com/?q=PSN>`__
--  `Crayon Physics <https://duckduckgo.com/?q=Crayon+Physics>`__
--  `Atomic Zoombie Smasher <https://duckduckgo.com/?q=Atomic+Zoombie+Smasher>`__
--  `Tumbler <https://duckduckgo.com/?q=Tumbler>`__
--  `Foto de 2003 parecendo um indio <http://acoster.tumblr.com/post/10514260563/thats-me-as-a-freshman-at-ufrgs-back-in-2003>`__
--  `Unabomber <https://duckduckgo.com/?q=Unabomber>`__
--  `Eclipse <https://duckduckgo.com/?q=Eclipse>`__
--  `Visual Studio <https://duckduckgo.com/?q=Visual+Studio>`__
--  `Code Warrior <https://duckduckgo.com/?q=Code+Warrior>`__
--  `VIM <https://duckduckgo.com/?q=VIM>`__
--  `Emacs <https://duckduckgo.com/?q=Emacs>`__
--  `TextMate <https://duckduckgo.com/?q=TextMate>`__
--  `Valve <https://duckduckgo.com/?q=Valve>`__
--  `Steam <https://duckduckgo.com/?q=Steam>`__
+-  `Asobo Studio`_
+-  `Western Union`_
+-  `Deer Hunter Tournament`_
+-  `Party Planner`_
+-  `Wii`_
+-  `XBox`_
+-  `Nintendo DS`_
+-  `Bordeaux`_
+-  `TU Kaiserslautern`_
+-  `Boot Camp`_
+-  `Python`_
+-  `Southlogic Studios`_
+-  `Matchmaking`_
+-  `XBox Live`_
+-  `Ubisoft`_
+-  `C++`_
+-  `Facebook`_
+-  `PHP`_
+-  `Elbit Systems Ltd.`_
+-  `Unit Test`_
+-  `Yonkpur`_
+-  `GPS`_
+-  `Checkpoint`_
+-  `Head Hunter`_
+-  `Asobo Studio Ratatuille`_
+-  `Pixar`_
+-  `Toy Story 3`_
+-  `Asobo Studio Fuel`_
+-  `OpenGL`_
+-  `Pacman`_
+-  `App Store`_
+-  `Google Android`_
+-  `Humble Bundle`_
+-  `EFF`_
+-  `Childs Play`_
+-  `Companhia de jogos Aquiris`_
+-  `PSN`_
+-  `Crayon Physics`_
+-  `Atomic Zoombie Smasher`_
+-  `Tumbler`_
+-  `Foto de 2003 parecendo um indio`_
+-  `Unabomber`_
+-  `Eclipse`_
+-  `Visual Studio`_
+-  `Code Warrior`_
+-  `VIM`_
+-  `Emacs`_
+-  `TextMate`_
+-  `Valve`_
+-  `Steam`_
+
+
+
+.. _Jethro Tull: http://www.last.fm/search?q=Jethro+Tull
+.. _Pink Floyd: http://www.last.fm/search?q=Pink+Floyd
+.. _Queens of Stone Age: http://www.last.fm/search?q=Queens+of+Stone+Age
+.. _Ween: http://www.last.fm/search?q=Ween
+.. _Jupiter Maçã: http://www.last.fm/search?q=Jupiter+Maçã
+.. _Paralamas: http://www.last.fm/search?q=Paralamas
+.. _Engenheiros: http://www.last.fm/search?q=Engenheiros
+.. _The Pacific: http://www.imdb.com/find?s=all&q=The+Pacific
+.. _Monty Python: http://www.imdb.com/find?s=all&q=Monty+Python
+.. _Snatch: http://www.imdb.com/find?s=all&q=Snatch
+.. _Pulp Fiction: http://www.imdb.com/find?s=all&q=Pulp+Fiction
+.. _Inglorious Bastards: http://www.imdb.com/find?s=all&q=Inglorious+Bastards
+.. _Futurama: http://www.imdb.com/find?s=all&q=Futurama
+.. _Life on Mars: http://www.imdb.com/find?s=all&q=Life+on+Mars
+.. _Portal 2: http://www.amazon.com/Portal-2-Xbox-360/dp/B002I0J9M0/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813372&sr=1-1
+.. _Half Life 2: http://www.amazon.com/Half-Life-2-Xbox/dp/B000B2YR74/ref=sr_1_2?s=videogames&ie=UTF8&qid=1320813403&sr=1-2
+.. _Scribblenauts: http://www.amazon.com/Scribblenauts-Nintendo-DS/dp/B002B1TDV8/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813436&sr=1-1
+.. _Just Cause 2: http://www.amazon.com/Just-Cause-2-Xbox-360/dp/B0013RATNM/ref=sr_1_1?s=videogames&ie=UTF8&qid=1320813465&sr=1-1
+.. _Asobo Studio: https://duckduckgo.com/?q=Asobo+Studio
+.. _Western Union: https://duckduckgo.com/?q=Western+Union
+.. _Deer Hunter Tournament: https://duckduckgo.com/?q=Deer+Hunter+Tournament
+.. _Party Planner: https://duckduckgo.com/?q=Party+Planner
+.. _Wii: https://duckduckgo.com/?q=Wii
+.. _XBox: https://duckduckgo.com/?q=XBox
+.. _Nintendo DS: https://duckduckgo.com/?q=Nintendo+DS
+.. _Bordeaux: https://duckduckgo.com/?q=Bordeaux
+.. _TU Kaiserslautern: https://duckduckgo.com/?q=TU+Kaiserslautern
+.. _Boot Camp: https://duckduckgo.com/?q=Boot+Camp
+.. _Python: https://duckduckgo.com/?q=Python
+.. _Southlogic Studios: https://duckduckgo.com/?q=Southlogic+Studios
+.. _Matchmaking: https://duckduckgo.com/?q=Matchmaking
+.. _XBox Live: https://duckduckgo.com/?q=XBox+Live
+.. _Ubisoft: https://duckduckgo.com/?q=Ubisoft
+.. _C++: https://duckduckgo.com/?q=C++
+.. _Facebook: https://duckduckgo.com/?q=Facebook
+.. _PHP: https://duckduckgo.com/?q=PHP
+.. _Elbit Systems Ltd.: https://duckduckgo.com/?q=Elbit+Systems+Ltd.
+.. _Unit Test: https://duckduckgo.com/?q=Unit+Test
+.. _Yonkpur: https://duckduckgo.com/?q=Yonkpur
+.. _GPS: https://duckduckgo.com/?q=GPS
+.. _Checkpoint: https://duckduckgo.com/?q=Checkpoint
+.. _Head Hunter: https://duckduckgo.com/?q=Head+Hunter
+.. _Asobo Studio Ratatuille: https://duckduckgo.com/?q=Asobo+Studio+Ratatuille
+.. _Pixar: https://duckduckgo.com/?q=Pixar
+.. _Toy Story 3: https://duckduckgo.com/?q=Toy+Story+3
+.. _Asobo Studio Fuel: https://duckduckgo.com/?q=Asobo+Studio+Fuel
+.. _OpenGL: https://duckduckgo.com/?q=OpenGL
+.. _Pacman: https://duckduckgo.com/?q=Pacman
+.. _App Store: https://duckduckgo.com/?q=App+Store
+.. _Google Android: https://duckduckgo.com/?q=Google+Android
+.. _Humble Bundle: https://duckduckgo.com/?q=Humble+Bundle
+.. _EFF: https://duckduckgo.com/?q=EFF
+.. _Childs Play: https://duckduckgo.com/?q=Childs+Play
+.. _Companhia de jogos Aquiris: http://www.aquiris.com.br/pt/home/
+.. _PSN: https://duckduckgo.com/?q=PSN
+.. _Crayon Physics: https://duckduckgo.com/?q=Crayon+Physics
+.. _Atomic Zoombie Smasher: https://duckduckgo.com/?q=Atomic+Zoombie+Smasher
+.. _Tumbler: https://duckduckgo.com/?q=Tumbler
+.. _Foto de 2003 parecendo um indio: http://acoster.tumblr.com/post/10514260563/thats-me-as-a-freshman-at-ufrgs-back-in-2003
+.. _Unabomber: https://duckduckgo.com/?q=Unabomber
+.. _Eclipse: https://duckduckgo.com/?q=Eclipse
+.. _Visual Studio: https://duckduckgo.com/?q=Visual+Studio
+.. _Code Warrior: https://duckduckgo.com/?q=Code+Warrior
+.. _VIM: https://duckduckgo.com/?q=VIM
+.. _Emacs: https://duckduckgo.com/?q=Emacs
+.. _TextMate: https://duckduckgo.com/?q=TextMate
+.. _Valve: https://duckduckgo.com/?q=Valve
+.. _Steam: https://duckduckgo.com/?q=Steam

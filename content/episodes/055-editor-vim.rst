@@ -38,12 +38,11 @@ editar o áudio, então a resposta era não.
 
 .. more
 
-Eis que nas últimas semanas, tendo participado como convidado do
-`Opencast <http://tecnologiaaberta.com.br/>`__ podcast, aquela vontade
-enorme que eu tive para começar o Castálio podcast voltou com uma força
-total, e depois de bater um papo com meu amigo Evandro Pastor, muso
-inspirador e responsável principal pela criação deste, decidi voltar a
-fazer o podcast, porém com algumas mudanças:
+Eis que nas últimas semanas, tendo participado como convidado do `Opencast`_
+podcast, aquela vontade enorme que eu tive para começar o Castálio podcast
+voltou com uma força total, e depois de bater um papo com meu amigo Evandro
+Pastor, muso inspirador e responsável principal pela criação deste, decidi
+voltar a fazer o podcast, porém com algumas mudanças:
 
 1. Ao invés de somente fazer episódios de entrevistas (que realmente é
    mais complicado devido ao agendamento com convidados, etc), desta vez
@@ -64,15 +63,11 @@ fazer o podcast, porém com algumas mudanças:
    nosso "pão de cada dia" aqui na Red Hat). Um dia desses vou mostrar
    como que as coisas estão...
 
-Para finalizar, eu não estaria aqui, depois de ter passado um tempinho
-editando um bate-papo que tive com o Elyézer esta última semana, se não
-fosse por vocês que deixaram comentários aqui, no Twitter, pedindo pela
-volta do podcast... e especialmente quero deixar aqui o meu
-agradecimento ao `Ivan
-Fuzzer <http://www.castalio.info/ivan-brasil-fuzzer-ubuntero/>`__ e
-`Evandro
-Pastor <http://www.castalio.info/evandro-pastor-quarto-estudio/>`__,
-pelo apoio e incentivo para voltar! Muito obrigado mesmo!
+Para finalizar, eu não estaria aqui, depois de ter passado um tempinho editando
+um bate-papo que tive com o Elyézer esta última semana, se não fosse por vocês
+que deixaram comentários aqui, no Twitter, pedindo pela volta do podcast...
+e especialmente quero deixar aqui o meu agradecimento ao `Ivan Fuzzer`_
+e `Evandro Pastor`_, pelo apoio e incentivo para voltar! Muito obrigado mesmo!
 
 Então, para nosso primeiro episódio temático decidimos falar sobre o
 editor Vim, aquele editor que vem instalado por padrão na maioria das
@@ -99,27 +94,27 @@ Escute Agora
 Links
 -----
 
--  `Editor Vim <http://www.vim.org/>`__
--  `Github <http://github.com>`__
--  `Gist <http://gist.github.com>`__
--  `Cygwin <https://cygwin.com/>`__
+-  `Editor Vim`_
+-  `Github`_
+-  `Gist`_
+-  `Cygwin`_
 -  Gerenciadores de plugins:
 
-   -  `Vundle <https://github.com/gmarik/Vundle.vim>`__
-   -  `NeoBundle <https://github.com/Shougo/neobundle.vim>`__ (versão melhorada do Vundle)
+   -  `Vundle`_
+   -  `NeoBundle`_ (versão melhorada do Vundle)
 
--  `Vim Bootstrap <http://vim-bootstrap.com/>`__ (`vim-bootstrap <https://github.com/avelino/vim-bootstrap>`__ no Github, consulte para uma `lista de atalhos <https://github.com/avelino/vim-bootstrap#commands>`__)
--  `oh-my-vim <https://github.com/liangxianzhe/oh-my-vim>`__
--  `oh-my-zsh <https://github.com/robbyrussell/oh-my-zsh>`__ (framework para o zsh)
--  `vim-solarized <https://github.com/altercation/vim-colors-solarized>`__ (tema de cores)
--  `Syntastic <https://github.com/scrooloose/syntastic>`__ (plugin para verificação da sintaxe)
--  `vim-fugitive <https://github.com/tpope/vim-fugitive>`__ (git wrapper para o vim)
--  `ctrlp plugin <https://github.com/kien/ctrlp.vim>`__
--  `gist-vim plugin <https://github.com/mattn/gist-vim>`__
--  `jedi-vim plugin <https://github.com/davidhalter/jedi-vim>`__
--  `Snippets plugin <https://github.com/SirVer/ultisnips>`__
--  `Pacote com vários plugins <https://github.com/honza/vim-snippets>`__
--  `.vim Elyézer <https://github.com/elyezer/.vim>`__
+-  `Vim Bootstrap`_ (`vim-bootstrap`_ no Github, consulte para uma `lista de atalhos`_)
+-  `oh-my-vim`_
+-  `oh-my-zsh`_ (framework para o zsh)
+-  `vim-solarized`_ (tema de cores)
+-  `Syntastic`_ (plugin para verificação da sintaxe)
+-  `vim-fugitive`_ (git wrapper para o vim)
+-  `ctrlp plugin`_
+-  `gist-vim plugin`_
+-  `jedi-vim plugin`_
+-  `Snippets plugin`_
+-  `Pacote com vários plugins`_
+-  `.vim Elyézer`_
 
 Entrando e saindo do modo de edição no Vim
 ------------------------------------------
@@ -147,3 +142,26 @@ modo visual, mas selecionando linhas. Ao realizar uma seleção utilize
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Opencast: http://tecnologiaaberta.com.br/
+.. _Ivan Fuzzer: http://www.castalio.info/ivan-brasil-fuzzer-ubuntero/
+.. _Evandro Pastor: http://www.castalio.info/evandro-pastor-quarto-estudio/
+.. _Editor Vim: http://www.vim.org/
+.. _Github: http://github.com
+.. _Gist: http://gist.github.com
+.. _Cygwin: https://cygwin.com/
+.. _Vundle: https://github.com/gmarik/Vundle.vim
+.. _NeoBundle: https://github.com/Shougo/neobundle.vim
+.. _Vim Bootstrap: http://vim-bootstrap.com/
+.. _oh-my-vim: https://github.com/liangxianzhe/oh-my-vim
+.. _oh-my-zsh: https://github.com/robbyrussell/oh-my-zsh
+.. _vim-solarized: https://github.com/altercation/vim-colors-solarized
+.. _Syntastic: https://github.com/scrooloose/syntastic
+.. _vim-fugitive: https://github.com/tpope/vim-fugitive
+.. _ctrlp plugin: https://github.com/kien/ctrlp.vim
+.. _gist-vim plugin: https://github.com/mattn/gist-vim
+.. _jedi-vim plugin: https://github.com/davidhalter/jedi-vim
+.. _Snippets plugin: https://github.com/SirVer/ultisnips
+.. _Pacote com vários plugins: https://github.com/honza/vim-snippets
+.. _.vim Elyézer: https://github.com/elyezer/.vim
+.. _vim-bootstrap: https://github.com/avelino/vim-bootstrap
+.. _lista de atalhos: https://github.com/avelino/vim-bootstrap#commands

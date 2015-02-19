@@ -18,16 +18,14 @@ com uma equipe de colaboradores, o Ivan escreve artigos sobre todas as
 áreas relacionadas à tecnologia e tutorias, focando na área de software
 livre!
 
-A história do Ubuntero me lembra um pouco a história do
-`BR-Linux <http://br-linux.org/>`__, começando como um catálogo de
-informações úteis para o Ivan e eventualmente tornando-se em um ponto de
-parada para todos aqueles usuários de Linux que procuram dicas e truques
-para lidarem com suas configurações.
+A história do Ubuntero me lembra um pouco a história do `BR-Linux`_, começando
+como um catálogo de informações úteis para o Ivan e eventualmente tornando-se
+em um ponto de parada para todos aqueles usuários de Linux que procuram dicas
+e truques para lidarem com suas configurações.
 
-Com o passar dos tempos seu projeto deixou de ser somente "mais um blog
-sobre Linux" e expandiu para outras vias de comunicação, como um `canal
-de vídeos <http://www.youtube.com/user/ubunterobr?feature=watch>`__ no
-**Youtube** e seu mais recente projeto, o **Opencast** podcast!
+Com o passar dos tempos seu projeto deixou de ser somente "mais um blog sobre
+Linux" e expandiu para outras vias de comunicação, como um `canal de vídeos`_
+no **Youtube** e seu mais recente projeto, o **Opencast** podcast!
 
 .. more
 
@@ -39,8 +37,7 @@ conteúdo de seus projetos, planos para o futuro, terminando com a sua
 previsão para o Ubuntu Linux em 2012!
 
 Ah, e mudei a "trilha sonora" do podcast de volta ao tema anterior a
-pedido do meu amigo `Reinaldo
-Bispo <https://twitter.com/#!/corvolinoPUNK>`__! :)
+pedido do meu amigo `Reinaldo Bispo`_! :)
 
 Escute Agora
 ------------
@@ -70,52 +67,52 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Cesar Oliveira <http://www.last.fm/search?q=Cesar+Oliveira>`__
--  **Música:** `Rogério Melo <http://www.last.fm/search?q=Rogério+Melo>`__
--  **Música:** `Neto Fagundes <http://www.last.fm/search?q=Neto+Fagundes>`__
--  **Música:** `Piresca Greco <http://www.last.fm/search?q=Piresca+Greco>`__
--  **Música:** `Iron Madden <http://www.last.fm/search?q=Iron+Madden>`__
--  **Música:** `AC/DC <http://www.last.fm/search?q=AC/DC>`__
--  **Música:** `Mettalica <http://www.last.fm/search?q=Mettalica>`__
--  **Música:** `Ludwig van Beethoven <http://www.last.fm/search?q=Ludwig+van+Beethoven>`__
--  **Música:** `Cidadão Quem <http://www.last.fm/search?q=Cidadão+Quem>`__
--  **Música:** `Capital Inicial <http://www.last.fm/search?q=Capital+Inicial>`__
--  **Filmes:** `The Walking Dead <http://www.imdb.com/find?s=all&q=The+Walking+Dead>`__
--  **Filmes:** `Inception <http://www.imdb.com/find?s=all&q=Inception>`__
--  **Filmes:** `The Matrix <http://www.imdb.com/find?s=all&q=The+Matrix>`__
--  **Filmes:** `Animatrix <http://www.imdb.com/find?s=all&q=Animatrix>`__
--  **Livros:** `Filhos do Éden <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Filhos+do+Éden>`__
--  **Livros:** `Batalha do Apocalipse <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse>`__
+-  **Música:** `Cesar Oliveira`_
+-  **Música:** `Rogério Melo`_
+-  **Música:** `Neto Fagundes`_
+-  **Música:** `Piresca Greco`_
+-  **Música:** `Iron Madden`_
+-  **Música:** `AC/DC`_
+-  **Música:** `Mettalica`_
+-  **Música:** `Ludwig van Beethoven`_
+-  **Música:** `Cidadão Quem`_
+-  **Música:** `Capital Inicial`_
+-  **Filmes:** `The Walking Dead`_
+-  **Filmes:** `Inception`_
+-  **Filmes:** `The Matrix`_
+-  **Filmes:** `Animatrix`_
+-  **Livros:** `Filhos do Éden`_
+-  **Livros:** `Batalha do Apocalipse`_
 
 Links
 -----
--  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
--  `Ubuntero <https://duckduckgo.com/?q=Ubuntero>`__
--  `OpenCast <https://duckduckgo.com/?q=OpenCast>`__
--  `Twitter <https://duckduckgo.com/?q=Twitter>`__
--  `Debian Linux <https://duckduckgo.com/?q=Debian+Linux>`__
--  `Grupo Caudílho Livre <https://duckduckgo.com/?q=Grupo+Caudílho+Livre>`__
--  `Youtube <https://duckduckgo.com/?q=Youtube>`__
--  `GtkRecordMyDesktop <https://duckduckgo.com/?q=GtkRecordMyDesktop>`__
--  `KDenlive <https://duckduckgo.com/?q=KDenlive>`__
--  `Cinelera <https://duckduckgo.com/?q=Cinelera>`__
--  `Openshot <https://duckduckgo.com/?q=Openshot>`__
--  `Skype <https://duckduckgo.com/?q=Skype>`__
--  `Skype Call Recorder <https://duckduckgo.com/?q=Skype+Call+Recorder>`__
--  `Audacity <https://duckduckgo.com/?q=Audacity>`__
--  `Delphi <https://duckduckgo.com/?q=Delphi>`__
--  `Shell Script <https://duckduckgo.com/?q=Shell+Script>`__
--  `C++ <https://duckduckgo.com/?q=C++>`__
--  `Java <https://duckduckgo.com/?q=Java>`__
--  `Cobol <https://duckduckgo.com/?q=Cobol>`__
--  `List <https://duckduckgo.com/?q=List>`__
--  `Assembly <https://duckduckgo.com/?q=Assembly>`__
--  `Eduardo Spohr <https://duckduckgo.com/?q=Eduardo+Spohr>`__
--  `Vim <https://duckduckgo.com/?q=Vim>`__
--  `W32 Codecs <https://duckduckgo.com/?q=W32+Codecs>`__
--  `Mozilla Thunderbird <https://duckduckgo.com/?q=Mozilla+Thunderbird>`__
--  `Virtual Box <https://duckduckgo.com/?q=Virtual+Box>`__
--  `Ubuntu Unity <https://duckduckgo.com/?q=Ubuntu+Unity>`__
+-  `Ubuntu Linux`_
+-  `Ubuntero`_
+-  `OpenCast`_
+-  `Twitter`_
+-  `Debian Linux`_
+-  `Grupo Caudílho Livre`_
+-  `Youtube`_
+-  `GtkRecordMyDesktop`_
+-  `KDenlive`_
+-  `Cinelera`_
+-  `Openshot`_
+-  `Skype`_
+-  `Skype Call Recorder`_
+-  `Audacity`_
+-  `Delphi`_
+-  `Shell Script`_
+-  `C++`_
+-  `Java`_
+-  `Cobol`_
+-  `List`_
+-  `Assembly`_
+-  `Eduardo Spohr`_
+-  `Vim`_
+-  `W32 Codecs`_
+-  `Mozilla Thunderbird`_
+-  `Virtual Box`_
+-  `Ubuntu Unity`_
 
 .. class:: panel-body bg-info
 
@@ -124,3 +121,49 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _BR-Linux: http://br-linux.org/
+.. _canal de vídeos: http://www.youtube.com/user/ubunterobr?feature=watch
+.. _Reinaldo Bispo: https://twitter.com/#!/corvolinoPUNK
+.. _Cesar Oliveira: http://www.last.fm/search?q=Cesar+Oliveira
+.. _Rogério Melo: http://www.last.fm/search?q=Rogério+Melo
+.. _Neto Fagundes: http://www.last.fm/search?q=Neto+Fagundes
+.. _Piresca Greco: http://www.last.fm/search?q=Piresca+Greco
+.. _Iron Madden: http://www.last.fm/search?q=Iron+Madden
+.. _AC/DC: http://www.last.fm/search?q=AC/DC
+.. _Mettalica: http://www.last.fm/search?q=Mettalica
+.. _Ludwig van Beethoven: http://www.last.fm/search?q=Ludwig+van+Beethoven
+.. _Cidadão Quem: http://www.last.fm/search?q=Cidadão+Quem
+.. _Capital Inicial: http://www.last.fm/search?q=Capital+Inicial
+.. _The Walking Dead: http://www.imdb.com/find?s=all&q=The+Walking+Dead
+.. _Inception: http://www.imdb.com/find?s=all&q=Inception
+.. _The Matrix: http://www.imdb.com/find?s=all&q=The+Matrix
+.. _Animatrix: http://www.imdb.com/find?s=all&q=Animatrix
+.. _Filhos do Éden: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Filhos+do+Éden
+.. _Batalha do Apocalipse: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse
+.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
+.. _Ubuntero: https://duckduckgo.com/?q=Ubuntero
+.. _OpenCast: https://duckduckgo.com/?q=OpenCast
+.. _Twitter: https://duckduckgo.com/?q=Twitter
+.. _Debian Linux: https://duckduckgo.com/?q=Debian+Linux
+.. _Grupo Caudílho Livre: https://duckduckgo.com/?q=Grupo+Caudílho+Livre
+.. _Youtube: https://duckduckgo.com/?q=Youtube
+.. _GtkRecordMyDesktop: https://duckduckgo.com/?q=GtkRecordMyDesktop
+.. _KDenlive: https://duckduckgo.com/?q=KDenlive
+.. _Cinelera: https://duckduckgo.com/?q=Cinelera
+.. _Openshot: https://duckduckgo.com/?q=Openshot
+.. _Skype: https://duckduckgo.com/?q=Skype
+.. _Skype Call Recorder: https://duckduckgo.com/?q=Skype+Call+Recorder
+.. _Audacity: https://duckduckgo.com/?q=Audacity
+.. _Delphi: https://duckduckgo.com/?q=Delphi
+.. _Shell Script: https://duckduckgo.com/?q=Shell+Script
+.. _C++: https://duckduckgo.com/?q=C++
+.. _Java: https://duckduckgo.com/?q=Java
+.. _Cobol: https://duckduckgo.com/?q=Cobol
+.. _List: https://duckduckgo.com/?q=List
+.. _Assembly: https://duckduckgo.com/?q=Assembly
+.. _Eduardo Spohr: https://duckduckgo.com/?q=Eduardo+Spohr
+.. _Vim: https://duckduckgo.com/?q=Vim
+.. _W32 Codecs: https://duckduckgo.com/?q=W32+Codecs
+.. _Mozilla Thunderbird: https://duckduckgo.com/?q=Mozilla+Thunderbird
+.. _Virtual Box: https://duckduckgo.com/?q=Virtual+Box
+.. _Ubuntu Unity: https://duckduckgo.com/?q=Ubuntu+Unity

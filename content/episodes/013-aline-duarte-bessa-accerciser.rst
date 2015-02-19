@@ -12,8 +12,7 @@ Aline Duarte Bessa - Accerciser
    Aline Duarte Bessa - Accerciser
 
 Neste episódio bato um papo com a **Aline Duarte Bessa**, mais uma
-Brasileira que está participando do `GNOME Women Outreach
-Program <http://live.gnome.org/GnomeWomen/OutreachProgram2011>`__
+Brasileira que está participando do `GNOME Women Outreach Program`_
 (**GWOP**). Mesmo com um pouco de febre, gripe, e problemas técnicos com
 2 de seus computadores, ela tirou um pouco do seu tempo para me contar
 como que ela está atualizando a documentação do Accerciser para
@@ -22,7 +21,7 @@ o que o Accerciser é:
 
     "O Accerciser é um explorador interativo de acessibilidade para o
     ambiente GNOME. Escrito em Python, ele utiliza o
-    `AT-SPI <http://directory.fsf.org/at-spi.html>`__ para inspecionar e
+    `AT-SPI`_ para inspecionar e
     controlar widgets, permitindo que você verifique se um aplicativo
     está fornecendo informações corretas para as tecnologias assistivas
     e frameworks para testes automatizados. O Accerciser possui um
@@ -71,28 +70,48 @@ Top 5
 -  **Música**: Bloody Valentine
 -  **Música**: Velvet Underground
 -  **Música**: David Bowie
--  **Livro**: **On The Road** por \ `Jack Kerouac <http://www.amazon.com/Jack-Kerouac/e/B000APV9LY/ref=sr_ntt_srch_lnk_1?qid=1310835590&sr=8-1>`__
--  **Livro**: **The Corrections** e **Freedom** por \ `Jonathan Franzen <http://www.amazon.com/Jonathan-Franzen/e/B00458HQ7S/ref=sr_ntt_srch_lnk_1?qid=1310835694&sr=8-1>`__
--  **Livro**: **Cem Anos de Solidão** por `Gabriel Garcia Marquez <http://www.amazon.com/Gabriel-Garcia-Marquez/e/B000AQ1JWC/ref=sr_ntt_srch_lnk_1?qid=1310835752&sr=8-1>`__
+-  **Livro**: **On The Road** por \ `Jack Kerouac`_
+-  **Livro**: **The Corrections** e **Freedom** por \ `Jonathan Franzen`_
+-  **Livro**: **Cem Anos de Solidão** por `Gabriel Garcia Marquez`_
 -  **Livro**: **O Jogo da Amarelinha** por \ **Julio Cortazar** and
    **Fernando de Castro Ferro**
--  **Livro**: **To the Light House** por `Virginia Woolf <http://www.amazon.com/Virginia-Woolf/e/B000AQ1T7W/ref=sr_ntt_srch_lnk_1?qid=1310835868&sr=8-1>`__
--  **Filme**: A Dupla Vida de Veronique do \ `Krzysztof Kieslowski <http://www.imdb.com/name/nm0001425/>`__
+-  **Livro**: **To the Light House** por `Virginia Woolf`_
+-  **Filme**: A Dupla Vida de Veronique do \ `Krzysztof Kieslowski`_
 -  **Filme**: O Poderoso Chefão (trilogia)
 -  **Filme** : Matrix (trilogia)
 -  **Filme**: De Volta Para o Futuro (trilogia)
--  **Filmes**: Curtindo a Vida a Doidado e outros filmes do `John Hughes <http://www.imdb.com/name/nm0000455/>`__
--  **Pessoas/Web Site**: `Já Matei Por Menos e Já Escrevi Por Mais <http://mateipormenos.blogspot.com/>`__ da **Juliana Cunha**
--  **Pessoas/Web Site**: `XKCD <http://xkcd.com/>`__
--  **Pessoas/Web Site**: `Fiction Press <http://www.fictionpress.com/>`__
+-  **Filmes**: Curtindo a Vida a Doidado e outros filmes do `John Hughes`_
+-  **Pessoas/Web Site**: `Já Matei Por Menos e Já Escrevi Por Mais`_ da **Juliana Cunha**
+-  **Pessoas/Web Site**: `XKCD`_
+-  **Pessoas/Web Site**: `Fiction Press`_
 
 Links
 -----
--  `Accerciser <http://live.gnome.org/Accerciser>`__
--  `Orca <http://live.gnome.org/Orca>`__
--  `Rails <http://rubyonrails.org/>`__
--  `Colivre <http://colivre.coop.br/>`__
--  `Revista Espírito Livre <http://www.revista.espiritolivre.org/>`__
--  `HackToons <http://hacktoon.com/>`__
+-  `Accerciser`_
+-  `Orca`_
+-  `Rails`_
+-  `Colivre`_
+-  `Revista Espírito Livre`_
+-  `HackToons`_
 
-E não se esqueça de votar no \ `Castálio <http://premiofrida.org/por/projects/view/1424>`__ para o **Prêmio Frida**!
+E não se esqueça de votar no `Castálio`_ para o **Prêmio Frida**!
+
+
+.. _GNOME Women Outreach Program: http://live.gnome.org/GnomeWomen/OutreachProgram2011
+.. _AT-SPI: http://directory.fsf.org/at-spi.html
+.. _Jack Kerouac: http://www.amazon.com/Jack-Kerouac/e/B000APV9LY/ref=sr_ntt_srch_lnk_1?qid=1310835590&sr=8-1
+.. _Jonathan Franzen: http://www.amazon.com/Jonathan-Franzen/e/B00458HQ7S/ref=sr_ntt_srch_lnk_1?qid=1310835694&sr=8-1
+.. _Gabriel Garcia Marquez: http://www.amazon.com/Gabriel-Garcia-Marquez/e/B000AQ1JWC/ref=sr_ntt_srch_lnk_1?qid=1310835752&sr=8-1
+.. _Virginia Woolf: http://www.amazon.com/Virginia-Woolf/e/B000AQ1T7W/ref=sr_ntt_srch_lnk_1?qid=1310835868&sr=8-1
+.. _Krzysztof Kieslowski: http://www.imdb.com/name/nm0001425/
+.. _John Hughes: http://www.imdb.com/name/nm0000455/
+.. _Já Matei Por Menos e Já Escrevi Por Mais: http://mateipormenos.blogspot.com/
+.. _XKCD: http://xkcd.com/
+.. _Fiction Press: http://www.fictionpress.com/
+.. _Accerciser: http://live.gnome.org/Accerciser
+.. _Orca: http://live.gnome.org/Orca
+.. _Rails: http://rubyonrails.org/
+.. _Colivre: http://colivre.coop.br/
+.. _Revista Espírito Livre: http://www.revista.espiritolivre.org/
+.. _HackToons: http://hacktoon.com/
+.. _Castálio: http://premiofrida.org/por/projects/view/1424
