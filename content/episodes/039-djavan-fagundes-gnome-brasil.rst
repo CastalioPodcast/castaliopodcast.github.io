@@ -11,22 +11,17 @@ Djavan Fagundes: GNOME Brasil
 
    Djavan Fagundes: GNOME Brasil
 
-Olá pessoal e sejam muito bem-vindos à mais um episódio, desta vez com
-uma novidade: vídeo com os bastidores e a prórpria entrevista pelo
-**Youtube**! Deixa eu explicar melhor! Depois que vi o último episódio
-do `Hora do Mac (HDM) <http://www.horadomac.com/>`__ sendo gravado ao
-vivo pelo Youtube usando o **Google Hangout**, decidi tentar fazer a
-mesma coisa para que as pessoas possam ver como que as entrevistas
-acontecem e poderem também participar com perguntas durante a gravação.
-Foi uma pena que na última hora meu convidado não pode usar um
-computador e acabou que o `primeiro
-vídeo <https://www.youtube.com/watch?feature=player_embedded&v=qmwKZKb0f-Y>`__
-só tem uma pessoa: eu! :) Mas beleza, acho que já para o próximo
-episódio dá para fazer da forma que eu quero! Então depois não se
-esqueçam de adicionar este podcast aqui no\ `Google
-Plus <https://plus.google.com/107864992170817866192/posts>`__ e
-`Twitter <https://twitter.com/#!/castaliopod>`__ para saberem quando a
-próxima gravação será feita.
+Olá pessoal e sejam muito bem-vindos à mais um episódio, desta vez com uma
+novidade: vídeo com os bastidores e a prórpria entrevista pelo **Youtube**!
+Deixa eu explicar melhor! Depois que vi o último episódio do `Hora do Mac
+(HDM)`_ sendo gravado ao vivo pelo Youtube usando o **Google Hangout**, decidi
+tentar fazer a mesma coisa para que as pessoas possam ver como que as
+entrevistas acontecem e poderem também participar com perguntas durante
+a gravação.  Foi uma pena que na última hora meu convidado não pode usar um
+computador e acabou que o `primeiro vídeo`_ só tem uma pessoa: eu! :) Mas
+beleza, acho que já para o próximo episódio dá para fazer da forma que eu
+quero! Então depois não se esqueçam de adicionar este podcast aqui no\ `Google
+Plus`_ e `Twitter`_ para saberem quando a próxima gravação será feita.
 
 .. more
 
@@ -70,44 +65,44 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Creedence Clearwater Revival <http://www.last.fm/search?q=Creedence+Clearwater+Revival>`__
--  **Música:** `Led Zeppelin <http://www.last.fm/search?q=Led+Zeppelin>`__
--  **Música:** `Raul Seixas <http://www.last.fm/search?q=Raul+Seixas>`__
--  **Música:** `The Raincoats <http://www.last.fm/search?q=The+Raincoats>`__
--  **Filmes:** `Chaves <http://www.imdb.com/find?s=all&q=Chaves>`__
--  **Filmes:** `The IT Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
--  **Filmes:** `Breaking Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
--  **Filmes:** `Pedro Almodóvar <http://www.imdb.com/find?s=all&q=Pedro+Almodóvar>`__
--  **Filmes:** `Sin City <http://www.imdb.com/find?s=all&q=Sin+City>`__
--  **Filmes:** `Hell Boy <http://www.imdb.com/find?s=all&q=Hell+Boy>`__
--  **Filmes:** `Constantine <http://www.imdb.com/find?s=all&q=Constantine>`__
--  **Livros:** `Rubem Alves <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Rubem+Alves>`__
--  **Livros:** `Gandhi: A Magia dos gestos poéticos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gandhi:+A+Magia+dos+gestos+poéticos>`__
--  **Livros:** `Casa 21 <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Casa+21>`__
--  **Livros:** `Cidades Ilustradas <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidades+Ilustradas>`__
--  **Livros:** `Oscar Wilde <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Oscar+Wilde>`__
--  **Livros:** `The Picture of Dorian Gray <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Picture+of+Dorian+Gray>`__
+-  **Música:** `Creedence Clearwater Revival`_
+-  **Música:** `Led Zeppelin`_
+-  **Música:** `Raul Seixas`_
+-  **Música:** `The Raincoats`_
+-  **Filmes:** `Chaves`_
+-  **Filmes:** `The IT Crowd`_
+-  **Filmes:** `Breaking Bad`_
+-  **Filmes:** `Pedro Almodóvar`_
+-  **Filmes:** `Sin City`_
+-  **Filmes:** `Hell Boy`_
+-  **Filmes:** `Constantine`_
+-  **Livros:** `Rubem Alves`_
+-  **Livros:** `Gandhi - A Magia dos gestos poéticos`_
+-  **Livros:** `Casa 21`_
+-  **Livros:** `Cidades Ilustradas`_
+-  **Livros:** `Oscar Wilde`_
+-  **Livros:** `The Picture of Dorian Gray`_
 
 Links
 -----
--  `Ambiente GNOME <https://duckduckgo.com/?q=Ambiente+GNOME>`__
--  `GNOME Brasil <https://duckduckgo.com/?q=GNOME+Brasil>`__
--  `Jonh Wendell <https://duckduckgo.com/?q=Jonh+Wendell>`__
--  `Ambiente KDE <https://duckduckgo.com/?q=Ambiente+KDE>`__
--  `Ambiente XFCE <https://duckduckgo.com/?q=Ambiente+XFCE>`__
--  `Distribuição Arch Linux <https://duckduckgo.com/?q=Distribuição+Arch+Linux>`__
--  `Distribuição Debian Linux <https://duckduckgo.com/?q=Distribuição+Debian+Linux>`__
--  `Distribuição Foresight Linux <https://duckduckgo.com/?q=Distribuição+Foresight+Linux>`__
--  `Distribuição Fedora Linux <https://duckduckgo.com/?q=Distribuição+Fedora+Linux>`__
--  `GNOME 3 <https://duckduckgo.com/?q=GNOME+3>`__
--  `Linus Torvalds <https://duckduckgo.com/?q=Linus+Torvalds>`__
--  `gnome-tweak-tool <https://duckduckgo.com/?q=gnome-tweak-tool>`__
--  `Ambiente Openbox <https://duckduckgo.com/?q=Ambiente+Openbox>`__
--  `OpenStreet Map <https://duckduckgo.com/?q=OpenStreet+Map>`__
--  `Belo Horizonte <https://duckduckgo.com/?q=Belo+Horizonte>`__
--  `Mapping Party <https://duckduckgo.com/?q=Mapping+Party>`__
--  `Google Maps <https://duckduckgo.com/?q=Google+Maps>`__
--  `The Big Bang Theory <https://duckduckgo.com/?q=The+Big+Bang+Theory>`__
+-  `Ambiente GNOME`_
+-  `GNOME Brasil`_
+-  `Jonh Wendell`_
+-  `Ambiente KDE`_
+-  `Ambiente XFCE`_
+-  `Distribuição Arch Linux`_
+-  `Distribuição Debian Linux`_
+-  `Distribuição Foresight Linux`_
+-  `Distribuição Fedora Linux`_
+-  `GNOME 3`_
+-  `Linus Torvalds`_
+-  `gnome-tweak-tool`_
+-  `Ambiente Openbox`_
+-  `OpenStreet Map`_
+-  `Belo Horizonte`_
+-  `Mapping Party`_
+-  `Google Maps`_
+-  `The Big Bang Theory`_
 
 .. class:: panel-body bg-info
 
@@ -116,3 +111,42 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Hora do Mac (HDM): http://www.horadomac.com/
+.. _primeiro vídeo: https://www.youtube.com/watch?feature=player_embedded&v=qmwKZKb0f-Y
+.. _Google Plus: https://plus.google.com/107864992170817866192/posts
+.. _Twitter: https://twitter.com/#!/castaliopod
+.. _Creedence Clearwater Revival: http://www.last.fm/search?q=Creedence+Clearwater+Revival
+.. _Led Zeppelin: http://www.last.fm/search?q=Led+Zeppelin
+.. _Raul Seixas: http://www.last.fm/search?q=Raul+Seixas
+.. _The Raincoats: http://www.last.fm/search?q=The+Raincoats
+.. _Chaves: http://www.imdb.com/find?s=all&q=Chaves
+.. _The IT Crowd: http://www.imdb.com/find?s=all&q=The+IT+Crowd
+.. _Breaking Bad: http://www.imdb.com/find?s=all&q=Breaking+Bad
+.. _Pedro Almodóvar: http://www.imdb.com/find?s=all&q=Pedro+Almodóvar
+.. _Sin City: http://www.imdb.com/find?s=all&q=Sin+City
+.. _Hell Boy: http://www.imdb.com/find?s=all&q=Hell+Boy
+.. _Constantine: http://www.imdb.com/find?s=all&q=Constantine
+.. _Rubem Alves: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Rubem+Alves
+.. _Gandhi - A Magia dos gestos poéticos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gandhi:+A+Magia+dos+gestos+poéticos
+.. _Casa 21: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Casa+21
+.. _Cidades Ilustradas: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidades+Ilustradas
+.. _Oscar Wilde: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Oscar+Wilde
+.. _The Picture of Dorian Gray: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Picture+of+Dorian+Gray
+.. _Ambiente GNOME: https://duckduckgo.com/?q=Ambiente+GNOME
+.. _GNOME Brasil: https://duckduckgo.com/?q=GNOME+Brasil
+.. _Jonh Wendell: https://duckduckgo.com/?q=Jonh+Wendell
+.. _Ambiente KDE: https://duckduckgo.com/?q=Ambiente+KDE
+.. _Ambiente XFCE: https://duckduckgo.com/?q=Ambiente+XFCE
+.. _Distribuição Arch Linux: https://duckduckgo.com/?q=Distribuição+Arch+Linux
+.. _Distribuição Debian Linux: https://duckduckgo.com/?q=Distribuição+Debian+Linux
+.. _Distribuição Foresight Linux: https://duckduckgo.com/?q=Distribuição+Foresight+Linux
+.. _Distribuição Fedora Linux: https://duckduckgo.com/?q=Distribuição+Fedora+Linux
+.. _GNOME 3: https://duckduckgo.com/?q=GNOME+3
+.. _Linus Torvalds: https://duckduckgo.com/?q=Linus+Torvalds
+.. _gnome-tweak-tool: https://duckduckgo.com/?q=gnome-tweak-tool
+.. _Ambiente Openbox: https://duckduckgo.com/?q=Ambiente+Openbox
+.. _OpenStreet Map: https://duckduckgo.com/?q=OpenStreet+Map
+.. _Belo Horizonte: https://duckduckgo.com/?q=Belo+Horizonte
+.. _Mapping Party: https://duckduckgo.com/?q=Mapping+Party
+.. _Google Maps: https://duckduckgo.com/?q=Google+Maps
+.. _The Big Bang Theory: https://duckduckgo.com/?q=The+Big+Bang+Theory

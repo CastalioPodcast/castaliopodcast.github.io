@@ -20,8 +20,7 @@ seu projeto **The Board**, o fator "cool" do **javascript**,
 **Agatha Christie**, **MacGyver** e um monte de coisas interessantes!
 
 Ah, antes que me esqueça, agora você já pode acompanhar o **Castálio
-Podcast** pelo `iTunes
-Store <http://itunes.apple.com/us/podcast/castalio-podcast/id446259197>`__!
+Podcast** pelo `iTunes Store`_!
 
 Escute Agora
 ------------
@@ -50,31 +49,60 @@ Resumo
 
 Top 5
 -----
--  **Música**: `John Coltrane <https://secure.wikimedia.org/wikipedia/en/wiki/John_coltrane>`__ (`A Love Supreme <http://www.amazon.com/Love-Supreme-John-Coltrane/dp/B0000A118M/ref=sr_1_1?ie=UTF8&qid=1309220869&sr=8-1>`__)
--  **Música**: `Miles Davis <https://secure.wikimedia.org/wikipedia/en/wiki/Miles_davis>`__ (`Kind of Blue <http://www.amazon.com/Kind-Of-Blue/dp/B00136JQMI/ref=sr_1_1?ie=UTF8&qid=1309221007&sr=8-1>`__)
+-  **Música**: `John Coltrane`_ (`A Love Supreme`_)
+-  **Música**: `Miles Davis`_ (`Kind of Blue`_)
 -  **Livros**: **Agatha Chistie**
--  **Livros**: `The Hacker Ethic <http://www.amazon.com/Hacker-Ethic-Pekka-Himanen/dp/037575878X/ref=sr_1_1?ie=UTF8&qid=1309220775&sr=8-1>`__ por **Pekka Himanen**
--  **Livros**: `The Design of Everyday Things <http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?ie=UTF8&qid=1309220669&sr=8-1>`__ por **Donald A. Norman**
--  **Livros**: `Melancholy Death of Oyster Boy and Other Stories <http://www.amazon.com/Melancholy-Death-Oyster-Other-Stories/dp/0060526491/ref=sr_1_4?ie=UTF8&qid=1309220636&sr=8-4>`__ por **Tim Burton**
--  **Livros**: `Rework <http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&qid=1309219021&sr=8-1>`__ por **Jason Fried**
--  **Filme e Televisão**: `MacGyver <https://secure.wikimedia.org/wikipedia/en/wiki/MacGyver>`__
--  **Filme e Televisão**: `The Matrix <http://www.imdb.com/title/tt0133093/>`__
--  **Filme e Televisão**: `Beleza Americana <http://www.imdb.com/title/tt0169547/>`__
--  **Filme e Televisão**: `Cinema Paradiso <http://www.imdb.com/title/tt0095765/>`__
--  **Pessoas e Blogs**: `Havoc Pennington <http://blog.ometer.com/>`__
--  **Pessoas e Blogs**: `Vincent Untz <http://www.vuntz.net/journal/>`__
+-  **Livros**: `The Hacker Ethic`_ por **Pekka Himanen**
+-  **Livros**: `The Design of Everyday Things`_ por **Donald A. Norman**
+-  **Livros**: `Melancholy Death of Oyster Boy and Other Stories`_ por **Tim Burton**
+-  **Livros**: `Rework`_ por **Jason Fried**
+-  **Filme e Televisão**: `MacGyver`_
+-  **Filme e Televisão**: `The Matrix`_
+-  **Filme e Televisão**: `Beleza Americana`_
+-  **Filme e Televisão**: `Cinema Paradiso`_
+-  **Pessoas e Blogs**: `Havoc Pennington`_
+-  **Pessoas e Blogs**: `Vincent Untz`_
 
 Links
 -----
--  `Ikea <http://www.ikea.com/>`__
--  `The Board <https://live.gnome.org/TheBoardProject>`__
--  `GUADEC <http://www.desktopsummit.org/>`__
--  `Plasma <https://secure.wikimedia.org/wikipedia/en/wiki/KDE_Plasma_Workspaces>`__
--  `Litl <http://litl.com/>`__
--  `GJs <http://live.gnome.org/Gjs>`__
--  `Clutter <http://live.gnome.org/Clutter>`__
--  `GStreamer <https://secure.wikimedia.org/wikipedia/en/wiki/GStreamer>`__
--  `jQuery <http://jquery.com/>`__
--  `Node.js <http://nodejs.org/>`__
--  `MongoDB <http://www.mongodb.org/>`__
--  `CoffeeScript <http://coffeescript.org/>`__
+-  `Ikea`_
+-  `The Board`_
+-  `GUADEC`_
+-  `Plasma`_
+-  `Litl`_
+-  `GJs`_
+-  `Clutter`_
+-  `GStreamer`_
+-  `jQuery`_
+-  `Node.js`_
+-  `MongoDB`_
+-  `CoffeeScript`_
+
+
+.. _A Love Supreme: http://www.amazon.com/Love-Supreme-John-Coltrane/dp/B0000A118M/ref=sr_1_1?ie=UTF8&qid=1309220869&sr=8-1
+.. _Beleza Americana: http://www.imdb.com/title/tt0169547/
+.. _Cinema Paradiso: http://www.imdb.com/title/tt0095765/
+.. _Clutter: http://live.gnome.org/Clutter
+.. _CoffeeScript: http://coffeescript.org/
+.. _GJs: http://live.gnome.org/Gjs
+.. _GStreamer: https://secure.wikimedia.org/wikipedia/en/wiki/GStreamer
+.. _GUADEC: http://www.desktopsummit.org/
+.. _Havoc Pennington: http://blog.ometer.com/
+.. _Ikea: http://www.ikea.com/
+.. _iTunes Store: http://itunes.apple.com/us/podcast/castalio-podcast/id446259197
+.. _John Coltrane: https://secure.wikimedia.org/wikipedia/en/wiki/John_coltrane
+.. _jQuery: http://jquery.com/
+.. _Kind of Blue: http://www.amazon.com/Kind-Of-Blue/dp/B00136JQMI/ref=sr_1_1?ie=UTF8&qid=1309221007&sr=8-1
+.. _Litl: http://litl.com/
+.. _MacGyver: https://secure.wikimedia.org/wikipedia/en/wiki/MacGyver
+.. _Melancholy Death of Oyster Boy and Other Stories: http://www.amazon.com/Melancholy-Death-Oyster-Other-Stories/dp/0060526491/ref=sr_1_4?ie=UTF8&qid=1309220636&sr=8-4
+.. _Miles Davis: https://secure.wikimedia.org/wikipedia/en/wiki/Miles_davis
+.. _MongoDB: http://www.mongodb.org/
+.. _Node.js: http://nodejs.org/
+.. _Plasma: https://secure.wikimedia.org/wikipedia/en/wiki/KDE_Plasma_Workspaces
+.. _Rework: http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&qid=1309219021&sr=8-1
+.. _The Board: https://live.gnome.org/TheBoardProject
+.. _The Design of Everyday Things: http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?ie=UTF8&qid=1309220669&sr=8-1
+.. _The Hacker Ethic: http://www.amazon.com/Hacker-Ethic-Pekka-Himanen/dp/037575878X/ref=sr_1_1?ie=UTF8&qid=1309220775&sr=8-1
+.. _The Matrix: http://www.imdb.com/title/tt0133093/
+.. _Vincent Untz: http://www.vuntz.net/journal/

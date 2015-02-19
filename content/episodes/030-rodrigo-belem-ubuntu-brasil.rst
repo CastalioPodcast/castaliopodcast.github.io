@@ -64,68 +64,129 @@ Resumo
 
 Top 5
 -----
--  **Música:** `The Advantage <http://www.last.fm/search?q=The+Advantage>`__
--  **Música:** `Antônio Pereira <http://www.last.fm/search?q=Antônio+Pereira>`__
--  **Música:** `Geraldo Azevedo <http://www.last.fm/search?q=Geraldo+Azevedo>`__
--  **Música:** `Oswaldo Montenegro <http://www.last.fm/search?q=Oswaldo+Montenegro>`__
--  **Filmes:** `Encontro Marcado <http://www.imdb.com/find?s=all&q=Encontro+Marcado>`__
--  **Filmes:** `Supernatural <http://www.imdb.com/find?s=all&q=Supernatural>`__
--  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
--  **Filmes:** `Battlestar Gallactica <http://www.imdb.com/find?s=all&q=Battlestar+Gallactica>`__
--  **Filmes:** `Doctor Who <http://www.imdb.com/find?s=all&q=Doctor+Who>`__
--  **Filmes:** `Monty Python <http://www.imdb.com/find?s=all&q=Monty+Python>`__
--  **Livros:** `Natural Language Processing with Python <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Natural+Language+Processing+with+Python>`__
--  **Livros:** `Guía do Muchileiro das Galáxias <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Guia+do+Muchileiro+das+Galáxias>`__
--  **Livros:** `Cavalo de Tróia <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cavalo+de+Tróia>`__
--  **Livros:** `Tom Venuto <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Tom+Venuto>`__
+-  **Música:** `The Advantage`_
+-  **Música:** `Antônio Pereira`_
+-  **Música:** `Geraldo Azevedo`_
+-  **Música:** `Oswaldo Montenegro`_
+-  **Filmes:** `Encontro Marcado`_
+-  **Filmes:** `Supernatural`_
+-  **Filmes:** `Dexter`_
+-  **Filmes:** `Battlestar Gallactica`_
+-  **Filmes:** `Doctor Who`_
+-  **Filmes:** `Monty Python`_
+-  **Livros:** `Natural Language Processing with Python`_
+-  **Livros:** `Guía do Muchileiro das Galáxias`_
+-  **Livros:** `Cavalo de Tróia`_
+-  **Livros:** `Tom Venuto`_
 
 Links
 -----
--  `Ian Lawrence <https://duckduckgo.com/?q=Ian+Lawrence>`__
--  `Carlos "segfault" Santiviago <https://duckduckgo.com/?q=Carlos+>`__
--  `DebConf <https://duckduckgo.com/?q=DebConf>`__
--  `Mark Shuttleworth <https://duckduckgo.com/?q=Mark+Shuttleworth>`__
--  `Benjamin Mako Hill <https://duckduckgo.com/?q=Benjamin+Mako+Hill>`__
--  `Ubuntu Summit <https://duckduckgo.com/?q=Ubuntu+Summit>`__
--  `Debian Amazonas <https://duckduckgo.com/?q=Debian+Amazonas>`__
--  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
--  `Debian Linux <https://duckduckgo.com/?q=Debian+Linux>`__
--  `Mário Meyer <https://duckduckgo.com/?q=Mário+Meyer>`__
--  `Marcelo Mendes <https://duckduckgo.com/?q=Marcelo+Mendes>`__
--  `Emerson Soares <https://duckduckgo.com/?q=Emerson+Soares>`__
--  `ShiptIt <https://duckduckgo.com/?q=ShiptIt>`__
--  `Lício Fonseca <https://duckduckgo.com/?q=Lício+Fonseca>`__
--  `Fábio Nogueira <https://duckduckgo.com/?q=Fábio+Nogueira>`__
--  `Rafel Proença <https://duckduckgo.com/?q=Rafel+Proença>`__
--  `Roberto Mello <https://duckduckgo.com/?q=Roberto+Mello>`__
--  `Perl <https://duckduckgo.com/?q=Perl>`__
--  `Bash <https://duckduckgo.com/?q=Bash>`__
--  `KDE <https://duckduckgo.com/?q=KDE>`__
--  `Indp <https://duckduckgo.com/?q=Indp>`__
--  `Kubuntu <https://duckduckgo.com/?q=Kubuntu>`__
--  `Ubuntu Mobile <https://duckduckgo.com/?q=Ubuntu+Mobile>`__
--  `Plasma <https://duckduckgo.com/?q=Plasma>`__
--  `Licença GPL <https://duckduckgo.com/?q=Licença+GPL>`__
--  `Licença MIT <https://duckduckgo.com/?q=Licença+MIT>`__
--  `Postology <https://duckduckgo.com/?q=Postology>`__
--  `Python <https://duckduckgo.com/?q=Python>`__
--  `Python NLTK <https://duckduckgo.com/?q=Python+NLTK>`__
--  `File Sharing <https://duckduckgo.com/?q=File+Sharing>`__
--  `Intel <https://duckduckgo.com/?q=Intel>`__
--  `Professional Ubuntu Mobile Development <https://duckduckgo.com/?q=Professional+Ubuntu+Mobile+Development>`__
--  `UMEGuide.net <https://duckduckgo.com/?q=UMEGuide.net>`__
--  `Linaro <https://duckduckgo.com/?q=Linaro>`__
--  `ARM <https://duckduckgo.com/?q=ARM>`__
--  `Ubuntu Business Remix <https://duckduckgo.com/?q=Ubuntu+Business+Remix>`__
--  `Windows <https://duckduckgo.com/?q=Windows>`__
--  `MacOS <https://duckduckgo.com/?q=MacOS>`__
--  `Slackware Linux <https://duckduckgo.com/?q=Slackware+Linux>`__
--  `Arch Linux <https://duckduckgo.com/?q=Arch+Linux>`__
--  `Unity <https://duckduckgo.com/?q=Unity>`__
--  `GNOME <https://duckduckgo.com/?q=GNOME>`__
--  `Jonathan Riddell <https://duckduckgo.com/?q=Jonathan+Riddell>`__
--  `Netflix <https://duckduckgo.com/?q=Netflix>`__
+-  `Ian Lawrence`_
+-  `Carlos "segfault" Santiviago`_
+-  `DebConf`_
+-  `Mark Shuttleworth`_
+-  `Benjamin Mako Hill`_
+-  `Ubuntu Summit`_
+-  `Debian Amazonas`_
+-  `Ubuntu Linux`_
+-  `Debian Linux`_
+-  `Mário Meyer`_
+-  `Marcelo Mendes`_
+-  `Emerson Soares`_
+-  `ShiptIt`_
+-  `Lício Fonseca`_
+-  `Fábio Nogueira`_
+-  `Rafel Proença`_
+-  `Roberto Mello`_
+-  `Perl`_
+-  `Bash`_
+-  `KDE`_
+-  `Indp`_
+-  `Kubuntu`_
+-  `Ubuntu Mobile`_
+-  `Plasma`_
+-  `Licença GPL`_
+-  `Licença MIT`_
+-  `Postology`_
+-  `Python`_
+-  `Python NLTK`_
+-  `File Sharing`_
+-  `Intel`_
+-  `Professional Ubuntu Mobile Development`_
+-  `UMEGuide.net`_
+-  `Linaro`_
+-  `ARM`_
+-  `Ubuntu Business Remix`_
+-  `Windows`_
+-  `MacOS`_
+-  `Slackware Linux`_
+-  `Arch Linux`_
+-  `Unity`_
+-  `GNOME`_
+-  `Jonathan Riddell`_
+-  `Netflix`_
 
 .. class:: panel-body bg-info
 
-        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+        **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
+
+.. _The Advantage: http://www.last.fm/search?q=The+Advantage
+.. _Antônio Pereira: http://www.last.fm/search?q=Antônio+Pereira
+.. _Geraldo Azevedo: http://www.last.fm/search?q=Geraldo+Azevedo
+.. _Oswaldo Montenegro: http://www.last.fm/search?q=Oswaldo+Montenegro
+.. _Encontro Marcado: http://www.imdb.com/find?s=all&q=Encontro+Marcado
+.. _Supernatural: http://www.imdb.com/find?s=all&q=Supernatural
+.. _Dexter: http://www.imdb.com/find?s=all&q=Dexter
+.. _Battlestar Gallactica: http://www.imdb.com/find?s=all&q=Battlestar+Gallactica
+.. _Doctor Who: http://www.imdb.com/find?s=all&q=Doctor+Who
+.. _Monty Python: http://www.imdb.com/find?s=all&q=Monty+Python
+.. _Natural Language Processing with Python: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Natural+Language+Processing+with+Python
+.. _Guía do Muchileiro das Galáxias: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Guia+do+Muchileiro+das+Galáxias
+.. _Cavalo de Tróia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cavalo+de+Tróia
+.. _Tom Venuto: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Tom+Venuto
+.. _Ian Lawrence: https://duckduckgo.com/?q=Ian+Lawrence
+.. _Carlos "segfault" Santiviago: https://duckduckgo.com/?q=Carlos+
+.. _DebConf: https://duckduckgo.com/?q=DebConf
+.. _Mark Shuttleworth: https://duckduckgo.com/?q=Mark+Shuttleworth
+.. _Benjamin Mako Hill: https://duckduckgo.com/?q=Benjamin+Mako+Hill
+.. _Ubuntu Summit: https://duckduckgo.com/?q=Ubuntu+Summit
+.. _Debian Amazonas: https://duckduckgo.com/?q=Debian+Amazonas
+.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
+.. _Debian Linux: https://duckduckgo.com/?q=Debian+Linux
+.. _Mário Meyer: https://duckduckgo.com/?q=Mário+Meyer
+.. _Marcelo Mendes: https://duckduckgo.com/?q=Marcelo+Mendes
+.. _Emerson Soares: https://duckduckgo.com/?q=Emerson+Soares
+.. _ShiptIt: https://duckduckgo.com/?q=ShiptIt
+.. _Lício Fonseca: https://duckduckgo.com/?q=Lício+Fonseca
+.. _Fábio Nogueira: https://duckduckgo.com/?q=Fábio+Nogueira
+.. _Rafel Proença: https://duckduckgo.com/?q=Rafel+Proença
+.. _Roberto Mello: https://duckduckgo.com/?q=Roberto+Mello
+.. _Perl: https://duckduckgo.com/?q=Perl
+.. _Bash: https://duckduckgo.com/?q=Bash
+.. _KDE: https://duckduckgo.com/?q=KDE
+.. _Indp: https://duckduckgo.com/?q=Indp
+.. _Kubuntu: https://duckduckgo.com/?q=Kubuntu
+.. _Ubuntu Mobile: https://duckduckgo.com/?q=Ubuntu+Mobile
+.. _Plasma: https://duckduckgo.com/?q=Plasma
+.. _Licença GPL: https://duckduckgo.com/?q=Licença+GPL
+.. _Licença MIT: https://duckduckgo.com/?q=Licença+MIT
+.. _Postology: https://duckduckgo.com/?q=Postology
+.. _Python: https://duckduckgo.com/?q=Python
+.. _Python NLTK: https://duckduckgo.com/?q=Python+NLTK
+.. _File Sharing: https://duckduckgo.com/?q=File+Sharing
+.. _Intel: https://duckduckgo.com/?q=Intel
+.. _Professional Ubuntu Mobile Development: https://duckduckgo.com/?q=Professional+Ubuntu+Mobile+Development
+.. _UMEGuide.net: https://duckduckgo.com/?q=UMEGuide.net
+.. _Linaro: https://duckduckgo.com/?q=Linaro
+.. _ARM: https://duckduckgo.com/?q=ARM
+.. _Ubuntu Business Remix: https://duckduckgo.com/?q=Ubuntu+Business+Remix
+.. _Windows: https://duckduckgo.com/?q=Windows
+.. _MacOS: https://duckduckgo.com/?q=MacOS
+.. _Slackware Linux: https://duckduckgo.com/?q=Slackware+Linux
+.. _Arch Linux: https://duckduckgo.com/?q=Arch+Linux
+.. _Unity: https://duckduckgo.com/?q=Unity
+.. _GNOME: https://duckduckgo.com/?q=GNOME
+.. _Jonathan Riddell: https://duckduckgo.com/?q=Jonathan+Riddell
+.. _Netflix: https://duckduckgo.com/?q=Netflix
+.. _Sunday Night Learning: http://soundcloud.com/clebertsuconic/sunday-night-lerning
+.. _Clebert Suconic: http://soundcloud.com/clebertsuconic

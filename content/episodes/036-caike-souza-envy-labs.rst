@@ -12,16 +12,13 @@ Caike Souza: Envy Labs
 
    Caike Souza: Envy Labs
 
-Nem parece que já passaram duas semanas desde o último episódio, mas
-mais uma vez tive o prazer de entrevistar uma pessoa prá lá de
-interessante e divertida: o **Caike Souza**! Foi durante a minha
-entrevista com o `Henrique
-Bastos <http://www.castalio.info/henrique-bastos-welcome-to-the-django/>`__
-que eu fiquei sabendo sobre ele, mas foi somente esta semana que eu fui
-saber que ele trabalha na **Envy Labs** desde 2009 lá em **Orlando**, na
-**Flórida**. A companhia parece ser super bacana e está por trás de
-vários projetos bacanas, como o **Rails for Zombies**, **Code School** e
-**TryRuby.org**.
+Nem parece que já passaram duas semanas desde o último episódio, mas mais uma
+vez tive o prazer de entrevistar uma pessoa prá lá de interessante e divertida:
+o **Caike Souza**! Foi durante a minha entrevista com o `Henrique Bastos`_ que
+eu fiquei sabendo sobre ele, mas foi somente esta semana que eu fui saber que
+ele trabalha na **Envy Labs** desde 2009 lá em **Orlando**, na **Flórida**.
+A companhia parece ser super bacana e está por trás de vários projetos bacanas,
+como o **Rails for Zombies**, **Code School** e **TryRuby.org**.
 
 A primeira coisa que fica bem evidente sobre o Caike é que ele realmente
 curte muito o que faz, tem muito orgulho de onde trabalha, e é super
@@ -37,13 +34,11 @@ Twitter**!!!
 
 .. more
 
-Esta semana eu ainda pretendo conversar com ele sobre um **brinde** para
-vocês brincarem mais com o Code School, mas enquanto isso, vale a pena
-conferir o Rails for Zombies e baixar a `música da
-banda <https://www.facebook.com/heroeswillfall?sk=app_204974879526524>`__
-se você curte **Heavy Metal** (a música da entrada do episódio é da
-banda) ou quer conhecer um pouco mais sobre esta pessoa super
-interessante que é o Caike!
+Esta semana eu ainda pretendo conversar com ele sobre um **brinde** para vocês
+brincarem mais com o Code School, mas enquanto isso, vale a pena conferir
+o Rails for Zombies e baixar a `música da banda`_ se você curte **Heavy
+Metal** (a música da entrada do episódio é da banda) ou quer conhecer um pouco
+mais sobre esta pessoa super interessante que é o Caike!
 
 Escute Agora
 ------------
@@ -55,13 +50,12 @@ Contato
 -  **Blog:** http://caikesouza.com/blog/
 -  **Twitter**: https://twitter.com/#!/caike
 -  **Facebook**: https://www.facebook.com/caike.souza
--  **Banda**: `Heroes Will Fall <https://www.facebook.com/heroeswillfall>`__
+-  **Banda**: `Heroes Will Fall`_
 -  **Github**: https://github.com/caike
 -  **Envy Labs**: http://envylabs.com/
 -  **Code School**: http://www.codeschool.com/
 -  **Rails for Zombies**: http://www.railsforzombies.org/
--  **Palestra**: `Powerful
-   Interfaces <https://speakerdeck.com/u/caike/p/powerful-interfaces>`__
+-  **Palestra**: `Powerful Interfaces`_
 
 Resumo
 ------
@@ -81,24 +75,24 @@ Resumo
 
 Top 5
 -----
--  **Música:** `In Flames <http://www.last.fm/search?q=In+Flames>`__
--  **Música:** `Metallica <http://www.last.fm/search?q=Metallica>`__
--  **Música:** `Pantera <http://www.last.fm/search?q=Pantera>`__
--  **Música:** `Sepultura <http://www.last.fm/search?q=Sepultura>`__
--  **Música:** `Pendulum <http://www.last.fm/search?q=Pendulum>`__
--  **Música:** `Massive Attack <http://www.last.fm/search?q=Massive+Attack>`__
--  **Música:** `Postal Service <http://www.last.fm/search?q=Postal+Service>`__
--  **Música:** `Blink 182 <http://www.last.fm/search?q=Blink+182>`__
--  **Música:** `Gold Finger <http://www.last.fm/search?q=Gold+Finger>`__
--  **Música:** `Rancid <http://www.last.fm/search?q=Rancid>`__
--  **Filmes:** `Crash <http://www.imdb.com/find?s=all&q=Crash>`__
--  **Filmes:** `The Avengers <http://www.imdb.com/find?s=all&q=The+Avengers>`__
--  **Filmes:** `Breaking Bad <http://www.imdb.com/find?s=all&q=Breaking+Bad>`__
--  **Filmes:** `United States of Tara <http://www.imdb.com/find?s=all&q=United+States+of+Tara>`__
--  **Livros:** `Gunslinger <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gunslinger>`__
--  **Livros:** `Ramones <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ramones>`__
--  **Livros:** `Sepultura <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sepultura>`__
--  **Livros:** `Mötley Crüe <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Mötley+Crüe>`__
+-  **Música:** `In Flames`_
+-  **Música:** `Metallica`_
+-  **Música:** `Pantera`_
+-  **Música:** `Sepultura`_
+-  **Música:** `Pendulum`_
+-  **Música:** `Massive Attack`_
+-  **Música:** `Postal Service`_
+-  **Música:** `Blink 182`_
+-  **Música:** `Gold Finger`_
+-  **Música:** `Rancid`_
+-  **Filmes:** `Crash`_
+-  **Filmes:** `The Avengers`_
+-  **Filmes:** `Breaking Bad`_
+-  **Filmes:** `United States of Tara`_
+-  **Livros:** `Gunslinger`_
+-  **Livros:** `Ramones`_
+-  **Livros:** `Sepultura (Amazon)`_
+-  **Livros:** `Mötley Crüe`_
 -  **Twitter**: https://twitter.com/#!/henriquebastos
 -  **Twitter**: https://twitter.com/#!/rafaelp
 -  **Twitter**: https://twitter.com/#!/ramonpage
@@ -113,46 +107,46 @@ Top 5
 
 Links
 -----
--  `Henrique Bastos <https://duckduckgo.com/?q=Henrique+Bastos>`__
--  `Envy Labs <https://duckduckgo.com/?q=Envy+Labs>`__
--  `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__
--  `Code School <https://duckduckgo.com/?q=Code+School>`__
--  `JQuery <https://duckduckgo.com/?q=JQuery>`__
--  `Ruby <https://duckduckgo.com/?q=Ruby>`__
--  `Javascript <https://duckduckgo.com/?q=Javascript>`__
--  `Coffee Script <https://duckduckgo.com/?q=Coffee+Script>`__
--  `HTML 5 <https://duckduckgo.com/?q=HTML+5>`__
--  `CSS <https://duckduckgo.com/?q=CSS>`__
--  `Responsive Web <https://duckduckgo.com/?q=Responsive+Web>`__
--  `Welcome to the Django <https://duckduckgo.com/?q=Welcome+to+the+Django>`__
--  `Banco de dados <https://duckduckgo.com/?q=Banco+de+dados>`__
--  `ActiveRecord <https://duckduckgo.com/?q=ActiveRecord>`__
--  `LivingSocial <https://duckduckgo.com/?q=LivingSocial>`__
--  `NASA <https://duckduckgo.com/?q=NASA>`__
--  `New York Times <https://duckduckgo.com/?q=New+York+Times>`__
--  `TopWorks <https://duckduckgo.com/?q=TopWorks>`__
--  `IBM <https://duckduckgo.com/?q=IBM>`__
--  `Rails for Zombies <https://duckduckgo.com/?q=Rails+for+Zombies>`__
--  `WordPress <https://duckduckgo.com/?q=WordPress>`__
--  `Node.js <https://duckduckgo.com/?q=Node.js>`__
--  `Backbone <https://duckduckgo.com/?q=Backbone>`__
--  `TryRuby.org <https://duckduckgo.com/?q=TryRuby.org>`__
--  `Code TV <https://duckduckgo.com/?q=Code+TV>`__
--  `Screencast <https://duckduckgo.com/?q=Screencast>`__
--  `RailsConf <https://duckduckgo.com/?q=RailsConf>`__
--  `Python <https://duckduckgo.com/?q=Python>`__
--  `Rails Testing for Zombies <https://duckduckgo.com/?q=Rails+Testing+for+Zombies>`__
--  `Interfaces <https://duckduckgo.com/?q=Interfaces>`__
--  `Tá Safo Conf 2012 <http://tasafo.org/conf2012/>`__
--  `Speaker Deck <https://duckduckgo.com/?q=Speaker+Deck>`__
--  `Capitão América <https://duckduckgo.com/?q=Capitão+América>`__
--  `Thor <https://duckduckgo.com/?q=Thor>`__
--  `Hulk <https://duckduckgo.com/?q=Hulk>`__
--  `Netflix <https://duckduckgo.com/?q=Netflix>`__
--  `Weeds <https://duckduckgo.com/?q=Weeds>`__
--  `HoraExtra <https://duckduckgo.com/?q=HoraExtra>`__
--  `Swarm Inteligence <https://duckduckgo.com/?q=Swarm+Inteligence>`__
--  `Small Acts Manifesto <http://smallactsmanifesto.org/>`__
+-  `Henrique Bastos (DuckDuckGo)`_
+-  `Envy Labs`_
+-  `Ruby on Rails`_
+-  `Code School`_
+-  `JQuery`_
+-  `Ruby`_
+-  `Javascript`_
+-  `Coffee Script`_
+-  `HTML 5`_
+-  `CSS`_
+-  `Responsive Web`_
+-  `Welcome to the Django`_
+-  `Banco de dados`_
+-  `ActiveRecord`_
+-  `LivingSocial`_
+-  `NASA`_
+-  `New York Times`_
+-  `TopWorks`_
+-  `IBM`_
+-  `Rails for Zombies`_
+-  `WordPress`_
+-  `Node.js`_
+-  `Backbone`_
+-  `TryRuby.org`_
+-  `Code TV`_
+-  `Screencast`_
+-  `RailsConf`_
+-  `Python`_
+-  `Rails Testing for Zombies`_
+-  `Interfaces`_
+-  `Tá Safo Conf 2012`_
+-  `Speaker Deck`_
+-  `Capitão América`_
+-  `Thor`_
+-  `Hulk`_
+-  `Netflix`_
+-  `Weeds`_
+-  `HoraExtra`_
+-  `Swarm Inteligence`_
+-  `Small Acts Manifesto`_
 
 .. class:: panel-body bg-info
 
@@ -161,3 +155,65 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Henrique Bastos: http://www.castalio.info/henrique-bastos-welcome-to-the-django/
+.. _música da banda: https://www.facebook.com/heroeswillfall?sk=app_204974879526524
+.. _Heroes Will Fall: https://www.facebook.com/heroeswillfall
+.. _In Flames: http://www.last.fm/search?q=In+Flames
+.. _Metallica: http://www.last.fm/search?q=Metallica
+.. _Pantera: http://www.last.fm/search?q=Pantera
+.. _Sepultura: http://www.last.fm/search?q=Sepultura
+.. _Pendulum: http://www.last.fm/search?q=Pendulum
+.. _Massive Attack: http://www.last.fm/search?q=Massive+Attack
+.. _Postal Service: http://www.last.fm/search?q=Postal+Service
+.. _Blink 182: http://www.last.fm/search?q=Blink+182
+.. _Gold Finger: http://www.last.fm/search?q=Gold+Finger
+.. _Rancid: http://www.last.fm/search?q=Rancid
+.. _Crash: http://www.imdb.com/find?s=all&q=Crash
+.. _The Avengers: http://www.imdb.com/find?s=all&q=The+Avengers
+.. _Breaking Bad: http://www.imdb.com/find?s=all&q=Breaking+Bad
+.. _United States of Tara: http://www.imdb.com/find?s=all&q=United+States+of+Tara
+.. _Gunslinger: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gunslinger
+.. _Ramones: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ramones
+.. _Sepultura (Amazon): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sepultura
+.. _Mötley Crüe: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Mötley+Crüe
+.. _Henrique Bastos (DuckDuckGo): https://duckduckgo.com/?q=Henrique+Bastos
+.. _Envy Labs: https://duckduckgo.com/?q=Envy+Labs
+.. _Ruby on Rails: https://duckduckgo.com/?q=Ruby+on+Rails
+.. _Code School: https://duckduckgo.com/?q=Code+School
+.. _JQuery: https://duckduckgo.com/?q=JQuery
+.. _Ruby: https://duckduckgo.com/?q=Ruby
+.. _Javascript: https://duckduckgo.com/?q=Javascript
+.. _Coffee Script: https://duckduckgo.com/?q=Coffee+Script
+.. _HTML 5: https://duckduckgo.com/?q=HTML+5
+.. _CSS: https://duckduckgo.com/?q=CSS
+.. _Responsive Web: https://duckduckgo.com/?q=Responsive+Web
+.. _Welcome to the Django: https://duckduckgo.com/?q=Welcome+to+the+Django
+.. _Banco de dados: https://duckduckgo.com/?q=Banco+de+dados
+.. _ActiveRecord: https://duckduckgo.com/?q=ActiveRecord
+.. _LivingSocial: https://duckduckgo.com/?q=LivingSocial
+.. _NASA: https://duckduckgo.com/?q=NASA
+.. _New York Times: https://duckduckgo.com/?q=New+York+Times
+.. _TopWorks: https://duckduckgo.com/?q=TopWorks
+.. _IBM: https://duckduckgo.com/?q=IBM
+.. _Rails for Zombies: https://duckduckgo.com/?q=Rails+for+Zombies
+.. _WordPress: https://duckduckgo.com/?q=WordPress
+.. _Node.js: https://duckduckgo.com/?q=Node.js
+.. _Backbone: https://duckduckgo.com/?q=Backbone
+.. _TryRuby.org: https://duckduckgo.com/?q=TryRuby.org
+.. _Code TV: https://duckduckgo.com/?q=Code+TV
+.. _Screencast: https://duckduckgo.com/?q=Screencast
+.. _RailsConf: https://duckduckgo.com/?q=RailsConf
+.. _Python: https://duckduckgo.com/?q=Python
+.. _Rails Testing for Zombies: https://duckduckgo.com/?q=Rails+Testing+for+Zombies
+.. _Interfaces: https://duckduckgo.com/?q=Interfaces
+.. _Tá Safo Conf 2012: http://tasafo.org/conf2012/
+.. _Speaker Deck: https://duckduckgo.com/?q=Speaker+Deck
+.. _Capitão América: https://duckduckgo.com/?q=Capitão+América
+.. _Thor: https://duckduckgo.com/?q=Thor
+.. _Hulk: https://duckduckgo.com/?q=Hulk
+.. _Netflix: https://duckduckgo.com/?q=Netflix
+.. _Weeds: https://duckduckgo.com/?q=Weeds
+.. _HoraExtra: https://duckduckgo.com/?q=HoraExtra
+.. _Swarm Inteligence: https://duckduckgo.com/?q=Swarm+Inteligence
+.. _Small Acts Manifesto: http://smallactsmanifesto.org/
+.. _Powerful Interfaces: https://speakerdeck.com/u/caike/p/powerful-interfaces

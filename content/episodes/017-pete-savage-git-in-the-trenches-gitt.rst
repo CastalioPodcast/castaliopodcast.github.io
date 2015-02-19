@@ -27,20 +27,16 @@ Portuguese. When I asked my listeners if they would be interested in an
 episode in English with someone new and exciting, the answer was an
 overwhelming '**Yes**!'
 
-So for my very first episode in English I chose to interview a good
-friend of mine from several years: **Pete Savage**! During the next 58
-minutes we talked about how we first met through a **PyGtk** video he
-posted a while back during a **Linux User Group** meeting, how he first
-got involved with **Edubuntu**, and then moved on to several other
-projects such as **ProgBox** and **GeekDeck**, about the books that he's
-written including the reason for writing "**Emblem Divide**\ ", how much
-the **Japanese culture** plays a role in his daily life, and his **Top
-5** movies, books and movies! A transcript of this episode can be found
-`here <http://www.castalio.info/transcript-episode-17-pete-savage-git-in-the-trenches-gitt/>`__,
-as well as a
-`link <http://translate.google.com/translate?sl=auto&tl=pt&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.castalio.info%2Ftranscript-episode-17-pete-savage-git-in-the-trenches-gitt%2F&act=url>`__
-where you can translate it into your native language via `Google
-Translate <http://translate.google.com/>`__.
+So for my very first episode in English I chose to interview a good friend of
+mine from several years: **Pete Savage**! During the next 58 minutes we talked
+about how we first met through a **PyGtk** video he posted a while back during
+a **Linux User Group** meeting, how he first got involved with **Edubuntu**,
+and then moved on to several other projects such as **ProgBox** and
+**GeekDeck**, about the books that he's written including the reason for
+writing "**Emblem Divide**\ ", how much the **Japanese culture** plays a role
+in his daily life, and his **Top 5** movies, books and movies! A transcript of
+this episode can be found `here`_, as well as a `link`_ where you can
+translate it into your native language via `Google Translate`_.
 
 I had a great time chatting with Pete and I hope you'll also enjoy
 learning a bit more about him through this episode!
@@ -74,41 +70,82 @@ Summary
 
 Top 5
 -----
--  **Music**:  `Lagwagon <http://www.last.fm/music/Lagwagon>`__
--  **Music**:  `Green Day <http://www.last.fm/music/Green+Day>`__
--  **Music**:  `Mike Oldfield <http://www.last.fm/music/Mike+Oldfield>`__
--  **Music**:  `J-Rock <http://duckduckgo.com/?q=!lastfm%20Top%2010%20J-Rock%20Songs>`__
--  **Music**:  `J-Pop <http://www.last.fm/tag/j-pop>`__
--  **Books**:  `Night Watch <http://www.amazon.com/s/ref=ntt_athr_dp_sr_1?_encoding=UTF8&sort=relevancerank&search-alias=books&field-author=Sergei%20Lukyanenko#/ref=nb_sb_ss_i_1_11?field-keywords=night+watch+sergei+lukyanenko&url=search-alias%3Dstripbooks&sprefix=night+watch&rh=n%3A283155%2Ck%3Anight+watch+sergei+lukyanenko>`__ series by `Sergei Lukyanenko <https://secure.wikimedia.org/wikipedia/en/wiki/Sergei_Lukyanenko>`__
--  **Website**:  `Slashdot <http://slashdot.org/>`__
--  \*\*\*\*Website\*\*\*\*:  `The Register <http://www.theregister.co.uk/>`__
--  \*\*\*\*Website\*\*\*\*:  `The Daily WTF <http://thedailywtf.com/>`__
--  **Movies**:  `Kamikaze Girls <http://www.imdb.com/title/tt0416220/>`__
--  **Movies**:  `Inception <http://www.imdb.com/title/tt1375666/>`__
--  **Movies**:  `The Prestige <http://www.imdb.com/title/tt0482571/>`__
+-  **Music**:  `Lagwagon`_
+-  **Music**:  `Green Day`_
+-  **Music**:  `Mike Oldfield`_
+-  **Music**:  `J-Rock`_
+-  **Music**:  `J-Pop`_
+-  **Books**:  `Night Watch`_ series by `Sergei Lukyanenko`_
+-  **Website**:  `Slashdot`_
+-  \*\*\*\*Website\*\*\*\*:  `The Register`_
+-  \*\*\*\*Website\*\*\*\*:  `The Daily WTF`_
+-  **Movies**:  `Kamikaze Girls`_
+-  **Movies**:  `Inception`_
+-  **Movies**:  `The Prestige`_
 
 Links
 -----
--  `Greater New Hampshire Linux User Group (NHLUG) <http://gnhlug.org/>`__
--  `"Building GUI applications with Python, Gtk and Glade" <http://video.google.com/videoplay?docid=5838951374743244232>`__
--  `PyGtk <http://www.pygtk.org/>`__
--  `Duck Duck Go <https://duckduckgo.com/?t=i>`__
--  `Official Ubuntu Book <https://www.amazon.com/Official-Ubuntu-Book-Benjamin-Mako/dp/0132435942?tag=duckduckgo-d-20>`__
--  `Edubuntu <http://www.edubuntu.org/>`__
--  `PHP <http://www.php.net/>`__
--  `Knoppix <http://www.knoppix.org/>`__
--  `BETT Show <https://secure.wikimedia.org/wikipedia/en/wiki/BETT>`__
--  `StarOffice <https://secure.wikimedia.org/wikipedia/en/wiki/StarOffice>`__
+-  `Greater New Hampshire Linux User Group (NHLUG)`_
+-  `"Building GUI applications with Python, Gtk and Glade"`_
+-  `PyGtk`_
+-  `Duck Duck Go`_
+-  `Official Ubuntu Book`_
+-  `Edubuntu`_
+-  `PHP`_
+-  `Knoppix`_
+-  `BETT Show`_
+-  `StarOffice`_
 -  **ProgBox** (domain no longer around)
--  `BillReminder <http://billreminder.gnulinuxbrasil.org/>`__
--  `GeekDeck <http://geekdeck.wordpress.com/>`__
--  `Emblem Divide <http://emblemdivide.com/>`__
--  `Alchemy Reigns <http://alchemyreigns.wordpress.com/>`__
--  `Git in The Trenches (GITT) <https://github.com/cbx33/gitt>`__
--  `LaTeX <http://www.latex-project.org/>`__
--  `Dragon Ball <http://www.dragonball.com/>`__
--  `Bento lunchbox <http://www.bentolunchbox.com/>`__
--  `Tamagoyaki <https://secure.wikimedia.org/wikipedia/en/wiki/Tamagoyaki>`__
--  `Manga <https://secure.wikimedia.org/wikipedia/en/wiki/Manga>`__
--  `Hiragana <https://secure.wikimedia.org/wikipedia/en/wiki/Hiragana>`__ and `Katakana <https://secure.wikimedia.org/wikipedia/en/wiki/Katakana>`__
--  `Ethestra <https://github.com/cbx33/ethestra>`__
+-  `BillReminder`_
+-  `GeekDeck`_
+-  `Emblem Divide`_
+-  `Alchemy Reigns`_
+-  `Git in The Trenches (GITT)`_
+-  `LaTeX`_
+-  `Dragon Ball`_
+-  `Bento lunchbox`_
+-  `Tamagoyaki`_
+-  `Manga`_
+-  `Hiragana`_ and `Katakana`_
+-  `Ethestra`_
+
+
+.. _here: http://www.castalio.info/transcript-episode-17-pete-savage-git-in-the-trenches-gitt/
+.. _link: http://translate.google.com/translate?sl=auto&tl=pt&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.castalio.info%2Ftranscript-episode-17-pete-savage-git-in-the-trenches-gitt%2F&act=url
+.. _Google Translate: http://translate.google.com/
+.. _Lagwagon: http://www.last.fm/music/Lagwagon
+.. _Green Day: http://www.last.fm/music/Green+Day
+.. _Mike Oldfield: http://www.last.fm/music/Mike+Oldfield
+.. _J-Rock: http://duckduckgo.com/?q=!lastfm%20Top%2010%20J-Rock%20Songs
+.. _J-Pop: http://www.last.fm/tag/j-pop
+.. _Night Watch: http://www.amazon.com/s/ref=ntt_athr_dp_sr_1?_encoding=UTF8&sort=relevancerank&search-alias=books&field-author=Sergei%20Lukyanenko#/ref=nb_sb_ss_i_1_11?field-keywords=night+watch+sergei+lukyanenko&url=search-alias%3Dstripbooks&sprefix=night+watch&rh=n%3A283155%2Ck%3Anight+watch+sergei+lukyanenko
+.. _Slashdot: http://slashdot.org/
+.. _Sergei Lukyanenko: https://secure.wikimedia.org/wikipedia/en/wiki/Sergei_Lukyanenko
+.. _The Register: http://www.theregister.co.uk/
+.. _The Daily WTF: http://thedailywtf.com/
+.. _Kamikaze Girls: http://www.imdb.com/title/tt0416220/
+.. _Inception: http://www.imdb.com/title/tt1375666/
+.. _The Prestige: http://www.imdb.com/title/tt0482571/
+.. _Greater New Hampshire Linux User Group (NHLUG): http://gnhlug.org/
+.. _"Building GUI applications with Python, Gtk and Glade": http://video.google.com/videoplay?docid=5838951374743244232
+.. _PyGtk: http://www.pygtk.org/
+.. _Duck Duck Go: https://duckduckgo.com/?t=i
+.. _Official Ubuntu Book: https://www.amazon.com/Official-Ubuntu-Book-Benjamin-Mako/dp/0132435942?tag=duckduckgo-d-20
+.. _Edubuntu: http://www.edubuntu.org/
+.. _PHP: http://www.php.net/
+.. _Knoppix: http://www.knoppix.org/
+.. _BETT Show: https://secure.wikimedia.org/wikipedia/en/wiki/BETT
+.. _StarOffice: https://secure.wikimedia.org/wikipedia/en/wiki/StarOffice
+.. _BillReminder: http://billreminder.gnulinuxbrasil.org/
+.. _GeekDeck: http://geekdeck.wordpress.com/
+.. _Emblem Divide: http://emblemdivide.com/
+.. _Alchemy Reigns: http://alchemyreigns.wordpress.com/
+.. _Git in The Trenches (GITT): https://github.com/cbx33/gitt
+.. _LaTeX: http://www.latex-project.org/
+.. _Dragon Ball: http://www.dragonball.com/
+.. _Bento lunchbox: http://www.bentolunchbox.com/
+.. _Tamagoyaki: https://secure.wikimedia.org/wikipedia/en/wiki/Tamagoyaki
+.. _Manga: https://secure.wikimedia.org/wikipedia/en/wiki/Manga
+.. _Hiragana: https://secure.wikimedia.org/wikipedia/en/wiki/Hiragana
+.. _Katakana: https://secure.wikimedia.org/wikipedia/en/wiki/Katakana
+.. _Ethestra: https://github.com/cbx33/ethestra

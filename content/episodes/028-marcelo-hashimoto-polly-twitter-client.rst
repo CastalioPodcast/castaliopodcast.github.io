@@ -11,21 +11,18 @@ Marcelo Hashimoto: Polly Twitter Client
 
    Marcelo Hashimoto
 
-Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo
-deste ano! O convidado de hoje é o **Marcelo Hashimoto**, desenvolvedor
-do cliente de **Twitter** chamado **Polly**! Se você curte programar com
-**Gtk** e **Python**, ou tem interesse em conhecer um aplicativo
-específico para o seu sistem **Linux** para acessar o Twitter, então dê
-uma olhadinho no programa do Marcelo. Ultimamente o Polly tem atraído
-bastante atenção, especialmente depois de ter saído em sites como o
-`OMG! Ubuntu <http://www.omgubuntu.co.uk/>`__, `Ubuntu
-Dicas <http://www.ubuntudicas.com.br/blog/>`__ e `Ubuntero
-Brasil <http://www.ubuntero.com.br/>`__!
-| Durante nosso bate-papo, o Marcelo conta porque decidiu criar "mais um
-cliente para o Twitter", o que faz ele destacar dos outros, a história
+Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano!
+O convidado de hoje é o **Marcelo Hashimoto**, desenvolvedor do cliente de
+**Twitter** chamado **Polly**! Se você curte programar com **Gtk**
+e **Python**, ou tem interesse em conhecer um aplicativo específico para o seu
+sistem **Linux** para acessar o Twitter, então dê uma olhadinho no programa do
+Marcelo. Ultimamente o Polly tem atraído bastante atenção, especialmente depois
+de ter saído em sites como o `OMG! Ubuntu`_, `Ubuntu Dicas`_ e `Ubuntero
+Brasil`_!  | Durante nosso bate-papo, o Marcelo conta porque decidiu criar
+"mais um cliente para o Twitter", o que faz ele destacar dos outros, a história
 do nome do projeto (você sabia que o nome original do projeto era
-**schizobird**?), como lidar com usuários nos forums de pergunta, sobre
-seu doutorado, e o seu Top 5!
+**schizobird**?), como lidar com usuários nos forums de pergunta, sobre seu
+doutorado, e o seu Top 5!
 
 Escute Agora
 ------------
@@ -58,54 +55,104 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Halloween <http://www.last.fm/search?q=Halloween>`__
--  **Música:** `Savatage <http://www.last.fm/search?q=Savatage>`__
--  **Música:** `Metallica <http://www.last.fm/search?q=Metallica>`__
--  **Música:** `Megadeath <http://www.last.fm/search?q=Megadeath>`__
--  **Música:** `Annihilator <http://www.last.fm/search?q=Annihilator>`__
--  **Filmes:** `Piratas do Caribe <http://www.imdb.com/find?s=all&q=Piratas+do+Caribe>`__
--  **Livros:** `Victor Hugo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Victor+Hugo>`__
--  **Livros:** `Os Miseráveis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis>`__
--  **Livros:** `A Revolução dos Bichos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Revolução+dos+Bichos>`__
--  **Livros:** `O Parque dos Dinossáuros <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Parque+dos+Dinossáuros>`__
--  **Livros:** `Augusto dos Anjos <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Augusto+dos+Anjos>`__
--  **Livros:** `Carlos Drummond de Andrade <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Carlos+Drummond+de+Andrade>`__
--  **Livros:** `William Blake <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=William+Blake>`__
--  **Livros:** `Baudelaire <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Baudelaire>`__
+-  **Música:** `Halloween`_
+-  **Música:** `Savatage`_
+-  **Música:** `Metallica`_
+-  **Música:** `Megadeath`_
+-  **Música:** `Annihilator`_
+-  **Filmes:** `Piratas do Caribe`_
+-  **Livros:** `Victor Hugo`_
+-  **Livros:** `Os Miseráveis`_
+-  **Livros:** `A Revolução dos Bichos`_
+-  **Livros:** `O Parque dos Dinossáuros`_
+-  **Livros:** `Augusto dos Anjos`_
+-  **Livros:** `Carlos Drummond de Andrade`_
+-  **Livros:** `William Blake`_
+-  **Livros:** `Baudelaire`_
 
 Links
 -----
--  `Polly Twitter Client <https://duckduckgo.com/?q=Polly+Twitter+Client>`__
--  `Twitter <https://duckduckgo.com/?q=Twitter>`__
--  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
--  `Gwibber <https://duckduckgo.com/?q=Gwibber>`__
--  `Facebook <https://duckduckgo.com/?q=Facebook>`__
--  `Identi.ca <https://duckduckgo.com/?q=Identi.ca>`__
--  `Google Plus <https://duckduckgo.com/?q=Google+Plus>`__
--  `Pinot <https://duckduckgo.com/?q=Pinot>`__
--  `Hotot <https://duckduckgo.com/?q=Hotot>`__
--  `GNOME HIG <https://duckduckgo.com/?q=GNOME+HIG>`__
--  `Linguagem Python <https://duckduckgo.com/?q=Linguagem+Python>`__
--  `Gtk <https://duckduckgo.com/?q=Gtk>`__
--  `Foresight Linux <https://duckduckgo.com/?q=Foresight+Linux>`__
--  `Gtk3 <https://duckduckgo.com/?q=Gtk3>`__
--  `OMG Ubuntu <https://duckduckgo.com/?q=OMG+Ubuntu>`__
--  `Ubuntu Dicas <https://duckduckgo.com/?q=Ubuntu+Dicas>`__
--  `Ubuntero BR <https://duckduckgo.com/?q=Ubuntero+BR>`__
--  `BillReminder <https://duckduckgo.com/?q=BillReminder>`__
--  `Debian Linux <https://duckduckgo.com/?q=Debian+Linux>`__
--  `Monty Python <https://duckduckgo.com/?q=Monty+Python>`__
--  `Python Socks <https://duckduckgo.com/?q=Python+Socks>`__
--  `Launchpad <https://duckduckgo.com/?q=Launchpad>`__
--  `Penny Arcade <https://duckduckgo.com/?q=Penny+Arcade>`__
--  `Visão Computacional <https://duckduckgo.com/?q=Visão+Computacional>`__
--  `C++ <https://duckduckgo.com/?q=C++>`__
--  `OpenCV <https://duckduckgo.com/?q=OpenCV>`__
--  `libcv <https://duckduckgo.com/?q=libcv>`__
--  `Livraria Cultura <https://duckduckgo.com/?q=Livraria+Cultura>`__
--  `Enquete para o novo nome do aplicativo <http://www.omgubuntu.co.uk/2011/07/scizobird-seeking/>`__
--  `Monty Python: Polly o papagaio <http://www.myspace.com/video/vid/1390811>`__
+-  `Polly Twitter Client`_
+-  `Twitter`_
+-  `Ubuntu Linux`_
+-  `Gwibber`_
+-  `Facebook`_
+-  `Identi.ca`_
+-  `Google Plus`_
+-  `Pinot`_
+-  `Hotot`_
+-  `GNOME HIG`_
+-  `Linguagem Python`_
+-  `Gtk`_
+-  `Foresight Linux`_
+-  `Gtk3`_
+-  `OMG Ubuntu`_
+-  `Ubuntu Dicas (DuckDuckGo)`_
+-  `Ubuntero BR`_
+-  `BillReminder`_
+-  `Debian Linux`_
+-  `Monty Python`_
+-  `Python Socks`_
+-  `Launchpad`_
+-  `Penny Arcade`_
+-  `Visão Computacional`_
+-  `C++`_
+-  `OpenCV`_
+-  `libcv`_
+-  `Livraria Cultura`_
+-  `Enquete para o novo nome do aplicativo`_
+-  `Monty Python - Polly o papagaio`_
 
 .. class:: panel-body bg-info
 
-        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+        **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
+
+.. _OMG! Ubuntu: http://www.omgubuntu.co.uk/
+.. _Halloween: http://www.last.fm/search?q=Halloween
+.. _Savatage: http://www.last.fm/search?q=Savatage
+.. _Metallica: http://www.last.fm/search?q=Metallica
+.. _Megadeath: http://www.last.fm/search?q=Megadeath
+.. _Annihilator: http://www.last.fm/search?q=Annihilator
+.. _Piratas do Caribe: http://www.imdb.com/find?s=all&q=Piratas+do+Caribe
+.. _Victor Hugo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Victor+Hugo
+.. _Os Miseráveis: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis
+.. _A Revolução dos Bichos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Revolução+dos+Bichos
+.. _O Parque dos Dinossáuros: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Parque+dos+Dinossáuros
+.. _Augusto dos Anjos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Augusto+dos+Anjos
+.. _Carlos Drummond de Andrade: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Carlos+Drummond+de+Andrade
+.. _William Blake: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=William+Blake
+.. _Baudelaire: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Baudelaire
+.. _Polly Twitter Client: https://duckduckgo.com/?q=Polly+Twitter+Client
+.. _Twitter: https://duckduckgo.com/?q=Twitter
+.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
+.. _Gwibber: https://duckduckgo.com/?q=Gwibber
+.. _Facebook: https://duckduckgo.com/?q=Facebook
+.. _Identi.ca: https://duckduckgo.com/?q=Identi.ca
+.. _Google Plus: https://duckduckgo.com/?q=Google+Plus
+.. _Pinot: https://duckduckgo.com/?q=Pinot
+.. _Hotot: https://duckduckgo.com/?q=Hotot
+.. _GNOME HIG: https://duckduckgo.com/?q=GNOME+HIG
+.. _Linguagem Python: https://duckduckgo.com/?q=Linguagem+Python
+.. _Gtk: https://duckduckgo.com/?q=Gtk
+.. _Foresight Linux: https://duckduckgo.com/?q=Foresight+Linux
+.. _Gtk3: https://duckduckgo.com/?q=Gtk3
+.. _OMG Ubuntu: https://duckduckgo.com/?q=OMG+Ubuntu
+.. _Ubuntu Dicas (DuckDuckGo): https://duckduckgo.com/?q=Ubuntu+Dicas
+.. _Ubuntero BR: https://duckduckgo.com/?q=Ubuntero+BR
+.. _BillReminder: https://duckduckgo.com/?q=BillReminder
+.. _Debian Linux: https://duckduckgo.com/?q=Debian+Linux
+.. _Monty Python: https://duckduckgo.com/?q=Monty+Python
+.. _Python Socks: https://duckduckgo.com/?q=Python+Socks
+.. _Launchpad: https://duckduckgo.com/?q=Launchpad
+.. _Penny Arcade: https://duckduckgo.com/?q=Penny+Arcade
+.. _Visão Computacional: https://duckduckgo.com/?q=Visão+Computacional
+.. _C++: https://duckduckgo.com/?q=C++
+.. _OpenCV: https://duckduckgo.com/?q=OpenCV
+.. _libcv: https://duckduckgo.com/?q=libcv
+.. _Livraria Cultura: https://duckduckgo.com/?q=Livraria+Cultura
+.. _Enquete para o novo nome do aplicativo: http://www.omgubuntu.co.uk/2011/07/scizobird-seeking/
+.. _Monty Python - Polly o papagaio: http://www.myspace.com/video/vid/1390811
+.. _Sunday Night Learning: http://soundcloud.com/clebertsuconic/sunday-night-lerning
+.. _Clebert Suconic: http://soundcloud.com/clebertsuconic
+.. _Ubuntu Dicas: http://www.ubuntudicas.com.br/blog/
+.. _Ubuntero Brasil: http://www.ubuntero.com.br/

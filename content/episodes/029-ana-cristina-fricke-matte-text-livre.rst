@@ -14,8 +14,7 @@ Ana Cristina Fricke Matte: Texto Livre
 Olá pessoal! Sejam muito bem-vindos a mais um episódio, que quase não
 saiu devido a problemas técnicos de última hora! Mas felizmente consegui
 resgatar e editar um bate-papo muito interessante que tive com a **Ana
-Cristina Fricke Matte**, ou "a **acris**  do `Texto
-Livre <http://www.textolivre.org/site/>`__", como ele prefere. ;)
+Cristina Fricke Matte**, ou "a **acris**  do `Texto Livre`_", como ele prefere. ;)
 
 A acris conta sobre como a idéia do **Texto Livre** nasceu depois de uma
 reunião com a equipe do **Ubuntu Brasil** em 2006, os problemas que
@@ -55,53 +54,94 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Madonna <http://www.last.fm/search?q=Madonna>`__
--  **Filmes:** `Dexter <http://www.imdb.com/find?s=all&q=Dexter>`__
--  **Livros:** `Ponto de Impacto <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ponto+de+Impacto>`__
+-  **Música:** `Madonna`_
+-  **Filmes:** `Dexter`_
+-  **Livros:** `Ponto de Impacto`_
 
 Links
 -----
--  `Polly Twitter Client <https://duckduckgo.com/?q=Polly+Twitter+Client>`__
--  `Texto Livre <https://duckduckgo.com/?q=Texto+Livre>`__
--  `Universidade Federal de Minas Gerais <https://duckduckgo.com/?q=Universidade+Federal+de+Minas+Gerais>`__
--  `Evidosol <https://duckduckgo.com/?q=Evidosol>`__
--  `Revista Texto Livre <https://duckduckgo.com/?q=Revista+Texto+Livre>`__
--  `Ubuntu Brasil <https://duckduckgo.com/?q=Ubuntu+Brasil>`__
--  `Xoops <https://duckduckgo.com/?q=Xoops>`__
--  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
--  `Underlinux <https://duckduckgo.com/?q=Underlinux>`__
--  `Kernel <https://duckduckgo.com/?q=Kernel>`__
--  `Ning <https://duckduckgo.com/?q=Ning>`__
--  `Moodle <https://duckduckgo.com/?q=Moodle>`__
--  `Software Livre Educacional <https://duckduckgo.com/?q=Software+Livre+Educacional>`__
--  `Associação Software Livre <https://duckduckgo.com/?q=Associação+Software+Livre>`__
--  `Portal do Professor Livre na Rede <https://duckduckgo.com/?q=Portal+do+Professor+Livre+na+Rede>`__
--  `Inteligência Artificial <https://duckduckgo.com/?q=Inteligência+Artificial>`__
--  `Inteligência Adaptiva <https://duckduckgo.com/?q=Inteligência+Adaptiva>`__
--  `Universidade de São Paulo <https://duckduckgo.com/?q=Universidade+de+São+Paulo>`__
--  `Kurt Kraut <https://duckduckgo.com/?q=Kurt+Kraut>`__
--  `UFBA <https://duckduckgo.com/?q=UFBA>`__
--  `UNESP <https://duckduckgo.com/?q=UNESP>`__
--  `Laboratório de Semiótica e Tecnologia <https://duckduckgo.com/?q=Laboratório+de+Semiótica+e+Tecnologia>`__
--  `FAPEMIG <https://duckduckgo.com/?q=FAPEMIG>`__
--  `Amadeus <http://amadeus.cin.ufpe.br/blog/>`__
--  `WordPress <https://duckduckgo.com/?q=WordPress>`__
--  `ULGG <https://duckduckgo.com/?q=ULGG>`__
--  `GT de Educação do FILS <https://duckduckgo.com/?q=GT+de+Educação+do+FILS>`__
--  `FISL <https://duckduckgo.com/?q=FISL>`__
--  `Praat <https://duckduckgo.com/?q=Praat>`__
--  `Fedora Linux <https://duckduckgo.com/?q=Fedora+Linux>`__
--  `Slackware Linux <https://duckduckgo.com/?q=Slackware+Linux>`__
--  `Brasnet <https://duckduckgo.com/?q=Brasnet>`__
--  `Freenode <https://duckduckgo.com/?q=Freenode>`__
--  `UML <https://duckduckgo.com/?q=UML>`__
+-  `Polly Twitter Client`_
+-  `Texto Livre`_
+-  `Universidade Federal de Minas Gerais`_
+-  `Evidosol`_
+-  `Revista Texto Livre`_
+-  `Ubuntu Brasil`_
+-  `Xoops`_
+-  `Ubuntu Linux`_
+-  `Underlinux`_
+-  `Kernel`_
+-  `Ning`_
+-  `Moodle`_
+-  `Software Livre Educacional`_
+-  `Associação Software Livre`_
+-  `Portal do Professor Livre na Rede`_
+-  `Inteligência Artificial`_
+-  `Inteligência Adaptiva`_
+-  `Universidade de São Paulo`_
+-  `Kurt Kraut`_
+-  `UFBA`_
+-  `UNESP`_
+-  `Laboratório de Semiótica e Tecnologia`_
+-  `FAPEMIG`_
+-  `Amadeus`_
+-  `WordPress`_
+-  `ULGG`_
+-  `GT de Educação do FILS`_
+-  `FISL`_
+-  `Praat`_
+-  `Fedora Linux`_
+-  `Slackware Linux`_
+-  `Brasnet`_
+-  `Freenode`_
+-  `UML`_
 
-Para quem escutou o `último episódio <http://wp.me/p1mMfJ-20>`__ com o
+Para quem escutou o `último episódio`_ com o
 **Marcelo Hashimoto** sobre o cliente de **Twitter Polly**, e teve
 problemas por causa de incompatibilidade com versões do **Python <
 2.6**, ele já tem o código "portado", que pode ser encontrado
-aqui: \ https://code.launchpad.net/~conscioususer/polly/python2.6
+aqui: https://code.launchpad.net/~conscioususer/polly/python2.6
 
 .. class:: panel-body bg-info
 
-        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+        **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
+
+.. _Texto Livre: http://www.textolivre.org/site/
+.. _Madonna: http://www.last.fm/search?q=Madonna
+.. _Dexter: http://www.imdb.com/find?s=all&q=Dexter
+.. _Ponto de Impacto: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ponto+de+Impacto
+.. _Polly Twitter Client: https://duckduckgo.com/?q=Polly+Twitter+Client
+.. _Universidade Federal de Minas Gerais: https://duckduckgo.com/?q=Universidade+Federal+de+Minas+Gerais
+.. _Evidosol: https://duckduckgo.com/?q=Evidosol
+.. _Revista Texto Livre: https://duckduckgo.com/?q=Revista+Texto+Livre
+.. _Ubuntu Brasil: https://duckduckgo.com/?q=Ubuntu+Brasil
+.. _Xoops: https://duckduckgo.com/?q=Xoops
+.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
+.. _Underlinux: https://duckduckgo.com/?q=Underlinux
+.. _Kernel: https://duckduckgo.com/?q=Kernel
+.. _Ning: https://duckduckgo.com/?q=Ning
+.. _Moodle: https://duckduckgo.com/?q=Moodle
+.. _Software Livre Educacional: https://duckduckgo.com/?q=Software+Livre+Educacional
+.. _Associação Software Livre: https://duckduckgo.com/?q=Associação+Software+Livre
+.. _Portal do Professor Livre na Rede: https://duckduckgo.com/?q=Portal+do+Professor+Livre+na+Rede
+.. _Inteligência Artificial: https://duckduckgo.com/?q=Inteligência+Artificial
+.. _Inteligência Adaptiva: https://duckduckgo.com/?q=Inteligência+Adaptiva
+.. _Universidade de São Paulo: https://duckduckgo.com/?q=Universidade+de+São+Paulo
+.. _Kurt Kraut: https://duckduckgo.com/?q=Kurt+Kraut
+.. _UFBA: https://duckduckgo.com/?q=UFBA
+.. _UNESP: https://duckduckgo.com/?q=UNESP
+.. _Laboratório de Semiótica e Tecnologia: https://duckduckgo.com/?q=Laboratório+de+Semiótica+e+Tecnologia
+.. _FAPEMIG: https://duckduckgo.com/?q=FAPEMIG
+.. _Amadeus: http://amadeus.cin.ufpe.br/blog/
+.. _WordPress: https://duckduckgo.com/?q=WordPress
+.. _ULGG: https://duckduckgo.com/?q=ULGG
+.. _GT de Educação do FILS: https://duckduckgo.com/?q=GT+de+Educação+do+FILS
+.. _FISL: https://duckduckgo.com/?q=FISL
+.. _Praat: https://duckduckgo.com/?q=Praat
+.. _Fedora Linux: https://duckduckgo.com/?q=Fedora+Linux
+.. _Slackware Linux: https://duckduckgo.com/?q=Slackware+Linux
+.. _Brasnet: https://duckduckgo.com/?q=Brasnet
+.. _Freenode: https://duckduckgo.com/?q=Freenode
+.. _UML: https://duckduckgo.com/?q=UML
+.. _último episódio: http://wp.me/p1mMfJ-20
+.. _Sunday Night Learning: http://soundcloud.com/clebertsuconic/sunday-night-lerning
+.. _Clebert Suconic: http://soundcloud.com/clebertsuconic

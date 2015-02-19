@@ -11,7 +11,7 @@ Frederico Gonçalves Guimaraes - Software Livre Educacional
    Frederico Gonçalves Guimaraes
 
 Neste episódio conversei com o **Frederico Gonçalves Guimaraes** do
-projeto `Software Livre Educacional <http://sleducacional.org/>`__, que
+projeto `Software Livre Educacional`_, que
 tem como objetivo principal organizar documentação e traduzir softwares
 livres que possam ser utilizados por educadores. Durante nosso bate-papo
 o Frederico me explica o quanto é importante difundir o software livre
@@ -56,4 +56,9 @@ Top 5
 
 Links
 -----
--  Tradutor do `Claws Mail <http://claws-mail.org>`__, `GCompris <http://gcompris.net>`__, `TuxPaint <http://tuxpaint.org>`__
+-  Tradutor do `Claws Mail`_, `GCompris`_, `TuxPaint`_
+
+.. _Software Livre Educacional: http://sleducacional.org/
+.. _Claws Mail: http://claws-mail.org
+.. _GCompris: http://gcompris.net
+.. _TuxPaint: http://tuxpaint.org

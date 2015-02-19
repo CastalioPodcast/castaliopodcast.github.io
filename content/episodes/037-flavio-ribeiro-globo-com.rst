@@ -11,14 +11,13 @@ Flávio Ribeiro: Globo.com
 
    Flávio Ribeiro: Globo.com
 
-Eu gosto muito quando alguém me sugere um livro, filme, música ou pessoa
-para conhecer, e depois de trocar uns e-mails com meu amigo `Yuri
-Malheiros <http://www.castalio.info/yuri-malheiros-engenharia-de-software-e-inteligencia-artificial/>`__
-na semana passada, decidi convidar o **Flávio Ribeiro** para uma
-entrevista! O Flávio é um **engenheiro de software** que trabalha na
-**Globo.com** no Rio de Janeiro (na entrevista parecia que ele estava
-sentado bem no meio de **Interlagos** hehehe) e está na equipe
-responsável por toda a área de streaming de conteúdo pela net!
+Eu gosto muito quando alguém me sugere um livro, filme, música ou pessoa para
+conhecer, e depois de trocar uns e-mails com meu amigo `Yuri Malheiros`_ na
+semana passada, decidi convidar o **Flávio Ribeiro** para uma entrevista!
+O Flávio é um **engenheiro de software** que trabalha na **Globo.com** no Rio
+de Janeiro (na entrevista parecia que ele estava sentado bem no meio de
+**Interlagos** hehehe) e está na equipe responsável por toda a área de
+streaming de conteúdo pela net!
 
 Durante nosos bate-papo ele me contou sobre como que sua equipe usa a
 metodologia **SCRUM** para administrar e planejar suas tarefas, quais as
@@ -65,84 +64,84 @@ Resumo
 
 Top 5
 -----
--  **Música:** `The Strokes <http://www.last.fm/search?q=The+Strokes>`__
--  **Música:** `Cooks <http://www.last.fm/search?q=Cooks>`__
--  **Música:** `The Fratellis <http://www.last.fm/search?q=The+Fratellis>`__
--  **Música:** `Some 451 <http://www.last.fm/search?q=Some+451>`__
--  **Música:** `Streetlight Manifesto <http://www.last.fm/search?q=Streetlight+Manifesto>`__
--  **Música:** `Silverchair <http://www.last.fm/search?q=Silverchair>`__
--  **Música:** `Rise Against <http://www.last.fm/search?q=Rise+Against>`__
--  **Música:** `System of a Down <http://www.last.fm/search?q=System+of+a+Down>`__
--  **Música:** `Flogging Molly <http://www.last.fm/search?q=Flogging+Molly>`__
--  **Filmes:** `Family Guy <http://www.imdb.com/find?s=all&q=Family+Guy>`__
--  **Filmes:** `The Cleveland Show <http://www.imdb.com/find?s=all&q=The+Cleveland+Show>`__
--  **Filmes:** `The Walking Dead <http://www.imdb.com/find?s=all&q=The+Walking+Dead>`__
--  **Filmes:** `The Pacific <http://www.imdb.com/find?s=all&q=The+Pacific>`__
--  **Filmes:** `Simpsons <http://www.imdb.com/find?s=all&q=Simpsons>`__
--  **Livros:** `Clean Code <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clean+Code>`__
--  **Livros:** `The Clean Coder <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Clean+Coder>`__
--  **Livros:** `Land of Lisp <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Land+of+Lisp>`__
--  **Livros:** `Hackers and Painters <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters>`__
--  **Livros:** `Programming Collective Intelligence <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Collective+Intelligence>`__
+-  **Música:** `The Strokes`_
+-  **Música:** `Cooks`_
+-  **Música:** `The Fratellis`_
+-  **Música:** `Some 451`_
+-  **Música:** `Streetlight Manifesto`_
+-  **Música:** `Silverchair`_
+-  **Música:** `Rise Against`_
+-  **Música:** `System of a Down`_
+-  **Música:** `Flogging Molly`_
+-  **Filmes:** `Family Guy`_
+-  **Filmes:** `The Cleveland Show`_
+-  **Filmes:** `The Walking Dead`_
+-  **Filmes:** `The Pacific`_
+-  **Filmes:** `Simpsons`_
+-  **Livros:** `Clean Code`_
+-  **Livros:** `The Clean Coder`_
+-  **Livros:** `Land of Lisp`_
+-  **Livros:** `Hackers and Painters`_
+-  **Livros:** `Programming Collective Intelligence`_
 
 Links
 -----
--  `Rede Globo <https://duckduckgo.com/?q=Rede+Globo>`__
--  `Scrum <https://duckduckgo.com/?q=Scrum>`__
--  `Big Brother <https://duckduckgo.com/?q=Big+Brother>`__
--  `UFC <https://duckduckgo.com/?q=UFC>`__
--  `Scrum Master <https://duckduckgo.com/?q=Scrum+Master>`__
--  `Code Sprints <https://duckduckgo.com/?q=Code+Sprints>`__
--  `Flash Media Server <https://duckduckgo.com/?q=Flash+Media+Server>`__
--  `Apple <https://duckduckgo.com/?q=Apple>`__
--  `Programação Python <https://duckduckgo.com/?q=Programação+Python>`__
--  `nginx <https://duckduckgo.com/?q=nginx>`__
--  `C/C++ <https://duckduckgo.com/?q=C/C++>`__
--  `Ruby <https://duckduckgo.com/?q=Ruby>`__
--  `Tornado <https://duckduckgo.com/?q=Tornado>`__
--  `Flask <https://duckduckgo.com/?q=Flask>`__
--  `Ruby on Rails <https://duckduckgo.com/?q=Ruby+on+Rails>`__
--  `MongoDB <https://duckduckgo.com/?q=MongoDB>`__
--  `Andrews Medina <https://duckduckgo.com/?q=Andrews+Medina>`__
--  `Python Brasil <https://duckduckgo.com/?q=Python+Brasil>`__
--  `Github <https://duckduckgo.com/?q=Github>`__
--  `Os Trapalhões <https://duckduckgo.com/?q=Os+Trapalhões>`__
--  `Fantástico <https://duckduckgo.com/?q=Fantástico>`__
--  `Domingão do Faustão <https://duckduckgo.com/?q=Domingão+do+Faustão>`__
--  `Globo TV <https://duckduckgo.com/?q=Globo+TV>`__
--  `Youtube <https://duckduckgo.com/?q=Youtube>`__
--  `Fedex Day <https://duckduckgo.com/?q=Fedex+Day>`__
--  `Streaming Media East 2012 <https://duckduckgo.com/?q=Streaming+Media+East+2012>`__
--  `Roku <https://duckduckgo.com/?q=Roku>`__
--  `SDK <https://duckduckgo.com/?q=SDK>`__
--  `MTV <https://duckduckgo.com/?q=MTV>`__
--  `Netflix <https://duckduckgo.com/?q=Netflix>`__
--  `Music Video Awards <https://duckduckgo.com/?q=Music+Video+Awards>`__
--  `Gabriel Falcão <https://duckduckgo.com/?q=Gabriel+Falcão>`__
--  `NY Times <https://duckduckgo.com/?q=NY+Times>`__
--  `NY City <https://duckduckgo.com/?q=NY+City>`__
--  `Brooklyn <https://duckduckgo.com/?q=Brooklyn>`__
--  `Manhattan <https://duckduckgo.com/?q=Manhattan>`__
--  `Bolacha <https://duckduckgo.com/?q=Bolacha>`__
--  `Yipit <https://duckduckgo.com/?q=Yipit>`__
--  `Instagram <https://duckduckgo.com/?q=Instagram>`__
--  `Broadway <https://duckduckgo.com/?q=Broadway>`__
--  `Estátua da Liberdade <https://duckduckgo.com/?q=Estátua+da+Liberdade>`__
--  `Treze Futebol Clube <https://duckduckgo.com/?q=Treze+Futebol+Clube>`__
--  `FX Channel <https://duckduckgo.com/?q=FX+Channel>`__
--  `Fox Channel <https://duckduckgo.com/?q=Fox+Channel>`__
--  `Kindle <https://duckduckgo.com/?q=Kindle>`__
--  `Programação Lisp <https://duckduckgo.com/?q=Programação+Lisp>`__
--  `Clojure <https://duckduckgo.com/?q=Clojure>`__
--  `Stewie <http://cobrateam.github.com/stewie/>`__
--  `4Clojure <https://duckduckgo.com/?q=4Clojure>`__
--  `FISL 13 <https://duckduckgo.com/?q=FISL+13>`__
--  `Objective Oriented Programming <https://duckduckgo.com/?q=Objective+Oriented+Programming>`__
--  `Functional Programming <https://duckduckgo.com/?q=Functional+Programming>`__
--  `Rebel Code <https://duckduckgo.com/?q=Rebel+Code>`__
--  `Richard Stallman <https://duckduckgo.com/?q=Richard+Stallman>`__
--  `Miguel de Icaza <https://duckduckgo.com/?q=Miguel+de+Icaza>`__
--  `Linus Torvald <https://duckduckgo.com/?q=Linus+Torvald>`__
+-  `Rede Globo`_
+-  `Scrum`_
+-  `Big Brother`_
+-  `UFC`_
+-  `Scrum Master`_
+-  `Code Sprints`_
+-  `Flash Media Server`_
+-  `Apple`_
+-  `Programação Python`_
+-  `nginx`_
+-  `C/C++`_
+-  `Ruby`_
+-  `Tornado`_
+-  `Flask`_
+-  `Ruby on Rails`_
+-  `MongoDB`_
+-  `Andrews Medina`_
+-  `Python Brasil`_
+-  `Github`_
+-  `Os Trapalhões`_
+-  `Fantástico`_
+-  `Domingão do Faustão`_
+-  `Globo TV`_
+-  `Youtube`_
+-  `Fedex Day`_
+-  `Streaming Media East 2012`_
+-  `Roku`_
+-  `SDK`_
+-  `MTV`_
+-  `Netflix`_
+-  `Music Video Awards`_
+-  `Gabriel Falcão`_
+-  `NY Times`_
+-  `NY City`_
+-  `Brooklyn`_
+-  `Manhattan`_
+-  `Bolacha`_
+-  `Yipit`_
+-  `Instagram`_
+-  `Broadway`_
+-  `Estátua da Liberdade`_
+-  `Treze Futebol Clube`_
+-  `FX Channel`_
+-  `Fox Channel`_
+-  `Kindle`_
+-  `Programação Lisp`_
+-  `Clojure`_
+-  `Stewie`_
+-  `4Clojure`_
+-  `FISL 13`_
+-  `Objective Oriented Programming`_
+-  `Functional Programming`_
+-  `Rebel Code`_
+-  `Richard Stallman`_
+-  `Miguel de Icaza`_
+-  `Linus Torvald`_
 
 .. class:: panel-body bg-info
 
@@ -151,3 +150,79 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Yuri Malheiros: http://www.castalio.info/yuri-malheiros-engenharia-de-software-e-inteligencia-artificial/
+.. _The Strokes: http://www.last.fm/search?q=The+Strokes
+.. _Cooks: http://www.last.fm/search?q=Cooks
+.. _The Fratellis: http://www.last.fm/search?q=The+Fratellis
+.. _Some 451: http://www.last.fm/search?q=Some+451
+.. _Streetlight Manifesto: http://www.last.fm/search?q=Streetlight+Manifesto
+.. _Silverchair: http://www.last.fm/search?q=Silverchair
+.. _Rise Against: http://www.last.fm/search?q=Rise+Against
+.. _System of a Down: http://www.last.fm/search?q=System+of+a+Down
+.. _Flogging Molly: http://www.last.fm/search?q=Flogging+Molly
+.. _Family Guy: http://www.imdb.com/find?s=all&q=Family+Guy
+.. _The Cleveland Show: http://www.imdb.com/find?s=all&q=The+Cleveland+Show
+.. _The Walking Dead: http://www.imdb.com/find?s=all&q=The+Walking+Dead
+.. _The Pacific: http://www.imdb.com/find?s=all&q=The+Pacific
+.. _Simpsons: http://www.imdb.com/find?s=all&q=Simpsons
+.. _Clean Code: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clean+Code
+.. _The Clean Coder: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Clean+Coder
+.. _Land of Lisp: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Land+of+Lisp
+.. _Hackers and Painters: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters
+.. _Programming Collective Intelligence: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Collective+Intelligence
+.. _Rede Globo: https://duckduckgo.com/?q=Rede+Globo
+.. _Scrum: https://duckduckgo.com/?q=Scrum
+.. _Big Brother: https://duckduckgo.com/?q=Big+Brother
+.. _UFC: https://duckduckgo.com/?q=UFC
+.. _Scrum Master: https://duckduckgo.com/?q=Scrum+Master
+.. _Code Sprints: https://duckduckgo.com/?q=Code+Sprints
+.. _Flash Media Server: https://duckduckgo.com/?q=Flash+Media+Server
+.. _Apple: https://duckduckgo.com/?q=Apple
+.. _Programação Python: https://duckduckgo.com/?q=Programação+Python
+.. _nginx: https://duckduckgo.com/?q=nginx
+.. _C/C++: https://duckduckgo.com/?q=C/C++
+.. _Ruby: https://duckduckgo.com/?q=Ruby
+.. _Tornado: https://duckduckgo.com/?q=Tornado
+.. _Flask: https://duckduckgo.com/?q=Flask
+.. _Ruby on Rails: https://duckduckgo.com/?q=Ruby+on+Rails
+.. _MongoDB: https://duckduckgo.com/?q=MongoDB
+.. _Andrews Medina: https://duckduckgo.com/?q=Andrews+Medina
+.. _Python Brasil: https://duckduckgo.com/?q=Python+Brasil
+.. _Github: https://duckduckgo.com/?q=Github
+.. _Os Trapalhões: https://duckduckgo.com/?q=Os+Trapalhões
+.. _Fantástico: https://duckduckgo.com/?q=Fantástico
+.. _Domingão do Faustão: https://duckduckgo.com/?q=Domingão+do+Faustão
+.. _Globo TV: https://duckduckgo.com/?q=Globo+TV
+.. _Youtube: https://duckduckgo.com/?q=Youtube
+.. _Fedex Day: https://duckduckgo.com/?q=Fedex+Day
+.. _Streaming Media East 2012: https://duckduckgo.com/?q=Streaming+Media+East+2012
+.. _Roku: https://duckduckgo.com/?q=Roku
+.. _SDK: https://duckduckgo.com/?q=SDK
+.. _MTV: https://duckduckgo.com/?q=MTV
+.. _Netflix: https://duckduckgo.com/?q=Netflix
+.. _Music Video Awards: https://duckduckgo.com/?q=Music+Video+Awards
+.. _Gabriel Falcão: https://duckduckgo.com/?q=Gabriel+Falcão
+.. _NY Times: https://duckduckgo.com/?q=NY+Times
+.. _NY City: https://duckduckgo.com/?q=NY+City
+.. _Brooklyn: https://duckduckgo.com/?q=Brooklyn
+.. _Manhattan: https://duckduckgo.com/?q=Manhattan
+.. _Bolacha: https://duckduckgo.com/?q=Bolacha
+.. _Yipit: https://duckduckgo.com/?q=Yipit
+.. _Instagram: https://duckduckgo.com/?q=Instagram
+.. _Broadway: https://duckduckgo.com/?q=Broadway
+.. _Estátua da Liberdade: https://duckduckgo.com/?q=Estátua+da+Liberdade
+.. _Treze Futebol Clube: https://duckduckgo.com/?q=Treze+Futebol+Clube
+.. _FX Channel: https://duckduckgo.com/?q=FX+Channel
+.. _Fox Channel: https://duckduckgo.com/?q=Fox+Channel
+.. _Kindle: https://duckduckgo.com/?q=Kindle
+.. _Programação Lisp: https://duckduckgo.com/?q=Programação+Lisp
+.. _Clojure: https://duckduckgo.com/?q=Clojure
+.. _Stewie: http://cobrateam.github.com/stewie/
+.. _4Clojure: https://duckduckgo.com/?q=4Clojure
+.. _FISL 13: https://duckduckgo.com/?q=FISL+13
+.. _Objective Oriented Programming: https://duckduckgo.com/?q=Objective+Oriented+Programming
+.. _Functional Programming: https://duckduckgo.com/?q=Functional+Programming
+.. _Rebel Code: https://duckduckgo.com/?q=Rebel+Code
+.. _Richard Stallman: https://duckduckgo.com/?q=Richard+Stallman
+.. _Miguel de Icaza: https://duckduckgo.com/?q=Miguel+de+Icaza
+.. _Linus Torvald: https://duckduckgo.com/?q=Linus+Torvald

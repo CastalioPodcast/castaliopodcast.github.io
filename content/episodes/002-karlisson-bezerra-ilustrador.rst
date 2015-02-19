@@ -5,10 +5,9 @@ Episódio 1: Karlisson Bezerra, Ilustrador
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-02/castalio-podcast-02.mp3
 
-Em um sábado ensolarado (aqui em North Carolina pelo menos, não sei em
-Natal ou São Paulo) tivemos o prazer de conversar com o **Karlisson
-Bezerra**, desenvolvedor web e ilustrador do famoso `Nerdson não vai à
-Escola <http://nerdson.com/blog/>`__.
+Em um sábado ensolarado (aqui em North Carolina pelo menos, não sei em Natal ou
+São Paulo) tivemos o prazer de conversar com o **Karlisson Bezerra**,
+desenvolvedor web e ilustrador do famoso `Nerdson não vai à Escola`_.
 
 .. figure:: {filename}/images/karlissonbezerra.jpg
    :alt: Sr. Tartaruga
@@ -28,7 +27,12 @@ Escute Agora
 
 Links
 -----
--  `Nerdson não vai à escola <http://nerdson.com/blog/>`__
--  `Inkscape <http://inkscape.org/>`__
--  `1001 Códigos Que Você Precisa Implementar Antes De Morrer <https://github.com/karlisson/1001>`__
+-  `Nerdson não vai à escola`_
+-  `Inkscape`_
+-  `1001 Códigos Que Você Precisa Implementar Antes De Morrer`_
 -  ... **e trocentos assuntos variados!**
+
+.. _Nerdson não vai à Escola: http://nerdson.com/blog/
+.. _Nerdson não vai à escola: http://nerdson.com/blog/
+.. _Inkscape: http://inkscape.org/
+.. _1001 Códigos Que Você Precisa Implementar Antes De Morrer: https://github.com/karlisson/1001

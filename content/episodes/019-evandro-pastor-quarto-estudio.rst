@@ -14,9 +14,8 @@ Evandro Pastor: Quarto Estudio
 No episódio de hoje vocês vão ter a oportunidade de conhecer um pouco
 melhor o **Evandro Pastor**, co-fundador deste podcast e amigo de guerra
 de vários anos! Vocês vão aprender sobre como nasceu a sua companhia de
-web design, `Quarto Estudio <http://www.quartoestudio.com/web/>`__,
-sobre o tempo que ele passou trabalhando no `parque de diversões do
-Gugu <https://www.facebook.com/pages/Parque-do-Gugu/143888722341418>`__,
+web design, `Quarto Estudio`_,
+sobre o tempo que ele passou trabalhando no `parque de diversões do Gugu`_,
 o que ele pensa sobre os **cursos de web design no Brasil**, sua paixão
 por video games, sua mudança para o interiorrrr de São Paulo e o começo
 de seu Plano C.
@@ -63,38 +62,73 @@ Resumo
 
 Top 5
 -----
--  **Filmes**: `O Corvo <http://www.imdb.com/title/tt0109506/>`__
--  **Filmes**: `Blade Runner <http://www.imdb.com/title/tt0083658/>`__
--  **Filmes**: `Snatch <http://www.imdb.com/title/tt0208092/>`__
--  **Filmes**: `O Fabuloso Destino de Amelie Polan <http://www.imdb.com/title/tt0211915/>`__
--  **Filmes**: `Fogo Contra Fogo <http://www.imdb.com/title/tt0113277/>`__
--  **Música**: `The Prodigy <http://www.last.fm/search?q=The+Prodigy&from=ac>`__
--  **Música**: `Maria Rita <http://www.last.fm/music/Maria+Rita>`__
--  **Música**: `Oasis <http://www.last.fm/music/Oasis>`__
--  **Música**: `Iron Maden <http://www.last.fm/music/Iron+Maiden>`__
--  **Música**: `Genival Lacerda <http://www.last.fm/music/Genival%2520Lacerda?ac=genival%20lace>`__
--  **Música**: `Smiths <http://www.last.fm/music/The+Smiths>`__
--  **Música**: `Two Brothers on the Fourth Floor <http://www.last.fm/music/2+Brothers+On+The+4th+Floor>`__
+-  **Filmes**: `O Corvo`_
+-  **Filmes**: `Blade Runner`_
+-  **Filmes**: `Snatch`_
+-  **Filmes**: `O Fabuloso Destino de Amelie Polan`_
+-  **Filmes**: `Fogo Contra Fogo`_
+-  **Música**: `The Prodigy`_
+-  **Música**: `Maria Rita`_
+-  **Música**: `Oasis`_
+-  **Música**: `Iron Maden`_
+-  **Música**: `Genival Lacerda`_
+-  **Música**: `Smiths`_
+-  **Música**: `Two Brothers on the Fourth Floor`_
 -  **Música**: Too Limited (?)
--  **Livros/Web Sites**: `Portal R7 <http://www.r7.com/>`__
+-  **Livros/Web Sites**: `Portal R7`_
 
 Links
 -----
--  `Photoshop <https://www.photoshop.com/>`__
--  `Illustrator <http://www.adobe.com/products/illustrator.html>`__
--  `Dreamweaver <http://www.adobe.com/products/dreamweaver.html>`__
--  `Vídeo Tutorial de WordPress <http://quartoestudio.com/cursowordpress/>`__
--  `WordPress <http://wordpress.org/>`__
--  `Foresight Linux <http://www.foresightlinux.org/>`__
--  `Ana White <http://ana-white.com/>`__
--  `Gimp <http://www.gimp.org/>`__
--  `Inkscape <http://www.inkscape.org/>`__
--  `Conectiva Linux <https://en.wikipedia.org/wiki/Conectiva>`__
--  `TextWrangler <http://www.barebones.com/products/textwrangler/index.html>`__
--  `TextMate <http://www.macromates.com/>`__
--  `Safari <http://www.apple.com/safari/>`__
--  `Chrome <http://www.google.com/chrome/>`__
--  `Firefox <https://www.mozilla.org/en-US/firefox/new/>`__
--  `iTunes <http://www.apple.com/itunes/>`__
--  `Text Expander <http://smilesoftware.com/TextExpander/>`__
--  `Código Livre Cast <http://codigolivre.net/>`__
+-  `Photoshop`_
+-  `Illustrator`_
+-  `Dreamweaver`_
+-  `Vídeo Tutorial de WordPress`_
+-  `WordPress`_
+-  `Foresight Linux`_
+-  `Ana White`_
+-  `Gimp`_
+-  `Inkscape`_
+-  `Conectiva Linux`_
+-  `TextWrangler`_
+-  `TextMate`_
+-  `Safari`_
+-  `Chrome`_
+-  `Firefox`_
+-  `iTunes`_
+-  `Text Expander`_
+-  `Código Livre Cast`_
+
+
+.. _Quarto Estudio: http://www.quartoestudio.com/web/
+.. _parque de diversões do Gugu: https://www.facebook.com/pages/Parque-do-Gugu/143888722341418
+.. _O Corvo: http://www.imdb.com/title/tt0109506/
+.. _Código Livre Cast: http://codigolivre.net/
+.. _Blade Runner: http://www.imdb.com/title/tt0083658/
+.. _Snatch: http://www.imdb.com/title/tt0208092/
+.. _O Fabuloso Destino de Amelie Polan: http://www.imdb.com/title/tt0211915/
+.. _Fogo Contra Fogo: http://www.imdb.com/title/tt0113277/
+.. _The Prodigy: http://www.last.fm/search?q=The+Prodigy&from=ac
+.. _Maria Rita: http://www.last.fm/music/Maria+Rita
+.. _Oasis: http://www.last.fm/music/Oasis
+.. _Iron Maden: http://www.last.fm/music/Iron+Maiden
+.. _Genival Lacerda: http://www.last.fm/music/Genival%2520Lacerda?ac=genival%20lace
+.. _Smiths: http://www.last.fm/music/The+Smiths
+.. _Two Brothers on the Fourth Floor: http://www.last.fm/music/2+Brothers+On+The+4th+Floor
+.. _Portal R7: http://www.r7.com/
+.. _Photoshop: https://www.photoshop.com/
+.. _Illustrator: http://www.adobe.com/products/illustrator.html
+.. _Dreamweaver: http://www.adobe.com/products/dreamweaver.html
+.. _Vídeo Tutorial de WordPress: http://quartoestudio.com/cursowordpress/
+.. _WordPress: http://wordpress.org/
+.. _Foresight Linux: http://www.foresightlinux.org/
+.. _Ana White: http://ana-white.com/
+.. _Gimp: http://www.gimp.org/
+.. _Inkscape: http://www.inkscape.org/
+.. _Conectiva Linux: https://en.wikipedia.org/wiki/Conectiva
+.. _TextWrangler: http://www.barebones.com/products/textwrangler/index.html
+.. _TextMate: http://www.macromates.com/
+.. _Safari: http://www.apple.com/safari/
+.. _Chrome: http://www.google.com/chrome/
+.. _Firefox: https://www.mozilla.org/en-US/firefox/new/
+.. _iTunes: http://www.apple.com/itunes/
+.. _Text Expander: http://smilesoftware.com/TextExpander/

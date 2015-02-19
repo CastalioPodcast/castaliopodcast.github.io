@@ -33,16 +33,31 @@ Escute Agora
 
 Links
 -----
--  `BRASnet <http://www.wordiq.com/definition/BRASnet>`__
--  `IRC <https://secure.wikimedia.org/wikipedia/pt/wiki/Internet_Relay_Chat>`__
--  `LaTex <https://secure.wikimedia.org/wikipedia/pt/wiki/Latex>`__
--  `Mercurial <https://secure.wikimedia.org/wikipedia/pt/wiki/Mercurial>`__
--  `Mandriva <https://secure.wikimedia.org/wikipedia/pt/wiki/Mandriva>`__
--  **Livro:** "`Rework <http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&qid=1299937824&sr=8-1>`__\ " por **Jason Fried**
--  **Livro:** `"On the Origin of Species" <http://www.amazon.com/origin-species-ebook/dp/B002RKSV2U/ref=sr_1_1?ie=UTF8&m=AG56TWVU5XWC2&s=digital-text&qid=1299938416&sr=1-1>`__ por **Darwin**
--  **Filmes: \ `Koyaanisqatsi <http://pt.wikipedia.org/wiki/Koyaanisqatsi>`__, \ `Powaqqatsi <http://pt.wikipedia.org/wiki/Powaqqatsi>`__ e \ `Naqoyqatsi <http://pt.wikipedia.org/wiki/Naqoyqatsi>`__**
--  `TextoLivre.org <http://TextoLivre.org>`__
--  `UPX.com.br <http://UPX.com.br>`__
--  `37Signals <http://37signals.com/>`__
+-  `BRASnet`_
+-  `IRC`_
+-  `LaTex`_
+-  `Mercurial`_
+-  `Mandriva`_
+-  **Livro:** "`Rework`_\ " por **Jason Fried**
+-  **Livro:** `"On the Origin of Species"`_ por **Darwin**
+-  **Filmes: `Koyaanisqatsi`_, `Powaqqatsi`_ e `Naqoyqatsi`_**
+-  `TextoLivre.org`_
+-  `UPX.com.br`_
+-  `37Signals`_
 -  **Blog**: kurtkraut.net (Samara)
--  **Twitter**: `http://twitter.com/kurtkraut <http://twitter.com/#!/kurtkraut>`__
+-  **Twitter**: `@kurtkraut`_
+
+.. _BRASnet: http://www.wordiq.com/definition/BRASnet
+.. _IRC: https://secure.wikimedia.org/wikipedia/pt/wiki/Internet_Relay_Chat
+.. _LaTex: https://secure.wikimedia.org/wikipedia/pt/wiki/Latex
+.. _Mercurial: https://secure.wikimedia.org/wikipedia/pt/wiki/Mercurial
+.. _Mandriva: https://secure.wikimedia.org/wikipedia/pt/wiki/Mandriva
+.. _Rework: http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&qid=1299937824&sr=8-1
+.. _"On the Origin of Species": http://www.amazon.com/origin-species-ebook/dp/B002RKSV2U/ref=sr_1_1?ie=UTF8&m=AG56TWVU5XWC2&s=digital-text&qid=1299938416&sr=1-1
+.. _Koyaanisqatsi: http://pt.wikipedia.org/wiki/Koyaanisqatsi
+.. _Powaqqatsi: http://pt.wikipedia.org/wiki/Powaqqatsi
+.. _Naqoyqatsi: http://pt.wikipedia.org/wiki/Naqoyqatsi
+.. _TextoLivre.org: http://TextoLivre.org
+.. _UPX.com.br: http://UPX.com.br
+.. _37Signals: http://37signals.com/
+.. _@kurtkraut: http://twitter.com/#!/kurtkraut

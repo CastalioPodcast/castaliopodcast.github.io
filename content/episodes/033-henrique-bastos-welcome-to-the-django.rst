@@ -28,18 +28,16 @@ nasceu e evoluiu.
 
 .. more
 
-Durante nosso bate-papo o Henrique nos conta sobre o seu projeto e como
-que invés de ensinar o be-a-bá, ele usa e abusa de técnicas de
-desenvolvimento ágil, deployment first, **Heroku**, **Github** e muita
-interação para uma experiência rica e didática de dar inveja a muitos
-cursos por ai! Depois ele conta como que nasceu a Dekode, sua companhia
-de desenvolvedores "**black belt**\ " criada para providenciar um
-serviço de apoio "nível 2" para aquelas horas do aperto. Também falamos
-sobre a comunidade **Python** do Brasil, `Small Acts
-<http://smallactsmanifesto.org/>`__, apresentações pelos Estados
-Unidos, `revista INPUT <http://www.datacassete.com.br/>`__ (quem já teve
-um computador **TK85** ou **ZX Spectrum** sabe do que estou falando), e
-mais um monte coisas bacanas!
+Durante nosso bate-papo o Henrique nos conta sobre o seu projeto e como que
+invés de ensinar o be-a-bá, ele usa e abusa de técnicas de desenvolvimento
+ágil, deployment first, **Heroku**, **Github** e muita interação para uma
+experiência rica e didática de dar inveja a muitos cursos por ai! Depois ele
+conta como que nasceu a Dekode, sua companhia de desenvolvedores "**black
+belt**\ " criada para providenciar um serviço de apoio "nível 2" para aquelas
+horas do aperto. Também falamos sobre a comunidade **Python** do Brasil, `Small
+Acts`_, apresentações pelos Estados Unidos, `Revista INPUT`_ (quem já teve um
+computador **TK85** ou **ZX Spectrum** sabe do que estou falando), e mais um
+monte coisas bacanas!
 
 Escute Agora
 ------------
@@ -53,8 +51,8 @@ Contato
 -  Facebook: http://www.facebook.com/henriquebastos
 -  Flickr: http://www.flickr.com/photos/henriquebastos
 -  Github: https://github.com/henriquebastos
--  `Welcome to the Django <http://welcometothedjango.com.br/>`__
--  `Dekode <http://dekode.com.br/>`__
+-  `Welcome to the Django`_
+-  `Dekode`_
 
 Resumo
 ------
@@ -74,73 +72,73 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Metallica <http://www.last.fm/search?q=Metallica>`__
--  **Música:** `Megadeath <http://www.last.fm/search?q=Megadeath>`__
--  **Música:** `Rise Against the Machine <http://www.last.fm/search?q=Rise+Against+the+Machine>`__
--  **Filmes:** `The Matrix <http://www.imdb.com/find?s=all&q=The+Matrix>`__
--  **Filmes:** `O Poderoso Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
--  **Filmes:** `De Volta para o Futuro <http://www.imdb.com/find?s=all&q=De+Volta+para+o+Futuro>`__
--  **Filmes:** `Star Gate <http://www.imdb.com/find?s=all&q=Star+Gate>`__
--  **Livros:** `Revista INPUT <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Revista+INPUT>`__ (`PDFs <http://www.datacassete.com.br/>`__ de todas)
--  **Livros:** `Presentation Zen <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Presentation+Zen>`__
--  **Livros:** `Code <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Code>`__
--  **Livros:** `O Conselheiro <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Conselheiro>`__
--  **Livros:** `A Origem do Capitalism <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism>`__
+-  **Música:** `Metallica`_
+-  **Música:** `Megadeath`_
+-  **Música:** `Rise Against the Machine`_
+-  **Filmes:** `The Matrix`_
+-  **Filmes:** `O Poderoso Chefão`_
+-  **Filmes:** `De Volta para o Futuro`_
+-  **Filmes:** `Star Gate`_
+-  **Livros:** `Revista INPUT (Amazon)`_ (`PDFs`_ de todas)
+-  **Livros:** `Presentation Zen`_
+-  **Livros:** `Code`_
+-  **Livros:** `O Conselheiro`_
+-  **Livros:** `A Origem do Capitalism`_
 
 Links
 -----
--  `Guns and Roses <https://duckduckgo.com/?q=Guns+and+Roses>`__
--  `Django <https://duckduckgo.com/?q=Django>`__
--  `Coding Dojo <https://duckduckgo.com/?q=Coding+Dojo>`__
--  `Python <https://duckduckgo.com/?q=Python>`__
--  `Coding Sprint <https://duckduckgo.com/?q=Coding+Sprint>`__
--  `Desenvolvimento Ágil <https://duckduckgo.com/?q=Desenvolvimento+Ágil>`__
--  `Python Brasil <https://duckduckgo.com/?q=Python+Brasil>`__
--  `Heroku <https://duckduckgo.com/?q=Heroku>`__
--  `Amazon EC2 <https://duckduckgo.com/?q=Amazon+EC2>`__
--  `Git <https://duckduckgo.com/?q=Git>`__
--  `Platform as a Service (PaaS) <https://duckduckgo.com/?q=Platform+as+a+Service+(PaaS)>`__
--  `Controle de Versão Distribuído <https://duckduckgo.com/?q=Controle+de+Versão+Distribuído>`__
--  `Github <https://duckduckgo.com/?q=Github>`__
--  `Adobe Connect <https://duckduckgo.com/?q=Adobe+Connect>`__
--  `WebEx <https://duckduckgo.com/?q=WebEx>`__
--  `Genial <https://duckduckgo.com/?q=Genial>`__
--  `Go To PC <https://duckduckgo.com/?q=Go+To+PC>`__
--  `Adobe Flash <https://duckduckgo.com/?q=Adobe+Flash>`__
--  `Dekode <https://duckduckgo.com/?q=Dekode>`__
--  `Gabriel Falcão <https://duckduckgo.com/?q=Gabriel+Falcão>`__
--  `Guake <https://duckduckgo.com/?q=Guake>`__
--  `Bernardo Fontes <https://duckduckgo.com/?q=Bernardo+Fontes>`__
--  `Tiago Garcia <https://duckduckgo.com/?q=Tiago+Garcia>`__
--  `MetaPix <https://duckduckgo.com/?q=MetaPix>`__
--  `PhotoShop <https://duckduckgo.com/?q=PhotoShop>`__
--  `Illustrator <https://duckduckgo.com/?q=Illustrator>`__
--  `Code Review <https://duckduckgo.com/?q=Code+Review>`__
--  `PyCon 2010 <https://duckduckgo.com/?q=PyCon+2010>`__
--  `FISL 2009 <https://duckduckgo.com/?q=FISL+2009>`__
--  `Porto Alegre <https://duckduckgo.com/?q=Porto+Alegre>`__
--  `Jacob Kaplan-Moss <https://duckduckgo.com/?q=Jacob+Kaplan-Moss>`__
--  `Guilherme Chapievsky <https://duckduckgo.com/?q=Guilherme+Chapievsky>`__
--  `Google <https://duckduckgo.com/?q=Google>`__
--  `Ryan Ozimek <https://duckduckgo.com/?q=Ryan+Ozimek>`__
--  `Joomla <https://duckduckgo.com/?q=Joomla>`__
--  `PHP Rio <https://duckduckgo.com/?q=PHP+Rio>`__
--  `Jeff Patton <https://duckduckgo.com/?q=Jeff+Patton>`__
--  `Globo.com <https://duckduckgo.com/?q=Globo.com>`__
--  `Vimeo <https://duckduckgo.com/?q=Vimeo>`__ (vídeos `1 <http://devinrio.com.br/2009>`__ `2 <http://devinrio.com.br/>`__ `3 <http://vimeo.com/channels/devinrio>`__ `4 <http://www.flickr.com/groups/devinrio/>`__)
--  `Java <https://duckduckgo.com/?q=Java>`__
--  `Small Acts <https://duckduckgo.com/?q=Small+Acts>`__
--  `Caike <https://duckduckgo.com/?q=Caike>`__ Souza
--  `HoverBoard <https://duckduckgo.com/?q=HoverBoard>`__
--  `.NET <https://duckduckgo.com/?q=.NET>`__
--  `C# <https://duckduckgo.com/?q=C#>`__
--  `VB.Net <https://duckduckgo.com/?q=VB.Net>`__
--  `DataK7 <https://duckduckgo.com/?q=DataK7>`__
--  `Garr Reynolds <https://duckduckgo.com/?q=Garr+Reynolds>`__
--  `Charles Petzold <https://duckduckgo.com/?q=Charles+Petzold>`__
--  `Código Morse <https://duckduckgo.com/?q=Código+Morse>`__
--  `Ellen Wood <https://duckduckgo.com/?q=Ellen+Wood>`__
--  `Hugo Doria <https://duckduckgo.com/?q=Hugo+Doria>`__
+-  `Guns and Roses`_
+-  `Django`_
+-  `Coding Dojo`_
+-  `Python`_
+-  `Coding Sprint`_
+-  `Desenvolvimento Ágil`_
+-  `Python Brasil`_
+-  `Heroku`_
+-  `Amazon EC2`_
+-  `Git`_
+-  `Platform as a Service (PaaS)`_
+-  `Controle de Versão Distribuído`_
+-  `Github`_
+-  `Adobe Connect`_
+-  `WebEx`_
+-  `Genial`_
+-  `Go To PC`_
+-  `Adobe Flash`_
+-  `Dekode (DuckDuckGo)`_
+-  `Gabriel Falcão`_
+-  `Guake`_
+-  `Bernardo Fontes`_
+-  `Tiago Garcia`_
+-  `MetaPix`_
+-  `PhotoShop`_
+-  `Illustrator`_
+-  `Code Review`_
+-  `PyCon 2010`_
+-  `FISL 2009`_
+-  `Porto Alegre`_
+-  `Jacob Kaplan-Moss`_
+-  `Guilherme Chapievsky`_
+-  `Google`_
+-  `Ryan Ozimek`_
+-  `Joomla`_
+-  `PHP Rio`_
+-  `Jeff Patton`_
+-  `Globo.com`_
+-  `Vimeo`_ (vídeos `1`_ `2`_ `3`_ `4`_)
+-  `Java`_
+-  `Small Acts (DuckDuckGo)`_
+-  `Caike`_ Souza
+-  `HoverBoard`_
+-  `.NET`_
+-  `C#`_
+-  `VB.Net`_
+-  `DataK7`_
+-  `Garr Reynolds`_
+-  `Charles Petzold`_
+-  `Código Morse`_
+-  `Ellen Wood`_
+-  `Hugo Doria`_
 
 .. class:: panel-body bg-info
 
@@ -149,3 +147,76 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Small Acts: http://smallactsmanifesto.org/
+.. _Revista INPUT: http://www.datacassete.com.br/
+.. _Welcome to the Django: http://welcometothedjango.com.br/
+.. _Dekode: http://dekode.com.br/
+.. _Metallica: http://www.last.fm/search?q=Metallica
+.. _Megadeath: http://www.last.fm/search?q=Megadeath
+.. _Rise Against the Machine: http://www.last.fm/search?q=Rise+Against+the+Machine
+.. _The Matrix: http://www.imdb.com/find?s=all&q=The+Matrix
+.. _O Poderoso Chefão: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão
+.. _De Volta para o Futuro: http://www.imdb.com/find?s=all&q=De+Volta+para+o+Futuro
+.. _Star Gate: http://www.imdb.com/find?s=all&q=Star+Gate
+.. _Revista INPUT (Amazon): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Revista+INPUT
+.. _Presentation Zen: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Presentation+Zen
+.. _Code: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Code
+.. _O Conselheiro: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Conselheiro
+.. _A Origem do Capitalism: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism
+.. _Guns and Roses: https://duckduckgo.com/?q=Guns+and+Roses
+.. _Django: https://duckduckgo.com/?q=Django
+.. _Coding Dojo: https://duckduckgo.com/?q=Coding+Dojo
+.. _Python: https://duckduckgo.com/?q=Python
+.. _Coding Sprint: https://duckduckgo.com/?q=Coding+Sprint
+.. _Desenvolvimento Ágil: https://duckduckgo.com/?q=Desenvolvimento+Ágil
+.. _Python Brasil: https://duckduckgo.com/?q=Python+Brasil
+.. _Heroku: https://duckduckgo.com/?q=Heroku
+.. _Amazon EC2: https://duckduckgo.com/?q=Amazon+EC2
+.. _Git: https://duckduckgo.com/?q=Git
+.. _Platform as a Service (PaaS): https://duckduckgo.com/?q=Platform+as+a+Service+(PaaS)
+.. _Controle de Versão Distribuído: https://duckduckgo.com/?q=Controle+de+Versão+Distribuído
+.. _Github: https://duckduckgo.com/?q=Github
+.. _Adobe Connect: https://duckduckgo.com/?q=Adobe+Connect
+.. _WebEx: https://duckduckgo.com/?q=WebEx
+.. _Genial: https://duckduckgo.com/?q=Genial
+.. _Go To PC: https://duckduckgo.com/?q=Go+To+PC
+.. _Adobe Flash: https://duckduckgo.com/?q=Adobe+Flash
+.. _Dekode (DuckDuckGo): https://duckduckgo.com/?q=Dekode
+.. _Gabriel Falcão: https://duckduckgo.com/?q=Gabriel+Falcão
+.. _Guake: https://duckduckgo.com/?q=Guake
+.. _Bernardo Fontes: https://duckduckgo.com/?q=Bernardo+Fontes
+.. _Tiago Garcia: https://duckduckgo.com/?q=Tiago+Garcia
+.. _MetaPix: https://duckduckgo.com/?q=MetaPix
+.. _PhotoShop: https://duckduckgo.com/?q=PhotoShop
+.. _Illustrator: https://duckduckgo.com/?q=Illustrator
+.. _Code Review: https://duckduckgo.com/?q=Code+Review
+.. _PyCon 2010: https://duckduckgo.com/?q=PyCon+2010
+.. _FISL 2009: https://duckduckgo.com/?q=FISL+2009
+.. _Porto Alegre: https://duckduckgo.com/?q=Porto+Alegre
+.. _Jacob Kaplan-Moss: https://duckduckgo.com/?q=Jacob+Kaplan-Moss
+.. _Guilherme Chapievsky: https://duckduckgo.com/?q=Guilherme+Chapievsky
+.. _Google: https://duckduckgo.com/?q=Google
+.. _Ryan Ozimek: https://duckduckgo.com/?q=Ryan+Ozimek
+.. _Joomla: https://duckduckgo.com/?q=Joomla
+.. _PHP Rio: https://duckduckgo.com/?q=PHP+Rio
+.. _Jeff Patton: https://duckduckgo.com/?q=Jeff+Patton
+.. _Globo.com: https://duckduckgo.com/?q=Globo.com
+.. _Vimeo: https://duckduckgo.com/?q=Vimeo
+.. _Java: https://duckduckgo.com/?q=Java
+.. _Small Acts (DuckDuckGo): https://duckduckgo.com/?q=Small+Acts
+.. _Caike: https://duckduckgo.com/?q=Caike
+.. _HoverBoard: https://duckduckgo.com/?q=HoverBoard
+.. _.NET: https://duckduckgo.com/?q=.NET
+.. _C#: https://duckduckgo.com/?q=C#
+.. _VB.Net: https://duckduckgo.com/?q=VB.Net
+.. _DataK7: https://duckduckgo.com/?q=DataK7
+.. _Garr Reynolds: https://duckduckgo.com/?q=Garr+Reynolds
+.. _Charles Petzold: https://duckduckgo.com/?q=Charles+Petzold
+.. _Código Morse: https://duckduckgo.com/?q=Código+Morse
+.. _Ellen Wood: https://duckduckgo.com/?q=Ellen+Wood
+.. _Hugo Doria: https://duckduckgo.com/?q=Hugo+Doria
+.. _PDFs: http://www.datacassete.com.br/
+.. _1: http://devinrio.com.br/2009
+.. _2: http://devinrio.com.br/
+.. _3: http://vimeo.com/channels/devinrio
+.. _4: http://www.flickr.com/groups/devinrio/

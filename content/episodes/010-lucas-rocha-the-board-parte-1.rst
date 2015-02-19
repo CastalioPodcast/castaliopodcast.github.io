@@ -52,19 +52,33 @@ Resumo
 
 Links
 -----
--  `Universidade Federal da Bahia <http://www.ufba.br/>`__
--  `PHP <http://www.php.net/>`__
--  `Projeto Software Livre Bahia (PSL-BA) <http://wiki.dcc.ufba.br/bin/view/PSL>`__
--  `Zenity <http://live.gnome.org/Zenity>`__
--  `GNOME <http://gnome.org>`__
--  `Nokia <http://www.nokia.com/>`__
--  `Maemo <http://www.maemo.org/>`__
--  `Litl <http://litl.com/>`__
--  `OpenSolaris <http://www.opensolaris.com/>`__
--  `Eye of GNOME <http://www.gnome.org/projects/eog/>`__
--  `Revista Espírito Livre <http://www.revista.espiritolivre.org/>`__
+-  `Universidade Federal da Bahia`_
+-  `PHP`_
+-  `Projeto Software Livre Bahia (PSL-BA)`_
+-  `Zenity`_
+-  `GNOME`_
+-  `Nokia`_
+-  `Maemo`_
+-  `Litl`_
+-  `OpenSolaris`_
+-  `Eye of GNOME`_
+-  `Revista Espírito Livre`_
 
 **Notas**: Eu gostaria de agradecer os comentários que eu recebi aqui no
 web site e também por e-mail, etc. Especialmente, gostaria de agradecer
-o `Aurélio Heckert <http://softwarelivre.org/aurium>`__ pela tonelada de
+o `Aurélio Heckert`_ pela tonelada de
 feedback que ele me enviou depois de escutar o último episódio! :)
+
+
+.. _Aurélio Heckert: http://softwarelivre.org/aurium
+.. _Eye of GNOME: http://www.gnome.org/projects/eog/
+.. _GNOME: http://gnome.org
+.. _Litl: http://litl.com/
+.. _Maemo: http://www.maemo.org/
+.. _Nokia: http://www.nokia.com/
+.. _OpenSolaris: http://www.opensolaris.com/
+.. _PHP: http://www.php.net/
+.. _Projeto Software Livre Bahia (PSL-BA): http://wiki.dcc.ufba.br/bin/view/PSL
+.. _Revista Espírito Livre: http://www.revista.espiritolivre.org/
+.. _Universidade Federal da Bahia: http://www.ufba.br/
+.. _Zenity: http://live.gnome.org/Zenity

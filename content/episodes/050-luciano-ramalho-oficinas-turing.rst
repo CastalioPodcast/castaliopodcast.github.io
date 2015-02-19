@@ -22,39 +22,35 @@ trabalha com python, o nome do Luciano não lhe deve ser estranho. Mas
 para mim, que moro há 21 anos no exterior, foi uma descoberta super
 maneira!
 
-Quanto mais eu pesquisei sobre ele, mais animado eu ficava em conhecer
-"a pessoa por trás dos slides" das apresentações `Python: Encapsulation with Descriptors`_
-e `Iterators & generators: the Python Way`_.
-Mais gostoso ainda foi descobrir que estas **apresentações são
-inéditas** no público brasileiro e serão apresentadas na
-`PyCon`_ americana este ano! Durante nosso
-bate-papo, o Luciano me contou como que foi a criação da `Associação Python Brasil`_, quais foram seus
-primeiros objetivos e como foi o seu primeiro mandato como presidente da
-mesma. Também discutimos sobre os vários frameworks que existem para
-quem quer ser programador web com python, alguns fatos interessantes
-sobre o **Zope**, **Plone**, **Flask**, e **Web2Py**, e quais delas ele
-recomenda para quem está iniciando no mundo de programação.
+Quanto mais eu pesquisei sobre ele, mais animado eu ficava em conhecer "a
+pessoa por trás dos slides" das apresentações `Python - Encapsulation with
+Descriptors`_ e `Iterators & generators: the Python Way`_.  Mais gostoso ainda
+foi descobrir que estas **apresentações são inéditas** no público brasileiro
+e serão apresentadas na `PyCon`_ americana este ano! Durante nosso bate-papo,
+o Luciano me contou como que foi a criação da `Associação Python Brasil`_,
+quais foram seus primeiros objetivos e como foi o seu primeiro mandato como
+presidente da mesma. Também discutimos sobre os vários frameworks que existem
+para quem quer ser programador web com python, alguns fatos interessantes sobre
+o **Zope**, **Plone**, **Flask**, e **Web2Py**, e quais delas ele recomenda
+para quem está iniciando no mundo de programação.
 
 .. more
 
-Para quem estiver interessado a aprender a programar, o Luciano também
-oferece cursos online na `Oficinas Turing`_
-para iniciantes e programadores com mais experiência, como `Objetos Pythonicos`_
-e `Python para quem sabe Python`_.
+Para quem estiver interessado a aprender a programar, o Luciano também oferece
+cursos online na `Oficinas Turing`_ para iniciantes e programadores com mais
+experiência, como `Objetos Pythonicos`_ e `Python para quem sabe Python`_.
 
-Por último falamos sobre o `Garoa Hacker
-Clube <http://hackerspaces.org/wiki/Garoa_Hacker_Clube>`__ (`fotos <https://www.facebook.com/GaroaHC/photos_stream>`__),
-um **HackerSpace** que ele criou em São Paulo com uma proposta bem
-interessante: um espaço onde você pode ir para conhecer gente
-interessante e aprender a programar, usar tecnologias recentes como
-**Arduino** e **Rasberry Pi** usando a metodologia "mão na massa", e
-para quem virar sócio, sua própria chave para usar o espaço/laboratório
-qualquer hora do dia!
+Por último falamos sobre o `Garoa Hacker Clube`_ (`fotos`_), um
+**HackerSpace** que ele criou em São Paulo com uma proposta bem interessante:
+um espaço onde você pode ir para conhecer gente interessante e aprender
+a programar, usar tecnologias recentes como **Arduino** e **Rasberry Pi**
+usando a metodologia "mão na massa", e para quem virar sócio, sua própria chave
+para usar o espaço/laboratório qualquer hora do dia!
 
-O bate-papo rolou por um bom tempo, e eu tive de editar muita coisa
-bacana, mas você pode assistir o `vídeo <http://bit.ly/YPOZTO>`__ da
-entrevista e saber um pouco mais sobre os bastidores da criação da
-Associação Python Brasil e sobre os frameworks discutidos.
+O bate-papo rolou por um bom tempo, e eu tive de editar muita coisa bacana, mas
+você pode assistir o `vídeo`_ da entrevista e saber um pouco mais sobre os
+bastidores da criação da Associação Python Brasil e sobre os frameworks
+discutidos.
 
 Escute Agora
 ------------
@@ -71,58 +67,58 @@ Contato
 
 Top 5
 -----
--  **Música:** `Deep Purple <http://www.last.fm/search?q=Deep+Purple>`__
--  **Música:** `Frank Zappa <http://www.last.fm/search?q=Frank+Zappa>`__
--  **Música:** `Mozart <http://www.last.fm/search?q=Mozart>`__
--  **Música:** `Pink Floyd <http://www.last.fm/search?q=Pink+Floyd>`__
--  **Música:** `Led Zeppelin <http://www.last.fm/search?q=Led+Zeppelin>`__
--  **Música:** `Björk <http://www.last.fm/search?q=Björk>`__
--  **Música:** `Philip Glass <http://www.last.fm/search?q=Philip+Glass>`__
--  **Filmes:** `Apocalipse Now <http://www.imdb.com/find?s=all&q=Apocalipse+Now>`__
--  **Filmes:** `Brazil <http://www.imdb.com/find?s=all&q=Brazil>`__
--  **Filmes:** `Senhor dos Aneis <http://www.imdb.com/find?s=all&q=Senhor+dos+Aneis>`__
--  **Filmes:** `O Hobbit <http://www.imdb.com/find?s=all&q=O+Hobbit>`__
--  **Filmes:** `O Poderoso Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
--  **Livros:** `Império a Deriva <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Império+a+Deriva>`__
--  **Livros:** `O Hobbit <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit>`__
--  **Livros:** `Estação Carandiru <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estação+Carandiru>`__
+-  **Música:** `Deep Purple`_
+-  **Música:** `Frank Zappa`_
+-  **Música:** `Mozart`_
+-  **Música:** `Pink Floyd`_
+-  **Música:** `Led Zeppelin`_
+-  **Música:** `Björk`_
+-  **Música:** `Philip Glass`_
+-  **Filmes:** `Apocalipse Now`_
+-  **Filmes:** `Brazil`_
+-  **Filmes:** `Senhor dos Aneis`_
+-  **Filmes:** `O Hobbit`_
+-  **Filmes:** `O Poderoso Chefão`_
+-  **Livros:** `Império a Deriva`_
+-  **Livros:** `O Hobbit (Amazon)`_
+-  **Livros:** `Estação Carandiru`_
 
 Links
 -----
--  `SpeakerDeck <https://duckduckgo.com/?q=SpeakerDeck>`__
--  `Python <https://duckduckgo.com/?q=Python>`__
--  `Zope <https://duckduckgo.com/?q=Zope>`__
--  `Plone <https://duckduckgo.com/?q=Plone>`__
--  `CMS <https://duckduckgo.com/?q=CMS>`__
--  `Zope Brasil <https://duckduckgo.com/?q=Zope+Brasil>`__
--  `C++ <https://duckduckgo.com/?q=C++>`__
--  `Fortran <https://duckduckgo.com/?q=Fortran>`__
--  `Global Arrays <https://duckduckgo.com/?q=Global+Arrays>`__
--  `Petrobras <https://duckduckgo.com/?q=Petrobras>`__
--  `Django <https://duckduckgo.com/?q=Django>`__
--  `Pyramid <https://duckduckgo.com/?q=Pyramid>`__
--  `Pylons <https://duckduckgo.com/?q=Pylons>`__
--  `ZODB <https://duckduckgo.com/?q=ZODB>`__
--  `Flask <https://duckduckgo.com/?q=Flask>`__
--  `Web2Py <https://duckduckgo.com/?q=Web2Py>`__
--  `Plone Foundation <https://duckduckgo.com/?q=Plone+Foundation>`__
--  `Hora Extra <https://duckduckgo.com/?q=Hora+Extra>`__
--  `Henrique Bastos <https://duckduckgo.com/?q=Henrique+Bastos>`__
--  `Github <https://duckduckgo.com/?q=Github>`__
--  `SlideShare <https://duckduckgo.com/?q=SlideShare>`__
--  `PyCon <https://duckduckgo.com/?q=PyCon>`__
--  `iPython <https://duckduckgo.com/?q=iPython>`__
--  `Kivy Toolkit <https://duckduckgo.com/?q=Kivy+Toolkit>`__
--  `TurboGears <https://duckduckgo.com/?q=TurboGears>`__
--  `Garoa Hacker Clube <https://duckduckgo.com/?q=Garoa+Hacker+Clube>`__
--  `Coding Dojo <https://duckduckgo.com/?q=Coding+Dojo>`__
+-  `SpeakerDeck`_
+-  `Python`_
+-  `Zope`_
+-  `Plone`_
+-  `CMS`_
+-  `Zope Brasil`_
+-  `C++`_
+-  `Fortran`_
+-  `Global Arrays`_
+-  `Petrobras`_
+-  `Django`_
+-  `Pyramid`_
+-  `Pylons`_
+-  `ZODB`_
+-  `Flask`_
+-  `Web2Py`_
+-  `Plone Foundation`_
+-  `Hora Extra`_
+-  `Henrique Bastos`_
+-  `Github`_
+-  `SlideShare`_
+-  `PyCon (DuckDuckGo)`_
+-  `iPython`_
+-  `Kivy Toolkit`_
+-  `TurboGears`_
+-  `Garoa Hacker Clube (DuckDuckGo)`_
+-  `Coding Dojo`_
 
 .. class:: panel-body bg-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Links
-.. _`Python: Encapsulation with Descriptors`: https://speakerdeck.com/ramalho/python-encapsulation-with-descriptors
+.. _`Python - Encapsulation with Descriptors`: https://speakerdeck.com/ramalho/python-encapsulation-with-descriptors
 .. _`Iterators & generators: the Python Way`: https://speakerdeck.com/ramalho/iterators-and-generators-the-python-way
 .. _PyCon: https://us.pycon.org/2013/
 .. _Associação Python Brasil: http://associacao.python.org.br
@@ -133,3 +129,48 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Garoa Hacker Clube: http://hackerspaces.org/wiki/Garoa_Hacker_Clube
+.. _vídeo: http://bit.ly/YPOZTO
+.. _Deep Purple: http://www.last.fm/search?q=Deep+Purple
+.. _Frank Zappa: http://www.last.fm/search?q=Frank+Zappa
+.. _Mozart: http://www.last.fm/search?q=Mozart
+.. _Pink Floyd: http://www.last.fm/search?q=Pink+Floyd
+.. _Led Zeppelin: http://www.last.fm/search?q=Led+Zeppelin
+.. _Björk: http://www.last.fm/search?q=Björk
+.. _Philip Glass: http://www.last.fm/search?q=Philip+Glass
+.. _Apocalipse Now: http://www.imdb.com/find?s=all&q=Apocalipse+Now
+.. _Brazil: http://www.imdb.com/find?s=all&q=Brazil
+.. _Senhor dos Aneis: http://www.imdb.com/find?s=all&q=Senhor+dos+Aneis
+.. _O Hobbit: http://www.imdb.com/find?s=all&q=O+Hobbit
+.. _O Poderoso Chefão: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão
+.. _Império a Deriva: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Império+a+Deriva
+.. _O Hobbit (Amazon): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit
+.. _Estação Carandiru: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estação+Carandiru
+.. _SpeakerDeck: https://duckduckgo.com/?q=SpeakerDeck
+.. _Python: https://duckduckgo.com/?q=Python
+.. _Zope: https://duckduckgo.com/?q=Zope
+.. _Plone: https://duckduckgo.com/?q=Plone
+.. _CMS: https://duckduckgo.com/?q=CMS
+.. _Zope Brasil: https://duckduckgo.com/?q=Zope+Brasil
+.. _C++: https://duckduckgo.com/?q=C++
+.. _Fortran: https://duckduckgo.com/?q=Fortran
+.. _Global Arrays: https://duckduckgo.com/?q=Global+Arrays
+.. _Petrobras: https://duckduckgo.com/?q=Petrobras
+.. _Django: https://duckduckgo.com/?q=Django
+.. _Pyramid: https://duckduckgo.com/?q=Pyramid
+.. _Pylons: https://duckduckgo.com/?q=Pylons
+.. _ZODB: https://duckduckgo.com/?q=ZODB
+.. _Flask: https://duckduckgo.com/?q=Flask
+.. _Web2Py: https://duckduckgo.com/?q=Web2Py
+.. _Plone Foundation: https://duckduckgo.com/?q=Plone+Foundation
+.. _Hora Extra: https://duckduckgo.com/?q=Hora+Extra
+.. _Henrique Bastos: https://duckduckgo.com/?q=Henrique+Bastos
+.. _Github: https://duckduckgo.com/?q=Github
+.. _SlideShare: https://duckduckgo.com/?q=SlideShare
+.. _PyCon (DuckDuckGo): https://duckduckgo.com/?q=PyCon
+.. _iPython: https://duckduckgo.com/?q=iPython
+.. _Kivy Toolkit: https://duckduckgo.com/?q=Kivy+Toolkit
+.. _TurboGears: https://duckduckgo.com/?q=TurboGears
+.. _Garoa Hacker Clube (DuckDuckGo): https://duckduckgo.com/?q=Garoa+Hacker+Clube
+.. _Coding Dojo: https://duckduckgo.com/?q=Coding+Dojo
+.. _fotos: https://www.facebook.com/GaroaHC/photos_stream

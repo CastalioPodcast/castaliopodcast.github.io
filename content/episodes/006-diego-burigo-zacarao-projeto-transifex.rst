@@ -10,21 +10,17 @@ Diego Búrigo Zacarão - Projeto Transifex
 
    Transifex
 
-Neste episódio, depois de semanas de muito suor, sangue e lágrimas
-(todas minhas, te garanto), consegui finalmente raptar o `Diego Búrigo
-Zacarão <http://diegobz.net/>`__, desenvolvedor líder do projeto
-`Transifex <http://transifex.net>`__, uma ferramente que nasceu durante
-uma das edições do `Google Summer of
-Code <https://code.google.com/soc/>`__. Durante nosso bate-papo o
-**Diego** explica como que ele, um garoto que preferia brincar na rua e
-bater bola, veio a aprender a gostar de computadores, entrou no projeto
-Fedora e hoje é membro do **Fedora Localization Project Steering
-Committee** – **FLSCo** e do **Fedora Localization Infrastructure
-Team**. Além de discutirmos sobre os benefícions e como que
-o \ `Transifex <http://transifex.net>`__ funciona, o Diego também nos
-conta sobre o período que ele passou "encarcerado" na **Grécia**
-trabalhando no `Google Summer of Code <https://code.google.com/soc/>`__,
-e o que fazer "quando a água bate na bunda"! ;)
+Neste episódio, depois de semanas de muito suor, sangue e lágrimas (todas
+minhas, te garanto), consegui finalmente raptar o `Diego Búrigo Zacarão`_,
+desenvolvedor líder do projeto `Transifex`_, uma ferramente que nasceu durante
+uma das edições do `Google Summer of Code`_. Durante nosso bate-papo
+o **Diego** explica como que ele, um garoto que preferia brincar na rua e bater
+bola, veio a aprender a gostar de computadores, entrou no projeto Fedora e hoje
+é membro do **Fedora Localization Project Steering Committee** – **FLSCo** e do
+**Fedora Localization Infrastructure Team**. Além de discutirmos sobre os
+benefícions e como que o \ `Transifex`_ funciona, o Diego também nos conta
+sobre o período que ele passou "encarcerado" na **Grécia** trabalhando no
+`Google Summer of Code`_, e o que fazer "quando a água bate na bunda"! ;)
 
 Caso você não tenha interesse em traduções de software, pula para o
 minuto 30 e escuta o resto. Eu realmente recomendo este episódio por ser
@@ -44,21 +40,34 @@ Contato
 -  **Blog**: ﻿http://diegobz.net/
 -  **Twitter**: http://twitter.com/diegobz
 
-Alguns dados interessantes do `Transifex <http://transifex.net>`__:
+Alguns dados interessantes do `Transifex`_:
 
 -  Mais de **6,000 usuários** registrados
 -  **261 idiomas** representados
 -  **1,336 projetos** sendo traduzidos, dentre eles:
 
-   -  `Fedora <http://fedoraproject.org/>`__
-   -  `Meego <http://meego.com/>`__
-   -  `Bitbucket <https://bitbucket.org/>`__
-   -  `Django <http://www.djangoproject.com/>`__
+   -  `Fedora`_
+   -  `Meego`_
+   -  `Bitbucket`_
+   -  `Django`_
 
 Links
 -----
--  `Conectiva <https://secure.wikimedia.org/wikipedia/en/wiki/Conectiva>`__
--  `Fedora Brasil <http://www.projetofedora.org/>`__
--  `FISL <http://softwarelivre.org/fisl11/english/news>`__
--  `Indifex <http://www.indifex.com/>`__
--  **Livro**: `Digital Fortress <http://www.amazon.com/Digital-Fortress-Thriller-Dan-Brown/dp/0312944926/ref=sr_1_1?ie=UTF8&qid=1304171005&sr=8-1>`__ por **Dan Brown**
+-  `Conectiva`_
+-  `Fedora Brasil`_
+-  `FISL`_
+-  `Indifex`_
+-  **Livro**: `Digital Fortress`_ por **Dan Brown**
+
+.. _Bitbucket: https://bitbucket.org/
+.. _Conectiva: https://secure.wikimedia.org/wikipedia/en/wiki/Conectiva
+.. _Diego Búrigo Zacarão: http://diegobz.net/
+.. _Digital Fortress: http://www.amazon.com/Digital-Fortress-Thriller-Dan-Brown/dp/0312944926/ref=sr_1_1?ie=UTF8&qid=1304171005&sr=8-1
+.. _Django: http://www.djangoproject.com/
+.. _Fedora Brasil: http://www.projetofedora.org/
+.. _Fedora: http://fedoraproject.org/
+.. _FISL: http://softwarelivre.org/fisl11/english/news
+.. _Google Summer of Code: https://code.google.com/soc/
+.. _Indifex: http://www.indifex.com/
+.. _Meego: http://meego.com/
+.. _Transifex: http://transifex.net

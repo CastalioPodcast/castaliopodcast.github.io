@@ -13,44 +13,35 @@ Bruno Gonçalves: BigLinux
 
    Bruno Gonçalves: BigLinux
 
-Na semana passada eu tive o grande prazer e honra de participar do
-`Opencast <http://www.ubuntero.com.br/>`__ em um
-`episódio <http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/>`__
-onde discutimos várias coisas relacionadas à distribuições Linux! Por
-coincidência, meu amigo **Vladimir Melo** tinha me recomendando
+Na semana passada eu tive o grande prazer e honra de participar do `Opencast`_
+em um `episódio`_ onde discutimos várias coisas relacionadas à distribuições
+Linux! Por coincidência, meu amigo **Vladimir Melo** tinha me recomendando
 entrevistar uma pessoa que por muito tempo tinha criado e mantido uma
 distribuição nacional, e recentemente decidiu parar o projeto!
 
-Neste último episódio então tive o grande prazer de conversar com o
-**Bruno Gonçalves**, criador e mantenedor do
-`BigLinux <http://www.biglinux.com.br/web/>`__! Até este nosso bate-papo
-eu confesso que não conhecia este projeto, o que é realmente uma pena. O
-BigLinux nasceu de uma "remasterização" do `Kurumin
-Linux <http://www.hardware.com.br/kurumin/>`__ e em pouquíssimo tempo
-fez bastante barulho ao adicionar vários recursos super avançados para a
-sua época! O número de recursos e tecnologias utilizados pelo Bruno é
-realmente impressionante e quando terminamos nossa entrevista eu fiquei
-literalmente fã número 1 dele! :)
+Neste último episódio então tive o grande prazer de conversar com o **Bruno
+Gonçalves**, criador e mantenedor do `BigLinux`_! Até este nosso bate-papo eu
+confesso que não conhecia este projeto, o que é realmente uma pena. O BigLinux
+nasceu de uma "remasterização" do `Kurumin Linux`_ e em pouquíssimo tempo fez
+bastante barulho ao adicionar vários recursos super avançados para a sua época!
+O número de recursos e tecnologias utilizados pelo Bruno é realmente
+impressionante e quando terminamos nossa entrevista eu fiquei literalmente fã
+número 1 dele! :)
 
-Durante nosso bate-papo ele conta todos os detalhes de como que o
-projeto nasceu, quais foram os obstáculos que enfrentou, e quais foram
-os motivos que o levou a parar o projeto. Também falamos sobre
-**BigBashView**, seu novo projeto \ `União
-Livre <http://uniaolivre.com/>`__, que na minha opinião promete muito, e
-um **livro** que esta escrevendo em parceria com um amigo, chamado
-"**Linux: Simplicidade ao seu Alcance**\ "!
+Durante nosso bate-papo ele conta todos os detalhes de como que o projeto
+nasceu, quais foram os obstáculos que enfrentou, e quais foram os motivos que
+o levou a parar o projeto. Também falamos sobre **BigBashView**, seu novo
+projeto \ `União Livre`_, que na minha opinião promete muito, e um **livro**
+que esta escrevendo em parceria com um amigo, chamado "**Linux: Simplicidade ao
+seu Alcance**\ "!
 
 .. more
 
-Quem quizer experimentar o BigLinux, dê uma olhadinha no seguinte
-`link <http://www.las.ic.unicamp.br/pub/biglinux/>`__ para algumas
-imagens ISO e se você quizer aprender mais sobre o
-`BigBashLinux <http://code.google.com/p/bigbashview/>`__, olhem este
-link `aqui <http://biglinux.com.br/forum/viewforum.php?f=62>`__!
+Quem quizer experimentar o BigLinux, dê uma olhadinha no seguinte `link`_ para
+algumas imagens ISO e se você quizer aprender mais sobre o `BigBashLinux`_,
+olhem este link `aqui`_!
 
-Ah e não se esqueca de assistir o
-`vídeo <http://www.youtube.com/watch?v=lpDNGGOw_tY&feature=g-all-u>`__
-da entrevista!
+Ah e não se esqueca de assistir o `vídeo`_ da entrevista!
 
 Escute Agora
 ------------
@@ -83,59 +74,59 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Raul Seixas <http://www.last.fm/search?q=Raul+Seixas>`__
--  **Música:** `Ultrage a Rigor <http://www.last.fm/search?q=Ultrage+a+Rigor>`__
--  **Música:** `Chuck Berry <http://www.last.fm/search?q=Chuck+Berry>`__
--  **Música:** `Elvis Presley <http://www.last.fm/search?q=Elvis+Presley>`__
--  **Música:** `Planet Hemp <http://www.last.fm/search?q=Planet+Hemp>`__
--  **Música:** `Frejat <http://www.last.fm/search?q=Frejat>`__
--  **Filmes:** `Rocky <http://www.imdb.com/find?s=all&q=Rocky>`__
--  **Filmes:** `Scarface <http://www.imdb.com/find?s=all&q=Scarface>`__
--  **Filmes:** `Chavez <http://www.imdb.com/find?s=all&q=Chavez>`__
--  **Filmes:** `Chapolin <http://www.imdb.com/find?s=all&q=Chapolin>`__
--  **Filmes:** `O Grande Dragão Branco <http://www.imdb.com/find?s=all&q=O+Grande+Dragão+Branco>`__
--  **Livros:** `Fórum BigLinux <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+BigLinux>`__
--  **Livros:** `Fórum Ubuntu BR <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Ubuntu+BR>`__
--  **Livros:** `Fórum Outer Space <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Outer+Space>`__
--  **Livros:** `Fórum Hard Science <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Hard+Science>`__
--  **Livros:** `BR-Linux <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=BR-Linux>`__
--  **Livros:** `Forum nix <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Forum+nix>`__
--  **Livros:** `Planet KDE <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Planet+KDE>`__
+-  **Música:** `Raul Seixas`_
+-  **Música:** `Ultrage a Rigor`_
+-  **Música:** `Chuck Berry`_
+-  **Música:** `Elvis Presley`_
+-  **Música:** `Planet Hemp`_
+-  **Música:** `Frejat`_
+-  **Filmes:** `Rocky`_
+-  **Filmes:** `Scarface`_
+-  **Filmes:** `Chavez`_
+-  **Filmes:** `Chapolin`_
+-  **Filmes:** `O Grande Dragão Branco`_
+-  **Livros:** `Fórum BigLinux`_
+-  **Livros:** `Fórum Ubuntu BR`_
+-  **Livros:** `Fórum Outer Space`_
+-  **Livros:** `Fórum Hard Science`_
+-  **Livros:** `BR-Linux`_
+-  **Livros:** `Forum nix`_
+-  **Livros:** `Planet KDE`_
 
 Links
 -----
--  `Vladimir Melo <https://duckduckgo.com/?q=Vladimir+Melo>`__
--  `BigLinux <https://duckduckgo.com/?q=BigLinux>`__
--  `Bruno Gonçalves <https://duckduckgo.com/?q=Bruno+Gonçalves>`__
--  `Kurumin Linux <https://duckduckgo.com/?q=Kurumin+Linux>`__
--  `OpenOffice <https://duckduckgo.com/?q=OpenOffice>`__
--  `Gimp <https://duckduckgo.com/?q=Gimp>`__
--  `ICQ <https://duckduckgo.com/?q=ICQ>`__
--  `Kalango Linux <https://duckduckgo.com/?q=Kalango+Linux>`__
--  `Debian Linux <https://duckduckgo.com/?q=Debian+Linux>`__
--  `KDE <https://duckduckgo.com/?q=KDE>`__
--  `GNOME <https://duckduckgo.com/?q=GNOME>`__
--  `Metisse <https://duckduckgo.com/?q=Metisse>`__
--  `Fluxbox <https://duckduckgo.com/?q=Fluxbox>`__
--  `Mark Shuttleworth <https://duckduckgo.com/?q=Mark+Shuttleworth>`__
--  `Compiz <https://duckduckgo.com/?q=Compiz>`__
--  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
--  `Carlos Morimoto <https://duckduckgo.com/?q=Carlos+Morimoto>`__
--  `IceWM <https://duckduckgo.com/?q=IceWM>`__
--  `Gnumeric <https://duckduckgo.com/?q=Gnumeric>`__
--  `Python <https://duckduckgo.com/?q=Python>`__
--  `BigBashView <https://duckduckgo.com/?q=BigBashView>`__
--  `QT Webkit <https://duckduckgo.com/?q=QT+Webkit>`__
--  `NVIDIA <https://duckduckgo.com/?q=NVIDIA>`__
--  `OpenCast <https://duckduckgo.com/?q=OpenCast>`__
--  `DistroWatch <https://duckduckgo.com/?q=DistroWatch>`__
--  `BR-Linux <https://duckduckgo.com/?q=BR-Linux>`__
--  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
--  `União Livre <https://duckduckgo.com/?q=União+Livre>`__
--  `OpenSUSE Linux <https://duckduckgo.com/?q=OpenSUSE+Linux>`__
--  `Red Hat <https://duckduckgo.com/?q=Red+Hat>`__
--  `Canonical <https://duckduckgo.com/?q=Canonical>`__
--  `Mint Linux <https://duckduckgo.com/?q=Mint+Linux>`__
+-  `Vladimir Melo`_
+-  `BigLinux (DuckDuckGo)`_
+-  `Bruno Gonçalves`_
+-  `Kurumin Linux (DuckDuckGo)`_
+-  `OpenOffice`_
+-  `Gimp`_
+-  `ICQ`_
+-  `Kalango Linux`_
+-  `Debian Linux`_
+-  `KDE`_
+-  `GNOME`_
+-  `Metisse`_
+-  `Fluxbox`_
+-  `Mark Shuttleworth`_
+-  `Compiz`_
+-  `Ubuntu Linux`_
+-  `Carlos Morimoto`_
+-  `IceWM`_
+-  `Gnumeric`_
+-  `Python`_
+-  `BigBashView`_
+-  `QT Webkit`_
+-  `NVIDIA`_
+-  `OpenCast (DuckDuckGo)`_
+-  `DistroWatch`_
+-  `BR-Linux (DuckDuckGo)`_
+-  `Conectiva Linux`_
+-  `União Livre`_
+-  `OpenSUSE Linux`_
+-  `Red Hat`_
+-  `Canonical`_
+-  `Mint Linux`_
 
 .. class:: panel-body bg-info
 
@@ -144,3 +135,61 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Opencast: http://www.ubuntero.com.br/
+.. _episódio: http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/
+.. _BigLinux: http://www.biglinux.com.br/web/
+.. _União Livre: http://uniaolivre.com/
+.. _link: http://www.las.ic.unicamp.br/pub/biglinux/
+.. _BigBashLinux: http://code.google.com/p/bigbashview/
+.. _aqui: http://biglinux.com.br/forum/viewforum.php?f=62
+.. _vídeo: http://www.youtube.com/watch?v=lpDNGGOw_tY&feature=g-all-u
+.. _Raul Seixas: http://www.last.fm/search?q=Raul+Seixas
+.. _Ultrage a Rigor: http://www.last.fm/search?q=Ultrage+a+Rigor
+.. _Chuck Berry: http://www.last.fm/search?q=Chuck+Berry
+.. _Elvis Presley: http://www.last.fm/search?q=Elvis+Presley
+.. _Planet Hemp: http://www.last.fm/search?q=Planet+Hemp
+.. _Frejat: http://www.last.fm/search?q=Frejat
+.. _Rocky: http://www.imdb.com/find?s=all&q=Rocky
+.. _Scarface: http://www.imdb.com/find?s=all&q=Scarface
+.. _Chavez: http://www.imdb.com/find?s=all&q=Chavez
+.. _Chapolin: http://www.imdb.com/find?s=all&q=Chapolin
+.. _O Grande Dragão Branco: http://www.imdb.com/find?s=all&q=O+Grande+Dragão+Branco
+.. _Fórum BigLinux: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+BigLinux
+.. _Fórum Ubuntu BR: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Ubuntu+BR
+.. _Fórum Outer Space: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Outer+Space
+.. _Fórum Hard Science: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Hard+Science
+.. _BR-Linux: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=BR-Linux
+.. _Forum nix: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Forum+nix
+.. _Planet KDE: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Planet+KDE
+.. _Vladimir Melo: https://duckduckgo.com/?q=Vladimir+Melo
+.. _BigLinux (DuckDuckGo): https://duckduckgo.com/?q=BigLinux
+.. _Bruno Gonçalves: https://duckduckgo.com/?q=Bruno+Gonçalves
+.. _Kurumin Linux (DuckDuckGo): https://duckduckgo.com/?q=Kurumin+Linux
+.. _OpenOffice: https://duckduckgo.com/?q=OpenOffice
+.. _Gimp: https://duckduckgo.com/?q=Gimp
+.. _ICQ: https://duckduckgo.com/?q=ICQ
+.. _Kalango Linux: https://duckduckgo.com/?q=Kalango+Linux
+.. _Debian Linux: https://duckduckgo.com/?q=Debian+Linux
+.. _KDE: https://duckduckgo.com/?q=KDE
+.. _GNOME: https://duckduckgo.com/?q=GNOME
+.. _Metisse: https://duckduckgo.com/?q=Metisse
+.. _Fluxbox: https://duckduckgo.com/?q=Fluxbox
+.. _Mark Shuttleworth: https://duckduckgo.com/?q=Mark+Shuttleworth
+.. _Compiz: https://duckduckgo.com/?q=Compiz
+.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
+.. _Carlos Morimoto: https://duckduckgo.com/?q=Carlos+Morimoto
+.. _IceWM: https://duckduckgo.com/?q=IceWM
+.. _Gnumeric: https://duckduckgo.com/?q=Gnumeric
+.. _Python: https://duckduckgo.com/?q=Python
+.. _BigBashView: https://duckduckgo.com/?q=BigBashView
+.. _QT Webkit: https://duckduckgo.com/?q=QT+Webkit
+.. _NVIDIA: https://duckduckgo.com/?q=NVIDIA
+.. _OpenCast (DuckDuckGo): https://duckduckgo.com/?q=OpenCast
+.. _DistroWatch: https://duckduckgo.com/?q=DistroWatch
+.. _BR-Linux (DuckDuckGo): https://duckduckgo.com/?q=BR-Linux
+.. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux
+.. _OpenSUSE Linux: https://duckduckgo.com/?q=OpenSUSE+Linux
+.. _Red Hat: https://duckduckgo.com/?q=Red+Hat
+.. _Canonical: https://duckduckgo.com/?q=Canonical
+.. _Mint Linux: https://duckduckgo.com/?q=Mint+Linux
+.. _Kurumin Linux: http://www.hardware.com.br/kurumin/

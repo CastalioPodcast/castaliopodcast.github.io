@@ -29,9 +29,9 @@ Escute Agora
 
 Contato
 -------
--  **Twitter**: `@\_\_ruda\_\_ <https://twitter.com/#!/__ruda__>`__
--  **Facebook**: `ruda.moura <https://www.facebook.com/ruda.moura>`__
--  **Site**: `rudamoura.com <http://rudamoura.com/>`__
+-  **Twitter**: `@__ruda__`_
+-  **Facebook**: `ruda.moura`_
+-  **Site**: `rudamoura.com`_
 
 Resumo
 ------
@@ -53,42 +53,81 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Yo La Tengo <http://www.last.fm/search?q=Yo+La+Tengo>`__
--  **Música:** `Mutantes <http://www.last.fm/search?q=Mutantes>`__
--  **Música:** `New Order <http://www.last.fm/search?q=New+Order>`__
--  **Música:** `Kraftwerk <http://www.last.fm/search?q=Kraftwerk>`__
--  **Filmes:** `Blade Runner <http://www.imdb.com/find?s=all&q=Blade+Runner>`__
--  **Filmes:** `Matrix <http://www.imdb.com/find?s=all&q=matrix>`__
--  **Filmes:** `Sociedade dos poetas mortos <http://www.imdb.com/find?s=all&q=Sociedade+dos+poetas+mortos>`__
--  **Filmes:** `7 anos no tibet <http://www.imdb.com/find?s=all&q=7+anos+no+tibet>`__
--  **Livros:** `Ruído Branco (DeLillo) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ruído+Branco+(DeLillo)>`__
--  **Livros:** `Qualquer um do Saramago <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Saramago>`__
--  **Livros:** `Art Of Computer Program (Knuth) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Art+Of+Computer+Program+(Knuth)>`__
--  **Livros:** `Cammel Book (Larry Wall) <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cammel+Book+(Larry+Wall)>`__
+-  **Música:** `Yo La Tengo`_
+-  **Música:** `Mutantes`_
+-  **Música:** `New Order`_
+-  **Música:** `Kraftwerk`_
+-  **Filmes:** `Blade Runner`_
+-  **Filmes:** `Matrix`_
+-  **Filmes:** `Sociedade dos poetas mortos`_
+-  **Filmes:** `7 anos no tibet`_
+-  **Livros:** `Ruído Branco (DeLillo)`_
+-  **Livros:** `Qualquer um do Saramago`_
+-  **Livros:** `Art Of Computer Program (Knuth)`_
+-  **Livros:** `Cammel Book (Larry Wall)`_
 
 Links
 -----
--  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
--  `Slackware Linux <https://duckduckgo.com/?q=Slackware+Linux>`__
--  `Canonical <https://duckduckgo.com/?q=Canonical>`__
--  `Red Hat Linux <https://duckduckgo.com/?q=Red+Hat+Linux>`__
--  `Ubuntu Linux <https://duckduckgo.com/?q=Ubuntu+Linux>`__
--  `Fedora Linux <https://duckduckgo.com/?q=Fedora+Linux>`__
--  `GCC <https://duckduckgo.com/?q=GCC>`__
--  `Revista Linux <https://duckduckgo.com/?q=Revista+Linux>`__
--  `X.org <https://duckduckgo.com/?q=X.org>`__
--  `WinModem <https://duckduckgo.com/?q=WinModem>`__
--  `Novel <https://duckduckgo.com/?q=Novel>`__
--  `openSuse Linux <https://duckduckgo.com/?q=openSuse+Linux>`__
--  `Debian Linux <https://duckduckgo.com/?q=Debian+Linux>`__
--  `GNOME <https://duckduckgo.com/?q=GNOME>`__
--  `KDE <https://duckduckgo.com/?q=KDE>`__
--  `Qt <https://duckduckgo.com/?q=Qt>`__
--  `Avahi <https://duckduckgo.com/?q=Avahi>`__
--  `Tequila Baby <https://duckduckgo.com/?q=Tequila+Baby>`__
--  `Haxent <https://duckduckgo.com/?q=Haxent>`__
--  `Portal Terra <https://duckduckgo.com/?q=Portal+Terra>`__
+-  `Conectiva Linux`_
+-  `Slackware Linux`_
+-  `Canonical`_
+-  `Red Hat Linux`_
+-  `Ubuntu Linux`_
+-  `Fedora Linux`_
+-  `GCC`_
+-  `Revista Linux`_
+-  `X.org`_
+-  `WinModem`_
+-  `Novel`_
+-  `openSuse Linux`_
+-  `Debian Linux`_
+-  `GNOME`_
+-  `KDE`_
+-  `Qt`_
+-  `Avahi`_
+-  `Tequila Baby`_
+-  `Haxent`_
+-  `Portal Terra`_
 
 .. class:: panel-body bg-info
 
-        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+        **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
+
+
+.. _@__ruda__: https://twitter.com/#!/__ruda__
+.. _ruda.moura: https://www.facebook.com/ruda.moura
+.. _rudamoura.com: http://rudamoura.com/
+.. _Yo La Tengo: http://www.last.fm/search?q=Yo+La+Tengo
+.. _Mutantes: http://www.last.fm/search?q=Mutantes
+.. _New Order: http://www.last.fm/search?q=New+Order
+.. _Kraftwerk: http://www.last.fm/search?q=Kraftwerk
+.. _Blade Runner: http://www.imdb.com/find?s=all&q=Blade+Runner
+.. _Matrix: http://www.imdb.com/find?s=all&q=matrix
+.. _Sociedade dos poetas mortos: http://www.imdb.com/find?s=all&q=Sociedade+dos+poetas+mortos
+.. _7 anos no tibet: http://www.imdb.com/find?s=all&q=7+anos+no+tibet
+.. _Ruído Branco (DeLillo): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ruído+Branco+(DeLillo)
+.. _Qualquer um do Saramago: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Saramago
+.. _Art Of Computer Program (Knuth): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Art+Of+Computer+Program+(Knuth)
+.. _Cammel Book (Larry Wall): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cammel+Book+(Larry+Wall)
+.. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux
+.. _Slackware Linux: https://duckduckgo.com/?q=Slackware+Linux
+.. _Canonical: https://duckduckgo.com/?q=Canonical
+.. _Red Hat Linux: https://duckduckgo.com/?q=Red+Hat+Linux
+.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
+.. _Fedora Linux: https://duckduckgo.com/?q=Fedora+Linux
+.. _GCC: https://duckduckgo.com/?q=GCC
+.. _Revista Linux: https://duckduckgo.com/?q=Revista+Linux
+.. _X.org: https://duckduckgo.com/?q=X.org
+.. _WinModem: https://duckduckgo.com/?q=WinModem
+.. _Novel: https://duckduckgo.com/?q=Novel
+.. _openSuse Linux: https://duckduckgo.com/?q=openSuse+Linux
+.. _Debian Linux: https://duckduckgo.com/?q=Debian+Linux
+.. _GNOME: https://duckduckgo.com/?q=GNOME
+.. _KDE: https://duckduckgo.com/?q=KDE
+.. _Qt: https://duckduckgo.com/?q=Qt
+.. _Avahi: https://duckduckgo.com/?q=Avahi
+.. _Tequila Baby: https://duckduckgo.com/?q=Tequila+Baby
+.. _Haxent: https://duckduckgo.com/?q=Haxent
+.. _Portal Terra: https://duckduckgo.com/?q=Portal+Terra
+.. _Sunday Night Learning: http://soundcloud.com/clebertsuconic/sunday-night-lerning
+.. _Clebert Suconic: http://soundcloud.com/clebertsuconic

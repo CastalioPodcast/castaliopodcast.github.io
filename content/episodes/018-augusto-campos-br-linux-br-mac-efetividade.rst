@@ -11,19 +11,18 @@ Augusto Campos: BR-Linux, BR-Mac, Efetividade
 
    Augusto Campos: BR-Linux, BR-Mac, Efetividades
 
-Em um dia de muita chuva em Florianópolis, SC finalmente consegui bater
-um bom papo com o **Augusto Campos**, fundador dos super populares sites
-**BR-Linux**, **BR-Mac** e **Efetividade**! Devido à conexão que estava
-sofrendo muita perda de pacotes (**para cada 7 minutos de áudio, passei
-60 minutos editando**), mantivemos nossa entrevista por apenas 34
-minutos, mas mesmo assim deu tempo para discutirmos sobre a criação dos
-web sites, as mudanças que aconteceram durante os anos, sobre a
-entrevista com `GTalk Show <http://hacktoon.com/?s=augusto+campos>`__ do
-**Karlisson**, o mercado de trabalho em Santa Catarina, suas ferramentas
-de trabalho, livros, filmes e música. Uma novidade que também tenho é a
-participação mais que especial do **Evandro Pastor**, que literalmente
-**casou, mudou e não me convidou**! :) Mas ele já está bem melhor e quem
-sabe não volta no próximo episódio?
+Em um dia de muita chuva em Florianópolis, SC finalmente consegui bater um bom
+papo com o **Augusto Campos**, fundador dos super populares sites **BR-Linux**,
+**BR-Mac** e **Efetividade**! Devido à conexão que estava sofrendo muita perda
+de pacotes (**para cada 7 minutos de áudio, passei 60 minutos editando**), 
+mantivemos nossa entrevista por apenas 34 minutos, mas mesmo assim deu tempo
+para discutirmos sobre a criação dos web sites, as mudanças que aconteceram
+durante os anos, sobre a entrevista com `GTalk Show`_ do **Karlisson**,
+o mercado de trabalho em Santa Catarina, suas ferramentas de trabalho, livros,
+filmes e música. Uma novidade que também tenho é a participação mais que
+especial do **Evandro Pastor**, que literalmente **casou, mudou e não me
+convidou**! :) Mas ele já está bem melhor e quem sabe não volta no próximo
+episódio?
 
 Escute Agora
 ------------
@@ -58,39 +57,77 @@ Resumo
 
 Top 5
 -----
--  **Música**:  `Punk Rock <http://www.last.fm/search?q=punk+rock&from=ac>`__
--  **Música**:  `The Clash <http://www.last.fm/music/The+Clash>`__
--  **Música**:  `Ramones <http://www.last.fm/music/Ramones>`__
+-  **Música**:  `Punk Rock`_
+-  **Música**:  `The Clash`_
+-  **Música**:  `Ramones`_
 -  **Música**:  Top 50 dos anos 90
--  **Livro**:  `Life <http://www.amazon.com/Life-Keith-Richards/dp/031603441X/ref=sr_1_1?s=books&ie=UTF8&qid=1317570186&sr=1-1>`__ por `Keith Richards <https://pt.wikipedia.org/wiki/Keith_Richards>`__ e James Fox
--  **Livro**:  `Lobão 50 Anos a Mil <http://www.walmart.com.br/Produto/Livros/Literatura-Nacional/Nova-Fronteira/233090-Lobao-50-Anos-a-Mil>`__ por `Lobão <https://pt.wikipedia.org/wiki/Lob%C3%A3o_(m%C3%BAsico)>`__
--  **Filme**:  `Star Wars <http://www.imdb.com/title/tt0076759/>`__
--  **Filme**:  `Star Wars: The Empire Strikes Back <http://www.imdb.com/title/tt0080684/>`__
--  **Filme** :  `Star Wars: Return of the Jedi <http://www.imdb.com/title/tt0086190/>`__
--  **Filme**:  `Ferris Bueller's Day Off <http://www.imdb.com/title/tt0091042/>`__
--  **Filme**:  `Star Trek <http://www.imdb.com/find?s=all&q=star+trek>`__
+-  **Livro**:  `Life`_ por `Keith Richards`_ e James Fox
+-  **Livro**:  `Lobão 50 Anos a Mil`_ por `Lobão`_
+-  **Filme**:  `Star Wars`_
+-  **Filme**:  `Star Wars - The Empire Strikes Back`_
+-  **Filme** :  `Star Wars - Return of the Jedi`_
+-  **Filme**:  `Ferris Bueller's Day Off`_
+-  **Filme**:  `Star Trek`_
 
 Links
 -----
--  **Mora em**: `Florianópolis <http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Florianopolis+-+SC,+Brazil&aq=0&ie=UTF8&hq=&hnear=Florian%C3%B3polis+-+Santa+Catarina,+Brazil&t=h&z=11&vpsrc=0>`__,  \ **Santa Catarina**
--  `WordPress <http://wordpress.com>`__
--  `MySQL <http://www.mysql.com/>`__
--  `CentOS Linux <http://www.centos.org/>`__
--  `Istoé <http://www.istoe.com.br/>`__
--  `Marcelo Tosatti <https://pt.wikipedia.org/wiki/Marcelo_Tosatti>`__
--  `Red Hat Linux <https://duckduckgo.com/Red_Hat>`__
--  `GTalk Show <http://hacktoon.com/?s=augusto+campos>`__
--  `Estrella Roja <http://www.estrellaroja.info/>`__
--  `Mac OS <http://www.apple.com/macosx/>`__
--  `FlipBoard <http://flipboard.com/>`__
--  `BBEdit <http://www.barebones.com/products/bbedit/>`__
--  `Kate <https://pt.wikipedia.org/wiki/Kate_(KDE)>`__
--  `SSH <https://pt.wikipedia.org/wiki/Ssh>`__, `SCP <https://pt.wikipedia.org/wiki/Unix_SCP>`__
--  `AWK <https://pt.wikipedia.org/wiki/Awk>`__
--  `Pascal <https://pt.wikipedia.org/wiki/Pascal>`__
--  `Cobol <https://pt.wikipedia.org/wiki/Cobol>`__
--  `iPad <http://www.apple.com/ipad/>`__
--  `Kindle <https://pt.wikipedia.org/wiki/Kindle>`__
--  `eBook <https://pt.wikipedia.org/wiki/Ebook>`__
--  `Livraria Saraiva <http://www.livrariasaraiva.com.br/>`__
--  `Android <http://www.android.com/>`__
+-  **Mora em**: `Florianópolis`_,  \ **Santa Catarina**
+-  `WordPress`_
+-  `MySQL`_
+-  `CentOS Linux`_
+-  `Istoé`_
+-  `Marcelo Tosatti`_
+-  `Red Hat Linux`_
+-  `GTalk Show`_
+-  `Estrella Roja`_
+-  `Mac OS`_
+-  `FlipBoard`_
+-  `BBEdit`_
+-  `Kate`_
+-  `SSH`_, `SCP`_
+-  `AWK`_
+-  `Pascal`_
+-  `Cobol`_
+-  `iPad`_
+-  `Kindle`_
+-  `eBook`_
+-  `Livraria Saraiva`_
+-  `Android`_
+
+
+.. _GTalk Show: http://hacktoon.com/?s=augusto+campos
+.. _Punk Rock: http://www.last.fm/search?q=punk+rock&from=ac
+.. _The Clash: http://www.last.fm/music/The+Clash
+.. _Ramones: http://www.last.fm/music/Ramones
+.. _Life: http://www.amazon.com/Life-Keith-Richards/dp/031603441X/ref=sr_1_1?s=books&ie=UTF8&qid=1317570186&sr=1-1
+.. _Keith Richards: https://pt.wikipedia.org/wiki/Keith_Richards
+.. _Lobão 50 Anos a Mil: http://www.walmart.com.br/Produto/Livros/Literatura-Nacional/Nova-Fronteira/233090-Lobao-50-Anos-a-Mil
+.. _Lobão: https://pt.wikipedia.org/wiki/Lob%C3%A3o_(m%C3%BAsico)
+.. _Star Wars: http://www.imdb.com/title/tt0076759/
+.. _Star Wars - The Empire Strikes Back: http://www.imdb.com/title/tt0080684/
+.. _Star Wars - Return of the Jedi: http://www.imdb.com/title/tt0086190/
+.. _Ferris Bueller's Day Off: http://www.imdb.com/title/tt0091042/
+.. _Star Trek: http://www.imdb.com/find?s=all&q=star+trek
+.. _Florianópolis: http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Florianopolis+-+SC,+Brazil&aq=0&ie=UTF8&hq=&hnear=Florian%C3%B3polis+-+Santa+Catarina,+Brazil&t=h&z=11&vpsrc=0
+.. _WordPress: http://wordpress.com
+.. _MySQL: http://www.mysql.com/
+.. _CentOS Linux: http://www.centos.org/
+.. _Istoé: http://www.istoe.com.br/
+.. _Marcelo Tosatti: https://pt.wikipedia.org/wiki/Marcelo_Tosatti
+.. _Red Hat Linux: https://duckduckgo.com/Red_Hat
+.. _GTalk Show: http://hacktoon.com/?s=augusto+campos
+.. _Estrella Roja: http://www.estrellaroja.info/
+.. _Mac OS: http://www.apple.com/macosx/
+.. _FlipBoard: http://flipboard.com/
+.. _BBEdit: http://www.barebones.com/products/bbedit/
+.. _Kate: https://pt.wikipedia.org/wiki/Kate_(KDE)
+.. _SSH: https://pt.wikipedia.org/wiki/Ssh
+.. _SCP: https://pt.wikipedia.org/wiki/Unix_SCP
+.. _AWK: https://pt.wikipedia.org/wiki/Awk
+.. _Pascal: https://pt.wikipedia.org/wiki/Pascal
+.. _Cobol: https://pt.wikipedia.org/wiki/Cobol
+.. _iPad: http://www.apple.com/ipad/
+.. _Kindle: https://pt.wikipedia.org/wiki/Kindle
+.. _eBook: https://pt.wikipedia.org/wiki/Ebook
+.. _Livraria Saraiva: http://www.livrariasaraiva.com.br/
+.. _Android: http://www.android.com/

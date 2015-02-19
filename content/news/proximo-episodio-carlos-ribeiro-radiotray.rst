@@ -10,10 +10,11 @@ Próximo Episódio: Carlos Ribeiro - RadioTray
 
    RadioTray
 
-Olá pessoal! Só queria avisar que o meu próximo convidado será o
-**Carlos Ribeiro** do projeto
-`RadioTray <http://radiotray.sourceforge.net/>`__! O Carlos vai estar
-falando direto de **Portugal** comigo pelo Skype, e eu estou
-interessadíssimo em saber um pouco mais sobre o seu projeto e como é a
-cultura de ser um programador na Europa! Caso vocês queiram participar
-deste episódio, deixe suas perguntas aqui nos comentários.
+Olá pessoal! Só queria avisar que o meu próximo convidado será o **Carlos
+Ribeiro** do projeto `RadioTray`_! O Carlos vai estar falando direto de
+**Portugal** comigo pelo Skype, e eu estou interessadíssimo em saber um pouco
+mais sobre o seu projeto e como é a cultura de ser um programador na Europa!
+Caso vocês queiram participar deste episódio, deixe suas perguntas aqui nos
+comentários.
+
+.. _RadioTray: http://radiotray.sourceforge.net/

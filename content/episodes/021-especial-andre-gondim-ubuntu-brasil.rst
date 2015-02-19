@@ -11,22 +11,20 @@ Episódio Especial: André Gondim - Ubuntu Brasil
 
    André Gondim - Ubuntu Brasil
 
-Olá pessoal! Foi com um enorme pezar que eu recebi a
-`notícia <http://sejalivre.org/?p=5698>`__ sobre o falecimento de `André
-Gondim <http://andregondim.eti.br/>`__, uma figura do software livre
-Brasileiro que, infelizmente, nos deixou na semana passada... O meu
-relacionamento com o André começou em 2005 quando eu ainda administrava
-a equipe de traduções do **Ubuntu Brasil**. Assim como o **Fábio
-Nogueira** e **André Noel**, pessoas que eventualmente também ocuparam o
-cardo de coordenador desta equipe, o André Gondim foi uma das pessoas
-com quem eu tive o prazer de trabalhar e instruir no processo de
-traduções. Durante o nosso dia-a-dia, vi o trabalho e dedicação que ele
-sempre trazia e pude acompanhar o seu desenvolvimento e crescimento
-dentro da equipe. Mesmo depois que eu parei de contribuir com o Ubuntu e
-parti para traduções para o **GNOME**, **Xfce** e **LXDE**, com a ajuda
-do André foi possível sincronizar o trabalho entre as equipes e assim
-garantir que o Ubuntu tivesse uma tradução de qualidade e ao mesmo tempo
-respeitar o trabalho dos tradutores das equipes GNOME, etc, etc.
+Olá pessoal! Foi com um enorme pezar que eu recebi a `notícia`_ sobre
+o falecimento de `André Gondim`_, uma figura do software livre Brasileiro que,
+infelizmente, nos deixou na semana passada... O meu relacionamento com o André
+começou em 2005 quando eu ainda administrava a equipe de traduções do **Ubuntu
+Brasil**. Assim como o **Fábio Nogueira** e **André Noel**, pessoas que
+eventualmente também ocuparam o cardo de coordenador desta equipe, o André
+Gondim foi uma das pessoas com quem eu tive o prazer de trabalhar e instruir no
+processo de traduções. Durante o nosso dia-a-dia, vi o trabalho e dedicação que
+ele sempre trazia e pude acompanhar o seu desenvolvimento e crescimento dentro
+da equipe. Mesmo depois que eu parei de contribuir com o Ubuntu e parti para
+traduções para o **GNOME**, **Xfce** e **LXDE**, com a ajuda do André foi
+possível sincronizar o trabalho entre as equipes e assim garantir que o Ubuntu
+tivesse uma tradução de qualidade e ao mesmo tempo respeitar o trabalho dos
+tradutores das equipes GNOME, etc, etc.
 
 Escute Agora
 ------------
@@ -36,7 +34,7 @@ Escute Agora
 Contato
 -------
 -  **Blog**: http://andregondim.eti.br/
--  **Twitter**: https://twitter.com/#!/AndreGondim\ `  <http://andregondim.eti.br/>`__
+-  **Twitter**: https://twitter.com/#!/AndreGondim
 -  **Indenti.ca**:  http://identi.ca/andregondim
 -  **Facebook**:  https://www.facebook.com/andregondim?ref=ts
 
@@ -77,5 +75,10 @@ Fatos
 
 Link
 ----
-1. `Canonical observa um minuto de silêncio em memória ao trabalho e vida de André Gondim <http://twitpic.com/7av8qa>`__.
+1. `Canonical observa um minuto de silêncio em memória ao trabalho e vida de André Gondim`_.
 2. Entrevista pelo site Fridge do Ubuntu: http://fridge.ubuntu.com/2010/12/16/ubuntu-translations-interviews-andre-gondim-brazilian-portugese-translation-team/
+
+
+.. _notícia: http://sejalivre.org/?p=5698
+.. _André Gondim: http://andregondim.eti.br/
+.. _Canonical observa um minuto de silêncio em memória ao trabalho e vida de André Gondim: http://twitpic.com/7av8qa

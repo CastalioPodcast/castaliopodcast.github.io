@@ -11,11 +11,11 @@ Episódio Zero: Og Maciel
 
    Episódio Zero
 
-Apresentando o primeiro episódio do **Castalio**. O entrevistado neste
-episódio é o\ `Og Maciel <http://www.ogmaciel.com>`__, conhecido
-contribuinte do mundo do software livre, e atual membro da mesa diretora
-do **GNOME Foundation**. Por este ter sido o primeiro episódio, abusamos
-do Og e perguntamos várias coisas sobre assuntos variádos, como:
+Apresentando o primeiro episódio do **Castalio**. O entrevistado neste episódio
+é o `Og Maciel`_, conhecido contribuinte do mundo do software livre, e atual
+membro da mesa diretora do **GNOME Foundation**. Por este ter sido o primeiro
+episódio, abusamos do Og e perguntamos várias coisas sobre assuntos variádos,
+como:
 
 -  como ele ingressou no mundo do software livre;
 -  envolvimento junto à várias comunidades, incluindo a comunidade
@@ -65,3 +65,5 @@ Links
 -  **Subversion**: http://en.wikipedia.org/wiki/Subversion_(software)
 -  **Bitbucket**: https://bitbucket.org/
 -  **BillReminder**: http://billreminder.gnulinuxbrasil.org/
+
+.. _Og Maciel: http://www.ogmaciel.com

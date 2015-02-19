@@ -11,10 +11,9 @@ Felipe Borges: Google Summer of Code
 
    Felipe Borges
 
-Finalzinho do verão americano e no ar já se sente um pouco a vinda do
-outono e a volta às aulas. Nada melhor então que bater um papo com o
-**Felipe Borges** que está participando do `Google Summer of
-Code <https://code.google.com/soc/>`__ pelo projeto **GNOME**!
+Finalzinho do verão americano e no ar já se sente um pouco a vinda do outono
+e a volta às aulas. Nada melhor então que bater um papo com o **Felipe Borges**
+que está participando do `Google Summer of Code`_ pelo projeto **GNOME**!
 
 Durante estes últimos meses o Felipe tem trabalhado no **GNOME
 Documents**, adicionando suporte para administrar e visualizar arquivos
@@ -33,9 +32,8 @@ conta com várias surpresas bem interessantes! Mal posso esperar o dia
 quando vou poder bater altos papos com o Felipe sobre política e
 assuntos diversos... quem sabe no próximo **FISL**?
 
-Mais uma vez a gravação foi feita ao vivo pelo **Youtube** e se você
-quizer assistir a entrevista, veja este
-`vídeo <http://www.youtube.com/watch?v=0T6nGDSr13o>`__.
+Mais uma vez a gravação foi feita ao vivo pelo **Youtube** e se você quizer
+assistir a entrevista, veja este `vídeo`_.
 
 Escute Agora
 ------------
@@ -69,57 +67,57 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Immortal Technique <http://www.last.fm/search?q=Immortal+Technique>`__
--  **Música:** `Criolo <http://www.last.fm/search?q=Criolo>`__
--  **Música:** `Bob Marley <http://www.last.fm/search?q=Bob+Marley>`__
--  **Música:** `Cavalera Conspiracy <http://www.last.fm/search?q=Cavalera+Conspiracy>`__
--  **Música:** `Lowkey <http://www.last.fm/search?q=Lowkey>`__
--  **Filmes:** `Prison Break <http://www.imdb.com/find?s=all&q=Prison+Break>`__
--  **Filmes:** `Big Bang Theory <http://www.imdb.com/find?s=all&q=Big+Bang+Theory>`__
--  **Filmes:** `The IT Crowd <http://www.imdb.com/find?s=all&q=The+IT+Crowd>`__
--  **Filmes:** `Chavez <http://www.imdb.com/find?s=all&q=Chavez>`__
--  **Filmes:** `Homeland <http://www.imdb.com/find?s=all&q=Homeland>`__
--  **Livros:** `Pablo Neruda <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pablo+Neruda>`__
--  **Livros:** `Cidade do Sol <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidade+do+Sol>`__
--  **Livros:** `Khaled Hossein <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Khaled+Hossein>`__
--  **Livros:** `Os Sertões <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Sertões>`__
--  **Livros:** `Euclydes da Cunha <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Euclydes+da+Cunha>`__
--  **Livros:** `Batalha do Apocalipse <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse>`__
--  **Livros:** `Eduardo Spohr <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Spohr>`__
--  **Livros:** `Design for Hackers <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Design+for+Hackers>`__
--  **Livros:** `Eduardo Galeano <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Galeano>`__
+-  **Música:** `Immortal Technique`_
+-  **Música:** `Criolo`_
+-  **Música:** `Bob Marley`_
+-  **Música:** `Cavalera Conspiracy`_
+-  **Música:** `Lowkey`_
+-  **Filmes:** `Prison Break`_
+-  **Filmes:** `Big Bang Theory`_
+-  **Filmes:** `The IT Crowd`_
+-  **Filmes:** `Chavez`_
+-  **Filmes:** `Homeland`_
+-  **Livros:** `Pablo Neruda`_
+-  **Livros:** `Cidade do Sol`_
+-  **Livros:** `Khaled Hossein`_
+-  **Livros:** `Os Sertões`_
+-  **Livros:** `Euclydes da Cunha`_
+-  **Livros:** `Batalha do Apocalipse`_
+-  **Livros:** `Eduardo Spohr`_
+-  **Livros:** `Design for Hackers`_
+-  **Livros:** `Eduardo Galeano`_
 
 Links
 -----
--  `Planet GNOME <https://duckduckgo.com/?q=Planet+GNOME>`__
--  `Universidade Federal de Pelotas <https://duckduckgo.com/?q=Universidade+Federal+de+Pelotas>`__
--  `Projeto GNOME <https://duckduckgo.com/?q=Projeto+GNOME>`__
--  `FISL <https://duckduckgo.com/?q=FISL>`__
--  `Fundação GNOME <https://duckduckgo.com/?q=Fundação+GNOME>`__
--  `Fundação Mozilla <https://duckduckgo.com/?q=Fundação+Mozilla>`__
--  `Bugzilla <https://duckduckgo.com/?q=Bugzilla>`__
--  `GNOME Documents <https://duckduckgo.com/?q=GNOME+Documents>`__
--  `Microsoft SkyDrive <https://duckduckgo.com/?q=Microsoft+SkyDrive>`__
--  `GIO <https://duckduckgo.com/?q=GIO>`__
--  `Tracker <https://duckduckgo.com/?q=Tracker>`__
--  `Nokia <https://duckduckgo.com/?q=Nokia>`__
--  `Cosimo Cecchi <https://duckduckgo.com/?q=Cosimo+Cecchi>`__
--  `Github <https://duckduckgo.com/?q=Github>`__
--  `GUADEC <https://duckduckgo.com/?q=GUADEC>`__
--  `Programação em C <https://duckduckgo.com/?q=Programação+em+C>`__
--  `Javascript <https://duckduckgo.com/?q=Javascript>`__
--  `Programação em Python <https://duckduckgo.com/?q=Programação+em+Python>`__
--  `GLIB <https://duckduckgo.com/?q=GLIB>`__
--  `Evince <https://duckduckgo.com/?q=Evince>`__
--  `Biblioteca libevince <https://duckduckgo.com/?q=Biblioteca+libevince>`__
--  `Formato epub <https://duckduckgo.com/?q=Formato+epub>`__
--  `Formato mobi <https://duckduckgo.com/?q=Formato+mobi>`__
--  `Amazon <https://duckduckgo.com/?q=Amazon>`__
--  `Sepultura <https://duckduckgo.com/?q=Sepultura>`__
--  `Walt Disney <https://duckduckgo.com/?q=Walt+Disney>`__
--  `Red Hat <https://duckduckgo.com/?q=Red+Hat>`__
--  `Djavan Fagundes <https://duckduckgo.com/?q=Djavan+Fagundes>`__
--  `iTunes <https://duckduckgo.com/?q=iTunes>`__
+-  `Planet GNOME`_
+-  `Universidade Federal de Pelotas`_
+-  `Projeto GNOME`_
+-  `FISL`_
+-  `Fundação GNOME`_
+-  `Fundação Mozilla`_
+-  `Bugzilla`_
+-  `GNOME Documents`_
+-  `Microsoft SkyDrive`_
+-  `GIO`_
+-  `Tracker`_
+-  `Nokia`_
+-  `Cosimo Cecchi`_
+-  `Github`_
+-  `GUADEC`_
+-  `Programação em C`_
+-  `Javascript`_
+-  `Programação em Python`_
+-  `GLIB`_
+-  `Evince`_
+-  `Biblioteca libevince`_
+-  `Formato epub`_
+-  `Formato mobi`_
+-  `Amazon`_
+-  `Sepultura`_
+-  `Walt Disney`_
+-  `Red Hat`_
+-  `Djavan Fagundes`_
+-  `iTunes`_
 
 .. class:: panel-body bg-info
 
@@ -128,3 +126,53 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
+.. _Google Summer of Code: https://code.google.com/soc/
+.. _vídeo: http://www.youtube.com/watch?v=0T6nGDSr13o
+.. _Immortal Technique: http://www.last.fm/search?q=Immortal+Technique
+.. _Criolo: http://www.last.fm/search?q=Criolo
+.. _Bob Marley: http://www.last.fm/search?q=Bob+Marley
+.. _Cavalera Conspiracy: http://www.last.fm/search?q=Cavalera+Conspiracy
+.. _Lowkey: http://www.last.fm/search?q=Lowkey
+.. _Prison Break: http://www.imdb.com/find?s=all&q=Prison+Break
+.. _Big Bang Theory: http://www.imdb.com/find?s=all&q=Big+Bang+Theory
+.. _The IT Crowd: http://www.imdb.com/find?s=all&q=The+IT+Crowd
+.. _Chavez: http://www.imdb.com/find?s=all&q=Chavez
+.. _Homeland: http://www.imdb.com/find?s=all&q=Homeland
+.. _Pablo Neruda: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pablo+Neruda
+.. _Cidade do Sol: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidade+do+Sol
+.. _Khaled Hossein: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Khaled+Hossein
+.. _Os Sertões: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Sertões
+.. _Euclydes da Cunha: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Euclydes+da+Cunha
+.. _Batalha do Apocalipse: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse
+.. _Eduardo Spohr: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Spohr
+.. _Design for Hackers: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Design+for+Hackers
+.. _Eduardo Galeano: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Galeano
+.. _Planet GNOME: https://duckduckgo.com/?q=Planet+GNOME
+.. _Universidade Federal de Pelotas: https://duckduckgo.com/?q=Universidade+Federal+de+Pelotas
+.. _Projeto GNOME: https://duckduckgo.com/?q=Projeto+GNOME
+.. _FISL: https://duckduckgo.com/?q=FISL
+.. _Fundação GNOME: https://duckduckgo.com/?q=Fundação+GNOME
+.. _Fundação Mozilla: https://duckduckgo.com/?q=Fundação+Mozilla
+.. _Bugzilla: https://duckduckgo.com/?q=Bugzilla
+.. _GNOME Documents: https://duckduckgo.com/?q=GNOME+Documents
+.. _Microsoft SkyDrive: https://duckduckgo.com/?q=Microsoft+SkyDrive
+.. _GIO: https://duckduckgo.com/?q=GIO
+.. _Tracker: https://duckduckgo.com/?q=Tracker
+.. _Nokia: https://duckduckgo.com/?q=Nokia
+.. _Cosimo Cecchi: https://duckduckgo.com/?q=Cosimo+Cecchi
+.. _Github: https://duckduckgo.com/?q=Github
+.. _GUADEC: https://duckduckgo.com/?q=GUADEC
+.. _Programação em C: https://duckduckgo.com/?q=Programação+em+C
+.. _Javascript: https://duckduckgo.com/?q=Javascript
+.. _Programação em Python: https://duckduckgo.com/?q=Programação+em+Python
+.. _GLIB: https://duckduckgo.com/?q=GLIB
+.. _Evince: https://duckduckgo.com/?q=Evince
+.. _Biblioteca libevince: https://duckduckgo.com/?q=Biblioteca+libevince
+.. _Formato epub: https://duckduckgo.com/?q=Formato+epub
+.. _Formato mobi: https://duckduckgo.com/?q=Formato+mobi
+.. _Amazon: https://duckduckgo.com/?q=Amazon
+.. _Sepultura: https://duckduckgo.com/?q=Sepultura
+.. _Walt Disney: https://duckduckgo.com/?q=Walt+Disney
+.. _Red Hat: https://duckduckgo.com/?q=Red+Hat
+.. _Djavan Fagundes: https://duckduckgo.com/?q=Djavan+Fagundes
+.. _iTunes: https://duckduckgo.com/?q=iTunes

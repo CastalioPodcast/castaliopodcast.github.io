@@ -53,62 +53,120 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Muse <http://www.last.fm/search?q=Muse>`__
--  **Música:** `Smashing Pumpkins <http://www.last.fm/search?q=Smashing+Pumpkins>`__
--  **Música:** `Fiona Apple <http://www.last.fm/search?q=Fiona+Apple>`__
--  **Música:** `Oasis <http://www.last.fm/search?q=Oasis>`__
--  **Música:** `Pearl Jam <http://www.last.fm/search?q=Pearl+Jam>`__
--  **Música:** `Nirvana <http://www.last.fm/search?q=Nirvana>`__
--  **Filmes:** `Donny Darco <http://www.imdb.com/find?s=all&q=Donny+Darco>`__
--  **Filmes:** `O Silêncio dos Inocentes <http://www.imdb.com/find?s=all&q=O+Silêncio+dos+Inocentes>`__
--  **Filmes:** `O Segredo dos Seus Olhos <http://www.imdb.com/find?s=all&q=O+Segredo+dos+Seus+Olhos>`__
--  **Filmes:** `Crash <http://www.imdb.com/find?s=all&q=Crash>`__
--  **Livros:** `The Dragons of Eden <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Dragons+of+Eden>`__
--  **Livros:** `1984 <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=1984>`__
--  **Livros:** `Admirável Mundo Novo <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Admirável+Mundo+Novo>`__
--  **Livros:** `Os Miseráveis <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis>`__
+-  **Música:** `Muse`_
+-  **Música:** `Smashing Pumpkins`_
+-  **Música:** `Fiona Apple`_
+-  **Música:** `Oasis`_
+-  **Música:** `Pearl Jam`_
+-  **Música:** `Nirvana`_
+-  **Filmes:** `Donny Darco`_
+-  **Filmes:** `O Silêncio dos Inocentes`_
+-  **Filmes:** `O Segredo dos Seus Olhos`_
+-  **Filmes:** `Crash`_
+-  **Livros:** `The Dragons of Eden`_
+-  **Livros:** `1984`_
+-  **Livros:** `Admirável Mundo Novo`_
+-  **Livros:** `Os Miseráveis`_
 
 Links
 -----
--  `Linaro <https://duckduckgo.com/?q=Linaro>`__
--  `rootfs <https://duckduckgo.com/?q=rootfs>`__
--  `arm board <https://duckduckgo.com/?q=arm+board>`__
--  `kernel <https://duckduckgo.com/?q=kernel>`__
--  `toolchain <https://duckduckgo.com/?q=toolchain>`__
--  `git version control <https://duckduckgo.com/?q=git+version+control>`__
--  `Integração Contínua <https://duckduckgo.com/?q=Integração+Contínua>`__
--  `Hudson <https://duckduckgo.com/?q=Hudson>`__
--  `Jenkins <https://duckduckgo.com/?q=Jenkins>`__
--  `Lava Linaro Automation <https://duckduckgo.com/?q=Lava+Linaro+Automation>`__
--  `Canonical <https://duckduckgo.com/?q=Canonical>`__
--  `Ubuntu <https://duckduckgo.com/?q=Ubuntu>`__
--  `Async <https://duckduckgo.com/?q=Async>`__
--  `Launchpad <https://duckduckgo.com/?q=Launchpad>`__
--  `OpenID <https://duckduckgo.com/?q=OpenID>`__
--  `Christian Reis <https://duckduckgo.com/?q=Christian+Reis>`__
--  `Postgresql <https://duckduckgo.com/?q=Postgresql>`__
--  `Zope 3 <https://duckduckgo.com/?q=Zope+3>`__
--  `ZTK <https://duckduckgo.com/?q=ZTK>`__
--  `Storm <https://duckduckgo.com/?q=Storm>`__
--  `ORM <https://duckduckgo.com/?q=ORM>`__
--  `Guastavo Niemeier <https://duckduckgo.com/?q=Guastavo+Niemeier>`__
--  `Yui <https://duckduckgo.com/?q=Yui>`__
--  `Twisted <https://duckduckgo.com/?q=Twisted>`__
--  `Ubuntu Developer Summit <https://duckduckgo.com/?q=Ubuntu+Developer+Summit>`__
--  `Juju <https://duckduckgo.com/?q=Juju>`__
--  `Ensamble <https://duckduckgo.com/?q=Ensamble>`__
--  `apt-get <https://duckduckgo.com/?q=apt-get>`__
--  `Virtual Machine <https://duckduckgo.com/?q=Virtual+Machine>`__
--  `WordPress <https://duckduckgo.com/?q=WordPress>`__
--  `Amazon EC2 <https://duckduckgo.com/?q=Amazon+EC2>`__
--  `Load Balancer <https://duckduckgo.com/?q=Load+Balancer>`__
--  `HP <https://duckduckgo.com/?q=HP>`__
--  `Fedora Linux <https://duckduckgo.com/?q=Fedora+Linux>`__
--  `OpenSuse Linux <https://duckduckgo.com/?q=OpenSuse+Linux>`__
--  `Mint Linux <https://duckduckgo.com/?q=Mint+Linux>`__
--  `Red Hat Linux <https://duckduckgo.com/?q=Red+Hat+Linux>`__
--  `Snowboard <https://duckduckgo.com/?q=Snowboard>`__
--  `Dell <https://duckduckgo.com/?q=Dell>`__
--  `Carl Seagan <https://duckduckgo.com/?q=Carl+Seagan>`__
--  `George Orwell <https://duckduckgo.com/?q=George+Orwell>`__
--  `Carlitos Tevez <https://duckduckgo.com/?q=Carlitos+Tevez>`__
+-  `Linaro`_
+-  `rootfs`_
+-  `arm board`_
+-  `kernel`_
+-  `toolchain`_
+-  `git version control`_
+-  `Integração Contínua`_
+-  `Hudson`_
+-  `Jenkins`_
+-  `Lava Linaro Automation`_
+-  `Canonical`_
+-  `Ubuntu`_
+-  `Async`_
+-  `Launchpad`_
+-  `OpenID`_
+-  `Christian Reis`_
+-  `Postgresql`_
+-  `Zope 3`_
+-  `ZTK`_
+-  `Storm`_
+-  `ORM`_
+-  `Guastavo Niemeier`_
+-  `Yui`_
+-  `Twisted`_
+-  `Ubuntu Developer Summit`_
+-  `Juju`_
+-  `Ensamble`_
+-  `apt-get`_
+-  `Virtual Machine`_
+-  `WordPress`_
+-  `Amazon EC2`_
+-  `Load Balancer`_
+-  `HP`_
+-  `Fedora Linux`_
+-  `OpenSuse Linux`_
+-  `Mint Linux`_
+-  `Red Hat Linux`_
+-  `Snowboard`_
+-  `Dell`_
+-  `Carl Seagan`_
+-  `George Orwell`_
+-  `Carlitos Tevez`_
+
+
+.. _Muse: http://www.last.fm/search?q=Muse
+.. _Smashing Pumpkins: http://www.last.fm/search?q=Smashing+Pumpkins
+.. _Fiona Apple: http://www.last.fm/search?q=Fiona+Apple
+.. _Oasis: http://www.last.fm/search?q=Oasis
+.. _Pearl Jam: http://www.last.fm/search?q=Pearl+Jam
+.. _Nirvana: http://www.last.fm/search?q=Nirvana
+.. _Donny Darco: http://www.imdb.com/find?s=all&q=Donny+Darco
+.. _O Silêncio dos Inocentes: http://www.imdb.com/find?s=all&q=O+Silêncio+dos+Inocentes
+.. _O Segredo dos Seus Olhos: http://www.imdb.com/find?s=all&q=O+Segredo+dos+Seus+Olhos
+.. _Crash: http://www.imdb.com/find?s=all&q=Crash
+.. _The Dragons of Eden: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Dragons+of+Eden
+.. _1984: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=1984
+.. _Admirável Mundo Novo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Admirável+Mundo+Novo
+.. _Os Miseráveis: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis
+.. _Linaro: https://duckduckgo.com/?q=Linaro
+.. _rootfs: https://duckduckgo.com/?q=rootfs
+.. _arm board: https://duckduckgo.com/?q=arm+board
+.. _kernel: https://duckduckgo.com/?q=kernel
+.. _toolchain: https://duckduckgo.com/?q=toolchain
+.. _git version control: https://duckduckgo.com/?q=git+version+control
+.. _Integração Contínua: https://duckduckgo.com/?q=Integração+Contínua
+.. _Hudson: https://duckduckgo.com/?q=Hudson
+.. _Jenkins: https://duckduckgo.com/?q=Jenkins
+.. _Lava Linaro Automation: https://duckduckgo.com/?q=Lava+Linaro+Automation
+.. _Canonical: https://duckduckgo.com/?q=Canonical
+.. _Ubuntu: https://duckduckgo.com/?q=Ubuntu
+.. _Async: https://duckduckgo.com/?q=Async
+.. _Launchpad: https://duckduckgo.com/?q=Launchpad
+.. _OpenID: https://duckduckgo.com/?q=OpenID
+.. _Christian Reis: https://duckduckgo.com/?q=Christian+Reis
+.. _Postgresql: https://duckduckgo.com/?q=Postgresql
+.. _Zope 3: https://duckduckgo.com/?q=Zope+3
+.. _ZTK: https://duckduckgo.com/?q=ZTK
+.. _Storm: https://duckduckgo.com/?q=Storm
+.. _ORM: https://duckduckgo.com/?q=ORM
+.. _Guastavo Niemeier: https://duckduckgo.com/?q=Guastavo+Niemeier
+.. _Yui: https://duckduckgo.com/?q=Yui
+.. _Twisted: https://duckduckgo.com/?q=Twisted
+.. _Ubuntu Developer Summit: https://duckduckgo.com/?q=Ubuntu+Developer+Summit
+.. _Juju: https://duckduckgo.com/?q=Juju
+.. _Ensamble: https://duckduckgo.com/?q=Ensamble
+.. _apt-get: https://duckduckgo.com/?q=apt-get
+.. _Virtual Machine: https://duckduckgo.com/?q=Virtual+Machine
+.. _WordPress: https://duckduckgo.com/?q=WordPress
+.. _Amazon EC2: https://duckduckgo.com/?q=Amazon+EC2
+.. _Load Balancer: https://duckduckgo.com/?q=Load+Balancer
+.. _HP: https://duckduckgo.com/?q=HP
+.. _Fedora Linux: https://duckduckgo.com/?q=Fedora+Linux
+.. _OpenSuse Linux: https://duckduckgo.com/?q=OpenSuse+Linux
+.. _Mint Linux: https://duckduckgo.com/?q=Mint+Linux
+.. _Red Hat Linux: https://duckduckgo.com/?q=Red+Hat+Linux
+.. _Snowboard: https://duckduckgo.com/?q=Snowboard
+.. _Dell: https://duckduckgo.com/?q=Dell
+.. _Carl Seagan: https://duckduckgo.com/?q=Carl+Seagan
+.. _George Orwell: https://duckduckgo.com/?q=George+Orwell
+.. _Carlitos Tevez: https://duckduckgo.com/?q=Carlitos+Tevez

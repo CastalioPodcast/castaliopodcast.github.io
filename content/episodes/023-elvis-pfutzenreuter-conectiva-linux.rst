@@ -52,43 +52,96 @@ Resumo
 
 Top 5
 -----
--  **Música:** `Toccata und Fuge <http://www.last.fm/search?q=Toccata+und+Fuge>`__
--  **Música:** `Asia <http://www.last.fm/search?q=Asia>`__
--  **Música:** `Racionais Mc <http://www.last.fm/search?q=Racionais+Mc>`__
--  **Música:** `Facção Central <http://www.last.fm/search?q=Facção+Central>`__
--  **Música:** `Clara Nunes <http://www.last.fm/search?q=Clara+Nunes>`__
--  **Música:** `Jacob do Bandolim <http://www.last.fm/search?q=Jacob+do+Bandolim>`__
--  **Filmes:** `O Poderoso Chefão <http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão>`__
--  **Filmes:** `Runaway Train <http://www.imdb.com/find?s=all&q=Runaway+Train>`__
--  **Filmes:** `Emperor of the North <http://www.imdb.com/find?s=all&q=Emperor+of+the+Noth>`__
--  **Livros:** `UNIX Network Programming: The sockets networking API <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=UNIX+Network+Programming:+The+sockets+networking+API>`__
--  **Livros:** `Inverted World <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Inverted+World>`__
--  **Livros:** `The smartest guys in the room <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+smartest+guys+in+the+room>`__
--  **Livros:** `No One Would Listen: A True Financial Thriller <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=No+One+Would+Listen:+A+True+Financial+Thriller>`__
--  **Livros:** `A ditadura derrotada <http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+ditadura+derrotada>`__
+-  **Música:** `Toccata und Fuge`_
+-  **Música:** `Asia`_
+-  **Música:** `Racionais Mc`_
+-  **Música:** `Facção Central`_
+-  **Música:** `Clara Nunes`_
+-  **Música:** `Jacob do Bandolim`_
+-  **Filmes:** `O Poderoso Chefão`_
+-  **Filmes:** `Runaway Train`_
+-  **Filmes:** `Emperor of the North`_
+-  **Livros:** `UNIX Network Programming - The sockets networking API`_
+-  **Livros:** `Inverted World`_
+-  **Livros:** `The smartest guys in the room`_
+-  **Livros:** `No One Would Listen - A True Financial Thriller`_
+-  **Livros:** `A ditadura derrotada`_
 
 Links
 -----
--  `Conectiva Linux <https://duckduckgo.com/?q=Conectiva+Linux>`__
--  `Revista do Linux <https://duckduckgo.com/?q=Revista+do+Linux>`__
--  `Red Hat Linux <https://duckduckgo.com/?q=Red+Hat+Linux>`__
--  `ERP <https://duckduckgo.com/?q=ERP>`__
--  `Mandriva Linux <https://duckduckgo.com/?q=Mandriva+Linux>`__
--  `Mandrake Linux <https://duckduckgo.com/?q=Mandrake+Linux>`__
--  `Slackware Linux <https://duckduckgo.com/?q=Slackware+Linux>`__
--  `Debian Linux <https://duckduckgo.com/?q=Debian+Linux>`__
--  `Windows <https://duckduckgo.com/?q=Windows>`__
--  `Linux World Expo <https://duckduckgo.com/?q=Linux+World+Expo>`__
--  `Signove <http://www.signove.com/>`__
--  `Android <https://duckduckgo.com/?q=Android>`__
--  Aplicativo `1 <https://market.android.com/details?id=br.com.epx.andro12c&hl=pt_BR>`__, `2 <https://market.android.com/details?id=br.com.epx.andro12cd&hl=pt_BR>`__, `3 <https://market.android.com/details?id=br.com.epx.andro11c&hl=pt_BR>`__
--  `iOS <https://duckduckgo.com/?q=iOS>`__
--  Aplicativo `1 <http://itunes.apple.com/us/app/epx-12c/id463497845?mt=8>`__, `2 <http://itunes.apple.com/br/app/epx-11c/id463632731?mt=8>`__
--  `iPhone <https://duckduckgo.com/?q=iPhone>`__
--  `Biblioteca IEEE 11073 <http://oss.signove.com/index.php/Antidote:_IEEE_11073-20601_Library>`__
--  `Enron <https://duckduckgo.com/?q=Enron>`__
--  `Madoff <https://duckduckgo.com/?q=Madoff>`__
+-  `Conectiva Linux`_
+-  `Revista do Linux`_
+-  `Red Hat Linux`_
+-  `ERP`_
+-  `Mandriva Linux`_
+-  `Mandrake Linux`_
+-  `Slackware Linux`_
+-  `Debian Linux`_
+-  `Windows`_
+-  `Linux World Expo`_
+-  `Signove`_
+-  `Android`_
+    -  Aplicativo |android-app-1|, |android-app-2|, |android-app-3|
+
+-  `iOS`_
+    -  Aplicativo |ios-app-1|, |ios-app-2|
+
+-  `iPhone`_
+-  `Biblioteca IEEE 11073`_
+-  `Enron`_
+-  `Madoff`_
 
 .. class:: panel-body bg-info
 
-        **Música**: `Sunday Night Learning <http://soundcloud.com/clebertsuconic/sunday-night-lerning>`__ por `Clebert Suconic <http://soundcloud.com/clebertsuconic>`__.*
+        **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
+
+
+.. _Toccata und Fuge: http://www.last.fm/search?q=Toccata+und+Fuge
+.. _Asia: http://www.last.fm/search?q=Asia
+.. _Racionais Mc: http://www.last.fm/search?q=Racionais+Mc
+.. _Facção Central: http://www.last.fm/search?q=Facção+Central
+.. _Clara Nunes: http://www.last.fm/search?q=Clara+Nunes
+.. _Jacob do Bandolim: http://www.last.fm/search?q=Jacob+do+Bandolim
+.. _O Poderoso Chefão: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão
+.. _Runaway Train: http://www.imdb.com/find?s=all&q=Runaway+Train
+.. _Emperor of the North: http://www.imdb.com/find?s=all&q=Emperor+of+the+Noth
+.. _UNIX Network Programming - The sockets networking API: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=UNIX+Network+Programming:+The+sockets+networking+API
+.. _Inverted World: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Inverted+World
+.. _The smartest guys in the room: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+smartest+guys+in+the+room
+.. _No One Would Listen - A True Financial Thriller: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=No+One+Would+Listen:+A+True+Financial+Thriller
+.. _A ditadura derrotada: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+ditadura+derrotada
+.. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux
+.. _Revista do Linux: https://duckduckgo.com/?q=Revista+do+Linux
+.. _Red Hat Linux: https://duckduckgo.com/?q=Red+Hat+Linux
+.. _ERP: https://duckduckgo.com/?q=ERP
+.. _Mandriva Linux: https://duckduckgo.com/?q=Mandriva+Linux
+.. _Mandrake Linux: https://duckduckgo.com/?q=Mandrake+Linux
+.. _Slackware Linux: https://duckduckgo.com/?q=Slackware+Linux
+.. _Debian Linux: https://duckduckgo.com/?q=Debian+Linux
+.. _Windows: https://duckduckgo.com/?q=Windows
+.. _Linux World Expo: https://duckduckgo.com/?q=Linux+World+Expo
+.. _Signove: http://www.signove.com/
+.. _Android: https://duckduckgo.com/?q=Android
+.. _iOS: https://duckduckgo.com/?q=iOS
+.. _iPhone: https://duckduckgo.com/?q=iPhone
+.. _Biblioteca IEEE 11073: http://oss.signove.com/index.php/Antidote:_IEEE_11073-20601_Library
+.. _Enron: https://duckduckgo.com/?q=Enron
+.. _Madoff: https://duckduckgo.com/?q=Madoff
+.. _Sunday Night Learning: http://soundcloud.com/clebertsuconic/sunday-night-lerning
+.. _Clebert Suconic: http://soundcloud.com/clebertsuconic
+
+.. |android-app-1| replace:: 1
+.. |android-app-2| replace:: 2
+.. |android-app-3| replace:: 3
+
+.. |ios-app-1| replace:: 1
+.. |ios-app-2| replace:: 2
+
+.. _android-app-1: https://market.android.com/details?id=br.com.epx.andro12c&hl=pt_BR
+.. _android-app-2: https://market.android.com/details?id=br.com.epx.andro12cd&hl=pt_BR
+.. _android-app-3: https://market.android.com/details?id=br.com.epx.andro11c&hl=pt_BR
+
+.. _ios-app-1: http://itunes.apple.com/us/app/epx-12c/id463497845?mt=8
+.. _ios-app-2: http://itunes.apple.com/br/app/epx-11c/id463632731?mt=8
+
+
