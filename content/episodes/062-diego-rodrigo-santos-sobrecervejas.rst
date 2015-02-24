@@ -1,7 +1,7 @@
 Episódio 62: Diego Rodrigo Santos - SobreCervejas
 #################################################
 :date: 2015-02-01
-:author: Og Maciel e Elyézer Rezende
+:authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-62/castalio-podcast-62.mp3
 :tags: diego rodrigo santos, sobrecervejas, instagram, guinness, old

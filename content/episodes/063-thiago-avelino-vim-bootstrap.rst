@@ -1,7 +1,7 @@
 Episódio 63: Thiago Avelino - vim-bootstrap e BeerBlogging
 ##########################################################
 :date: 2015-02-15
-:author: Og Maciel e Elyézer Rezende
+:authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-63/castalio-podcast-63.mp3
 :tags: thiago avelino, vim-bootstrap, beerblogging
