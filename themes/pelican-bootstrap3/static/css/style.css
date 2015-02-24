@@ -313,3 +313,7 @@ img.align-center, .figure.align-center{
 .tagcloud{
 	padding-left: 20px;
 }
+
+.post-info > span {
+	padding-right: 15px;
+}

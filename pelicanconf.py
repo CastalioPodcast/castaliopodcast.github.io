@@ -109,3 +109,9 @@ PODCAST_FEED_CATEGORY = ['Technology', 'Podcasting']
 # Cleaner page links
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
+
+# Show author name
+SHOW_ARTICLE_AUTHOR = True
+
+# Show comments count
+DISQUS_DISPLAY_COUNTS = True
