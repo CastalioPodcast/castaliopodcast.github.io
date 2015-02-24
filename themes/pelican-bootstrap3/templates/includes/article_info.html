@@ -1,7 +1,6 @@
 <footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time>
+    <span class="published" title="Data e Hora de Publicação">
+        <i class="fa fa-calendar"></i><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date.title() }}</time>
     </span>
     {% if SHOW_DATE_MODIFIED %}
         {% if article.modified %}
@@ -12,10 +11,12 @@
         {% endif %}
     {% endif %}
     {% if SHOW_ARTICLE_AUTHOR %}
-        {% if article.author %}
-            <span class="label label-default">By</span>
-            <a href="{{ SITEURL }}/{{ article.author.url }}"><i class="fa fa-user"></i> {{ article.author }}</a>
-        {% endif %}
+        <span class="authors" title="Autores">
+            <i class="fa fa-user"></i>
+            {% for author in article.authors %}
+                <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>{% if not loop.last %}{{ ', ' }}{% endif %}
+            {% endfor %}
+        </span>
     {% endif %}
 
     {% if SHOW_ARTICLE_CATEGORY %}
@@ -29,7 +30,13 @@
         </span>
     {% endif %}
 
-    {% include 'includes/taglist.html' %}
+    {% if DISQUS_DISPLAY_COUNTS %}
+        <span class="comments-count" title="Número de Comentários">
+            <i class="fa fa-comment"></i>{% include 'includes/comment_count.html' %}
+        </span>
+    {% endif %}
+
+    {#% include 'includes/taglist.html' %#}
     {% import 'includes/translations.html' as translations with context %}
     {{ translations.translations_for(article) }}
 </footer><!-- /.post-info -->

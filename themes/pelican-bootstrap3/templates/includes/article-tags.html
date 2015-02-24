@@ -1,0 +1,17 @@
+{% if article.tags %}
+<div class="well article-tags">
+    <ul class="list-group list-inline">
+        <li class="list-group-item" title="Tags do artigo">
+            <i class="fa fa-tags"></i>
+        </li>
+        {% for tag in article.tags %}
+            <li class="list-group-item">
+                <span class="label label-default">
+                    <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+                </span>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
