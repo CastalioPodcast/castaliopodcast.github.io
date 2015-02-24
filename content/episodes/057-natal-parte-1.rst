@@ -1,7 +1,7 @@
 Episódio 57: Episódio de Natal - Parte 1
 ########################################
 :date: 2014-12-20
-:author: Og Maciel e Elyézer Rezende
+:authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-57/castalio-podcast-57.mp3
 :tags: grokpodcast, hack 'n' cast, natal, podcast

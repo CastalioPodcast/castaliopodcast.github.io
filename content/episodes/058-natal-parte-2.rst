@@ -1,7 +1,7 @@
 Episódio 58: Episódio de Natal - Parte 2
 ########################################
 :date: 2014-12-21
-:author: Og Maciel e Elyézer Rezende
+:authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-58/castalio-podcast-58.mp3
 :tags: grokpodcast, hack 'n' cast, natal, podcast, audacity

@@ -1,7 +1,7 @@
 Episódio 59: Episódio de Natal - Parte 3
 ########################################
 :date: 2014-12-22
-:author: Og Maciel e Elyézer Rezende
+:authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-59/castalio-podcast-59.mp3
 :tags: grokpodcast, hack 'n' cast, natal, podcast, jekyll, pelican,

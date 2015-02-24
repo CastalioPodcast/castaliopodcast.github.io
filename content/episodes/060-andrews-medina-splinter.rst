@@ -1,7 +1,7 @@
 Episódio 60: Andrews Medina - Splinter
 ######################################
 :date: 2015-01-04
-:author: Og Maciel e Elyézer Rezende
+:authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-60/castalio-podcast-60.mp3
 :tags: andrews medina, splinter, tsuru, travis, cobra team, spotify,

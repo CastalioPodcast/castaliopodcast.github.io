@@ -1,7 +1,7 @@
 Episódio 55: Editor Vim
 #######################
 :date: 2014-11-23 18:44
-:author: Og Maciel e Elyézer Rezende
+:authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3
 :tags: github, vim

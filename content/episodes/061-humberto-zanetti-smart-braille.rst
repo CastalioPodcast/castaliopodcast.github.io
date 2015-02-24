@@ -1,7 +1,7 @@
 Episódio 61: Humberto Augusto Piovesana Zanetti - Smart Braille
 ###############################################################
 :date: 2015-01-18
-:author: Og Maciel e Elyézer Rezende
+:authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-61/castalio-podcast-61.mp3
 :tags: humberto augusto piovesana zanetti, smart braille
