@@ -51,6 +51,7 @@ help:
 	@echo '   make cf_upload                   upload the web site via Cloud Files'
 	@echo '   make github                      upload the web site via gh-pages   '
 	@echo '   make travis                      upload the web site via travis   '
+	@echo '   make stats                       queries Archive.org an list download statistics'
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -112,4 +113,7 @@ travis: publish
 	ghp-import  -m "Updated podcast site." -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	@git push -fq https://${GH_TOKEN}@github.com/CastalioPodcast/CastalioPodcast.github.io.git master > /dev/null
 
-.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github travis
+stats:
+	./.scripts/stats.py content/episodes/*.rst
+
+.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github travis stats
