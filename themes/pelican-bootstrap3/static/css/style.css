@@ -317,3 +317,8 @@ img.align-center, .figure.align-center{
 .post-info > span {
 	padding-right: 15px;
 }
+
+.post-info > span > span.label {
+	vertical-align: middle;
+	padding-top: 3px;
+}
