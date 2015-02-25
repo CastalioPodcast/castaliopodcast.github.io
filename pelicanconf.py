@@ -115,3 +115,6 @@ SHOW_ARTICLE_AUTHOR = True
 
 # Show comments count
 DISQUS_DISPLAY_COUNTS = True
+
+# Show article info in the index
+DISPLAY_ARTICLE_INFO_ON_INDEX = True

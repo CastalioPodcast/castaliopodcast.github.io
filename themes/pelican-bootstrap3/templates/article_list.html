@@ -5,10 +5,11 @@
             <article>
                 <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
                 {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
-                    <div class="well well-sm">
+                    <div class="panel-body">
                         {% include "includes/article_info.html" %}
                     </div>
                 {% endif %}
+                <hr/>
                 <div class="summary">{{ article.summary }}
                     <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">more ...</a>
                 </div>
