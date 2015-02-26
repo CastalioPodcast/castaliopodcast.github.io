@@ -68,6 +68,7 @@
 {% endblock %}
 
 {% block content %}
+    {% set IS_ARTICLE = True %}
     <section id="content">
         <article>
             <header class="page-header">
@@ -93,4 +94,17 @@
         </article>
     </section>
 
+{% endblock %}
+
+{% block scripts %}
+    {% if article.podcast %}
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="{{ 'http://archive.org/details/{}&callback=set_download_count?output=json'.format(article.podcast.split('/')[-2]) }}"></script>
+    {% endif %}
 {% endblock %}
