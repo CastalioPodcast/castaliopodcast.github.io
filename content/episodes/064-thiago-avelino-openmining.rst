@@ -3,7 +3,7 @@ Episódio 64: Thiago Avelino - OpenMining e SambaPorno
 :date: 2015-03-01
 :authors: Og Maciel, Elyézer Rezende
 :category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-63/castalio-podcast-63.mp3
+:podcast: https://archive.org/download/castalio-podcast-64/castalio-podcast-64.mp3
 :tags: thiago avelino, openmining, sambaporno
 :description: Neste episódio concluímos nossa entrevista com o Thiago
               Avelino, desta vez conversando sobre seu projeto
