@@ -314,8 +314,12 @@ img.align-center, .figure.align-center{
 	padding-left: 20px;
 }
 
+.post-info {
+    line-height: 1.7;
+}
 .post-info > span {
 	padding-right: 15px;
+    white-space: nowrap;
 }
 
 .post-info > span > span.label {
