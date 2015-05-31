@@ -4,7 +4,7 @@ Episódio 66: Thiago Perrotta - Leitura e Tecnologia
 :authors: Og Maciel, Elyézer Rezende
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3
-:tags: thiago perrota, leitura, tecnologia, goodreads, thinking, fast and slow, ready player one, harry potter, o guia do mochileiro das galáxias, percy jackson, coldplay, maroon 5, foo fighters, linkin park, bullet for my valentine, eminem, taylor swift, harry potter, star wars, x-men,     lord of the rings, the inglorious bastards, fight club, a procura da felicidade, basement coders, everyday linux, hack'n'cast, castálio podcast, papo acessível, dan brown, the da vince code, emacs, haskel, jono bacon, kindle, ocamel, ogre 3d, openbsd, org mode, scala, the art of community, vim
+:tags: thiago perrotta, leitura, tecnologia, goodreads, thinking, fast and slow, ready player one, harry potter, o guia do mochileiro das galáxias, percy jackson, coldplay, maroon 5, foo fighters, linkin park, bullet for my valentine, eminem, taylor swift, harry potter, star wars, x-men, lord of the rings, the inglorious basterds, fight club, à procura da felicidade, basement coders, everyday linux, hack'n'cast, castálio podcast, papo acessível, dan brown, the da vince code, emacs, haskell, jono bacon, kindle, ocamel, ogre 3d, openbsd, org mode, scala, the art of community, vim
 :description: Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.
 
 .. figure:: {filename}/images/thiagoperrotta.png
@@ -56,13 +56,13 @@ Top 5
 * **Música**: `Bullet For My Valentine`_
 * **Música**: `Eminem`_
 * **Música**: `Taylor Swift`_
-* **Filme**: `Harry Potter`_
+* **Filme**: `Harry Potter (Filme)`_
 * **Filme**: `Star Wars`_
 * **Filme**: `X-Men`_
 * **Filme**: `Lord of the Rings`_
-* **Filme**: `The Inglorious Bastards`_
+* **Filme**: `The Inglorious Basterds`_
 * **Filme**: `Fight Club`_
-* **Filme**: `A Procura da Felicidade`_
+* **Filme**: `À Procura da Felicidade`_
 * **Podcast**: `Bad Voltage`_
 * **Podcast**: `Everyday Linux`_
 * **Podcast**: `Hack'n'Cast`_
@@ -76,7 +76,7 @@ Links
 * `Emacs`_
 * `GoodReads`_
 * `Harry Potter`_
-* `Haskel`_
+* `Haskell`_
 * `Jono Bacon`_
 * `Kindle`_
 * `OCaml`_
@@ -99,7 +99,7 @@ Links
 .. _The Da Vince Code: https://www.goodreads.com/book/show/968.The_Da_Vinci_Code
 .. _Emacs: https://www.gnu.org/software/emacs/
 .. _GoodReads: https://www.goodreads.com/
-.. _Haskel: https://www.haskell.org/
+.. _Haskell: https://www.haskell.org/
 .. _Jono Bacon: https://www.goodreads.com/author/show/22746.Jono_Bacon
 .. _Kindle: https://kindle.amazon.com/
 .. _OCaml: http://ocaml.org/
@@ -124,13 +124,13 @@ Links
 .. _Bullet for My Valentine: http://www.last.fm/music/Bullet+for+My+Valentine
 .. _Eminem: http://www.last.fm/music/Eminem
 .. _Taylor Swift: http://www.last.fm/music/Taylor+Swift
-.. _Harry Potter Filme: http://www.imdb.com/title/tt0241527/
+.. _Harry Potter (Filme): http://www.imdb.com/title/tt0241527/
 .. _Star Wars: http://www.imdb.com/title/tt0076759/
 .. _X-Men: http://www.imdb.com/title/tt0120903/
 .. _Lord of the Rings: http://www.imdb.com/title/tt0120737/
-.. _The Inglorious Bastards: http://www.imdb.com/title/tt0076584/
+.. _The Inglorious Basterds: http://www.imdb.com/title/tt0361748
 .. _Fight Club: http://www.imdb.com/title/tt0137523/
-.. _A Procura da Felicidade: http://www.imdb.com/title/tt0120689/
+.. _À Procura da Felicidade: http://www.imdb.com/title/tt0454921/
 .. _Bad Voltage: http://www.badvoltage.org/
 .. _Everyday Linux: http://elementopie.com/everyday-linux-episodes
 .. _Hack'n'Cast: http://hackncast.org/
