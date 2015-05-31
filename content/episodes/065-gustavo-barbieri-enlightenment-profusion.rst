@@ -26,6 +26,8 @@ Ele nos contou como a ProFUSION foi criada e como ele conseguiu trabalhar em pro
 
 Conversamos também sobre o início da TV Digital no Brasil e porque ele optou por utilizar o Enlightenment em um projeto de interface gráfica para um `Set-top box`_. Além disso ele esclarece as diferenças entre as tecnologias utilizadas em um projeto deste tipo de aparelho.
 
+.. more
+
 Hoje o Gustavo trabalha na Intel e aproveitamos este assunto para falar sobre como foi sair da ProFUSION e começar a trabalhar na empresa atual, quais foram as dificuldades e a vantagens de uma mudança como esta. Durante o assunto, foi falado sobre `IoT`_ (Internet of Things) e sistemas embarcados e, mais uma vez, algumas dicas sobre ter sucesso foram citadas.
 
 Finalizamos conversando sobre a filha do Gustavo que tem um gosto bastante eclético para música e gosta muito de dançar, inclusive heavy metal. Em seguida partimos para o Top 5.

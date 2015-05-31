@@ -26,6 +26,8 @@ Também falamos sobre sua experiência vendendo uma "startup" em **New Jersey**,
 
 Como sempre, agradecemos todos os comentários que recebemos pois sua participação é muito importante para o crescimento do podcast, e não esqueça de deixar seu comentário pelo `iTunes`_ para nos ajudar a destacar o podcast.
 
+.. more
+
 Contato
 -------
 * **Twitter**: https://twitter.com/avelino0
