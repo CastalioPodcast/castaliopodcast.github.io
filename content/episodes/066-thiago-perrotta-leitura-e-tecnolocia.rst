@@ -63,7 +63,7 @@ Top 5
 * **Filme**: `The Inglorious Bastards`_
 * **Filme**: `Fight Club`_
 * **Filme**: `A Procura da Felicidade`_
-* **Podcast**: `Basement Coders`_
+* **Podcast**: `Bad Voltage`_
 * **Podcast**: `Everyday Linux`_
 * **Podcast**: `Hack'n'Cast`_
 * **Podcast**: `Castálio Podcast`_
@@ -131,7 +131,7 @@ Links
 .. _The Inglorious Bastards: http://www.imdb.com/title/tt0076584/
 .. _Fight Club: http://www.imdb.com/title/tt0137523/
 .. _A Procura da Felicidade: http://www.imdb.com/title/tt0120689/
-.. _Basement Coders: http://basementcoders.com/
+.. _Bad Voltage: http://www.badvoltage.org/
 .. _Everyday Linux: http://elementopie.com/everyday-linux-episodes
 .. _Hack'n'Cast: http://hackncast.org/
 .. _Castálio Podcast: http://castalio.info/
