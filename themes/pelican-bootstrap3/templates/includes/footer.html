@@ -1,7 +1,45 @@
-<footer>
+<footer id="footer">
    <div class="container">
-      <hr>
-      <div class="row">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="OpenCast" href="http://tecnologiaaberta.com.br/category/opencast/">OpenCast</a></li>
+                   <li><a title="Grok Podcast" href="http://grokpodcast.com/">Grok Podcast</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
          {% if articles %}
             {% set copy_date_end = articles[0].date.strftime('%Y') %}
             {% set copy_date_start = articles[-1].date.strftime('%Y') %}
@@ -9,16 +47,18 @@
             {% set copy_date_start = '' %}
             {% set copy_date_end = '' %}
          {% endif %}
-         <div class="col-xs-10">&copy; {{ copy_date_start }} - {{ copy_date_end }} {{ AUTHOR }}
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+         <div class="col-xs-12">
+             <p>
+                &copy; {{ copy_date_start }} - {{ copy_date_end }} {{ AUTHOR }}
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>
             {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
               {% from 'includes/cc-license.html' import cc_license_mark %}
               <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL}) }}</small></p>
             {% endif %}
          </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
    </div>
 </footer>
