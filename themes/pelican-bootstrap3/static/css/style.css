@@ -326,3 +326,38 @@ img.align-center, .figure.align-center{
 	vertical-align: middle;
 	padding-top: 3px;
 }
+
+/* Footer customizations */
+#footer {
+    background-color: #222;
+    border-color: #080808;
+    border-width: 0 0 1px;
+}
+
+#footer .row {
+    padding-top: 35px;
+}
+
+#footer a, #footer p {
+    color: #777;
+}
+
+#footer a.btn {
+    color: #fff !important;
+}
+
+#footer h4 {
+    color: #fff;
+}
+
+#footer a:hover {
+    color: #fff;
+}
+
+.footer-las-row {
+    text-align: center;
+}
+
+#footer-social > li {
+    padding-top: 5px;
+}
