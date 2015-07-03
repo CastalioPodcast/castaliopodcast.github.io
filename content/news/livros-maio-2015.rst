@@ -3,7 +3,7 @@ Livros - Maio de 2015
 :date: 2015-06-01
 :authors: Og Maciel
 :category: Notícia
-:tags: Arthur Conan Doyle, Bill Green, Dave Hoover, Gabriel Garcia Márquez, John Updike, Junot Díaz, Luciano Ramalho, Mikhail Bulgakov, Neal Stephenson, Pamela Paul:
+:tags: Arthur Conan Doyle, Bill Green, Dave Hoover, Gabriel Garcia Márquez, John Updike, Junot Díaz, Luciano Ramalho, Mikhail Bulgakov, Neal Stephenson, Pamela Paul
 :description: Mais um post sobre os livros que ando lendo.
 
 .. figure:: {filename}/images/livros.jpg
