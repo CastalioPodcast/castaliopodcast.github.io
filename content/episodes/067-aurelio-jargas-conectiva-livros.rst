@@ -11,7 +11,7 @@ Episódio 67: Aurelio Jargas - Conectiva e Livros
               carreira como escritor. Foi uma conversa muito interessante e
               divertida.
 
-.. figure:: {filename}/images/aureliojargas.png
+.. figure:: {filename}/images/aureliojargas.jpg
    :alt: Aurelio Jargas - Conectiva e Livros
    :align: left
    :figwidth: 40 %
