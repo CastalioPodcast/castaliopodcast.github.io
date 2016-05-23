@@ -1,5 +1,6 @@
 *.pyc
-output/
-cache/
+/*.pid
 /.DS_Store
 /content/.DS_Store
+cache/
+output/
