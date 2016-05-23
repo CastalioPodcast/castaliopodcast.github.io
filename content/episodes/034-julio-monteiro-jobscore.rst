@@ -8,6 +8,7 @@ Júlio Monteiro: JobScore
 
 .. figure:: {filename}/images/juliomonteiro.png
    :alt: Júlio Monteiro: JobScore
+   :figclass: pull-left clear article-figure
 
    Júlio Monteiro: JobScore
 

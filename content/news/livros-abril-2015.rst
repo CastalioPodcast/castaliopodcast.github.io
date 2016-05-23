@@ -8,8 +8,7 @@ Livros - Abril de 2015
 
 .. figure:: {filename}/images/livros.jpg
    :alt: Livros - Março de 2015
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Mais um mês passou e muitos foram os livros que passaram pelas minha mãos. Desta vez, a "culpa" foi uma feira de livros usados feito pela biblioteca pública da minha cidade, e eu acabei voltando para casa com uma caixa enorme de livros! Alguns dos livros eu comprei por serem "hard cover" e melhores do que a cópia que eu já tinha... outros foram para experimentar um novo escritor mesmo.
 

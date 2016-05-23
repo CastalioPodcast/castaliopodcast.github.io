@@ -8,8 +8,7 @@ Livros - Maio de 2015
 
 .. figure:: {filename}/images/livros.jpg
    :alt: Livros - Maio de 2015
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 O mês de maio foi com certeza um doa meses mais 'curtos' deste ano para mim... Talvez foi a minha viagem a Israel a` trabalho, o que me deixou bem desnorteado devido ao fuso horário e o tempo que passei entre vôos e aeroportos. De qualquer modo, continuei com a minha rotina de dedicar pelo menos 1 hora à leitura. Desta vez minha lista de livros lidos inclui o que pode ser considerado um livro técnico (`Apprenticeship Patterns\: Guidance for the Aspiring Software Craftsman`_), o que não deixa de ser um pouco atípico comparado com os meses anteriores. Eu também me controlei mais e comprei somente 3 livros usados. Mas no mês de junho vou aproveitar que vai ser meu aniversário (dia 8 de junho) e pedir livros do meu `Wish List`_ no **Amazon** :)
 

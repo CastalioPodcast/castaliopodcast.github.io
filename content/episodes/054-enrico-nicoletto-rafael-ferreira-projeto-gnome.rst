@@ -8,7 +8,7 @@ Enrico Nicoletto e Rafael Ferreira: Projeto GNOME
 
 .. figure:: {filename}/images/gnome.png
    :alt: Projeto GNOME
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Projeto GNOME
 

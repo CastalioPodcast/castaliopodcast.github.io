@@ -8,6 +8,7 @@ Rudá Moura: Conectiva Linux
 
 .. figure:: {filename}/images/rudamoura.png
    :alt: Rudá Moura: Conectiva Linux
+   :figclass: pull-left clear article-figure
 
    Rudá Moura: Conectiva Linux
 

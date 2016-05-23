@@ -8,6 +8,7 @@ Hugo Dória - Arch Linux
 
 .. figure:: {filename}/images/hugodoria.png
    :alt: Hugo Dória - Arch Linux
+   :figclass: pull-left clear article-figure
 
    Hugo Dória - Arch Linux
 

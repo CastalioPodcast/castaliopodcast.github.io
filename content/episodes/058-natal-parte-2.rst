@@ -8,7 +8,7 @@ Episódio 58: Episódio de Natal - Parte 2
 
 .. figure:: {filename}/images/audacity.png
    :alt: Episódio de Natal - Parte 2
-   :align: left
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

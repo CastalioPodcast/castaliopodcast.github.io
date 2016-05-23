@@ -8,6 +8,7 @@ Felipe Borges: Google Summer of Code
 
 .. figure:: {filename}/images/felipeborges.jpeg
    :alt: Felipe Borges
+   :figclass: pull-left clear article-figure
 
    Felipe Borges
 

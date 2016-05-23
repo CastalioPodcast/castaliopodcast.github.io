@@ -8,6 +8,7 @@ Ana Cristina Fricke Matte: Texto Livre
 
 .. figure:: {filename}/images/anamatte.jpg
    :alt: Ana Cristina Fricke Matte
+   :figclass: pull-left clear article-figure
 
    Ana Cristina Fricke Matte
 

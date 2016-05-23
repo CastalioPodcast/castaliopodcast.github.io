@@ -9,8 +9,7 @@ Episódio 66: Thiago Perrotta - Leitura e Tecnologia
 
 .. figure:: {filename}/images/thiagoperrotta.png
    :alt: Thiago Perrotta - Leitura e Tecnologia
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

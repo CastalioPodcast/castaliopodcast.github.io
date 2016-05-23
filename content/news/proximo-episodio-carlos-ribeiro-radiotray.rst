@@ -7,6 +7,7 @@ Próximo Episódio: Carlos Ribeiro - RadioTray
 
 .. figure:: {filename}/images/radiotray.png
    :alt: RadioTray
+   :figclass: pull-left clear article-figure
 
    RadioTray
 

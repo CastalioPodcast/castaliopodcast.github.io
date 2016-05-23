@@ -8,8 +8,7 @@ Livros - Junho de 2015
 
 .. figure:: {filename}/images/livros.jpg
    :alt: Livros - Junho de 2015
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Como eu tinha mencionado no `artigo`_ do mês passado, no mês de junho o número de livros comprados e que ganhei devido ao meu aniversário foi bem alto! Infelizmente nem todos vieram do meu `Wish List`_ no **Amazon**, mas quem ainda me quizer fazer feliz, fica a dica bem descarada aqui :)
 

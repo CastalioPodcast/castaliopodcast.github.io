@@ -8,6 +8,7 @@ Evandro Pastor: Quarto Estudio
 
 .. figure:: {filename}/images/evandropastor.png
    :alt: Evandro Pastor
+   :figclass: pull-left clear article-figure
 
    Evandro Pastor
 

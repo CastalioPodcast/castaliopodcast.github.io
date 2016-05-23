@@ -12,8 +12,7 @@ Episódio 68: Aurelio Jargas - Projetos
 
 .. figure:: {filename}/images/aureliojargas.jpg
    :alt: Aurelio Jargas - Conectiva e Livros
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

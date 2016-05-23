@@ -8,6 +8,7 @@ Episódio 55: Editor Vim
 
 .. figure:: {filename}/images/episodio-55-vim.png
    :alt: Editor Vim
+   :figclass: pull-left clear article-figure
 
    Editor Vim
 

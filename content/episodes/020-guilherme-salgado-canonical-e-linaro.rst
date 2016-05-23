@@ -8,6 +8,7 @@ Guilherme Salgado: Canonical e Linaro
 
 .. figure:: {filename}/images/guilhermesalgado.jpg
    :alt: Guilherme Salgado: Canonical e Linaro
+   :figclass: pull-left clear article-figure
 
    Guilherme Salgado: Canonical e Linaro
 

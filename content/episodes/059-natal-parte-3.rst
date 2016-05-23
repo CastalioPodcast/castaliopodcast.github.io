@@ -9,7 +9,7 @@ Episódio 59: Episódio de Natal - Parte 3
 
 .. figure:: {filename}/images/cheers.png
    :alt: Episódio de Natal - Parte 3
-   :align: left
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

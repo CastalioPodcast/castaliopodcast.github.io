@@ -6,6 +6,7 @@ Aviso aos Navegantes
 
 .. figure:: http://farm4.staticflickr.com/3240/2772577023_4a3172abb6.jpg
    :alt: A New Day
+   :figclass: pull-left clear article-figure
 
    A New Day
 

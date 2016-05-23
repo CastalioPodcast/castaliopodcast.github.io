@@ -6,6 +6,7 @@ Prêmio FRIDA/IGF 2011
 
 .. figure:: {filename}/images/premiofrida.png
    :alt: Prêmio Frida
+   :figclass: pull-left clear article-figure
 
    Prêmio Frida
 

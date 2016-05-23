@@ -7,6 +7,7 @@ Lucas Rocha - The Board (Parte 1)
 
 .. figure:: {filename}/images/lucasrocha.jpg
    :alt: Lucas Rocha - The Board
+   :figclass: pull-left clear article-figure
 
    Lucas Rocha - The Board
 

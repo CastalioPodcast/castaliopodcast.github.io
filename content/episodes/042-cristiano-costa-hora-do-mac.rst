@@ -8,6 +8,7 @@ Cristiano Costa: Hora do Mac
 
 .. figure:: {filename}/images/cristianocosta.jpg
    :alt: Cristiano Costa: Hora do Mac
+   :figclass: pull-left clear article-figure
 
    Cristiano Costa: Hora do Mac
 

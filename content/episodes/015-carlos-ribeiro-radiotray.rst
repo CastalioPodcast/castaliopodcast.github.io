@@ -8,6 +8,7 @@ Carlos Ribeiro - RadioTray
 
 .. figure:: {filename}/images/carlosribeiro.jpg
    :alt: Carlos Ribeiro - RadioTray
+   :figclass: pull-left clear article-figure
 
    Carlos Ribeiro - RadioTray
 

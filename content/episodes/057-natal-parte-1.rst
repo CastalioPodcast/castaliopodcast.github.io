@@ -8,7 +8,7 @@ Episódio 57: Episódio de Natal - Parte 1
 
 .. figure:: {filename}/images/natal.jpg
    :alt: Episódio de Natal - Parte 1
-   :align: left
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

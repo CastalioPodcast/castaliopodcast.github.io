@@ -8,6 +8,7 @@ Felipe Ribeiro: Spotify
 
 .. figure:: {filename}/images/feliperibeiro.jpg
    :alt: Felipe Ribeiro: Spotify
+   :figclass: pull-left clear article-figure
 
    Felipe Ribeiro: Spotify
 

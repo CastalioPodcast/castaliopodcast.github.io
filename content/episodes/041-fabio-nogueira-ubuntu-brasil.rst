@@ -8,6 +8,7 @@ Fábio Nogueira: Ubuntu Brasil
 
 .. figure:: {filename}/images/fabionogueira.jpg
    :alt: Fábio Nogueira: Ubuntu Brasil
+   :figclass: pull-left clear article-figure
 
    Fábio Nogueira: Ubuntu Brasil
 

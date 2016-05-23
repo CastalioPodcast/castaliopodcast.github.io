@@ -8,6 +8,7 @@ Marcelo Hashimoto: Polly Twitter Client
 
 .. figure:: {filename}/images/marcelohashimoto.jpg
    :alt: Marcelo Hashimoto
+   :figclass: pull-left clear article-figure
 
    Marcelo Hashimoto
 

@@ -8,7 +8,7 @@ Licio Fonseca: Google
 
 .. figure:: {filename}/images/liciofonseca.jpg
    :alt: Licio Fonseca: Google
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Licio Fonseca: Google
 

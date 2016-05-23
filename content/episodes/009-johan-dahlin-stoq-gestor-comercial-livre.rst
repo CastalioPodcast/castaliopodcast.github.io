@@ -8,6 +8,7 @@ Johan Dahlin - Stoq: Gestor Comercial Livre
 
 .. figure:: {filename}/images/johandahlin.jpg
    :alt: Johan Dahlin - Stoq: Gestor Comercial Livre
+   :figclass: pull-left clear article-figure
 
    Johan Dahlin - Stoq: Gestor Comercial Livre
 

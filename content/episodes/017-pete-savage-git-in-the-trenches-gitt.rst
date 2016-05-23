@@ -8,6 +8,7 @@ Pete Savage: Git In The Trenches (GITT)
 
 .. figure:: {filename}/images/petesavage.png
    :alt: Pete Savage: Git In The Trenches
+   :figclass: pull-left clear article-figure
 
    Pete Savage: Git In The Trenches
 

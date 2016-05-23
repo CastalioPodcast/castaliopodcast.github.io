@@ -8,6 +8,7 @@ Murilo Queiroz - Em Busca dos Tesouros
 
 .. figure:: {filename}/images/muriloqueiroz.png
    :alt: Em Busca dos Tesouros
+   :figclass: pull-left clear article-figure
 
    Em Busca dos Tesouros
 

@@ -8,6 +8,7 @@ Igor Pires Soares - Projeto Fedora
 
 .. figure:: {filename}/images/igorsoares.png
    :alt: Igor Soares - Projeto Fedora
+   :figclass: pull-left clear article-figure
 
    Igor Soares - Projeto Fedora
 

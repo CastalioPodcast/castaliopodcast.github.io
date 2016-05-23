@@ -8,6 +8,7 @@ Não perca a primeira entrevista em inglês no dia 19 de sembro!
 
 .. figure:: {filename}/images/qrcode.png
    :alt: qrcode
+   :figclass: pull-left clear article-figure
 
    qrcode
 

@@ -8,7 +8,7 @@ Luciano Ramalho: Oficinas Turing
 
 .. figure:: {filename}/images/lucianoramalho.jpg
    :alt: Luciano Ramalho: Oficinas Turing
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Luciano Ramalho: Oficinas Turing
 

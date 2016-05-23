@@ -8,7 +8,7 @@ Caike Souza: Envy Labs
 
 .. figure:: {filename}/images/caikesouza.jpg
    :alt: Caike Souza: Envy Labs
-   :figwidth: 50%
+   :figclass: pull-left clear article-figure
 
    Caike Souza: Envy Labs
 

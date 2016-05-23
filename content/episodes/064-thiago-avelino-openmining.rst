@@ -13,8 +13,7 @@ Episódio 64: Thiago Avelino - OpenMining e SambaPorno
 
 .. figure:: {filename}/images/thiagoavelino.png
    :alt: Thiago Avelino - vim-bootstrap
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

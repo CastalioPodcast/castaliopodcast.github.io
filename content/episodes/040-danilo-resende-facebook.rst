@@ -8,6 +8,7 @@ Danilo Resende: Facebook
 
 .. figure:: {filename}/images/daniloresende.png
    :alt: Danilo Resende: Facebook
+   :figclass: pull-left clear article-figure
 
    Danilo Resende: Facebook
 

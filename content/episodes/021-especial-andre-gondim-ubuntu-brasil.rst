@@ -8,6 +8,7 @@ Episódio Especial: André Gondim - Ubuntu Brasil
 
 .. figure:: {filename}/images/andregondim.png
    :alt: André Gondim - Ubuntu Brasil
+   :figclass: pull-left clear article-figure
 
    André Gondim - Ubuntu Brasil
 

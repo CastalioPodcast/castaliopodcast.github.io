@@ -7,6 +7,7 @@ Diego Búrigo Zacarão - Projeto Transifex
 
 .. figure:: {filename}/images/transifex.png
    :alt: Transifex
+   :figclass: pull-left clear article-figure
 
    Transifex
 

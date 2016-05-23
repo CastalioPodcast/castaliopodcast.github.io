@@ -8,6 +8,7 @@ Gabriel Falcão: Yipit
 
 .. figure:: {filename}/images/gabrielfalcao.jpg
    :alt: Gabriel Falcão: YipIt
+   :figclass: pull-left clear article-figure
 
    Gabriel Falcão: YipIt
 

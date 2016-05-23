@@ -7,6 +7,7 @@ Frederico Gonçalves Guimaraes - Software Livre Educacional
 
 .. figure:: {filename}/images/fredericoguimaraes.jpg
    :alt: Frederico Gonçalves Guimaraes
+   :figclass: pull-left clear article-figure
 
    Frederico Gonçalves Guimaraes
 

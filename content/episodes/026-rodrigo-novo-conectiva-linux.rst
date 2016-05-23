@@ -8,6 +8,7 @@ Rodrigo Novo: Conectiva Linux
 
 .. figure:: {filename}/images/rodrigonovo.png
    :alt: Rodrigo Novo
+   :figclass: pull-left clear article-figure
 
    Rodrigo Novo
 

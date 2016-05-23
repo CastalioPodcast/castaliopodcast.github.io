@@ -8,6 +8,7 @@ Flávio Ribeiro: Globo.com
 
 .. figure:: {filename}/images/flavioribeiro.png
    :alt: Flávio Ribeiro: Globo.com
+   :figclass: pull-left clear article-figure
 
    Flávio Ribeiro: Globo.com
 

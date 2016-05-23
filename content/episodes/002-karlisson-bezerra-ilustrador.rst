@@ -11,6 +11,7 @@ desenvolvedor web e ilustrador do famoso `Nerdson não vai à Escola`_.
 
 .. figure:: {filename}/images/karlissonbezerra.jpg
    :alt: Sr. Tartaruga
+   :figclass: pull-left clear article-figure
 
    Sr. Tartaruga
 

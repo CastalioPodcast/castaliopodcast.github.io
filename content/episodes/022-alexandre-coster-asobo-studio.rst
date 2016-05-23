@@ -7,6 +7,7 @@ Alexandre Coster: Asobo Studio
 
 .. figure:: {filename}/images/alexandrecoster.jpg
    :alt: Alexandre Coster - Asobo Studio
+   :figclass: pull-left clear article-figure
 
    Alexandre Coster - Asobo Studio
 

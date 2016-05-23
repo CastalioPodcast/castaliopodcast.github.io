@@ -60,6 +60,7 @@ pagina que foi aberta no navegador e salva no arquivo de sistemas:
 
 .. figure:: {filename}/images/castalio5FkGWm.png
    :alt: Editor Vim
+   :figclass: pull-left clear article-figure
 
    Editor Vim
 

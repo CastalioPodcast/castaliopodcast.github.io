@@ -7,6 +7,7 @@ Luciana Fujii Pontelo - GNOME Women Outreach Program
 
 .. figure:: {filename}/images/lucianapontelo.png
    :alt: GNOME Women Outreach Program
+   :figclass: pull-left clear article-figure
 
    GNOME Women Outreach Program
 

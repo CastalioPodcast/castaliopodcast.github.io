@@ -8,8 +8,7 @@ Bruno Gonçalves: BigLinux
 
 .. figure:: {filename}/images/brunogoncalves.jpg
    :alt: Bruno Gonçalves: BigLinux
-   :align: left
-   :figwidth: 50 %
+   :figclass: pull-left clear article-figure
 
    Bruno Gonçalves: BigLinux
 

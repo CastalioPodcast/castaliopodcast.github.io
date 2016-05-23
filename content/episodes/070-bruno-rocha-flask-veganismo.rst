@@ -11,8 +11,7 @@ Episódio 70: Bruno Rocha - Flask e Veganismo
 
 .. figure:: {filename}/images/brunorocha.jpg
    :alt: Bruno Rocha - Flask e Veganismo
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

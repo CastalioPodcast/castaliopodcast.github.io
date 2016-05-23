@@ -8,6 +8,7 @@ Henrique Bastos: Welcome to the Django
 
 .. figure:: {filename}/images/henriquebastos.png
    :alt: Henrique Bastos: Welcome to the Django
+   :figclass: pull-left clear article-figure
 
    Henrique Bastos: Welcome to the Django
 

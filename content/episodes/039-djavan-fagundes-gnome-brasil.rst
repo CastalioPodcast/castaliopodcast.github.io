@@ -8,6 +8,7 @@ Djavan Fagundes: GNOME Brasil
 
 .. figure:: {filename}/images/djavanfagundes.png
    :alt: Djavan Fagundes: GNOME Brasil
+   :figclass: pull-left clear article-figure
 
    Djavan Fagundes: GNOME Brasil
 

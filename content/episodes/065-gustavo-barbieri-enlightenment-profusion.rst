@@ -13,8 +13,7 @@ Episódio 65: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment
 
 .. figure:: {filename}/images/gustavobarbieri.jpg
    :alt: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

@@ -8,6 +8,7 @@ João Fernando Costa Júnior: Revista Espírito Livre
 
 .. figure:: {filename}/images/joaojunior.jpg
    :alt: João Fernando Costa Junior
+   :figclass: pull-left clear article-figure
 
    João Fernando Costa Junior
 

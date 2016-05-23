@@ -8,6 +8,7 @@
 
 .. figure:: {filename}/images/alvarojusten.png
    :alt: Álvaro "Turicas" Justen - Arduino
+   :figclass: pull-left clear article-figure
 
    Álvaro "Turicas" Justen - Arduino
 

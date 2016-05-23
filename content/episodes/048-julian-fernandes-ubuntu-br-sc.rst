@@ -8,7 +8,7 @@ Julian Fernandes: Ubuntu BR SC
 
 .. figure:: {filename}/images/julianfernandes.png
    :alt: Julian Fernandes: Ubuntu BR SC
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Julian Fernandes: Ubuntu BR SC
 

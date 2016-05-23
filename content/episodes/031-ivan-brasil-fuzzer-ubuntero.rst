@@ -8,6 +8,7 @@ Ivan Brasil Fuzzer: Ubuntero
 
 .. figure:: {filename}/images/ivanfuzzer.jpg
    :alt: Ivan Brasil Fuzzer: Ubuntero
+   :figclass: pull-left clear article-figure
 
    Ivan Brasil Fuzzer: Ubuntero
 

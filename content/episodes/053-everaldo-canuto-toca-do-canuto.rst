@@ -8,7 +8,7 @@ Everaldo Canuto: Toca do Canuto
 
 .. figure:: {filename}/images/everaldocanuto.png
    :alt: Everaldo Canuto: Toca do Canuto
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Everaldo Canuto: Toca do Canuto
 

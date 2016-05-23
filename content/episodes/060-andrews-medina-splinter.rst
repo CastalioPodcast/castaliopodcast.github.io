@@ -10,8 +10,7 @@ Episódio 60: Andrews Medina - Splinter
 
 .. figure:: {filename}/images/andrewsmedina.jpeg
    :alt: Andrews Medina - Splinter
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**, o primeiro de 2015!!!
 

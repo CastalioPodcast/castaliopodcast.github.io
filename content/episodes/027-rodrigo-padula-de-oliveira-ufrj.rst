@@ -8,6 +8,7 @@ Rodrigo Padula de Oliveira: UFRJ
 
 .. figure:: {filename}/images/rodrigopadula.png
    :alt: Rodrigo Padula
+   :figclass: pull-left clear article-figure
 
    Rodrigo Padula
 

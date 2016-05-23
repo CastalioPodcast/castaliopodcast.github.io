@@ -8,6 +8,7 @@ Fábio Kung e Pedro Belo: Heroku
 
 .. figure:: {filename}/images/heroku.png
    :alt: Fábio Kung e Pedro Belo: Heroku
+   :figclass: pull-left clear article-figure
 
    Fábio Kung e Pedro Belo: Heroku
 

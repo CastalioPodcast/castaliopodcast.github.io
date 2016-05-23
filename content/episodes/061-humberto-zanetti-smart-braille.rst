@@ -8,8 +8,7 @@ Episódio 61: Humberto Augusto Piovesana Zanetti - Smart Braille
 
 .. figure:: {filename}/images/humbertozanetti.jpg
    :alt: Humberto Zanetti - Smart Braille
-   :align: left
-   :figwidth: 40 %
+   :figclass: pull-left clear article-figure
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

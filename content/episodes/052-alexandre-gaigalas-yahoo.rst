@@ -8,7 +8,7 @@ Alexandre Gaigalas: Yahoo
 
 .. figure:: {filename}/images/alexandregaigalas.jpg
    :alt: Alexandre Gaigalas: Yahoo
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Alexandre Gaigalas: Yahoo
 

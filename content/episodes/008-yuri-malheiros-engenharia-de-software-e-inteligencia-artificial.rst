@@ -7,6 +7,7 @@ Yuri Malheiros - Engenharia de Software e Inteligência Artificial
 
 .. figure:: {filename}/images/yurimalheiros.jpg
    :alt: Yuri Malheiros - Engenharia de Software e Inteligência
+   :figclass: pull-left clear article-figure
 
    Artificial
 

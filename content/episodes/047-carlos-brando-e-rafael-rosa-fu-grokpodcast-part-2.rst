@@ -8,7 +8,7 @@ Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 2
 
 .. figure:: {filename}/images/grokpodcast.png
    :alt: Carlos Brando e Rafael Rosa Fu: GrokPodcast
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Carlos Brando e Rafael Rosa Fu: GrokPodcast
 

@@ -8,6 +8,7 @@ Episódio Zero: Og Maciel
 
 .. figure:: {filename}/images/episodiozero.jpg
    :alt: Episódio Zero
+   :figclass: pull-left clear article-figure
 
    Episódio Zero
 

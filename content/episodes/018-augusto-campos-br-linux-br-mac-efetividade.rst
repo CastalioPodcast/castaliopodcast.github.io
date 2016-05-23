@@ -8,13 +8,14 @@ Augusto Campos: BR-Linux, BR-Mac, Efetividade
 
 .. figure:: {filename}/images/augustocampos.jpg
    :alt: Augusto Campos: BR-Linux, BR-Mac, Efetividades
+   :figclass: pull-left clear article-figure
 
    Augusto Campos: BR-Linux, BR-Mac, Efetividades
 
 Em um dia de muita chuva em Florianópolis, SC finalmente consegui bater um bom
 papo com o **Augusto Campos**, fundador dos super populares sites **BR-Linux**,
 **BR-Mac** e **Efetividade**! Devido à conexão que estava sofrendo muita perda
-de pacotes (**para cada 7 minutos de áudio, passei 60 minutos editando**), 
+de pacotes (**para cada 7 minutos de áudio, passei 60 minutos editando**),
 mantivemos nossa entrevista por apenas 34 minutos, mas mesmo assim deu tempo
 para discutirmos sobre a criação dos web sites, as mudanças que aconteceram
 durante os anos, sobre a entrevista com `GTalk Show`_ do **Karlisson**,

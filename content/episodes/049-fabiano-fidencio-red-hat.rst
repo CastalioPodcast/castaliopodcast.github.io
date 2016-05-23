@@ -8,7 +8,7 @@ Fabiano Fidêncio: Red Hat
 
 .. figure:: {filename}/images/fabianofidencio.jpg
    :alt: Fabiano Fidêncio: Red Hat
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Fabiano Fidêncio: Red Hat
 

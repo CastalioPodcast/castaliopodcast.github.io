@@ -8,7 +8,7 @@ Edição de 2 Anos - Og Maciel: Red Hat
 
 .. figure:: {filename}/images/ogmaciel.jpg
    :alt: Og Maciel: Red Hat
-   :align: left
+   :figclass: pull-left clear article-figure
 
    Og Maciel: Red Hat
 

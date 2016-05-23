@@ -7,6 +7,7 @@ Episódio 2: KurtKraut
 
 .. figure:: {filename}/images/kurtkraut.png
    :alt: KurtKraut
+   :figclass: pull-left clear article-figure
 
    KurtKraut
 

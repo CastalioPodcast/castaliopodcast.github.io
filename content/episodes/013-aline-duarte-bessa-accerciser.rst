@@ -8,6 +8,7 @@ Aline Duarte Bessa - Accerciser
 
 .. figure:: {filename}/images/alinebessa.jpg
    :alt: Aline Duarte Bessa - Accerciser
+   :figclass: pull-left clear article-figure
 
    Aline Duarte Bessa - Accerciser
 

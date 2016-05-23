@@ -8,6 +8,7 @@ Rodrigo Belém: Ubuntu Brasil
 
 .. figure:: {filename}/images/rodrigobelem.png
    :alt: Rodrigo Belém: Ubuntu Brasil
+   :figclass: pull-left clear article-figure
 
    Rodrigo Belém: Ubuntu Brasil
 
