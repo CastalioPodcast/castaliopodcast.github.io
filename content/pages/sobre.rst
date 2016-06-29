@@ -17,12 +17,27 @@ projetos que sejam fonte de inspiração para os ouvintes, este podcast
 trará de 15 em 15 dias uma nova vítima, err figura Brasileira que será
 sabatinada de todos os ângulos para o seu deleite!
 
+Caso você tenha alguma
+sugestão para o nosso próximo convidado, nos envie sua idéia para o
+nosso e-mail.
+
+Autores
+-------
+
+.. figure:: {filename}/images/ogmaciel.jpg
+   :alt: Og Maciel
+   :scale: 10 %
+   :figclass: pull-left clear
+
 O `Castálio Podcast`_ é fruto da imaginação e curiosidade incansável
 de
 `Og Maciel`_, um brasileiro que desde 1991 mora nos Estados Unidos mas
-que nunca deixou de prestigiar suas raizes! Caso você tenha alguma
-sugestão para o nosso próximo convidado, nos envie sua idéia para o
-nosso e-mail.
+que nunca deixou de prestigiar suas raizes! Depois de passar por
+vários projetos Open Source (Ubuntu Linux, GNOME, Foresight Linux
+dentre outros) e desempenhar vários papéis nos mesmos, hoje ele
+trabalha na `Red Hat`_, é pai de 3 filhas, curte ler livros, pescar e
+assistir hockey no gelo.
+
 
 Contato
 -------
@@ -47,3 +62,4 @@ trabalhos resultantes.
 .. _@castaliopod: https://twitter.com/castaliopod
 .. _omaciel@ogmaciel.com: mailto:omaciel@ogmaciel.com
 .. _Creative Commons Attribution-ShareAlike 4.0 International: http://creativecommons.org/licenses/by-sa/4.0/
+.. _Red Hat: https://www.redhat.com/en
