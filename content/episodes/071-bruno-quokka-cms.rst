@@ -15,7 +15,7 @@ Episódio 71: Bruno Rocha - Quokka CMS
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Hoje voltamos novamente com o Bruno Rocha para continuarmos nosso bate papo,
+Hoje voltamos novamente com o Bruno Rocha, para continuarmos nosso bate papo,
 que como já esperávamos, foi muito bacana. Antes gostaríamos de agradecer a
 todos os comentários sobre o episódio anterior, muito obrigado a todos que
 dedicaram um tempinho para deixar uma mensagem.
@@ -23,7 +23,7 @@ dedicaram um tempinho para deixar uma mensagem.
 .. more
 
 No episódio de hoje, o Bruno nos conta como e por qual motivo o `Quokka CMS`_
-surgiu, qual foram os desafios que ele encontrou no inicio do projeto e como,
+surgiu, qual foram os desafios que ele encontrou no inicio do projeto, como
 depois de muito trabalho, ele se encontra hoje. O `Quokka CMS`_, como todo
 projeto Open Source, está aberto a contribuições, por isso o Bruno deixa o
 convite para todos que querem contribuir e também para todos que estão a
