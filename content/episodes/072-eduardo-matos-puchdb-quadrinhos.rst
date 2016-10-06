@@ -13,16 +13,16 @@ Episódio 72: Eduardo Matos - PouchDB e Quadrinhos
    :alt: Eduardo Matos - PouchDB e Quadrinhos
    :figclass: pull-left clear article-figure
 
-Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
+Olá pessoal, sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Como sempre agradecemos a todos que passaram para nos deixar um recado e
-reforcamos o convite para que você deixe um comentário falando sobre o que está
-achando dos episódios e caso tenha alguma indicação para um episódio futuro
+Como sempre agradecemos a todos, que passaram para nos deixar um recado e
+reforcamos o convite, para que você deixe um comentário falando sobre o que está
+achando dos episódios, caso tenha alguma indicação para um episódio futuro
 estamos a todo ouvidos.
 
 Sem mais delongas, hoje conversamos com o Eduardo Matos e agradecemos o Fábio
-Souza pela indicação. O Eduardo trabalha na BankFacil e nos conta um pouco como
-funciona o processo de code review e também comenta sobre o benefício de se ter
+Souza pela indicação. O Eduardo trabalha na BankFacil e nos conta; um pouco como
+funciona o processo de code review, também comenta sobre o benefício de se ter
 um template para os Pull Requests. Durante a conversa sobre o template de Pull
 Request é comentado sobre o `mention-bot`_, um bot que menciona nos Pull
 Requests uma pessoa que é um potencial reviewer.
@@ -30,11 +30,11 @@ Requests uma pessoa que é um potencial reviewer.
 .. more
 
 Também conversamos sobre offline first e `PouchDB`_ um banco de dados que roda
-no navegador (browser) que permite aplicações salverem dados localmente, o que
+no navegador (browser), que permite aplicações salverem dados localmente, o que
 permite usuários usufruirem da aplicação mesmo quando eles estão offline.
 
 Antes de irmos para o Top 5, conversamos sobre quadrinhos e a paixão que o
-Eduardo tem por quadrinhos. Você pode ver isso na imagem abaixo onde o Eduardo
+Eduardo tem por quadrinhos! Você pode ver isso na imagem abaixo onde o Eduardo
 compartilha conosco sua coleção de mais de 1000 quadrinhos. Finalmente falamos
 sobre o Top 5 e como sempre está cheio de indicações interessantes.
 
