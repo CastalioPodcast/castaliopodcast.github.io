@@ -22,14 +22,14 @@ entrevistas que você irá conferir neste espisódio e no próximo, duas por
 episódio.
 
 As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, isso mesmo,
-agora o Bruno Rocha está participando conosco no Castálio. O Og infelizmente
+agora o Bruno Rocha está participando conosco no Castálio! O Og infelizmente
 não estava presente nas entrevistas ao vivo, mas está presente no episódio.
 
 .. more
 
 Começamos a nossa série de entrevistas rápidas com o Mário Sergio, o Big Kahuna
-da Python Brasil 12 que foi realizada em Florianópolis, SC. Ele nos conta sobre
-como foi organizar a Python Brasil e sobre alguns de seus projetos pessoais e
+da Python Brasil 12 que foi realizada em Florianópolis, Santa Catarina. Ele nos conta sobre
+como foi organizar a Python Brasil, fala sobre alguns de seus projetos pessoais e
 também sobre algo que deseja muito fazer quando não está desenvolvendo.
 
 .. raw:: html
@@ -42,7 +42,7 @@ também sobre algo que deseja muito fazer quando não está desenvolvendo.
    
    Elyézer, Mário Sergio e Bruno Rocha na cafeteria da PythonBrasil[12].
 
-Em seguida falamos com a Naomi Ceder que faz parte do conselho de administração
+Em seguida falamos com a Naomi Ceder, que faz parte do conselho de administração
 da `Python Software Foundation`_. A entrevista foi realizada em inglês com
 algumas palinhas de Português falado pela Naomi. Conversamos sobre a
 diversidade da comunidade Python e como a Python Sofware Foundation ajuda nos
