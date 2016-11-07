@@ -39,6 +39,8 @@ também sobre algo que deseja muito fazer quando não está desenvolvendo.
 .. figure:: {filename}/images/pybr12-mario-sergio.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando o Mário Sergio
    :figclass: clear clearfix center-block
+   
+   Elyézer, Mário Sergio e Bruno Rocha na cafeteria da PythonBrasil[12].
 
 Em seguida falamos com a Naomi Ceder que faz parte do conselho de administração
 da `Python Software Foundation`_. A entrevista foi realizada em inglês com
@@ -51,6 +53,8 @@ saindo.
 .. figure:: {filename}/images/pybr12-naomi-ceder.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando a Naomi Ceder
    :figclass: center-block
+   
+   Elyézer, Naomi Ceder e Bruno Rocha na Sambaqui 3 (um dos auditórios da conferência)
 
 Você já deve estar se perguntando do Top 5. Bom, como foram entrevistas
 rápidas, não tivemos um Top 5 mas um Top 1 de cada participante.  Não
@@ -95,6 +99,7 @@ Links
 * `Python Brasil 12`_
 * `Python Software Foundation`_
 * `The Quick Python Book`_
+* `Um Protocolo para morrer - por Pieter Hintjens`_
 
 .. class:: panel-body bg-info
 
@@ -104,6 +109,7 @@ Links
 .. _Python Brasil 12: http://2016.pythonbrasil.org.br/
 .. _Python Software Foundation: https://www.python.org/psf/
 .. _The Quick Python Book: https://www.goodreads.com/book/show/20351126-the-quick-python-book-second-edition
+.. _Um Protocolo para morrer - por Pieter Hintjens: http://bit.ly/protocolo_para_morrer
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
