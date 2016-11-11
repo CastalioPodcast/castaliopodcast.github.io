@@ -21,6 +21,10 @@ Caso você tenha alguma
 sugestão para o nosso próximo convidado, nos envie sua idéia para o
 nosso e-mail.
 
+.. raw:: html
+
+    <div class="clearfix"></div>
+
 Autores
 -------
 
@@ -28,6 +32,8 @@ Autores
    :alt: Og Maciel
    :scale: 10 %
    :figclass: pull-left clear
+
+   Og Maciel.
 
 O `Castálio Podcast`_ é fruto da imaginação e curiosidade incansável
 de
@@ -45,6 +51,66 @@ Contato
 -  Twitter: `@castaliopod`_
 -  E-mail: `omaciel@ogmaciel.com`_
 
+.. raw:: html
+
+    <div class="clearfix"></div>
+
+
+Colaboradores
+-------------
+
+Também colaboram com o `Castálio Podcast`_:
+
+.. raw:: html
+
+    <div class="clearfix"></div>
+
+.. figure:: {filename}/images/elyezer.jpg
+   :alt: Elyezer
+   :figclass: pull-left clear
+
+   Elyézer Rezende.
+
+Elyézer Rezende é Red Hatter, Quality Engineer, Pythonista e Open Source
+advocate. Nas horas vagas gosta de testar receitas, experimentar cervejas e
+jogar Tennis.
+
+
+Contato
+-------
+
+-  Twitter: `@elyezer`_
+-  Site: `elyezer.com <http://elyezer.com>`_
+
+.. raw:: html
+
+    <div class="clearfix"></div>
+
+.. figure:: {filename}/images/rochacbruno.jpg
+   :alt: Bruno Rocha
+   :figclass: pull-left clear
+
+   Bruno Rocha.
+
+Bruno Rocha é Herbívoro, Animalista, Louco por Tofu, Nomeado Pastor da Igreja
+do Monstro de Espaguete Voador, Bicicleteiro, Pythonista (uma filosofia de vida
+além de programar em Python), Membro nomeado da Python Software Foundation,
+Professor, Autor de 1 livro, Palestrante, Desenvolvedor e contribuidor de
+alguns projetos de código aberto, e claro, defensor do código livre e dos dados
+livres e nas horas vagas também é Artista de Software no time de Qualidade da
+Red Hat.
+
+Contato
+-------
+
+-  Twitter: `@rochacbruno`_
+-  Site: `brunorocha.org <http://brunorocha.org>`_
+
+.. raw:: html
+
+    <div class="clearfix"></div>
+    <hr />
+
 Licença
 -------
 
@@ -60,6 +126,8 @@ trabalhos resultantes.
 .. _Castálio Podcast: http://castalio.info
 .. _Og Maciel: https://omaciel.github.io
 .. _@castaliopod: https://twitter.com/castaliopod
+.. _@elyezer: https://twitter.com/elyezer
+.. _@rochacbruno: https://twitter.com/rochacbruno
 .. _omaciel@ogmaciel.com: mailto:omaciel@ogmaciel.com
 .. _Creative Commons Attribution-ShareAlike 4.0 International: http://creativecommons.org/licenses/by-sa/4.0/
 .. _Red Hat: https://www.redhat.com/en
