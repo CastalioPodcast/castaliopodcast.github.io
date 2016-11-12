@@ -1,6 +1,6 @@
 Episódio 74: Python Brasil 12 - Parte 2
 #######################################
-:date: 2016-11-13
+:date: 2016-11-12
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3
