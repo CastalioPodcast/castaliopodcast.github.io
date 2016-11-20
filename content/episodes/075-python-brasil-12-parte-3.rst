@@ -45,11 +45,11 @@ Acima a foto oficial com a maior parte dos participantes da PythonBrasil 12, fot
    Elyézer e Bruno na palestra sobre trabalho remoto
 
 O Elyézer e o Bruno fizeram uma palestra sobre `trabalho remoto`_ e como se preparar para
-uma entrevista em empresas de fora, foram abordados temas como fluência na lingua inglesa,
+uma entrevista em empresas de fora. Foram abordados temas como fluência na língua inglesa,
 projetos no github e como isso impacta na decisão do empregador.
 
-Além disso também nos contaram sobre outras palestras interessantes que eles assistiram
-e inclusive sobre um Keynote a respeito de outra linguagem de programação já que é
+Além disso, também nos contaram sobre outras palestras interessantes que eles assistiram,
+inclusive sobre um Keynote a respeito de outra linguagem de programação, já que é
 tradição nos eventos da Python Brasil sempre ter um convidado para falar sobre outra linguagem.
 
 Também nos contaram quais foram os temas mais abordados pelos palestrantes e como
@@ -67,7 +67,7 @@ SMS durante uma dessas palestras.
 
    Bruno Rocha, Russell Keith Magee e Elyézer Rezende tomando Marzen Rauch Beer
 
-Também nos falaram sobre as melhores cervejas que experimentaram na OktoberFest
+Também nos falaram sobre as melhores cervejas que experimentaram na OktoberFest,
 sobre as danças, roupas e comidas típicas e sobre como o Bruno fez para se virar
 sendo um vegano em uma festa com tanta comida alemã.
 
@@ -88,7 +88,9 @@ difícil de pronunciar.
 Falamos sobre o ambiente familiar da Oktoberfest mesmo sendo um evento voltado
 para a cerveja, e a forma como este tipo de interação fortalece a comunidade.
 
-O Og também comentou a respeito da `PyconPune`_ na India e da palestra que ele submeteu para o evento, convidou os ouvintes do Castálio para a `PythonBrasil 13`_ em Belo Horizonte no próximo ano e também para a `Pycon U.S`_ em Portland.
+O Og comentou a respeito da `PyconPune`_ na India e da palestra que ele submeteu para o evento, e também
+convidou os ouvintes do Castálio para a `PythonBrasil 13`_ em Belo Horizonte e a `Pycon U.S`_ em Portland
+ no próximo ano.
 
 
 
