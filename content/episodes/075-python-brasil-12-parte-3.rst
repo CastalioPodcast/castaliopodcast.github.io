@@ -90,7 +90,7 @@ para a cerveja, e a forma como este tipo de interação fortalece a comunidade.
 
 O Og comentou a respeito da `PyconPune`_ na India e da palestra que ele submeteu para o evento, e também
 convidou os ouvintes do Castálio para a `PythonBrasil 13`_ em Belo Horizonte e a `Pycon U.S`_ em Portland
- no próximo ano.
+no próximo ano.
 
 
 
