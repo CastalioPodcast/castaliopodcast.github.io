@@ -4,7 +4,7 @@ Episódio 74: Python Brasil 12 - Parte 2
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3
-:tags: python brasil, python, turicas, serenata de amor
+:tags: python brasil, python, turicas, serenata de amor, pybr12
 :description: Como prometido segue a continuação das entrevistas na Python Brasil 12
               com alguns integrantes do projeto Serenata de Amor, e também uma
               entrevista sobre um assunto bastante interessante com o Turicas.
