@@ -14,7 +14,7 @@ Episódio 76: Book Review e Python Packages
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Hoje trazemos um episódio num formato diferente, vamos fazer um book review e
+Hoje trazemos um episódio num formato diferente: vamos fazer um book review e
 também falar sobre as novidades da semana no mundo Python. Aproveitamos para
 agradecer a todos que participaram da nossa `enquete no Twitter`_ apoiando a
 idéia de trazer o book review.
