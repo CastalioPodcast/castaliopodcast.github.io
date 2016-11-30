@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 from datetime import datetime
 
-AUTHOR = u'Og Maciel & Elyézer Rezende'
+AUTHOR = u'Og Maciel, Elyézer Rezende & Bruno Rocha'
 SITENAME = u'Castálio Podcast'
 SITEURL = 'http://castalio.info'
 
