@@ -14,19 +14,17 @@ Episódio 77: Book Review: Practical Vim e Novidades da Semana
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-No episódio de hoje vamos fazer mais um book review, porém desta vez, um book
-review técnico. Também trazemos as novidades da semana e a polêmica em torno do
-Python 3.
+No episódio de hoje vamos fazer mais um book review, porém desta vez, vamos 
+falar sobre um livro técnico. Também trazemos as novidades da semana e a 
+polêmica em torno do Python 3.
 
-Logo voltaremos com as entrevistas, tivemos problemas técnicos para gravar com
-a Paula Granjeiro, mas eles já estão revolvidos e vamos tentar gravar
-novamente.  Também temos entrevistas agendadas para conversar com o Gabriel
-Engel da Rocket.Chat e Kenneth Reitz, criador do Python Requests, etc.
+Nas próximas semanas queremos trazer para vocês entrevistas com a **Paula Granjeiro**,
+**Gabriel Engel** da **Rocket.Chat** e **Kenneth Reitz**, criador do **Python Requests**.
 Aguardem!
 
 .. more
 
-Começamos falando sobre as novidades da semana:
+No episódio de hoje começamos falando sobre as novidades da semana:
 
 **pytest-leaks**
 
@@ -90,7 +88,7 @@ precisar executar nada.
 
 Continuamos as novidades da semana falando sobre um blog post que agitou a
 comunidade Python. O post `The Case Against Python 3`_ foi escrito e publicado
-por um dos autores bastante conhecidos da comunidade Python, o Zed Shaw. Ele é
+por um dos autores bastante conhecidos da comunidade Python, Zed Shaw. Ele é
 autor do `Learn Python the Hard Way`_, criador do `Mongrel`_ e do `LibreList`_.
 
 A polêmica foi grande, muita gente da comunidade respondeu, a `thread do
@@ -109,8 +107,8 @@ pessoas a conhecer mais sobre como migrar para o Python 3?
 
 **Book Review: Practical Vim**
 
-Seguindo sugestões recebidas pelos nossos ouvintes, mais precisamente o Hell
-Barba, o Book Review de hoje será sobre um livro técnico. O Elyézer fala sobre
+Seguindo sugestões recebidas pelos nossos ouvintes, mais precisamente o **Hell
+Barba**, o Book Review de hoje será sobre um livro técnico. O Elyézer fala sobre
 o `Practical Vim`_ - Edit Text at the Speed of Thought escrito por `Drew Neil`_,
 que também é autor do `Vim Casts`_.
 
@@ -138,7 +136,7 @@ O livro é divido em 6 partes:
   * Salvando a configuração no vimrc
   * Aplicando customizações a determinados tipos de arquivos
 
-Apesar do livro ser em inglês é tranquilo de ler e os exemplos são bem fáceis
+Apesar do livro ser em inglês, é tranquilo de ler e os exemplos são bem fáceis
 de seguir. Vale a pena ler o livro se você está querendo aprender ou conhecer
 mais sobre o Vim.
 
