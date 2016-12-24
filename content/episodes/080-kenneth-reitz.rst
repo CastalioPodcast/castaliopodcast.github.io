@@ -1,6 +1,6 @@
-Episódio 80: Kenneth Reitz - Pyladies
-#######################################
-:date: 2016-12-25
+Episódio 80: Kenneth Reitz - Python Requests
+############################################
+:date: 2016-12-24
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-80/castalio-podcast-80.mp3
