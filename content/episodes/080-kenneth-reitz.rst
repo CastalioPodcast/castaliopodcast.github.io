@@ -4,7 +4,7 @@ Episódio 80: Kenneth Reitz - Pyladies
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-80/castalio-podcast-80.mp3
-:tags: paula grangeiro, pyladies
+:tags: kenneth reitz, python, requests, heroku
 :description: Hoje, conversamos com o Kenneth Reitz criador do Python Requests.
     Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou
     a programar ate os dias de hoje.
