@@ -15,7 +15,7 @@ Episódio 79: Paula Grangeiro - Pyladies
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Nossa convidada de hoje atualmente trabalha como programadora na **Stone Pagamentos**, é voluntária das `PyLadies`_ Brasil, `Django Girls`_ e `Rails Girls`_. Além disso tudo, ela também palestrou nos eventos `CaiPyRa`_, `Python Brasil`_, ganhou o **Prêmio Dorneles Tremea**, é ilustradora, gosta de gatos, e as redes sociais indicam que ele é fã da banda `Korn`_. Ufa!!! Ladies and gentlemen, é com um grande prazer que eu apresento nossa convidada **Paula Grangeiro**!.
+Nossa convidada de hoje atualmente trabalha como programadora na **Stone Pagamentos**, é voluntária das `PyLadies`_ Brasil, `Django Girls`_ e `Rails Girls`_. Além disso tudo, ela também palestrou nos eventos `CaiPyRa`_, `Python Brasil`_, ganhou o **Prêmio Dorneles Tremea**, é ilustradora, gosta de gatos, e as redes sociais indicam que ela é fã da banda `Korn`_. Ufa!!! Ladies and gentlemen, é com um grande prazer que eu apresento nossa convidada **Paula Grangeiro**!.
 
 .. more
 
