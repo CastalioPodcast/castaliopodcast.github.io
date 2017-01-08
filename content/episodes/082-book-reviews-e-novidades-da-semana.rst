@@ -23,9 +23,9 @@ e outro sobre o "The Martian Chronicles".
 
 A dica de Python da semana é sobre testes, mais especificamente sobre o uso
 do ``subTest`` que é um context manager que foi adicionado ao módulo unittest do Python3.4
-e que já estava disponível no 2.7 usando o unittest2 e o ``subTest`` possibilita que
-em um mesmo test case váriás iterações de um loop sejam testadas tendo seu
-resultado acumulado ao invés de sair na primeira falha, o Elyézer preparou este
+e que já estava disponível no 2.7. Usando o unittest e o ``subTest`` possibilita que
+em um mesmo test case várias iterações de um loop sejam testadas tendo seu
+resultado acumulado ao invés de sair na primeira falha. O Elyézer preparou o seguinte
 exemplo::
 
     def par(n):
@@ -63,25 +63,25 @@ Projetos e Pacotes
 
 - **Kite**
 
-  Imagina fazer **pair programming** com uma inteligência articial? é isso que o `Kite`_
-  oferece, com plugins para os principais editores o Kite utiliza de A.I para recomendar
-  o que você deve fazer em seu código e mostrar informações relevantes sobre o trecho digitado.
-  você digita ``import r`` e antes de completar o nome do módulo ele já te mostra uma lista
+  Imagina fazer **pair programming** com uma inteligência articial? É isso que o `Kite`_
+  oferece. Com plugins para os principais editores, o Kite utiliza de A.I para recomendar
+  o que você deve fazer em seu código e mostra informações relevantes sobre o trecho digitado.
+  Você digita ``import r`` e antes de completar o nome do módulo ele já te mostra uma lista
   de todos os pacotes mais populares iniciados com a letra ``r`` e exibe dicas sobre estes pacotes.
   
 - **Grumpy**
 
-  O pessoal do Google lançou um novo runtime para Python escrito em Go, o `Grumpy`_
-  eles desenvolveram esta ferramenta para otimizar o YouTube que tem seu front-end e
-  API escritos em Python e para melhorar seu desempenho criaram um runtime onde
-  é possível rodar código Python em cima de Go e a vantagem é que com isso você
+  O pessoal do Google lançou um novo runtime para Python escrito em Go, o `Grumpy`_.
+  Eles desenvolveram esta ferramenta para otimizar o YouTube que tem seu front-end e
+  API escritos em Python e para melhorar seu desempenho, criando um runtime onde
+  é possível executar código Python em cima de Go e a vantagem é que com isso você
   pode fazer ``from __go__ import qualquer_coisa`` e então aproveitar os recursos
   assíncronos da linguagem.
 
 - **Python Mocket**
 
-  Mock+Socket, `Python-Mocket`_ é uma biblioteca para fazer Mock de sockets e clients http,
-  por exemplo quando você precisa testar o client de uma API mas não deseja efetuar chamadas reais,
+  Mock+Socket, `Python-Mocket`_ é uma biblioteca para fazer Mock de sockets e clients http.
+  Por exemplo, quando você precisa testar o client de uma API mas não deseja efetuar chamadas reais,
   então você usa o **mocket** para gravar respostas padrão para URLs e Payloads específicos.
 
 - **Colored Logs**
@@ -91,9 +91,9 @@ Projetos e Pacotes
 
 - **Tkinter**
 
-  O `Tkinter`_ é uma extensão para usar a linguagem Tcl em Python, ela serve para
+  O `Tkinter`_ é uma extensão para usar a linguagem Tcl em Python. Ela serve para
   criar interfaces gráficas simples que usam o mesmo look and feel do seu sistema
-  operacional, neste episódio fazemos um convite para participar do `Castálio Playground`_
+  operacional. Neste episódio fazemos um convite para participar do `Castálio Playground`_
   e aprender ou exercitar seus conhecimentos em Python usando o nosso exemplo em Tkinter.  
 
 
@@ -108,15 +108,14 @@ O `Rafael Rosa Fu`_ é o nosso convidado neste episódio falando sobre estes
     Desde o desenvolvimento da linguagem escrita, os livros têm desempenhado um papel central em nossa cultura. 
     Divertindo, Instruindo e Inspirando. Mas um livro pode realmente mudar o curso da história?  
     A resposta é, sim. **36 Livros Que Mudaram o Mundo** é uma fascinante coleção de Grandes Cursos 
-    elaborada a partir de uma extensa seleção de livros, é um tour intelectual de milhares de anos 
+    elaborada a partir de uma extensa seleção de livros. É um tour intelectual de milhares de anos 
     de história e de civilizações ao redor do globo.
 
 - `The Martian Chronicles`_
 
    É um livro de contos de ficção científica de 1950, de autoria do escritor estadunidense Ray Bradbury, 
    cujo tema recorrente é a colonização de Marte por humanos com problemas e eventualmente vindos de uma Terra 
-   sob a iminência de ser devastada pela Guerra Atômica. 
-   Há também conflitos entre aborígenes marcianos com os novos colonizadores.
+   sob a iminência de ser devastada pela Guerra Atômica. O livro mostra todo o processo da colonização do planeta vermelho com a chegada dos primeiros humanos, até o período onde devido ao descuido e abuso de seus recursos naturais, o planeta começa a entrar em decadencia. Composto de várias histórias, o livro é simplemente fantástico e Ray Bradbury mostra todo o seu gênio trazendo momentos variados como a comêdia, horror e saudozismo para ilustrar como o ser humano destroi mais um planeta.
 
 
 Escute Agora
