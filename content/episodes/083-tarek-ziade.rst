@@ -4,7 +4,7 @@ Episódio 83: Tarek Ziadé - Mozilla
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-83/castalio-podcast-83.mp3
-:tags: tarek ziade, python, mozilla
+:tags: tarek ziade, python, mozilla, english
 :description: Hoje, conversamos com o Tarek Ziadé que é um desenvolvedor Python
               na Mozilla. Em nosso bate-papo conhecemos um pouco mais sobre o
               que ele faz trabalhando na Mozilla, sua paixão quando não está
@@ -114,6 +114,8 @@ Listen Now (Escute Agora)
 Top 5
 -----
 * **Music (Música)**: `Tyler Yarema <http://www.last.fm/music/Tyler+Yarema>`_
+* **Music (Música)**: `Chali 2na <http://www.last.fm/pt/music/Chali+2na>`_
+* **Music (Música)**: `Ghislain Poirier <http://www.last.fm/music/Ghislain+Poirier>`_
 * **Music (Música)**: `Chinese Man <http://www.last.fm/music/Chinese+Man>`_
 * **Book (Livro)**: `Dan Simmons <https://www.goodreads.com/author/show/2687.Dan_Simmons>`_
 * **Book (Livro)**: `Terry Pratchett <https://www.goodreads.com/author/show/1654.Terry_Pratchett>`_
