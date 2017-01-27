@@ -118,7 +118,7 @@ O Castálio Podcast é distribuído sobre a licença `Creative Commons
 Attribution-ShareAlike 4.0 International`_ (CC BY-SA 4.0). Você é
 livre para compartilhar, copiar, redistribuir (em qualquer mídia ou
 formato), adaptar, remixar transformar ou ampliar esse material,
-contato que sejam mantidas as atribuições e os autores sejam
+contanto que sejam mantidas as atribuições e os autores sejam
 devidamente citados e que esta mesma licença seja utilizada nos
 trabalhos resultantes.
 
