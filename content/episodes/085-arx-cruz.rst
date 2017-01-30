@@ -33,19 +33,20 @@ o pipeline que testa o OpenStack, mencionando sobre  o `Tempest`_ (a suite de
 teste de integração do projeto). Ele também comenta sobre o `RDO`_, a
 distribuição do OpenStack.
 
-Continuamos falando sobre as tecnologias utilizadas, para quem gosta de Python,
-o Arx nos diz que basicamente tudo no projeto é escrito em Python. Além de
-alguns dos projetos que auxiliam testar o OpenStack são: `Zuul`_, `Nodepool`_
+Continuamos falando sobre as tecnologias utilizadas, e para quem gosta de Python,
+o Arx nos diz que basicamente tudo no projeto é escrito em Python. Também falamos
+sobre alguns dos projetos que auxiliam testar o OpenStack, como: `Zuul`_ e
+`Nodepool`_
 
-Voltamos a falar um pouco sobre os desafios de se mudar do país para trabalhar
+Voltamos a falar um pouco sobre os desafios de se mudar para trabalhar
 em outro país e algumas dificuldades que o Arx passou ao estar em um país
 diferente como a Republica Tcheca e depois a Alemanha.
 
 Antes de irmos para o Top 5, mudamos de assunto e falamos de algumas coisas que
-o Arx gosta de fazer enquanto não está trabalhando, uma delas é jogar WoW
+o Arx gosta de fazer enquanto não está trabalhando. Uma delas é jogar WoW
 (World of Warcraft) e Overwatch, e experimentar cervejas. Uma curiosidade sobre
-experimentar cervejas é que ele pretende experimentar 1000 cervejas diferentes,
-atualmente ele já experimentou 493. Ele disse que suas cervejas preferidas
+experimentar cervejas é que ele pretende experimentar 1000 cervejas diferentes.
+Atualmente ele já experimentou 493! Ele disse que suas cervejas preferidas
 dentre todas as que experimentou são a Weihenstephaner Vitus e a Franziskaner
 Royal, ambas de trigo.
 
