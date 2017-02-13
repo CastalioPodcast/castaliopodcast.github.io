@@ -7,10 +7,8 @@ Episódio 87: Linguagem de Programação Go - Parte 2
 :tags: go, linguagem de programação, thiago avelino, cesar gimenes
 :description: Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem
               de programação Go com o Thiago Avelino e o Cesar Gimenes.
-
-.. figure:: {filename}/images/go-lang.png
-   :alt: Go Lang
-   :figclass: pull-left clear article-figure
+:image: images/go-lang.png
+:image-alt: Go Lang
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

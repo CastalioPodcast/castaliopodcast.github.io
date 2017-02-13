@@ -5,12 +5,8 @@ Carlos Ribeiro - RadioTray
 :category: Podcast
 :tags: amélie, carlos ribeiro, célia cruz, cold play, dan brown, dilbert, dzone, edgar allan poe, eminem, foresight linux, fs daily, google alerts, h. g.  wells, indiana jones, j.r.r. tolkien, java, john williams, latex, matrix, multicert, portugal, pulp fiction, python, radiotray, senhor dos anéis, software livre, star wars, the code book, the h, u2, vila nova de gaia, war of the worlds
 :podcast: https://archive.org/download/castalio-podcast-15/castalio-podcast-15.mp3
-
-.. figure:: {filename}/images/carlosribeiro.jpg
-   :alt: Carlos Ribeiro - RadioTray
-   :figclass: pull-left clear article-figure
-
-   Carlos Ribeiro - RadioTray
+:image: images/carlosribeiro.jpg
+:image-alt: Carlos Ribeiro - RadioTray
 
 O entrevistado de hoje é o português **Carlos Ribeiro**, desenvolvedor
 do projeto **RadioTray**, um programa bem leve e simples para escutar

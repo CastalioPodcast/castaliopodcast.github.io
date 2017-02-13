@@ -5,12 +5,8 @@ Cristiano Costa: Hora do Mac
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-42/castalio-podcast-42.mp3
 :tags: acqua, airton ortiz, albert einstein, amazon prime, amyr klink, breaking bad, carla bruni, computadores apple, david baldacci, dead kennedys, fisl, game of thrones, gnu/linux, google hangout, hora do mac, house, iphone, itunes, jeffrey archer, john sandford, jorge ben, kit inicial de podcasts, leo laporte, mac os, macbreak weekly, madeleine peyroux, michael connelly, netflix, norah jones, plataforma android, plataforma ios, r.e.m., rdio, sex pistols, skype, steve jobs, the beatles, two and a half man, u2, unix, windows 8, wordpress
-
-.. figure:: {filename}/images/cristianocosta.jpg
-   :alt: Cristiano Costa: Hora do Mac
-   :figclass: pull-left clear article-figure
-
-   Cristiano Costa: Hora do Mac
+:image: images/cristianocosta.jpg
+:image-alt: Cristiano Costa: Hora do Mac
 
 **Atualização**: Me esqueci novamente de colocar o link para o vídeo da
 entrevista: `Youtube`_

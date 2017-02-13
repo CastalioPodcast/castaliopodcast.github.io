@@ -5,12 +5,8 @@ Rodrigo Belém: Ubuntu Brasil
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-30/castalio-podcast-30.mp3
 :tags: amazonas, antônio pereira, arch linux, arm, bash, battlestar gallactica, benjamin mako hill, carlos "segfault" santiviago, cavalo de tróia, debconf, debian amazonas, debian linux, dexter, doctor who, emerson soares, encontro marcado, fábio nogueira, file sharing, geraldo azevedo, gnome, guia do muchileiro das galáxias, ian lawrence, indp, intel, jonathan riddell, kde, kubuntu, lício fonseca, licença gpl, licença mit, linaro, macos, marcelo mendes, mark shuttleworth, mário meyer, monty python, natural language processing with python, netflix, oswaldo montenegro, perl, plasma, porto alegre, postology, professional ubuntu mobile development, python, python nltk, rafel proença, roberto mello, rodrigo belém, shiptit, slackware linux, supernatural, the advantage, tom venuto, ubuntu, ubuntu brasil, ubuntu business remix, ubuntu linux, ubuntu mobile, ubuntu summit, umeguide.net, unity, windows
-
-.. figure:: {filename}/images/rodrigobelem.png
-   :alt: Rodrigo Belém: Ubuntu Brasil
-   :figclass: pull-left clear article-figure
-
-   Rodrigo Belém: Ubuntu Brasil
+:image: images/rodrigobelem.png
+:image-alt: Rodrigo Belém: Ubuntu Brasil
 
 Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo
 episódio, este comemorando nosso **primeiro ano no ar**! Aproveitei a

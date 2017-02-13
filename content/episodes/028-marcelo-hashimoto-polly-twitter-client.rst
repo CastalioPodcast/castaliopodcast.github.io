@@ -5,12 +5,8 @@ Marcelo Hashimoto: Polly Twitter Client
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-28/castalio-podcast-28.mp3
 :tags: a revolução dos bichos, annihilator, augusto dos anjos, billreminder, c++, carlos drummond de andrade, debian linux, facebook, foresight linux, gnome hig, google plus, gtk, gtk3, gwibber, halloween, hotot, identi.ca, launchpad, libcv, linguagem python, linux, livraria cultura, marcelo hashimoto, megadeath, metallica, monty python, o parque dos dinossáuros, omg ubuntu, opencv, os miseráveis, penny arcade, pinot, piratas do caribe, polly, polly twitter client, python, python socks, savatage, schizobird, twitter, ubuntero br, ubuntu dicas, ubuntu linux, victor hugo, visão computacional, william blake
-
-.. figure:: {filename}/images/marcelohashimoto.jpg
-   :alt: Marcelo Hashimoto
-   :figclass: pull-left clear article-figure
-
-   Marcelo Hashimoto
+:image: images/marcelohashimoto.jpg
+:image-alt: Marcelo Hashimoto
 
 Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano!
 O convidado de hoje é o **Marcelo Hashimoto**, desenvolvedor do cliente de

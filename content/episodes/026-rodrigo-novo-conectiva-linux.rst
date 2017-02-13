@@ -5,12 +5,8 @@ Rodrigo Novo: Conectiva Linux
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-26/castalio-podcast-26.mp3
 :tags: anaconda installer, arnaldo "pacman", aurélio "verde" jargas, caldera graphical installer, caldera linux, canonical, conectiva linux, cvs, dos, edubuntu, frank sinatra, gcc, googleplex, imdb.com, indt, jeff hwang, kde, linux br, livraria saraiva, mandrake linux, mandriva linux, marcelo tosatti, midnight commander, minilinux, mountain view, nfs, nina simone, open linux, parolin linux, pot-limit omaha poker, qt, red hat linux, rpm, silicon valley, slackware linux, texas holden poker, tftp, the shawshank redemption, ubuntu developers summit, universidade federal de santa catarina, venture capital
-
-.. figure:: {filename}/images/rodrigonovo.png
-   :alt: Rodrigo Novo
-   :figclass: pull-left clear article-figure
-
-   Rodrigo Novo
+:image: images/rodrigonovo.png
+:image-alt: Rodrigo Novo
 
 Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último
 de 2011)! Dando continuidade à proposta de trazer mais uma entrevista

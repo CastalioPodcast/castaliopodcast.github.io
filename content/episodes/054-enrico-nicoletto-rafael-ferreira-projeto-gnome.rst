@@ -5,12 +5,8 @@ Enrico Nicoletto e Rafael Ferreira: Projeto GNOME
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-54/castalio-podcast-54.mp3
 :tags: arcade fire, arch linux, audacity, biblia sagrada, blankman, bon jovi, bryan adams, c++, cliente de e-mail thunderbird, damned lies, decker, deus tem um plano para voce, el estudiante, fala mansa, fernandinho, gedit, ghost in the shell, gnome bugzilla, gnome terminal, gom player, google chrome, harry potter, how things work encyclopedia, kalibre, laugh and learn : 95 ways to use humor for more effective teaching and training, launchpad, lawless, ldp, leslie watter, libre office, media player classic, meld, notepad++, o hobbit, open cast, open-tran, papo de buteco, poedit, projeto gnome, projeto kde, quatro por um, ruby on rails, sagarana, sexto sentido, stratovarius, the strokes, tio nino, total recall, trance, transifex, translation toolkit, uma professora muito maluquinha, vala, war games
-
-.. figure:: {filename}/images/gnome.png
-   :alt: Projeto GNOME
-   :figclass: pull-left clear article-figure
-
-   Projeto GNOME
+:image: images/gnome.png
+:image-alt: Projeto GNOME
 
 Depois de vários meses sem "fora do ar", tenho o grande prazer em trazer
 mais um episódio sobre o projeto **GNOME**! Desta vez convidei o

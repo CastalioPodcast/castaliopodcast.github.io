@@ -5,12 +5,8 @@ Caike Souza: Envy Labs
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-36/castalio-podcast-36.mp3
 :tags: activerecord, backbone, banco de dados, blink 182, breaking bad, caike souza, capitão américa, code school, code tv, coffee script, crash, css, envy labs, flórida, gold finger, gunslinger, henrique bastos, heroes will fall, horaextra, html 5, hulk, ibm, in flames, interfaces, javascript, jquery, livingsocial, massive attack, mötley crüe, metallica, nasa, netflix, new york times, node.js, orlando, pantera, pendulum, postal service, python, rails for zombies, rails testing for zombies, railsconf, railsconf 2012, ramones, rancid, responsive web, ruby, ruby for zombies, ruby on rails, screencast, sepultura, small acts manifesto, speaker deck, swarm inteligence, tá safo conf 2012, the avengers, thor, topworks, tryruby.org, united states of terror, weeds, welcome to the django, wordpress
-
-.. figure:: {filename}/images/caikesouza.jpg
-   :alt: Caike Souza: Envy Labs
-   :figclass: pull-left clear article-figure
-
-   Caike Souza: Envy Labs
+:image: images/caikesouza.jpg
+:image-alt: Caike Souza: Envy Labs
 
 Nem parece que já passaram duas semanas desde o último episódio, mas mais uma
 vez tive o prazer de entrevistar uma pessoa prá lá de interessante e divertida:

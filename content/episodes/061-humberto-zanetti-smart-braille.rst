@@ -5,10 +5,8 @@ Episódio 61: Humberto Augusto Piovesana Zanetti - Smart Braille
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-61/castalio-podcast-61.mp3
 :tags: humberto augusto piovesana zanetti, smart braille
-
-.. figure:: {filename}/images/humbertozanetti.jpg
-   :alt: Humberto Zanetti - Smart Braille
-   :figclass: pull-left clear article-figure
+:image: images/humbertozanetti.jpg
+:image-alt: Humberto Zanetti - Smart Braille
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

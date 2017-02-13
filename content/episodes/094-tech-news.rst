@@ -12,10 +12,8 @@ Episódio 94: Tech News
               realizou. Também trazemos links sobre Closure, um App para
               Android e um framework de teste da Microsoft que teve seu código
               liberado.
-
-.. figure:: {filename}/images/tech-news.png
-   :alt: Tech news
-   :figclass: pull-left clear article-figure
+:image: images/tech-news.png
+:image-alt: Tech news
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

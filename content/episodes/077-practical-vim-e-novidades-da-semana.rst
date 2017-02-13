@@ -7,15 +7,13 @@ Episódio 77: Book Review: Practical Vim e Novidades da Semana
 :tags: book review, python, novidades da semana,
 :description: No episódio de hoje trazemos book review técnico sobre o
               Practical Vim, também comentamos sobre as novidades da semana.
-
-.. figure:: {filename}/images/practical-vim.jpg
-   :alt: Practical Vim - Edit Text at the Speed of Thought
-   :figclass: pull-left clear article-figure
+:image: images/practical-vim.jpg
+:image-alt: Practical Vim - Edit Text at the Speed of Thought
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-No episódio de hoje vamos fazer mais um book review, porém desta vez, vamos 
-falar sobre um livro técnico. Também trazemos as novidades da semana e a 
+No episódio de hoje vamos fazer mais um book review, porém desta vez, vamos
+falar sobre um livro técnico. Também trazemos as novidades da semana e a
 polêmica em torno do Python 3.
 
 Nas próximas semanas queremos trazer para vocês entrevistas com a **Paula Granjeiro**,

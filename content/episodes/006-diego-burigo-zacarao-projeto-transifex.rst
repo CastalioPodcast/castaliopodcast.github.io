@@ -4,12 +4,8 @@ Diego Búrigo Zacarão - Projeto Transifex
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-06/castalio-podcast-06.mp3
-
-.. figure:: {filename}/images/transifex.png
-   :alt: Transifex
-   :figclass: pull-left clear article-figure
-
-   Transifex
+:image: images/transifex.png
+:image-alt: Transifex
 
 Neste episódio, depois de semanas de muito suor, sangue e lágrimas (todas
 minhas, te garanto), consegui finalmente raptar o `Diego Búrigo Zacarão`_,

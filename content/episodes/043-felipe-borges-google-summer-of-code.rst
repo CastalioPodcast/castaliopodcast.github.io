@@ -5,12 +5,8 @@ Felipe Borges: Google Summer of Code
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3
 :tags: a coruña, amazon, batalha do apocalipse, biblioteca libevince, big bang theory, bob marley, bugzilla, cavalera conspiracy, chavez, cidade do sol, cosimo cecchi, criolo, design for hackers, djavan fagundes, eduardo galeano, eduardo spohr, euclydes da cunha, evince, felipe borges, fisl, formato epub, formato mobi, fundação gnome, fundação mozilla, gio, github, glib, gnome documents, google summer of code, guadec, homeland, immortal technique, itunes, javascript, khaled hossein, lowkey, microsoft skydrive, nokia, os sertões, pablo neruda, planet gnome, prison break, programação em c, programação em python, projeto gnome, red hat, sepultura, the it crowd, tracker, universidade federal de pelotas, walt disney
-
-.. figure:: {filename}/images/felipeborges.jpeg
-   :alt: Felipe Borges
-   :figclass: pull-left clear article-figure
-
-   Felipe Borges
+:image: images/felipeborges.jpeg
+:image-alt: Felipe Borges
 
 Finalzinho do verão americano e no ar já se sente um pouco a vinda do outono
 e a volta às aulas. Nada melhor então que bater um papo com o **Felipe Borges**

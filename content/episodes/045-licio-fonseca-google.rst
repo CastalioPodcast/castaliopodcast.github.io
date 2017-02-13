@@ -5,12 +5,8 @@ Licio Fonseca: Google
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3
 :tags: andré vianco, anime, batman, ben alves, bit twiddler, carlos drummond de andrade, charles cafe google, death note, fernando sabino, fernão capelo gaivota, gangnam style, gmail, google, google pounds, hackers and painters, homem de ferro, hugh laurie, lake louise, linked.in, lisbela e o prisioneiro, longe é um lugar que não existe, marvel, mountain view, novela, os vingadores, para gostar de ler, psy, richard bach, rodrigo pereira, starwars, transifex, ubuntu br, ubuntu desktop summit, xbox
-
-.. figure:: {filename}/images/liciofonseca.jpg
-   :alt: Licio Fonseca: Google
-   :figclass: pull-left clear article-figure
-
-   Licio Fonseca: Google
+:image: images/liciofonseca.jpg
+:image-alt: Licio Fonseca: Google
 
 Nesta última quinta-feira tive o prazer em entrevistar o **Licio
 Fonseca** da **Google**! Eu e o Licio nos conhecemos nos saudosos tempos

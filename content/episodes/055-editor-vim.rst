@@ -5,12 +5,8 @@ Episódio 55: Editor Vim
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3
 :tags: github, vim
-
-.. figure:: {filename}/images/episodio-55-vim.png
-   :alt: Editor Vim
-   :figclass: pull-left clear article-figure
-
-   Editor Vim
+:image: images/episodio-55-vim.png
+:image-alt: Editor Vim
 
 Depois de um longo e tenebroso inverno, estamos de volta ao ar, desta
 vez para ficar e com algumas novidades.Mas primeiramente, uma explicação

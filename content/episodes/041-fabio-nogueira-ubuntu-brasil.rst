@@ -5,12 +5,8 @@ Fábio Nogueira: Ubuntu Brasil
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-41/castalio-podcast-41.mp3
 :tags: alexandre silva, andré gondim, andré noel, ayrton araújo, bee gees, black sabath, canonical, círculo de fogo, chave gpg, coringão, de volta para o futuro, deep purple, duda nogueira, elvis presley, emerson soares, fábio nogueira, ian laurence, johnny cash, jonh wendell, jorge amado, kalango linux, lício fonseca, mário meyer, paulino michelazzo, planeta ubuntu brasil, portões de fogo, projeto gnome, raphael higino, ricardo cropalato, rodrigo belém, stalingrado cerco fatal, thiago hillebrandt, ubuntu bahía, ubuntu brasil, ubuntu linux
-
-.. figure:: {filename}/images/fabionogueira.jpg
-   :alt: Fábio Nogueira: Ubuntu Brasil
-   :figclass: pull-left clear article-figure
-
-   Fábio Nogueira: Ubuntu Brasil
+:image: images/fabionogueira.jpg
+:image-alt: Fábio Nogueira: Ubuntu Brasil
 
 **Atualização**: Faltou o link do `vídeo`_ da entrevista! :)
 

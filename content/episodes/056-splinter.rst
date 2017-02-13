@@ -5,6 +5,8 @@ Episódio 56: Splinter
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3
 :tags: splinter, selenium, automatização, splinter, selenium, python
+:image: images/castalio5FkGWm.png
+:image-alt: Editor Vim
 
 No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o
 **Splinter**, uma ferramente muito interessante para quem trabalha com a
@@ -57,12 +59,6 @@ episódio:
 
 Como vocês podem ver, o código acima ate mesmo tira um screenshot da
 pagina que foi aberta no navegador e salva no arquivo de sistemas:
-
-.. figure:: {filename}/images/castalio5FkGWm.png
-   :alt: Editor Vim
-   :figclass: pull-left clear article-figure
-
-   Editor Vim
 
 O bacana é que o método que tira screenshots foi `contribuição`_ minha. :)
 

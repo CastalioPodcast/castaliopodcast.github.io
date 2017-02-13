@@ -4,12 +4,8 @@ Episódio 2: KurtKraut
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-03/castalio-podcast-03.mp3
-
-.. figure:: {filename}/images/kurtkraut.png
-   :alt: KurtKraut
-   :figclass: pull-left clear article-figure
-
-   KurtKraut
+:image: images/kurtkraut.png
+:image-alt: KurtKraut
 
 Neste episódio tivemos a grande honra de entrevistar nosso amigo
 **KurtKraut**, usuario de **BBS** e **IRC** desde 1994, autodidata nas

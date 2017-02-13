@@ -5,12 +5,8 @@ Igor Pires Soares - Projeto Fedora
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-12/castalio-podcast-12.mp3
 :tags: fedora, fudcon, rem, smolt, transifex, u2
-
-.. figure:: {filename}/images/igorsoares.png
-   :alt: Igor Soares - Projeto Fedora
-   :figclass: pull-left clear article-figure
-
-   Igor Soares - Projeto Fedora
+:image: images/igorsoares.png
+:image-alt: Igor Soares - Projeto Fedora
 
 **UPDATE**:  Peço desculpas pelo problema de áudio que o último
 episódio teve... isso que dá editar a entrevista tarde da noite! :)

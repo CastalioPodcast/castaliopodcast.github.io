@@ -4,12 +4,8 @@ Frederico Gonçalves Guimaraes - Software Livre Educacional
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-07/castalio-podcast-07.mp3
-
-.. figure:: {filename}/images/fredericoguimaraes.jpg
-   :alt: Frederico Gonçalves Guimaraes
-   :figclass: pull-left clear article-figure
-
-   Frederico Gonçalves Guimaraes
+:image: images/fredericoguimaraes.jpg
+:image-alt: Frederico Gonçalves Guimaraes
 
 Neste episódio conversei com o **Frederico Gonçalves Guimaraes** do
 projeto `Software Livre Educacional`_, que

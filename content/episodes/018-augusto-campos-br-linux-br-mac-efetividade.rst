@@ -5,12 +5,8 @@ Augusto Campos: BR-Linux, BR-Mac, Efetividade
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-18/castalio-podcast-18.mp3
 :tags: android, augusto campos, awk, bbedit, br-linux, br-mac, centos linux, cobol, ebook, efetividade, estrella roja, evandro pastor, ferris bueller's day off, flipboard, gtalk show, ipad, istoé, karlisson, kate, keith richards, kindle, livraria saraiva, lobão, mac os, marcelo tosatti, mysql, pascal, punk rock, ramones, red hat linux, scp, ssh, star trek, star wars, the clash, wordpress
-
-.. figure:: {filename}/images/augustocampos.jpg
-   :alt: Augusto Campos: BR-Linux, BR-Mac, Efetividades
-   :figclass: pull-left clear article-figure
-
-   Augusto Campos: BR-Linux, BR-Mac, Efetividades
+:image: images/augustocampos.jpg
+:image-alt: Augusto Campos: BR-Linux, BR-Mac, Efetividades
 
 Em um dia de muita chuva em Florianópolis, SC finalmente consegui bater um bom
 papo com o **Augusto Campos**, fundador dos super populares sites **BR-Linux**,

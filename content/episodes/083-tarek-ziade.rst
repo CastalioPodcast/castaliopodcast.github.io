@@ -10,10 +10,8 @@ Episódio 83: Tarek Ziadé - Mozilla
               que ele faz trabalhando na Mozilla, sua paixão quando não está
               desenvolvendo e sobre os livros que escreveu e o que está
               escrevendo atualmente.
-
-.. figure:: {filename}/images/tarekziade.jpg
-   :alt: Tarek Ziadé - Mozilla
-   :figclass: pull-left clear article-figure
+:image: images/tarekziade.jpg
+:image-alt: Tarek Ziadé - Mozilla
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

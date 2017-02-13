@@ -5,12 +5,8 @@ Johan Dahlin - Stoq: Gestor Comercial Livre
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-09/castalio-podcast-09.mp3
 :tags: async, fluendo, litl, pygtk, stoq
-
-.. figure:: {filename}/images/johandahlin.jpg
-   :alt: Johan Dahlin - Stoq: Gestor Comercial Livre
-   :figclass: pull-left clear article-figure
-
-   Johan Dahlin - Stoq: Gestor Comercial Livre
+:image: images/johandahlin.jpg
+:image-alt: Johan Dahlin - Stoq: Gestor Comercial Livre
 
 Hoje o meu convidado é o `Johan Dahlin`_, um dos programadores do mundo do
 software livre  que eu mais admiro! O Johan nasceu na **Suécia** mas mora no

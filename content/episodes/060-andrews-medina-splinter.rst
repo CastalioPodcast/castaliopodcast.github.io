@@ -7,10 +7,8 @@ Episódio 60: Andrews Medina - Splinter
 :tags: andrews medina, splinter, tsuru, travis, cobra team, spotify,
        globo.com, selenium, pyccuracy, django, flask, capybara,
        tornado web server, angularjs, yipit, jquery
-
-.. figure:: {filename}/images/andrewsmedina.jpeg
-   :alt: Andrews Medina - Splinter
-   :figclass: pull-left clear article-figure
+:image: images/andrewsmedina.jpeg
+:image-alt: Andrews Medina - Splinter
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**, o primeiro de 2015!!!
 

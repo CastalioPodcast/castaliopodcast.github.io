@@ -8,10 +8,8 @@ Episódio 63: Thiago Avelino - vim-bootstrap e BeerBlogging
 :description: O entrevistado de hoje é o **Thiago Avelino**, criador
               do `vim-bootstrap`_, um projeto que já tinha sido
               mencionado antes no `Episódio 55`_ sobre o editor Vim.
-
-.. figure:: {filename}/images/thiagoavelino.png
-   :alt: Thiago Avelino - vim-bootstrap
-   :figclass: pull-left clear article-figure
+:image: images/thiagoavelino.png
+:image-alt: Thiago Avelino - vim-bootstrap
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

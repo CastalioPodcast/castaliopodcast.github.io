@@ -5,12 +5,8 @@ Murilo Queiroz - Em Busca dos Tesouros
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-05/castalio-podcast-05.mp3
 :tags: atari, pitfall, tk-85, zx-81
-
-.. figure:: {filename}/images/muriloqueiroz.png
-   :alt: Em Busca dos Tesouros
-   :figclass: pull-left clear article-figure
-
-   Em Busca dos Tesouros
+:image: images/muriloqueiroz.png
+:image-alt: Em Busca dos Tesouros
 
 Neste último episódio tive um bate-papo super divertido com o **Murilo
 Queiroz**, sobre "**Em Busca dos Tesouros**\ ", um joguinho de

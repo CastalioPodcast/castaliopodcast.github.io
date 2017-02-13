@@ -13,6 +13,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'pt'
 LANG = u'pt_BR.UTF-8'
+LOCALE = u'pt_BR'
 CC_LICENSE = u'CC-BY-NC-SA'
 
 # Sets Tagcloud usage
@@ -61,6 +62,7 @@ PLUGINS = [
     'feed_summary',
     'sitemap',
     'pelican-podcast-feed',
+    'featured_image',
 ]
 SUMMARY_END_MARKER = "<!-- more -->"
 
@@ -93,6 +95,15 @@ GOOGLE_ANALYTICS = "UA-21449168-1"
 BOOTSTRAP_NAVBAR_INVERSE = True
 
 # Site banner in the sidebar
+BANNER = True
+BANNER_ALL_PAGES = True
+BANNER_IMAGE = 'images/castalio-podcast.png'
+BANNER_SUBTITLE = u'Um podcast inspirado prá castálio!'
+BANNER_BACKGROUND_COLOR='#fff'
+SITELOGO = 'images/navbar-logo.png'
+SITELOGO_SIZE = 20
+HIDE_SITENAME = True
+HIDE_SIDEBAR = True
 SIDEBAR_BRAND_SUBTITLE = u"Um podcast inspirado prá castálio!"
 SIDEBAR_BRAND_IMAGE = 'images/castalio-podcast.png'
 SIDEBAR_BRAND_IMAGE_HEIGHT = 300

@@ -5,12 +5,8 @@ Júlio Monteiro: JobScore
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-34/castalio-podcast-34.mp3
 :tags: blink, cadê?, companhia startup, continuous integration, daft punk, daniel h.  pink, django, drive, fábio kung, fisl 2004, flipboard, four tet, game of thrones, github, github drinkup, gotan project, hacker news, hayao miyazaki, henrique bastos, heroku, howl's moving castle, html, instapaper, ipad, javascript, júlio monteiro, job board, jobscore, justice, kraftwerk, linux, malcolm gladwell, mato grosso, meetups, mongodb, outliers, pat metheny group, pedro belo, penguin cafe orchestra, professor marco andré, programação php, programação python, programação ruby, qa, rails br, royksopp, ruby on rails, symphony, tanghetto, the big bang theory, the it crowd, the tipping poing, turbogears, ubuntu brasil, walking dead, windows
-
-.. figure:: {filename}/images/juliomonteiro.png
-   :alt: Júlio Monteiro: JobScore
-   :figclass: pull-left clear article-figure
-
-   Júlio Monteiro: JobScore
+:image: images/juliomonteiro.png
+:image-alt: Júlio Monteiro: JobScore
 
 Depois de ter falado um pouco com pessoas que usam **Python** ou
 **Django** no seu dia-a-dia, eu decidi entrevistar alguém que trabalha

@@ -8,10 +8,8 @@ Episódio 70: Bruno Rocha - Flask e Veganismo
 :description: Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o
               micro-framewrok para a web Flask, assim como outros frameworks
               web escritos em Python. Também nos explica o que é o veganismo.
-
-.. figure:: {filename}/images/brunorocha.jpg
-   :alt: Bruno Rocha - Flask e Veganismo
-   :figclass: pull-left clear article-figure
+:image: images/brunorocha.jpg
+:image-alt: Bruno Rocha - Flask e Veganismo
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

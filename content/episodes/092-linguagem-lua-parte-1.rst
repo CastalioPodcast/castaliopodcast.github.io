@@ -12,9 +12,8 @@ Episódio 92: Linguagem Lua - Parte 1
 :description: No episódio de hoje vamos falar sobre a linguagem de programação
               Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.
 
-.. figure:: {filename}/images/lua.png
-   :alt: Linguagem Lua
-   :figclass: pull-left clear article-figure
+:image: images/lua.png
+:image-alt: Linguagem Lua
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

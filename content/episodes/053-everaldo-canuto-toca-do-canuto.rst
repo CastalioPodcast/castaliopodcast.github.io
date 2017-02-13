@@ -5,12 +5,8 @@ Everaldo Canuto: Toca do Canuto
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-53/castalio-podcast-53.mp3
 :tags: .net, andréia gaita, apache web server, asp.net, css3, dbase iii plus, delphi, deus um delírio, dotgnu, ecma, editor gedit, editor kate, engenheiros do hawaii, git, google hangout, gtmeter, guadec, html 5, ilhas canárias, intel, java, legião urbana, loadimpact, markdown, microsoft, miguel de icaza, moblin, mono, moonlight, nat friedman, novell, o código davinci, o hobbit, o homem da areia, openssh, pandora, php, pink floyd, power shell, processador atom, projeto gnome, projeto ximian, richard stallman, silverlight, sir arthur conan doyle, spotify, sun corporation, suse linux, suse studio, titãs, toca do canuto, windows forms, xamarin, xen, youtube
-
-.. figure:: {filename}/images/everaldocanuto.png
-   :alt: Everaldo Canuto: Toca do Canuto
-   :figclass: pull-left clear article-figure
-
-   Everaldo Canuto: Toca do Canuto
+:image: images/everaldocanuto.png
+:image-alt: Everaldo Canuto: Toca do Canuto
 
 Eu conheci o **Everaldo** em uma tarde super calorenta durante a
 abertura do evento **GUADEC** nas **Ilhas Canárias**. O mais

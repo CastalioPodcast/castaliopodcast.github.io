@@ -4,16 +4,14 @@ Episódio 82: Book Review: 36 Books That Changed the World e The Martian Chronic
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-82/castalio-podcast-82.mp3
-:tags: book review, novidades da semana, 36 books that changed the world, 
-       the martian chronicles, python 3.6, typing, kite, grumpy, golang, 
+:tags: book review, novidades da semana, 36 books that changed the world,
+       the martian chronicles, python 3.6, typing, kite, grumpy, golang,
        mocket, coloredlogs, tkinter, tcl
 :description: Hoje, trazemos mais um book review com os livros The Martian Chronicles
-              e 36 books that changed the world. Também trazemos algumas novidades da 
+              e 36 books that changed the world. Também trazemos algumas novidades da
               semana com dica, pacotes e projetos interessantes.
-
-.. figure:: {filename}/images/books-82.jpg
-   :alt: 36 books that changed the world
-   :figclass: pull-left clear article-figure
+:image: images/books-82.jpg
+:image-alt: 36 books that changed the world
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -31,7 +29,7 @@ exemplo::
     def par(n):
         """Verifica se o número é par"""
         return n % 2 == 0
-    
+
     def test_todos_par(self):
         """Testa se todos os números da lista são pares"""
         for n in (0, 2, 3, -2, 4):
@@ -51,10 +49,10 @@ Projetos e Pacotes
 ------------------
 
 - **Python 3.6.0**
-  
+
   Foi lançada a versão final do `Python 3.6.0`_ contendo todas as novidades
   que já mencionamos no `episódio 76`_
-  
+
 - **typing**
 
   Já haviamos falado sobre o MyPy que traz a opção de tipagem e também sobre os annotations
@@ -68,7 +66,7 @@ Projetos e Pacotes
   o que você deve fazer em seu código e mostra informações relevantes sobre o trecho digitado.
   Você digita ``import r`` e antes de completar o nome do módulo ele já te mostra uma lista
   de todos os pacotes mais populares iniciados com a letra ``r`` e exibe dicas sobre estes pacotes.
-  
+
 - **Grumpy**
 
   O pessoal do Google lançou um novo runtime para Python escrito em Go, o `Grumpy`_.
@@ -94,7 +92,7 @@ Projetos e Pacotes
   O `Tkinter`_ é uma extensão para usar a linguagem Tcl em Python. Ela serve para
   criar interfaces gráficas simples que usam o mesmo look and feel do seu sistema
   operacional. Neste episódio fazemos um convite para participar do `Castálio Playground`_
-  e aprender ou exercitar seus conhecimentos em Python usando o nosso exemplo em Tkinter.  
+  e aprender ou exercitar seus conhecimentos em Python usando o nosso exemplo em Tkinter.
 
 
 Book Review
@@ -105,16 +103,16 @@ O `Rafael Rosa Fu`_ é o nosso convidado neste episódio falando sobre estes
 
 - `36 Books that Changed the World`_
 
-    Desde o desenvolvimento da linguagem escrita, os livros têm desempenhado um papel central em nossa cultura. 
-    Divertindo, Instruindo e Inspirando. Mas um livro pode realmente mudar o curso da história?  
-    A resposta é, sim. **36 Livros Que Mudaram o Mundo** é uma fascinante coleção de Grandes Cursos 
-    elaborada a partir de uma extensa seleção de livros. É um tour intelectual de milhares de anos 
+    Desde o desenvolvimento da linguagem escrita, os livros têm desempenhado um papel central em nossa cultura.
+    Divertindo, Instruindo e Inspirando. Mas um livro pode realmente mudar o curso da história?
+    A resposta é, sim. **36 Livros Que Mudaram o Mundo** é uma fascinante coleção de Grandes Cursos
+    elaborada a partir de uma extensa seleção de livros. É um tour intelectual de milhares de anos
     de história e de civilizações ao redor do globo.
 
 - `The Martian Chronicles`_
 
-   É um livro de contos de ficção científica de 1950, de autoria do escritor estadunidense Ray Bradbury, 
-   cujo tema recorrente é a colonização de Marte por humanos com problemas e eventualmente vindos de uma Terra 
+   É um livro de contos de ficção científica de 1950, de autoria do escritor estadunidense Ray Bradbury,
+   cujo tema recorrente é a colonização de Marte por humanos com problemas e eventualmente vindos de uma Terra
    sob a iminência de ser devastada pela Guerra Atômica. O livro mostra todo o processo da colonização do planeta vermelho com a chegada dos primeiros humanos, até o período onde devido ao descuido e abuso de seus recursos naturais, o planeta começa a entrar em decadencia. Composto de várias histórias, o livro é simplemente fantástico e Ray Bradbury mostra todo o seu gênio trazendo momentos variados como a comêdia, horror e saudozismo para ilustrar como o ser humano destroi mais um planeta.
 
 
@@ -138,7 +136,7 @@ Para o sorteio ordenamos os comentários por ordem de data crescente e então us
 o site **Sorteador** para escolher um número aleatoriamente, e o grande vencedor foi
 o nosso ouvinte **Nuno**.
 
-O resultado do sorteio está registrado no seguite link  `<http://sorteador.com.br/sorteador/resultado/446325>`_ 
+O resultado do sorteio está registrado no seguite link  `<http://sorteador.com.br/sorteador/resultado/446325>`_
 
 Parabéns **Nuno**, muito obrigado pela sua participação!!!
 

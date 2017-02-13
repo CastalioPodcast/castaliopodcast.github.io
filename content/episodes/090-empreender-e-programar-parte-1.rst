@@ -11,10 +11,8 @@ Episódio 90: Empreender e Programar - Parte 1
               um papo e ver se é possível empreender e programar. Para nos
               ajudar, contamos com a presença do Filipe Ximenes, Flávio Juvenal
               e Renato Oliveira, todos são empreendedores e programadores.
-
-.. figure:: {filename}/images/empreender-e-programar.png
-   :alt: Emprender e Programar
-   :figclass: pull-left clear article-figure
+:image: images/empreender-e-programar.png
+:image-alt: Empreender e Programar
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

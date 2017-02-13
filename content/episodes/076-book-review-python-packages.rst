@@ -7,10 +7,8 @@ Episódio 76: Book Review e Python Packages
 :tags: book review, python,
 :description: No episódio de hoje trazemos nosso primeiro book review, também
               comentamos sobre as novidades da semana no mundo Python.
-
-.. figure:: {filename}/images/h-p-lovecraft-s-book-of-the-supernatural.jpg
-   :alt: H.P. Lovecraft's Book of the Supernatural
-   :figclass: pull-left clear article-figure
+:image: images/h-p-lovecraft-s-book-of-the-supernatural.jpg
+:image-alt: H.P. Lovecraft's Book of the Supernatural
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

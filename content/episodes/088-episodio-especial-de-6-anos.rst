@@ -10,10 +10,8 @@ Episódio 88: Episódio Especial de 6 Anos
               deixar essa data importante passar em branco e por isso decidimos
               fazer um episodio comemorativo com a participação dos nossos
               ouvintes.
-
-.. figure:: {filename}/images/castalio-6-anos.png
-   :alt: 6 anos de Castálio Podcast e contando...
-   :figclass: pull-left clear article-figure
+:image: images/castalio-6-anos.png
+:image-alt: 6 anos de Castálio Podcast e contando...
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

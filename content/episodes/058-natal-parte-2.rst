@@ -5,10 +5,8 @@ Episódio 58: Episódio de Natal - Parte 2
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-58/castalio-podcast-58.mp3
 :tags: grokpodcast, hack 'n' cast, natal, podcast, audacity
-
-.. figure:: {filename}/images/audacity.png
-   :alt: Episódio de Natal - Parte 2
-   :figclass: pull-left clear article-figure
+:image: images/audacity.png
+:image-alt: Episódio de Natal - Parte 2
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

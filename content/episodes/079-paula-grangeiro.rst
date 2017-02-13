@@ -8,10 +8,8 @@ Episódio 79: Paula Grangeiro - Pyladies
 :description: Hoje, conversamos com a Paula Grangeiro que nos contou
               sobre sua tragetória com programação, meios de pagamento
               plataformas Microsoft e Python e é claro Pyladies.
-
-.. figure:: {filename}/images/paula-grangeiro.jpg
-   :alt: Paula Grangeiro - Pyladies
-   :figclass: pull-left clear article-figure
+:image: images/paula-grangeiro.jpg
+:image-alt: Paula Grangeiro - Pyladies
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -23,7 +21,7 @@ Conversamos sobre como a Paula iniciou na carreira de TI e nas plataformas
 Microsoft .net e como ela conheceu e se apaixonou pela linguagem Python.
 
 Falamos sobre a comunidade e como foi a participação dela no evento `Caipyra`_
-em Ribeirão Preto e sobre sua palestra abordando testes unitários e design 
+em Ribeirão Preto e sobre sua palestra abordando testes unitários e design
 de código.
 
 A Paula também falou sobre a sua participação nas comunidades voltadas para as
@@ -36,7 +34,7 @@ lado artístico como ilustradora.
 .. figure:: {filename}/images/paula-ilustracao.jpg
    :alt: Paula Grangeiro - Pyladies
    :figclass: pull-right clear article-figure
-   
+
    Ilustração da Paula!
 
 Como sempre assunto foi o que não faltou, mas não poderíamos deixar de ter Top

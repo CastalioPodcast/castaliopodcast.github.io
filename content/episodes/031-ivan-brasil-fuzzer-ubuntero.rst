@@ -5,12 +5,8 @@ Ivan Brasil Fuzzer: Ubuntero
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-31/castalio-podcast-31.mp3
 :tags: ac/dc, animatrix, assembly, audacity, batalha do apocalipse, br-linux, c++, capital inicial, cesar oliveira, cidadão quem, cinelera, cobol, debian linux, delphi, eduardo spohr, filhos do éden, grupo caudílho livre, gtkrecordmydesktop, inception, iron madden, java, kdenlive, list, ludwig van beethoven, mettalica, mozilla thunderbird, neto fagundes, opencast, openshot, piresca greco, rogério melo, shell script, skype, skype call recorder, the matrix, the walking dead, twitter, ubuntero, ubuntu linux, ubuntu unity, vim, virtual box, w32 codecs, youtube
-
-.. figure:: {filename}/images/ivanfuzzer.jpg
-   :alt: Ivan Brasil Fuzzer: Ubuntero
-   :figclass: pull-left clear article-figure
-
-   Ivan Brasil Fuzzer: Ubuntero
+:image: images/ivanfuzzer.jpg
+:image-alt: Ivan Brasil Fuzzer: Ubuntero
 
 Olá pessoal e sejam bem-vindos ao segundo episódio de 2012! Esta última
 semana tive a oportunidade de conversar com o **Ivan Brasil Fuzzer**,

@@ -9,10 +9,8 @@ Episódio 85: Arx Cruz - OpenStack (Red Hat)
               OpenStack, trabalha na Red Hat, mora em Berlim, joga WoW (World
               of Warcraft) e Overwatch, e já bebeu quase 500 cervejas
               diferentes.
-
-.. figure:: {filename}/images/arxcruz.jpg
-   :alt: Arx Cruz - OpenStack (Red Hat)
-   :figclass: pull-left clear article-figure
+:image: images/arxcruz.jpg
+:image-alt: Arx Cruz - OpenStack (Red Hat)
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
