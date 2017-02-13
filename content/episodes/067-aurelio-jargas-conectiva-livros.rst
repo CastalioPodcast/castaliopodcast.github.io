@@ -10,10 +10,8 @@ Episódio 67: Aurelio Jargas - Conectiva e Livros
               Conectiva, passando um tempo "desempregado" e como iniciou sua
               carreira como escritor. Foi uma conversa muito interessante e
               divertida.
-
-.. figure:: {filename}/images/aureliojargas.jpg
-   :alt: Aurelio Jargas - Conectiva e Livros
-   :figclass: pull-left clear article-figure
+:image: images/aureliojargas.jpg
+:image-alt: Aurelio Jargas - Conectiva e Livros
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

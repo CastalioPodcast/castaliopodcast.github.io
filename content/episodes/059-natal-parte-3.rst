@@ -6,10 +6,8 @@ Episódio 59: Episódio de Natal - Parte 3
 :podcast: https://archive.org/download/castalio-podcast-59/castalio-podcast-59.mp3
 :tags: grokpodcast, hack 'n' cast, natal, podcast, jekyll, pelican,
        dreamhost, wordpress
-
-.. figure:: {filename}/images/cheers.png
-   :alt: Episódio de Natal - Parte 3
-   :figclass: pull-left clear article-figure
+:image: images/cheers.png
+:image-alt: Episódio de Natal - Parte 3
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

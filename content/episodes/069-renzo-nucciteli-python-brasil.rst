@@ -6,10 +6,8 @@ Episódio 69: Renzo Nucciteli - Python Brasil
 :podcast: https://archive.org/download/castalio-podcast-69/castalio-podcast-69.mp3
 :tags: aurelio jargas, funções zz, moneylog, miguxeitor
 :description: Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.
-
-.. figure:: {filename}/images/renzonucciteli.png
-   :alt: Renzo Nucciteli - Python Brasil
-   :figclass: pull-left clear article-figure
+:image: images/renzonucciteli.png
+:image-alt: Renzo Nucciteli - Python Brasil
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

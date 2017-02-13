@@ -5,12 +5,8 @@ Djavan Fagundes: GNOME Brasil
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-39/castalio-podcast-39.mp3
 :tags: ambiente gnome, ambiente kde, ambiente openbox, ambiente xfce, belo horizonte, breaking bad, casa 21, chaves, cidades ilustradas, constantine, creedence clearwater revival, distribuição arch linux, distribuição debian linux, distribuição fedora linux, distribuição foresight linux, djavan fagundes, gandhi: a magia dos gestos poéticos, gnome 3, gnome brasil, gnome-tweak-tool, google hangout, google maps, hell boy, hora do mac, jonh wendell, led zeppelin, linus torvalds, mapping party, openstreet map, oscar wilde, pedro almodóvar, raul seixas, rubem alves, sin city, the big bang theory, the it crowd, the picture of dorian gray, the raincoats, youtube
-
-.. figure:: {filename}/images/djavanfagundes.png
-   :alt: Djavan Fagundes: GNOME Brasil
-   :figclass: pull-left clear article-figure
-
-   Djavan Fagundes: GNOME Brasil
+:image: images/djavanfagundes.png
+:image-alt: Djavan Fagundes: GNOME Brasil
 
 Olá pessoal e sejam muito bem-vindos à mais um episódio, desta vez com uma
 novidade: vídeo com os bastidores e a prórpria entrevista pelo **Youtube**!

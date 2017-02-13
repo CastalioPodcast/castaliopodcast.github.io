@@ -13,10 +13,8 @@ Episódio 62: Diego Rodrigo Santos - SobreCervejas
 :description: O assunto do episódio de hoje é um pouco diferente dos
               episódios antigos, mas na minha opinião não deixa de ser
               super interessante: Cervejas!!!
-
-.. figure:: {filename}/images/diegorodrigosantos.jpg
-   :alt: Diego Rodrigo Santos - SobreCervejas
-   :figclass: pull-left clear article-figure
+:image: images/diegorodrigosantos.jpg
+:image-alt: Diego Rodrigo Santos - SobreCervejas
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

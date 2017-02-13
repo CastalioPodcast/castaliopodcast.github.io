@@ -5,10 +5,8 @@ Episódio 57: Episódio de Natal - Parte 1
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-57/castalio-podcast-57.mp3
 :tags: grokpodcast, hack 'n' cast, natal, podcast
-
-.. figure:: {filename}/images/natal.jpg
-   :alt: Episódio de Natal - Parte 1
-   :figclass: pull-left clear article-figure
+:image: images/natal.jpg
+:image-alt: Episódio de Natal - Parte 1
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

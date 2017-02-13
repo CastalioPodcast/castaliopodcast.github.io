@@ -5,12 +5,8 @@ Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-46/castalio-podcast-46.mp3
 :tags: .net, 2pay, amanaiê, arduino, at&t, at&t latin america, audacity, carlos brando, carlosbrando os, databasecast, directv, dreamhost, erlang, fábio akita, founders at work: stories of startups' early days, garage band, google hangout, grokpodcast, iweb, iweb hosting, jason fried, jessica livingston, josé valim, paypal, php, portugal telecom group, python, rafael rosa fu, rails podcast brasil, rdio, rework, ruby inside, ruby on rails, rubyconf, scala, sky, skype, sociably, surgeworks, sushi, telecom group, visa, webbynode, wikipedia, wordpress, x4 internet development solutions
-
-.. figure:: {filename}/images/grokpodcast.png
-   :alt: Carlos Brando e Rafael Rosa Fu: GrokPodcast
-   :figclass: pull-left clear article-figure
-
-   Carlos Brando e Rafael Rosa Fu: GrokPodcast
+:image: images/grokpodcast.png
+:image-alt: Carlos Brando e Rafael Rosa Fu: GrokPodcast
 
 Olá pessoal e sejam muito bem vindos ao primeiro episódio de outubro!  Desta
 vez eu tive a oportunidade de conversar pelo **Google Hangout** com o **Carlos

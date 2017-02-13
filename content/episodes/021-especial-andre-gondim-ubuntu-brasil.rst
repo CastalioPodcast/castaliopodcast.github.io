@@ -5,12 +5,8 @@ Episódio Especial: André Gondim - Ubuntu Brasil
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-21/castalio-podcast-21.mp3
 :tags: andré gondim, andré noel, canonical, fábio nogueira, fisl, fridge, gnome, launchpad, lxde, rafael higino, rosetta, ubuntu, xfce
-
-.. figure:: {filename}/images/andregondim.png
-   :alt: André Gondim - Ubuntu Brasil
-   :figclass: pull-left clear article-figure
-
-   André Gondim - Ubuntu Brasil
+:image: images/andregondim.png
+:image-alt: André Gondim - Ubuntu Brasil
 
 Olá pessoal! Foi com um enorme pezar que eu recebi a `notícia`_ sobre
 o falecimento de `André Gondim`_, uma figura do software livre Brasileiro que,

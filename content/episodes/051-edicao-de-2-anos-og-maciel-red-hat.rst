@@ -5,12 +5,8 @@ Edição de 2 Anos - Og Maciel: Red Hat
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-51/castalio-podcast-51.mp3
 :tags: .net, bitbucket, fabiano fidêncio, fedora linux, fernando collor de mello, foresight linux, gentoo linux, github, gnome, google reader, google summer of code, irc, kurtkraut, lxde, miguel de icaza, og mandino, openbox, oracle, pl/sql, python, red hat, richard stallman, rpath, scrum, selenium, slackware linux, twitter, ubuntu brasil, ubuntu linux, ubuntu uds, visual basic, xfce
-
-.. figure:: {filename}/images/ogmaciel.jpg
-   :alt: Og Maciel: Red Hat
-   :figclass: pull-left clear article-figure
-
-   Og Maciel: Red Hat
+:image: images/ogmaciel.jpg
+:image-alt: Og Maciel: Red Hat
 
 Usando um velho cliché, realmente parece que foi somente ôntem que eu e
 o Evandro, um dia batendo papo pelo Skype, resolvemos iniciar um

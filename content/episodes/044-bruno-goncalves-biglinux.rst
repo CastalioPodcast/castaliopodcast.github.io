@@ -5,12 +5,8 @@ Bruno Gonçalves: BigLinux
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3
 :tags: bigbashview, biglinux, br-linux, bruno gonçalves, canonical, carlos morimoto, chapolin, chavez, chuck berry, compiz, conectiva linux, debian linux, distrowatch, elvis presley, fórum biglinux, fórum hard science, fórum outer space, fórum ubuntu br, fluxbox, forum nix, frejat, gimp, gnome, gnumeric, icewm, icq, ivan brasil fuzzer, kalango linux, kde, kurumin linux, mark shuttleworth, metisse, mint linux, nvidia, o grande dragão branco, opencast, openoffice, opensuse linux, planet hemp, planet kde, python, qt webkit, raul seixas, red hat, rocky, scarface, ubuntu linux, ultrage a rigor, união livre, vladimir melo
-
-.. figure:: {filename}/images/brunogoncalves.jpg
-   :alt: Bruno Gonçalves: BigLinux
-   :figclass: pull-left clear article-figure
-
-   Bruno Gonçalves: BigLinux
+:image: images/brunogoncalves.jpg
+:image-alt: Bruno Gonçalves: BigLinux
 
 Na semana passada eu tive o grande prazer e honra de participar do `Opencast`_
 em um `episódio`_ onde discutimos várias coisas relacionadas à distribuições

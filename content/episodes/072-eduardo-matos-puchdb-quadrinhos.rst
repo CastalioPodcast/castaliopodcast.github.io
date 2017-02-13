@@ -8,10 +8,8 @@ Episódio 72: Eduardo Matos - PouchDB e Quadrinhos
 :description: Hoje, conversamos com o Eduardo Matos que nos conta o que é
               offline first e PouchDB além de falar sobre sua paixão por
               quadrinhos.
-
-.. figure:: {filename}/images/eduardomatos.jpg
-   :alt: Eduardo Matos - PouchDB e Quadrinhos
-   :figclass: pull-left clear article-figure
+:image: images/eduardomatos.jpg
+:image-alt: Eduardo Matos - PouchDB e Quadrinhos
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

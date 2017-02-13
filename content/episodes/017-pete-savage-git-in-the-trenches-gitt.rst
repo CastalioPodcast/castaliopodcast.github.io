@@ -5,12 +5,8 @@ Pete Savage: Git In The Trenches (GITT)
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-17/castalio-podcast-17.mp3
 :tags: alchemy reigns, edubuntu, emblem divide, ethestra, geekdeck, git, git in the trenches, glade, green day, gtk, inception, j-pop, j-rock, kamikaze girls, lagwagon, mike oldfield, night watch, progbox, python, sergei lukyanenko, slashdot, tamagoyaki, the prestige, ubuntu, english
-
-.. figure:: {filename}/images/petesavage.png
-   :alt: Pete Savage: Git In The Trenches
-   :figclass: pull-left clear article-figure
-
-   Pete Savage: Git In The Trenches
+:image: images/petesavage.png
+:image-alt: Pete Savage: Git In The Trenches
 
 First off I'd like to welcome all the new visitors to this podcast's
 **17th episode** and the very **first one** done in **English**! This

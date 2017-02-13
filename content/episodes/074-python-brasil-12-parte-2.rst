@@ -8,10 +8,8 @@ Episódio 74: Python Brasil 12 - Parte 2
 :description: Como prometido segue a continuação das entrevistas na Python Brasil 12
               com alguns integrantes do projeto Serenata de Amor, e também uma
               entrevista sobre um assunto bastante interessante com o Turicas.
-
-.. figure:: {filename}/images/pybr-logo.png
-   :alt: Python Brasil
-   :figclass: pull-left clear article-figure
+:image: images/pybr-logo.png
+:image-alt: Python Brasil
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

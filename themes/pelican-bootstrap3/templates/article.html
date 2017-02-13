@@ -71,7 +71,7 @@
     {% set IS_ARTICLE = True %}
     <section id="content">
         <article>
-            <header class="page-header">
+            <div class="post-body" style="margin-left: 0px">
                 <h1>
                     <a href="{{ SITEURL }}/{{ article.url }}"
                        rel="bookmark"
@@ -79,18 +79,18 @@
                         {{ article.title }}
                     </a>
                 </h1>
-                <div class="panel-body">
-                    {% include "includes/article_info.html" %}
+                {% include "includes/article_info.html" %}
+                {% if article.featured_image %}
+                <div class="pull-left clear article-figure figure">
+                    <img alt="{{ article.featured_image_alt }}" src="{{ article.featured_image }}"/>
                 </div>
-            </header>
-            <div class="entry-content">
+                {% endif %}
                 {{ article.content }}
+                {% include 'includes/taglist.html' %}
+                {% include 'includes/related-posts.html' %}
+                {% include 'includes/addthis.html' %}
+                {% include 'includes/comments.html' %}
             </div>
-            <!-- /.entry-content -->
-            {% include 'includes/taglist.html' %}
-            {% include 'includes/related-posts.html' %}
-            {% include 'includes/addthis.html' %}
-            {% include 'includes/comments.html' %}
         </article>
     </section>
 

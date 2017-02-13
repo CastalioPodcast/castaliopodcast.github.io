@@ -8,10 +8,8 @@ Episódio 78: Gabriel Engel - Rocket.Chat
 :description: Hoje, conversamos com o Gabriel Engel que nos conta
               sobre o Rocket.Chat. Ele fala sobre o início do projeto, os
               recursos que ele possui e quais a tecnologias utilizadas.
-
-.. figure:: {filename}/images/gabrielengel.jpg
-   :alt: Gabriel Engel - Rocket.Chat
-   :figclass: pull-left clear article-figure
+:image: images/gabrielengel.jpg
+:image-alt: Gabriel Engel - Rocket.Chat
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

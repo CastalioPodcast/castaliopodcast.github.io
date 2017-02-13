@@ -9,10 +9,8 @@ Episódio 81: Book Review: As Vinhas da Ira e Novidades da Semana
 :description: Hoje, trazemos mais um book review com o livro As Vinhas da Ira
               por John Steinbeck. Também trazemos algumas novidades da semana
               com notícias, pacotes e projetos interessantes.
-
-.. figure:: {filename}/images/as-vinhas-da-ira.jpg
-   :alt: As Vinhas da Ira por John Steinbeck
-   :figclass: pull-left clear article-figure
+:image: images/as-vinhas-da-ira.jpg
+:image-alt: As Vinhas da Ira por John Steinbeck
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

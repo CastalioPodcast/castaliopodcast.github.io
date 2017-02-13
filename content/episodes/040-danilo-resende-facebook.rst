@@ -5,12 +5,8 @@ Danilo Resende: Facebook
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-40/castalio-podcast-40.mp3
 :tags: a rede social, amélie, api, ben harper, dominguinhos, facebook, flávio ribeiro, hackathon, inception, introdução a algorítimos, jack johnson, javascript, mark zuckerberg, martinho da vila, netflix, non disclosure agreement, o clube da luta, o homem que desafiou o diabo, o poderoso chefão i, o poderoso chefão ii, pelejas de ojuara, programming perl, samba, sistema de controle de versão, skype, the art of motocycle repair, the visual display of quantitative information, ubuntero, universidade federal de campinas grande, vale do silício, yamandu costa, youtube, zen
-
-.. figure:: {filename}/images/daniloresende.png
-   :alt: Danilo Resende: Facebook
-   :figclass: pull-left clear article-figure
-
-   Danilo Resende: Facebook
+:image: images/daniloresende.png
+:image-alt: Danilo Resende: Facebook
 
 Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez com uma
 novidade: uma participação especial do **Ivan Brasil Fuzzer**, criador

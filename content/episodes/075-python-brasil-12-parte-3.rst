@@ -8,10 +8,8 @@ Episódio 75: Python Brasil 12 - Parte 3
 :description: Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento,
               quais os tipos de conteúdo que foram abordados, como está a comunidade
               atualmente e o encerramento do evento dentro da Oktoberfest.
-
-.. figure:: {filename}/images/pybr-logo.png
-   :alt: Python Brasil
-   :figclass: pull-left clear article-figure
+:image: images/pybr-logo.png
+:image-alt: Python Brasil
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -53,7 +51,7 @@ inclusive sobre um Keynote a respeito de outra linguagem de programação, já q
 tradição nos eventos da Python Brasil sempre ter um convidado para falar sobre outra linguagem.
 
 Também nos contaram quais foram os temas mais abordados pelos palestrantes e como
-voltaram com a conta do celular mais cara por ter ficado jogando Pokemon via 
+voltaram com a conta do celular mais cara por ter ficado jogando Pokemon via
 SMS durante uma dessas palestras.
 
 

@@ -5,12 +5,8 @@ Alexandre Gaigalas: Yahoo
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3
 :tags: android, breaking bad, cakephp, css, cygwin, daniel lima, dependency injection, deus, dexter, django framework, dom inspector, editor nano, editor vim, firebug, firefox, firefox web browser, formato atom, formato json, github, google maps, google search, grok podcast, house of cards, html, http, infoq, internet explorer, java script, mad men, mamonas assassinas, marissa mayer, marissa meyer, megadeth, metodologia ágil, netflix, nodejs, os jogos da vida, php, php documenter, php engine, programação extrema explicada, rafael rosa fu, rails framework, rdf, respect config, respect doc, respect project, respect rest, restful, rfc1626, richard dawkins, safary web browser, selenium, shadow gallery, sublime text, tableless, the lean startup, top gear, ubuntu linux, um delírio, vinícius magalhães peres, visual studio 2012, web semântica, web socket, william sanders, windows 8, windows poer shell, xml schema, yahoo, yahoo mail, yahoo memo, yahoo profile
-
-.. figure:: {filename}/images/alexandregaigalas.jpg
-   :alt: Alexandre Gaigalas: Yahoo
-   :figclass: pull-left clear article-figure
-
-   Alexandre Gaigalas: Yahoo
+:image: images/alexandregaigalas.jpg
+:image-alt: Alexandre Gaigalas: Yahoo
 
 Seja bem-vindo à mais um episódio, desta vez com o `Alexandre Gaigalas`_ que
 trabalha como **engenheiro de software** da **Yahoo** no Brasil! Durante nosso

@@ -10,10 +10,8 @@ Episódio 65: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment
               comprada pela Intel em 2012, além de seu
               envolvimento no projeto Enlightenment, e finalmente
               sobre o seu Top 5.
-
-.. figure:: {filename}/images/gustavobarbieri.jpg
-   :alt: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment
-   :figclass: pull-left clear article-figure
+:image: images/gustavobarbieri.jpg
+:image-alt: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

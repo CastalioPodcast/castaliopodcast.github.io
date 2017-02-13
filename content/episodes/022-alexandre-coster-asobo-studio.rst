@@ -4,12 +4,8 @@ Alexandre Coster: Asobo Studio
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-22/castalio-podcast-22.mp3
-
-.. figure:: {filename}/images/alexandrecoster.jpg
-   :alt: Alexandre Coster - Asobo Studio
-   :figclass: pull-left clear article-figure
-
-   Alexandre Coster - Asobo Studio
+:image: images/alexandrecoster.jpg
+:image-alt: Alexandre Coster - Asobo Studio
 
 No episódio de hoje conversei com o **Alexandre Coster**, um \ **Game
 Programmer** trabalhando para a **Asobo Studio** em **Bordeaux**, na

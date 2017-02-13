@@ -5,12 +5,8 @@ Felipe Ribeiro: Spotify
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-38/castalio-podcast-38.mp3
 :tags: ac/dc, back to the future, being geek, caike souza, creedence clearwater revival, ensaio sobre a cegueira, explosions in the sky, facebook, fisl, flávio ribeiro, forrest gump, groove shark, inception, java script, linkedin, memcache, mysql, pandora, pearl jam, php, php conference, programming pearls, rdio, spotify, starman: truth behind the legend of yuri gagarin, the algorithm design manual, the bad and the ugly, the big lebowski, the good, the hichhiker's guide to the galaxy, tuenti, will farrel, wolfmother, youtube
-
-.. figure:: {filename}/images/feliperibeiro.jpg
-   :alt: Felipe Ribeiro: Spotify
-   :figclass: pull-left clear article-figure
-
-   Felipe Ribeiro: Spotify
+:image: images/feliperibeiro.jpg
+:image-alt: Felipe Ribeiro: Spotify
 
 Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para
 comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para

@@ -10,10 +10,8 @@ Episódio 64: Thiago Avelino - OpenMining e SambaPorno
               OpenMining, fazendo dinheiro com o SambaPorno, sua
               experiência vendendo uma "startup" em New Jersey, e
               finalmente sobre o seu Top 5!
-
-.. figure:: {filename}/images/thiagoavelino.png
-   :alt: Thiago Avelino - vim-bootstrap
-   :figclass: pull-left clear article-figure
+:image: images/thiagoavelino.png
+:image-alt: Thiago Avelino - vim-bootstrap
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 

@@ -15,10 +15,8 @@ Episódio 95: Plataforma de Desenvolvimento da Microsoft - Parte 1
               utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e
               Azure. Para nos ajudar a explorar este assunto, temos a presença
               do Giovanni Bassi.
-
-.. figure:: {filename}/images/episode-95.png
-   :alt: Plataforma de Desenvolvimento da Microsoft
-   :figclass: pull-left clear article-figure
+:image: images/episode-95.png
+:image-alt: Plataforma de Desenvolvimento da Microsoft
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

@@ -5,12 +5,8 @@ Lucas Rocha - The Board (Parte 2)
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-11/castalio-podcast-11.mp3
 :tags: agatha chistie, beleza americana, cinema paradiso, clutter, coffeescript, donald a. norman, gjs, gstreamer, guadec, ikea, jason fried, john coltrane, john coultrane, jquery, litl, macgyver, martrix, matrix, miles davis, mongodb, node.js, pekka himanen, plasma, the board, tim burton
-
-.. figure:: {filename}/images/lucasrocha.jpg
-   :alt: Lucas Rocha - The Board
-   :figclass: pull-left clear article-figure
-
-   Lucas Rocha - The Board
+:image: images/lucasrocha.jpg
+:image-alt: Lucas Rocha - The Board
 
 Esta é a segunda parte da minha entrevista com o **Lucas Rocha**,
 contribuinte super conhecido do projeto **GNOME**. Desta vez conversamos

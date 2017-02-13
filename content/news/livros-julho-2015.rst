@@ -5,11 +5,8 @@ Livros - Julho 2015
 :category: Notícia
 :tags: Mario Vargas Llosa, Junot Díaz, Ernest Cline, Arthur Conan Doyle, Luciano Ramalho, Azar Nafisi, J. J. Abrams, Harper Lee, C. S. Lewis, Neal Stephenson, Raymond Chandler, Ray Bradbury, Michael Lopp, Erich Maria Remarque
 :description:
-
-
-.. figure:: https://omaciel.fedorapeople.org/book_review.png
-   :alt: Livros - Julho 2015
-   :figclass: pull-left clear article-figure
+:image: https://omaciel.fedorapeople.org/book_review.png
+:image-alt: Livros - Julho 2015
 
 Este mês de **julho** eu viajei para o escritório da **Red Hat** em **Brno**, na **República Tcheca** para passar algum tempo com os meus companheiros de equipe por lá, e eu consegui encontrar bastante tempo para ler entre longas viagens de avião e um jet lag horrível por muitas noites :) Então, eu finalmente consegui terminar alguns dos livros que tinham acumulado na minha lista de leitura e até mesmo consegui, enfim, ler alguns dos livros que, juntos, compõem as **Crônicas de Nárnia**, já que eu nunca tinha os lido quando criança.
 

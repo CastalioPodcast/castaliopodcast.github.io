@@ -8,10 +8,8 @@ Episódio 80: Kenneth Reitz - Python Requests
 :description: Hoje, conversamos com o Kenneth Reitz criador do Python Requests.
     Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou
     a programar ate os dias de hoje.
-
-.. figure:: {filename}/images/kennethreitz.jpg
-   :alt: Kenneth Reitz - Python Requests
-   :figclass: pull-left clear article-figure
+:image: images/kennethreitz.jpg
+:image-alt: Kenneth Reitz - Python Requests
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -77,7 +75,7 @@ find time to take those pictures, which makes him relax and be a better worker.
 
 It could not be an episode with Kenneth if we did not talk about Python
 Requests. We talked about how Python Requests started and how it evolved into
-what it is today. It is worth to mention that Kenneth is really thankful for 
+what it is today. It is worth to mention that Kenneth is really thankful for
 all the love Requests receives and the importance it has to the community. We from
 Castálio Podcast, and we hope our listeners too, are very thankful to Kenneth for
 building it.

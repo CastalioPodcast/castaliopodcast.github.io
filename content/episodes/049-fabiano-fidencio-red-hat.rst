@@ -5,12 +5,8 @@ Fabiano Fidêncio: Red Hat
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3
 :tags: gnome, gnome boxes, google summer of code, libosinfo, profusion, red hat, red hat linux
-
-.. figure:: {filename}/images/fabianofidencio.jpg
-   :alt: Fabiano Fidêncio: Red Hat
-   :figclass: pull-left clear article-figure
-
-   Fabiano Fidêncio: Red Hat
+:image: images/fabianofidencio.jpg
+:image-alt: Fabiano Fidêncio: Red Hat
 
 Para o primeiro episódio de 2013 eu tive o prazer de entrevistar o **Fabiano
 Fidêncio**, recém contratado pela **Red Hat**! Durante nosso bate-papo

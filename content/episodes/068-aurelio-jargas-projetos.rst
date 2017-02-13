@@ -9,10 +9,8 @@ Episódio 68: Aurelio Jargas - Projetos
               Conversamos sobre alguns projetos que ele desenvolveu, uma
               ferramenta para testar comandos de linha de comando e o tão
               esperado Top 5.
-
-.. figure:: {filename}/images/aureliojargas.jpg
-   :alt: Aurelio Jargas - Conectiva e Livros
-   :figclass: pull-left clear article-figure
+:image: images/aureliojargas.jpg
+:image-alt: Aurelio Jargas - Conectiva e Livros
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

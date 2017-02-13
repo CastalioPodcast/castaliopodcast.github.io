@@ -10,10 +10,8 @@ Episódio 86: Linguagem de Programação Go - Parte 1
               escolhido para esse episódio é a linguagem de programação Go, e
               para tornar a conversa ainda mais interessante, teremos dois
               convidados o Thiago Avelino e o Cesar Gimenes.
-
-.. figure:: {filename}/images/go-lang.png
-   :alt: Go Lang
-   :figclass: pull-left clear article-figure
+:image: images/go-lang.png
+:image-alt: Go Lang
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

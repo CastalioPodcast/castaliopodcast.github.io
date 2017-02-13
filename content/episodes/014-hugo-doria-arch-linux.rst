@@ -5,12 +5,8 @@ Hugo Dória - Arch Linux
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-14/castalio-podcast-14.mp3
 :tags: admirável mundo novo, arch linux, arch sheriff, black sabath, br-linux, br-mac, cavaleiros do zodíaco, de volta para o futuro, deep purple, game of thrones, ghost in the shell, hntool, iron maiden, led zeppelin, matrix, metallica, nirvana, pacupdate, pink floyd, popcode, samurai x, senhor dos anéis, steppenwolf
-
-.. figure:: {filename}/images/hugodoria.png
-   :alt: Hugo Dória - Arch Linux
-   :figclass: pull-left clear article-figure
-
-   Hugo Dória - Arch Linux
+:image: images/hugodoria.png
+:image-alt: Hugo Dória - Arch Linux
 
 O meu entrevistado de hoje é o `Hugo Dória`_, que para mim foi por muito tempo
 sinônimo do `Arch Linux`_ no Brasil. Durante nosso bate-papo conversamos sobre

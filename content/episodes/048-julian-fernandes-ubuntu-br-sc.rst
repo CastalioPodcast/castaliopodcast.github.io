@@ -5,12 +5,8 @@ Julian Fernandes: Ubuntu BR SC
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3
 :tags: ubuntu br sc
-
-.. figure:: {filename}/images/julianfernandes.png
-   :alt: Julian Fernandes: Ubuntu BR SC
-   :figclass: pull-left clear article-figure
-
-   Julian Fernandes: Ubuntu BR SC
+:image: images/julianfernandes.png
+:image-alt: Julian Fernandes: Ubuntu BR SC
 
 Demorou mais chegou!!! Devido a `problemas pessoais`_ eu infelizmente fiquei
 um pouco sem tempo para agendar as minhas entrevistas, mas te garanto que foi

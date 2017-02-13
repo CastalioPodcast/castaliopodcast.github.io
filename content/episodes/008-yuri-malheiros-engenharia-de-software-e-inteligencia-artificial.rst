@@ -4,14 +4,8 @@ Yuri Malheiros - Engenharia de Software e Inteligência Artificial
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-08/castalio-podcast-08.mp3
-
-.. figure:: {filename}/images/yurimalheiros.jpg
-   :alt: Yuri Malheiros - Engenharia de Software e Inteligência
-   :figclass: pull-left clear article-figure
-
-   Artificial
-
-   Yuri Malheiros - Engenharia de Software e Inteligência Artificial
+:image: images/yurimalheiros.jpg
+:image-alt: Yuri Malheiros - Engenharia de Software e Inteligência Artificial
 
 Desta vez o convidado deste episódio não é de Belo Horizonte! :) Durante
 uma quinta-feira nublada em North Carolina, tive uma chance de conversar

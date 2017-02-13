@@ -5,12 +5,8 @@ Rodrigo Padula de Oliveira: UFRJ
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-27/castalio-podcast-27.mp3
 :tags: 2001 uma odisséia no espaço, a arte da guerra, a profecia, ac/dc, aristóteles, beatles, canonical, compiz, conectiva linux, engenheiros do hawai, fedora linux, formato odf, forrest gump, gnome board of directors, gnome shell, hugo cisneiro, ira, iron maiden, izabel valverde, jack johnson, jonh wendell, karen sandler, libre office, linked.in, linux plus magazine, microsoft academic alliance, microsoft office, microsoft windows, navegador firefox, navegador internet explorer, netflix, netscape, o exorcista, o senhor dos anéis, platão, projeto fedora, projeto gnome, projeto kde, projeto mozilla, raul seixas, red hat linux, sistemas operacionais modernos, slackware linux, starfish and the spider, stormy peters, ufrj, utopia
-
-.. figure:: {filename}/images/rodrigopadula.png
-   :alt: Rodrigo Padula
-   :figclass: pull-left clear article-figure
-
-   Rodrigo Padula
+:image: images/rodrigopadula.png
+:image-alt: Rodrigo Padula
 
 Olá pessoal e sejam muito bem-vindos ao **primeiro episódio de 2012**!
 Desta vez entrevistei o **Rodrigo Padula**, amigo de algum tempo pela

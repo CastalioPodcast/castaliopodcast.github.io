@@ -5,12 +5,8 @@ Evandro Pastor: Quarto Estudio
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-19/castalio-podcast-19.mp3
 :tags: ana white, código livre cast, chrome, conectiva linux, dreamweaver, firefox, foresight linux, gimp, illustrator, inkscape, itunes, photoshop, quarto estudio, safari, text expander, textmate, textwrangler, wordpress
-
-.. figure:: {filename}/images/evandropastor.png
-   :alt: Evandro Pastor
-   :figclass: pull-left clear article-figure
-
-   Evandro Pastor
+:image: images/evandropastor.png
+:image-alt: Evandro Pastor
 
 No episódio de hoje vocês vão ter a oportunidade de conhecer um pouco
 melhor o **Evandro Pastor**, co-fundador deste podcast e amigo de guerra

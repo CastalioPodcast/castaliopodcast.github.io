@@ -4,12 +4,8 @@ Próximo Episódio: Carlos Ribeiro - RadioTray
 :author: Og Maciel
 :category: Notícia
 :tags: carlos ribeiro, radiotray
-
-.. figure:: {filename}/images/radiotray.png
-   :alt: RadioTray
-   :figclass: pull-left clear article-figure
-
-   RadioTray
+:image: images/radiotray.png
+:image-alt: RadioTray
 
 Olá pessoal! Só queria avisar que o meu próximo convidado será o **Carlos
 Ribeiro** do projeto `RadioTray`_! O Carlos vai estar falando direto de

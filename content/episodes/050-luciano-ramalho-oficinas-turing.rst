@@ -5,12 +5,8 @@ Luciano Ramalho: Oficinas Turing
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-50/castalio-podcast-50.mp3
 :tags: arduino, associação python brasil, c++, cms, coding dojo, django, flask, fortran, garoa hacker clube, github, global arrays, hackerspace, henrique bastos, hora extra, ipython, kivy toolkit, petrobras, plone, plone foundation, pycon, pylons, pyramid, python, rasberry pi, slideshare, speakerdeck, turbogears, web2py, zodb, zope, zope brasil
-
-.. figure:: {filename}/images/lucianoramalho.jpg
-   :alt: Luciano Ramalho: Oficinas Turing
-   :figclass: pull-left clear article-figure
-
-   Luciano Ramalho: Oficinas Turing
+:image: images/lucianoramalho.jpg
+:image-alt: Luciano Ramalho: Oficinas Turing
 
 Um dias destes eu estava procurando documentação sobre umas coisas da
 linguagem python quando me deparei com uma apresentação do **Luciano

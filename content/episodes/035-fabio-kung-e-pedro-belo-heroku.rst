@@ -5,12 +5,8 @@ Fábio Kung e Pedro Belo: Heroku
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-35/castalio-podcast-35.mp3
 :tags: activerecord, adaptation, amazon cloud, being john malkovich, brainfuck, bruce eckel, certificado ssl, cloud foundry, clube da luta, cold play, dotcloud, dreamhost, drinkup, effective c++, emulador de nes, erlang, framework django, fringe, game of thrones, git, github, google, google appengine, hacker news, heroku, hybernate, jabberd, java, júlio monteiro, json, kenneth reitz, kindle, man pages, meetup, mozilla, nginx, node.js, o senhor dos anéis, php, pj harvey, platform as a service, python, python requests, queens of the stone age, radio head, railsconf, red hat, rpath, ruby, ruby on rails, spring mvc, supernatural, survival, tempwatch, the atomic bitchwax, the big bang theory, the black keys, the girl with the dragon tatoo, vale do silício, vampire diaries, whitespace, wikipedia, windows azzure, yukihiro matsumoto
-
-.. figure:: {filename}/images/heroku.png
-   :alt: Fábio Kung e Pedro Belo: Heroku
-   :figclass: pull-left clear article-figure
-
-   Fábio Kung e Pedro Belo: Heroku
+:image: images/heroku.png
+:image-alt: Fábio Kung e Pedro Belo: Heroku
 
 Olá pessoal e sejam bem-vindos à mais um episódio, desta vez com dois
 convidados: **Fábio Kung** e **Pedro Belo**, que atualmente trabalham na

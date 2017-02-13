@@ -5,12 +5,8 @@ Gabriel Falcão: Yipit
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-32/castalio-podcast-32.mp3
 :tags: bamboo, banco do brasil, banda lettuce, behavior driven development, belo horizonte, bernardo heynemann, big band theory, bolacha, c++, capybara, cucumber, daft punk, dead parrot, debconf, debian linux, desenvolvimento agile, dexter, django, djangocon, github, glib, globo.com, gnome, gnu/linux, groupon, gtk, guake, guy ritchie, hbase, httpretty, integração contínua, jenkins, jogos mortais, kde, lettuce, licença gpl, licença mit, linguagem python, linguagem ruby, little joy, lock, mac os, mgmt, music for programming, new york city, node.js, peixe urbano, pyccuracy, qt, rspec, salad, selenium, servidor apache, sherlock holmes, skink, socket.io, software livre, stock and two smoking barrels, strokes, técnica scrum, teste unitário, tilda, two door cinema club, ubuntu linux, uncle bob, white collar, white stripes, windows, yakauke, yipit
-
-.. figure:: {filename}/images/gabrielfalcao.jpg
-   :alt: Gabriel Falcão: YipIt
-   :figclass: pull-left clear article-figure
-
-   Gabriel Falcão: YipIt
+:image: images/gabrielfalcao.jpg
+:image-alt: Gabriel Falcão: YipIt
 
 Olá pessoal e sejam muito bem-vindos ao episódio 32 do Castálio Podcast!
 Desta vez eu tive o enorme prazer de conversar com o **Gabriel Falcão**,

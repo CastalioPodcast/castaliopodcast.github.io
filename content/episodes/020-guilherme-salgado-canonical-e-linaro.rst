@@ -5,12 +5,8 @@ Guilherme Salgado: Canonical e Linaro
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-20/castalio-podcast-20.mp3
 :tags: arm, async, canonical, linaro, ubuntu
-
-.. figure:: {filename}/images/guilhermesalgado.jpg
-   :alt: Guilherme Salgado: Canonical e Linaro
-   :figclass: pull-left clear article-figure
-
-   Guilherme Salgado: Canonical e Linaro
+:image: images/guilhermesalgado.jpg
+:image-alt: Guilherme Salgado: Canonical e Linaro
 
 O convidado de hoje é o **Guilherme Salgado**. Durante nosso bate-papo,
 conversamos sobre como que ele começou a usar computadores e **Linux**,

@@ -5,12 +5,8 @@ João Fernando Costa Júnior: Revista Espírito Livre
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-25/castalio-podcast-25.mp3
 :tags: agentes do destino, angra, apollo 18, bíblia, br-linux, cloud computing, criminal minds, dexter, dream fitter, enya, estadão, folha, ghostscript, gimp, google docs, gtalk, inkscape, john maddog, kitaro, legião urbana, libre office, matrix, mentalist, night wish, o senhor dos anéis, pdf, revista espírito livre, scribus, source code, stratovarious, super 8, v de vingança, with temptation, xfce, xubuntu
-
-.. figure:: {filename}/images/joaojunior.jpg
-   :alt: João Fernando Costa Junior
-   :figclass: pull-left clear article-figure
-
-   João Fernando Costa Junior
+:image: images/joaojunior.jpg
+:image-alt: João Fernando Costa Junior
 
 O entrevistado deste episódio é o **João Fernando Costa Júnior**,
 criador e mantenedor da `Revista Espírito Livre`_, "uma publicação em

@@ -9,10 +9,8 @@ Episódio 73: Python Brasil 12 - Parte 1
               gravadas ao vivo durante o evento Python Brasil 12 com o
               organizador do evento, Mário Sergio, e uma entrevista em inglês
               com Naomi Ceder da Python Software Foundation.
-
-.. figure:: {filename}/images/pybr-logo.png
-   :alt: Python Brasil
-   :figclass: pull-left clear article-figure
+:image: images/pybr-logo.png
+:image-alt: Python Brasil
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -39,7 +37,7 @@ também sobre algo que deseja muito fazer quando não está desenvolvendo.
 .. figure:: {filename}/images/pybr12-mario-sergio.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando o Mário Sergio
    :figclass: clear clearfix center-block
-   
+
    Elyézer, Mário Sergio e Bruno Rocha na cafeteria da PythonBrasil[12].
 
 Em seguida falamos com a Naomi Ceder, que faz parte do conselho de administração
@@ -53,7 +51,7 @@ saindo.
 .. figure:: {filename}/images/pybr12-naomi-ceder.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando a Naomi Ceder
    :figclass: center-block
-   
+
    Elyézer, Naomi Ceder e Bruno Rocha na Sambaqui 3 (um dos auditórios da conferência)
 
 Você já deve estar se perguntando do Top 5. Bom, como foram entrevistas

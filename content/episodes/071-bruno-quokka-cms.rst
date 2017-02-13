@@ -8,10 +8,8 @@ Episódio 71: Bruno Rocha - Quokka CMS
 :description: Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele
               comenta sobre o Quokka CMS e outros projetos pessoais. Além
               disso, ao final do episódio, temos o tão aguardado Top 5.
-
-.. figure:: {filename}/images/brunorocha.jpg
-   :alt: Bruno Rocha - Quokka CMS
-   :figclass: pull-left clear article-figure
+:image: images/brunorocha.jpg
+:image-alt: Bruno Rocha - Quokka CMS
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 

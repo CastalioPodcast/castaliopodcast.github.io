@@ -4,12 +4,8 @@ Luciana Fujii Pontelo - GNOME Women Outreach Program
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-04/castalio-podcast-04.mp3
-
-.. figure:: {filename}/images/lucianapontelo.png
-   :alt: GNOME Women Outreach Program
-   :figclass: pull-left clear article-figure
-
-   GNOME Women Outreach Program
+:image: images/lucianapontelo.png
+:image-alt: GNOME Women Outreach Program
 
 Neste episódio tive a oportunidade de entrevistar a **Luciana Fujii
 Pontelo**, uma das duas brasileiras que participaram do ﻿último **GNOME

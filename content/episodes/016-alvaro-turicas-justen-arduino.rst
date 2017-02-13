@@ -5,12 +5,8 @@
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-16/castalio-podcast-16.mp3
 :tags: android, apollo 13, arduino, bottle, brazuino, david halliday, django, douglas adams, eagle, elua, fisl, flask, frets on fire, getting started with arduino, guitar hero, guns and roses, holoscópio, howard anton, inception, infected mushroom, iron maiden, iron man, júlio neves, making things talk, massimo banzi, matrix, nirvana, o guia do mochileiro das galáxias, pearl jam, potiche, qcad, robert resnick, severino, shell script, tiny os, tom igoe, turiquinhas, uma mente brilhante, web2py, zope
-
-.. figure:: {filename}/images/alvarojusten.png
-   :alt: Álvaro "Turicas" Justen - Arduino
-   :figclass: pull-left clear article-figure
-
-   Álvaro "Turicas" Justen - Arduino
+:image: images/alvarojusten.png
+:image-alt: Álvaro "Turicas" Justen - Arduino
 
 No episódio de hoje conversei com o **Álvaro "Turicas" Justen** sobre um monte
 de coisas relacionadas ao **Arduino**, e como usá-lo junto com vários outros

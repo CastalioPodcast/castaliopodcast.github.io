@@ -5,12 +5,8 @@ Episódio Zero: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-01/castalio-podcast-01.mp3
 :tags: podcast
-
-.. figure:: {filename}/images/episodiozero.jpg
-   :alt: Episódio Zero
-   :figclass: pull-left clear article-figure
-
-   Episódio Zero
+:image: images/episodiozero.jpg
+:image-alt: Episódio Zero
 
 Apresentando o primeiro episódio do **Castalio**. O entrevistado neste episódio
 é o `Og Maciel`_, conhecido contribuinte do mundo do software livre, e atual

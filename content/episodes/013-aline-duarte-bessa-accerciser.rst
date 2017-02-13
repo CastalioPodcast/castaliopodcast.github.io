@@ -5,12 +5,8 @@ Aline Duarte Bessa - Accerciser
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-13/castalio-podcast-13.mp3
 :tags: accerciser, bloody valentine, colivre, david bowie, fernando de castro ferro, fiction press, gabriel garcia marquez, hacktoons, john hughes, juliana cunha, julio cortazar, krzysztof kieslowski, orca, rails, smiths, television, velvet underground, virginia wolfe, xkcd
-
-.. figure:: {filename}/images/alinebessa.jpg
-   :alt: Aline Duarte Bessa - Accerciser
-   :figclass: pull-left clear article-figure
-
-   Aline Duarte Bessa - Accerciser
+:image: images/alinebessa.jpg
+:image-alt: Aline Duarte Bessa - Accerciser
 
 Neste episódio bato um papo com a **Aline Duarte Bessa**, mais uma
 Brasileira que está participando do `GNOME Women Outreach Program`_

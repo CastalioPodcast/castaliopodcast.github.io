@@ -5,12 +5,8 @@ Rudá Moura: Conectiva Linux
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-24/castalio-podcast-24.mp3
 :tags: 7 anos no tibet, art of computer program, avahi, blade runner, cammel book, canonical, conectiva linux, debian linux, delillo, fedora linux, gcc, gnome, haxent, kde, knuth, kraftwerk, larry wall, matrix, mutantes, new order, novel, opensuse linux, portal terra, qt, red hat linux, revista linux, ruído branco, saramago, slackware linux, sociedade dos poetas mortos, tequila baby, ubuntu linux, winmodem, x.org, yo la tengo
-
-.. figure:: {filename}/images/rudamoura.png
-   :alt: Rudá Moura: Conectiva Linux
-   :figclass: pull-left clear article-figure
-
-   Rudá Moura: Conectiva Linux
+:image: images/rudamoura.png
+:image-alt: Rudá Moura: Conectiva Linux
 
 Dando continuidade ao plano de trazer mais uma entrevista com um membro
 do Conectiva Linux, desta vez conversei com o **Rudá Moura** que
