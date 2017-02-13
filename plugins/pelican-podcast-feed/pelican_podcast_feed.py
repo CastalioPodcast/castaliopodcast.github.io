@@ -8,6 +8,7 @@ iTunes Feed Generator for Pelican.
 from __future__ import unicode_literals
 
 
+import six
 from jinja2 import Markup
 from pelican import signals
 from pelican.writers import Writer
@@ -159,12 +160,12 @@ class PodcastFeed(Rss201rev2Feed):
             if key == 'description':
                 content = item[key]
                 handler.startElement('description', {})
-                if not isinstance(content, unicode):
-                    content = unicode(content, handler._encoding)
+                if not isinstance(content, six.text_type):
+                    content = six.text_type(content, handler._encoding)
                 content = content.replace("<html><body>", "")
                 handler._write(content)
                 handler.endElement('description')
-            elif type(item[key]) in (str, unicode):
+            elif isinstance(item[key], six.text_type):
                 handler.addQuickElement(key, item[key])
             elif type(item[key]) is dict:
                 handler.addQuickElement(key, attrs=item[key])
@@ -179,9 +180,21 @@ class iTunesWriter(Writer):
         """Class initializer"""
         super(iTunesWriter, self).__init__(*args, **kwargs)
 
-    def _create_new_feed(self, feed_type, context):
+    def _create_new_feed(self, *args):
         """Helper function (called by the super class) which will initialize
         the PodcastFeed object."""
+        if len(args) == 2:
+            # we are on pelican <2.7
+            feed_type, context = args
+        elif len(args) == 3:
+            # we are on Pelican >=2.7
+            feed_type, feed_title, context = args
+        else:
+            # this is not expected, let's provide a useful message
+            raise Exception(
+                'The Writer._create_new_feed signature has changed, check the '
+                'current Pelican source for the updated signature'
+            )
         self.context = context
         description = self.settings.get('PODCAST_FEED_SUMMARY', '')
         title = (self.settings.get('PODCAST_FEED_TITLE', '') or
