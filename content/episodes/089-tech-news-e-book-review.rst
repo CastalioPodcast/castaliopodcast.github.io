@@ -191,7 +191,7 @@ Novidades e Dicas de Python
 Book Review
 ===========
 
-Hoje temos um convidado especial, o **Thiago Perrota** que já foi entrevistado
+Hoje temos um convidado especial, o **Thiago Perrotta** que já foi entrevistado
 aqui no `episódio 66 <http://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html>`_ 
 fez o review do livro `Ready Player One <http://www.goodreads.com/book/show/9969571-ready-player-one>`_ 
 que foi o primeiro livro escrito por Ernest Cline. O livro é um romance com 
