@@ -84,11 +84,6 @@ Segue a lista de links que comentamos no episódio:
 * `Python Brasil [10]`_
 * `Porto Digital`_
 * `Manguezal`_
-*
-
-Chegamos a final dessa séria sobre a linguagem de programação Go, esperamos que
-tenha gostado. Se tem algo para compartilhar deixe aqui nos comentário ou em
-nossas redes sociais.
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui

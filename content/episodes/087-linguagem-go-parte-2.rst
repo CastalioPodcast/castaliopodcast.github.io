@@ -78,7 +78,7 @@ Top 5
 * `Go Programming (video de introdução a linguagem)`_
 * `Full Stack Development With Go`_
 
-Chegamos a final dessa séria sobre a linguagem de programação Go, esperamos que
+Chegamos a final dessa série sobre a linguagem de programação Go, esperamos que
 tenha gostado. Se tem algo para compartilhar deixe aqui nos comentário ou em
 nossas redes sociais.
 
