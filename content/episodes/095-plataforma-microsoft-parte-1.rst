@@ -47,7 +47,8 @@ motivos que estão levando a MS para essa nova estratégia trouxemos um convidad
 que é MVP (Most Valuable Professional), trabalha com .NET desde que foi
 lançado, tem tanta certificação Microsoft que levaria o episódio inteiro para
 citar uma por uma, é sócio fundador da Lambda3 e também podcaster no Podcast da
-Lambda3. Giovanni Bassi, seja bem vindo ao Castálio Podcast.
+Lambda3. `Giovanni Bassi <https://twitter.com/giovannibassi>`_, seja bem vindo
+ao Castálio Podcast.
 
 Neste episódio abordamos os seguintes tópicos:
 
