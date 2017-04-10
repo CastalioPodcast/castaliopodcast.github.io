@@ -28,8 +28,8 @@ SQLServer, Sharepoint, Xamarin e `Azure`_.
 
 .. more
 
-Escute enquanto lê os show notes
---------------------------------
+Escute enquanto lê o show notes
+-------------------------------
 
 .. podcast:: castalio-podcast-95
 
@@ -66,6 +66,12 @@ Neste episódio abordamos os seguintes tópicos:
   anos depois, qual a visão do Giovanni a respeito se as tecnologias Microsoft
   tem convergido para Web e APIs ou se a Microsoft continua investindo em
   Desktop?
+
+Contato
+-------
+* **Site**: http://www.lambda3.com.br/blog
+* **Twitter**: https://twitter.com/giovannibassi
+* **Github**: https://github.com/giggio
 
 Links
 -----
