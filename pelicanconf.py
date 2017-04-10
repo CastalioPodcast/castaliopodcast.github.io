@@ -78,6 +78,13 @@ SITEMAP = {
     }
 }
 
+SUBSCRIBE = [
+    ('iTunes', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
+    ('Pocket Casts', 'http://pca.st/castalio'),
+    (None, None),
+    ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
+]
+
 # Disqus configuration
 DISQUS_SITENAME = 'castliopodcast'
 GOOGLE_ANALYTICS = "UA-21449168-1"
