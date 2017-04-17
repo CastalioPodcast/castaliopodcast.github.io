@@ -66,7 +66,7 @@
 
     <link href="{{ SITEURL }}/theme/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
     {% if 'tipue_search' in PLUGINS %}
-    <link href="{{ SITEURL}}/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link href="{{ SITEURL}}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.css" rel="stylesheet">
     {% endif %}
     {% if DOCUTIL_CSS %}
         <link href="{{ SITEURL }}/theme/css/html4css1.css" rel="stylesheet">
@@ -146,11 +146,12 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
             {% if 'tipue_search' in PLUGINS %}
-              <li><span>
-                <form class="navbar-search" action="/search">
-                  <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
-                </form></span>
-              </li>
+            <form class="navbar-form navbar-left" action="{{ SEARCH_URL | default('/search.html') }}">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
             {% endif %}
               <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
             </ul>
