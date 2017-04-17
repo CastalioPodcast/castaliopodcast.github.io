@@ -45,6 +45,13 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+DIRECT_TEMPLATES = [
+    'archives',
+    'authors',
+    'categories',
+    'index',
+    'search',
+]
 STATIC_PATHS = [
     'extra',
     'images',
@@ -58,11 +65,12 @@ THEME = './themes/pelican-bootstrap3'
 PLUGIN_PATHS = ['./plugins', ]
 PLUGINS = [
     'caster',
-    'summary',
-    'feed_summary',
-    'sitemap',
-    'pelican-podcast-feed',
     'featured_image',
+    'feed_summary',
+    'pelican-podcast-feed',
+    'sitemap',
+    'summary',
+    'tipue_search',
 ]
 SUMMARY_END_MARKER = "<!-- more -->"
 
