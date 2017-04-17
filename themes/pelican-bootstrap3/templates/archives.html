@@ -12,13 +12,21 @@
 {% block content %}
     <section id="content" class="body">
         <h1>Arquivos do {{ SITENAME }}</h1>
-        <div id="archives">
+        <table id="archives" class="table table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>Data</th>
+                    <th>Título</th>
+                </tr>
+            </thead>
+            <tbody>
             {% for article in dates %}
-                <p>
-                    <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
-                    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
-                </p>
+                <tr>
+                    <td class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></td>
+                    <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a></td>
+                </tr>
             {% endfor %}
-        </div>
+            </tbody>
+        </table>
     </section>
 {% endblock %}
