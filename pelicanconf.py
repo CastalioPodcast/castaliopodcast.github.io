@@ -83,6 +83,7 @@ SITEMAP = {
 SUBSCRIBE = [
     ('iTunes', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
     ('Pocket Casts', 'http://pca.st/castalio'),
+    ('Podflix', 'https://podflix.com.br/castaliopodcast'),
     (None, None),
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
 ]
