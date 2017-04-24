@@ -72,12 +72,16 @@ async def fetch(session, url):
 async def main(loop, data):
     stats = {}
     async with aiohttp.ClientSession(loop=loop) as session:
-        for name, url in data:
-            data = await fetch(session, url)
-            stats[name] = {
-                'length': data['files']['/{}.ogg'.format(name)]['length'],
-            }
-            stats[name].update(data['item'])
+        responses = await asyncio.gather(*[
+            loop.create_task(fetch(session, url)) for name, url in data])
+
+    # By this time we have all responses and they are ordered the same order as
+    # the tasks
+    for name, response in zip([name for name, _ in data], responses):
+        stats[name] = {
+            'length': response['files']['/{}.ogg'.format(name)]['length'],
+        }
+        stats[name].update(response['item'])
     print_summary(stats)
 
 
