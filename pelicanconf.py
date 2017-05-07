@@ -37,6 +37,7 @@ SOCIAL = (
     ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
     ('Facebook', 'facebook', 'https://facebook.com/castaliopod'),
     ('iTunes', 'apple', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
+    ('YouTube', 'youtube', 'http://bit.ly/CanalCastalio'),
     ('RSS Feed', 'rss', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
 )
 
@@ -94,6 +95,7 @@ SUBSCRIBE = [
     ('Podflix', 'https://podflix.com.br/castaliopodcast'),
     (None, None),
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
+    ('YouTube', 'http://bit.ly/CanalCastalio'),
 ]
 
 # Disqus configuration
