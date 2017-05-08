@@ -60,6 +60,9 @@ Tech News
 
 * `Vídeo de apresentação do OpenShift.io <https://www.youtube.com/watch?v=X-rAAF_7nSQ>`_
 
+* `pyfora <http://docs.pyfora.com>`_ biblioteca para dividir o processamento em
+  varias máquinas.
+
 * `bpython <http://freecode.com/projects/bpython>`_
 
   * B de Better Python mas na verdade o B é de Bob Farrel, o criador do projeto
