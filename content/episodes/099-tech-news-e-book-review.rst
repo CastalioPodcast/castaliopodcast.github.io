@@ -114,7 +114,7 @@ Tech News
 
 * Caso do Facebook sobre o preconceito com as mulheres: `According to The Wall
   Street Journal
-  <https://www.wsj.com/articles/facebooks-female-engineers-claim-gender-bias-1493737116>`,
+  <https://www.wsj.com/articles/facebooks-female-engineers-claim-gender-bias-1493737116>`_,
   female engineers who work at Facebook may face gender bias `that prevents
   their code from being accepted at the same rate as male counterparts
   <https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report>`_.
