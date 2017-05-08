@@ -130,10 +130,6 @@ body {
     margin-right: 3px;
 }
 
-a, a:hover {
-    color: inherit;
-}
-
 .entry-content a {
     text-decoration: none;
     border-bottom: 1px dotted;
