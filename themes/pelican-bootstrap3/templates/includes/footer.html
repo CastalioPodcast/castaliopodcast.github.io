@@ -21,11 +21,15 @@
            <div class="col-md-3 col-md-offset-1">
                <h4>Social</h4>
                <ul id="footer-social" class="list-unstyled">
-                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
-                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
-                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
-                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
-                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+               {% for name, icon, link in SOCIAL %}
+                   {% set icon_sanitized = icon|lower|replace('+','-plus')|replace(' ','-') %}
+                   {% if icon_sanitized in ['flickr', 'spotify', 'stack-overflow', 'microphone', 'apple'] %}
+                       {% set iconattributes = 'fa fa-' ~ icon_sanitized ~ ' fa-lg' %}
+                   {% else %}
+                       {% set iconattributes = 'fa fa-' ~ icon_sanitized ~ '-square fa-lg' %}
+                   {% endif %}
+                   <li><a title="{{ name }}" href="{{ link }}"><i class="{{ iconattributes }}"></i> {{ name }}</a></li>
+               {% endfor %}
                </ul>
            </div>
 
