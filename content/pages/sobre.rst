@@ -64,12 +64,14 @@ gravações ao vivo!
 Autores
 -------
 
-.. figure:: https://avatars0.githubusercontent.com/u/53362?v=3&s=240
-   :alt: Og Maciel
-   :scale: 10 %
-   :figclass: pull-left clear
+.. raw:: html
 
-   Og Maciel.
+    <div class="media">
+    <div class="media-left">
+        <img class="media-object img-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/53362?v=3&s=240" alt="Og Maciel">
+    </div>
+    <div class="media-body">
+        <h3 class="media-heading">Og Maciel</h3>
 
 O `Castálio Podcast`_ é fruto da imaginação e curiosidade incansável
 de
@@ -80,17 +82,13 @@ dentre outros) e desempenhar vários papéis nos mesmos, hoje ele
 trabalha na `Red Hat`_, é pai de 3 filhas, curte ler livros, pescar e
 assistir hockey no gelo.
 
-
-Contato
--------
-
 -  Twitter: `@castaliopod`_
 -  E-mail: `omaciel@ogmaciel.com`_
 
 .. raw:: html
 
-    <div class="clearfix"></div>
-
+    </div>
+    </div>
 
 Colaboradores
 -------------
@@ -99,34 +97,31 @@ Também colaboram com o `Castálio Podcast`_:
 
 .. raw:: html
 
-    <div class="clearfix"></div>
-
-.. figure:: https://avatars2.githubusercontent.com/u/48132?v=3&s=240
-   :alt: Elyezer
-   :figclass: pull-left clear
-
-   Elyézer Rezende.
+    <div class="media">
+    <div class="media-left">
+        <img class="media-object img-circle img-thumbnail" src="https://avatars2.githubusercontent.com/u/48132?v=3&s=240" alt="Elyézer Rezende">
+    </div>
+    <div class="media-body">
+        <h3 class="media-heading">Elyézer Rezende</h3>
 
 Elyézer Rezende é Red Hatter, Quality Engineer, Pythonista e Open Source
 advocate. Nas horas vagas gosta de testar receitas, experimentar cervejas e
 jogar Tennis.
-
-
-Contato
--------
 
 -  Twitter: `@elyezer`_
 -  Site: `elyezer.com <http://elyezer.com>`_
 
 .. raw:: html
 
-    <div class="clearfix"></div>
+    </div>
+    </div>
 
-.. figure:: https://avatars1.githubusercontent.com/u/458654?v=3&s=240
-   :alt: Bruno Rocha
-   :figclass: pull-left clear
-
-   Bruno Rocha.
+    <div class="media">
+    <div class="media-left">
+        <img class="media-object img-circle img-thumbnail" src="https://avatars1.githubusercontent.com/u/458654?v=3&s=240" alt="Bruno Rocha">
+    </div>
+    <div class="media-body">
+        <h3 class="media-heading">Bruno Rocha</h3>
 
 Bruno Rocha é Herbívoro, Animalista, Louco por Tofu, Nomeado Pastor da Igreja
 do Monstro de Espaguete Voador, Bicicleteiro, Pythonista (uma filosofia de vida
@@ -136,15 +131,14 @@ alguns projetos de código aberto, e claro, defensor do código livre e dos dado
 livres e nas horas vagas também é Artista de Software no time de Qualidade da
 Red Hat.
 
-Contato
--------
-
 -  Twitter: `@rochacbruno`_
 -  Site: `brunorocha.org <http://brunorocha.org>`_
 
 .. raw:: html
 
-    <div class="clearfix"></div>
+    </div>
+    </div>
+
     <hr />
 
 Licença
