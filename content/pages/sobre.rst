@@ -2,7 +2,41 @@ Sobre
 #####
 :slug: sobre-o-castalio
 :date: 2011-01-22 16:00
-:author: Og Maciel
+:author: Og Maciel, Elyézer Rezende, Bruno Rocha
+
+
+O Castálio é um podcast semanal publicado todas as segundas às 11 horas. Og,
+Elyézer e Bruno falam sobre tecnologia, desenvolvimento de software, linguagens
+de programação e o mundo do Open Source!
+
+Além de entrevistas com pessoas da comunidade de tecnologia e open source,
+também temos os episódios temáticos e os 'Tech News', trazendo as principais
+notícias e dicas de bibliotecas e novas tecnologias. Além disso, o Og Maciel
+traz um pouco de seu interesse em literatura com os Book Reviews.
+
+De vez em quando às quartas, gravamos os episódios ao vivo pelo
+YouTube e você está convidado a participar!  Basta se inscrever
+no `Canal do Castálio <http://youtube.com/c/CastalioPodcast>`_ e
+acompanhar nosso `Twitter <http://twitter.com/castaliopod>`_ ou `Facebook
+<http://facebook.com/castaliopod>`_ para ficar sabendo quando estaremos  ao vivo!
+
+Como surgiu o Castálio?
+-----------------------
+
+O Castálio Podcast é fruto da imaginação e curiosidade incansável de Og Maciel,
+um brasileiro que desde 1991 mora nos Estados Unidos mas que nunca deixou de
+prestigiar suas raizes!
+
+Em 2014 Elyézer se juntou à equipe e no final de 2016 Bruno Rocha também
+foi convidado a participar como membro do time Castálio!
+
+Em 2017 o podcast completou 6 anos(!!!) e nós gravamos um
+`episódio de comemoração
+<http://castalio.info/episodio-88-episodio-especial-de-6-anos.html>`_
+contando algumas curiosidades.
+
+O que significa "Castálio" ?
+----------------------------
 
 Castália é o nome de uma **náiade** (uma ninfa aquática) que foi
 transformada por Apolo em nascente de água, perto de **Delfos** (a
@@ -12,14 +46,16 @@ Castália inspirava o génio poético daqueles que bebessem das suas águas
 ou ouvissem o movimento das suas águas. A água sagrada também era usada
 para as limpezas dos templos em Delfos.[Fonte: `wikipedia`_]
 
-Com o objetivo de entrevistar e ao mesmo tempo apresentar pessoas e
-projetos que sejam fonte de inspiração para os ouvintes, este podcast
-trará de 15 em 15 dias uma nova vítima, err figura Brasileira que será
-sabatinada de todos os ângulos para o seu deleite!
+Para saber mais sobre como o nome foi escolhido escute o `primeiro episódio
+<http://castalio.info/episodio-zero-og-maciel.html>`_.
 
-Caso você tenha alguma
-sugestão para o nosso próximo convidado, nos envie sua idéia para o
-nosso e-mail.
+Participe
+---------
+
+Caso você tenha alguma sugestão para o nosso próximo convidado, nos envie sua
+idéia para o nosso e-mail e inscreva-se em `nosso canal
+<http://youtube.com/c/CastalioPodcast>`_ para participar das
+gravações ao vivo!
 
 .. raw:: html
 
@@ -28,7 +64,7 @@ nosso e-mail.
 Autores
 -------
 
-.. figure:: {filename}/images/ogmaciel.jpg
+.. figure:: https://avatars0.githubusercontent.com/u/53362?v=3&s=240
    :alt: Og Maciel
    :scale: 10 %
    :figclass: pull-left clear
@@ -65,7 +101,7 @@ Também colaboram com o `Castálio Podcast`_:
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/elyezer.jpg
+.. figure:: https://avatars2.githubusercontent.com/u/48132?v=3&s=240
    :alt: Elyezer
    :figclass: pull-left clear
 
@@ -86,7 +122,7 @@ Contato
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/rochacbruno.jpg
+.. figure:: https://avatars1.githubusercontent.com/u/458654?v=3&s=240
    :alt: Bruno Rocha
    :figclass: pull-left clear
 
