@@ -14,34 +14,25 @@ acompanhar nosso `Twitter <http://twitter.com/castaliopod>`_ ou `Facebook
 Abaixo está a nossa agenda de episódios confirmados, a confirmar e temas sugeridos
 pelos nossos ouvintes.
 
-Caso você tenha alguma sugestão para o nosso próximo tema ou convidado,
-deixe aqui nos comentários e inscreva-se em `nosso canal
-<http://youtube.com/c/CastalioPodcast>`_ para participar das
-gravações ao vivo!
+Caso você tenha alguma sugestão para o nosso próximo tema ou convidado, deixe
+aqui nos comentários e inscreva-se em `nosso canal
+<http://youtube.com/c/CastalioPodcast>`_ para receber as notificações e
+participar das gravações ao vivo!
 
 .. raw:: html
 
-    <div class="clearfix"></div>
-    <div class="col-xs-12 text-center">
-
+    <div class="alert alert-warning">
+       <strong>Atenção:</strong> A agenda está sujeita a alterações e sempre
+       anunciaremos no Twitter e Facebook no dia da gravação.
     </div>
 
     <div class='row'>
-    <div class='col-sm-2'></div>
-    <div class='col-sm-8'>
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe src="https://docs.google.com/spreadsheets/d/1Ix1n7-Xo_0hOuXVmLz_yd2tX6BCMhyO1bECXsA1ioLk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+        <div class='col-sm-10 col-sm-offset-1'>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://docs.google.com/spreadsheets/d/1Ix1n7-Xo_0hOuXVmLz_yd2tX6BCMhyO1bECXsA1ioLk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+            </div>
         </div>
     </div>
-    <div class='col-sm-2'></div>
-    </div>
-
-.. raw:: html
-
-    <blockquote>
-       <h3>Atenção:</h3>
-       <p> A agenda está sujeita a alterações e sempre anunciaremos no Twitter e Facebook no dia da gravação.</p>
-    </blockquote>
 
 Sugestão de tema ou convidado?
 ------------------------------
