@@ -5,8 +5,8 @@ Episódio 104: Caipyra 2017
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-104/castalio-podcast-104.mp3
 :tags:
-:description: Hoje, vamos falar a respeito do `Caipyra`_ o único evento de
-              Python com quentão e paçoquinha! Que acontece de 23 à 27 de junho
+:description: Hoje, vamos falar a respeito do `Caipyra`_, o único evento de
+              Python com quentão e paçoquinha, que acontece de 23 à 27 de junho
               de 2017 em Ribeirão Preto.  Contamos com a participação da
               `Jéssica Temporal`_ e do `Guilherme Tavares`_ (também conhecido
               como Xexa), dois dos organizadores do evento, para nos contar
@@ -16,8 +16,8 @@ Episódio 104: Caipyra 2017
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Hoje, vamos falar a respeito do `Caipyra`_ o único evento de Python com quentão
-e paçoquinha! Que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto.
+Hoje, vamos falar a respeito do `Caipyra`_, o único evento de Python com quentão
+e paçoquinha, que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto.
 Contamos com a participação da `Jéssica Temporal`_ e do `Guilherme Tavares`_
 (também conhecido como Xexa), dois dos organizadores do evento, para nos contar
 como foi no ano passado e o que esperar do evento este ano.
