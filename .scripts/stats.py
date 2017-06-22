@@ -52,7 +52,8 @@ def print_summary(stats):
     most_downloaded = max(*stats.items(), key=lambda x:x[1]['downloads'])
     least_downloaded = min(*stats.items(), key=lambda x:x[1]['downloads'])
 
-    for name, data in sorted(stats.items()):
+    episodegetter = lambda i: int(i[0].split('-')[-1])
+    for name, data in sorted(stats.items(), key=episodegetter):
         print('{}: {}'.format(name, data['downloads']))
 
     print()
