@@ -37,7 +37,7 @@ SOCIAL = (
     ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
     ('Facebook', 'facebook', 'https://facebook.com/castaliopod'),
     ('iTunes', 'apple', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
-    ('YouTube', 'youtube', 'http://bit.ly/CanalCastalio'),
+    ('YouTube', 'youtube', 'http://youtube.com/castaliopodcast'),
     ('RSS Feed', 'rss', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
 )
 
@@ -147,3 +147,13 @@ DISQUS_DISPLAY_COUNTS = True
 
 # Show article info in the index
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
+
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+MENUITEMS = (
+    ('Sobre', '/sobre-o-castalio.html'),
+    ('Agenda', '/agenda.html'),
+    ('Episódios', '/archives.html'),
+    ('Episodes', '/tag/english.html'),
+    ('YouTube', '/youtube.html')
+)

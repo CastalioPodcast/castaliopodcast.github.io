@@ -10,7 +10,7 @@ Episódio 106: Dan Bader
        permutation city, cat's cradle, clean code, the clean coder, the
        simpsons, star trek, spinal tap, jiro dreams of sushi, ex machina,
        radiohead, radiohead - amnesiac, pink floyd, pink floyd - animals, the
-       beatles, the beatles - past master volume two,
+       beatles, the beatles - past master volume two, english
 :description: Nosso convidado de hoje se intitula “a complete python nut”,
               gosta de cozinhar comida vegetariana, é o autor do livro `Python
               Tricks`_, recentemente se tornou o mantenedor do site
