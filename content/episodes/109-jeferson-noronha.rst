@@ -1,6 +1,6 @@
 Episódio 109: Jeferson Noronha - Canal LinuxTips
 ################################################
-:date: 2017-07-16
+:date: 2017-07-17
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-109/castalio-podcast-109.mp3
