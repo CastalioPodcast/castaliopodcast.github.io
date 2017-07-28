@@ -46,7 +46,6 @@ class Podcast(Directive):
             <div class="podcast-download">
                 <span class="label label-success"><a href="https://archive.org/download/{title}/{title}.mp3"><i class="fa fa-download"></i> Download MP3</a></span>
                 <span class="label label-success"><a href="https://archive.org/download/{title}/{title}.ogg"><i class="fa fa-download"></i> Download OGG</a></span>
-                <span class="label label-success"><a href="https://archive.org/download/{title}/{title}.m4a"><i class="fa fa-download"></i> Download M4A</a></span>
             </div>
         </div>
         """.format(title=title, podcast_rss=rss, podcast_itunes=itunes)
