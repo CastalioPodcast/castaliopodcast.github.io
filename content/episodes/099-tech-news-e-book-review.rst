@@ -126,6 +126,10 @@ Tech News
   with women holding just 17 percent of technical roles and 27 percent of
   leadership positions."
 
+Assista a gravação do episódio:
+
+.. youtube:: F30Jp73PKXo
+
 Book Review
 -----------
 

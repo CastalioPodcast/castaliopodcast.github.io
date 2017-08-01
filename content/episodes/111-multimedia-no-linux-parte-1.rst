@@ -54,13 +54,7 @@ automática para corte de impressões. A Barbara também mostrou o `gLabels`_ qu
 faz mala direta no Inkscape. Para ver os demos e a gravação deste episódio
 confira o vídeo abaixo:
 
-.. raw:: html
-
-    <p class="clearfix">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HzwWFJgBAMU" allowfullscreen></iframe>
-      </div>
-    </p>
+.. youtube:: HzwWFJgBAMU
 
 Fizemos o `sorteio <https://sorteador.com.br/sorteador/resultado/878388>`_ (ao
 vivo na gravação) do livro Desconstruindo a Web do William Molinari e o

@@ -62,11 +62,7 @@ py.test e Selenium
 
 Segue a gravação que está disponível em nosso `canal do YouTube`_.
 
-.. raw:: html
-
-    <div style="position:relative;height:0;padding-bottom:56.25%">
-      <iframe src="https://www.youtube.com/embed/kVGqZJsbn-Q?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
-    </div>
+.. youtube:: kVGqZJsbn-Q
 
 Ainda não ouviu? escute agora!
 ------------------------------

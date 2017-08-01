@@ -65,6 +65,7 @@ EXTRA_PATH_METADATA = {
 THEME = './themes/pelican-bootstrap3'
 PLUGIN_PATHS = ['./plugins', ]
 PLUGINS = [
+    'castalio',
     'caster',
     'featured_image',
     'feed_summary',

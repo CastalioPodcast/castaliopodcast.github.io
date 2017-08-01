@@ -77,13 +77,7 @@ tuned for the next episode, we will announce the winners.
 
 Check the video below for the recording of this episode:
 
-.. raw:: html
-
-    <p class="clearfix">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uZ-IrwCKGFg" allowfullscreen></iframe>
-      </div>
-    </p>
+.. youtube:: uZ-IrwCKGFg
 
 Before finishing the post, we would like to thank everyone who left comments.
 If you have something to say, leave your comments here on the website, or our

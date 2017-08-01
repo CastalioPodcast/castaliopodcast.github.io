@@ -66,13 +66,7 @@ Abordamos os seguintes tópicos:
 
 Confira a gravação deste episódio no vídeo abaixo:
 
-.. raw:: html
-
-    <p class="clearfix">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6eETLbi9gKQ" allowfullscreen></iframe>
-      </div>
-    </p>
+.. youtube:: 6eETLbi9gKQ
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus

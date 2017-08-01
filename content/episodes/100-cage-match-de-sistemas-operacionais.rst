@@ -145,6 +145,9 @@ convidamos você para segui-los nas redes sociais e conferir seus trabalhos:
   * `Twitter @hackncast <https://twitter.com/hackncast>`_
   * `Twitter @rictm <https://twitter.com/rictm>`_
 
+Assista a gravação do episódio:
+
+.. youtube:: 8n1QB_FPxjE
 
 Ainda não ouviu? escute agora!
 ------------------------------

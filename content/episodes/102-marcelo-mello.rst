@@ -43,13 +43,7 @@ os projetos de automatização do Home Assistant com `Python`_. Além disso, ele
 uma demonstração do Home Assistant que ele esta utilizando para automatizar a
 sua casa. Para assistir a demonstração, assista a gravação do episodio:
 
-.. raw:: html
-
-    <p class="clearfix">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hZq8ucpzjCs" allowfullscreen></iframe>
-      </div>
-    </p>
+.. youtube:: hZq8ucpzjCs
 
 Em seguida não podíamos deixar faltar o Top 5, confira as sugestões do Marcelo.
 
