@@ -1,11 +1,8 @@
 {% if article.tags %}
-<div class="well article-tags">
-    <span class="label label-default">Tags</span>
-    {% for tag in article.tags %}
-        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-        {% if not loop.last %}
-            /
-        {% endif %}
-    {% endfor %}
+<div id="article-tags">
+  <h2>Tags</h2>
+  {% for tag in article.tags %}
+  <a class="label label-primary" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+  {% endfor %}
 </div>
 {% endif %}
