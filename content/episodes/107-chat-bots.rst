@@ -57,13 +57,7 @@ Bader <http://castalio.info/episodio-106-dan-bader.html>`_. Os sorteados foram:
 
 Confira a gravação deste episódio no vídeo abaixo:
 
-.. raw:: html
-
-    <p class="clearfix">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UCToxnuNKQo" allowfullscreen></iframe>
-      </div>
-    </p>
+.. youtube:: UCToxnuNKQo
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus

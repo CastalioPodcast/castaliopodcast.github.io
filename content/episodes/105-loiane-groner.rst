@@ -78,13 +78,7 @@ Confira as recomendações que a Loiane deixou no Top 5 de hoje.
 
 Confira a gravação do episódio no vídeo abaixo:
 
-.. raw:: html
-
-    <p class="clearfix">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4t3MlJ64_qs" allowfullscreen></iframe>
-      </div>
-    </p>
+.. youtube:: 4t3MlJ64_qs
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
