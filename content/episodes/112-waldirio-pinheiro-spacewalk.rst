@@ -13,11 +13,11 @@ Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
 Nosso convidado de hoje, assim como o `Marcelo Mello
 <http://castalio.info/episodio-102-marcelo-mello-red-hat-e-home-assistant.html>`_,
-também trabalha na Red Hat, também possui um monte de certificações da Sun
+também trabalha na Red Hat, e também possui um monte de certificações da Sun
 Microsystems, LPI e da Red Hat! Ele atua na área de computação desde 1999,
 possui graduação em Ciência da Computação, extensão em Geofísica do Petróleo e
-pós-graduação em Geologia do Petróleo e Gás. Hoje em dia ele é Arquiteto de
-Soluções na Red Hat e escreveu um livro chamado Spacewalk: o Projeto do Red Hat
+pós-graduação em Geologia do Petróleo e Gás. Hoje em dia ele é Engenheiro na Red Hat 
+e escreveu um livro chamado Spacewalk: o Projeto do Red Hat
 Satellite. É com grande prazer que nós recebemos nosso convidado de hoje,
 Waldirio Manhães Pinheiro.
 
