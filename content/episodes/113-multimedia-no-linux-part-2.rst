@@ -4,8 +4,12 @@ Episódio 113: Multimedia no Linux - Parte 2
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-113/castalio-podcast-113.mp3
-:tags: danilo bellini, audiolazy, ardour, audacity
-:description:
+:tags: danilo j. s. bellini, audiolazy, ardour, audacity, AviX, Reaper, Adobe Audition, 
+       LMMS, Hydrogen, Fruit Loops, Pro Tools, Sox, ffmpeg, Csound, Pure Data, Faust, 
+       SuperCollider, War Eternal, Arch Enemy, Sacred Power of Raging Winds, Rhapsody, 
+       Aces High, Iron Maiden, Erotomania, Dream Theater, The Call of the Mountains, 
+       Eluveitie, Wikipedia, Game of Thrones, Vikings, One Piece, Shōnen, Seinen, Dexter
+:description: Produção e edição de áudio no Linux com Danilo J. S. Bellini
 :image: images/epiode-113.png
 :image-alt: Multimedia no Linux - Parte 2
 
@@ -17,10 +21,10 @@ sobre produção gráfica, 3D com Blender e edição de vídeo. Mas hoje a nossa
 estará voltada para um tema pouco falado e que é muito importante também para produção
 de vídeo, produção musical e é claro para edição de podcasts.
 
-Para falar sobre produção e edição de áudio no Linux hoje trouxemos o Danilo Bellini que
-é engenheiro eletricista, bacharel em música e mestre em ciência da computação pela USP.
-Ele é também o criador do `AudioLazy`_, uma biblioteca de áudio escrita em Python que
-te permite fazer um monte de coisas bacanas na hora de editar áudio.
+Para falar sobre produção e edição de áudio no Linux hoje trouxemos o Danilo J. S. 
+Bellini que é engenheiro eletricista, bacharel em música e mestre em ciência da computação
+pela USP. Ele é também o criador do `AudioLazy`_, uma biblioteca de áudio escrita em Python
+que te permite fazer um monte de coisas bacanas na hora de editar áudio.
 
 .. more
 
@@ -73,14 +77,17 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/danilo-bellini.jpg" alt="Danilo Bellini" width="200px">
+                <img class="media-object img-circle img-thumbnail" src="/images/danilo-bellini.jpg" alt="Danilo J. S. Bellini" width="200px">
             </div>
             <div class="media-body">
-                <h4 class="media-heading">Danilo Bellini</h4>
+                <h4 class="media-heading">Danilo J. S. Bellini</h4>
                 <ul class="list-unstyled">
                     <li><i class="fa fa-github"></i> <a href="https://github.com/danilobellini">Github</a></li>
                     <li><i class="fa fa-bitbucket"></i> <a href="https://bitbucket.org/danilobellini/">BitBucket</a></li>
                     <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/danilobellini">Twitter</a></li>
+                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/djsbellini">Facebook</a></li>
+                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/danilo-j-s-bellini-66a96310/">LinkedIn</a></li>
+                    <li><i class="fa fa-slideshare"></i> <a href="http://slideshare.net/djsbellini/">SlideShare</a></li>
                 </ul>
             </div>
             </div>
@@ -96,7 +103,7 @@ Escute Agora
 Top 5
 -----
 
-* **Música**: `Arch Enemy`_
+* **Música**: `War Eternal`_ por `Arch Enemy`_
 * **Música**: `Sacred Power of Raging Winds`_ por `Rhapsody`_
 * **Música**: `Aces High`_ por `Iron Maiden`_
 * **Música**: `Erotomania`_ por `Dream Theater`_
@@ -109,7 +116,7 @@ Top 5
 * **Filme**: `Vikings`_
 * **Filme**: Animes
 * **Filme**: `One Piece`_
-* **Filme**: Shonen and Sane
+* **Filme**: `Shōnen`_ e `Seinen`_
 * **Filme**: `Dexter`_
 
 Links
@@ -142,6 +149,7 @@ Links
 .. _YouTube: https://www.youtube.com/c/CastalioPodcast
 
 .. _Arch Enemy: https://www.last.fm/music/Arch+Enemy
+.. _War Eternal: https://www.last.fm/music/Arch+Enemy/_/War+Eternal
 .. _Sacred Power of Raging Winds: https://www.last.fm/music/Rhapsody/_/Sacred+Power+of+Raging+Winds
 .. _Rhapsody: https://www.last.fm/music/Rhapsody
 .. _Aces High: https://www.last.fm/music/Iron+Maiden/_/Aces+High
@@ -154,6 +162,8 @@ Links
 .. _Game of Thrones: http://www.imdb.com/title/tt3014700/
 .. _Vikings: http://www.imdb.com/title/tt2306299/
 .. _One Piece: http://www.imdb.com/title/tt0388629/
+.. _Shōnen: https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga
+.. _Seinen: https://en.wikipedia.org/wiki/Seinen_manga
 .. _Dexter: http://www.imdb.com/title/tt0773262/
 
 
