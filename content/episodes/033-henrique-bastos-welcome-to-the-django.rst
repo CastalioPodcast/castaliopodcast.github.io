@@ -130,7 +130,7 @@ Links
 -  `.NET`_
 -  `C#`_
 -  `VB.Net`_
--  `DataK7`_
+-  `Datassette`_
 -  `Garr Reynolds`_
 -  `Charles Petzold`_
 -  `Código Morse`_
@@ -206,13 +206,13 @@ Links
 .. _.NET: https://duckduckgo.com/?q=.NET
 .. _C#: https://duckduckgo.com/?q=C#
 .. _VB.Net: https://duckduckgo.com/?q=VB.Net
-.. _DataK7: https://duckduckgo.com/?q=DataK7
+.. _Datassette: https://datassette.org/
 .. _Garr Reynolds: https://duckduckgo.com/?q=Garr+Reynolds
 .. _Charles Petzold: https://duckduckgo.com/?q=Charles+Petzold
 .. _Código Morse: https://duckduckgo.com/?q=Código+Morse
 .. _Ellen Wood: https://duckduckgo.com/?q=Ellen+Wood
 .. _Hugo Doria: https://duckduckgo.com/?q=Hugo+Doria
-.. _PDFs: http://www.datacassete.com.br/
+.. _PDFs: http://www.datassete.org/revistas/input/
 .. _1: http://devinrio.com.br/2009
 .. _2: http://devinrio.com.br/
 .. _3: http://vimeo.com/channels/devinrio
