@@ -40,21 +40,21 @@ Mariatta Wijaya.
 
     <div class="clearfix"></div>
 
-We went through the following topics:
+During this interview we covered the following topics:
 
 * What is her involvement with movies and animation.
-* How her did become a Python Core Developer.
-* What is a PEP (Python Enhancement Proposal) and how the process of writing,
-  submitting and get it approved is. Also how is Guido's role in the PEPs
-  review process.
-* Interesting PEPs: some that her liked and was accepted and some which did
+* How she became a Python Core Developer.
+* What is a PEP (Python Enhancement Proposal) and what is the process of
+  writing, submitting and getting it approved. Also, what is the Guido's role
+  in the PEPs review process.
+* Interesting PEPs: some that she liked and was accepted and some which did
   not.
-* Does f-strings contradicts the Zen of Python "one way of doing things" quote?
-* Is python community a well document project? The texts formats chosen by
-  Python community could be at fault?
+* Does f-strings contradict the Zen of Python "one way of doing things" quote?
+* Is Python community a well documented project? The text formats chosen by
+  Python could be at fault?
 * How a new contributor can get started contributing to the documentation
-  effort and what is the tasks that needs help.
-* Creation of the game called tic_tac_taco_pizza and the reason of choosing
+  effort and what are the tasks that need help.
+* Creation of the game called tic_tac_taco_pizza and the reason for choosing
   flit instead of plain setuptools.
 * How is the PyCascades event itself, what type of talks should one expect to
   see and is it too late to submit talks?
