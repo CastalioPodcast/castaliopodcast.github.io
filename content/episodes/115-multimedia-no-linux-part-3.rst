@@ -24,7 +24,7 @@ Linux. Nos episódios anteriores nós já falamos um pouco sobre `GIMP e Inkscap
 `Audacity e AudioLazy`_ e hoje vamos falar sobre edição de videos no Linux. Para nos 
 ajudar nós trouxemos o Dionatan Simioni (também conhecido como DioLinux), fundador do
 `DioLinux`_ um dos canais sobre Linux mais conhecidos do Youtube no Brasil e utiliza software
-livre no Linux para editar os videos do se canal.
+livre no Linux para editar os videos do seu canal.
 
 
 .. more
@@ -43,8 +43,8 @@ Durante nosso bate-papo, os seguintes tópicos foram abordados:
 * Vale a pena pagar por softwares proprietários para trabalhos profissionais?
 * Existe alguma limitação no KDEnlive ? 
 * Como é a curva de aprendizado para edição com o KDEnlive?
-* Demo sobre o KDEnlive mostrando alguns do seus recursos, exemplos de transição, como aplicar efeitos, opções para exportar o video, etc
-* Em termos professionais, é necessário saber usar software proprietario para se conseguir um bom trabalho? Teria você alguma desvantagem por somente conhecer software open source? 
+* Demo (que pode ser assistido pelo YouTube) sobre o KDEnlive mostrando alguns do seus recursos, exemplos de transição, como aplicar efeitos, opções para exportar o vídeo, etc
+* Em termos professionais, é necessário saber usar software proprietário para se conseguir um bom trabalho? Teria você alguma desvantagem por somente conhecer software open source? 
 
   
 Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no `YouTube`_ e para ver a
