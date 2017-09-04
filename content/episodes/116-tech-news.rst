@@ -44,53 +44,55 @@ Tech News
 * O Jeferson do canal `Linux Tips`_ (que foi nosso entrevistado no `episódio 109`_)
   está publicando gratuitamente o `Curso Descomplicando Docker`_.
 
-* O grupo `Rust Lang Brasil no Telegram`_ iniciou há algumas semanas as lives no Youtube
-  que acontecem todas as terça-feiras às 22h no `Canal Rust BR`_ e todos
-  interessados em aprender `Rust`_ estão convidados a participar via Youtube
-  e também colocar a mão na massa nos exercicios do `exercism`_ que são
-  resolvidos via `tmate`_ durante a transmissão.
+* O grupo `Rust Lang Brasil no Telegram`_ iniciou há algumas semanas as lives
+  no Youtube que acontecem todas as terça-feiras às 22h no `Canal Rust BR`_.
+  Todos interessados em aprender `Rust`_ estão convidados a participar via
+  Youtube e também colocar a mão na massa nos exercicios do `exercism`_, que
+  são resolvidos via `tmate`_ durante a transmissão.
 
-* `Kenneth Reitz`_ o desenvolvedor da conhecida bibliteca `requests`_ lançou um
-  novo projeto chamado `setup.py`_ com a intenção de ser um exemplo prático e
-  bem escrito de configuração para distribuição de pacotes em Python.
+* `Kenneth Reitz`_, o desenvolvedor da conhecida bibliteca `requests`_, lançou
+  um novo projeto chamado `setup.py`_ com a intenção de ser um exemplo prático
+  e bem escrito de configuração para distribuição de pacotes em Python.
 
 * Também relacionado com a publicação de bibliotecas Python, falamos sobre o
-  `Flit`_ que também foi tema de um `Artigo publicado no blog do Bruno Rocha`_
-  e que é uma ferramenta para simplificar a distribuição sem a necessidade de
-  um arquivo `setup.py`_
+  `Flit`_, que também foi tema de um `Artigo publicado no blog do Bruno
+  Rocha`_, e que é uma ferramenta para simplificar a distribuição de pacotes
+  Python sem a necessidade de um arquivo `setup.py`_.
 
-* O `Elyézer`_ participou de um `episódio do opencast`_ sobre o FISL 18 que
-  foi adiado e acontecerá somente no ano que vem, neste episódio também esteve
+* O `Elyézer`_ participou de um `episódio do opencast`_ sobre o FISL 18 que foi
+  adiado e acontecerá somente no ano que vem. Neste episódio também esteve
   presente o `Sady`_ que é um dos organizadores do evento.
 
 * O `Pexpect`_ é uma biblioteca escrita em Python que ajuda a rodar e controlar
   comandos de console. Ela permite responder a padrões esperados nas saídas dos
-  comandos (utilizando RegExp) permitindo a automatização da interação humana com
-  o console.
+  comandos (utilizando RegExp) permitindo a automatização da interação com
+  aplicativos de linha de comando.
 
-* Mais um projeto interessante do `Kenneth Reitz`_ é o `pipenv`_ que é descrito
-  no próprio repositório como o casamento sagrado entre `Pipfile`_, `Pip`_ e
-  `Virtualenv`_ e este projeto utiliza o `Pipfile`_, um formato alternativo
-  ao requirements.txt e que tem um maior controle na gestão de dependências
-  entre as features do `pipenv`_ estão a criação automática de um ambiente
-  virtual, a criação automática de um arquivo de dependências assim que novos
-  pacotes são instalados e a criação de um arquivo deterministico com o `lock`
-  das versões das dependências que também tem suporte a verificação de hashes.
+* Mais um projeto interessante do `Kenneth Reitz`_ é o `pipenv`_, que é
+  descrito no próprio repositório como o casamento sagrado entre `Pipfile`_,
+  `Pip`_ e `Virtualenv`_. Este projeto utiliza o `Pipfile`_, um formato
+  alternativo ao requirements.txt e que tem um maior controle na gestão de
+  dependências. Entre as features do `pipenv`_ estão, a criação automática de
+  um ambiente virtual, a criação automática de um arquivo de dependências assim
+  que novos pacotes são instalados e a criação de um arquivo determinístico com
+  o `lock` das versões das dependências que também tem suporte a verificação de
+  hashes.
 
-* Aconteceu em SP o `Workshop de Flask`_ do `Grupy-SP`_, neste workshop o material
-  utilizado no treinamento de `Flask`_ do `CursoDePython.com.br`_ foi apresentado
-  aos participantes e o código fonte disponibilizado no github do `Workshop de Flask`_.
+* Aconteceu em SP o `Workshop de Flask`_ do `Grupy-SP`_. Neste workshop o
+  material utilizado no treinamento de `Flask`_ do `CursoDePython.com.br`_ foi
+  apresentado aos participantes e o código fonte disponibilizado no github do
+  `Workshop de Flask`_.
 
-* Do `Workshop de Flask`_ surgiu o desenvolvimento de uma nova extensão para
-  o `Flask`_ chamada `Flask Simple Login`_ que traz uma forma bem fácil de inserir
+* Do `Workshop de Flask`_ surgiu o desenvolvimento de uma nova extensão para o
+  `Flask`_, o `Flask Simple Login`_, que traz uma forma bem fácil de inserir
   controle de acesso com usuário e senha a sites feitos em Flask.
 
-* O `Telegram Bot Lua`_ é um framework para desenvolvimento de bots para Telegram,
-  basta executar o webserver integrado em um servidor, configurar as chaves da API
-  do Telegram e o bot estará em funcionamento, desenvolvido com a `Linguagem Lua`_
-  o bot é bem fácil de ser customizado com novas ações e um desses exemplos é o
-  `Mattata`_ bot que já possui diversas funcionalidades e foi escrito usando este
-  framework.
+* O `Telegram Bot Lua`_ é um framework para desenvolvimento de bots para
+  Telegram. Basta executar o webserver integrado em um servidor, configurar as
+  chaves da API do Telegram e o bot estará em funcionamento. Por ser
+  desenvolvido com a `Linguagem Lua`_, o bot é bem fácil de ser customizado com
+  novas ações. O `Mattata`_ é um bot que já possui diversas funcionalidades e
+  foi escrito usando este framework.
 
 
 Sorteio de Ingressos para a RubyConf
