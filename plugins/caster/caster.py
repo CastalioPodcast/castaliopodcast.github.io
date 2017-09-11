@@ -7,50 +7,47 @@ from docutils.parsers.rst import directives, Directive
 
 
 class Podcast(Directive):
-    """ Include podcast
+    """Include podcast
 
     Usage:
     .. podcast:: TITLE
-        :rss: link
-        :itunes: link
+        :heading: Panel heading
     """
 
     required_arguments = 1
-    optional_arguments = 2
+    optional_arguments = 1
     option_spec = {
-        'rss': str,
-        'itunes': str,
+        'heading': str,
     }
-
     final_argument_whitespace = False
     has_content = False
 
     def run(self):
-
-
+        heading = self.options.get('heading', u'')
         title = self.arguments[0].strip()
 
-        rss = u''
-        itunes = u''
-
-        if 'rss' in self.options:
-            rss = self.options['rss']
-
-        if 'itunes' in self.options:
-            itunes = self.options['itunes']
-
-        HTML = u"""
+        html = u"""
         <div class="podcast text-center">
             <iframe src="https://archive.org/embed/{title}" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
             <div class="podcast-download">
-                <span class="label label-success"><a href="https://archive.org/download/{title}/{title}.mp3"><i class="fa fa-download"></i> Download MP3</a></span>
-                <span class="label label-success"><a href="https://archive.org/download/{title}/{title}.ogg"><i class="fa fa-download"></i> Download OGG</a></span>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/{title}/{title}.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/{title}/{title}.ogg"><i class="fa fa-download"></i> OGG</a>
             </div>
         </div>
-        """.format(title=title, podcast_rss=rss, podcast_itunes=itunes)
+        """.format(title=title)
 
-        return [nodes.raw('', HTML, format='html')]
+        if heading:
+            html = u"""
+            <div class="panel panel-default">
+                <div class="panel-heading">{0}</div>
+                <div class="panel-body">
+                    {1}
+                </div>
+            </div>
+            """.format(heading, html)
+
+        return [nodes.raw('', html, format='html')]
 
 
 def register():
