@@ -33,6 +33,9 @@ body {
   padding-right: 20px;
   white-space: nowrap;
 }
+.post-meta a:hover {
+  color: #fefefe;
+}
 
 .post-body .panel-body:before {
   display: block;
