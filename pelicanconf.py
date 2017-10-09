@@ -98,6 +98,7 @@ SUBSCRIBE = [
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
     ('Spotify do Castálio', 'https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg'),
     ('YouTube', 'http://bit.ly/CanalCastalio'),
+    ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),
 ]
 
 # Disqus configuration
