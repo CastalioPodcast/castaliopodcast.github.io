@@ -110,7 +110,7 @@ Top 5
 =====
 
 * **Música**: `Hurricane`_ by `Bob Dylan`_
-* **Música**: Stampede
+* **Música**: `Stampede`_ by `The Quantic Soul Orchestra`_
 * **Filme**: `Dançando no Escuro`_
 * **Filme**: `Big Fish`_
 * **Filme**: `A Vida é Bela`_
@@ -159,6 +159,8 @@ Links
 
 .. _Bob Dylan: https://www.last.fm/music/Bob+Dylan
 .. _Hurricane: https://www.last.fm/music/Bob+Dylan/_/Hurricane
+.. _Stampede: https://www.last.fm/music/The+Quantic+Soul+Orchestra/Stampede
+.. _The Quantic Soul Orchestra: https://www.last.fm/music/The+Quantic+Soul+Orchestra
 .. _Dançando no Escuro: http://www.imdb.com/title/tt0168629/
 .. _Big Fish: http://www.imdb.com/title/tt0319061/
 .. _A Vida é Bela: http://www.imdb.com/title/tt0118799/
