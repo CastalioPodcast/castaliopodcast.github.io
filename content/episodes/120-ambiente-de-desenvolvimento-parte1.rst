@@ -1,6 +1,6 @@
-=================================================
-Episódio 120: Ambiente de Desenvolvimento - Parte
-=================================================
+===================================================
+Episódio 120: Ambiente de Desenvolvimento - Parte 1
+===================================================
 
 :date: 2017-10-02
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
