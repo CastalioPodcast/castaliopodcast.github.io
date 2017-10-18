@@ -4,7 +4,7 @@ Episódio 122: Python Brasil 13
 
 :date: 2017-10-16
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-120/castalio-podcast-122.mp3
+:podcast: https://archive.org/download/castalio-podcast-122/castalio-podcast-122.mp3
 :tags: python, python brasil, pybr, pythonbrasil, belo horizonte, pybr13,
        eventos, conferencia
 :image: images/episode-122.jpg
@@ -14,14 +14,14 @@ Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
 Neste episódio teremos 3 convidados para falar um pouco de como foi a conferência
 `Python Brasil 13`_ que ocorreu entre os dias 6 e 11 de Outubro em Belo Horizonte.
-Foram 6 dias de evento oficial com palestras, tutoriais e sprints e ainda os 
-eventos adicionais como Django Day, Conexão Anitas, Workshop de Raspagem de Dados 
-e de programação assíncrona e também o tradicional encontro no bar após cada dia 
+Foram 6 dias de evento oficial com palestras, tutoriais e sprints e ainda os
+eventos adicionais como Django Day, Conexão Anitas, Workshop de Raspagem de Dados
+e de programação assíncrona e também o tradicional encontro no bar após cada dia
 de evento.
 
-Convidamos a `Júlia Kastrup`_ e o `Mayck Xavier`_, que estiveram pela primeira 
+Convidamos a `Júlia Kastrup`_ e o `Mayck Xavier`_, que estiveram pela primeira
 vez em uma Python Brasil para compartilhar como foi a experiência deles e também
-o `Igor Santos`_ que foi um dos organizadores do evento para nos contar um pouco 
+o `Igor Santos`_ que foi um dos organizadores do evento para nos contar um pouco
 do processo de organização e alguns números bem interessantes!
 
 .. more
@@ -37,15 +37,15 @@ do processo de organização e alguns números bem interessantes!
 Tópicos abordados neste episódio
 ================================
 
-1) Quantidade de participantes que estiveram pela primeira vez em uma Python 
-   Brasil e também sobre a alta no número de mulheres participantes e 
+1) Quantidade de participantes que estiveram pela primeira vez em uma Python
+   Brasil e também sobre a alta no número de mulheres participantes e
    palestrantes.
 
-2) Sobre os números do evento, quantidade total de inscritos, de palestrantes 
+2) Sobre os números do evento, quantidade total de inscritos, de palestrantes
    e de pessoas que ajudaram na organização.
 
-3) A motivação que levou a Julia, mesmo não sendo profissional da area de 
-   programação a sair do Rio de Janeiro e viajar até BH para participar de uma 
+3) A motivação que levou a Julia, mesmo não sendo profissional da area de
+   programação a sair do Rio de Janeiro e viajar até BH para participar de uma
    semana de evento.
 
 4) Sobre quais palestras e atividades mais gostaram.
@@ -53,14 +53,14 @@ Tópicos abordados neste episódio
 5) Do Chat recebemos algumas perguntas, principalmente "quando os videos estarão
    disponíveis"
 
-6) Também perguntaram no chat a respeito do impacto que a Python Brasil irá 
-   causar nas comunidades locais de MG. 
+6) Também perguntaram no chat a respeito do impacto que a Python Brasil irá
+   causar nas comunidades locais de MG.
 
 7) Aproveitamos para falar das novidades como a `Python Brasil 14`_ que será
-   em Natal em 2018, sobre a `Python Sudeste`_ que será em São Paulo, e sobre 
+   em Natal em 2018, sobre a `Python Sudeste`_ que será em São Paulo, e sobre
    a `Pycon Latin America`_ que deve acontecer em 2018.
 
-8) Nossos convidados compartilharam suas impressões a respeito dos encontros 
+8) Nossos convidados compartilharam suas impressões a respeito dos encontros
    nos bares no final de cada evento.
 
 9) Mostramos algumas fotos que você pode ver em `https://imgur.com/a/y9Ve9 <https://imgur.com/a/y9Ve9>`_
