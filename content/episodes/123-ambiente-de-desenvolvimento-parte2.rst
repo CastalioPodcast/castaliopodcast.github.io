@@ -37,7 +37,7 @@ usuário e senha e também alguns atalhos úteis para quem utiliza o terminal.
 Recados
 =======
 
-1) A temporada 2017 do Castálio vai até 01/11/2017 e então faremos uma pausa de
+1) A temporada 2017 do Castálio vai até 30/10/2017 e então faremos uma pausa de
    2 meses até Janeiro de 2017, confira em nossa `agenda
    <http://castalio.info/agenda.html>`_.
 
