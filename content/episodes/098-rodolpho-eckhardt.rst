@@ -82,7 +82,7 @@ Até o próximo episódio!
 
 Contato
 -------
-* **Twitter**: https://twitter.com/sysdharma
+* **Twitter**: https://mastodon.sdf.org/@sysdharma
 * **Site**: https://rodo.lpho.de/
 
 Escute Agora
