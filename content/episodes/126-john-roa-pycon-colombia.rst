@@ -103,7 +103,7 @@ Contact
                 <h4 class="media-heading">John Roa</h4>
                 <ul class="list-unstyled">
                     <li><i class="fa fa-github"></i> <a href="https://github.com/jhonjairoroa87">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://about.me/jhonjairoroa87">Patreon</a></li>
+                    <li><i class="fa fa-link"></i> <a href="https://about.me/jhonjairoroa87">About Me</a></li>
                     <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/johnroa27/">LinkedIn</a></li>
                     <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/jhonjairoroa87">Twitter</a></li>
                 </ul>
