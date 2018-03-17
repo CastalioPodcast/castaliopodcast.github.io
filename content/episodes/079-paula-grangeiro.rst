@@ -4,7 +4,7 @@ Episódio 79: Paula Grangeiro - Pyladies
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-79/castalio-podcast-79.mp3
-:tags: paula grangeiro, pyladies
+:tags: paula grangeiro, pyladies, opodcastedelas
 :description: Hoje, conversamos com a Paula Grangeiro que nos contou
               sobre sua tragetória com programação, meios de pagamento
               plataformas Microsoft e Python e é claro Pyladies.

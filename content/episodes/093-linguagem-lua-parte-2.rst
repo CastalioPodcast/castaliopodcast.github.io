@@ -6,7 +6,7 @@ Episódio 93: Linguagem Lua - Parte 2
 :podcast: https://archive.org/download/castalio-podcast-93/castalio-podcast-93.mp3
 :tags: lua, etiene dalcol, luaconf, sailor, programming in lua, programando em
        lua, moonscript, lapis, nginx, luajit, luarocks, open resty, django,
-       rails, torch, codecombat
+       rails, torch, codecombat, opodcastedelas
 :description: No episódio de hoje vamos falar sobre a linguagem de programação
               Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.
 :image: images/lua.png

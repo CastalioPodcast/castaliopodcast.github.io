@@ -4,7 +4,7 @@ Ana Cristina Fricke Matte: Texto Livre
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-29/castalio-podcast-29.mp3
-:tags: amadeus, associação software livre, brasnet, código davince, dexter, evidosol, fapemig, fedora linux, fisl, freenode, gt de educação do fils, inteligência adaptiva, inteligência artificial, kernel, kurt kraut, laboratório de semiótica e tecnologia, madonna, marcelo hashimoto, moodle, ning, polly twitter client, ponto de impacto, portal do professor livre na rede, praat, revista texto livre, slackware linux, software livre educacional, texto livre, ubuntu brasil, ubuntu linux, ufba, ufmg, ulgg, uml, underlinux, unesp, universidade de são paulo, universidade federal de minas gerais, windows, wordpress, xoops
+:tags: amadeus, associação software livre, brasnet, código davince, dexter, evidosol, fapemig, fedora linux, fisl, freenode, gt de educação do fils, inteligência adaptiva, inteligência artificial, kernel, kurt kraut, laboratório de semiótica e tecnologia, madonna, marcelo hashimoto, moodle, ning, polly twitter client, ponto de impacto, portal do professor livre na rede, praat, revista texto livre, slackware linux, software livre educacional, texto livre, ubuntu brasil, ubuntu linux, ufba, ufmg, ulgg, uml, underlinux, unesp, universidade de são paulo, universidade federal de minas gerais, windows, wordpress, xoops, opodcastedelas
 :image: images/anamatte.jpg
 :image-alt: Ana Cristina Fricke Matte
 

@@ -6,7 +6,7 @@ Episódio 122: Python Brasil 13
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :podcast: https://archive.org/download/castalio-podcast-122/castalio-podcast-122.mp3
 :tags: python, python brasil, pybr, pythonbrasil, belo horizonte, pybr13,
-       eventos, conferencia
+       eventos, conferencia, opodcastedelas
 :image: images/episode-122.jpg
 :image-alt: Python Brasil 13
 

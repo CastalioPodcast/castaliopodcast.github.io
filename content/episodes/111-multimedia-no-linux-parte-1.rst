@@ -7,7 +7,7 @@ Episódio 111: Multimedia no Linux - Parte 1
 :tags: linux, joão bueno, barbara tostes, gimp, inkscape, open source, glabels,
        python, william molinari, descontruindo a web, darktable, fedora design
        suite, pulp, gnugraf, graphic design stack exchange, gobject, scheme,
-       perl, ruby, gegl, gnome, g'mic, svg, design
+       perl, ruby, gegl, gnome, g'mic, svg, design, opodcastedelas
 :description: No episódio de hoje vamos falar sobre produção e edição gráfica
               no Linux. Para nos ajudar a aprender um pouco mais sobre esta
               área, nós trouxemos duas feras que manjam muito deste assunto:

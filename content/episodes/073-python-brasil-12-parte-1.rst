@@ -4,7 +4,7 @@ Episódio 73: Python Brasil 12 - Parte 1
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-73/castalio-podcast-73.mp3
-:tags: python brasil, python, mário sergio, naomi ceder, pybr12, english
+:tags: python brasil, python, mário sergio, naomi ceder, pybr12, english, opodcastedelas
 :description: Hoje, trazemos um episódio diferente com duas entrevistas
               gravadas ao vivo durante o evento Python Brasil 12 com o
               organizador do evento, Mário Sergio, e uma entrevista em inglês

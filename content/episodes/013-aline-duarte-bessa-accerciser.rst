@@ -4,7 +4,7 @@ Aline Duarte Bessa - Accerciser
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-13/castalio-podcast-13.mp3
-:tags: accerciser, bloody valentine, colivre, david bowie, fernando de castro ferro, fiction press, gabriel garcia marquez, hacktoons, john hughes, juliana cunha, julio cortazar, krzysztof kieslowski, orca, rails, smiths, television, velvet underground, virginia wolfe, xkcd
+:tags: accerciser, bloody valentine, colivre, david bowie, fernando de castro ferro, fiction press, gabriel garcia marquez, hacktoons, john hughes, juliana cunha, julio cortazar, krzysztof kieslowski, orca, rails, smiths, television, velvet underground, virginia wolfe, xkcd, opodcastedelas
 :image: images/alinebessa.jpg
 :image-alt: Aline Duarte Bessa - Accerciser
 

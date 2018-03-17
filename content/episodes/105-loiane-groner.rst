@@ -9,7 +9,7 @@ Episódio 105: Loiane Groner
        avantasia, angra, nightwish, after forever, within temptation, céline
        dion, blind guardian, game of thrones, harry potter, o guia do
        mochileiro das galáxias, crepúsculo, typescript, babel, angularjs,
-       react, jsview, reactivex, jasmine, php, python, android, ios,
+       react, jsview, reactivex, jasmine, php, python, android, ios, opodcastedelas
 :description: Nossa convidada de hoje é full-stack developer com mais de 10
               anos de experiência, trabalhou com desenvolvimento Java na IBM e
               atualmente é developer no Citibank. É uma das pessoas mais

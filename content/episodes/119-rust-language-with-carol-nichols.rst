@@ -6,7 +6,7 @@ Episode 119: Carol Nichols - Rust Language
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :podcast: https://archive.org/download/castalio-podcast-119/castalio-podcast-119.mp3
 :tags: english, rust, rustlang, rust language, language, programming, mozilla
-       systems, cpp, c, d, go, carol nichols
+       systems, cpp, c, d, go, carol nichols, opodcastedelas
 :image: images/carol-nichols.jpg
 :image-alt: Carol Nichols - Rust
 

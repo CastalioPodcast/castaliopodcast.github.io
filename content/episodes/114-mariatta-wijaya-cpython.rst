@@ -12,7 +12,7 @@ Episódio 114: Mariatta Wijaya - CPython
        christie, the hollow man, john dickson carr, black jack, the lost
        symbol, dan brown, two scoops of django, oracle database, pep 1, pep
        498, pep 517, pep 401, flit, cherry-picker, psf, python software
-       foundation, django
+       foundation, django, opodcastedelas
 :description: CPython, Python Docs, PEPs and PyCascades with Mariatta Wijaya
 :image: images/mariatta-wijaya.jpg
 :image-alt: Mariatta Wijaya

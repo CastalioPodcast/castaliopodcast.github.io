@@ -5,7 +5,7 @@ Episódio 104: Caipyra 2017
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-104/castalio-podcast-104.mp3
 :tags: caipyra, jéssica temporal, guilherme tavares, python, ribeirão preto,
-       eventos
+       eventos, opodcastedelas
 :description: Hoje, vamos falar a respeito do `Caipyra`_, o único evento de
               Python com quentão e paçoquinha, que acontece de 23 à 27 de junho
               de 2017 em Ribeirão Preto.  Contamos com a participação da

@@ -8,7 +8,7 @@ Episódio 92: Linguagem Lua - Parte 1
        playstation home, angry birds, civilization, far cry, ragnarok, world of
        warcraft, luaconf, lua devroom, luaspace, sailor, lua ladies, defold,
        löve 2d, pico-8, irc, stackoverflow, programming in lua, programando em
-       lua, moonscript, lapis, nginx, luajit,
+       lua, moonscript, lapis, nginx, luajit, opodcastedelas
 :description: No episódio de hoje vamos falar sobre a linguagem de programação
               Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.
 
