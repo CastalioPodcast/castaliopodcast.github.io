@@ -57,10 +57,6 @@ body {
     padding-bottom: 0px;
 }
 
-.list-group-item {
-    border: none;
-}
-
 .tag-0 {
     font-size: 23pt;
 }
@@ -133,12 +129,12 @@ body {
     margin-right: 3px;
 }
 
-.entry-content a {
+.entry-content p a {
     text-decoration: none;
     border-bottom: 1px dotted;
 }
 
-.entry-content a:hover {
+.entry-content p a:hover {
     text-decoration: none;
     border-bottom: 1px solid;
 }
@@ -431,4 +427,8 @@ img.align-center, .figure.align-center{
   font-weight: normal;
   line-height: 28px;
   padding: 5px 8px;
+}
+
+.host-image {
+  height: 200px !important;
 }
