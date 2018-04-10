@@ -26,13 +26,47 @@ participar das gravações ao vivo!
        anunciaremos no Twitter e Facebook no dia da gravação.
     </div>
 
-    <div class='row'>
-        <div class='col-sm-10 col-sm-offset-1'>
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe src="https://docs.google.com/spreadsheets/d/1Ix1n7-Xo_0hOuXVmLz_yd2tX6BCMhyO1bECXsA1ioLk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-            </div>
-        </div>
-    </div>
+    <table id="schedule" class="table table-bordered table-hover table-stripped">
+        <thead>
+            <tr><th>Data</th><th>Hora</th><th>Convidados</th><th>YouTube</th></tr>
+        </thead>
+        <tr id="loadingSchedule"><td colspan="4">Carregando a agenda...</td></tr>
+    </table>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase-firestore.js"></script>
+    <script>
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyANvstN_naRUktCRa0gLAYS4hruiHmsHhE",
+        authDomain: "castalio-podcast.firebaseapp.com",
+        databaseURL: "https://castalio-podcast.firebaseio.com",
+        projectId: "castalio-podcast",
+        storageBucket: "castalio-podcast.appspot.com",
+        messagingSenderId: "119890203318"
+    };
+    firebase.initializeApp(config);
+
+    var db = firebase.firestore();
+    db.collection("schedule").where("datetime", ">=", new Date()).get().then((querySnapshot) => {
+        var schedule = $('#schedule');
+        schedule.find('#loadingSchedule').remove();
+        if (querySnapshot.size > 0) {
+            querySnapshot.forEach((doc) => {
+                var data = doc.data();
+                var date = moment(data.datetime);
+                var guests = data.guests.map(g => g.name).join(', ');
+                var youtubeEvent = data.youtubeEvent ? data.youtubeEvent : '-';
+                var tr = $("<tr/>");
+                tr.html(`<td>${date.format("DD/MM/YYYY")}</td><td>${date.format("HH:mm")}</td><td>${guests}</td><td>${youtubeEvent}`);
+                schedule.append(tr);
+            });
+        } else {
+            schedule.append("<tr><td  colspan=\"4\">Nenhum episódio agendado neste momento.</td></tr>");
+        }
+    });
+    </script>
 
 Sugestão de tema ou convidado?
 ------------------------------
