@@ -261,6 +261,8 @@ class iTunesWriter(Writer):
         # Ex:
         #  <itunes:image href="http://example.com/Episodio1.jpg" />
         if hasattr(item, 'image'):
+            if not item.image.startswith('/'):
+                item.image = '/' + item.image
             items['itunes:image'] = {
                 'href': '{0}{1}'.format(self.site_url, item.image)}
 
