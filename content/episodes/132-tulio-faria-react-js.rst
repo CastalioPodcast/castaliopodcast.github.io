@@ -5,7 +5,7 @@ Episódio 132: Túlio Faria - React JS
 :date: 2018-04-26
 :author: Castálio Podcast
 :podcast: https://archive.org/download/castalio-podcast-132/castalio-podcast-132.mp3
-:tags:
+:tags: react, devpleno, Tulio Faria, front-end, javascript
 :image: images/tulio-faria.jpg
 :image-alt: Túlio Faria
 
@@ -63,7 +63,6 @@ Tópicos abordados neste episódio
 Top 5
 =====
 
-* **Filme**:
 * **Filme**: `1000 Ways to Die`_
 * **Filme**: `Ash vs Evil Dead`_
 * **Filme**: `Breaking Bad`_
@@ -74,7 +73,7 @@ Top 5
 * **Música**: `Angra`_
 * **Música**: `Black Sabbath`_
 * **Música**: `King Diamond`_
-* **Música**: `Megadeath`_
+* **Música**: `Megadeth`_
 * **Música**: `Mr. Big`_
 * **Música**: `Paul Gilbert`_
 
@@ -152,6 +151,10 @@ Links
 * `Virtual DOM`_
 * `jQuery`_
 * `preact`_
+* `Grupy_ABC`_
+* `Meetup Rust & Ruby`_
+* `Canal Curso de Python e Flask`_
+* `Dose Extra`_
 
 .. class:: panel-body bg-info
 
@@ -184,7 +187,7 @@ Links
 .. _Angra: https://www.last.fm/music/Angra
 .. _Black Sabbath: https://www.last.fm/music/Black+Sabbath
 .. _King Diamond: https://www.last.fm/music/King+Diamond
-.. _Megadeath: https://www.last.fm/music/Megadeth
+.. _Megadeth: https://www.last.fm/music/Megadeth
 .. _Mr. Big: https://www.last.fm/music/Mr.+Big
 .. _Paul Gilbert: https://www.last.fm/music/Paul+Gilbert
 .. _1000 Ways to Die: https://www.imdb.com/title/tt1105711/
@@ -194,6 +197,11 @@ Links
 .. _Suits: https://www.imdb.com/title/tt1632701/
 .. _Escola da Vida: https://www.goodreads.com/book/show/29541762-escola-da-vida
 .. _Os Quatro Compromissos: https://www.goodreads.com/book/show/17192929-os-quatro-compromissos
+.. _Grupy_ABC: https://www.meetup.com/grupy-sp/
+.. _Meetup Rust & Ruby: https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/249463627/
+.. _Canal Curso de Python e Flask: http://Youtube.com/CursoDePython
+.. _Dose Extra: https://twitter.com/sitedoseextra
+
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
