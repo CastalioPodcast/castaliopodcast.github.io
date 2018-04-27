@@ -236,9 +236,17 @@ class iTunesWriter(Writer):
         else:
             items['itunes:summary'] = Markup(item.summary).striptags()
 
-        items['description'] = "<![CDATA[{}]]>".format(
-            Markup(item.summary)
+        if hasattr(item, 'featured_image') and not item.featured_image.startswith('http'):
+            item.featured_image = self.site_url + item.featured_image
+
+        description = ''
+        if hasattr(item, 'featured_image'):
+            description = '<![CDATA[<img src="{}" alt="{}" />]]>'.format(
+                item.featured_image, item.featured_image_alt
             )
+
+        description += '<![CDATA[{}]]>'.format(Markup(item.summary))
+        items['description'] = description
 
         # Date the article was last modified.
         #  ex: <pubDate>Fri, 13 Jun 2014 04:59:00 -0300</pubDate>
@@ -260,11 +268,8 @@ class iTunesWriter(Writer):
 
         # Ex:
         #  <itunes:image href="http://example.com/Episodio1.jpg" />
-        if hasattr(item, 'image'):
-            if not item.image.startswith('/'):
-                item.image = '/' + item.image
-            items['itunes:image'] = {
-                'href': '{0}{1}'.format(self.site_url, item.image)}
+        if hasattr(item, 'featured_image'):
+            items['itunes:image'] = {'href': item.featured_image}
 
         # Information about the episode audio.
         #  ex: <enclosure url="http://example.com/episode.m4a"
