@@ -57,7 +57,7 @@ participar das gravações ao vivo!
                 var data = doc.data();
                 var date = moment(data.datetime);
                 var guests = data.guests.map(g => g.name).join(', ');
-                var youtubeEvent = data.youtubeEvent ? data.youtubeEvent : '-';
+                var youtubeEvent =  data.youtubeEvent ? `<a href="${data.youtubeEvent}">${data.youtubeEvent}</a>` : '-';
                 var tr = $("<tr/>");
                 tr.html(`<td>${date.format("DD/MM/YYYY")}</td><td>${date.format("HH:mm")}</td><td>${guests}</td><td>${youtubeEvent}`);
                 schedule.append(tr);
