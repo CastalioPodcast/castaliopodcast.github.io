@@ -120,7 +120,7 @@ Contatos
                 <ul class="list-unstyled">
                     <li><i class="fa fa-github"></i> <a href="https://github.com/rodsenra">Github</a></li>
                     <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/rodsenra">LinkedIn</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://www.cinerdia.com.br">Poscast</a></li>
+                    <li><i class="fa fa-link"></i> <a href="http://www.cinerdia.com.br">Podcast</a></li>
                     <li><i class="fa fa-link"></i> <a href="http://rodrigo.senra.nom.br">Site</a></li>
                     <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/rodsenra">Twitter</a></li>
                 </ul>
