@@ -105,6 +105,6 @@
         </script>
 
         <!-- archive meta -->
-        <script type="text/javascript" src="{{ 'http://archive.org/details/{}&callback=set_download_count?output=json'.format(article.podcast.split('/')[-2]) }}"></script>
+        <script type="text/javascript" src="{{ 'https://archive.org/details/{}&callback=set_download_count?output=json'.format(article.podcast.split('/')[-2]) }}"></script>
     {% endif %}
 {% endblock %}
