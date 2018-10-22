@@ -186,9 +186,7 @@ Links
 
 .. class:: panel-body bg-info
 
-    **Música de entrada**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
-    **Música de saída**: `Nine Inch Nails - Demon Seed <http://freemusicarchive.org/music/Nine_Inch_Nails/The_Slip/Demon_Seed>`_.
+    **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
 .. _Alexandre Oliva: https://en.wikipedia.org/wiki/Alexandre_Oliva
