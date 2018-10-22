@@ -79,6 +79,10 @@ async def main(loop, data):
     # By this time we have all responses and they are ordered the same order as
     # the tasks
     for name, response in zip([name for name, _ in data], responses):
+        if 'item' not in response:
+            # The download information won't be present for episodes that were
+            # just published.
+            continue
         stats[name] = {
             'length': response['files']['/{}.ogg'.format(name)]['length'],
         }

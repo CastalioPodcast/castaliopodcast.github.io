@@ -14,7 +14,7 @@
 	<div class="container">
     {% if BANNER_IMAGE %}
         <div class="banner-image">
-            <a href="{{ SITEURL }}"><img height="{{ BANNER_IMAGE_HEIGHT }}" alt="{{ SITENAME }}" src="{{ SITEURL }}/{{ BANNER_IMAGE }}"></a>
+          <a href="{{ SITEURL }}"><img{% if BANNER_IMAGE_CLASSES %} class="{{ BANNER_IMAGE_CLASSES }}"{% endif %} height="{{ BANNER_IMAGE_HEIGHT }}" alt="{{ SITENAME }}" src="{{ SITEURL }}/{{ BANNER_IMAGE }}"></a>
 			{% if BANNER_SUBTITLE %}
 				<p class="intro">{{ BANNER_SUBTITLE }}</p>
 			{% endif %}

@@ -111,6 +111,7 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 BANNER = True
 BANNER_ALL_PAGES = True
 BANNER_IMAGE = 'images/castalio-podcast.png'
+BANNER_IMAGE_CLASSES = 'img-circle'
 BANNER_SUBTITLE = u'Um podcast inspirado prá castálio!'
 BANNER_BACKGROUND_COLOR='#fff'
 SITELOGO = 'images/navbar-logo.png'
@@ -132,7 +133,7 @@ PODCAST_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(
 PODCAST_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
 PODCAST_FEED_AUTHOR = AUTHOR
 PODCAST_FEED_SUMMARY = u''
-PODCAST_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast-square.png'
+PODCAST_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.png'
 PODCAST_FEED_CATEGORY = ['Technology', 'Podcasting']
 
 # Cleaner page links
