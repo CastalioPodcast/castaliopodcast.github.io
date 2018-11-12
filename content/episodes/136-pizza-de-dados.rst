@@ -57,7 +57,7 @@ Gustavo Coelho
 * **Filme**: `Ressaca de Amor`_
 * **Filme**: `O Iluminado`_
 * **Filme**: `A Morte do Demônio`_
-* **Filme**: `Rick and Morty`_
+* **Série**: `Rick and Morty`_
 * **Pizza**: Catuperoni
 * **Pizza**: Aliche
 * **Pizza**: Frango com Catupiry
