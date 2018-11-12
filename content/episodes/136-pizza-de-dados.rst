@@ -169,7 +169,7 @@ Contatos
                     <li><i class="fa fa-link"></i> <a href="https://apoia.se/pizzadedados">Apoia-se</a></li>
                     <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/company/pizzadedados/">LinkedIn</a></li>
                     <li><i class="fa fa-medium"></i> <a href="https://medium.com/pizzadedados">Medium</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://guia.pizzadedados.com/">Twitter</a></li>
+                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/pizzadedados">Twitter</a></li>
                     <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/c/pizzadedados">YouTube</a></li>
                 </ul>
             </div>
