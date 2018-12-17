@@ -54,6 +54,7 @@ Top 5
 * **Livro**: `How to Be Successful without Hurting Men's Feelings`_
 * **Livro**: `Brave New World`_
 * **Livro**: `Python Fluente`_
+* **Música**: `Luedji Luna`_
 * **Música**: `O Rappa`_
 * **Música**: `Johnny Hooker`_
 * **Música**: `Nina Simone`_
@@ -152,6 +153,7 @@ Links
 .. _How to Be Successful without Hurting Men's Feelings: https://www.goodreads.com/book/show/39296119-how-to-be-successful-without-hurting-men-s-feelings
 .. _Brave New World: https://www.goodreads.com/book/show/5129.Brave_New_World
 .. _Python Fluente: https://www.goodreads.com/book/show/36361456-python-fluente
+.. _Luedji Luna: https://www.last.fm/music/Luedji+Luna
 .. _O Rappa: https://www.last.fm/music/O+Rappa
 .. _Johnny Hooker: https://www.last.fm/music/Johnny+Hooker
 .. _Nina Simone: https://www.last.fm/music/Nina+Simone
