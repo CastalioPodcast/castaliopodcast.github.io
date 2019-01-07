@@ -132,7 +132,12 @@ PODCAST_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(
     datetime.now().year, AUTHOR)
 PODCAST_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
 PODCAST_FEED_AUTHOR = AUTHOR
-PODCAST_FEED_SUMMARY = u''
+PODCAST_FEED_SUMMARY = (
+    'O Castálio é um podcast publicado quinzenalmente. Elyézer e Bruno falam '
+    'sobre tecnologia, desenvolvimento de software, linguagens de '
+    'programação e o mundo do Open Source! A maioria dos episódios são em '
+    'português mas eventualmente trazemos alguns em inglês.'
+)
 PODCAST_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.png'
 PODCAST_FEED_CATEGORY = ['Technology', 'Podcasting']
 
