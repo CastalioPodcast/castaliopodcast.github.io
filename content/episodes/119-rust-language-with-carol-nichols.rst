@@ -162,7 +162,7 @@ Links
 .. _crates.io: https://crates.io/
 .. _Ownership and Borrowing: https://rufflewind.com/2017-02-15/rust-move-copy-borrow
 .. _Impl period: https://blog.rust-lang.org/2017/09/18/impl-future-for-rust.html
-.. _Redox OS: https://blog.rust-lang.org/2017/09/18/impl-future-for-rust.html
+.. _Redox OS: https://www.redox-os.org/
 .. _Ripgrep: https://github.com/BurntSushi/ripgrep
 .. _Rocket: https://crates.io/crates/rocket
 .. _Diesel: https://crates.io/crates/diesel
