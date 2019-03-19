@@ -25,7 +25,7 @@ o que o Accerciser é:
     framework simples de plug-ins que você pode utilizar para criar
     visualizações personalizadas de informações de acessibilidade."
 
-.. figure:: {filename}/images/accerciser.png
+.. figure:: {static}/images/accerciser.png
    :alt: Accerciser
 
    Accerciser

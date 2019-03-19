@@ -36,11 +36,11 @@ convidado a participar como membro do time Castálio! Com isso o podcast passou
 a ter episódios semanais.
 
 Em 2017, o podcast completou 6 anos e nós gravamos um `episódio de comemoração
-<{filename}/content/episodes/088-episodio-especial-de-6-anos.rst>`_ contando
+<{filename}../episodes/088-episodio-especial-de-6-anos.rst>`_ contando
 algumas curiosidades.
 
 Em 2018, o podcast completou 7 anos e gravamos mais um `episódio especial de
-comemoração <{filename}/content/episodes/128-7-anos-og-maciel.rst>`_. Neste ano
+comemoração <{filename}../episodes/128-7-anos-og-maciel.rst>`_. Neste ano
 o Og Maciel decidiu pendurar o microfone e, a partir de então, o podcast passou
 a ser apresentado apenas pelo Bruno e pelo Elyézer.
 

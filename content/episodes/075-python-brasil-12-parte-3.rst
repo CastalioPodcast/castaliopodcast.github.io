@@ -24,7 +24,7 @@ Neste episódio o Bruno e o Elyézer falaram a respeito da experiência pessoal 
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/pybr12-foto-oficial.jpg
+.. figure:: {static}/images/pybr12-foto-oficial.jpg
    :alt: Foto Oficial da Python Brasil 12 em Florianopolis
    :figclass: clear clearfix center-block
 
@@ -36,7 +36,7 @@ Acima a foto oficial com a maior parte dos participantes da PythonBrasil 12, fot
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/pybr12-trabalho-remoto.jpg
+.. figure:: {static}/images/pybr12-trabalho-remoto.jpg
    :alt: Elyézer e Bruno na palestra sobre trabalho remoto
    :figclass: pull-left clear article-figure figure
 
@@ -59,7 +59,7 @@ SMS durante uma dessas palestras.
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/pybr12-bruno-elyezer-russel.jpg
+.. figure:: {static}/images/pybr12-bruno-elyezer-russel.jpg
    :alt: Bruno, Russel Keith Magee e Elyézer bebendo Marzen Rauch Beer
    :figclass: pull-left clear article-figure figure
 
@@ -77,7 +77,7 @@ difícil de pronunciar.
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/pybr12-oktoberfest2.jpg
+.. figure:: {static}/images/pybr12-oktoberfest2.jpg
    :alt: Comunidade, palestrantes, Keynotes, todos comemorando na Oktoberfest
    :figclass: pull-left clear article-figure figure
 

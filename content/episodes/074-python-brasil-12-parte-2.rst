@@ -28,7 +28,7 @@ O pessoal da `Operação Serenata de Amor`_ nos contou um pouco sobre a proposta
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/pybr12-serenata-de-amor.jpg
+.. figure:: {static}/images/pybr12-serenata-de-amor.jpg
    :alt: Elyézer e Bruno Rocha entrevistando a equipe da Operação Serenata de Amor
    :figclass: clear clearfix center-block
 
@@ -37,7 +37,7 @@ O pessoal da `Operação Serenata de Amor`_ nos contou um pouco sobre a proposta
 Em seguida falamos com o `Turicas`_ (também conhecido como Álvaro Justen) que nos falou
 sobre o projeto que ele apresentou em sua palestra na conferência que é a biblioteca `rows`_ que é bastante útil para tratamento de informações tabulares como arquivos csv, tabelas HTML e também planilhas xls. Além disso ele nos contou sobre uma das novidades que ele trouxe para os corredores da Python Brasil e que chamou atenção de todo mundo durante o evento!
 
-.. figure:: {filename}/images/pybr12-turicas.jpg
+.. figure:: {static}/images/pybr12-turicas.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando Álvaro Justen, o Turicas.
    :figclass: center-block
 

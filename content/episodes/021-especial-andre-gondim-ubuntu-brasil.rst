@@ -44,7 +44,7 @@ tradutores, assim como o **Rafael Higino**, como uma pessoa que estava
 sempre disposta a ajudar quem quer que fosse, sempre com entusiasmo,
 cordialidade e boa vontade.
 
-.. figure:: {filename}/images/irc.png
+.. figure:: {static}/images/irc.png
    :alt: Usuário do André no canal dos tradutores
 
    Usuário do André no canal dos tradutores

@@ -45,7 +45,7 @@ série de tutoriais chamada `Kivy Crash Course`_.
 
 Para criar um **Hello World** no Kivy é bastante fácil, veja o seguinte exemplo
 
-.. figure:: {filename}/images/kivy.jpg
+.. figure:: {static}/images/kivy.jpg
    :alt: Kivy Hello World
 
 Outra coisa interessante é que é possível utilizar uma linguagem de template bem

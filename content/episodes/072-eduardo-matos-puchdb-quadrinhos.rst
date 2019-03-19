@@ -36,7 +36,7 @@ Eduardo tem por quadrinhos. Você pode ver isso na imagem abaixo onde o Eduardo
 compartilha conosco sua coleção de mais de 1000 quadrinhos. Finalmente falamos
 sobre o Top 5 e como sempre está cheio de indicações interessantes.
 
-.. figure:: {filename}/images/eduardomatos-quadrinhos.jpg
+.. figure:: {static}/images/eduardomatos-quadrinhos.jpg
    :alt: Coleção de Quadrinhos do Eduardo Matos
    :figclass: center-block
 

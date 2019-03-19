@@ -124,7 +124,7 @@ Escute Agora
 Sorteio da Caneca do Castálio
 +++++++++++++++++++++++++++++
 
-.. figure:: {filename}/images/caneca.png
+.. figure:: {static}/images/caneca.png
    :alt: Caneca do Castálio
    :figclass: clear
 

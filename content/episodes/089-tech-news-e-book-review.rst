@@ -141,7 +141,7 @@ Novidades e Dicas de Python
   interessante que é um sistema de **grid** bastante parecido com os sistemas
   de grid dos frameworks **css**.
 
-  .. figure:: {filename}/images/appjar-grid.png
+  .. figure:: {static}/images/appjar-grid.png
    :alt: AppJar Grid
    :figclass: pull-left clear article-figure
 

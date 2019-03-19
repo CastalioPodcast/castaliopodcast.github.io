@@ -33,7 +33,7 @@ para testar o Quokka, então acesse o demo do projeto. Além disso, ele ressalta
 que o projeto deixa a desejar um pouco na documentação mas que é algo que está
 na lista para ser melhorado.
 
-.. figure:: {filename}/images/quokka.jpg
+.. figure:: {static}/images/quokka.jpg
    :alt: Quokka
    :figclass: center-block
 
@@ -48,7 +48,7 @@ Antes de irmos para o Top 5, o Bruno comenta sobre o `What the Flask`_, uma
 série de artigos sobre o `Flask`_, e na possibilidade de isso virar um livro no
 futuro.
 
-.. figure:: {filename}/images/bruno_rocha_ozzy_tattoo.jpg
+.. figure:: {static}/images/bruno_rocha_ozzy_tattoo.jpg
    :alt: Bruno Rocha - Ozzy Tatoo
    :figclass: center-block
 

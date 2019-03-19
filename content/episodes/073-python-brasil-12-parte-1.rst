@@ -34,7 +34,7 @@ também sobre algo que deseja muito fazer quando não está desenvolvendo.
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/pybr12-mario-sergio.jpg
+.. figure:: {static}/images/pybr12-mario-sergio.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando o Mário Sergio
    :figclass: clear clearfix center-block
 
@@ -48,7 +48,7 @@ eventos de Python ao redor do mundo. Também conversamos sobre o trabalho da
 Naomi e terceira edição do seu livro, `The Quick Python Book`_, que está quase
 saindo.
 
-.. figure:: {filename}/images/pybr12-naomi-ceder.jpg
+.. figure:: {static}/images/pybr12-naomi-ceder.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando a Naomi Ceder
    :figclass: center-block
 

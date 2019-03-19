@@ -1,11 +1,11 @@
 import six
 from pelican import signals
-from pelican.contents import Article, Draft, Page
+from pelican.contents import Article, Page
 from pelican.generators import ArticlesGenerator
 
 
 def images_extraction(instance):
-    if type(instance) in (Article, Draft, Page):
+    if isinstance(instance, (Article, Page)):
         if 'image' in instance.metadata:
             image = instance.metadata['image']
             if not image.startswith('http') and not image.startswith('/'):

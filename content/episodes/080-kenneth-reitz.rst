@@ -104,7 +104,7 @@ create the album. The conversation continued and he also commented about how he
 built the album artwork. To close this conversation, we talked about Kenneth's
 synthesizers and the music live streams he does on Facebook.
 
-.. figure:: {filename}/images/unmasteredimpulses-artwork.jpg
+.. figure:: {static}/images/unmasteredimpulses-artwork.jpg
    :alt: Unmastered Impulses by Infinite State - Album Artwork
 
 We had a great chat with Kenneth and in the end we sked him for his Top 5

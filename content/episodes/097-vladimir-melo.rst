@@ -40,7 +40,7 @@ crianças, seus pais e instrutores.
 
     <div class="clearfix"></div>
 
-.. figure:: {filename}/images/vladimir-melo-palestra.jpg
+.. figure:: {static}/images/vladimir-melo-palestra.jpg
    :alt: Vladimir em uma de suas palestras
    :figclass: center-block
 

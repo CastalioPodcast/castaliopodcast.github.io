@@ -1,19 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
 from datetime import datetime
 
-AUTHOR = SITENAME = u'Castálio Podcast'
-SITEURL = 'http://castalio.info'
+AUTHOR = SITENAME = 'Castálio Podcast'
+SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
 
-DEFAULT_LANG = u'pt'
-LANG = u'pt_BR.UTF-8'
-LOCALE = u'pt_BR'
-CC_LICENSE = u'CC-BY-NC-SA'
+DEFAULT_LANG = 'pt_BR'
+LANG = 'pt_BR.UTF-8'
+LOCALE = 'pt_BR'
+CC_LICENSE = 'CC-BY-NC-SA'
 
 # Sets Tagcloud usage
 TAG_CLOUD_STEPS = 8
@@ -22,9 +21,9 @@ DISPLAY_TAGS_INLINE = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds.atom'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom'
 FEED_ALL_RSS = 'feeds.rss'
-CATEGORY_FEED_RSS = 'feeds/%s.rss'
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss'
 FEED_USE_SUMMARY = True
 
 # Github Profile
@@ -42,7 +41,6 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
 DIRECT_TEMPLATES = [
@@ -101,8 +99,6 @@ SUBSCRIBE = [
 ]
 
 # Disqus configuration
-DISQUS_SITENAME = 'castliopodcast'
-GOOGLE_ANALYTICS = "UA-21449168-1"
 
 # Dark navbar
 BOOTSTRAP_NAVBAR_INVERSE = True
@@ -112,7 +108,7 @@ BANNER = True
 BANNER_ALL_PAGES = True
 BANNER_IMAGE = 'images/castalio-podcast.png'
 BANNER_IMAGE_CLASSES = 'img-circle'
-BANNER_SUBTITLE = u'Um podcast inspirado prá castálio!'
+BANNER_SUBTITLE = 'Um podcast inspirado prá castálio!'
 BANNER_BACKGROUND_COLOR='#fff'
 SITELOGO = 'images/navbar-logo.png'
 SITELOGO_SIZE = 20
@@ -124,13 +120,13 @@ SIDEBAR_BRAND_IMAGE_HEIGHT = 300
 FAVICON = 'images/favicon.ico'
 
 # iTunes plugin settings
-PODCAST_FEED_PATH = u'feeds/podcast.rss'
-PODCAST_FEED_TITLE = u'Castálio Podcast'
-PODCAST_FEED_EXPLICIT = u'No'
-PODCAST_FEED_LANGUAGE = u'pt-br'
-PODCAST_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(
+PODCAST_FEED_PATH = 'feeds/podcast.rss'
+PODCAST_FEED_TITLE = 'Castálio Podcast'
+PODCAST_FEED_EXPLICIT = 'No'
+PODCAST_FEED_LANGUAGE = 'pt-br'
+PODCAST_FEED_COPYRIGHT = '&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(
     datetime.now().year, AUTHOR)
-PODCAST_FEED_SUBTITLE = u'Um podcast inspirado para castálio'
+PODCAST_FEED_SUBTITLE = 'Um podcast inspirado para castálio'
 PODCAST_FEED_AUTHOR = AUTHOR
 PODCAST_FEED_SUMMARY = (
     'O Castálio é um podcast publicado quinzenalmente. Elyézer e Bruno falam '

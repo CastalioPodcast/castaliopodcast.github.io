@@ -31,7 +31,7 @@ A Paula ainda nos contou sobre a emoção de ser ganhadora do prêmio Dorneles
 Tremea representando todas as meninas das Pyladies e Django Girls e sobre seu
 lado artístico como ilustradora.
 
-.. figure:: {filename}/images/paula-ilustracao.jpg
+.. figure:: {static}/images/paula-ilustracao.jpg
    :alt: Paula Grangeiro - Pyladies
    :figclass: pull-right clear article-figure
 
