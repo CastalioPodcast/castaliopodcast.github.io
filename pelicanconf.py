@@ -94,7 +94,7 @@ SUBSCRIBE = [
     (None, None),
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
     ('Spotify do Castálio', 'https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg'),
-    ('YouTube', 'http://bit.ly/CanalCastalio'),
+    ('YouTube', 'https://www.youtube.com/castaliopodcast'),
     ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),
 ]
 
@@ -156,6 +156,6 @@ MENUITEMS = (
     ('Sobre', '/sobre-o-castalio.html'),
     ('Agenda', '/agenda.html'),
     ('Episódios', '/archives.html'),
-    ('Episodes', '/tag/english.html'),
+    ('English Episodes', '/tag/english.html'),
     ('YouTube', '/youtube.html')
 )
