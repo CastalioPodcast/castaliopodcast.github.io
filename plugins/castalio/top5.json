@@ -1,0 +1,47 @@
+{
+    "book": {
+        "O Guia do Mochileiro das Galáxias": {
+            "url": "https://www.goodreads.com/series/40957-hitchhiker-s-guide-to-the-galaxy"
+        },
+        "Homo Deus": {
+            "url": "https://www.goodreads.com/book/show/31138556-homo-deus"
+        },
+        "Sapiens": {
+            "url": "https://www.goodreads.com/book/show/23692271-sapiens"
+        },
+        "Stephen Hawking": {
+            "url": "https://www.goodreads.com/author/show/1401.Stephen_Hawking"
+        }
+    },
+    "movie": {
+        "Ex Machina": {
+            "url": "https://www.imdb.com/title/tt0470752/"
+        },
+        "Fonte da Vida": {
+            "url": "https://www.imdb.com/title/tt0414993/"
+        },
+        "One Strange Rock": {
+            "url": "https://www.imdb.com/title/tt7651892/"
+        },
+        "The Imitation Game": {
+            "url": "https://www.imdb.com/title/tt2084970/"
+        }
+    },
+    "music": {
+        "Charlie Brown JR.": {
+            "url": "https://www.last.fm/music/Charlie+Brown+JR."
+        },
+        "John Frusciante": {
+            "url": "https://www.last.fm/music/John+Frusciante"
+        },
+        "John Mayer": {
+            "url": "https://www.last.fm/music/John+Mayer"
+        },
+        "Red Hot Chili Peppers": {
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers"
+        },
+        "Two Steps from Hell": {
+            "url": "https://www.last.fm/music/Two+Steps+from+Hell"
+        }
+    }
+}
