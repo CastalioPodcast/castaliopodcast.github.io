@@ -40,13 +40,24 @@ Tópicos abordados neste episódio
 * O que o Victor recomenda para quem está começando na área de programação e
   inteligência artificial?
 
-.. Top 5
-.. =====
-.. * **Livro**: ``_
 
-.. * **Música**: ``_
-
-.. * **Filme**: ``_
+.. top5::
+    :book:
+        * Homo Deus
+        * O Guia do Mochileiro das Galáxias
+        * Sapiens
+        * Stephen Hawking
+    :music:
+        * Charlie Brown JR.
+        * John Frusciante
+        * John Mayer
+        * Red Hot Chili Peppers
+        * Two Steps from Hell
+    :movie:
+        * Ex Machina
+        * Fonte da Vida
+        * One Strange Rock
+        * The Imitation Game
 
 
 Assista a gravação deste episódio
