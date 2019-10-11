@@ -5,7 +5,9 @@ Episódio 143: Victor Dias - Universo Programado
 :date: 2019-09-30
 :author: Castálio Podcast
 :podcast: https://archive.org/download/castalio-podcast-143/castalio-podcast-143.mp3
-:tags: victor dias, universo programado, c, c++, inteligencia artificial
+:tags: victor dias, universo programado, c, c++, inteligencia artificial,
+       backpropagation, deep learning, deepfake, genetic algorithm, machine
+       learning, sdl, technological singularity
 :image: images/victor-dias.png
 :image-alt: Victor Dias
 
@@ -107,10 +109,16 @@ Contatos
     :heading: Escute Agora
 
 
-.. Links
-.. =====
+Links
+=====
 
-.. * ``_
+* `Backpropagation`_
+* `Deep Learning`_
+* `Deepfake`_
+* `Genetic algorithm`_
+* `Machine Learning`_
+* `Simple DirectMedia Layer (SDL)`_
+* `Technological singularity`_
 
 
 .. class:: panel-body bg-info
@@ -118,6 +126,13 @@ Contatos
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
+.. _Backpropagation: https://en.wikipedia.org/wiki/Backpropagation
+.. _Deep Learning: https://en.wikipedia.org/wiki/Deep_learning
+.. _Deepfake: https://en.wikipedia.org/wiki/Deepfake
+.. _Genetic algorithm: https://en.wikipedia.org/wiki/Genetic_algorithm
+.. _Machine Learning: https://en.wikipedia.org/wiki/Machine_learning
+.. _Simple DirectMedia Layer (SDL): https://www.libsdl.org/
+.. _Technological singularity: https://en.wikipedia.org/wiki/Technological_singularity
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
