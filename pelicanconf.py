@@ -157,5 +157,6 @@ MENUITEMS = (
     ('Agenda', '/agenda.html'),
     ('Episódios', '/archives.html'),
     ('English Episodes', '/tag/english.html'),
-    ('YouTube', '/youtube.html')
+    ('Top 5', '/top5.html'),
+    ('YouTube', '/youtube.html'),
 )
