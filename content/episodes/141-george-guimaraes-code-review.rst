@@ -56,29 +56,20 @@ Tópicos abordados neste episódio
   equipe não tem pessoas experientes?
 
 
-
-
-
-
-
-
-
-
-
-Top 5
-=====
-* **Livro**: `The Messy Middle`_
-* **Livro**: `The Startup Owner's Manual`_
-* **Livro**: `The Hitchhiker's Guide to the Galaxy`_
-* **Livro**: `Dirk Gently's Holistic Detective Agency`_
-
-* **Música**: `Avantasia`_
-* **Música**: `Gamma Ray`_
-* **Música**: `Halloween`_
-* **Música**: `Kissing Dynamite`_
-
-* **Filme**: `Dracula Morto, mas Feliz`_
-* **Filme**: `O que Fazemos nas Sombras`_
+.. top5::
+    :book:
+        * The Messy Middle
+        * The Startup Owner's Manual
+        * O Guia do Mochileiro das Galáxias
+        * Dirk Gently's Holistic Detective Agency
+    :music:
+        * Avantasia
+        * Gamma Ray
+        * Halloween
+        * Kissing Dynamite
+    :movie:
+        * Dracula Morto, mas Feliz
+        * O que Fazemos nas Sombras
 
 
 Assista a gravação deste episódio
@@ -159,17 +150,6 @@ Links
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
-.. _The Messy Middle: https://www.goodreads.com/book/show/40179007-the-messy-middle
-.. _The Startup Owner's Manual: https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual
-.. _The Hitchhiker's Guide to the Galaxy: https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy
-.. _Dirk Gently's Holistic Detective Agency: https://www.goodreads.com/book/show/365.Dirk_Gently_s_Holistic_Detective_Agency
-.. _Avantasia: https://www.last.fm/music/Avantasia
-.. _Gamma Ray: https://www.last.fm/music/Gamma+Ray
-.. _Halloween: https://www.last.fm/music/Halloween
-.. _Kissing Dynamite: https://www.last.fm/music/Kissing+Dynamite
-.. _Dracula Morto, mas Feliz: https://www.imdb.com/title/tt0112896/
-.. _O que Fazemos nas Sombras: https://www.imdb.com/title/tt3416742/
-
 .. _CircleCI: https://circleci.com/
 .. _Credo: https://github.com/rrrene/credo/
 .. _Docker: https://www.docker.com/

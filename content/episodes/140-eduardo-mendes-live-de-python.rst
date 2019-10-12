@@ -48,24 +48,24 @@ Tópicos abordados neste episódio
   ele a superou?
 
 
-Top 5
-=====
-* **Livro**: `O Apanhador no Campo de Centeio`_
-* **Livro**: `O Mestre e Margarida`_
-* **Livro**: `Junji Ito`_
-* **Livro**: `Python Fluente`_
-* **Livro**: `Functional Programming in Python`_
-
-* **Música**: `Terno Rei - Violeta`_
-* **Música**: `Surra`_
-* **Música**: `Dance of Days`_
-* **Música**: `Daft Punk - Random Access Memory`_
-* **Música**: `Deadfish`_
-
-* **Filme**: `Nausicaä of the Valley of the Wind`_
-* **Filme**: `Black Mirror`_
-* **Filme**: `Chapolin`_
-* **Filme**: `Um Maluco no Pedaço`_
+.. top5::
+    :book:
+        * O Apanhador no Campo de Centeio
+        * O Mestre e Margarida
+        * Junji Ito
+        * Python Fluente
+        * Functional Programming in Python
+    :music:
+        * Terno Rei - Violeta
+        * Surra
+        * Dance of Days
+        * Daft Punk - Random Access Memory
+        * Deadfish
+    :movie:
+        * Nausicaä of the Valley of the Wind
+        * Black Mirror
+        * Chapolin
+        * Um Maluco no Pedaço
 
 
 Assista a gravação deste episódio
@@ -168,22 +168,6 @@ Links
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
-
-.. _O Apanhador no Campo de Centeio: https://www.goodreads.com/book/show/3192495-o-apanhador-no-campo-de-centeio
-.. _O Mestre e Margarida: https://www.goodreads.com/book/show/7862896-o-mestre-e-margarida
-.. _Junji Ito: https://www.goodreads.com/author/show/8483.Junji_Ito
-.. _Python Fluente: https://www.goodreads.com/book/show/36361456-python-fluente
-.. _Functional Programming in Python: https://www.goodreads.com/book/show/25977827-functional-programming-in-python
-.. _Terno Rei - Violeta: https://www.last.fm/music/Terno+Rei/Violeta
-.. _Surra: https://www.last.fm/music/Surra
-.. _Dance of Days: https://www.last.fm/music/Dance+of+Days
-.. _Daft Punk - Random Access Memory: https://www.last.fm/music/Daft+Punk/Random+Access+Memory
-.. _Deadfish: https://www.last.fm/music/Deadfish
-.. _Nausicaä of the Valley of the Wind: https://www.imdb.com/title/tt0087544/
-.. _Black Mirror: https://www.imdb.com/title/tt2085059/
-.. _Chapolin: https://www.imdb.com/title/tt0229888/
-.. _Um Maluco no Pedaço: https://www.imdb.com/title/tt0098800/
-
 .. _Stand Out of Our Light - James Williams: https://www.goodreads.com/book/show/38364667-stand-out-of-our-light
 .. _Dive into Python: https://www.goodreads.com/book/show/24038.Dive_Into_Python
 .. _Dive into Python 3: https://www.goodreads.com/book/show/6919462-dive-into-python-3

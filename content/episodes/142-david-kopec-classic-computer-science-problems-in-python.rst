@@ -69,25 +69,24 @@ In addition to that, you can use the 40% discount code **podcastalio19** which
 good for all `Manning <https://www.manning.com/>`_ products in all formats.
 
 
-Top 5
-=====
-
-* **Book**: `The Republic`_
-* **Book**: `Creative Selection`_
-* **Book**: `Game Over, Press Start to Continue`_
-* **Book**: `Algorithms`_
-* **Book**: `The Abolition of Antitrust`_
-
-* **Music**: `The Egos`_
-* **Music**: `The Rolling Stones`_
-* **Music**: `Michael Jackson`_
-* **Music**: `Bruno Mars`_
-* **Music**: `Elvis Presley`_
-
-* **Movie**: `Forrest Gump`_
-* **Movie**: `Shark Tank`_
-* **Movie**: `The Profit`_
-* **Movie**: `The Curse of Oak Island`_
+.. top5::
+    :book:
+        * The Republic
+        * Creative Selection
+        * Game Over, Press Start to Continue
+        * Algorithms
+        * The Abolition of Antitrust
+    :music:
+        * The Egos
+        * The Rolling Stones
+        * Michael Jackson
+        * Bruno Mars
+        * Elvis Presley
+    :movie:
+        * Forrest Gump
+        * Shark Tank
+        * The Profit
+        * The Curse of Oak Island
 
 
 Watch the recording of this episode
@@ -170,21 +169,6 @@ Links
     **Music**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
-.. _The Republic: https://www.goodreads.com/book/show/30289.The_Republic
-.. _Creative Selection: https://www.goodreads.com/book/show/37638098-creative-selection
-.. _Game Over, Press Start to Continue: https://www.goodreads.com/book/show/339584.Game_Over_Press_Start_to_Continue
-.. _Algorithms: https://www.goodreads.com/book/show/10803540-algorithms
-.. _The Abolition of Antitrust: https://www.goodreads.com/book/show/1758693.The_Abolition_of_Antitrust
-.. _The Egos: https://www.last.fm/music/The+Egos
-.. _The Rolling Stones: https://www.last.fm/music/The+Rolling+Stones
-.. _Michael Jackson: https://www.last.fm/music/Michael+Jackson
-.. _Bruno Mars: https://www.last.fm/music/Bruno+Mars
-.. _Elvis Presley: https://www.last.fm/music/Elvis+Presley
-.. _Forrest Gump: https://www.imdb.com/title/tt0109830/
-.. _Shark Tank: https://www.imdb.com/title/tt1442550/
-.. _The Profit: https://www.imdb.com/title/tt3080030/
-.. _The Curse of Oak Island: https://www.imdb.com/title/tt3455408/
-
 .. _AsciiDoc: http://asciidoc.org/
 .. _Basic: https://en.wikipedia.org/wiki/BASIC
 .. _C#: https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29

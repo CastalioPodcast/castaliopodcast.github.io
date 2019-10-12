@@ -1,47 +1,2482 @@
 {
-    "book": {
-        "O Guia do Mochileiro das Galáxias": {
-            "url": "https://www.goodreads.com/series/40957-hitchhiker-s-guide-to-the-galaxy"
-        },
-        "Homo Deus": {
-            "url": "https://www.goodreads.com/book/show/31138556-homo-deus"
-        },
-        "Sapiens": {
-            "url": "https://www.goodreads.com/book/show/23692271-sapiens"
-        },
-        "Stephen Hawking": {
-            "url": "https://www.goodreads.com/author/show/1401.Stephen_Hawking"
-        }
+  "book": {
+    "1984": {
+      "url": "https://www.goodreads.com/book/show/5470.1984"
     },
-    "movie": {
-        "Ex Machina": {
-            "url": "https://www.imdb.com/title/tt0470752/"
-        },
-        "Fonte da Vida": {
-            "url": "https://www.imdb.com/title/tt0414993/"
-        },
-        "One Strange Rock": {
-            "url": "https://www.imdb.com/title/tt7651892/"
-        },
-        "The Imitation Game": {
-            "url": "https://www.imdb.com/title/tt2084970/"
-        }
+    "2001: Uma odisseia no espaço": {
+      "url": "https://www.goodreads.com/book/show/18518493-2001"
     },
-    "music": {
-        "Charlie Brown JR.": {
-            "url": "https://www.last.fm/music/Charlie+Brown+JR."
-        },
-        "John Frusciante": {
-            "url": "https://www.last.fm/music/John+Frusciante"
-        },
-        "John Mayer": {
-            "url": "https://www.last.fm/music/John+Mayer"
-        },
-        "Red Hot Chili Peppers": {
-            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers"
-        },
-        "Two Steps from Hell": {
-            "url": "https://www.last.fm/music/Two+Steps+from+Hell"
-        }
+    "A Arte da Guerra": {
+      "url": "https://www.goodreads.com/book/show/40222464-a-arte-da-guerra"
+    },
+    "A Fortaleza Digital": {
+      "url": "https://www.goodreads.com/book/show/11125.Digital_Fortress"
+    },
+    "A Game of Thrones": {
+      "url": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones"
+    },
+    "A Politica Sexual Da Carne": {
+      "url": "https://www.goodreads.com/book/show/24263517-a-politica-sexual-da-carne"
+    },
+    "A Psicanálise, sua imagem e seu público": {
+      "url": "https://www.goodreads.com/book/show/14622485-la-psychanalyse-son-image-et-son-public"
+    },
+    "A Revolução dos Bichos": {
+      "url": "https://www.goodreads.com/book/show/5472.Animal_Farm_1984"
+    },
+    "A sutil arte de ligar o f*da-se": {
+      "url": "https://www.goodreads.com/book/show/36516509-a-sutil-arte-de-ligar-o-f-da-se"
+    },
+    "A Última Pergunta": {
+      "url": "https://www.goodreads.com/book/show/4808763-the-last-question"
+    },
+    "A Última Resposta": {
+      "url": "https://www.goodreads.com/book/show/15755066-the-last-answer"
+    },
+    "Abilio Diniz": {
+      "url": "https://www.goodreads.com/book/show/1588167.Ab_lio_Diniz_Caminhos_E_Escolhas"
+    },
+    "Adaptation vitale et psychologie de l'intelligence": {
+      "url": "https://www.goodreads.com/book/show/7502434-adaptation-and-intelligence"
+    },
+    "Admirável Mundo Novo": {
+      "url": "https://www.goodreads.com/book/show/6184133-admir-vel-mundo-novo"
+    },
+    "Adolfo Bioy Casares": {
+      "url": "https://www.goodreads.com/author/show/3424060.Adolfo_Bioy_Casares"
+    },
+    "Agatha Christie": {
+      "url": "https://www.goodreads.com/author/show/123715.Agatha_Christie"
+    },
+    "Agile Software Development, Principles, Patterns, and Practices": {
+      "url": "https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices"
+    },
+    "Alan Watts": {
+      "url": "https://www.goodreads.com/author/show/1501668.Alan_W_Watts"
+    },
+    "Algorithms": {
+      "url": "https://www.goodreads.com/book/show/10803540-algorithms"
+    },
+    "Aprendendo Python": {
+      "url": "https://www.goodreads.com/book/show/25834332-aprendendo-python"
+    },
+    "As Crónicas de Gelo e Fogo": {
+      "url": "https://www.goodreads.com/series/105522-as-cr-nicas-de-gelo-e-fogo-das-lied-von-eis-und-feuer"
+    },
+    "As Vinhas da Ira": {
+      "url": "https://www.goodreads.com/book/show/6294159-as-vinhas-da-ira"
+    },
+    "Ashtanga Yoga": {
+      "url": "https://www.goodreads.com/book/show/25070646-ashtanga-yoga"
+    },
+    "Best Karate": {
+      "url": "https://www.goodreads.com/book/show/200226.Best_Karate_Vol_1"
+    },
+    "Bill Bryson": {
+      "url": "https://www.goodreads.com/author/show/7.Bill_Bryson"
+    },
+    "Biologia e Conhecimento": {
+      "url": "https://www.goodreads.com/book/show/1814504.Biology_and_Knowledge"
+    },
+    "Black Jack": {
+      "url": "https://www.goodreads.com/book/show/534309.Black_Jack_Vol_1"
+    },
+    "Black Market Cryptocurrencies": {
+      "url": "https://www.goodreads.com/book/show/22628423-black-market-cryptocurrencies"
+    },
+    "Breve História de Quase Tudo": {
+      "url": "https://www.goodreads.com/book/show/6399936-breve-hist-ria-de-quase-tudo"
+    },
+    "Capitães da Areia": {
+      "url": "https://www.goodreads.com/book/show/723456.Capit_es_da_Areia"
+    },
+    "Carl Sagan": {
+      "url": "https://www.goodreads.com/author/show/10538.Carl_Sagan"
+    },
+    "Cat's Cradle": {
+      "url": "https://www.goodreads.com/book/show/135479.Cat_s_Cradle"
+    },
+    "Cheryl A. Wicks": {
+      "url": "https://www.goodreads.com/author/show/112951.Cheryl_A_Wicks"
+    },
+    "Clean Code": {
+      "url": "https://www.goodreads.com/book/show/3735293-clean-code"
+    },
+    "Como Conversar com Um Fascista": {
+      "url": "https://www.goodreads.com/book/show/27308337-como-conversar-com-um-fascista"
+    },
+    "Como Fazer Amigos e Influenciar Pessoas": {
+      "url": "https://www.goodreads.com/book/show/25895956-como-fazer-amigos-e-influenciar-pessoas"
+    },
+    "Comédias da Vida Privada": {
+      "url": "https://www.goodreads.com/book/show/1272944.Com_dias_Da_Vida_Privada"
+    },
+    "Confessions of a Necromancer": {
+      "url": "https://www.goodreads.com/book/show/32326166-confessions-of-a-necromancer"
+    },
+    "Contos de Edgar Allan Poe": {
+      "url": "https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe"
+    },
+    "Creative Selection": {
+      "url": "https://www.goodreads.com/book/show/37638098-creative-selection"
+    },
+    "Crepúsculo": {
+      "url": "https://www.goodreads.com/book/show/1570814.Crep_sculo"
+    },
+    "Crime Castigo": {
+      "url": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment"
+    },
+    "Dan Brown": {
+      "url": "https://www.goodreads.com/author/show/630.Dan_Brown"
+    },
+    "Dan Simmons": {
+      "url": "https://www.goodreads.com/author/show/2687.Dan_Simmons"
+    },
+    "Dandelion Wine": {
+      "url": "https://www.goodreads.com/book/show/50033.Dandelion_Wine"
+    },
+    "Data and Goliath - Bruce Schneir": {
+      "url": "https://www.goodreads.com/book/show/25622873-data-and-goliath"
+    },
+    "Dear and Glorious Physician": {
+      "url": "https://www.goodreads.com/book/show/59097.Dear_and_Glorious_Physician"
+    },
+    "Deep Work": {
+      "url": "https://www.goodreads.com/book/show/25744928-deep-work"
+    },
+    "Delivering happiness": {
+      "url": "https://www.goodreads.com/book/show/6828896-delivering-happiness"
+    },
+    "Descomplicando o Docker": {
+      "url": "https://www.goodreads.com/book/show/33146316-descomplicando-o-docker"
+    },
+    "Design para Quem Não é Designer": {
+      "url": "https://www.goodreads.com/book/show/13500628-design-para-quem-n-o-designer"
+    },
+    "Difficult Women by Roxane Gay": {
+      "url": "https://www.goodreads.com/book/show/28818921-difficult-women"
+    },
+    "Dirk Gently's Holistic Detective Agency": {
+      "url": "https://www.goodreads.com/book/show/365.Dirk_Gently_s_Holistic_Detective_Agency"
+    },
+    "Dive into Python": {
+      "url": "https://www.goodreads.com/book/show/24038.Dive_Into_Python"
+    },
+    "Dive into Python 3": {
+      "url": "https://www.goodreads.com/book/show/6919462-dive-into-python-3"
+    },
+    "Django Essentials": {
+      "url": "https://www.goodreads.com/book/show/23099363-django-essentials"
+    },
+    "Dom Casmurro": {
+      "url": "https://www.goodreads.com/book/show/82888.Dom_Casmurro"
+    },
+    "Domain-Driven Design": {
+      "url": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+    },
+    "Dostoevsky: A Writer in His Time": {
+      "url": "https://www.goodreads.com/book/show/4988505-dostoevsky"
+    },
+    "Ed Brubaker": {
+      "url": "https://www.goodreads.com/author/show/37450.Ed_Brubaker"
+    },
+    "Einstein's Dreams": {
+      "url": "https://www.goodreads.com/book/show/14376.Einstein_s_Dreams"
+    },
+    "Elm in Action": {
+      "url": "https://www.goodreads.com/book/show/31441704-elm-in-action"
+    },
+    "Ender’s Game": {
+      "url": "https://www.goodreads.com/book/show/375802.Ender_s_Game"
+    },
+    "Escola da Vida": {
+      "url": "https://www.goodreads.com/book/show/29541762-escola-da-vida"
+    },
+    "Eu Sou A lenda": {
+      "url": "https://www.goodreads.com/book/show/30192639-eu-sou-a-lenda"
+    },
+    "Expert Python Programming": {
+      "url": "https://www.goodreads.com/book/show/5069668-expert-python-programming"
+    },
+    "Expressões Regulares": {
+      "url": "https://www.goodreads.com/book/show/9633168-express-es-regulares"
+    },
+    "Fernando Sabino": {
+      "url": "https://www.goodreads.com/author/show/52373.Fernando_Sabino"
+    },
+    "Fortaleza Digital": {
+      "url": "https://www.goodreads.com/book/show/6026313-fortaleza-digital"
+    },
+    "Founders at Work": {
+      "url": "https://www.goodreads.com/book/show/98233.Founders_at_Work"
+    },
+    "Free: The Future of a Radical Price": {
+      "url": "https://www.goodreads.com/book/show/6150530-free"
+    },
+    "Functional Programming in Python": {
+      "url": "https://www.goodreads.com/book/show/25977827-functional-programming-in-python"
+    },
+    "Game Over, Press Start to Continue": {
+      "url": "https://www.goodreads.com/book/show/339584.Game_Over_Press_Start_to_Continue"
+    },
+    "Garra De Campeão": {
+      "url": "https://www.goodreads.com/book/show/6605758-garra-de-campe-o"
+    },
+    "Go Web Programming": {
+      "url": "https://www.goodreads.com/book/show/27797995-go-web-programming"
+    },
+    "Go in Action": {
+      "url": "https://www.goodreads.com/book/show/22727352-go-in-action"
+    },
+    "Growing Object-Oriented Software, Guided by Tests": {
+      "url": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests"
+    },
+    "Gödel, Escher, Bach": {
+      "url": "https://www.goodreads.com/book/show/24113.G_del_Escher_Bach"
+    },
+    "H.P. Lovecraft's Book of the Supernatural": {
+      "url": "https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural"
+    },
+    "Harry Potter": {
+      "url": "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"
+    },
+    "Haruki Murakami": {
+      "url": "https://www.goodreads.com/author/show/3354.Haruki_Murakami"
+    },
+    "Hellblazer": {
+      "url": "https://www.goodreads.com/book/show/133017.Hellblazer"
+    },
+    "Hermetica": {
+      "url": "https://www.goodreads.com/book/show/681667.Hermetica"
+    },
+    "Homo Deus": {
+      "url": "https://www.goodreads.com/book/show/31138556-homo-deus"
+    },
+    "How rich people think": {
+      "url": "https://www.goodreads.com/book/show/9078646-how-rich-people-think"
+    },
+    "How to Be Successful without Hurting Men's Feelings": {
+      "url": "https://www.goodreads.com/book/show/39296119-how-to-be-successful-without-hurting-men-s-feelings"
+    },
+    "How to Lie with Statistics": {
+      "url": "https://www.goodreads.com/book/show/51291.How_to_Lie_with_Statistics"
+    },
+    "How to win friends and influence people": {
+      "url": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People"
+    },
+    "Humano, demasiado humano": {
+      "url": "https://www.goodreads.com/book/show/13414215-humano-demasiado-humano"
+    },
+    "Inferno": {
+      "url": "https://www.goodreads.com/book/show/17212231-inferno"
+    },
+    "Introdução à Programação com Python": {
+      "url": "https://www.goodreads.com/book/show/35109529-introdu-o-programa-o-com-python"
+    },
+    "Invocadores do Mal": {
+      "url": "https://www.goodreads.com/book/show/32703289-invocadores-do-mal"
+    },
+    "Isaac Asimov": {
+      "url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov"
+    },
+    "J.M. Coetzee": {
+      "url": "https://www.goodreads.com/author/show/4128.J_M_Coetzee"
+    },
+    "J.R.R Tolkien": {
+      "url": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
+    },
+    "JavaScript the Good Parts": {
+      "url": "https://www.goodreads.com/book/show/2998152-javascript"
+    },
+    "John Dickson Carr": {
+      "url": "https://www.goodreads.com/author/show/5622.John_Dickson_Carr"
+    },
+    "Jono Bacon": {
+      "url": "https://www.goodreads.com/author/show/22746.Jono_Bacon"
+    },
+    "Jorge Luis Borges": {
+      "url": "https://www.goodreads.com/author/show/500.Jorge_Luis_Borges"
+    },
+    "José Saramago": {
+      "url": "https://www.goodreads.com/author/show/1285555.Jos_Saramago"
+    },
+    "Jules Verne": {
+      "url": "https://www.goodreads.com/author/show/696805.Jules_Verne"
+    },
+    "Junji Ito": {
+      "url": "https://www.goodreads.com/author/show/8483.Junji_Ito"
+    },
+    "Ken Parker": {
+      "url": "https://www.goodreads.com/book/show/13558175-ken-parker"
+    },
+    "Kybalion": {
+      "url": "https://www.goodreads.com/book/show/1363427.Kybalion"
+    },
+    "Luis Fernando Verissimo": {
+      "url": "https://www.goodreads.com/author/show/24759.Luis_Fernando_Verissimo"
+    },
+    "Macro Wikinomics": {
+      "url": "https://www.goodreads.com/book/show/7857169-macrowikinomics?ac=1&from_search=true"
+    },
+    "Maria José Dupré": {
+      "url": "https://www.goodreads.com/author/show/1357307.Maria_Jos_Dupr_"
+    },
+    "Mario Vargas Llosa": {
+      "url": "https://www.goodreads.com/author/show/22515.Mario_Vargas_Llosa"
+    },
+    "Martin Fowler": {
+      "url": "https://www.goodreads.com/author/show/25215.Martin_Fowler"
+    },
+    "Mastering Bitcoin": {
+      "url": "https://www.goodreads.com/book/show/21820378-mastering-bitcoin"
+    },
+    "Mastering Ethereum": {
+      "url": "https://www.goodreads.com/book/show/33584554-mastering-ethereum"
+    },
+    "Mastery": {
+      "url": "https://www.goodreads.com/book/show/13589182-mastery"
+    },
+    "Maus": {
+      "url": "https://www.goodreads.com/book/show/15196.Maus_I"
+    },
+    "Menino Maluquinho": {
+      "url": "https://www.goodreads.com/book/show/1796355.O_Menino_Maluquinho"
+    },
+    "Monteiro Lobato": {
+      "url": "https://www.goodreads.com/author/show/2450573.Monteiro_Lobato"
+    },
+    "Musashi": {
+      "url": "https://www.goodreads.com/book/show/102030.Musashi"
+    },
+    "Na Margem Do Rio Piedra Eu Sentei e Chorei": {
+      "url": "https://www.goodreads.com/book/show/6313361-na-margem-do-rio-piedra-eu-sentei-e-chorei"
+    },
+    "Nas Montanhas da Loucura": {
+      "url": "https://www.goodreads.com/book/show/32767.At_the_Mountains_of_Madness"
+    },
+    "Natural Language Processing with Python": {
+      "url": "https://www.goodreads.com/book/show/6392569-natural-language-processing-with-python"
+    },
+    "O Apanhador no Campo de Centeio": {
+      "url": "https://www.goodreads.com/book/show/3192495-o-apanhador-no-campo-de-centeio"
+    },
+    "O Caçador de Pipas": {
+      "url": "https://www.goodreads.com/book/show/65438.O_Ca_ador_de_Pipas"
+    },
+    "O Conselheiro": {
+      "url": "https://www.goodreads.com/book/show/1873060.The_Go_Giver"
+    },
+    "O Código Da Vinci": {
+      "url": "https://www.goodreads.com/book/show/968.The_Da_Vinci_Code"
+    },
+    "O Diário de um Mago": {
+      "url": "https://www.goodreads.com/book/show/68887.O_Di_rio_de_um_Mago"
+    },
+    "O Estilho de Cristal": {
+      "url": "https://www.goodreads.com/book/show/66693.The_Crystal_Shard"
+    },
+    "O Fim da Infância": {
+      "url": "https://www.goodreads.com/book/show/13251514-o-fim-da-inf-ncia"
+    },
+    "O Gato Sou Eu": {
+      "url": "https://www.goodreads.com/book/show/5023557-o-gato-sou-eu"
+    },
+    "O Guia do Mochileiro das Galáxias": {
+      "url": "https://www.goodreads.com/book/show/10052680-o-guia-do-mochileiro-das-gal-xias"
+    },
+    "O Hobbit": {
+      "url": "https://www.goodreads.com/book/show/5907.The_Hobbit"
+    },
+    "O Idiota": {
+      "url": "https://www.goodreads.com/book/show/12505.The_Idiot"
+    },
+    "O Livro de Mirdad": {
+      "url": "https://www.goodreads.com/book/show/29233746-o-livro-de-mirdad"
+    },
+    "O Livro dos Cinco Anéis": {
+      "url": "https://www.goodreads.com/book/show/16119656-o-livro-dos-cinco-an-is"
+    },
+    "O Macaco Nu": {
+      "url": "https://www.goodreads.com/book/show/9062565-o-macaco-nu"
+    },
+    "O Mestre e Margarida": {
+      "url": "https://www.goodreads.com/book/show/7862896-o-mestre-e-margarida"
+    },
+    "O Monge e o Executivo": {
+      "url": "https://www.goodreads.com/book/show/3159713-o-monge-e-o-executivo"
+    },
+    "O Nascimento da Inteligência na Criança": {
+      "url": "https://www.goodreads.com/book/show/1728850.The_Origins_of_Intelligence_in_Children"
+    },
+    "O Processo": {
+      "url": "https://www.goodreads.com/book/show/6709963-o-processo"
+    },
+    "O Restaurante no fim do universo": {
+      "url": "https://www.goodreads.com/book/show/10021253-o-restaurante-no-fim-do-universo"
+    },
+    "O Senhor dos Anéis": {
+      "url": "https://www.goodreads.com/book/show/7829280-o-senhor-dos-an-is"
+    },
+    "O Triste Fim de Policarpo Quaresma": {
+      "url": "https://www.goodreads.com/book/show/830875.O_Triste_Fim_de_Policarpo_Quaresma"
+    },
+    "O Zoo Humano": {
+      "url": "https://www.goodreads.com/book/show/12936088-o-zoo-humano"
+    },
+    "O mais completo guia sobre e-commerce": {
+      "url": "https://www.goodreads.com/book/show/8371107-the-complete-idiot-s-guide-to-e-commerce"
+    },
+    "O milagre da manhã": {
+      "url": "https://www.goodreads.com/book/show/42744608-o-milagre-da-manh"
+    },
+    "O mundo assombrado pelos demônios": {
+      "url": "https://www.goodreads.com/book/show/21939710-o-mundo-assombrado-pelos-dem-nios"
+    },
+    "Oliver Sacks": {
+      "url": "https://www.goodreads.com/author/show/843200.Oliver_Sacks"
+    },
+    "On Writing": {
+      "url": "https://www.goodreads.com/book/show/10569.On_Writing"
+    },
+    "Operação Cavalo de Troia": {
+      "url": "https://www.goodreads.com/book/show/66632.Jerusal_n"
+    },
+    "Orientação a Objetos e SOLID para Ninjas": {
+      "url": "https://www.goodreads.com/book/show/25148706-orienta-o-a-objetos-e-solid-para-ninjas"
+    },
+    "Os Elefantes Não Esquecem": {
+      "url": "https://www.goodreads.com/book/show/23012036-os-elefantes-n-o-esquecem"
+    },
+    "Os Irmãos Karamazov": {
+      "url": "https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov"
+    },
+    "Os Meninos da Rua Paulo": {
+      "url": "https://www.goodreads.com/book/show/6250312-os-meninos-da-rua-paulo"
+    },
+    "Os Miseráveis": {
+      "url": "https://www.goodreads.com/book/show/18309595-os-miser-veis"
+    },
+    "Os Quatro Compromissos": {
+      "url": "https://www.goodreads.com/book/show/17192929-os-quatro-compromissos"
+    },
+    "Pai Rico, Pai Pobre": {
+      "url": "https://www.goodreads.com/book/show/41172720-pai-rico-pai-pobre-desenvolva-a-sua-intelig-ncia-financeira"
+    },
+    "Pense em Python": {
+      "url": "https://www.goodreads.com/book/show/40800648-pense-em-python"
+    },
+    "Percy Jackson": {
+      "url": "https://www.goodreads.com/book/show/28187.The_Lightning_Thief"
+    },
+    "Permutation City": {
+      "url": "https://www.goodreads.com/book/show/156784.Permutation_City"
+    },
+    "Philip K. Dick": {
+      "url": "https://www.goodreads.com/author/show/4764.Philip_K_Dick"
+    },
+    "Practical Vim": {
+      "url": "https://www.goodreads.com/book/show/13607232-practical-vim"
+    },
+    "Primeiras Estórias": {
+      "url": "https://www.goodreads.com/book/show/2260392.Primeiras_Est_rias"
+    },
+    "Programando em Go": {
+      "url": "https://www.goodreads.com/book/show/22694593-programando-em-go"
+    },
+    "Programming Collective Intelligence": {
+      "url": "https://www.goodreads.com/book/show/1741472.Programming_Collective_Intelligence"
+    },
+    "Programming in Lua": {
+      "url": "https://www.goodreads.com/book/show/1332383.Programming_in_Lua"
+    },
+    "Python Cookbook": {
+      "url": "https://www.goodreads.com/book/show/17152735-python-cookbook"
+    },
+    "Python Essential Reference": {
+      "url": "https://www.goodreads.com/book/show/80444.Python_Essential_Reference"
+    },
+    "Python Fluente": {
+      "url": "https://www.goodreads.com/book/show/36361456-python-fluente"
+    },
+    "Python Testing with Pytest": {
+      "url": "https://www.goodreads.com/book/show/34695799-python-testing-with-pytest"
+    },
+    "R. A. Salvatore": {
+      "url": "https://www.goodreads.com/author/show/1023510.R_A_Salvatore"
+    },
+    "Raspberry Pi Cookbook": {
+      "url": "https://www.goodreads.com/book/show/18079365-raspberry-pi-cookbook"
+    },
+    "Ready Player One": {
+      "url": "https://www.goodreads.com/book/show/9969571-ready-player-one"
+    },
+    "Refactoring": {
+      "url": "https://www.goodreads.com/book/show/44936.Refactoring"
+    },
+    "Rendezvous with Rama": {
+      "url": "https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama"
+    },
+    "Revistas do Batman": {
+      "url": "https://www.goodreads.com/book/show/59980.Batman"
+    },
+    "Rework": {
+      "url": "https://www.goodreads.com/book/show/6732019-rework"
+    },
+    "Sapiens": {
+      "url": "https://www.goodreads.com/book/show/23692271-sapiens"
+    },
+    "Shōgun": {
+      "url": "https://www.goodreads.com/book/show/402093.Sh_gun"
+    },
+    "Site Reliability Engineering": {
+      "url": "https://www.goodreads.com/book/show/27968891-site-reliability-engineering"
+    },
+    "Spacewalk: The Red Hat Satellite Project": {
+      "url": "https://www.goodreads.com/book/show/34887956-spacewalk"
+    },
+    "Stand Out of Our Light - James Williams": {
+      "url": "https://www.goodreads.com/book/show/38364667-stand-out-of-our-light"
+    },
+    "Start with why": {
+      "url": "https://www.goodreads.com/book/show/7108725-start-with-why"
+    },
+    "Station Eleven by John Mandel": {
+      "url": "https://www.goodreads.com/book/show/20170404-station-eleven"
+    },
+    "Stephen Hawking": {
+      "url": "https://www.goodreads.com/author/show/1401.Stephen_Hawking"
+    },
+    "Steve Jobs": {
+      "url": "https://www.goodreads.com/book/show/11084145-steve-jobs"
+    },
+    "Surely You're Joking, Mr. Feynman!": {
+      "url": "https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_"
+    },
+    "Série Vaga-lume": {
+      "url": "https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume"
+    },
+    "Terry Pratchett": {
+      "url": "https://www.goodreads.com/author/show/1654.Terry_Pratchett"
+    },
+    "Test Driven Development": {
+      "url": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+    },
+    "Tex": {
+      "url": "https://www.goodreads.com/book/show/30309481-tex-graphic-novel-1"
+    },
+    "The 10x rule": {
+      "url": "https://www.goodreads.com/book/show/10339170-the-10x-rule"
+    },
+    "The Abolition of Antitrust": {
+      "url": "https://www.goodreads.com/book/show/1758693.The_Abolition_of_Antitrust"
+    },
+    "The Art of Community": {
+      "url": "https://www.goodreads.com/book/show/6389228-the-art-of-community"
+    },
+    "The Art of Computer Programming": {
+      "url": "https://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set"
+    },
+    "The Art of Strategy": {
+      "url": "https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy"
+    },
+    "The Bhagavad Gita": {
+      "url": "https://www.goodreads.com/book/show/99944.The_Bhagavad_Gita"
+    },
+    "The Black Swan": {
+      "url": "https://www.goodreads.com/book/show/242472.The_Black_Swan"
+    },
+    "The Book of the Law": {
+      "url": "https://www.goodreads.com/book/show/123653.The_Book_of_the_Law"
+    },
+    "The Clean Coder": {
+      "url": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+    },
+    "The Code Book": {
+      "url": "https://www.goodreads.com/book/show/17994.The_Code_Book"
+    },
+    "The Decision Book": {
+      "url": "https://www.goodreads.com/book/show/9793361-the-decision-book"
+    },
+    "The End of Management and the Rise of Organizational Democracy": {
+      "url": "https://www.goodreads.com/book/show/971989.The_End_of_Management_and_the_Rise_of_Organizational_Democracy"
+    },
+    "The Go Programming Language": {
+      "url": "https://www.goodreads.com/book/show/25080953-the-go-programming-language"
+    },
+    "The Godfather": {
+      "url": "https://www.goodreads.com/book/show/22034.The_Godfather"
+    },
+    "The Happiness Hypothesis": {
+      "url": "https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis"
+    },
+    "The Hollow Man": {
+      "url": "https://www.goodreads.com/book/show/34815037-the-hollow-man"
+    },
+    "The Incredible Secret Money Machine": {
+      "url": "https://www.goodreads.com/book/show/17565644-the-incredible-secret-money-machine"
+    },
+    "The Lean Startup": {
+      "url": "https://www.goodreads.com/book/show/10127019-the-lean-startup"
+    },
+    "The Lost Symbol": {
+      "url": "https://www.goodreads.com/book/show/6411961-the-lost-symbol"
+    },
+    "The Martian Chronicles": {
+      "url": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles"
+    },
+    "The Messy Middle": {
+      "url": "https://www.goodreads.com/book/show/40179007-the-messy-middle"
+    },
+    "The Monte Cristo Cover-Up": {
+      "url": "https://www.goodreads.com/book/show/6313614-the-monte-cristo-cover-up"
+    },
+    "The Open Organization": {
+      "url": "https://www.goodreads.com/book/show/23258978-the-open-organization"
+    },
+    "The Paradox of Choice": {
+      "url": "https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice"
+    },
+    "The Phoenix Project": {
+      "url": "https://www.goodreads.com/book/show/17255186-the-phoenix-project"
+    },
+    "The Pragmatic Programmer": {
+      "url": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+    },
+    "The Quick Python Book": {
+      "url": "https://www.goodreads.com/book/show/20351126-the-quick-python-book-second-edition"
+    },
+    "The Republic": {
+      "url": "https://www.goodreads.com/book/show/30289.The_Republic"
+    },
+    "The Sandman": {
+      "url": "https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1"
+    },
+    "The Stand": {
+      "url": "https://www.goodreads.com/book/show/149267.The_Stand"
+    },
+    "The Startup Owner's Manual": {
+      "url": "https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual"
+    },
+    "The Turning Point": {
+      "url": "https://www.goodreads.com/book/show/150999.The_Turning_Point"
+    },
+    "The Wall Street Journal Guide to Information Graphics": {
+      "url": "https://www.goodreads.com/book/show/6542897-the-wall-street-journal-guide-to-information-graphics"
+    },
+    "Thinking, Fast and Slow": {
+      "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
+    },
+    "Tio Patinhas": {
+      "url": "https://www.goodreads.com/book/show/23293716-tio-patinhas"
+    },
+    "Total Recall": {
+      "url": "https://www.goodreads.com/book/show/14546626-total-recall"
+    },
+    "Tudo ou Nada": {
+      "url": "https://www.goodreads.com/book/show/23568882-tudo-ou-nada"
+    },
+    "Turma da Mônica": {
+      "url": "https://www.goodreads.com/book/show/3620538-as-tiras-cl-ssicas-da-turma-da-m-nica"
+    },
+    "Two Scoops of Django 1.11": {
+      "url": "https://www.goodreads.com/book/show/35652973-two-scoops-of-django-1-11"
+    },
+    "Uma Breve História do Tempo": {
+      "url": "https://www.goodreads.com/book/show/28004782-uma-breve-hist-ria-do-tempo"
+    },
+    "Uncle Bob": {
+      "url": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+    },
+    "Use a Cabeça! Rails": {
+      "url": "https://www.goodreads.com/book/show/4949867-head-first-rails"
+    },
+    "Use a Cabeça! Ruby": {
+      "url": "https://www.goodreads.com/book/show/23466394-head-first-ruby"
+    },
+    "Viagem ao Centro da Terra": {
+      "url": "https://www.goodreads.com/book/show/23930886-viagem-ao-centro-da-terra"
+    },
+    "Warren Ellis": {
+      "url": "https://www.goodreads.com/author/show/12772.Warren_Ellis"
+    },
+    "Watchmen": {
+      "url": "https://www.goodreads.com/book/show/472331.Watchmen"
+    },
+    "Weapons of Math Destruction": {
+      "url": "https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction"
+    },
+    "Web Scraping com Python": {
+      "url": "https://www.goodreads.com/book/show/24488664-web-scraping-with-python"
+    },
+    "Why Nations Fail": {
+      "url": "https://www.goodreads.com/book/show/12158480-why-nations-fail"
+    },
+    "Zagor": {
+      "url": "https://www.goodreads.com/book/show/6600147-zagor-n-1"
+    },
+    "Álgebra Linear e Aplicações": {
+      "url": "https://www.goodreads.com/book/show/17858710-lgebra-linear-e-aplica-es"
     }
+  },
+  "movie": {
+    "1000 Ways to Die": {
+      "url": "https://www.imdb.com/title/tt1105711/"
+    },
+    "101 Dalmatas": {
+      "url": "https://www.imdb.com/title/tt0115433/"
+    },
+    "2001 Uma Odisséia no Espaço": {
+      "url": "https://www.imdb.com/title/tt0062622/"
+    },
+    "A Espera de um Milagre": {
+      "url": "https://www.imdb.com/title/tt0120689/"
+    },
+    "A Lista de Schindler": {
+      "url": "https://www.imdb.com/title/tt0108052/"
+    },
+    "A Morte do Demônio": {
+      "url": "https://www.imdb.com/title/tt1288558/"
+    },
+    "A Morte no Funeral": {
+      "url": "https://www.imdb.com/title/tt0795368/"
+    },
+    "A Onda": {
+      "url": "https://www.imdb.com/title/tt1063669/"
+    },
+    "A Origem": {
+      "url": "https://www.imdb.com/title/tt1375666/"
+    },
+    "A Vida é Bela": {
+      "url": "https://www.imdb.com/title/tt0118799/"
+    },
+    "American Beauty": {
+      "url": "https://www.imdb.com/title/tt0169547/"
+    },
+    "Amor Além da Vida": {
+      "url": "https://www.imdb.com/title/tt0120889/"
+    },
+    "Amélie": {
+      "url": "https://www.imdb.com/title/tt0211915/"
+    },
+    "Anchorman": {
+      "url": "https://www.imdb.com/title/tt0357413/"
+    },
+    "Apocalypse": {
+      "url": "https://www.imdb.com/title/tt2594098/"
+    },
+    "Apollo 18": {
+      "url": "https://www.imdb.com/title/tt1772240/"
+    },
+    "Arrival": {
+      "url": "https://www.imdb.com/title/tt2543164/"
+    },
+    "Arrow": {
+      "url": "https://www.imdb.com/title/tt2193021/"
+    },
+    "Ash vs Evil Dead": {
+      "url": "https://www.imdb.com/title/tt4189022/"
+    },
+    "Avatar": {
+      "url": "https://www.imdb.com/title/tt0499549/"
+    },
+    "Avengers": {
+      "url": "https://www.imdb.com/title/tt0848228/"
+    },
+    "Batman": {
+      "url": "https://www.imdb.com/title/tt0372784/"
+    },
+    "Beau Geste": {
+      "url": "https://www.imdb.com/title/tt0060155/"
+    },
+    "Beleza Americana": {
+      "url": "https://www.imdb.com/title/tt0169547/"
+    },
+    "Ben 10": {
+      "url": "https://www.imdb.com/title/tt0760437/"
+    },
+    "Better Call Saul": {
+      "url": "https://www.imdb.com/title/tt3032476/"
+    },
+    "Big Fish": {
+      "url": "https://www.imdb.com/title/tt0319061/"
+    },
+    "BlacKkKlansman": {
+      "url": "https://www.imdb.com/title/tt7349662/"
+    },
+    "Black Mirror": {
+      "url": "https://www.imdb.com/title/tt2085059/"
+    },
+    "Blade Runner": {
+      "url": "https://www.imdb.com/title/tt0083658/"
+    },
+    "BoJack Horseman": {
+      "url": "https://www.imdb.com/title/tt3398228/"
+    },
+    "Bohemian Rhapsody": {
+      "url": "https://www.imdb.com/title/tt1727824/"
+    },
+    "Breaking Bad": {
+      "url": "https://www.imdb.com/title/tt0903747/"
+    },
+    "Brilho Eterno de uma Mente sem Lembranças": {
+      "url": "https://www.imdb.com/title/tt0338013/"
+    },
+    "Casa Blanca": {
+      "url": "https://www.imdb.com/title/tt0034583/"
+    },
+    "Caverna do Dragão": {
+      "url": "https://www.imdb.com/title/tt0085011/"
+    },
+    "Caça Fantasmas": {
+      "url": "https://www.imdb.com/title/tt1289401/"
+    },
+    "Chapolin": {
+      "url": "https://www.imdb.com/title/tt0229888/"
+    },
+    "Charlie Chaplin - O Grande Ditador": {
+      "url": "https://www.imdb.com/title/tt0032553/"
+    },
+    "Charlie Chaplin - Tempos Modernos": {
+      "url": "https://www.imdb.com/title/tt0027977/"
+    },
+    "Cinema Paradiso": {
+      "url": "https://www.imdb.com/title/tt0095765/"
+    },
+    "Clube da Luta": {
+      "url": "https://www.imdb.com/title/tt0137523/"
+    },
+    "Clue": {
+      "url": "https://www.imdb.com/title/tt0088930/"
+    },
+    "Cobra": {
+      "url": "https://www.imdb.com/title/tt0090859/"
+    },
+    "Coração Valente": {
+      "url": "https://www.imdb.com/title/tt0112573/"
+    },
+    "Cosmos A Spacetime Odyssey": {
+      "url": "https://www.imdb.com/title/tt2395695/"
+    },
+    "Cry Baby": {
+      "url": "https://www.imdb.com/title/tt0099329/"
+    },
+    "Dançando no Escuro": {
+      "url": "https://www.imdb.com/title/tt0168629/"
+    },
+    "Daredevil": {
+      "url": "https://www.imdb.com/title/tt3322312/"
+    },
+    "Dark City": {
+      "url": "https://www.imdb.com/title/tt0118929/"
+    },
+    "De Volta Para o Futuro": {
+      "url": "https://www.imdb.com/title/tt0088763/"
+    },
+    "Dead Poets Society": {
+      "url": "https://www.imdb.com/title/tt0097165/"
+    },
+    "Deep Web": {
+      "url": "https://www.imdb.com/title/tt3312868/"
+    },
+    "Demolidor": {
+      "url": "https://www.imdb.com/title/tt3322312/"
+    },
+    "Derek": {
+      "url": "https://www.imdb.com/title/tt2616280/"
+    },
+    "Deuses Americanos": {
+      "url": "https://www.imdb.com/title/tt1898069/"
+    },
+    "Dexter": {
+      "url": "https://www.imdb.com/title/tt0773262/"
+    },
+    "Doctor Strange": {
+      "url": "https://www.imdb.com/title/tt1211837/"
+    },
+    "Doze homens e uma sentença": {
+      "url": "https://www.imdb.com/title/tt0050083/"
+    },
+    "Dracula Morto, mas Feliz": {
+      "url": "https://www.imdb.com/title/tt0112896/"
+    },
+    "Dragon Ball Z": {
+      "url": "https://www.imdb.com/title/tt0121220/"
+    },
+    "Dune": {
+      "url": "https://www.imdb.com/title/tt0087182/"
+    },
+    "El Chavo": {
+      "url": "https://www.imdb.com/title/tt0229889/"
+    },
+    "Ex Machina": {
+      "url": "https://www.imdb.com/title/tt0470752/"
+    },
+    "Exterminador do Futuro": {
+      "url": "https://www.imdb.com/title/tt0088247/"
+    },
+    "Family Guy": {
+      "url": "https://www.imdb.com/title/tt0182576/"
+    },
+    "Fantastic Mister Fox": {
+      "url": "https://www.imdb.com/title/tt0432283/"
+    },
+    "Fatal": {
+      "url": "https://www.imdb.com/title/tt0974554/"
+    },
+    "Ferris Bueller's Day Off": {
+      "url": "https://www.imdb.com/title/tt0091042/"
+    },
+    "Festim Diabólico": {
+      "url": "https://www.imdb.com/title/tt0040746/"
+    },
+    "Fight Club": {
+      "url": "https://www.imdb.com/title/tt0137523/"
+    },
+    "Filme Gattaca": {
+      "url": "https://www.imdb.com/title/tt0119177/"
+    },
+    "Filme O Código Da Vinci": {
+      "url": "https://www.imdb.com/title/tt0382625/"
+    },
+    "Filme Snatch": {
+      "url": "https://www.imdb.com/title/tt0208092/"
+    },
+    "Fogo Contra Fogo": {
+      "url": "https://www.imdb.com/title/tt0113277/"
+    },
+    "Fonte da Vida": {
+      "url": "https://www.imdb.com/title/tt0414993/"
+    },
+    "Forrest Gump": {
+      "url": "https://www.imdb.com/title/tt0109830/"
+    },
+    "Free to Run": {
+      "url": "https://www.imdb.com/title/tt3530882/"
+    },
+    "Fullmetal Alchemist": {
+      "url": "https://www.imdb.com/title/tt0421357/"
+    },
+    "Game of Thrones": {
+      "url": "https://www.imdb.com/title/tt0944947/"
+    },
+    "Gotham": {
+      "url": "https://www.imdb.com/title/tt3749900/"
+    },
+    "Greys Anatomy": {
+      "url": "https://www.imdb.com/title/tt0413573/"
+    },
+    "Grimm": {
+      "url": "https://www.imdb.com/title/tt1830617/"
+    },
+    "Guerra nas Estrelas - Imperio Contra Ataca": {
+      "url": "https://www.imdb.com/title/tt0080684/"
+    },
+    "Harry Potter e a Pedra Filosofal": {
+      "url": "https://www.imdb.com/title/tt0241527/"
+    },
+    "Hercules": {
+      "url": "https://www.imdb.com/title/tt0119282/"
+    },
+    "Homem de Ferro": {
+      "url": "https://www.imdb.com/title/tt0371746/"
+    },
+    "House M.D.": {
+      "url": "https://www.imdb.com/title/tt0412142/"
+    },
+    "House of cards": {
+      "url": "https://www.imdb.com/title/tt1856010/"
+    },
+    "Inception": {
+      "url": "https://www.imdb.com/title/tt1375666/"
+    },
+    "Independence Day": {
+      "url": "https://www.imdb.com/title/tt0116629/"
+    },
+    "Interestelar": {
+      "url": "https://www.imdb.com/title/tt0816692/"
+    },
+    "Jaspion": {
+      "url": "https://www.imdb.com/title/tt0182616/"
+    },
+    "Jessica Jones": {
+      "url": "https://www.imdb.com/title/tt2357547/"
+    },
+    "Jiro Dreams of Sushi": {
+      "url": "https://www.imdb.com/title/tt1772925/"
+    },
+    "Jodorowsky's Dune": {
+      "url": "https://www.imdb.com/title/tt1935156/"
+    },
+    "Jogos de Guerra": {
+      "url": "https://www.imdb.com/title/tt0086567/"
+    },
+    "Joy": {
+      "url": "https://www.imdb.com/title/tt2446980/"
+    },
+    "Kamikaze Girls": {
+      "url": "https://www.imdb.com/title/tt0416220/"
+    },
+    "Kung Fu Hustle": {
+      "url": "https://www.imdb.com/title/tt0373074/"
+    },
+    "Ladrões de Bicicleta": {
+      "url": "https://www.imdb.com/title/tt0040522/"
+    },
+    "Liar Liar": {
+      "url": "https://www.imdb.com/title/tt0119528/"
+    },
+    "Lord of the Rings": {
+      "url": "https://www.imdb.com/title/tt0120737/"
+    },
+    "Luke Cage": {
+      "url": "https://www.imdb.com/title/tt3322314/"
+    },
+    "Léon O Profissional": {
+      "url": "https://www.imdb.com/title/tt0110413/"
+    },
+    "Manhunt Unabomber": {
+      "url": "https://www.imdb.com/title/tt5618256/"
+    },
+    "Memento": {
+      "url": "https://www.imdb.com/title/tt0209144/"
+    },
+    "Mr. Robot": {
+      "url": "https://www.imdb.com/title/tt4158110/"
+    },
+    "Mulher Maravilha": {
+      "url": "https://www.imdb.com/title/tt0451279/"
+    },
+    "Nausicaä of the Valley of the Wind": {
+      "url": "https://www.imdb.com/title/tt0087544/"
+    },
+    "Now You See Me": {
+      "url": "https://www.imdb.com/title/tt1670345/"
+    },
+    "O 13º Andar": {
+      "url": "https://www.imdb.com/title/tt0139809/"
+    },
+    "O Brother, Where Art Thou?": {
+      "url": "https://www.imdb.com/title/tt0190590/"
+    },
+    "O Corvo": {
+      "url": "https://www.imdb.com/title/tt0109506/"
+    },
+    "O Fabuloso Destino de Amelie Polan": {
+      "url": "https://www.imdb.com/title/tt0211915/"
+    },
+    "O Grande Hotel Budapeste": {
+      "url": "https://www.imdb.com/title/tt2278388/"
+    },
+    "O Grande Truque": {
+      "url": "https://www.imdb.com/title/tt0482571/"
+    },
+    "O Iluminado": {
+      "url": "https://www.imdb.com/title/tt0081505/"
+    },
+    "O Ilusionista": {
+      "url": "https://www.imdb.com/title/tt0443543/"
+    },
+    "O Incrível Exército Brancaleone": {
+      "url": "https://www.imdb.com/title/tt0060125/"
+    },
+    "O Menino do Pijama Listrado": {
+      "url": "https://www.imdb.com/title/tt0914798/"
+    },
+    "O Poderoso Chefão": {
+      "url": "https://www.imdb.com/title/tt0068646/"
+    },
+    "O Quinto Elemento": {
+      "url": "https://www.imdb.com/title/tt0119116/"
+    },
+    "O Senhor dos Anéis": {
+      "url": "https://www.imdb.com/title/tt0120737/"
+    },
+    "O Troco": {
+      "url": "https://www.imdb.com/title/tt0120784/"
+    },
+    "O que Fazemos nas Sombras": {
+      "url": "https://www.imdb.com/title/tt3416742/"
+    },
+    "O Último Ato": {
+      "url": "https://www.imdb.com/title/tt1568343/"
+    },
+    "Oldboy": {
+      "url": "https://www.imdb.com/title/tt0364569/"
+    },
+    "One Piece": {
+      "url": "https://www.imdb.com/title/tt0388629/"
+    },
+    "One Strange Rock": {
+      "url": "https://www.imdb.com/title/tt7651892/"
+    },
+    "Onze Homens e Um Segredo": {
+      "url": "https://www.imdb.com/title/tt0240772/"
+    },
+    "Os Cavaleiros do Zodíaco": {
+      "url": "https://www.imdb.com/title/tt0161952/"
+    },
+    "Os Guardiões da Galáxia": {
+      "url": "https://www.imdb.com/title/tt3896198/"
+    },
+    "Os Trapalhões": {
+      "url": "https://www.imdb.com/title/tt0143073/"
+    },
+    "Os Vingadores": {
+      "url": "https://www.imdb.com/title/tt0848228/"
+    },
+    "Pastoral Americana": {
+      "url": "https://www.imdb.com/title/tt0376479/"
+    },
+    "Penn & Teller Bullshit!": {
+      "url": "https://www.imdb.com/title/tt0346369/"
+    },
+    "Potiche": {
+      "url": "https://www.imdb.com/title/tt1521848/"
+    },
+    "Primer": {
+      "url": "https://www.imdb.com/title/tt0390384/"
+    },
+    "Prison Break": {
+      "url": "https://www.imdb.com/title/tt0455275/"
+    },
+    "Psicose": {
+      "url": "https://www.imdb.com/title/tt0054215/"
+    },
+    "Pulp Fiction": {
+      "url": "https://www.imdb.com/title/tt0110912/"
+    },
+    "RRRrrrr!!!": {
+      "url": "https://www.imdb.com/title/tt0357111/"
+    },
+    "Resident Evil": {
+      "url": "https://www.imdb.com/title/tt0120804/"
+    },
+    "Ressaca de Amor": {
+      "url": "https://www.imdb.com/title/tt0800039/"
+    },
+    "Revelações": {
+      "url": "https://www.imdb.com/title/tt0308383/"
+    },
+    "Rick and Morty": {
+      "url": "https://www.imdb.com/title/tt2861424/"
+    },
+    "Scarface": {
+      "url": "https://www.imdb.com/title/tt0086250/"
+    },
+    "Se7en": {
+      "url": "https://www.imdb.com/title/tt0114369/"
+    },
+    "Seinfeld": {
+      "url": "https://www.imdb.com/title/tt0098904/"
+    },
+    "Senhor dos Anéis": {
+      "url": "https://www.imdb.com/title/tt0120737/"
+    },
+    "Shark Tank": {
+      "url": "https://www.imdb.com/title/tt1442550/"
+    },
+    "Sherlock BBC": {
+      "url": "www.imdb.com/title/tt1475582/"
+    },
+    "Silicon Valley": {
+      "url": "https://www.imdb.com/title/tt2575988/"
+    },
+    "Snatch": {
+      "url": "https://www.imdb.com/title/tt0208092/"
+    },
+    "Sonho de Liberdade": {
+      "url": "https://www.imdb.com/title/tt0111161/"
+    },
+    "Spinal Tap": {
+      "url": "https://www.imdb.com/title/tt0439825/"
+    },
+    "Star Trek": {
+      "url": "https://www.imdb.com/title/tt0060028/"
+    },
+    "Star Wars": {
+      "url": "https://www.imdb.com/title/tt0120915/"
+    },
+    "Star Wars - Return of the Jedi": {
+      "url": "https://www.imdb.com/title/tt0086190/"
+    },
+    "Star Wars - The Empire Strikes Back": {
+      "url": "https://www.imdb.com/title/tt0080684/"
+    },
+    "Star Wars Episode V - O Império Contra Ataca": {
+      "url": "https://www.imdb.com/title/tt0080684/"
+    },
+    "Star Wars Episode VI - Return of the Jedi": {
+      "url": "https://www.imdb.com/title/tt0086190/"
+    },
+    "Star Wars O Retorno de Jedi": {
+      "url": "https://www.imdb.com/title/tt0086190/"
+    },
+    "Star Wars O Retorno do Jedi": {
+      "url": "https://www.imdb.com/title/tt0086190/"
+    },
+    "Stranger Things": {
+      "url": "https://www.imdb.com/title/tt4574334/"
+    },
+    "Suits": {
+      "url": "https://www.imdb.com/title/tt1632701/"
+    },
+    "Summits of My Life A Fine Line": {
+      "url": "https://www.imdb.com/title/tt2625054/"
+    },
+    "Supernatural": {
+      "url": "https://www.imdb.com/title/tt0460681/"
+    },
+    "Sítio do Pica-Pau Amarelo": {
+      "url": "https://www.imdb.com/title/tt0149528/"
+    },
+    "Talladega Nights": {
+      "url": "https://www.imdb.com/title/tt0415306/"
+    },
+    "Tempos Modernos": {
+      "url": "https://www.imdb.com/title/tt0027977/"
+    },
+    "The Animatrix": {
+      "url": "https://www.imdb.com/title/tt0328832/"
+    },
+    "The Big Bang Theory": {
+      "url": "https://www.imdb.com/title/tt0898266/"
+    },
+    "The Big Lebowski": {
+      "url": "https://www.imdb.com/title/tt0118715/"
+    },
+    "The Borgias": {
+      "url": "https://www.imdb.com/title/tt1582457/"
+    },
+    "The Circle": {
+      "url": "https://www.imdb.com/title/tt4287320/"
+    },
+    "The Curse of Oak Island": {
+      "url": "https://www.imdb.com/title/tt3455408/"
+    },
+    "The Dark Knight": {
+      "url": "https://www.imdb.com/title/tt0468569/"
+    },
+    "The Flash": {
+      "url": "https://www.imdb.com/title/tt3107288/"
+    },
+    "The Good Wife": {
+      "url": "https://www.imdb.com/title/tt1442462/"
+    },
+    "The Good, The Bad and The Ugly": {
+      "url": "https://www.imdb.com/title/tt0060196/"
+    },
+    "The Handmaid's Tale": {
+      "url": "https://www.imdb.com/title/tt5834204/"
+    },
+    "The IT Crowd": {
+      "url": "https://www.imdb.com/title/tt0487831/"
+    },
+    "The Imitation Game": {
+      "url": "https://www.imdb.com/title/tt2084970/"
+    },
+    "The Inglorious Basterds": {
+      "url": "https://www.imdb.com/title/tt0361748/"
+    },
+    "The Marvelous Mrs. Maisel": {
+      "url": "https://www.imdb.com/title/tt5788792/"
+    },
+    "The Matrix": {
+      "url": "https://www.imdb.com/title/tt0133093/"
+    },
+    "The Office": {
+      "url": "https://www.imdb.com/title/tt0386676/"
+    },
+    "The Office (America)": {
+      "url": "https://www.imdb.com/title/tt0386676/"
+    },
+    "The Party": {
+      "url": "https://www.imdb.com/title/tt0063415/"
+    },
+    "The Prestige": {
+      "url": "https://www.imdb.com/title/tt0482571/"
+    },
+    "The Prince of Egypt": {
+      "url": "https://www.imdb.com/title/tt0120794/"
+    },
+    "The Profit": {
+      "url": "https://www.imdb.com/title/tt3080030/"
+    },
+    "The Simpsons": {
+      "url": "https://www.imdb.com/title/tt0096697/"
+    },
+    "Total Recall": {
+      "url": "https://www.imdb.com/title/tt1386703/"
+    },
+    "Trainspotting": {
+      "url": "https://www.imdb.com/title/tt0117951/"
+    },
+    "Tron": {
+      "url": "https://www.imdb.com/title/tt0084827/"
+    },
+    "Tropa de Elite": {
+      "url": "https://www.imdb.com/title/tt0861739/"
+    },
+    "Tropic Thunder": {
+      "url": "https://www.imdb.com/title/tt0942385/"
+    },
+    "Um Maluco no Pedaço": {
+      "url": "https://www.imdb.com/title/tt0098800/"
+    },
+    "Um Sonho de Liberdade": {
+      "url": "https://www.imdb.com/title/tt0111161/"
+    },
+    "Uma Mente Brilhante": {
+      "url": "https://www.imdb.com/title/tt0268978/"
+    },
+    "Una Pura Formalitá": {
+      "url": "https://www.imdb.com/title/tt0110917/"
+    },
+    "Van Helsing": {
+      "url": "https://www.imdb.com/title/tt5197820/"
+    },
+    "Vanilla Sky": {
+      "url": "https://www.imdb.com/title/tt0259711/"
+    },
+    "Vidas em Jogo": {
+      "url": "https://www.imdb.com/title/tt0119174/"
+    },
+    "Vikings": {
+      "url": "https://www.imdb.com/title/tt2306299/"
+    },
+    "Waking Life": {
+      "url": "https://www.imdb.com/title/tt0243017/"
+    },
+    "Watchmen": {
+      "url": "https://www.imdb.com/title/tt0409459/"
+    },
+    "X-Men": {
+      "url": "https://www.imdb.com/title/tt0120903/"
+    },
+    "Zeitgeist": {
+      "url": "https://www.imdb.com/title/tt1166827/"
+    },
+    "À Procura da Felicidade": {
+      "url": "https://www.imdb.com/title/tt0454921/"
+    }
+  },
+  "music": {
+    "2Cellos": {
+      "url": "https://www.last.fm/music/2cellos"
+    },
+    "311": {
+      "url": "https://www.last.fm/music/311"
+    },
+    "AC/DC": {
+      "url": "https://www.last.fm/music/AC%2FDC"
+    },
+    "AC/DC - Highway to Hell": {
+      "url": "https://www.last.fm/music/AC%2FDC/_/Highway+to+Hell"
+    },
+    "Adele": {
+      "url": "https://www.last.fm/music/Adele"
+    },
+    "After Forever": {
+      "url": "https://www.last.fm/music/After+Forever"
+    },
+    "Al Green - Let's Stay Together (versão da Odara Sol)": {
+      "url": "https://www.last.fm/music/Al+Green/_/Let%27s+Stay+Together"
+    },
+    "Alan Parsons": {
+      "url": "https://www.last.fm/music/Alan+Parsons"
+    },
+    "Anathema": {
+      "url": "https://www.last.fm/music/Anathema"
+    },
+    "Andy McKee": {
+      "url": "https://www.last.fm/music/Andy+McKee"
+    },
+    "Angra": {
+      "url": "https://www.last.fm/music/Angra"
+    },
+    "Angus Stone": {
+      "url": "https://www.last.fm/music/Angus+Stone"
+    },
+    "Annihilator": {
+      "url": "https://www.last.fm/music/Annihilator"
+    },
+    "Annita": {
+      "url": "https://www.last.fm/music/Anitta"
+    },
+    "Antônio Carlos Jobim - Wave": {
+      "url": "https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave"
+    },
+    "Antônio Carlos Jobim - Águas de Março": {
+      "url": "https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/%C3%81guas+de+mar%C3%A7o"
+    },
+    "Antônio Pereira": {
+      "url": "https://www.last.fm/music/Ant%C3%B4nio+Pereira"
+    },
+    "Apocalyptica": {
+      "url": "https://www.last.fm/music/Apocalyptica"
+    },
+    "Arcade Fire": {
+      "url": "https://www.last.fm/music/Arcade+Fire"
+    },
+    "Arch Enemy": {
+      "url": "https://www.last.fm/music/Arch+Enemy"
+    },
+    "Arch Enemy - War Eternal": {
+      "url": "https://www.last.fm/music/Arch+Enemy/_/War+Eternal"
+    },
+    "Asia": {
+      "url": "https://www.last.fm/music/Asia"
+    },
+    "Attaque 77 (Argentina)": {
+      "url": "https://www.last.fm/music/Attaque+77"
+    },
+    "Avantasia": {
+      "url": "https://www.last.fm/music/Avantasia"
+    },
+    "B.B. King": {
+      "url": "https://www.last.fm/music/B.B.+King"
+    },
+    "B.B. King & Eric Clapton - Riding With the King": {
+      "url": "https://www.last.fm/music/B.B.+King+&+Eric+Clapton/_/Riding+With+the+King"
+    },
+    "Baby D - Let Me Be Your Fantasy": {
+      "url": "https://www.last.fm/music/Baby+D/_/Let+Me+Be+Your+Fantasy"
+    },
+    "Bad Religion": {
+      "url": "https://www.last.fm/music/Bad+Religion"
+    },
+    "Baiana System": {
+      "url": "https://www.last.fm/music/Baiana+System"
+    },
+    "Barão Vermelho": {
+      "url": "https://www.last.fm/music/Bar%C3%A3o+Vermelho"
+    },
+    "Bebel Gilberto - Céu Distante": {
+      "url": "https://www.last.fm/music/Bebel+Gilberto/_/C%C3%A9u+Distante"
+    },
+    "Bee Gees": {
+      "url": "https://www.last.fm/music/Bee+Gees"
+    },
+    "Belchior": {
+      "url": "https://www.last.fm/music/Belchior"
+    },
+    "Belphegor - Lucifer Incestus": {
+      "url": "https://www.last.fm/music/Belphegor/_/Lucifer+Incestus"
+    },
+    "Ben Harper": {
+      "url": "https://www.last.fm/music/Ben+Harper"
+    },
+    "Björk": {
+      "url": "https://www.last.fm/music/Bj%C3%B6rk"
+    },
+    "Björk - All Is Full of Love": {
+      "url": "https://www.last.fm/music/Bj%C3%B6rk/_/All+Is+Full+of+Love"
+    },
+    "Black Label Society - Demise of Sanity": {
+      "url": "https://www.last.fm/music/Black+Label+Society/1919+Eternal/Demise+Of+Sanity"
+    },
+    "Black Sabbath": {
+      "url": "https://www.last.fm/music/Black+Sabbath"
+    },
+    "Blind Guardian": {
+      "url": "https://www.last.fm/music/Blind+Guardian"
+    },
+    "Bob Dylan": {
+      "url": "https://www.last.fm/music/Bob+Dylan"
+    },
+    "Bob Dylan - Blowin' in the Wind": {
+      "url": "https://www.last.fm/music/Bob+Dylan/_/Blowin'+in+the+Wind"
+    },
+    "Bob Dylan - Hurricane": {
+      "url": "https://www.last.fm/music/Bob+Dylan/_/Hurricane"
+    },
+    "Bob Marley": {
+      "url": "https://www.last.fm/music/Bob+Marley"
+    },
+    "Bob Marley - Redemption Song": {
+      "url": "https://www.last.fm/music/Bob+Marley/_/Redemption+Song"
+    },
+    "Bon Jovi": {
+      "url": "https://www.last.fm/music/Bon+Jovi"
+    },
+    "Boy - We Were Here": {
+      "url": "https://www.last.fm/music/Boy/_/We+Were+Here"
+    },
+    "Bruno Mars": {
+      "url": "https://www.last.fm/music/Bruno+Mars"
+    },
+    "Bryan Adams": {
+      "url": "https://www.last.fm/music/Bryan+Adams"
+    },
+    "Bullet for My Valentine": {
+      "url": "https://www.last.fm/music/Bullet+for+My+Valentine"
+    },
+    "Caji": {
+      "url": "https://www.last.fm/music/Caji"
+    },
+    "Cake": {
+      "url": "https://www.last.fm/music/Cake"
+    },
+    "Capital Inicial": {
+      "url": "https://www.last.fm/music/Capital+Inicial"
+    },
+    "Carl Orff - Ave formosissima": {
+      "url": "https://www.last.fm/music/Carl+Orff/_/Ave+formosissima"
+    },
+    "Carl Orff - Carmina Burana: O Fortuna": {
+      "url": "https://www.last.fm/music/Carl+Orff/_/Carmina+Burana:+O+Fortuna"
+    },
+    "Carla Bruni": {
+      "url": "https://www.last.fm/music/Carla+Bruni"
+    },
+    "Cavalera Conspiracy": {
+      "url": "https://www.last.fm/music/Cavalera+Conspiracy"
+    },
+    "Cesar Oliveira": {
+      "url": "https://www.last.fm/music/C%C3%A9sar+Oliveira"
+    },
+    "Chali 2na": {
+      "url": "https://www.last.fm/music/Chali+2na"
+    },
+    "Chaos Chaos": {
+      "url": "https://www.last.fm/music/Chaos+Chaos"
+    },
+    "Charlie Brown JR.": {
+      "url": "https://www.last.fm/music/Charlie+Brown+JR."
+    },
+    "Chiclete Com Banana": {
+      "url": "https://www.last.fm/music/Chiclete+Com+Banana"
+    },
+    "Chiclete Com Banana - Selva Branca": {
+      "url": "https://www.last.fm/music/Chiclete+Com+Banana/_/Selva+Branca"
+    },
+    "Chinese Man": {
+      "url": "https://www.last.fm/music/Chinese+Man"
+    },
+    "Chuck Berry": {
+      "url": "https://www.last.fm/music/Chuck+Berry"
+    },
+    "Cidadão Quem": {
+      "url": "https://www.last.fm/music/Cidad%C3%A3o+Quem"
+    },
+    "Clara Nunes": {
+      "url": "https://www.last.fm/music/Clara+Nunes"
+    },
+    "Claude Debussy - Clair de lune": {
+      "url": "https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune"
+    },
+    "Clube da Esquina": {
+      "url": "https://www.last.fm/music/Clube+da+Esquina"
+    },
+    "Coldplay": {
+      "url": "https://www.last.fm/music/Coldplay"
+    },
+    "Coldplay - A Message": {
+      "url": "https://www.last.fm/music/Coldplay/_/A+Message"
+    },
+    "Coldplay - Viva la vida": {
+      "url": "https://www.last.fm/music/Coldplay/_/Viva+la+Vida"
+    },
+    "Craig Cardiff - Love Is Louder": {
+      "url": "https://www.last.fm/music/Craig+Cardiff/_/Love+Is+Louder+(Than+All+This+Noise)"
+    },
+    "Creedence Clearwater Revival": {
+      "url": "https://www.last.fm/music/Creedence+Clearwater+Revival"
+    },
+    "Criolo": {
+      "url": "https://www.last.fm/music/Criolo"
+    },
+    "Crooks": {
+      "url": "https://www.last.fm/music/Crooks"
+    },
+    "Célia Cruz": {
+      "url": "https://www.last.fm/music/C%C3%A9lia+Cruz"
+    },
+    "Céline Dion": {
+      "url": "https://www.last.fm/music/C%C3%A9line+Dion"
+    },
+    "Céu - Varanda Suspensa": {
+      "url": "https://www.last.fm/music/C%C3%A9u/_/Varanda+Suspensa"
+    },
+    "Cólera - Medo": {
+      "url": "https://www.last.fm/music/C%C3%B3lera/_/Medo"
+    },
+    "Daft Punk": {
+      "url": "https://www.last.fm/music/Daft+Punk"
+    },
+    "Daft Punk - Random Access Memory": {
+      "url": "https://www.last.fm/music/Daft+Punk/Random+Access+Memory"
+    },
+    "Dance of Days": {
+      "url": "https://www.last.fm/music/Dance+of+Days"
+    },
+    "Darren Hayes": {
+      "url": "https://www.last.fm/music/Darren+Hayes"
+    },
+    "Darren Hayes - Taken By the Sea": {
+      "url": "https://www.last.fm/music/Darren+Hayes/_/Taken+By+the+Sea"
+    },
+    "Darren Hayes - Who Would Have Thought?": {
+      "url": "https://www.last.fm/music/Darren+Hayes/_/Who+Would+Have+Thought%3F"
+    },
+    "David Bowie": {
+      "url": "https://www.last.fm/music/David+Bowie"
+    },
+    "David Guetta": {
+      "url": "https://www.last.fm/music/David+Guetta"
+    },
+    "Dead Kennedys": {
+      "url": "https://www.last.fm/music/Dead+Kennedys"
+    },
+    "Deadfish": {
+      "url": "https://www.last.fm/music/Deadfish"
+    },
+    "Deep Purple": {
+      "url": "https://www.last.fm/music/Deep+Purple"
+    },
+    "Depeche Mode": {
+      "url": "https://www.last.fm/music/Depeche+Mode"
+    },
+    "Die Ärzte (Alemanha)": {
+      "url": "https://www.last.fm/music/Die+%C3%84rzte"
+    },
+    "Dire Straits": {
+      "url": "https://www.last.fm/music/Dire+Straits"
+    },
+    "Dire Straits - Sultans of Swing": {
+      "url": "https://www.last.fm/music/Dire+Straits/_/Sultans+of+Swing"
+    },
+    "Disturbed": {
+      "url": "https://www.last.fm/music/Disturbed"
+    },
+    "Dominguinhos": {
+      "url": "https://www.last.fm/music/Dominguinhos"
+    },
+    "Dream Theater": {
+      "url": "https://www.last.fm/music/Dream+Theater"
+    },
+    "Dream Theater - Erotomania": {
+      "url": "https://www.last.fm/music/Dream+Theater/_/Erotomania"
+    },
+    "Duran Duran": {
+      "url": "https://www.last.fm/music/Duran+Duran"
+    },
+    "Ella Fitzgerald": {
+      "url": "https://www.last.fm/music/Ella+Fitzgerald"
+    },
+    "Eluveitie": {
+      "url": "https://www.last.fm/music/Eluveitie"
+    },
+    "Eluveitie - The Call of the Mountains": {
+      "url": "https://www.last.fm/music/Eluveitie/_/The+Call+of+the+Mountains"
+    },
+    "Elvis Presley": {
+      "url": "https://www.last.fm/music/Elvis+Presley"
+    },
+    "Eminem": {
+      "url": "https://www.last.fm/music/Eminem"
+    },
+    "Engenheiros do Hawaii": {
+      "url": "https://www.last.fm/music/Engenheiros+Do+Hawaii"
+    },
+    "Enya": {
+      "url": "https://www.last.fm/music/Enya"
+    },
+    "Estevão Queiroga - Se For Com Você": {
+      "url": "https://www.last.fm/music/Estev%C3%A3o+Queiroga/_/Se+For+Com+Voc%C3%AA+(Pode+Ser)"
+    },
+    "Etta James": {
+      "url": "https://www.last.fm/music/Etta+James"
+    },
+    "Explosions in the Sky": {
+      "url": "https://www.last.fm/music/Explosions+in+the+Sky"
+    },
+    "Face To Face": {
+      "url": "https://www.last.fm/music/Face+to+Face"
+    },
+    "Facção Central": {
+      "url": "https://www.last.fm/music/Fac%C3%A7%C3%A3o+Central"
+    },
+    "Falamansa": {
+      "url": "https://www.last.fm/music/Falamansa"
+    },
+    "Farley Jackmaster Funk - Love Can't Turn Around": {
+      "url": "https://www.last.fm/music/Farley+Jackmaster+Funk/_/Love+Can%27t+Turn+Around"
+    },
+    "Fernandinho": {
+      "url": "https://www.last.fm/music/Fernandinho"
+    },
+    "Fiona Apple": {
+      "url": "https://www.last.fm/music/Fiona+Apple"
+    },
+    "Flogging Molly": {
+      "url": "https://www.last.fm/music/Flogging+Molly"
+    },
+    "Florence + the Machine": {
+      "url": "https://www.last.fm/music/Florence+%252B+the+Machine"
+    },
+    "Foo Fighters": {
+      "url": "https://www.last.fm/music/Foo+Fighters"
+    },
+    "Foo Fighters - Bridge Burning": {
+      "url": "https://www.last.fm/music/Foo+Fighters/_/Bridge+Burning"
+    },
+    "Fort Minor": {
+      "url": "https://www.last.fm/music/Fort+Minor"
+    },
+    "Four Tet": {
+      "url": "https://www.last.fm/music/Four+Tet"
+    },
+    "Frank Sinatra": {
+      "url": "https://www.last.fm/music/Frank+Sinatra"
+    },
+    "Frank Sinatra - Flying to the Moon": {
+      "url": "https://www.last.fm/music/Frank+Sinatra/_/Flying+to+the+Moon"
+    },
+    "Frank Zappa": {
+      "url": "https://www.last.fm/music/Frank+Zappa"
+    },
+    "Frejat": {
+      "url": "https://www.last.fm/music/Frejat"
+    },
+    "Fresno - Poeira Estelar": {
+      "url": "https://www.last.fm/music/Fresno/_/Poeira+Estelar"
+    },
+    "Gamma Ray": {
+      "url": "https://www.last.fm/music/Gamma+Ray"
+    },
+    "Garotos Podres - Eu não sei o que quero": {
+      "url": "https://www.last.fm/music/Garotos+Podres/_/Eu+n%C3%A3o+sei+o+que+quero"
+    },
+    "Genival Lacerda": {
+      "url": "https://www.last.fm/music/Genival%2520Lacerda?ac=genival%20lace"
+    },
+    "Geraldo Azevedo": {
+      "url": "https://www.last.fm/music/Geraldo+Azevedo"
+    },
+    "Ghislain Poirier": {
+      "url": "https://www.last.fm/music/Ghislain+Poirier"
+    },
+    "Gold Finger": {
+      "url": "https://www.last.fm/music/Goldfinger"
+    },
+    "Gorilla Biscuits - Things We Say": {
+      "url": "https://www.last.fm/music/Gorilla+Biscuits/_/Things+we+say"
+    },
+    "Gotan Project": {
+      "url": "https://www.last.fm/music/Gotan+Project"
+    },
+    "Grateful Dead": {
+      "url": "https://www.last.fm/music/Grateful+Dead"
+    },
+    "Grateful Dead - Ripple": {
+      "url": "https://www.last.fm/music/Grateful+Dead/_/Ripple"
+    },
+    "Grave Digger": {
+      "url": "https://www.last.fm/music/Grave+Digger"
+    },
+    "Green Day": {
+      "url": "https://www.last.fm/music/Green+Day"
+    },
+    "Green Day - Homecoming": {
+      "url": "https://www.last.fm/music/Green+Day/_/Homecoming"
+    },
+    "Guns N' Roses - November Rain": {
+      "url": "https://www.last.fm/music/Guns+N%27+Roses/_/November+Rain"
+    },
+    "Halloween": {
+      "url": "https://www.last.fm/music/Halloween"
+    },
+    "Hanson": {
+      "url": "https://www.last.fm/music/Hanson"
+    },
+    "Hardwell": {
+      "url": "https://www.last.fm/music/Hardwell"
+    },
+    "Hugh Laurie": {
+      "url": "https://www.last.fm/music/Hugh+Laurie"
+    },
+    "Immortal Technique": {
+      "url": "https://www.last.fm/music/Immortal+Technique"
+    },
+    "In Flames": {
+      "url": "https://www.last.fm/music/In+Flames"
+    },
+    "Infected Mushroom": {
+      "url": "https://www.last.fm/music/Infected+Mushroom"
+    },
+    "Ira!": {
+      "url": "https://www.last.fm/music/Ira!"
+    },
+    "Iron Maiden": {
+      "url": "https://www.last.fm/music/Iron+Maiden"
+    },
+    "Iron Maiden - Aces High": {
+      "url": "https://www.last.fm/music/Iron+Maiden/_/Aces+High"
+    },
+    "Iron Maiden - Powerslave": {
+      "url": "https://www.last.fm/music/Iron+Maiden/Powerslave/Powerslave"
+    },
+    "J-Pop": {
+      "url": "https://www.last.fm/tag/j-pop"
+    },
+    "Jack Johnson": {
+      "url": "https://www.last.fm/music/Jack+Johnson"
+    },
+    "Jacob Do Bandolim": {
+      "url": "https://www.last.fm/music/Jacob+Do+Bandolim"
+    },
+    "Jason Mraz - I'm Yours": {
+      "url": "https://www.last.fm/music/Jason+Mraz/_/I%27m+Yours"
+    },
+    "Jason Myles Goss - Hospital Shirt": {
+      "url": "https://www.last.fm/music/Jason+Myles+Goss/_/Hospital+Shirt"
+    },
+    "Jethro Tull": {
+      "url": "https://www.last.fm/music/Jethro+Tull"
+    },
+    "Jimi Hendrix": {
+      "url": "https://www.last.fm/music/Jimi+Hendrix"
+    },
+    "Jimmy Hendrix": {
+      "url": "https://www.last.fm/music/Jimmy+Hendrix"
+    },
+    "Johann Sebastian Bach": {
+      "url": "https://www.last.fm/music/Johann+Sebastian+Bach"
+    },
+    "Johann Sebastian Bach - Toccata and Fugue in D Minor, BWV 565": {
+      "url": "https://www.last.fm/music/Johann+Sebastian+Bach/_/Toccata+and+Fugue+in+D+Minor,+BWV+565"
+    },
+    "John Frusciante": {
+      "url": "https://www.last.fm/music/John+Frusciante"
+    },
+    "John Lennon - Imagine": {
+      "url": "https://www.last.fm/music/John+Lennon/_/Imagine"
+    },
+    "John Mayer": {
+      "url": "https://www.last.fm/music/John+Mayer"
+    },
+    "John Williams": {
+      "url": "https://www.last.fm/music/John+Williams"
+    },
+    "Johnny Cash": {
+      "url": "https://www.last.fm/music/Johnny+Cash"
+    },
+    "Johnny Hooker": {
+      "url": "https://www.last.fm/music/Johnny+Hooker"
+    },
+    "Jon Gomm": {
+      "url": "https://www.last.fm/music/Jon+Gomm"
+    },
+    "Jorge Ben": {
+      "url": "https://www.last.fm/music/Jorge+Ben"
+    },
+    "Joss Stone - Right to Be Wrong": {
+      "url": "https://www.last.fm/music/Joss+Stone/_/Right+to+Be+Wrong"
+    },
+    "José González": {
+      "url": "https://www.last.fm/music/Jos%C3%A9+Gonz%C3%A1lez"
+    },
+    "Justice": {
+      "url": "https://www.last.fm/music/Justice"
+    },
+    "Júpiter Maçã": {
+      "url": "https://www.last.fm/music/J%C3%BApiter+Ma%C3%A7%C3%A3"
+    },
+    "Kanye West": {
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "King Diamond": {
+      "url": "https://www.last.fm/music/King+Diamond"
+    },
+    "Kings of Convenience": {
+      "url": "https://www.last.fm/music/Kings+of+Convenience"
+    },
+    "Kissing Dynamite": {
+      "url": "https://www.last.fm/music/Kissing+Dynamite"
+    },
+    "Kitaro": {
+      "url": "https://www.last.fm/music/Kitaro"
+    },
+    "Kleiton e Kledir": {
+      "url": "https://www.last.fm/music/Kleiton+&+Kledir"
+    },
+    "Korn": {
+      "url": "https://www.last.fm/music/Korn"
+    },
+    "Kraftwerk": {
+      "url": "https://www.last.fm/music/Kraftwerk"
+    },
+    "Kreator": {
+      "url": "https://www.last.fm/music/Kreator"
+    },
+    "La-33": {
+      "url": "https://www.last.fm/music/La-33"
+    },
+    "Lagwagon": {
+      "url": "https://www.last.fm/music/Lagwagon"
+    },
+    "Lamb of God": {
+      "url": "https://www.last.fm/music/Lamb+of+God"
+    },
+    "Lambchop": {
+      "url": "https://www.last.fm/music/Lambchop"
+    },
+    "Led Zeppelin": {
+      "url": "https://www.last.fm/music/Led+Zeppelin"
+    },
+    "Led Zeppelin - Stairway to Heaven": {
+      "url": "https://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven"
+    },
+    "Legião Urbana": {
+      "url": "https://www.last.fm/music/Legi%C3%A3o+Urbana"
+    },
+    "Legião Urbana - Faroeste Caboclo": {
+      "url": "https://www.last.fm/music/Legi%C3%A3o+Urbana/_/Faroeste+Caboclo"
+    },
+    "Legião Urbana - Metropole": {
+      "url": "https://www.last.fm/music/Legi%C3%A3o+Urbana/_/Metr%C3%B3pole"
+    },
+    "Lera Lynn - It Only Takes One Shot": {
+      "url": "https://www.last.fm/music/Lera+Lynn/_/It+Only+Takes+One+Shot"
+    },
+    "Lighthouse Family": {
+      "url": "https://www.last.fm/music/Lighthouse+Family"
+    },
+    "Lighthouse Family - High": {
+      "url": "https://www.last.fm/music/Lighthouse+Family/_/High"
+    },
+    "Linkin Park": {
+      "url": "https://www.last.fm/music/Linkin+Park"
+    },
+    "Linkin Park - Hybrid Theory": {
+      "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory"
+    },
+    "Live - Turn My Head": {
+      "url": "https://www.last.fm/music/Live/_/Turn+My+Head"
+    },
+    "Los Hermanos": {
+      "url": "https://www.last.fm/music/Los+Hermanos"
+    },
+    "Los Mox (Chile)": {
+      "url": "https://www.last.fm/music/Los+Mox!"
+    },
+    "Lose Yourself to Dance": {
+      "url": "https://www.last.fm/music/Daft+Punk/Random+Access+Memories/Lose+Yourself+to+Dance+(feat.+Pharrell+Williams)"
+    },
+    "Lowkey": {
+      "url": "https://www.last.fm/music/Lowkey"
+    },
+    "Ludwig van Beethoven": {
+      "url": "https://www.last.fm/music/Ludwig+van+Beethoven"
+    },
+    "Luedji Luna": {
+      "url": "https://www.last.fm/music/Luedji+Luna"
+    },
+    "MGMT": {
+      "url": "https://www.last.fm/music/MGMT"
+    },
+    "MGMT - Kids": {
+      "url": "https://www.last.fm/music/MGMT/_/Kids"
+    },
+    "Madeleine Peyroux": {
+      "url": "https://www.last.fm/music/Madeleine+Peyroux"
+    },
+    "Madonna": {
+      "url": "https://www.last.fm/music/Madonna"
+    },
+    "Mamonas Assassinas": {
+      "url": "https://www.last.fm/music/Mamonas+Assassinas"
+    },
+    "Maria Rita": {
+      "url": "https://www.last.fm/music/Maria+Rita"
+    },
+    "Maroon 5": {
+      "url": "https://www.last.fm/music/Maroon+5"
+    },
+    "Martinho Da Vila": {
+      "url": "https://www.last.fm/music/Martinho+Da+Vila"
+    },
+    "Massive Attack": {
+      "url": "https://www.last.fm/music/Massive+Attack"
+    },
+    "Matanza": {
+      "url": "https://www.last.fm/music/Matanza"
+    },
+    "Matisyahu": {
+      "url": "https://www.last.fm/music/Matisyahu"
+    },
+    "Mega Driver": {
+      "url": "https://www.last.fm/music/Megadriver"
+    },
+    "Megadeth": {
+      "url": "https://www.last.fm/music/Megadeth"
+    },
+    "Metallica": {
+      "url": "https://www.last.fm/music/Metallica"
+    },
+    "Metallica - For Whom the Bell Tolls": {
+      "url": "https://www.last.fm/music/Metallica/_/For+Whom+the+Bell+Tolls"
+    },
+    "Michael Jackson": {
+      "url": "https://www.last.fm/music/Michael+Jackson"
+    },
+    "Michael Jackson - Thriller": {
+      "url": "https://www.last.fm/music/Michael+Jackson/_/Thriller"
+    },
+    "Mike Oldfield": {
+      "url": "https://www.last.fm/music/Mike+Oldfield"
+    },
+    "Miles Davis": {
+      "url": "https://www.last.fm/music/Miles+Davis?ac=miles"
+    },
+    "Milton Nacimento": {
+      "url": "https://www.last.fm/music/Milton+Nascimento"
+    },
+    "Molotov": {
+      "url": "https://www.last.fm/music/Molotov"
+    },
+    "Morcheeba": {
+      "url": "https://www.last.fm/music/Morcheeba"
+    },
+    "Mr. Big": {
+      "url": "https://www.last.fm/music/Mr.+Big"
+    },
+    "Muqueca de Rato": {
+      "url": "https://www.last.fm/music/Muqueca+de+Rato"
+    },
+    "Muse": {
+      "url": "https://www.last.fm/music/Muse"
+    },
+    "Neto Fagundes": {
+      "url": "https://www.last.fm/music/Neto+Fagundes"
+    },
+    "New Order": {
+      "url": "https://www.last.fm/music/New+Order"
+    },
+    "Nicky Romero": {
+      "url": "https://www.last.fm/music/Nicky+Romero"
+    },
+    "Nicola Arigliano": {
+      "url": "https://www.last.fm/music/Nicola+Arigliano"
+    },
+    "Nightwish": {
+      "url": "https://www.last.fm/music/Nightwish"
+    },
+    "Nina Simone": {
+      "url": "https://www.last.fm/music/Nina+Simone"
+    },
+    "Nina Simone - Sinnerman": {
+      "url": "https://www.last.fm/music/Nina+Simone/_/Sinnerman"
+    },
+    "Nirvana": {
+      "url": "https://www.last.fm/music/Nirvana"
+    },
+    "No Fun At All": {
+      "url": "https://www.last.fm/music/No+Fun+at+All"
+    },
+    "Nofx": {
+      "url": "https://www.last.fm/music/NOFX"
+    },
+    "Norah Jones": {
+      "url": "https://www.last.fm/music/Norah+Jones"
+    },
+    "O Rappa": {
+      "url": "https://www.last.fm/music/O+Rappa"
+    },
+    "Oasis": {
+      "url": "https://www.last.fm/music/Oasis"
+    },
+    "Os Mutantes": {
+      "url": "https://www.last.fm/music/Os+Mutantes?ac=os%20muta"
+    },
+    "Os Paralamas do Sucesso": {
+      "url": "https://www.last.fm/music/Os+Paralamas+Do+Sucesso"
+    },
+    "Oswaldo Montenegro": {
+      "url": "https://www.last.fm/music/Oswaldo+Montenegro"
+    },
+    "Ozzy Osbourne": {
+      "url": "https://www.last.fm/music/Ozzy+Osbourne"
+    },
+    "PJ Harvey": {
+      "url": "https://www.last.fm/music/PJ+Harvey"
+    },
+    "Pain of Salvation": {
+      "url": "https://www.last.fm/music/Pain+of+Salvation"
+    },
+    "Pantera": {
+      "url": "https://www.last.fm/music/Pantera"
+    },
+    "Pantera - Mouth of War": {
+      "url": "https://www.last.fm/music/Pantera/_/Mouth+for+War"
+    },
+    "Pat Metheny Group": {
+      "url": "https://www.last.fm/music/Pat+Metheny+Group"
+    },
+    "Paul Gilbert": {
+      "url": "https://www.last.fm/music/Paul+Gilbert"
+    },
+    "Paul Simon - Father and Daughter": {
+      "url": "https://www.last.fm/music/Paul+Simon/_/Father+and+Daughter"
+    },
+    "Pearl Jam": {
+      "url": "https://www.last.fm/music/Pearl+Jam"
+    },
+    "Pendulum": {
+      "url": "https://www.last.fm/music/Pendulum"
+    },
+    "Penguin Cafe Orchestra": {
+      "url": "https://www.last.fm/music/Penguin+Cafe+Orchestra"
+    },
+    "Pentatonix - The Little Drummer Boy": {
+      "url": "https://www.last.fm/music/Pentatonix/_/The+Little+Drummer+Boy"
+    },
+    "Pet Cemetery": {
+      "url": "https://www.last.fm/music/Pet+Cemetery"
+    },
+    "Philip Glass": {
+      "url": "https://www.last.fm/music/Philip+Glass"
+    },
+    "Pink Floyd": {
+      "url": "https://www.last.fm/music/Pink+Floyd"
+    },
+    "Pink Floyd - Animals": {
+      "url": "https://www.last.fm/music/Pink+Floyd/Animals"
+    },
+    "Pink Floyd - Dark Side of the Moon": {
+      "url": "https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon"
+    },
+    "Pink Floyd - Time": {
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Time"
+    },
+    "Planet Hemp": {
+      "url": "https://www.last.fm/music/Planet+Hemp"
+    },
+    "Plas Johnson - Blue Jean Shuffle": {
+      "url": "https://www.last.fm/music/Plas+Johnson/_/Blue+Jean+Shuffle+-+Master"
+    },
+    "Poison Heart": {
+      "url": "https://www.last.fm/music/Poison+Heart"
+    },
+    "Quatro por Um": {
+      "url": "https://www.last.fm/music/Quatro+por+Um"
+    },
+    "Queen": {
+      "url": "https://www.last.fm/music/Queen"
+    },
+    "Queen - Bohemian Rhapsody": {
+      "url": "https://www.last.fm/music/Queen/_/Bohemian+Rhapsody"
+    },
+    "Queens of Stone Age - Go With the Glow": {
+      "url": "https://www.last.fm/music/Queens+of+the+Stone+Age/_/Go+With+the+Flow"
+    },
+    "Queens of the Stone Age": {
+      "url": "https://www.last.fm/music/Queens+of+the+Stone+Age"
+    },
+    "R.E.M.": {
+      "url": "https://www.last.fm/music/R.E.M."
+    },
+    "Racionais Mc's": {
+      "url": "https://www.last.fm/music/Racionais+Mc%27s"
+    },
+    "Radiohead": {
+      "url": "https://www.last.fm/music/Radiohead"
+    },
+    "Radiohead - Amnesiac": {
+      "url": "https://www.last.fm/music/Radiohead/Amnesiac"
+    },
+    "Rage Against the Machine": {
+      "url": "https://www.last.fm/music/Rage+Against+the+Machine"
+    },
+    "Rage Against the Machine album": {
+      "url": "https://www.last.fm/music/Rage+Against+the+Machine/Rage+Against+the+Machine"
+    },
+    "Raimundos": {
+      "url": "https://www.last.fm/music/Raimundos"
+    },
+    "Ramones": {
+      "url": "https://www.last.fm/music/Ramones"
+    },
+    "Rancid": {
+      "url": "https://www.last.fm/music/Rancid"
+    },
+    "Rastapé": {
+      "url": "https://www.last.fm/music/Rastape%CC%81"
+    },
+    "Ratos De Porão": {
+      "url": "https://www.last.fm/music/Ratos+De+Por%C3%A3o"
+    },
+    "Ratos De Porão - Conflito Violento": {
+      "url": "https://www.last.fm/music/Ratos+De+Por%C3%A3o/_/Conflito+Violento"
+    },
+    "Raul Seixas": {
+      "url": "https://www.last.fm/music/Raul+Seixas"
+    },
+    "Red Hot Chili Peppers": {
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers"
+    },
+    "Red Hot Chili Peppers - Suck My Kiss": {
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Suck+My+Kiss"
+    },
+    "Reverend Horton Heat - Mad, Mad Heart": {
+      "url": "https://www.last.fm/music/Reverend+Horton+Heat/_/Mad,+Mad+Heart"
+    },
+    "Rhapsody": {
+      "url": "https://www.last.fm/music/Rhapsody"
+    },
+    "Rhapsody - Sacred Power of Raging Winds": {
+      "url": "https://www.last.fm/music/Rhapsody/_/Sacred+Power+of+Raging+Winds"
+    },
+    "Rincon Sapiência": {
+      "url": "https://www.last.fm/music/Rincon+Sapi%C3%AAncia"
+    },
+    "Rogério Melo": {
+      "url": "https://www.last.fm/music/Rog%C3%A9rio+Melo"
+    },
+    "Röyksopp": {
+      "url": "https://www.last.fm/music/R%C3%B6yksopp"
+    },
+    "Savatage": {
+      "url": "https://www.last.fm/music/Savatage"
+    },
+    "Scorpions": {
+      "url": "https://www.last.fm/music/Scorpions"
+    },
+    "Sepultura": {
+      "url": "https://www.last.fm/music/Sepultura"
+    },
+    "Sepultura - Bullet the Blue Sky": {
+      "url": "https://www.last.fm/music/Sepultura/_/Bullet+the+Blue+Sky"
+    },
+    "Sex Pistols": {
+      "url": "https://www.last.fm/music/Sex+Pistols"
+    },
+    "Shadow Gallery": {
+      "url": "https://www.last.fm/music/Shadow+Gallery"
+    },
+    "Sigur Rós": {
+      "url": "https://www.last.fm/music/Sigur+R%C3%B3s"
+    },
+    "Sigur Rós - Fjögur píanó": {
+      "url": "https://www.last.fm/music/Sigur+R%C3%B3s/_/Fj%C3%B6gur+p%C3%ADan%C3%B3"
+    },
+    "Silverchair": {
+      "url": "https://www.last.fm/music/Silverchair"
+    },
+    "Ska": {
+      "url": "https://www.last.fm/tag/ska"
+    },
+    "Skank": {
+      "url": "https://www.last.fm/music/Skank"
+    },
+    "Skank - Esquecimento": {
+      "url": "https://www.last.fm/music/Skank/_/Esquecimento"
+    },
+    "Slipknot": {
+      "url": "https://www.last.fm/music/Slipknot"
+    },
+    "Smiths": {
+      "url": "https://www.last.fm/music/The+Smiths"
+    },
+    "Stampede": {
+      "url": "https://www.last.fm/music/The+Quantic+Soul+Orchestra/Stampede"
+    },
+    "Stevie Ray": {
+      "url": "https://www.last.fm/music/Stevie+Ray+Vaughan"
+    },
+    "Sting": {
+      "url": "https://www.last.fm/music/Sting"
+    },
+    "Stratovarius": {
+      "url": "https://www.last.fm/music/Stratovarius"
+    },
+    "Streetlight Manifesto": {
+      "url": "https://www.last.fm/music/Streetlight+Manifesto"
+    },
+    "Surra": {
+      "url": "https://www.last.fm/music/Surra"
+    },
+    "System of a Down": {
+      "url": "https://www.last.fm/music/System+of+a+Down"
+    },
+    "Tanghetto": {
+      "url": "https://www.last.fm/music/Tanghetto"
+    },
+    "Taylor Swift": {
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "Teixeirinha - Gaucho de Passo Fundo": {
+      "url": "https://www.last.fm/music/Teixeirinha/_/Gaucho+De+Passo+Fundo"
+    },
+    "Ten Foot Pole": {
+      "url": "https://www.last.fm/music/Ten+Foot+Pole"
+    },
+    "Tenatious D": {
+      "url": "https://www.last.fm/music/Tenacious+D"
+    },
+    "Tequila Baby": {
+      "url": "https://www.last.fm/music/Tequila+Baby"
+    },
+    "Terno Rei - Violeta": {
+      "url": "https://www.last.fm/music/Terno+Rei/Violeta"
+    },
+    "The Advantage": {
+      "url": "https://www.last.fm/music/The+Advantage"
+    },
+    "The Atomic Bitchwax": {
+      "url": "https://www.last.fm/music/The+Atomic+Bitchwax"
+    },
+    "The Bay - Erol Alkan's Extended Rework": {
+      "url": "https://www.last.fm/music/Metronomy/_/The+Bay+-+Erol+Alkan%27s+Extended+Rework"
+    },
+    "The Beatles": {
+      "url": "https://www.last.fm/music/The+Beatles"
+    },
+    "The Beatles - Past Master Volume Two": {
+      "url": "https://www.last.fm/music/The+Beatles/Past+Masters,+Volume+Two"
+    },
+    "The Black Keys": {
+      "url": "https://www.last.fm/music/The+Black+Keys"
+    },
+    "The Chemical Brothers - Do It Again": {
+      "url": "https://www.last.fm/music/The+Chemical+Brothers/_/Do+It+Again"
+    },
+    "The Clash": {
+      "url": "https://www.last.fm/music/The+Clash"
+    },
+    "The Cure": {
+      "url": "https://www.last.fm/music/The+Cure"
+    },
+    "The Doors": {
+      "url": "https://www.last.fm/music/The+Doors"
+    },
+    "The Egos": {
+      "url": "https://www.last.fm/music/The+Egos"
+    },
+    "The Fratellis": {
+      "url": "https://www.last.fm/music/The+Fratellis"
+    },
+    "The Offspring": {
+      "url": "https://www.last.fm/music/The+Offspring"
+    },
+    "The Postal Service": {
+      "url": "https://www.last.fm/music/The+Postal+Service"
+    },
+    "The Prodigy": {
+      "url": "https://www.last.fm/music/The+Prodigy"
+    },
+    "The Quantic Soul Orchestra": {
+      "url": "https://www.last.fm/music/The+Quantic+Soul+Orchestra"
+    },
+    "The Raincoats": {
+      "url": "https://www.last.fm/music/The+Raincoats"
+    },
+    "The Rolling Stones": {
+      "url": "https://www.last.fm/music/The+Rolling+Stones"
+    },
+    "The Smashing Pumpkins": {
+      "url": "https://www.last.fm/music/The+Smashing+Pumpkins"
+    },
+    "The Strokes": {
+      "url": "https://www.last.fm/music/The+Strokes"
+    },
+    "The Vandals": {
+      "url": "https://www.last.fm/music/The+Vandals"
+    },
+    "The Vandals - My Girlfriend's Dead": {
+      "url": "https://www.last.fm/music/The+Vandals/_/My+Girlfriend%27s+Dead"
+    },
+    "The White Stripes": {
+      "url": "https://www.last.fm/music/The+White+Stripes"
+    },
+    "The Who": {
+      "url": "https://www.last.fm/music/The+Who"
+    },
+    "The Who - Baba O'Riley": {
+      "url": "https://www.last.fm/music/The+Who/_/Baba+O%27Riley"
+    },
+    "The xx - Intro": {
+      "url": "https://www.last.fm/music/The+xx/_/Intro"
+    },
+    "Tiger Army - Incorporeal": {
+      "url": "https://www.last.fm/music/Tiger+Army/_/Incorporeal"
+    },
+    "Tim Maia": {
+      "url": "https://www.last.fm/music/Tim+Maia?ac=tim%20maia"
+    },
+    "Titãs": {
+      "url": "https://www.last.fm/music/Tit%C3%A3s"
+    },
+    "Toni Braxton": {
+      "url": "https://www.last.fm/music/Toni+Braxton"
+    },
+    "Tool - Lateralus": {
+      "url": "https://www.last.fm/music/Tool/_/Lateralus"
+    },
+    "Toy Dolls": {
+      "url": "https://www.last.fm/music/The+Toy+Dolls"
+    },
+    "Two Brothers on the Fourth Floor": {
+      "url": "https://www.last.fm/music/2+Brothers+On+The+4th+Floor"
+    },
+    "Two Door Cinema Club": {
+      "url": "https://www.last.fm/music/Two+Door+Cinema+Club"
+    },
+    "Two Steps from Hell": {
+      "url": "https://www.last.fm/music/Two+Steps+from+Hell"
+    },
+    "Tyler Yarema": {
+      "url": "https://www.last.fm/music/Tyler+Yarema"
+    },
+    "U2": {
+      "url": "https://www.last.fm/music/U2"
+    },
+    "Ultraje a Rigor": {
+      "url": "https://www.last.fm/music/Ultraje+A+Rigor"
+    },
+    "Voodoo Glow Skulls - Cielito lindo": {
+      "url": "https://www.last.fm/music/Voodoo+Glow+Skulls"
+    },
+    "W&W": {
+      "url": "https://www.last.fm/music/W&W"
+    },
+    "Ween": {
+      "url": "https://www.last.fm/music/Ween"
+    },
+    "Within Temptation": {
+      "url": "https://www.last.fm/music/Within+Temptation"
+    },
+    "Wolfgang Amadeus Mozart": {
+      "url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart"
+    },
+    "Wolfmother": {
+      "url": "https://www.last.fm/music/Wolfmother"
+    },
+    "Yamandu Costa": {
+      "url": "https://www.last.fm/music/Yamandu+Costa"
+    },
+    "Yes": {
+      "url": "https://www.last.fm/music/Yes"
+    },
+    "Yo La Tengo": {
+      "url": "https://www.last.fm/music/Yo+La+Tengo"
+    },
+    "ZZ Top": {
+      "url": "https://www.last.fm/music/ZZ+Top"
+    },
+    "a-ha": {
+      "url": "https://www.last.fm/music/a-ha"
+    },
+    "blink-182": {
+      "url": "https://www.last.fm/music/blink-182"
+    },
+    "blink-182 - I miss you": {
+      "url": "https://www.last.fm/music/blink-182/_/I+Miss+You"
+    }
+  },
+  "podcast": {
+    "Um Milkshake Chamado Wanda": {
+      "url": "https://soundcloud.com/ummilkshakechamadowanda"
+    }
+  }
 }
