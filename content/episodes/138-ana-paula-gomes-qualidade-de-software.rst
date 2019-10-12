@@ -47,24 +47,26 @@ Tópicos abordados neste episódio
   de software.
 
 
-Top 5
-=====
-
-* **Livro**: `Why Nations Fail`_
-* **Livro**: `How to Be Successful without Hurting Men's Feelings`_
-* **Livro**: `Brave New World`_
-* **Livro**: `Python Fluente`_
-* **Música**: `Luedji Luna`_
-* **Música**: `O Rappa`_
-* **Música**: `Johnny Hooker`_
-* **Música**: `Nina Simone`_
-* **Música**: `Baiana System`_
-* **Podcast**: `Um Milkshake Chamado Wanda`_
-* **Filme**: `The Handmaid's Tale`_
-* **Filme**: `The Marvelous Mrs. Maisel`_
-* **Filme**: `BlacKkKlansman`_
-* **Filme**: `A Onda`_
-* **Filme**: `Bohemian Rhapsody`_
+.. top5::
+    :book:
+        * Why Nations Fail
+        * How to Be Successful without Hurting Men's Feelings
+        * Admirável Mundo Novo
+        * Python Fluente
+    :music:
+        * Luedji Luna
+        * O Rappa
+        * Johnny Hooker
+        * Nina Simone
+        * Baiana System
+    :movie:
+        * The Handmaid's Tale
+        * The Marvelous Mrs. Maisel
+        * BlacKkKlansman
+        * A Onda
+        * Bohemian Rhapsody
+    :podcast:
+        * Um Milkshake Chamado Wanda
 
 
 Assista a gravação deste episódio
@@ -148,23 +150,6 @@ Links
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
-
-.. _Why Nations Fail: https://www.goodreads.com/book/show/12158480-why-nations-fail
-.. _How to Be Successful without Hurting Men's Feelings: https://www.goodreads.com/book/show/39296119-how-to-be-successful-without-hurting-men-s-feelings
-.. _Brave New World: https://www.goodreads.com/book/show/5129.Brave_New_World
-.. _Python Fluente: https://www.goodreads.com/book/show/36361456-python-fluente
-.. _Luedji Luna: https://www.last.fm/music/Luedji+Luna
-.. _O Rappa: https://www.last.fm/music/O+Rappa
-.. _Johnny Hooker: https://www.last.fm/music/Johnny+Hooker
-.. _Nina Simone: https://www.last.fm/music/Nina+Simone
-.. _Baiana System: https://www.last.fm/music/Baiana+System
-.. _Um Milkshake Chamado Wanda: https://soundcloud.com/ummilkshakechamadowanda
-.. _The Handmaid's Tale: https://www.imdb.com/title/tt5834204/
-.. _The Marvelous Mrs. Maisel: https://www.imdb.com/title/tt5788792/
-.. _BlacKkKlansman: https://www.imdb.com/title/tt7349662/
-.. _A Onda: https://www.imdb.com/title/tt1063669/
-.. _Bohemian Rhapsody: https://www.imdb.com/title/tt1727824/
-
 .. _Clean Code do Uncle Bob: https://www.goodreads.com/book/show/3735293-clean-code
 .. _Flake8: https://pypi.org/project/flake8/
 .. _Go: https://golang.org/

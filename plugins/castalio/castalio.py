@@ -42,6 +42,7 @@ class Top5(Directive):
         'book': 'Livro',
         'movie': 'Filme',
         'music': 'Música',
+        'podcast': 'Podcast',
     }
 
     def run(self):
@@ -62,7 +63,7 @@ class Top5(Directive):
         ) as fp:
             data = json.load(fp)
 
-        bullet_list = nodes.bullet_list()
+        enumerated_list = nodes.enumerated_list()
         for field in node[0]:
             category = field[0].astext()
             if not category in TOP5_STATS:
@@ -75,7 +76,7 @@ class Top5(Directive):
                         nodes.literal_block(self.block_text, self.block_text),
                         line=self.lineno
                     )]
-                bullet_list.children.append(nodes.raw(
+                enumerated_list.children.append(nodes.raw(
                     '',
                     self._li_template.format(
                         category=self._category_text[category],
@@ -93,7 +94,7 @@ class Top5(Directive):
                 TOP5_STATS[category][item]['count'] += 1
         return [
             nodes.title(self._header_title, '', nodes.Text(self._header_title)),
-            bullet_list,
+            enumerated_list,
         ]
 
 
@@ -106,6 +107,7 @@ class Top5Best(Directive):
         'book': 'Top 5 Livros',
         'movie': 'Top 5 Filmes',
         'music': 'Top 5 Músicas',
+        'podcast': 'Top 5 Podcast',
     }
 
     def run(self):
@@ -115,15 +117,19 @@ class Top5Best(Directive):
             output_nodes.append(
                 nodes.raw('', f'<h2>{category_title}</h2>', format='html')
             )
-            items = sorted(TOP5_STATS[category].values(), key=operator.itemgetter('count'))[:5]
-            bullet_list = nodes.enumerated_list()
+            items = sorted(
+                TOP5_STATS[category].values(),
+                key=operator.itemgetter('count'),
+                reverse=True,
+            )[:5]
+            enumerated_list = nodes.enumerated_list()
             for item in items:
-                bullet_list.children.append(nodes.raw(
+                enumerated_list.children.append(nodes.raw(
                     '',
                     self._li_template.format(**item),
                     format='html',
                 ))
-            output_nodes.append(bullet_list)
+            output_nodes.append(enumerated_list)
         return output_nodes
 
 

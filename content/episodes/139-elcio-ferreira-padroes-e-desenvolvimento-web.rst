@@ -49,26 +49,28 @@ Tópicos abordados neste episódio
    Fonte http://www.secretgeek.net/higgins/slides_alt_net.html
 
 
-Top 5
-=====
-* **Livro**: `Stand Out of Our Light - James Williams`_
-* **Livro**: `Dive into Python`_
-* **Livro**: `Dive into Python 3`_
-* **Livro**: `Luciano Ramalho - Fluent Python`_
-* **Livro**: `O milagre da manhã`_
-* **Livro**: `Pai Rico, Pai Pobre`_
-* **Livro**: `2001: Uma odisseia no espaço`_
-* **Música**: `Joss Stone - Right to Be Wrong`_
-* **Música**: `Plas Johnson - Blue Jean Shuffle`_
-* **Música**: `Pentatonix - The Little Drummer Boy`_
-* **Música**: `Estevão Queiroga - Se For Com Você`_
-* **Música**: `Carl Orff - Ave formosissima`_
-* **Música**: `Carl Orff - Carmina Burana: O Fortuna`_
-* **Filme**: `A Lista de Schindler`_
-* **Filme**: `Star Wars`_
-* **Filme**: `Jogos de Guerra`_
-* **Filme**: `O 13º Andar`_
-* **Filme**: `Joy`_
+.. top5::
+    :book:
+        * Stand Out of Our Light - James Williams
+        * Dive into Python
+        * Dive into Python 3
+        * Python Fluente
+        * O milagre da manhã
+        * Pai Rico, Pai Pobre
+        * 2001: Uma odisseia no espaço
+    :music:
+        * Joss Stone - Right to Be Wrong
+        * Plas Johnson - Blue Jean Shuffle
+        * Pentatonix - The Little Drummer Boy
+        * Estevão Queiroga - Se For Com Você
+        * Carl Orff - Ave formosissima
+        * Carl Orff - Carmina Burana: O Fortuna
+    :movie:
+        * A Lista de Schindler
+        * Star Wars
+        * Jogos de Guerra
+        * O 13º Andar
+        * Joy
 
 
 Assista a gravação deste episódio
@@ -160,26 +162,6 @@ Links
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
-
-.. _Stand Out of Our Light - James Williams: https://www.goodreads.com/book/show/38364667-stand-out-of-our-light
-.. _Dive into Python: https://www.goodreads.com/book/show/24038.Dive_Into_Python
-.. _Dive into Python 3: https://www.goodreads.com/book/show/6919462-dive-into-python-3
-.. _Luciano Ramalho - Fluent Python: https://www.goodreads.com/book/show/22800567-fluent-python
-.. _O milagre da manhã: https://www.goodreads.com/book/show/42744608-o-milagre-da-manh
-.. _Pai Rico, Pai Pobre: https://www.goodreads.com/book/show/41172720-pai-rico-pai-pobre-desenvolva-a-sua-intelig-ncia-financeira
-.. _2001\: Uma odisseia no espaço: https://www.goodreads.com/book/show/18518493-2001
-.. _Joss Stone - Right to Be Wrong: https://www.last.fm/music/Joss+Stone/_/Right+to+Be+Wrong
-.. _Plas Johnson - Blue Jean Shuffle: https://www.last.fm/music/Plas+Johnson/_/Blue+Jean+Shuffle+-+Master
-.. _Pentatonix - The Little Drummer Boy: https://www.last.fm/music/Pentatonix/_/The+Little+Drummer+Boy
-.. _Estevão Queiroga - Se For Com Você: https://www.last.fm/music/Estev%C3%A3o+Queiroga/_/Se+For+Com+Voc%C3%AA+(Pode+Ser)
-.. _Carl Orff - Ave formosissima: https://www.last.fm/music/Carl+Orff/_/Ave+formosissima
-.. _Carl Orff - Carmina Burana\: O Fortuna: https://www.last.fm/music/Carl+Orff/_/Carmina+Burana:+O+Fortuna
-.. _A Lista de Schindler: https://www.imdb.com/title/tt0108052/
-.. _Star Wars: O Retorno de Jedi: https://www.imdb.com/title/tt0086190/
-.. _Jogos de Guerra: https://www.imdb.com/title/tt0086567/
-.. _O 13º Andar: https://www.imdb.com/title/tt0139809/
-.. _Joy: https://www.imdb.com/title/tt2446980/
-
 .. _W3C: https://www.w3.org/
 .. _Convertidos do Tableless: https://tableless.com.br/convertidos-tableless/
 .. _WHATWG: https://whatwg.org/
