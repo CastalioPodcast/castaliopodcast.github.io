@@ -104,25 +104,28 @@ Escute Agora
 
 .. podcast:: castalio-podcast-110
 
-Top 5
------
 
-* **Música:** `Pantera - Mouth of War <https://www.last.fm/pt/music/Pantera/_/Mouth+for+War>`_
-* **Música:** `Black Label Society - Demise of Sanity <https://www.last.fm/pt/music/Black+Label+Society/1919+Eternal/Demise+Of+Sanity>`_
-* **Música:** `Mega Driver <https://www.last.fm/music/Megadriver>`_
-* **Música:** `Andy McKee <https://www.last.fm/pt/music/Andy+McKee>`_
-* **Música:** `Jon Gomm <https://www.last.fm/music/Jon+Gomm>`_
-* **Filme:** `Mr. Robot <http://www.imdb.com/title/tt4158110/>`_
-* **Filme:** `Senhor dos Anéis <http://www.imdb.com/title/tt0120737/>`_
-* **Filme:** `Watchmen <http://www.imdb.com/title/tt0409459/>`_
-* **Filme:** `Game of Thrones <http://www.imdb.com/title/tt0944947/>`_
-* **Filme:** `Sherlock BBC <www.imdb.com/title/tt1475582>`_
-* **Filme:** `House of cards <http://www.imdb.com/title/tt1856010/>`_
-* **Livro:** `J.R.R Tolkien <http://www.goodreads.com/author/show/656983.J_R_R_Tolkien>`_
-* **Livro:** `Deep Work <https://www.goodreads.com/book/show/25744928-deep-work>`_
-* **Livro:** `Mastery <http://www.goodreads.com/book/show/13589182-mastery>`_
-* **Livro:** `The Pragmatic Programmer <http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer>`_
-* **Livro:** `O Restaurante no fim do universo <http://www.goodreads.com/book/show/10021253-o-restaurante-no-fim-do-universo>`_
+.. top5::
+
+    :music:
+        * Pantera - Mouth of War
+        * Black Label Society - Demise of Sanity
+        * Mega Driver
+        * Andy McKee
+        * Jon Gomm
+    :movie:
+        * Mr. Robot
+        * Senhor dos Anéis
+        * Watchmen
+        * Game of Thrones
+        * Sherlock BBC
+        * House of cards
+    :book:
+        * J.R.R Tolkien
+        * Deep Work
+        * Mastery
+        * The Pragmatic Programmer
+        * O Restaurante no fim do universo
 
 Links
 -----
