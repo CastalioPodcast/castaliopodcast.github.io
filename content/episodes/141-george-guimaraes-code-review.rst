@@ -57,6 +57,7 @@ Tópicos abordados neste episódio
 
 
 .. top5::
+
     :book:
         * The Messy Middle
         * The Startup Owner's Manual

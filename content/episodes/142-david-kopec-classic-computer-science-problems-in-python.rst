@@ -70,6 +70,7 @@ good for all `Manning <https://www.manning.com/>`_ products in all formats.
 
 
 .. top5::
+
     :book:
         * The Republic
         * Creative Selection

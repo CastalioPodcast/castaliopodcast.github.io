@@ -44,6 +44,7 @@ Tópicos abordados neste episódio
 
 
 .. top5::
+
     :book:
         * Homo Deus
         * O Guia do Mochileiro das Galáxias

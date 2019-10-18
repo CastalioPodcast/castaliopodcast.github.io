@@ -51,26 +51,28 @@ Tópicos abordados neste episódio
 * O que o Masanori mais gosta na prática do mergulho?
 
 
-Top 5
-=====
+.. top5::
 
-* **Música**: `Coldplay - Viva la vida`_
-* **Música**: `MGMT - Kids`_
-* **Música**: `Blink - I miss you`_
-* **Música**: `Boy - We Were Here`_
-* **Música**: `Skank - Esquecimento`_
-* **Filme**: `Forrest Gump`_
-* **Filme**: `Guerra nas Estrelas - Imperio Contra Ataca`_
-* **Filme**: `Casa Blanca`_
-* **Filme**: `A Origem`_
-* **Filme**: `Doze homens e uma sentença`_
-* **Livro**: `Crime Castigo`_
-* **Livro**: `O Idiota`_
-* **Livro**: `Os Irmãos Karamazov`_
-* **Livro**: `Dostoevsky: A Writer in His Time`_
-* **Livro**: `A sutil arte de ligar o f*da-se`_
-* **Livro**: `Os Miseráveis`_
-* **Livro**: `Musashi`_
+    :book:
+        * Crime Castigo
+        * O Idiota
+        * Os Irmãos Karamazov
+        * Dostoevsky: A Writer in His Time
+        * A sutil arte de ligar o f*da-se
+        * Os Miseráveis
+        * Musashi
+    :movie:
+        * Forrest Gump
+        * Guerra nas Estrelas - Imperio Contra Ataca
+        * Casa Blanca
+        * A Origem
+        * Doze homens e uma sentença
+    :music:
+        * Coldplay - Viva la vida
+        * MGMT - Kids
+        * blink-182 - I miss you
+        * Boy - We Were Here
+        * Skank - Esquecimento
 
 
 Assista a gravação deste episódio
@@ -195,24 +197,6 @@ Links
 .. _Raspberry Pi Camera: https://www.raspberrypi.org/documentation/usage/camera/
 .. _Raspberry Pi: https://www.raspberrypi.org/
 .. _Software Quality Engineering (livro do Og Maciel): https://gumroad.com/l/software-quality-engineering
-
-.. _Coldplay - Viva la vida: https://www.last.fm/music/Coldplay/_/Viva+la+Vida
-.. _MGMT - Kids: https://www.last.fm/music/MGMT/_/Kids
-.. _Blink - I miss you: https://www.last.fm/music/blink-182/_/I+Miss+You
-.. _Boy - We Were Here: https://www.last.fm/music/Boy/_/We+Were+Here
-.. _Skank - Esquecimento: https://www.last.fm/music/Skank/_/Esquecimento
-.. _Forrest Gump: https://www.imdb.com/title/tt0109830
-.. _Guerra nas Estrelas - Imperio Contra Ataca: https://www.imdb.com/title/tt0080684
-.. _Casa Blanca: https://www.imdb.com/title/tt0034583/
-.. _A Origem: https://www.imdb.com/title/tt1375666/
-.. _Doze homens e uma sentença: https://www.imdb.com/title/tt0050083/
-.. _Crime Castigo: https://www.goodreads.com/book/show/7144.Crime_and_Punishment
-.. _O Idiota: https://www.goodreads.com/book/show/12505.The_Idiot
-.. _Os Irmãos Karamazov: https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov
-.. _Dostoevsky\: A Writer in His Time: https://www.goodreads.com/book/show/4988505-dostoevsky
-.. _A sutil arte de ligar o f*da-se: https://www.goodreads.com/book/show/36516509-a-sutil-arte-de-ligar-o-f-da-se
-.. _Os Miseráveis: https://www.goodreads.com/book/show/18309595-os-miser-veis
-.. _Musashi: https://www.goodreads.com/book/show/102030.Musashi
 
 
 .. Footer
