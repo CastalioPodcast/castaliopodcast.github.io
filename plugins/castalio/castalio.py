@@ -31,17 +31,25 @@ class YouTubeEmbed(Directive):
 
 
 class Top5(Directive):
+    final_argument_whitespace = True
     has_content = True
+    optional_arguments = 1
+
     _header_title = 'Top 5'
     _li_template = """<li>
     <strong>{category}:</strong>
     <a class="reference external" href="{url}">{name}</a>
     </li>
     """
+    _li_template_no_url = """<li>
+    <strong>{category}:</strong> {name}
+    </li>
+    """
     _category_text = {
         'book': 'Livro',
         'movie': 'Filme',
         'music': 'Música',
+        'pizza': 'Pizza',
         'podcast': 'Podcast',
     }
 
@@ -66,34 +74,45 @@ class Top5(Directive):
         enumerated_list = nodes.enumerated_list()
         for field in node[0]:
             category = field[0].astext()
-            if not category in TOP5_STATS:
+            if category not in TOP5_STATS:
                 TOP5_STATS[category] = {}
             for item in [item.astext() for item in field[1][0]]:
                 top5_item = data.get(category, {}).get(item)
-                if not top5_item:
+                if top5_item is None:
                     return [self.state_machine.reporter.error(
                         f'The Top 5 "{item}" was not found.',
                         nodes.literal_block(self.block_text, self.block_text),
                         line=self.lineno
                     )]
-                enumerated_list.children.append(nodes.raw(
-                    '',
-                    self._li_template.format(
+                if 'url' in top5_item:
+                    text = self._li_template.format(
                         category=self._category_text[category],
                         name=item,
                         url=top5_item['url'],
-                    ),
+                    )
+                else:
+                    text = self._li_template_no_url.format(
+                        category=self._category_text[category],
+                        name=item,
+                    )
+                enumerated_list.children.append(nodes.raw(
+                    '',
+                    text,
                     format='html',
                 ))
                 if item not in TOP5_STATS[category]:
                     TOP5_STATS[category][item] = {
                         'count': 0,
                         'name': item,
-                        'url': top5_item['url'],
+                        'url': top5_item.get('url'),
                     }
                 TOP5_STATS[category][item]['count'] += 1
+        if self.arguments:
+            header_title = self.arguments[0]
+        else:
+            header_title = self._header_title
         return [
-            nodes.title(self._header_title, '', nodes.Text(self._header_title)),
+            nodes.title(header_title, '', nodes.Text(header_title)),
             enumerated_list,
         ]
 
@@ -103,10 +122,12 @@ class Top5Best(Directive):
     <a class="reference external" href="{url}">{name}</a> ({count})
     </li>
     """
+    _li_template_no_url = '<li>{name} ({count})</li>'
     _category_text = {
         'book': 'Top 5 Livros',
         'movie': 'Top 5 Filmes',
         'music': 'Top 5 Músicas',
+        'pizza': 'Top 5 Pizzas',
         'podcast': 'Top 5 Podcast',
     }
 
@@ -124,9 +145,13 @@ class Top5Best(Directive):
             )[:5]
             enumerated_list = nodes.enumerated_list()
             for item in items:
+                if item['url']:
+                    text = self._li_template.format(**item)
+                else:
+                    text = self._li_template_no_url.format(**item)
                 enumerated_list.children.append(nodes.raw(
                     '',
-                    self._li_template.format(**item),
+                    text,
                     format='html',
                 ))
             output_nodes.append(enumerated_list)

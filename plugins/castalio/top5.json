@@ -186,6 +186,9 @@
     "Elm in Action": {
       "url": "https://www.goodreads.com/book/show/31441704-elm-in-action"
     },
+    "Em Busca do Sentido da Obra de Jean Piaget - Zelia Ramozzi": {
+        "url": "https://www.estantevirtual.com.br/livros/zelia-ramozzi-chiarottino/em-busca-do-sentido-da-obra-de-jean-piaget/1815760251"
+    },
     "Ender’s Game": {
       "url": "https://www.goodreads.com/book/show/375802.Ender_s_Game"
     },
@@ -341,6 +344,9 @@
     },
     "Menino Maluquinho": {
       "url": "https://www.goodreads.com/book/show/1796355.O_Menino_Maluquinho"
+    },
+    "Modelo e Estrutura - Zelia Ramozzi": {
+        "url": "https://www.estantevirtual.com.br/livros/zelia-ramozzi-chiarottino/piaget-modelo-e-estrutura/1711628536"
     },
     "Monteiro Lobato": {
       "url": "https://www.goodreads.com/author/show/2450573.Monteiro_Lobato"
@@ -2473,6 +2479,14 @@
     "blink-182 - I miss you": {
       "url": "https://www.last.fm/music/blink-182/_/I+Miss+You"
     }
+  },
+  "pizza": {
+    "Aliche": {},
+    "Catuperoni": {},
+    "Escarola com Bacon": {},
+    "Frango com Catupiry": {},
+    "Marguerita": {},
+    "Peperoni": {}
   },
   "podcast": {
     "Um Milkshake Chamado Wanda": {

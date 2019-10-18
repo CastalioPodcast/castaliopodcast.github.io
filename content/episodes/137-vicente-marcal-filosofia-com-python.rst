@@ -53,25 +53,27 @@ Tópicos abordados neste episódio
   a programação?
 
 
-Top 5
-=====
+.. top5::
 
-* **Livro**: `Modelo e Estrutura - Zelia Ramozzi`_
-* **Livro**: `Em Busca do Sentido da Obra de Jean Piaget - Zelia Ramozzi`_
-* **Livro**: `Adaptation vitale et psychologie de l'intelligence`_
-* **Livro**: `Biologia e Conhecimento`_
-* **Livro**: `A Psicanálise, sua imagem e seu público`_
-* **Livro**: `O Nascimento da Inteligência na Criança`_
-* **Música**: `Iron Maiden - Powerslave`_
-* **Música**: `Belphegor - Lucifer Incestus`_
-* **Música**: `Ratos de Porão - Conflito Violento`_
-* **Música**: `Cólera - Medo`_
-* **Música**: `Garotos Podres - Eu não sei o que quero`_
-* **Filme**: `Game of Thrones`_
-* **Filme**: `Grimm`_
-* **Filme**: `Gotham`_
-* **Filme**: `Mulher Maravilha`_
-* **Filme**: `The Dark Knight`_
+    :book:
+        * Modelo e Estrutura - Zelia Ramozzi
+        * Em Busca do Sentido da Obra de Jean Piaget - Zelia Ramozzi
+        * Adaptation vitale et psychologie de l'intelligence
+        * Biologia e Conhecimento
+        * A Psicanálise, sua imagem e seu público
+        * O Nascimento da Inteligência na Criança
+    :music:
+        * Iron Maiden - Powerslave
+        * Belphegor - Lucifer Incestus
+        * Ratos De Porão - Conflito Violento
+        * Cólera - Medo
+        * Garotos Podres - Eu não sei o que quero
+    :movie:
+        * Game of Thrones
+        * Grimm
+        * Gotham
+        * Mulher Maravilha
+        * The Dark Knight
 
 
 Assista a gravação deste episódio
@@ -160,23 +162,6 @@ Links
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
-.. _Modelo e Estrutura - Zelia Ramozzi: https://www.estantevirtual.com.br/livros/zelia-ramozzi-chiarottino/piaget-modelo-e-estrutura/1711628536
-.. _Em Busca do Sentido da Obra de Jean Piaget - Zelia Ramozzi: https://www.estantevirtual.com.br/livros/zelia-ramozzi-chiarottino/em-busca-do-sentido-da-obra-de-jean-piaget/1815760251
-.. _Adaptation vitale et psychologie de l'intelligence: https://www.goodreads.com/book/show/7502434-adaptation-and-intelligence
-.. _Biologia e Conhecimento: https://www.goodreads.com/book/show/1814504.Biology_and_Knowledge
-.. _A Psicanálise, sua imagem e seu público: https://www.goodreads.com/book/show/14622485-la-psychanalyse-son-image-et-son-public
-.. _O Nascimento da Inteligência na Criança: https://www.goodreads.com/book/show/1728850.The_Origins_of_Intelligence_in_Children
-.. _Iron Maiden - Powerslave: https://www.last.fm/music/Iron+Maiden/Powerslave/Powerslave
-.. _Belphegor - Lucifer Incestus: https://www.last.fm/music/Belphegor/_/Lucifer+Incestus
-.. _Ratos de Porão - Conflito Violento: https://www.last.fm/music/Ratos+De+Por%C3%A3o/_/Conflito+Violento
-.. _Cólera - Medo: https://www.last.fm/music/C%C3%B3lera/_/Medo
-.. _Garotos Podres - Eu não sei o que quero: https://www.last.fm/music/Garotos+Podres/_/Eu+n%C3%A3o+sei+o+que+quero
-.. _Game of Thrones: https://www.imdb.com/title/tt0944947/
-.. _Grimm: https://www.imdb.com/title/tt1830617/
-.. _Gotham: https://www.imdb.com/title/tt3749900/
-.. _Mulher Maravilha: https://www.imdb.com/title/tt0451279/
-.. _The Dark Knight: https://www.imdb.com/title/tt0468569/
-
 .. _Bash: https://www.gnu.org/software/bash/
 .. _Beautiful Soup: https://www.crummy.com/software/BeautifulSoup/
 .. _Brasil.io: https://brasil.io/

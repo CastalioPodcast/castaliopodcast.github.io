@@ -41,42 +41,46 @@ Tópicos abordados neste episódio
 * Quais as recomendações para aprender mais sobre `data science`_?
 
 
-Top 3
-=====
+.. top5:: Top 3 - Gustavo Coelho
 
-Gustavo Coelho
---------------
+    :book:
+        * The Art of Strategy
+        * Weapons of Math Destruction
+        * Nas Montanhas da Loucura
+    :music:
+        * Queens of Stone Age - Go With the Glow
+        * The Black Keys
+        * Chaos Chaos
+    :movie:
+        * Memento
+        * Ressaca de Amor
+        * O Iluminado
+        * A Morte do Demônio
+        * Rick and Morty
+    :pizza:
+        * Catuperoni
+        * Aliche
+        * Frango com Catupiry
 
-* **Livro**: `The Art of Strategy`_
-* **Livro**: `Weapons of Math Destruction`_
-* **Livro**: `Nas Montanhas da Loucura`_
-* **Música**: `Queens of Stone Age - Go With the Glow`_
-* **Música**: `The Black Keys`_
-* **Música**: `Chaos Chaos`_
-* **Filme**: `Memento`_
-* **Filme**: `Ressaca de Amor`_
-* **Filme**: `O Iluminado`_
-* **Filme**: `A Morte do Demônio`_
-* **Série**: `Rick and Morty`_
-* **Pizza**: Catuperoni
-* **Pizza**: Aliche
-* **Pizza**: Frango com Catupiry
 
-Letícia Portella
-----------------
+.. top5:: Top 3 - Letícia Portella
 
-* **Livro**: `Shōgun`_
-* **Livro**: `As Crónicas de Gelo e Fogo`_
-* **Livro**: `How to Lie with Statistics`_
-* **Música**: `Thriller`_
-* **Música**: `Hospital Shirt`_
-* **Música**: `Riding With the King`_
-* **Filme**: `A Morte no Funeral`_
-* **Filme**: `O Incrível Exército Brancaleone`_
-* **Filme**: `RRRrrrr!!!`_
-* **Pizza**: Marguerita
-* **Pizza**: Peperoni
-* **Pizza**: Escarola com Bacon
+    :book:
+        * Shōgun
+        * As Crónicas de Gelo e Fogo
+        * How to Lie with Statistics
+    :music:
+        * Michael Jackson - Thriller
+        * Jason Myles Goss - Hospital Shirt
+        * B.B. King & Eric Clapton - Riding With the King
+    :movie:
+        * A Morte no Funeral
+        * O Incrível Exército Brancaleone
+        * RRRrrrr!!!
+    :pizza:
+        * Marguerita
+        * Peperoni
+        * Escarola com Bacon
 
 
 Assista a gravação deste episódio

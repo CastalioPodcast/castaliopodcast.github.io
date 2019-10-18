@@ -50,6 +50,7 @@ Tópicos abordados neste episódio
 
 
 .. top5::
+
     :book:
         * Stand Out of Our Light - James Williams
         * Dive into Python
