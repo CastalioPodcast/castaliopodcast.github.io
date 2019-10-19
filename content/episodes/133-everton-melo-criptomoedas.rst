@@ -44,29 +44,32 @@ Tópicos abordados neste episódio
   especialista em criptomoedas? E além de tecnologia o que é preciso saber?
 * Detalhes sobre a `falha que o Everton encontrou na OmiseGo`_.
 
-Top 5
-=====
 
-* **Música**: `Frank Sinatra — Flying to the Moon`_
-* **Música**: `Antônio Carlos Jobim — Wave`_
-* **Música**: `Dire Straits — Sultans of Swing`_
-* **Música**: `Al Green — Let's Stay Together (versão da Odara Sol)`_
-* **Música**: `Sepultura — Bullet the Blue Sky`_
-* **Filme**: `Deuses Americanos`_
-* **Filme**: `O Troco`_
-* **Filme**: `Pulp Fiction`_
-* **Filme**: `Fullmetal Alchemist`_
-* **Filme**: `Manhunt: Unabomber`_
-* **Filme**: `Deep Web`_
-* **Filme**: `Ulterior States`_
-* **Livro**: `A Arte da Guerra`_
-* **Livro**: `O Livro dos Cinco Anéis`_
-* **Livro**: `Mastering Bitcoin`_
-* **Livro**: `The Wall Street Journal Guide to Information Graphics`_
-* **Livro**: `Humano, demasiado humano`_
-* **Livro**: `Bitcoin para Programadores`_
-* **Livro**: `Mastering Ethereum`_
-* **Livro**: `Black Market Cryptocurrencies`_
+.. top5::
+
+    :music:
+        * Frank Sinatra — Flying to the Moon
+        * Antônio Carlos Jobim — Wave
+        * Dire Straits — Sultans of Swing
+        * Al Green — Let's Stay Together (versão da Odara Sol)
+        * Sepultura — Bullet the Blue Sky
+    :movie:
+        * Deuses Americanos
+        * O Troco
+        * Pulp Fiction
+        * Fullmetal Alchemist
+        * Manhunt: Unabomber
+        * Deep Web
+        * Ulterior States
+    :book:
+        * A Arte da Guerra
+        * O Livro dos Cinco Anéis
+        * Mastering Bitcoin
+        * The Wall Street Journal Guide to Information Graphics
+        * Humano, demasiado humano
+        * Bitcoin para Programadores
+        * Mastering Ethereum
+        * Black Market Cryptocurrencies
 
 Assista a gravação deste episódio
 =================================
