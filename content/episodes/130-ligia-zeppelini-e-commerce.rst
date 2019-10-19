@@ -55,19 +55,20 @@ Tópicos abordados neste episódio
     * Vale a pena oferecer multiplos meios de pagamento?
     * Vale a pena usar gateways conhecidos ou investir em checkout transparente?
 
-Top 5
-=====
 
-* **Livro**: `Livro de Mirdad`_
-* **Livro**: `Macro Wikinomics`_
-* **Livro**: `O mais completo guia sobre e-commerce`_
-* **Música**: `Apocalyptica`_
-* **Música**: `Annita`_
-* **Filme**: `Greys Anatomy`_
-* **Filme**: `Demolidor`_
-* **Filme**: `A Procura da Felicidade`_
+.. top5::
 
-
+    :music:
+        * Apocalyptica
+        * Annita
+    :movie:
+        * Greys Anatomy
+        * Demolidor
+        * A Procura da Felicidade
+    :book:
+        * Livro de Mirdad
+        * Macro Wikinomics
+        * O mais completo guia sobre e-commerce
 
 Assista a gravação deste episódio
 =================================
