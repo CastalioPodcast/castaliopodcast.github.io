@@ -60,22 +60,25 @@ Tópicos abordados neste episódio
     velocidade de entrega? Porque no mundo real, nem sempre dá para escrever os
     testes como a gente gostaria...
 
-Top 5
-=====
 
-* **Filme**: `1000 Ways to Die`_
-* **Filme**: `Ash vs Evil Dead`_
-* **Filme**: `Breaking Bad`_
-* **Filme**: `Cosmos: A Spacetime Odyssey`_
-* **Filme**: `Suits`_
-* **Livro**: `Escola da Vida`_
-* **Livro**: `Os Quatro Compromissos`_
-* **Música**: `Angra`_
-* **Música**: `Black Sabbath`_
-* **Música**: `King Diamond`_
-* **Música**: `Megadeth`_
-* **Música**: `Mr. Big`_
-* **Música**: `Paul Gilbert`_
+.. top5::
+
+    :music:
+      * Angra
+      * Black Sabbath
+      * King Diamond
+      * Megadeth
+      * Mr. Big
+      * Paul Gilbert
+    :movie:
+      * 1000 Ways to Die
+      * Ash vs Evil Dead
+      * Breaking Bad
+      * Cosmos: A Spacetime Odyssey
+      * Suits
+    :book:
+      * Escola da Vida
+      * Os Quatro Compromissos
 
 Assista a gravação deste episódio
 =================================
