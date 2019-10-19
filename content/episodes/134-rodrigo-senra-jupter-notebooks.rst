@@ -52,37 +52,38 @@ Tópicos abordados neste episódio
 * O que é `Binder`_?
 
 
-Top 5
-=====
+.. top5::
 
-* **Música**: `Jack Johnson`_
-* **Música**: `Adele`_
-* **Música**: `Kings of Convenience`_
-* **Música**: `Debussy - Clair de lune`_
-* **Música**: `Carl Orff - Carmina Burana: O Fortuna`_
-* **Música**: `Beatles`_
-* **Música**: `Sting`_
-* **Filme**: `Festim Diabólico`_
-* **Filme**: `The Party`_
-* **Filme**: `Star Wars: Episode V - O Império Contra Ataca`_
-* **Filme**: `Dune`_
-* **Filme**: `Clue`_
-* **Filme**: `Dead Poets Society`_
-* **Filme**: `Una Pura Formalitá`_
-* **Filme**: `The Matix`_
-* **Filme**: `Primer`_
-* **Filme**: `Jodorowsky's Dune`_
-* **Livro**: `The Monte Cristo Cover-Up`_
-* **Livro**: `Ender’s Game`_
-* **Livro**: `Dear and Glorious Physician`_
-* **Livro**: `Shōgun`_
-* **Livro**: `Musashi`_
-* **Livro**: `Gödel, Escher, Bach: An Eternal Golden Braid`_
-* **Livro**: `The Turning Point`_
-* **Livro**: `Surely You're Joking, Mr. Feynman!`_
-* **Livro**: `The Code Book`_
-* **Livro**: `The Decision Book`_
-
+    :music:
+      * Jack Johnson
+      * Adele
+      * Kings of Convenience
+      * Debussy - Clair de lune
+      * Carl Orff - Carmina Burana: O Fortuna
+      * Beatles
+      * Sting
+    :movie:
+      * Festim Diabólico
+      * The Party
+      * Star Wars: Episode V - O Império Contra Ataca
+      * Dune
+      * Clue
+      * Dead Poets Society
+      * Una Pura Formalitá
+      * The Matix
+      * Primer
+      * Jodorowsky's Dune
+    :book:
+      * The Monte Cristo Cover-Up
+      * Ender’s Game
+      * Dear and Glorious Physician
+      * Shōgun
+      * Musashi
+      * Gödel, Escher, Bach: An Eternal Golden Braid
+      * The Turning Point
+      * Surely You're Joking, Mr. Feynman!
+      * The Code Book
+      * The Decision Book
 
 Assista a gravação deste episódio
 =================================
