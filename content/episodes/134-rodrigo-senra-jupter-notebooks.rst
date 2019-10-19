@@ -58,19 +58,19 @@ Tópicos abordados neste episódio
       * Jack Johnson
       * Adele
       * Kings of Convenience
-      * Debussy - Clair de lune
+      * Claude Debussy - Clair de lune
       * Carl Orff - Carmina Burana: O Fortuna
-      * Beatles
+      * The Beatles
       * Sting
     :movie:
       * Festim Diabólico
       * The Party
-      * Star Wars: Episode V - O Império Contra Ataca
+      * Star Wars Episode V - O Império Contra Ataca
       * Dune
       * Clue
       * Dead Poets Society
       * Una Pura Formalitá
-      * The Matix
+      * The Matrix
       * Primer
       * Jodorowsky's Dune
     :book:
@@ -79,7 +79,7 @@ Tópicos abordados neste episódio
       * Dear and Glorious Physician
       * Shōgun
       * Musashi
-      * Gödel, Escher, Bach: An Eternal Golden Braid
+      * Gödel, Escher, Bach
       * The Turning Point
       * Surely You're Joking, Mr. Feynman!
       * The Code Book
@@ -235,34 +235,6 @@ Links
 .. _Work & Co: https://work.co/
 .. _Zope: https://en.wikipedia.org/wiki/Zope
 .. _iPython: https://ipython.readthedocs.io/en/stable/
-
-.. _Jack Johnson: https://www.last.fm/music/Jack+Johnson
-.. _Kings of Convenience: https://www.last.fm/music/Kings+of+Convenience
-.. _Beatles: https://www.last.fm/music/The+Beatles
-.. _Sting: https://www.last.fm/music/Sting
-.. _Adele: https://www.last.fm/music/Adele
-.. _Debussy - Clair de lune: https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune
-.. _Carl Orff - Carmina Burana\: O Fortuna: https://www.last.fm/music/Carl+Orff/_/Carmina+Burana:+O+Fortuna
-.. _Festim Diabólico: https://www.imdb.com/title/tt0040746/
-.. _The Party: https://www.imdb.com/title/tt0063415/
-.. _Star Wars\: Episode V - O Império Contra Ataca: https://www.imdb.com/title/tt0080684/
-.. _Dune: https://www.imdb.com/title/tt0087182/
-.. _Clue: https://www.imdb.com/title/tt0088930/
-.. _Dead Poets Society: https://www.imdb.com/title/tt0097165/
-.. _Una Pura Formalitá: https://www.imdb.com/title/tt0110917/
-.. _The Matix: https://www.imdb.com/title/tt0133093/
-.. _Primer: https://www.imdb.com/title/tt0390384/
-.. _Jodorowsky's Dune: https://www.imdb.com/title/tt1935156/
-.. _The Monte Cristo Cover-Up: https://www.goodreads.com/book/show/6313614-the-monte-cristo-cover-up
-.. _Ender’s Game: https://www.goodreads.com/book/show/375802.Ender_s_Game
-.. _Dear and Glorious Physician: https://www.goodreads.com/book/show/59097.Dear_and_Glorious_Physician
-.. _Shōgun: https://www.goodreads.com/book/show/402093.Sh_gun
-.. _Musashi: https://www.goodreads.com/book/show/102030.Musashi
-.. _Gödel, Escher, Bach\: An Eternal Golden Braid: https://www.goodreads.com/book/show/24113.G_del_Escher_Bach
-.. _The Turning Point: https://www.goodreads.com/book/show/150999.The_Turning_Point
-.. _Surely You're Joking, Mr. Feynman!: https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_
-.. _The Code Book: https://www.goodreads.com/book/show/17994.The_Code_Book
-.. _The Decision Book: https://www.goodreads.com/book/show/9793361-the-decision-book
 
 
 .. Footer
