@@ -41,21 +41,24 @@ We talked about these topics
 * Advantages for beginners to start with Neovim
 * Books and tutorial recommendations for beginners
 
-Top 5
-=====
 
-* **Book**: `Hacker News`_
-* **Book**: `1984`_
-* **Book**: `The Godfather`_
-* **Music**: `Lamb of god`_
-* **Music**: `Arch enemy`_
-* **Music**: `Caji`_
-* **Music**: `Megadeth`_
-* **Music**: `Arcade Fire`_
-* **Music**: `Iron Maiden`_
-* **Movie**: `Blade Runner`_
-* **Movie**: `Apocalypse`_
-* **Movie**: `Total Recall`_
+.. top5::
+
+    :music:
+        * Lamb of god
+        * Arch enemy
+        * Caji
+        * Megadeth
+        * Arcade Fire
+        * Iron Maiden
+    :movie:
+        * Blade Runner
+        * Apocalypse
+        * Total Recall
+    :book:
+        * Hacker News
+        * 1984
+        * The Godfather
 
 Watch the recording of this episode
 ===================================
