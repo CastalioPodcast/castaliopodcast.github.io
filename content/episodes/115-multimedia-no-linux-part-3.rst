@@ -21,7 +21,7 @@ Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
 No Episódio de hoje daremos continuidade a nossa série sobre produção multimídia no
 Linux. Nos episódios anteriores nós já falamos um pouco sobre `GIMP e Inkscape`_,
-`Audacity e AudioLazy`_ e hoje vamos falar sobre edição de videos no Linux. Para nos 
+`Audacity e AudioLazy`_ e hoje vamos falar sobre edição de videos no Linux. Para nos
 ajudar nós trouxemos o Dionatan Simioni (também conhecido como DioLinux), fundador do
 `DioLinux`_ um dos canais sobre Linux mais conhecidos do Youtube no Brasil e utiliza software
 livre no Linux para editar os videos do seu canal.
@@ -38,15 +38,15 @@ Durante nosso bate-papo, os seguintes tópicos foram abordados:
 * Como ele começou a editar vídeos no Linux
 * Além do KDEnlive e Openshot, quais são os softwares mais indicados para edição de vídeo no Linux?
 * Quais as vantagens e desvantagens de software open source comparados com os softwares disponíveis em outros sistemas operacionais?
-* O que é o KDEnlive, como obtê-lo e quem está por trás mantendo o software? 
+* O que é o KDEnlive, como obtê-lo e quem está por trás mantendo o software?
 * Vale a pena usar versão ‘bleeding edge’?
 * Vale a pena pagar por softwares proprietários para trabalhos profissionais?
-* Existe alguma limitação no KDEnlive ? 
+* Existe alguma limitação no KDEnlive ?
 * Como é a curva de aprendizado para edição com o KDEnlive?
 * Demo (que pode ser assistido pelo YouTube) sobre o KDEnlive mostrando alguns do seus recursos, exemplos de transição, como aplicar efeitos, opções para exportar o vídeo, etc
-* Em termos professionais, é necessário saber usar software proprietário para se conseguir um bom trabalho? Teria você alguma desvantagem por somente conhecer software open source? 
+* Em termos professionais, é necessário saber usar software proprietário para se conseguir um bom trabalho? Teria você alguma desvantagem por somente conhecer software open source?
 
-  
+
 Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no `YouTube`_ e para ver a
 gravação deste episódio confira o vídeo abaixo:
 
@@ -104,25 +104,29 @@ Listen Now
 
 .. podcast:: castalio-podcast-115
 
-Top 5
------
-* **Música**: `Time`_ por `Pink Floyd`_
-* **Música**: `Ripple`_ por `Grateful Dead`_
-* **Música**: `Homecoming`_ por `Green day`_
-* **Música**: `Baba O'Riley`_ por `The Who`_
-* **Música**: `Highway to Hell`_ por `AC/DC`_
-* **Livro**: `Breve História de Quase Tudo`_ por `Bill Bryson`_
-* **Livro**: `Uma Breve História do Tempo`_ por `Stephen Hawking`_
-* **Livro**: `Comédias da Vida Privada`_ por `Luis Fernando Verissimo`_
-* **Livro**: `O Gato Sou Eu`_ por `Fernando Sabino`_
-* **Livro**: `Invocadores do Mal`_ por `Cheryl A. Wicks`_
-* **Filme**: `Matrix`_
-* **Filme**: `De Volta Para o Futuro`_
-* **Filme**: `Psicose`_
-* **Filme**: `Interestelar`_
-* **Filme**: `Independence Day`_
 
-  
+.. top5::
+
+    :music:
+        * Pink Floyd - Time
+        * Grateful Dead - Ripple
+        * Green Day - Homecoming
+        * The Who - Baba O'Riley
+        * AC/DC - Highway to Hell
+    :book:
+        * Breve História de Quase Tudo
+        * Uma Breve História do Tempo
+        * Comédias da Vida Privada
+        * O Gato Sou Eu
+        * Invocadores do Mal
+    :movie:
+        * The Matrix
+        * De Volta Para o Futuro
+        * Psicose
+        * Interestelar
+        * Independence Day
+
+
 Links
 -----
 * `Adobe Premiere`_
@@ -163,7 +167,7 @@ Links
 .. _GIMP e Inkscape: http://castalio.info/episodio-111-multimedia-no-linux-parte-1.html
 .. _Audacity e AudioLazy: http://castalio.info/episodio-113-multimedia-no-linux-parte-2.html
 .. _DioLinux: https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA
-.. _Adobe Premiere: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro 
+.. _Adobe Premiere: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro
 .. _Sony Vegas: https://en.wikipedia.org/wiki/Vegas_Pro
 .. _Ubuntu: https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
 .. _OpenShot: https://en.wikipedia.org/wiki/OpenShot

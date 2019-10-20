@@ -67,20 +67,24 @@ Escute Agora
 
 .. podcast:: castalio-podcast-102
 
-Top 5
------
 
-* **Música**: `U2 <https://www.last.fm/music/U2>`_
-* **Música**: `Coldplay <https://www.last.fm/music/Coldplay>`_
-* **Música**: `Bob Marley - Redemption Song <https://www.last.fm/music/Bob+Marley/_/Redemption+Song>`_
-* **Música**: `Teixeirinha - Gaucho de Passo Fundo <https://www.last.fm/music/Teixeirinha/_/Gaucho+De+Passo+Fundo>`_
-* **Livro**: `Best Karate <https://www.goodreads.com/book/show/200226.Best_Karate_Vol_1>`_
-* **Livro**: `Raspberry Pi Cookbook <https://www.goodreads.com/book/show/18079365-raspberry-pi-cookbook>`_
-* **Livro**: `Spacewalk: The Red Hat Satellite Project <https://www.goodreads.com/book/show/34887956-spacewalk>`_
-* **Filme**: `Daredevil <http://www.imdb.com/title/tt3322312/>`_
-* **Filme**: `Jessica Jones <http://www.imdb.com/title/tt2357547/>`_
-* **Filme**: `Better Call Saul <http://www.imdb.com/title/tt3032476/>`_
-* **Filme**: `101 Dalmatas <http://www.imdb.com/title/tt0115433/>`_
+.. top5::
+
+    :music:
+        * U2
+        * Coldplay
+        * Bob Marley - Redemption Song
+        * Teixeirinha - Gaucho de Passo Fundo
+    :book:
+        * Best Karate
+        * Raspberry Pi Cookbook
+        * Spacewalk: The Red Hat Satellite Project
+    :movie:
+        * Daredevil
+        * Jessica Jones
+        * Better Call Saul
+        * 101 Dalmatas
+
 
 Links
 -----

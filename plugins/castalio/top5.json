@@ -1,5 +1,14 @@
 {
   "book": {
+    "Wikipedia": {
+        "url": "https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"
+    },
+    "Wiki do Arch Linux": {
+        "url": "https://wiki.archlinux.org/index.php/Main_page_(Portugu%C3%AAs)"
+    },
+    "Artigo sobre o descriminante linear": {
+        "url": "https://github.com/danilobellini/scientific-literature/blob/master/1936-Fisher/Fisher_1936.ipynb"
+    },
     "Neil Gaiman": {
         "url": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman"
     },
@@ -168,7 +177,7 @@
     "Design para Quem Não é Designer": {
       "url": "https://www.goodreads.com/book/show/13500628-design-para-quem-n-o-designer"
     },
-    "Difficult Women by Roxane Gay": {
+    "Difficult Women": {
       "url": "https://www.goodreads.com/book/show/28818921-difficult-women"
     },
     "Dirk Gently's Holistic Detective Agency": {
@@ -561,7 +570,7 @@
     "Start with why": {
       "url": "https://www.goodreads.com/book/show/7108725-start-with-why"
     },
-    "Station Eleven by John Mandel": {
+    "Station Eleven": {
       "url": "https://www.goodreads.com/book/show/20170404-station-eleven"
     },
     "Stephen Hawking": {
@@ -745,6 +754,12 @@
   "movie": {
     "Black Swan": {
         "url": "https://www.imdb.com/title/tt0947798/"
+    },
+    "Shōnen": {
+        "url": "https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga"
+    },
+    "Seinen": {
+        "url": "https://en.wikipedia.org/wiki/Seinen_manga"
     },
     "Perfect Blue": {
         "url": "https://www.imdb.com/title/tt0156887/"

@@ -117,13 +117,17 @@ Contact
 .. podcast:: castalio-podcast-119
     :heading: Listen now
 
-Top 5
-=====
 
-* **Música**: `Hanson`_
-* **Livro**: `Difficult Women by Roxane Gay`_
-* **Livro**: `Station Eleven by John Mandel`_
-* **Filme**: `BoJack Horseman`_
+.. top5::
+
+    :music:
+        * Hanson
+    :book:
+        * Difficult Women
+        * Station Eleven
+    :movie:
+        * BoJack Horseman
+
 
 Links
 =====
@@ -177,10 +181,6 @@ Links
 .. _Discover the world of microcontrollers: https://japaric.github.io/discovery/
 .. _into_rust: http://intorust.com/
 .. _Rust Playground: https://play.rust-lang.org/
-.. _Hanson: https://www.last.fm/pt/music/Hanson
-.. _BoJack Horseman: http://www.imdb.com/title/tt3398228/
-.. _Difficult Women by Roxane Gay: https://www.goodreads.com/book/show/28818921-difficult-women
-.. _Station Eleven by John Mandel: https://www.goodreads.com/book/show/20170404-station-eleven
 .. _Carol Nichols: http://carol-nichols.com/
 
 .. Footer
