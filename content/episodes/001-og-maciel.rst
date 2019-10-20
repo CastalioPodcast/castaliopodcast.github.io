@@ -55,7 +55,7 @@ Links
 -  **Slackware**: http://en.wikipedia.org/wiki/Slackware
 -  **rPath**: http://www.rpath.com
 -  **conary**: http://en.wikipedia.org/wiki/Conary_(package_manager)
--  **apt-get**: ﻿﻿\ http://en.wikipedia.org/wiki/Advanced_Packaging_Tool
+-  **apt-get**: http://en.wikipedia.org/wiki/Advanced_Packaging_Tool
 -  **RPM**: http://en.wikipedia.org/wiki/RPM_Package_Manager
 -  **Mercurial**: http://en.wikipedia.org/wiki/Mercurial
 -  **Git**: http://en.wikipedia.org/wiki/Git_(software)
