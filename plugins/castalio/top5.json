@@ -1,5 +1,20 @@
 {
   "book": {
+    "Neil Gaiman": {
+        "url": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman"
+    },
+    "Freedom™": {
+        "url": "https://www.goodreads.com/book/show/8488830-freedom"
+    },
+    "You Are Not a Gadget": {
+        "url": "https://www.goodreads.com/book/show/7675533-you-are-not-a-gadget"
+    },
+    "World Autism Awareness Day": {
+        "url": "http://revistaautismo.com.br"
+    },
+    "Revista Espirito Livre": {
+        "url": "http://espiritolivre.org/"
+    },
     "1984": {
       "url": "https://www.goodreads.com/book/show/5470.1984"
     },
@@ -639,6 +654,9 @@
     "The Open Organization": {
       "url": "https://www.goodreads.com/book/show/23258978-the-open-organization"
     },
+    "The Origin of Species": {
+        "url": "https://www.goodreads.com/book/show/22463.The_Origin_of_Species"
+    },
     "The Paradox of Choice": {
       "url": "https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice"
     },
@@ -725,6 +743,21 @@
     }
   },
   "movie": {
+    "Black Swan": {
+        "url": "https://www.imdb.com/title/tt0947798/"
+    },
+    "Perfect Blue": {
+        "url": "https://www.imdb.com/title/tt0156887/"
+    },
+    "Koyaanisqatsi": {
+        "url": "https://www.imdb.com/title/tt0085809/"
+    },
+    "Powaqqatsi": {
+        "url": "https://www.imdb.com/title/tt0095895/"
+    },
+    "Naqoyqatsi": {
+        "url": "https://www.imdb.com/title/tt0145937/"
+    },
     "1000 Ways to Die": {
       "url": "https://www.imdb.com/title/tt1105711/"
     },
