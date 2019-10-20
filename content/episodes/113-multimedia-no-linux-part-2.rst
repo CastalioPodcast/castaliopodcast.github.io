@@ -100,24 +100,26 @@ Escute Agora
 
 .. podcast:: castalio-podcast-113
 
-Top 5
------
 
-* **Música**: `War Eternal`_ por `Arch Enemy`_
-* **Música**: `Sacred Power of Raging Winds`_ por `Rhapsody`_
-* **Música**: `Aces High`_ por `Iron Maiden`_
-* **Música**: `Erotomania`_ por `Dream Theater`_
-* **Música**: `The Call of the Mountains`_ por `Eluveitie`_
-* **Livro**: `Wikipedia`_
-* **Livro**: `Wiki do Arch Linux`_
-* **Livro**: Artigos Cientificos
-* **Livro**: `Artigo sobre o descriminante linear`_
-* **Filme**: `Game of Thrones`_
-* **Filme**: `Vikings`_
-* **Filme**: Animes
-* **Filme**: `One Piece`_
-* **Filme**: `Shōnen`_ e `Seinen`_
-* **Filme**: `Dexter`_
+.. top5::
+
+    :music:
+        * Arch Enemy - War Eternal
+        * Rhapsody - Sacred Power of Raging Winds
+        * Iron Maiden - Aces High
+        * Dream Theater - Erotomania
+        * Eluveitie - The Call of the Mountains
+    :book:
+        * Wikipedia
+        * Wiki do Arch Linux
+        * Artigo sobre o descriminante linear
+    :movie:
+        * Game of Thrones
+        * Vikings
+        * One Piece
+        * Shōnen
+        * Seinen
+        * Dexter
 
 Links
 -----
@@ -147,29 +149,6 @@ Links
 .. _Audacity: http://www.audacityteam.org/
 .. _Linguagem ChucK: http://chuck.cs.princeton.edu
 .. _YouTube: https://www.youtube.com/c/CastalioPodcast
-
-.. _Arch Enemy: https://www.last.fm/music/Arch+Enemy
-.. _War Eternal: https://www.last.fm/music/Arch+Enemy/_/War+Eternal
-.. _Sacred Power of Raging Winds: https://www.last.fm/music/Rhapsody/_/Sacred+Power+of+Raging+Winds
-.. _Rhapsody: https://www.last.fm/music/Rhapsody
-.. _Aces High: https://www.last.fm/music/Iron+Maiden/_/Aces+High
-.. _Iron Maiden: https://www.last.fm/music/Iron+Maiden
-.. _Dream Theater: https://www.last.fm/music/Dream+Theater
-.. _Erotomania: https://www.last.fm/music/Dream+Theater/_/Erotomania
-.. _The Call of the Mountains: https://www.last.fm/music/Eluveitie/_/The+Call+of+the+Mountains
-.. _Eluveitie: https://www.last.fm/music/Eluveitie
-
-.. _Game of Thrones: http://www.imdb.com/title/tt3014700/
-.. _Vikings: http://www.imdb.com/title/tt2306299/
-.. _One Piece: http://www.imdb.com/title/tt0388629/
-.. _Shōnen: https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga
-.. _Seinen: https://en.wikipedia.org/wiki/Seinen_manga
-.. _Dexter: http://www.imdb.com/title/tt0773262/
-
-
-.. _Wikipedia: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
-.. _Wiki do Arch Linux: https://wiki.archlinux.org/index.php/Main_page_(Portugu%C3%AAs)
-.. _Artigo sobre o descriminante linear: https://github.com/danilobellini/scientific-literature/blob/master/1936-Fisher/Fisher_1936.ipynb
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

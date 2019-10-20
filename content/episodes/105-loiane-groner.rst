@@ -122,25 +122,27 @@ Escute Agora
 
 .. podcast:: castalio-podcast-105
 
-Top 5
------
 
-* **Filme**: `O Senhor dos Anéis <http://www.imdb.com/title/tt0120737/>`_
-* **Filme**: `Star Wars <http://www.imdb.com/title/tt0120915/>`_
-* **Filme**: Desenhos animados da Disney
-* **Filme**: Comedia Romântica
-* **Música**: `Avantasia <https://www.last.fm/music/Avantasia>`_
-* **Música**: `Angra <https://www.last.fm/music/Angra>`_
-* **Música**: `Nightwish <https://www.last.fm/music/Nightwish>`_
-* **Música**: `After Forever <https://www.last.fm/music/After+Forever>`_
-* **Música**: `Within Temptation <https://www.last.fm/music/Within+Temptation>`_
-* **Música**: `Céline Dion <https://www.last.fm/music/C%C3%A9line+Dion>`_
-* **Música**: `Blind Guardian <https://www.last.fm/music/Blind+Guardian>`_
-* **Livros**: `Trilogia O Senhor dos Anéis <https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings>`_
-* **Livros**: `Game of Thrones <https://www.goodreads.com/book/show/13496.A_Game_of_Thrones>`_
-* **Livros**: `Harry Potter <https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone>`_
-* **Livros**: `O Guia do Mochileiro das Galáxias <https://www.goodreads.com/book/show/10052680-o-guia-do-mochileiro-das-gal-xias>`_
-* **Livros**: `Crepúsculo <https://www.goodreads.com/book/show/1570814.Crep_sculo>`_
+.. top5::
+
+    :movie:
+        * O Senhor dos Anéis
+        * Star Wars
+    :music:
+        * Avantasia
+        * Angra
+        * Nightwish
+        * After Forever
+        * Within Temptation
+        * Céline Dion
+        * Blind Guardian
+    :book:
+        * O Senhor dos Anéis
+        * A Game of Thrones
+        * Harry Potter
+        * O Guia do Mochileiro das Galáxias
+        * Crepúsculo
+
 
 Links
 -----

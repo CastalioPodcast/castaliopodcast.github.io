@@ -106,23 +106,27 @@ Listen Now
 
 .. podcast:: castalio-podcast-114
 
-Top 5
------
 
-* **Music**: `Taken By the Sea`_ by `Darren Hayes`_
-* **Music**: `Who Would Have Thought?`_ by `Darren Hayes`_
-* **Music**: `Toni Braxton`_
-* **Music**: `Depeche Mode`_
-* **Music**: `Duran Duran`_
-* **Music**: `a-ha`_
-* **Movie**: `Resident Evil`_
-* **Movie**: `Now You See Me`_
-* **Movie**: `The Good Wife`_
-* **Book**: `Agatha Christie`_
-* **Book**: `The Hollow Man`_ by `John Dickson Carr`_
-* **Book**: `Black Jack`_
-* **Book**: `The Lost Symbol`_ by `Dan Brown`_
-* **Book**: `Two Scoops of Django 1.11`_
+.. top5::
+
+    :music:
+        * Darren Hayes - Taken By the Sea
+        * Darren Hayes - Who Would Have Thought?
+        * Toni Braxton
+        * Depeche Mode
+        * Duran Duran
+        * a-ha
+    :movie:
+        * Resident Evil
+        * Now You See Me
+        * The Good Wife
+    :book:
+        * Agatha Christie
+        * The Hollow Man
+        * Black Jack
+        * The Lost Symbol
+        * Two Scoops of Django 1.11
+
 
 Links
 -----
@@ -183,24 +187,6 @@ Links
 .. _Python Developer’s Guide: https://devguide.python.org/
 .. _core-workflow: https://github.com/python/core-workflow
 .. _Python Documentation: https://docs.python.org/3/
-.. _Darren Hayes: https://www.last.fm/music/Darren+Hayes
-.. _Taken By the Sea: https://www.last.fm/music/Darren+Hayes/_/Taken+By+the+Sea
-.. _Who Would Have Thought?: https://www.last.fm/music/Darren+Hayes/_/Who+Would+Have+Thought%3F
-.. _Toni Braxton: https://www.last.fm/music/Toni+Braxton
-.. _Depeche Mode: https://www.last.fm/music/Depeche+Mode
-.. _Duran Duran: https://www.last.fm/music/Duran+Duran
-.. _a-ha: https://www.last.fm/music/a-ha
-.. _Resident Evil: http://www.imdb.com/title/tt0120804/
-.. _Now You See Me: http://www.imdb.com/title/tt1670345/
-.. _Kung Fu Hustle: http://www.imdb.com/title/tt0373074/
-.. _The Good Wife: http://www.imdb.com/title/tt1442462/
-.. _Agatha Christie: https://www.goodreads.com/author/show/123715.Agatha_Christie
-.. _John Dickson Carr: https://www.goodreads.com/author/show/5622.John_Dickson_Carr
-.. _The Hollow Man: https://www.goodreads.com/book/show/34815037-the-hollow-man
-.. _Black Jack: https://www.goodreads.com/book/show/534309.Black_Jack_Vol_1
-.. _Dan Brown: https://www.goodreads.com/author/show/630.Dan_Brown
-.. _The Lost Symbol: https://www.goodreads.com/book/show/6411961-the-lost-symbol
-.. _Two Scoops of Django 1.11: https://www.goodreads.com/book/show/35652973-two-scoops-of-django-1-11
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

@@ -107,22 +107,26 @@ Escute Agora
 
 .. podcast:: castalio-podcast-109
 
-Top 5
------
 
-* **Música:** `Ratos de Porão <https://www.last.fm/music/Ratos+De+Por%C3%A3o>`_
-* **Música:** `Muqueca de Rato <https://www.last.fm/music/Muqueca+de+Rato>`_
-* **Música:** `The xx - Intro <https://www.last.fm/music/The+xx/_/Intro>`_
-* **Música:** `Rincon Sapiência <https://www.last.fm/music/Rincon+Sapi%C3%AAncia>`_
-* **Filme:** `Mr. Robot <http://www.imdb.com/title/tt4158110/>`_
-* **Filme:** `Stranger Things <http://www.imdb.com/title/tt4574334/>`_
-* **Filme:** `A Espera de um Milagre <http://www.imdb.com/title/tt0120689/>`_
-* **Filme:** `Scarface <http://www.imdb.com/title/tt0086250/>`_
-* **Filme:** `O Poderoso Chefão <http://www.imdb.com/title/tt0068646/>`_
-* **Filme:** `Os Guardiões da Galáxia <http://www.imdb.com/title/tt3896198/>`_
-* **Filme:** `House of cards <http://www.imdb.com/title/tt1856010/>`_
-* **Livro:** `Sapiens <https://www.goodreads.com/book/show/23692271-sapiens>`_
-* **Livro:** `The Phoenix Project <https://www.goodreads.com/book/show/17255186-the-phoenix-project>`_
+.. top5::
+
+    :music:
+        * Ratos De Porão
+        * Muqueca de Rato
+        * The xx - Intro
+        * Rincon Sapiência
+    :movie:
+        * Mr. Robot
+        * Stranger Things
+        * A Espera de um Milagre
+        * Scarface
+        * O Poderoso Chefão
+        * Os Guardiões da Galáxia
+        * House of cards
+    :book:
+        * Sapiens
+        * The Phoenix Project
+
 
 Links
 -----

@@ -119,24 +119,28 @@ Listen Now
 
 .. podcast:: castalio-podcast-106
 
-Top 5
------
 
-* **Book**: `Rendezvous with Rama <https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama>`_
-* **Book**: `The Stand <https://www.goodreads.com/book/show/149267.The_Stand>`_
-* **Book**: `On Writing <https://www.goodreads.com/book/show/10569.On_Writing>`_
-* **Book**: `Permutation City <https://www.goodreads.com/book/show/156784.Permutation_City>`_
-* **Book**: `Cat's Cradle <https://www.goodreads.com/book/show/135479.Cat_s_Cradle>`_
-* **Book**: `Clean Code <https://www.goodreads.com/book/show/3735293-clean-code>`_
-* **Book**: `The Clean Coder <https://www.goodreads.com/book/show/10284614-the-clean-coder>`_
-* **Movie**: `The Simpsons <http://www.imdb.com/title/tt0096697/>`_
-* **Movie**: `Star Trek <http://www.imdb.com/title/tt0060028/>`_
-* **Movie**: `Spinal Tap <http://www.imdb.com/title/tt0439825/>`_
-* **Movie**: `Jiro Dreams of Sushi <http://www.imdb.com/title/tt1772925/>`_
-* **Movie**: `Ex Machina <http://www.imdb.com/title/tt0470752/>`_
-* **Music**: `Radiohead - Amnesiac <https://www.last.fm/music/Radiohead/Amnesiac>`_
-* **Music**: `Pink Floyd - Animals <https://www.last.fm/music/Pink+Floyd/Animals>`_
-* **Music**: `The Beatles - Past Master Volume Two <https://www.last.fm/music/The+Beatles/Past+Masters,+Volume+Two>`_
+.. top5::
+
+    :book:
+        * Rendezvous with Rama
+        * The Stand
+        * On Writing
+        * Permutation City
+        * Cat's Cradle
+        * Clean Code
+        * The Clean Coder
+    :movie:
+        * The Simpsons
+        * Star Trek
+        * Spinal Tap
+        * Jiro Dreams of Sushi
+        * Ex Machina
+    :music:
+        * Radiohead - Amnesiac
+        * Pink Floyd - Animals
+        * The Beatles - Past Master Volume Two
+
 
 Links
 -----

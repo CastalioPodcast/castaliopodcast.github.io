@@ -154,19 +154,23 @@ Contato
 .. podcast:: castalio-podcast-118
     :heading: Escute agora
 
-Top 5
-=====
 
-* **Música**: `Ramones`_
-* **Música**: `Pet Cemetery`_
-* **Música**: `Poison Heart`_
-* **Música**: `Metallica`_
-* **Música**: `Nirvana`_
-* **Música**: `Ratos de Porão`_
-* **Música**: `Eminem`_
-* **Livro**: `Livro Game of Thrones`_
-* **Filme**: `Game of Thrones`_
-* **Filme**: `Supernatural`_
+.. top5::
+
+    :music:
+        * Ramones
+        * Pet Cemetery
+        * Poison Heart
+        * Metallica
+        * Nirvana
+        * Ratos De Porão
+        * Eminem
+    :book:
+        * A Game of Thrones
+    :movie:
+        * Game of Thrones
+        * Supernatural
+
 
 Links
 =====
@@ -224,16 +228,6 @@ Links
 .. _Emmi Linux no Twitter: https://twitter.com/Emmi_Linux
 .. _Emmi Linux no YouTube: https://www.youtube.com/channel/UCFDMd02Nr55xSPwkTJLsFRQ
 .. _Shell Script para Acessibilidade (ShellSpeak): https://www.youtube.com/watch?v=SFVxMCO2jb8
-.. _Ramones: https://www.last.fm/music/Ramones
-.. _Pet Cemetery: https://www.last.fm/music/Pet+Cemetery
-.. _Poison Heart: https://www.last.fm/music/Poison+Heart
-.. _Metallica: https://www.last.fm/music/Metallica
-.. _Nirvana: https://www.last.fm/music/Nirvana
-.. _Ratos De Porão: https://www.last.fm/music/Ratos+De+Por%C3%A3o
-.. _Eminem: https://www.last.fm/music/Eminem
-.. _Game of Thrones: http://www.imdb.com/title/tt0944947/
-.. _Supernatural: http://www.imdb.com/title/tt0460681/
-.. _Livro Game of Thrones: https://www.goodreads.com/book/show/13496.A_Game_of_Thrones
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

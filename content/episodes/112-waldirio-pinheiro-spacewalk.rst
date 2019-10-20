@@ -16,7 +16,7 @@ Nosso convidado de hoje, assim como o `Marcelo Mello
 também trabalha na Red Hat, e também possui um monte de certificações da Sun
 Microsystems, LPI e da Red Hat! Ele atua na área de computação desde 1999,
 possui graduação em Ciência da Computação, extensão em Geofísica do Petróleo e
-pós-graduação em Geologia do Petróleo e Gás. Hoje em dia ele é Engenheiro na Red Hat 
+pós-graduação em Geologia do Petróleo e Gás. Hoje em dia ele é Engenheiro na Red Hat
 e escreveu um livro chamado Spacewalk: o Projeto do Red Hat
 Satellite. É com grande prazer que nós recebemos nosso convidado de hoje,
 Waldirio Manhães Pinheiro.
@@ -96,19 +96,21 @@ Escute Agora
 
 .. podcast:: castalio-podcast-112
 
-Top 5
------
 
-* **Música**: `Metallica <https://www.last.fm/music/Metallica>`_
-* **Música**: `Bruno Mars <https://www.last.fm/music/Bruno+Mars>`_
-* **Música**: `Jason Mraz - I'm Yours <https://www.last.fm/music/Jason+Mraz/_/I%27m+Yours>`_
-* **Livro**: `Use a Cabeça! Rails <https://www.goodreads.com/book/show/4949867-head-first-rails>`_
-* **Livro**: `Use a Cabeça! Ruby <https://www.goodreads.com/book/show/23466394-head-first-ruby>`_
-* **Livro**: `Pluralsight  <https://www.pluralsight.com/>`_
-* **Filme**: `Ben 10 <http://www.imdb.com/title/tt0760437/>`_
-* **Filme**: `Prison Break <http://www.imdb.com/title/tt0455275/>`_
-* **Filme**: `Stranger Things <http://www.imdb.com/title/tt4574334/>`_
-* **Filme**: `The Circle <http://www.imdb.com/title/tt4287320/>`_
+.. top5::
+
+    :music:
+        * Metallica
+        * Bruno Mars
+        * Jason Mraz - I'm Yours
+    :book:
+        * Use a Cabeça! Rails
+        * Use a Cabeça! Ruby
+    :movie:
+        * Ben 10
+        * Prison Break
+        * Stranger Things
+        * The Circle
 
 Links
 -----
@@ -130,6 +132,7 @@ Links
 * `Preboot Execution Environment (pxe boot)`_
 * `Automatic Bug Reporting Tool (ABRT)`_
 * `OpenSCAP`_
+* `Pluralsight`_
 
 .. class:: panel-body bg-info
 
@@ -154,6 +157,7 @@ Links
 .. _Preboot Execution Environment (pxe boot): https://en.wikipedia.org/wiki/Preboot_Execution_Environment
 .. _Automatic Bug Reporting Tool (ABRT): https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/ch-abrt.html
 .. _OpenSCAP: https://www.open-scap.org/
+.. _Pluralsight: https://www.pluralsight.com/
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
