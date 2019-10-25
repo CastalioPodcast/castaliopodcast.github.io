@@ -48,23 +48,26 @@ Tópicos abordados neste episódio
 * Recomendações de livros, sites, documentação, e etc para quem está começando.
 * Como é a comunidade do pytest?
 
-Top 5
-=====
+.. top5::
 
-* **Música**: `Foo Fighters`_
-* **Música**: `Bridge Burning`_ por `Foo Fighters`_
-* **Música**: `Disturbed`_
-* **Música**: `Grave Digger`_
-* **Filme**: `Um Sonho de Liberdade`_
-* **Filme**: `Zeitgeist`_
-* **Filme**: `Seinfeld`_
-* **Filme**: `The IT Crowd`_
-* **Filme**: `Mr. Robot`_
-* **Filme**: `Penn & Teller: Bullshit!`_
-* **Livro**: `O mundo assombrado pelos demônios`_ por `Carl Sagan`_
-* **Game**: `Dark Souls`_
-* **Game**: `The Witcher 3: Wild Hunt`_
-* **Game**: `Fallout 4`_
+    :music:
+        * Foo Fighters
+        * Bridge Burning por Foo Fighters
+        * Disturbed
+        * Grave Digger
+    :movie:
+        * Um Sonho de Liberdade
+        * Zeitgeist
+        * Seinfeld
+        * The IT Crowd
+        * Mr. Robot
+        * Penn & Teller: Bullshit!
+    :book:
+        * O mundo assombrado pelos demônios por Carl Sagan
+    :game:
+        * Dark Souls
+        * The Witcher 3: Wild Hunt
+        * Fallout 4
 
 Assista a gravação deste episódio
 =================================
