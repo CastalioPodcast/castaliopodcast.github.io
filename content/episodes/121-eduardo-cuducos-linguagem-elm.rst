@@ -106,16 +106,18 @@ Contatos
 .. podcast:: castalio-podcast-121
     :heading: Escute Agora
 
-Top 5
-=====
+.. top5::
 
-* **Música**: `Hurricane`_ by `Bob Dylan`_
-* **Música**: `Stampede`_ by `The Quantic Soul Orchestra`_
-* **Filme**: `Dançando no Escuro`_
-* **Filme**: `Big Fish`_
-* **Filme**: `A Vida é Bela`_
-* **Livro**: `Musashi`_
-* **Livro**: `Alan Watts`_
+    :music:
+        * Hurricane by Bob Dylan
+        * Stampede by The Quantic Soul Orchestra
+    :movie:
+        * Dançando no Escuro
+        * Big Fish
+        * A Vida é Bela
+    :book:
+        * Musashi
+        * Alan Watts
 
 Links
 =====
