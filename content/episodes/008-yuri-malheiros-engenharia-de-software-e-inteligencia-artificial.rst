@@ -23,14 +23,17 @@ Contato
 -  **Blog**: http://yurimalheiros.com/
 -  **Twitter**: http://twitter.com/yurimalheiros
 
-Top 5
------
--  **Música:** Blink 182
--  **Música:** Radio Head
--  **Música:** NOFX
--  **Música:** Avenged Sevenfold
--  **Televisão:** Cavaleiros do Zodiaco
--  **Livros:** Asimov
+.. top5::
+
+    :music:
+        * Blink 182
+        * Radio Head
+        * NOFX
+        * Avenged Sevenfold
+    :television:
+        * Cavaleiros do Zodiaco
+    :book:
+        * Asimov
 
 Links
 -----

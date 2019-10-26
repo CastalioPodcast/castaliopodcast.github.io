@@ -27,24 +27,28 @@ Contato
 - **Twitter**: `twitter.com/johandahlin`_
 - **Blog**: `blogs.gnome.org/johan`_
 
-Top 5
------
--  **Filmes**: 8 1/2 do Felini
--  **Filmes**: Pulp Fiction
--  **Filmes**: Miyazaki (Spirited Away)
--  **Filmes**: Vertigo
--  **Filmes**: Casa Blanca
--  **Músicas**: Daft Punk
--  **Músicas**: Foo Fighters
--  **Músicas**: Marcelo D2
--  **Livros**: Pippi Longstocking da Astrid Lindgren
--  **Livros**: Tolkien
--  **Livros**: The Girl With The Dragon Tattoo
--  **Pessoas/Blogs**: Linus Torvald
--  **Pessoas/Blogs**: Miguel de Icaza
--  **Pessoas/Blogs**: Joel on Software
--  **Pessoas/Blogs**: Coding Horror
--  **Pessoas/Blogs**: Guido pai do python
+.. top5::
+
+    :movie:
+        * 8 1/2 do Felini
+        * Pulp Fiction
+        * Miyazaki (Spirited Away)
+        * Vertigo
+        * Casa Blanca
+    :music:
+        * Daft Punk
+        * Foo Fighters
+        * Marcelo D2
+    :book:
+        * Pippi Longstocking da Astrid Lindgren
+        * Tolkien
+        * The Girl With The Dragon Tattoo
+    :people/blogs:
+        * Linus Torvald
+        * Miguel de Icaza
+        * Joel on Software
+        * Coding Horror
+        * Guido pai do python
 
 Links
 -----
