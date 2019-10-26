@@ -30,26 +30,49 @@ Escute Agora
 
 .. podcast:: castalio-podcast-07
 
+.. top5::
+
+    :television:
+        * Seriados policiais e de ficção científica
+        * Ultramen
+        * Mulher Maravilha
+    :movie:
+        * Todos do Jerry Lewis
+    :book:
+        * Alice no País das Maravilhas
+        * O Senhor dos Anéis
+        * Série Percy Jackson
+        * Ishmael por Daniel Quinn
+        * O Andarilho das Estrelas por Jack London
+    :music:
+        * Tudo que não seja forró, pagode, etc
+        * Linkin Park
+        * Pet Shop Boys
+
 Contato
 -------
--  **Blog:** http://teia.bio.br/
--  **Twitter:** http://twitter.com/aracnus
--  **Identi.ca:** http://identi.ca/aracnus
 
-Top 5
------
--  **Televisão**: Seriados policiais e de ficção científica
--  **Televisão**: Ultramen
--  **Televisão**: Mulher Maravilha
--  **Filmes**:  Todos do Jerry Lewis
--  **Livro**: Alice no País das Maravilhas
--  **Livro**: O Senhor dos Anéis
--  **Livro**: Série Percy Jackson
--  **Livro**: Ishmael por Daniel Quinn
--  **Livro**: O Andarilho das Estrelas por Jack London
--  **Música**: tudo que não seja forró, pagode, etc
--  **Música**: Linkin Park
--  **Música**: Pet Shop Boys
+.. raw:: html
+
+    <div class="row">
+        <div class="col-md-6">
+            <p>
+            <div class="media">
+            <div class="media-left">
+                <img class="media-object img-circle img-thumbnail" src="/images/fredericoguimaraes.jpg" alt="Frederico Gonçalves" width="200px">
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">Frederico Gonçalves</h4>
+                <ul class="list-unstyled">
+                    <li><i class="fa fa-globe"></i> <a href="https://teia.bio.br">Site</a></li>
+                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/aracnus">Twitter</a></li>
+                    <li><i class="fa fa-twitter"></i> <a href="https://identi.ca/aracnus">Identi.ca</a></li>
+                </ul>
+            </div>
+            </div>
+            </p>
+        </div>
+    </div>
 
 Links
 -----
