@@ -55,25 +55,29 @@ Resumo
 -  **Top 5**: 38:00
 -  **Fechamento**: 47:00
 
-Top 5
------
--  **Música**: U2
--  **Música**: REM
--  **Música**: Radio Head
--  **Música**: Norah Jones
--  **Música**: Los Hermanos
--  **Música**: Pato Fu
--  **Televisão/Filmes**: Forest Gump
--  **Televisão/Filmes**: Crash
--  **Televisão/Filmes**: Pursuit of Happiness
--  **Televisão/Filmes**: 7 Vidas
--  **Televisão/Filmes**: Toy Story
--  **Livros**: Quadrinhos e revistas de informática
--  **Livros**: José Saramago
--  **Pessoas/Sites**: `BR-Linux`_
--  **Pessoas/Sites**: Blog do `Diego Búrigo Zacarão`_
--  **Pessoas/Sites**: `OS News`_
--  **Pessoas/Sites**: `Linux Forums`_
+.. top5::
+
+    :music:
+        * U2
+        * REM
+        * Radio Head
+        * Norah Jones
+        * Los Hermanos
+        * Pato Fu
+    :television/movie:      
+        * Forest Gump
+        * Crash
+        * Pursuit of Happiness
+        * 7 Vidas
+        * Toy Story
+    :book:
+        * Quadrinhos e revistas de informática
+        * José Saramago
+    :people/sites:
+        * `BR-Linux`_
+        * Blog do `Diego Búrigo Zacarão`_
+        * `OS News`_
+        * `Linux Forums`_
 
 Links
 -----

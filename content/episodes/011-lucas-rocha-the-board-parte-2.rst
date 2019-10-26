@@ -44,21 +44,25 @@ Resumo
 -  **Conselho**: 48:00
 -  **Despedida**: 50:00
 
-Top 5
------
--  **Música**: `John Coltrane`_ (`A Love Supreme`_)
--  **Música**: `Miles Davis`_ (`Kind of Blue`_)
--  **Livros**: **Agatha Chistie**
--  **Livros**: `The Hacker Ethic`_ por **Pekka Himanen**
--  **Livros**: `The Design of Everyday Things`_ por **Donald A. Norman**
--  **Livros**: `Melancholy Death of Oyster Boy and Other Stories`_ por **Tim Burton**
--  **Livros**: `Rework`_ por **Jason Fried**
--  **Filme e Televisão**: `MacGyver`_
--  **Filme e Televisão**: `The Matrix`_
--  **Filme e Televisão**: `Beleza Americana`_
--  **Filme e Televisão**: `Cinema Paradiso`_
--  **Pessoas e Blogs**: `Havoc Pennington`_
--  **Pessoas e Blogs**: `Vincent Untz`_
+.. top5::
+
+    :music:
+        * `John Coltrane`_ (`A Love Supreme`_)
+        * `Miles Davis`_ (`Kind of Blue`_)
+    :book:
+        * **Agatha Chistie**
+        * `The Hacker Ethic`_ por **Pekka Himanen**
+        * `The Design of Everyday Things`_ por **Donald A. Norman**
+        * `Melancholy Death of Oyster Boy and Other Stories`_ por **Tim Burton**
+        * `Rework`_ por **Jason Fried**
+    :movie/television:
+        * `MacGyver`_
+        * `The Matrix`_
+        * `Beleza Americana`_
+        * `Cinema Paradiso`_
+    :people/blogs:
+        * `Havoc Pennington`_
+        * `Vincent Untz`_
 
 Links
 -----
