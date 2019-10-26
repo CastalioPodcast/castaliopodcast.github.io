@@ -65,20 +65,24 @@ Summary
 -  **Top 5**  49:15
 -  **Conclusion**  54:45
 
-Top 5
------
--  **Music**:  `Lagwagon`_
--  **Music**:  `Green Day`_
--  **Music**:  `Mike Oldfield`_
--  **Music**:  `J-Rock`_
--  **Music**:  `J-Pop`_
--  **Books**:  `Night Watch`_ series by `Sergei Lukyanenko`_
--  **Website**:  `Slashdot`_
--  \*\*\*\*Website\*\*\*\*:  `The Register`_
--  \*\*\*\*Website\*\*\*\*:  `The Daily WTF`_
--  **Movies**:  `Kamikaze Girls`_
--  **Movies**:  `Inception`_
--  **Movies**:  `The Prestige`_
+.. top5::
+
+    :music:
+        * `Lagwagon`_
+        * `Green Day`_
+        * `Mike Oldfield`_
+        * `J-Rock`_
+        * `J-Pop`_
+    :book:
+        * `Night Watch`_ series by `Sergei Lukyanenko`_
+    :sites:
+        * `Slashdot`_
+        * `The Register`_
+        * `The Daily WTF`_
+    :mivies:
+        * `Kamikaze Girls`_
+        * `Inception`_
+        * `The Prestige`_
 
 Links
 -----
