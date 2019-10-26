@@ -48,29 +48,33 @@ Resumo
 -  **Top 5**:  50:40
 -  **Conclusão**:  01:02:00
 
-Top 5
------
--  **Música**: Black Sabath
--  **Música**: Deep Purple
--  **Música**: Steppenwolf
--  **Música**: Nirvana
--  **Música**: Metallica
--  **Música**: Iron Maiden
--  **Música**: Pink Floyd
--  **Música**: Led Zeppelin
--  **Livro**: Senhor dos Anéis (série)
--  **Livro**: Admirável Mundo Novo
--  **Livro**: Guia do Mochileiro das Galáxias
--  **Livro**: Gibis de super heróis
--  **Livro**: Game of Thrones (série)
--  **Filme**: De Volta Para o Futuro (trilogia)
--  **Filme**: Matrix (trilogia)
--  **Filme** : Ghost in the Shell
--  **Filme**: Samurai X
--  **Filmes**: Dragon Ball
--  **Filmes**: Cavaleiros do Zodíaco
--  **Pessoas/Web Site**: agregador de notícias `Planeta GNU/Linux Brasil`_
--  **Pessoas/Web Site**: `BR-Linux`_, `BR-Mac`_ do **Augusto Campos**
+.. top5::
+
+    :music:
+        * Black Sabath
+        * Deep Purple
+        * Steppenwolf
+        * Nirvana
+        * Metallica
+        * Iron Maiden
+        * Pink Floyd
+        * Led Zeppelin
+    :book:
+        * Senhor dos Anéis (série)
+        * Admirável Mundo Novo
+        * Guia do Mochileiro das Galáxias
+        * Gibis de super heróis
+        * Game of Thrones (série)
+    :movie:
+        * De Volta Para o Futuro (trilogia)
+        * Matrix (trilogia)
+        * Ghost in the Shell
+        * Samurai X
+        * Dragon Ball
+        * Cavaleiros do Zodíaco
+    :people/sites:
+        * agregador de notícias `Planeta GNU/Linux Brasil`_
+        * `BR-Linux`_, `BR-Mac`_ do **Augusto Campos**
 
 Links
 -----
