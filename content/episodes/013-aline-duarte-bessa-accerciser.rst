@@ -60,27 +60,30 @@ Resumo
 -  **Pense... Difícil é Fazer Uma Jaca**:  42:30
 -  **Conclusão**:  43:30
 
-Top 5
------
--  **Música**: Television
--  **Música**: Smiths
--  **Música**: Bloody Valentine
--  **Música**: Velvet Underground
--  **Música**: David Bowie
--  **Livro**: **On The Road** por \ `Jack Kerouac`_
--  **Livro**: **The Corrections** e **Freedom** por \ `Jonathan Franzen`_
--  **Livro**: **Cem Anos de Solidão** por `Gabriel Garcia Marquez`_
--  **Livro**: **O Jogo da Amarelinha** por \ **Julio Cortazar** and
-   **Fernando de Castro Ferro**
--  **Livro**: **To the Light House** por `Virginia Woolf`_
--  **Filme**: A Dupla Vida de Veronique do \ `Krzysztof Kieslowski`_
--  **Filme**: O Poderoso Chefão (trilogia)
--  **Filme** : Matrix (trilogia)
--  **Filme**: De Volta Para o Futuro (trilogia)
--  **Filmes**: Curtindo a Vida a Doidado e outros filmes do `John Hughes`_
--  **Pessoas/Web Site**: `Já Matei Por Menos e Já Escrevi Por Mais`_ da **Juliana Cunha**
--  **Pessoas/Web Site**: `XKCD`_
--  **Pessoas/Web Site**: `Fiction Press`_
+.. top5::
+
+    :music:
+        * Television
+        * Smiths
+        * Bloody Valentine
+        * Velvet Underground
+        * David Bowie
+    :book:
+        * On The Road por \ `Jack Kerouac`_
+        * The Corrections e Freedom  por \ `Jonathan Franzen`_
+        * Cem Anos de Solidão  por `Gabriel Garcia Marquez`_
+        * O Jogo da Amarelinha por \ `Julio Cortazar and Fernando de Castro Ferro`_
+        * To the Light House por `Virginia Woolf`_
+    :movie:
+        * A Dupla Vida de Veronique do \ `Krzysztof Kieslowski`_
+        * O Poderoso Chefão (trilogia)
+        * Matrix (trilogia)
+        * De Volta Para o Futuro (trilogia)
+        * Curtindo a Vida a Doidado e outros filmes do `John Hughes`_
+    :people/Sites:
+        * `Já Matei Por Menos e Já Escrevi Por Mais`_ da **Juliana Cunha**
+        * `XKCD`_
+        * `Fiction Press`_
 
 Links
 -----
