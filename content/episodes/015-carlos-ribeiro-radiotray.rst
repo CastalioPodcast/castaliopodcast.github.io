@@ -54,29 +54,33 @@ Resumo
 -  **Livros Técnicos em Português no Brasil. Falta em Portugal**:  44:00
 -  **Conclusão**:  46:00
 
-Top 5
------
--  **Música**:  `U2`_
--  **Música**:  `Cold Play`_
--  **Música**:  `Célia Cruz`_
--  **Música**:  `John Williams`_
--  **Música**:  `Eminem`_
--  **Livro**:  Livros do \ `Edgar Allan Poe`_
--  **Livro**:  `War of The Worlds`_ por `H. G.  Wells`_
--  **Livro**:  Livros do `J.R.R.  Tolkien`_
--  **Livro**:  `The Code Book - The Secret History of Codes and Code-breaking`_
--  **Livro**:  `The Code Book - The Science of Secrecy from Ancient Egypt to Quantum Cryptography`_
--  **Livro**:  Livros do `Dan Brown`_
--  **Filme**:  `Amélie`_
--  **Filme**: `Matrix`_ (trilogia)
--  **Filme** :  `Pulp Fiction`_
--  **Filme**:  `Senhor dos Anéis`_ (trilogia)
--  **Filmes**:  `Indiana Jones`_ (série)
--  **Filmes**:  `Star Wars`_ (série)
--  **Pessoas/Web Site**: `DZone - Fresh Links for Developers`_
--  **Pessoas/Web Site**:  `FS Daily - Free Software News`_
--  **Pessoas/Web Site**:  `The H - Security news and Open source developments`_
--  **Pessoas/Web Site**:  `Dilbert`_
+.. top5::
+
+    :music:
+        * `U2`_
+        * `Cold Play`_
+        * `Célia Cruz`_
+        * `John Williams`_
+        * `Eminem`_
+    :book:
+        * Livros do \ `Edgar Allan Poe`_
+        * `War of The Worlds`_ por `H. G.  Wells`_
+        * Livros do `J.R.R.  Tolkien`_
+        * `The Code Book - The Secret History of Codes and Code-breaking`_
+        * `The Code Book - The Science of Secrecy from Ancient Egypt to Quantum Cryptography`_
+        * Livros do `Dan Brown`_
+    :movie:
+        * `Amélie`_
+        * `Matrix`_ (trilogia)
+        * `Pulp Fiction`_
+        * `Senhor dos Anéis`_ (trilogia)
+        * `Indiana Jones`_ (série)
+        * `Star Wars`_ (série)
+    :people/site:
+        * `DZone - Fresh Links for Developers`_
+        * `FS Daily - Free Software News`_
+        * `The H - Security news and Open source developments`_
+        * `Dilbert`_
 
 Links
 -----
