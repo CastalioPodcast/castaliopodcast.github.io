@@ -82,7 +82,7 @@ Tópicos abordados neste episódio
       * Gödel, Escher, Bach
       * The Turning Point
       * Surely You're Joking, Mr. Feynman!
-      * The Code Book
+      * Code
       * The Decision Book
 
 Assista a gravação deste episódio

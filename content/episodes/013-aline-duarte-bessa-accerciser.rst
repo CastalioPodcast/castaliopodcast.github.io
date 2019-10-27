@@ -64,45 +64,43 @@ Resumo
 
     :music:
         * Television
-        * Smiths
-        * Bloody Valentine
-        * Velvet Underground
+        * The Smiths
+        * My Bloody Valentine
+        * The Velvet Underground
         * David Bowie
     :book:
-        * On The Road por \ `Jack Kerouac`_
-        * The Corrections e Freedom  por \ `Jonathan Franzen`_
-        * Cem Anos de Solidão  por `Gabriel Garcia Marquez`_
-        * O Jogo da Amarelinha por \ `Julio Cortazar and Fernando de Castro Ferro`_
-        * To the Light House por `Virginia Woolf`_
+        * On the Road
+        * The Corrections
+        * Freedom
+        * Cem Anos de Solidão
+        * O Jogo da Amarelinha
+        * Light House
     :movie:
-        * A Dupla Vida de Veronique do \ `Krzysztof Kieslowski`_
-        * O Poderoso Chefão (trilogia)
-        * Matrix (trilogia)
-        * De Volta Para o Futuro (trilogia)
-        * Curtindo a Vida a Doidado e outros filmes do `John Hughes`_
-    :people/Sites:
-        * `Já Matei Por Menos e Já Escrevi Por Mais`_ da **Juliana Cunha**
-        * `XKCD`_
-        * `Fiction Press`_
+        * A Dupla Vida de Véronique
+        * O Poderoso Chefão
+        * The Matrix
+        * De Volta Para o Futuro
+        * Curtindo a Vida Adoidado
 
 Links
 -----
--  `Accerciser`_
--  `Orca`_
--  `Rails`_
--  `Colivre`_
--  `Revista Espírito Livre`_
--  `HackToons`_
+
+- `Accerciser`_
+- `Orca`_
+- `Rails`_
+- `Colivre`_
+- `Revista Espírito Livre`_
+- `HackToons`_
+- `Já Matei Por Menos e Já Escrevi Por Mais`_ da **Juliana Cunha**
+- `XKCD`_
+- `Fiction Press`_
+
 
 E não se esqueça de votar no `Castálio`_ para o **Prêmio Frida**!
 
 
 .. _GNOME Women Outreach Program: http://live.gnome.org/GnomeWomen/OutreachProgram2011
 .. _AT-SPI: http://directory.fsf.org/at-spi.html
-.. _Jack Kerouac: http://www.amazon.com/Jack-Kerouac/e/B000APV9LY/ref=sr_ntt_srch_lnk_1?qid=1310835590&sr=8-1
-.. _Jonathan Franzen: http://www.amazon.com/Jonathan-Franzen/e/B00458HQ7S/ref=sr_ntt_srch_lnk_1?qid=1310835694&sr=8-1
-.. _Gabriel Garcia Marquez: http://www.amazon.com/Gabriel-Garcia-Marquez/e/B000AQ1JWC/ref=sr_ntt_srch_lnk_1?qid=1310835752&sr=8-1
-.. _Virginia Woolf: http://www.amazon.com/Virginia-Woolf/e/B000AQ1T7W/ref=sr_ntt_srch_lnk_1?qid=1310835868&sr=8-1
 .. _Krzysztof Kieslowski: http://www.imdb.com/name/nm0001425/
 .. _John Hughes: http://www.imdb.com/name/nm0000455/
 .. _Já Matei Por Menos e Já Escrevi Por Mais: http://mateipormenos.blogspot.com/

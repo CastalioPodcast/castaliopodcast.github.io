@@ -32,20 +32,17 @@ Escute Agora
 
 .. top5::
 
-    :television:
-        * Seriados policiais e de ficção científica
-        * Ultramen
-        * Mulher Maravilha
     :movie:
-        * Todos do Jerry Lewis
+        * Jerry Lewis
+        * Ultraman
+        * Mulher Maravilha
     :book:
         * Alice no País das Maravilhas
         * O Senhor dos Anéis
-        * Série Percy Jackson
-        * Ishmael por Daniel Quinn
-        * O Andarilho das Estrelas por Jack London
+        * Percy Jackson
+        * Ishmael
+        * O Andarilho das Estrelas
     :music:
-        * Tudo que não seja forró, pagode, etc
         * Linkin Park
         * Pet Shop Boys
 

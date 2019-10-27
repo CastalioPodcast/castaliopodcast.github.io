@@ -5,23 +5,23 @@ Episódio 124: Serverless com Moacir Moda Neto
 :date: 2017-10-31
 :authors: Og Maciel, Elyézer Rezende, Bruno Rocha
 :podcast: https://archive.org/download/castalio-podcast-124/castalio-podcast-124.mp3
-:tags: serverless, arquitetura, software, paas, faas, amazon, aws, lambda, 
+:tags: serverless, arquitetura, software, paas, faas, amazon, aws, lambda,
        cloud, azure, microservice, service, openshift, zappa
 :image: images/episode-124.jpg
 :image-alt: Serverless com Moacir Moda Neto
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Constantemente o mundo da Arquitetura de Software é impactado por novas 
-tendências e buzzwords, aconteceu com Cloud computing, com NoSQL, com REST APIs 
-e agora é a vez do `ServerLess`_ ou "FaaS". Em uma tradução literal significa 
-"Sem Servidor", mas não se engane pois o servidor ainda está lá mas só essa 
+Constantemente o mundo da Arquitetura de Software é impactado por novas
+tendências e buzzwords, aconteceu com Cloud computing, com NoSQL, com REST APIs
+e agora é a vez do `ServerLess`_ ou "FaaS". Em uma tradução literal significa
+"Sem Servidor", mas não se engane pois o servidor ainda está lá mas só essa
 tradução já basta para nos encher de curiosidade.
 
-Para entender o significado dessa nova arquitetura `ServerLess`_ convidamos o 
-`Moacir Moda Neto`_ que tem mais de 7 anos de experiência com desenvolvimento 
-de software, já trabalhou em projetos serverless e é membro ativo e palestrante 
-nos eventos de Python em São Paulo e foi justamente por conta de uma dessas 
+Para entender o significado dessa nova arquitetura `ServerLess`_ convidamos o
+`Moacir Moda Neto`_ que tem mais de 7 anos de experiência com desenvolvimento
+de software, já trabalhou em projetos serverless e é membro ativo e palestrante
+nos eventos de Python em São Paulo e foi justamente por conta de uma dessas
 palestras que convidamos ele para falar sobre `ServerLess`_.
 
 .. more
@@ -48,16 +48,16 @@ Recados
 Tópicos abordados neste episódio
 ================================
 
-* O que significa `ServerLess`_ 
+* O que significa `ServerLess`_
 * Quais são as vantagens
 * Quais são as desvantagens
 * Serve apenas para Micro-Serviços?
-* Principais provedores de plataforma ServerLess 
-* Maturidade da Arquitetura 
-* `AWS Lambda`_ 
+* Principais provedores de plataforma ServerLess
+* Maturidade da Arquitetura
+* `AWS Lambda`_
 * Principais frameworks e linguagens listados no `Awesome Serverless`_
 * Por onde começar
-* Mercado de trabalho 
+* Mercado de trabalho
 * Vendor Lockin
 * Segurança
 * Testes e Debug
@@ -65,16 +65,16 @@ Tópicos abordados neste episódio
 .. top5::
 
     :music:
-        * Selva Branca by Chiclete Com Banana
+        * Chiclete Com Banana - Selva Branca
     :movie:
         * O Poderoso Chefão
         * Scarface
         * Onze Homens e Um Segredo
     :book:
-        * Total Recall Biografia do Arnold Schwarzenegger
-        * Pai Rico Pai Pobre
-        * Abilio Diniz (Biografia)
-        * Tudo ou Nada (Biografia do Eike Batista)
+        * Total Recall: My Unbelievably True Life Story
+        * Pai Rico, Pai Pobre
+        * Abílio Diniz Caminhos E Escolhas
+        * Tudo ou Nada: Eike Batista e a Verdadeira História do Grupo X
 
 
 Assista a gravação deste episódio
@@ -131,7 +131,7 @@ Links
 * `ServerLess`_
 * `Moacir Moda Neto`_
 * `AWS Lambda`_
-* `Google Cloud Functions`_ 
+* `Google Cloud Functions`_
 * `Azure`_
 * `Openshift.io`_
 * `Kitado`_
@@ -177,15 +177,6 @@ Links
 .. _Cloud Formation: https://aws.amazon.com/pt/cloudformation/
 .. _Local Stack: https://github.com/localstack/localstack
 .. _Lambda-Local: https://www.npmjs.com/package/lambda-local
-.. _Selva Branca: https://www.last.fm/music/Chiclete+Com+Banana/_/Selva+Branca
-.. _Chiclete Com Banana: https://www.last.fm/music/Chiclete+Com+Banana
-.. _O Poderoso Chefão: http://www.imdb.com/title/tt0068646/
-.. _Scarface: http://www.imdb.com/title/tt0086250/
-.. _Onze Homens e Um Segredo: http://www.imdb.com/title/tt0240772/
-.. _Total Recall: https://www.goodreads.com/book/show/14546626-total-recall
-.. _Pai Rico Pai Pobre: https://www.goodreads.com/book/show/22850121-pai-rico-pai-pobre-hist-rias-de-sucesso-do-pai-rico
-.. _Abilio Diniz: https://www.goodreads.com/book/show/1588167.Ab_lio_Diniz_Caminhos_E_Escolhas
-.. _Tudo ou Nada: https://www.goodreads.com/book/show/23568882-tudo-ou-nada
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

@@ -30,9 +30,9 @@ Contato
 .. top5::
 
     :movie:
-        * 8 1/2 do Felini
+        * 8½
         * Pulp Fiction
-        * Miyazaki (Spirited Away)
+        * Spirited Away
         * Vertigo
         * Casa Blanca
     :music:
@@ -40,15 +40,9 @@ Contato
         * Foo Fighters
         * Marcelo D2
     :book:
-        * Pippi Longstocking da Astrid Lindgren
-        * Tolkien
-        * The Girl With The Dragon Tattoo
-    :people/blogs:
-        * Linus Torvald
-        * Miguel de Icaza
-        * Joel on Software
-        * Coding Horror
-        * Guido pai do python
+        * Pippi Longstocking
+        * J.R.R. Tolkien
+        * The Girl with the Dragon Tattoo
 
 Links
 -----
@@ -62,3 +56,9 @@ Links
 .. _Litl: http://litl.com/
 .. _Stoq: http://www.stoq.com.br/pt-br
 .. _twitter.com/johandahlin: http://twitter.com/#!/johandahlin
+    :people/blogs:
+        * Linus Torvald
+        * Miguel de Icaza
+        * Joel on Software
+        * Coding Horror
+        * Guido pai do python

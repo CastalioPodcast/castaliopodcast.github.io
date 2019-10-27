@@ -52,7 +52,7 @@ Tópicos abordados neste episódio
 
     :music:
         * Foo Fighters
-        * Bridge Burning por Foo Fighters
+        * Foo Fighters - Bridge Burning
         * Disturbed
         * Grave Digger
     :movie:
@@ -63,7 +63,7 @@ Tópicos abordados neste episódio
         * Mr. Robot
         * Penn & Teller: Bullshit!
     :book:
-        * O mundo assombrado pelos demônios por Carl Sagan
+        * O mundo assombrado pelos demônios
     :game:
         * Dark Souls
         * The Witcher 3: Wild Hunt
@@ -154,21 +154,6 @@ Links
 .. _pytest-tricks: https://github.com/hackebrot/pytest-tricks
 .. _awesome-pytest: https://github.com/augustogoulart/awesome-pytest
 .. _Avocado Framework: http://avocado-framework.github.io/
-.. _Foo Fighters: https://www.last.fm/music/Foo+Fighters
-.. _Bridge Burning: https://www.last.fm/music/Foo+Fighters/_/Bridge+Burning
-.. _Grave Digger: https://www.last.fm/music/Grave+Digger
-.. _Disturbed: https://www.last.fm/music/Disturbed
-.. _Um Sonho de Liberdade: http://www.imdb.com/title/tt0111161/
-.. _Zeitgeist: http://www.imdb.com/title/tt1166827/
-.. _Seinfeld: http://www.imdb.com/title/tt0098904/
-.. _The IT Crowd: http://www.imdb.com/title/tt0487831/
-.. _Mr. Robot: http://www.imdb.com/title/tt4158110/
-.. _Penn & Teller\: Bullshit!: http://www.imdb.com/title/tt0346369/
-.. _O mundo assombrado pelos demônios: https://www.goodreads.com/book/show/21939710-o-mundo-assombrado-pelos-dem-nios
-.. _Carl Sagan: https://www.goodreads.com/author/show/10538.Carl_Sagan
-.. _Dark Souls: https://en.wikipedia.org/wiki/Dark_Souls
-.. _The Witcher 3\: Wild Hunt: https://en.wikipedia.org/wiki/The_Witcher_3%3A_Wild_Hunt
-.. _Fallout 4: https://en.wikipedia.org/wiki/Fallout_4
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

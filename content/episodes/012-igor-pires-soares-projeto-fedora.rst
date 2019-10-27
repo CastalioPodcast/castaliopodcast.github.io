@@ -59,31 +59,30 @@ Resumo
 
     :music:
         * U2
-        * REM
-        * Radio Head
+        * R.E.M.
+        * Radiohead
         * Norah Jones
         * Los Hermanos
         * Pato Fu
-    :television/movie:      
-        * Forest Gump
+    :movie:
+        * Forrest Gump
         * Crash
-        * Pursuit of Happiness
-        * 7 Vidas
+        * À Procura da Felicidade
+        * Sete Vidas
         * Toy Story
     :book:
-        * Quadrinhos e revistas de informática
         * José Saramago
-    :people/sites:
-        * `BR-Linux`_
-        * Blog do `Diego Búrigo Zacarão`_
-        * `OS News`_
-        * `Linux Forums`_
 
 Links
 -----
--  `Transifex`_
--  `Smolt`_ (sistema de pesquisas de hardware)
--  `FUDCon`_
+
+* `Transifex`_
+* `Smolt`_ (sistema de pesquisas de hardware)
+* `FUDCon`_
+* `BR-Linux`_
+* Blog do `Diego Búrigo Zacarão`_
+* `OS News`_
+* `Linux Forums`_
 
 
 .. _BR-Linux: http://br-linux.org/
