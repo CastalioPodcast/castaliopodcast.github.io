@@ -1,5 +1,5 @@
 ================================================
-Episódio 130: Lígia Dutra Zeppelini - E-commerce 
+Episódio 130: Lígia Dutra Zeppelini - E-commerce
 ================================================
 
 :date: 2018-03-27
@@ -12,16 +12,16 @@ Episódio 130: Lígia Dutra Zeppelini - E-commerce
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Para o segundo episódio da campanha `O Podcast é Delas`_ trazemos ela que é formada 
-em administração, docente na `ESPM`_ onde ministra aulas de liderança e introdução ao 
-varejo online e atualmente ocupa o cargo de gerente de marketing e e-commerce 
+Para o segundo episódio da campanha `O Podcast é Delas`_ trazemos ela que é formada
+em administração, docente na `ESPM`_ onde ministra aulas de liderança e introdução ao
+varejo online e atualmente ocupa o cargo de gerente de marketing e e-commerce
 da Clean Medical, uma empresa de locação de equipamentos médicos.
 
-Em 2008 ela fundou o `Bate Papo E-commerce`_, o primeiro grupo especializado em 
-debates sobre e-commerce que se organizava em eventos presenciais pelo Brasil 
+Em 2008 ela fundou o `Bate Papo E-commerce`_, o primeiro grupo especializado em
+debates sobre e-commerce que se organizava em eventos presenciais pelo Brasil
 todo e também com forte participação online nas listas de discussão.
 
-Também é a fundadora da `UpaLupa`_, uma empresa de arquitetura de negócios, focada 
+Também é a fundadora da `UpaLupa`_, uma empresa de arquitetura de negócios, focada
 em projetos de startups de `e-commerce`_.
 
 É um grande prazer ter `Lígia Zeppelini`_ no Castálio Podcast!
@@ -64,9 +64,9 @@ Tópicos abordados neste episódio
     :movie:
         * Greys Anatomy
         * Demolidor
-        * A Procura da Felicidade
+        * À Procura da Felicidade
     :book:
-        * Livro de Mirdad
+        * O Livro de Mirdad
         * Macro Wikinomics
         * O mais completo guia sobre e-commerce
 
@@ -123,7 +123,6 @@ Links
 * `episódios com mulheres`_
 * `O Podcast é Delas`_
 * `Lígia Zeppelini`_
-* `O mais completo guia sobre e-commerce`_ 
 * `Episódio sobre Chatbots`_
 * `Blog post migrando para o Shopify`_
 * `ESPM`_
@@ -131,13 +130,6 @@ Links
 * `UpaLupa`_
 * `e-commerce`_
 * `Olist`_
-* `Livro de Mirdad`_
-* `Macro Wikinomics`_
-* `Apocalyptica`_
-* `Annita`_
-* `Greys Anatomy`_
-* `Demolidor`_
-* `A Procura da Felicidade`_
 
 .. class:: panel-body bg-info
 
@@ -147,7 +139,6 @@ Links
 .. _episódios com mulheres: http://castalio.info/tag/opodcastedelas.html
 .. _O Podcast é Delas: http://opodcastedelas.com.br/2018/02/opodcastedelas-campanha-2018/
 .. _Lígia Zeppelini: https://www.facebook.com/ligiazeppelini/
-.. _O mais completo guia sobre e-commerce: https://www.goodreads.com/book/show/8371107-the-complete-idiot-s-guide-to-e-commerce
 .. _Episódio sobre Chatbots: http://castalio.info/episodio-107-chat-bots.html
 .. _Blog post migrando para o Shopify: http://brunorocha.org/python/migrando-e-commerce-do-iluria-para-o-shopify-usando-python.html
 .. _ESPM: http://espm.br
@@ -155,13 +146,6 @@ Links
 .. _UpaLupa: http://upalupa.me/
 .. _e-commerce: https://pt.wikipedia.org/wiki/Com%C3%A9rcio_eletr%C3%B4nico
 .. _Olist: http://olist.com
-.. _Livro de Mirdad: https://www.goodreads.com/book/show/29233746-o-livro-de-mirdad
-.. _Macro Wikinomics: https://www.goodreads.com/book/show/7857169-macrowikinomics?ac=1&from_search=true
-.. _Apocalyptica: https://www.last.fm/pt/music/Apocalyptica
-.. _Annita: https://www.last.fm/pt/music/Anitta
-.. _Greys Anatomy: http://www.imdb.com/title/tt0413573/
-.. _Demolidor: http://www.imdb.com/title/tt3322312/?ref_=nv_sr_1
-.. _A Procura da Felicidade: http://www.imdb.com/title/tt0454921/?ref_=nv_sr_1
 
 
 .. Footer

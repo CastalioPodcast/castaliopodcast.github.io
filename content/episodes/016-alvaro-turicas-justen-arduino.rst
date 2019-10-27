@@ -56,25 +56,25 @@ Resumo
 .. top5::
 
     :music:
-        * `Iron Maiden`_
-        * `Guns and Roses`_
-        * `Nirvana`_
-        * `Pearl Jam`_
-        * `Infected Mushroom`_
+        * Iron Maiden
+        * Guns N' Roses
+        * Nirvana
+        * Pearl Jam
+        * Infected Mushroom
     :book:
-        * `Cálculo`_ por `Howard Anton`_
-        * `Física`_ por `David Halliday`_ e `Robert Resnick`_
-        * `O Guia do Mochileiro das Galáxias`_ por `Douglas Adams`_
-        * **Shell Script** por **Júlio Neves**
-        * `Making Things Talk`_ por `Tom Igoe`_
-        * `Getting Started With Arduino`_ por `Massimo Banzi`_
+        * Cálculo
+        * Física
+        * O Guia do Mochileiro das Galáxias
+        * Shell
+        * Making Things Talk
+        * Getting Started with Arduino
     :movie:
-        * `Apollo 13`_
-        * `Uma Mente Brilhante`_
-        * `Matrix`_ (trilogia)
-        * `Inception`_
-        * `Potiche`_
-        * `Iron Man`_
+        * Apollo 13
+        * Uma Mente Brilhante
+        * The Matrix
+        * Inception
+        * Potiche
+        * Iron Man
 
 Links
 -----
@@ -100,28 +100,6 @@ Links
 
 
 .. _TweetLamp: http://GitHub.com/turicas/tweetlamp
-.. _Iron Maiden: http://www.last.fm/search?q=Iron+Maiden&from=ac
-.. _Guns and Roses: http://www.last.fm/search?q=Guns+and+Roses&from=ac
-.. _Nirvana: http://www.last.fm/search?q=Nirvana&from=ac
-.. _Pearl Jam: http://www.last.fm/search?q=Pearl+Jam&from=ac
-.. _Infected Mushroom: http://www.last.fm/search?q=Infected+Mushroom&from=ac
-.. _Cálculo: http://www.amazon.com/Calculus-Howard-Anton/dp/0470647728/ref=ntt_at_ep_dpt_5
-.. _Howard Anton: http://www.amazon.com/Howard-Anton/e/B001ILHF44/ref=sr_ntt_srch_lnk_3?qid=1315190908&sr=8-3
-.. _Física: http://www.amazon.com/Physics-1-David-Halliday/dp/0471320579/ref=sr_1_1?ie=UTF8&qid=1315190770&sr=8-1
-.. _O Guia do Mochileiro das Galáxias: http://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy/dp/0345453743/ref=sr_1_1?s=books&ie=UTF8&qid=1315191056&sr=1-1
-.. _Robert Resnick: http://www.amazon.com/Robert-Resnick/e/B001H6MBWG/ref=sr_ntt_srch_lnk_1?qid=1315190770&sr=8-1
-.. _David Halliday: http://www.amazon.com/David-Halliday/e/B001H6KGYG/ref=sr_ntt_srch_lnk_1?qid=1315190770&sr=8-1
-.. _Making Things Talk: http://www.amazon.com/Making-Things-Talk-Practical-Connecting/dp/0596510519/ref=sr_1_1?s=books&ie=UTF8&qid=1315191215&sr=1-1
-.. _Douglas Adams: http://www.amazon.com/Douglas-Adams/e/B000AQ2A84/ref=sr_ntt_srch_lnk_1?qid=1315191056&sr=1-1
-.. _Tom Igoe: http://www.amazon.com/Tom-Igoe/e/B001K8AUGU/ref=sr_ntt_srch_lnk_1?qid=1315191215&sr=1-1
-.. _Getting Started With Arduino: http://www.amazon.com/Getting-Started-Arduino-Make-Projects/dp/0596155514/ref=sr_1_1?s=books&ie=UTF8&qid=1315191275&sr=1-1
-.. _Massimo Banzi: http://www.amazon.com/Massimo-Banzi/e/B00355CV22/ref=sr_ntt_srch_lnk_1?qid=1315191273&sr=1-1
-.. _Apollo 13: http://www.imdb.com/title/tt1772240/
-.. _Uma Mente Brilhante: http://www.imdb.com/title/tt0268978/
-.. _Matrix: http://www.imdb.com/find?s=all&q=Matrix
-.. _Inception: http://www.imdb.com/title/tt1375666/
-.. _Potiche: http://www.imdb.com/title/tt1521848/
-.. _Iron Man: http://www.imdb.com/title/tt0371746/
 .. _Niteroi: http://maps.google.com/maps?q=Niteroi+-+Rio+de+Janeiro,+Brazil&hl=en&sll=35.930614,-79.030686&sspn=0.014386,0.03283&vpsrc=0&t=h&z=12
 .. _Curso de Arduino: http://CursoDeArduino.com.br/
 .. _Eagle: https://secure.wikimedia.org/wikipedia/en/wiki/Eagle_(program)

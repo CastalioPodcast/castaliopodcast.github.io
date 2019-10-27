@@ -47,42 +47,39 @@ Resumo
 .. top5::
 
     :music:
-        * `John Coltrane`_ (`A Love Supreme`_)
-        * `Miles Davis`_ (`Kind of Blue`_)
+        * Djavan
+        * John Coltrane - A Love Supreme
+        * Miles Davis - Kind of Blue
     :book:
-        * **Agatha Chistie**
-        * `The Hacker Ethic`_ por **Pekka Himanen**
-        * `The Design of Everyday Things`_ por **Donald A. Norman**
-        * `Melancholy Death of Oyster Boy and Other Stories`_ por **Tim Burton**
-        * `Rework`_ por **Jason Fried**
-    :movie/television:
-        * `MacGyver`_
-        * `The Matrix`_
-        * `Beleza Americana`_
-        * `Cinema Paradiso`_
-    :people/blogs:
-        * `Havoc Pennington`_
-        * `Vincent Untz`_
+        * Agatha Christie
+        * The Hacker Ethic: and the Spirit of the Information Age
+        * The Design of Everyday Things
+        * The Melancholy Death of Oyster Boy and Other Stories
+        * Rework
+    :movie:
+        * MacGyver
+        * The Matrix
+        * Beleza Americana
+        * Cinema Paradiso
 
 Links
 -----
--  `Ikea`_
--  `The Board`_
--  `GUADEC`_
--  `Plasma`_
--  `Litl`_
--  `GJs`_
--  `Clutter`_
--  `GStreamer`_
--  `jQuery`_
--  `Node.js`_
--  `MongoDB`_
--  `CoffeeScript`_
+* `Ikea`_
+* `The Board`_
+* `GUADEC`_
+* `Plasma`_
+* `Litl`_
+* `GJs`_
+* `Clutter`_
+* `GStreamer`_
+* `jQuery`_
+* `Node.js`_
+* `MongoDB`_
+* `CoffeeScript`_
+* `Havoc Pennington`_
+* `Vincent Untz`_
 
 
-.. _A Love Supreme: http://www.amazon.com/Love-Supreme-John-Coltrane/dp/B0000A118M/ref=sr_1_1?ie=UTF8&qid=1309220869&sr=8-1
-.. _Beleza Americana: http://www.imdb.com/title/tt0169547/
-.. _Cinema Paradiso: http://www.imdb.com/title/tt0095765/
 .. _Clutter: http://live.gnome.org/Clutter
 .. _CoffeeScript: http://coffeescript.org/
 .. _GJs: http://live.gnome.org/Gjs
@@ -91,19 +88,10 @@ Links
 .. _Havoc Pennington: http://blog.ometer.com/
 .. _Ikea: http://www.ikea.com/
 .. _iTunes Store: http://itunes.apple.com/us/podcast/castalio-podcast/id446259197
-.. _John Coltrane: https://secure.wikimedia.org/wikipedia/en/wiki/John_coltrane
 .. _jQuery: http://jquery.com/
-.. _Kind of Blue: http://www.amazon.com/Kind-Of-Blue/dp/B00136JQMI/ref=sr_1_1?ie=UTF8&qid=1309221007&sr=8-1
 .. _Litl: http://litl.com/
-.. _MacGyver: https://secure.wikimedia.org/wikipedia/en/wiki/MacGyver
-.. _Melancholy Death of Oyster Boy and Other Stories: http://www.amazon.com/Melancholy-Death-Oyster-Other-Stories/dp/0060526491/ref=sr_1_4?ie=UTF8&qid=1309220636&sr=8-4
-.. _Miles Davis: https://secure.wikimedia.org/wikipedia/en/wiki/Miles_davis
 .. _MongoDB: http://www.mongodb.org/
 .. _Node.js: http://nodejs.org/
 .. _Plasma: https://secure.wikimedia.org/wikipedia/en/wiki/KDE_Plasma_Workspaces
-.. _Rework: http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&qid=1309219021&sr=8-1
 .. _The Board: https://live.gnome.org/TheBoardProject
-.. _The Design of Everyday Things: http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?ie=UTF8&qid=1309220669&sr=8-1
-.. _The Hacker Ethic: http://www.amazon.com/Hacker-Ethic-Pekka-Himanen/dp/037575878X/ref=sr_1_1?ie=UTF8&qid=1309220775&sr=8-1
-.. _The Matrix: http://www.imdb.com/title/tt0133093/
 .. _Vincent Untz: http://www.vuntz.net/journal/
