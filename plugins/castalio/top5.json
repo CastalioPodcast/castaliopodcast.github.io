@@ -1,5 +1,20 @@
 {
   "book": {
+    "Fundamentos do Desenho Orientado a Objeto Com Uml": {
+      "url": "https://www.goodreads.com/book/show/179210.Fundamentals_of_Object_Oriented_Design_in_UML"
+    },
+    "Refactoring: Improving the Design of Existing Code": {
+      "url": "https://www.goodreads.com/book/show/44936.Refactoring"
+    },
+    "Test Driven Development: By Example": {
+      "url": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+    },
+    "Extreme Programming Explained": {
+      "url": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+    },
+    "O Marciano": {
+      "url": "https://www.goodreads.com/book/show/22371139-o-marciano"
+    },
     "The Melancholy Death of Oyster Boy and Other Stories": {
       "url": "https://www.goodreads.com/book/show/519112.The_Melancholy_Death_of_Oyster_Boy_and_Other_Stories"
     },
@@ -844,6 +859,9 @@
     }
   },
   "movie": {
+    "Mad Men": {
+      "url": "https://www.imdb.com/title/tt0804503/"
+    },
     "MacGyver": {
       "url": "https://www.imdb.com/title/tt0088559/"
     },
@@ -1005,6 +1023,9 @@
     },
     "Blade Runner": {
       "url": "https://www.imdb.com/title/tt0083658/"
+    },
+    "Blade Runner 2049": {
+      "url": "https://www.imdb.com/title/tt1856101/"
     },
     "BoJack Horseman": {
       "url": "https://www.imdb.com/title/tt3398228/"
@@ -1557,6 +1578,18 @@
     }
   },
   "music": {
+    "Die Ärzte": {
+      "url": "https://www.last.fm/music/Die+%C3%84rzte"
+    },
+    "Rammstein": {
+      "url": "https://www.last.fm/music/Rammstein"
+    },
+    "Placebo": {
+      "url": "https://www.last.fm/music/Placebo"
+    },
+    "Kraftwerk": {
+      "url": "https://www.last.fm/music/Kraftwerk"
+    },
     "Miles Davis - Kind of Blue": {
       "url": "https://www.last.fm/music/Miles+Davis/Kind+of+Blue"
     },
