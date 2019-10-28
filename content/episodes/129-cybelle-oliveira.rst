@@ -67,23 +67,25 @@ Tópicos abordados neste episódio
     * O que está aprendendo agora?
     * O que faz nas horas vagas quando não está fazendo tudo isso que já falamos?
 
-Top 5
-=====
+.. top5::
 
-* **Livro**: `Contos de Edgar Allan Poe`_
-* **Livro**: `Data and Goliath - Bruce Schneir`_
-* **Livro**: `Fortaleza Digital - Dan Brown`_
-* **Música**: `Tiger Army - Incorporeal`_
-* **Música**: `Reverend Horton Heat - Mad, Mad Heart`_
-* **Música**: `Gorilla Biscuits - Things We Say`_
-* **Música**: `The Vandals - My Girlfriend's Dead`_
-* **Música**: `Voodoo Glow Skulls - Cielito lindo`_
-* **Música**: `Ska`_
-* **Filme**: `Brilho Eterno de uma Mente sem Lembranças`_
-* **Filme**: `Trainspotting`_
-* **Filme**: `Cry Baby`_
-* **Filme**: `Vikings`_
-* **Filme**: `Mr Robot`_
+    :book:
+        * Edgar Allan Poe
+        * Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World
+        * Fortaleza Digital
+    :music:
+        * Tiger Army - Incorporeal
+        * Reverend Horton Heat - Mad, Mad Heart
+        * Gorilla Biscuits - Things We Say
+        * The Vandals - My Girlfriend's Dead
+        * Voodoo Glow Skulls - Cielito lindo
+        * Ska
+    :movie:
+        * Brilho Eterno de uma Mente sem Lembranças
+        * Trainspotting
+        * Cry Baby
+        * Vikings
+        * Mr. Robot
 
 
 Assista a gravação deste episódio
@@ -161,20 +163,6 @@ Links
 .. _Cybelle Oliveira: https://twitter.com/cyb3113
 .. _Javascript: https://www.javascript.com/
 .. _ser vegetariana: http://www.terraqueos.org
-.. _Contos de Edgar Allan Poe: https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe
-.. _Data and Goliath - Bruce Schneir: https://www.goodreads.com/book/show/25622873-data-and-goliath
-.. _Fortaleza Digital - Dan Brown: https://www.goodreads.com/book/show/6026313-fortaleza-digital?ac=1
-.. _Tiger Army - Incorporeal: https://www.last.fm/pt/music/Tiger+Army/_/Incorporeal
-.. _Reverend Horton Heat - Mad, Mad Heart: https://www.last.fm/pt/music/Reverend+Horton+Heat/_/Mad,+Mad+Heart
-.. _Gorilla Biscuits - Things We Say: https://www.last.fm/pt/music/Gorilla+Biscuits/_/Things+we+say
-.. _The Vandals - My Girlfriend's Dead: https://www.last.fm/pt/music/The+Vandals/_/My+Girlfriend%27s+Dead
-.. _Voodoo Glow Skulls - Cielito lindo: https://www.last.fm/pt/music/Voodoo+Glow+Skulls
-.. _Ska: https://www.last.fm/pt/tag/ska
-.. _Brilho Eterno de uma Mente sem Lembranças: http://www.imdb.com/title/tt0338013/
-.. _Trainspotting: http://www.imdb.com/title/tt0117951/
-.. _Cry Baby: http://www.imdb.com/title/tt0099329/
-.. _Vikings: http://www.imdb.com/title/tt2306299/
-.. _Mr Robot: http://www.imdb.com/title/tt4158110/
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

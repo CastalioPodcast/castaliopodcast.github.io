@@ -11,15 +11,15 @@ Episódio 128: Especial de 7 anos de podcast com Og Maciel
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Neste mês o Castálio completa 7 anos! Este projeto foi fundado em 2011 e foram 
-127 episódios com notícias, entrevistas, book reviews e curiosidades sobre 
-pessoas e sobre projetos. 
+Neste mês o Castálio completa 7 anos! Este projeto foi fundado em 2011 e foram
+127 episódios com notícias, entrevistas, book reviews e curiosidades sobre
+pessoas e sobre projetos.
 
-No episódio anterior anunciamos que o Og "pendurou as chuteiras" 
-e deixou sob a nossa responsabilidade a missão de levar o Castalio por pelo menos 
-mais 7 anos, e para comemorar esses 7 anos de história vamos entrevistar ele que 
-é  Gerente do Time de Qualidade, Red Hatter, programador Python casual, um leitor 
-ávido, pai e fundador do Castalio Podcast, é um enorme prazer ter Og Maciel no 
+No episódio anterior anunciamos que o Og "pendurou as chuteiras"
+e deixou sob a nossa responsabilidade a missão de levar o Castalio por pelo menos
+mais 7 anos, e para comemorar esses 7 anos de história vamos entrevistar ele que
+é  Gerente do Time de Qualidade, Red Hatter, programador Python casual, um leitor
+ávido, pai e fundador do Castalio Podcast, é um enorme prazer ter Og Maciel no
 Castalio Podcast!
 
 .. more
@@ -35,9 +35,9 @@ Castalio Podcast!
 Episódios recomendados
 ======================
 
-Muitas perguntas o Og já respondeu no `episódio de estréia`_ e no de `2 anos`_ 
-e no `especial de 6 anos`_ então iremos pular algumas dessas perguntas e focar 
-em outros assuntos, mas se você quiser saber ainda mais pode verificar nesses 
+Muitas perguntas o Og já respondeu no `episódio de estréia`_ e no de `2 anos`_
+e no `especial de 6 anos`_ então iremos pular algumas dessas perguntas e focar
+em outros assuntos, mas se você quiser saber ainda mais pode verificar nesses
 links depois de ouvir este episódio!
 
 
@@ -49,7 +49,7 @@ Tópicos abordados neste episódio
 * Como manter um Português sem sotaque americano?
 * Estatisticas de downloads dos episódios do podcast.
 * Quando o Og começou a biblioteca? quantos livros ele tem? já leu todos?
-* Emacs X Visual Studio Code, qual o preferido do Og? `Org mode`_ 
+* Emacs X Visual Studio Code, qual o preferido do Og? `Org mode`_
 * Quais caracteristicas do Bruno e do Elyézer que o Og admira?
 * O Og está envolvido em algum projeto Open Source além do trabalho? `FauxFactory`_
 * Perguntas feitas no chat:
@@ -65,15 +65,17 @@ Tópicos abordados neste episódio
     * Quais os desafios que o Og enfrenta no papel de pai? é mais dificil ser pai ou gerente?
     * Qual o motivo do Og estar "Pendurando o microfone" e saindo do Podcast depois de 7 anos?
 
-Top 2
-=====
+.. top5:: Top 2
 
-* **Livro**: `Os Meninos da Rua Paulo`_
-* **Livro**: `As Vinhas da Ira`_
-* **Música**: `Metropole - Legião Urbana`_
-* **Música**: `Father and Daughter - Paul Simmon`_
-* **Filme**: `Beau Geste`_
-* **Filme**: `Blade Runner`_
+    :book:
+        * Os Meninos da Rua Paulo
+        * As Vinhas da Ira
+    :music:
+        * Legião Urbana - Metropole
+        * Paul Simon - Father and Daughter
+    :movie:
+        * Beau Geste
+        * Blade Runner
 
 Assista a gravação deste episódio
 =================================
@@ -138,17 +140,11 @@ Links
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
-.. _episódio de estréia: http://castalio.info/episodio-zero-og-maciel.html 
+.. _episódio de estréia: http://castalio.info/episodio-zero-og-maciel.html
 .. _2 anos: http://castalio.info/edicao-de-2-anos-og-maciel-red-hat.html
-.. _especial de 6 anos: http://castalio.info/episodio-88-episodio-especial-de-6-anos.html 
+.. _especial de 6 anos: http://castalio.info/episodio-88-episodio-especial-de-6-anos.html
 .. _Org mode: http://orgmode.org
 .. _FauxFactory: http://github.com/omaciel/fauxfactory
-.. _Os Meninos da Rua Paulo: https://www.goodreads.com/book/show/30302060-os-meninos-da-rua-paulo
-.. _As Vinhas da Ira: https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath
-.. _Metropole - Legião Urbana: https://www.last.fm/pt/music/Legi%C3%A3o+Urbana/_/Metr%C3%B3pole
-.. _Father and Daughter - Paul Simmon: https://www.last.fm/pt/music/Paul+Simon/_/Father+and+Daughter
-.. _Beau Geste: http://www.imdb.com/title/tt0031088/
-.. _Blade Runner: http://www.imdb.com/title/tt0083658/
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
