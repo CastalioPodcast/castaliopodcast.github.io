@@ -31,12 +31,13 @@ GITHUB_URL = 'http://github.com/CastalioPodcast'
 
 # Social widget
 SOCIAL = (
-    ('GitHub', 'github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
-    ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
     ('Facebook', 'facebook', 'https://facebook.com/castaliopod'),
+    ('GitHub', 'github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
     ('iTunes', 'apple', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
-    ('YouTube', 'youtube', 'http://youtube.com/castaliopodcast'),
     ('RSS Feed', 'rss', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
+    ('Spotify', 'spotify', 'https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn'),
+    ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
+    ('YouTube', 'youtube', 'http://youtube.com/castaliopodcast'),
 )
 
 DEFAULT_PAGINATION = 10
@@ -88,14 +89,13 @@ SITEMAP = {
 }
 
 SUBSCRIBE = [
-    ('iTunes', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
+    ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),
     ('Pocket Casts', 'http://pca.st/castalio'),
-    ('Podflix', 'https://podflix.com.br/castaliopodcast'),
+    ('Spotify', 'https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn'),
+    ('iTunes', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
     (None, None),
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
-    ('Spotify do Castálio', 'https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg'),
     ('YouTube', 'https://www.youtube.com/castaliopodcast'),
-    ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),
 ]
 
 # Disqus configuration
