@@ -52,19 +52,21 @@ Resumo
 -  **Top 5**:  24:19
 -  \*\*\*\*Conclusão\*\*\*\*:  32:16
 
-Top 5
------
--  **Música**:  `Punk Rock`_
--  **Música**:  `The Clash`_
--  **Música**:  `Ramones`_
--  **Música**:  Top 50 dos anos 90
--  **Livro**:  `Life`_ por `Keith Richards`_ e James Fox
--  **Livro**:  `Lobão 50 Anos a Mil`_ por `Lobão`_
--  **Filme**:  `Star Wars`_
--  **Filme**:  `Star Wars - The Empire Strikes Back`_
--  **Filme** :  `Star Wars - Return of the Jedi`_
--  **Filme**:  `Ferris Bueller's Day Off`_
--  **Filme**:  `Star Trek`_
+.. top5::
+
+    :music:
+        * `Punk Rock`_
+        * `The Clash`_
+        * `Ramones`_
+        * Top 50 dos anos 90
+    :book:
+        * `Life`_ por `Keith Richards`_ e James Fox
+        * `Lobão 50 Anos a Mil`_ por `Lobão`_
+        * `Star Wars`_
+        * `Star Wars - The Empire Strikes Back`_
+        * `Star Wars - Return of the Jedi`_
+        * `Ferris Bueller's Day Off`_
+        * `Star Trek`_
 
 Links
 -----

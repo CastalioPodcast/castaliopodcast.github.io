@@ -57,22 +57,25 @@ Resumo
 -  **Comendo o Pão que o Evandro Amassou (dica para o Rodrigo Padula)**:  55:21
 -  **Conclusão**:  58:00
 
-Top 5
------
--  **Filmes**: `O Corvo`_
--  **Filmes**: `Blade Runner`_
--  **Filmes**: `Snatch`_
--  **Filmes**: `O Fabuloso Destino de Amelie Polan`_
--  **Filmes**: `Fogo Contra Fogo`_
--  **Música**: `The Prodigy`_
--  **Música**: `Maria Rita`_
--  **Música**: `Oasis`_
--  **Música**: `Iron Maden`_
--  **Música**: `Genival Lacerda`_
--  **Música**: `Smiths`_
--  **Música**: `Two Brothers on the Fourth Floor`_
--  **Música**: Too Limited (?)
--  **Livros/Web Sites**: `Portal R7`_
+.. top5::
+
+    :movie:
+        * `O Corvo`_
+        * `Blade Runner`_
+        * `Snatch`_
+        * `O Fabuloso Destino de Amelie Polan`_
+        * `Fogo Contra Fogo`_
+    :music:
+        * `The Prodigy`_
+        * `Maria Rita`_
+        * `Oasis`_
+        * `Iron Maden`_
+        * `Genival Lacerda`_
+        * `Smiths`_
+        * `Two Brothers on the Fourth Floor`_
+        * Too Limited (?)
+    :site:
+        *`Portal R7`_
 
 Links
 -----
