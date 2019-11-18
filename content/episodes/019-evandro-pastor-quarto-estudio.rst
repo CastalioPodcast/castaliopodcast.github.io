@@ -60,22 +60,20 @@ Resumo
 .. top5::
 
     :movie:
-        * `O Corvo`_
-        * `Blade Runner`_
-        * `Snatch`_
-        * `O Fabuloso Destino de Amelie Polan`_
-        * `Fogo Contra Fogo`_
+        * O Corvo
+        * Blade Runner
+        * Snatch
+        * O Fabuloso Destino de Amelie Polan
+        * Fogo Contra Fogo
     :music:
-        * `The Prodigy`_
-        * `Maria Rita`_
-        * `Oasis`_
-        * `Iron Maden`_
-        * `Genival Lacerda`_
-        * `Smiths`_
-        * `Two Brothers on the Fourth Floor`_
-        * Too Limited (?)
-    :site:
-        *`Portal R7`_
+        * The Prodigy
+        * Maria Rita
+        * Oasis
+        * Iron Maiden
+        * Genival Lacerda
+        * The Smiths
+        * 2 Brothers on the 4th Floor
+        * 2 Unlimited
 
 Links
 -----
@@ -97,23 +95,12 @@ Links
 -  `iTunes`_
 -  `Text Expander`_
 -  `Código Livre Cast`_
+-  `Portal R7`_
 
 
 .. _Quarto Estudio: http://www.quartoestudio.com/web/
 .. _parque de diversões do Gugu: https://www.facebook.com/pages/Parque-do-Gugu/143888722341418
-.. _O Corvo: http://www.imdb.com/title/tt0109506/
 .. _Código Livre Cast: http://codigolivre.net/
-.. _Blade Runner: http://www.imdb.com/title/tt0083658/
-.. _Snatch: http://www.imdb.com/title/tt0208092/
-.. _O Fabuloso Destino de Amelie Polan: http://www.imdb.com/title/tt0211915/
-.. _Fogo Contra Fogo: http://www.imdb.com/title/tt0113277/
-.. _The Prodigy: http://www.last.fm/search?q=The+Prodigy&from=ac
-.. _Maria Rita: http://www.last.fm/music/Maria+Rita
-.. _Oasis: http://www.last.fm/music/Oasis
-.. _Iron Maden: http://www.last.fm/music/Iron+Maiden
-.. _Genival Lacerda: http://www.last.fm/music/Genival%2520Lacerda?ac=genival%20lace
-.. _Smiths: http://www.last.fm/music/The+Smiths
-.. _Two Brothers on the Fourth Floor: http://www.last.fm/music/2+Brothers+On+The+4th+Floor
 .. _Portal R7: http://www.r7.com/
 .. _Photoshop: https://www.photoshop.com/
 .. _Illustrator: http://www.adobe.com/products/illustrator.html

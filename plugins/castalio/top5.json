@@ -1,5 +1,11 @@
 {
   "book": {
+    "50 Anos a Mil": {
+      "url": "https://www.goodreads.com/book/show/9896903-50-anos-a-mil"
+    },
+    "Life": {
+      "url": "https://www.goodreads.com/book/show/9439303-life"
+    },
     "Fundamentos do Desenho Orientado a Objeto Com Uml": {
       "url": "https://www.goodreads.com/book/show/179210.Fundamentals_of_Object_Oriented_Design_in_UML"
     },
@@ -1578,6 +1584,9 @@
     }
   },
   "music": {
+    "2 Unlimited": {
+      "url": "https://www.last.fm/music/2+Unlimited"
+    },
     "Die Ärzte": {
       "url": "https://www.last.fm/music/Die+%C3%84rzte"
     },
@@ -2688,7 +2697,7 @@
     "Toy Dolls": {
       "url": "https://www.last.fm/music/The+Toy+Dolls"
     },
-    "Two Brothers on the Fourth Floor": {
+    "2 Brothers on the 4th Floor": {
       "url": "https://www.last.fm/music/2+Brothers+On+The+4th+Floor"
     },
     "Two Door Cinema Club": {

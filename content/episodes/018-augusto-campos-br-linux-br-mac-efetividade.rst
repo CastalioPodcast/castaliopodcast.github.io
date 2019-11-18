@@ -55,18 +55,17 @@ Resumo
 .. top5::
 
     :music:
-        * `Punk Rock`_
-        * `The Clash`_
-        * `Ramones`_
-        * Top 50 dos anos 90
+        * The Clash
+        * Ramones
     :book:
-        * `Life`_ por `Keith Richards`_ e James Fox
-        * `Lobão 50 Anos a Mil`_ por `Lobão`_
-        * `Star Wars`_
-        * `Star Wars - The Empire Strikes Back`_
-        * `Star Wars - Return of the Jedi`_
-        * `Ferris Bueller's Day Off`_
-        * `Star Trek`_
+        * Life
+        * 50 Anos a Mil
+    :movie:
+        * Star Wars
+        * Star Wars - The Empire Strikes Back
+        * Star Wars - Return of the Jedi
+        * Ferris Bueller's Day Off
+        * Star Trek
 
 Links
 -----
@@ -96,17 +95,6 @@ Links
 
 .. _GTalk Show: http://hacktoon.com/?s=augusto+campos
 .. _Punk Rock: http://www.last.fm/search?q=punk+rock&from=ac
-.. _The Clash: http://www.last.fm/music/The+Clash
-.. _Ramones: http://www.last.fm/music/Ramones
-.. _Life: http://www.amazon.com/Life-Keith-Richards/dp/031603441X/ref=sr_1_1?s=books&ie=UTF8&qid=1317570186&sr=1-1
-.. _Keith Richards: https://pt.wikipedia.org/wiki/Keith_Richards
-.. _Lobão 50 Anos a Mil: http://www.walmart.com.br/Produto/Livros/Literatura-Nacional/Nova-Fronteira/233090-Lobao-50-Anos-a-Mil
-.. _Lobão: https://pt.wikipedia.org/wiki/Lob%C3%A3o_(m%C3%BAsico)
-.. _Star Wars: http://www.imdb.com/title/tt0076759/
-.. _Star Wars - The Empire Strikes Back: http://www.imdb.com/title/tt0080684/
-.. _Star Wars - Return of the Jedi: http://www.imdb.com/title/tt0086190/
-.. _Ferris Bueller's Day Off: http://www.imdb.com/title/tt0091042/
-.. _Star Trek: http://www.imdb.com/find?s=all&q=star+trek
 .. _Florianópolis: http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Florianopolis+-+SC,+Brazil&aq=0&ie=UTF8&hq=&hnear=Florian%C3%B3polis+-+Santa+Catarina,+Brazil&t=h&z=11&vpsrc=0
 .. _WordPress: http://wordpress.com
 .. _MySQL: http://www.mysql.com/
