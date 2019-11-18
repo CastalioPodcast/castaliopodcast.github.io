@@ -48,22 +48,25 @@ Resumo
 -  **Halloween na Argentina** 34:00
 -  **Conclusão** 34:45
 
-Top 5
------
--  **Música:** `Muse`_
--  **Música:** `Smashing Pumpkins`_
--  **Música:** `Fiona Apple`_
--  **Música:** `Oasis`_
--  **Música:** `Pearl Jam`_
--  **Música:** `Nirvana`_
--  **Filmes:** `Donny Darco`_
--  **Filmes:** `O Silêncio dos Inocentes`_
--  **Filmes:** `O Segredo dos Seus Olhos`_
--  **Filmes:** `Crash`_
--  **Livros:** `The Dragons of Eden`_
--  **Livros:** `1984`_
--  **Livros:** `Admirável Mundo Novo`_
--  **Livros:** `Os Miseráveis`_
+.. top5::
+
+    :music:
+        * Muse
+        * The Smashing Pumpkins
+        * Fiona Apple
+        * Oasis
+        * Pearl Jam
+        * Nirvana
+    :movie:
+        * Donnie Darko
+        * O Silêncio dos Inocentes
+        * O Segredo dos Seus Olhos
+        * Crash
+    :book:
+        * Dragons of Eden
+        * 1984
+        * Admirável Mundo Novo
+        * Os Miseráveis
 
 Links
 -----
@@ -111,20 +114,6 @@ Links
 -  `Carlitos Tevez`_
 
 
-.. _Muse: http://www.last.fm/search?q=Muse
-.. _Smashing Pumpkins: http://www.last.fm/search?q=Smashing+Pumpkins
-.. _Fiona Apple: http://www.last.fm/search?q=Fiona+Apple
-.. _Oasis: http://www.last.fm/search?q=Oasis
-.. _Pearl Jam: http://www.last.fm/search?q=Pearl+Jam
-.. _Nirvana: http://www.last.fm/search?q=Nirvana
-.. _Donny Darco: http://www.imdb.com/find?s=all&q=Donny+Darco
-.. _O Silêncio dos Inocentes: http://www.imdb.com/find?s=all&q=O+Silêncio+dos+Inocentes
-.. _O Segredo dos Seus Olhos: http://www.imdb.com/find?s=all&q=O+Segredo+dos+Seus+Olhos
-.. _Crash: http://www.imdb.com/find?s=all&q=Crash
-.. _The Dragons of Eden: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Dragons+of+Eden
-.. _1984: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=1984
-.. _Admirável Mundo Novo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Admirável+Mundo+Novo
-.. _Os Miseráveis: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis
 .. _Linaro: https://duckduckgo.com/?q=Linaro
 .. _rootfs: https://duckduckgo.com/?q=rootfs
 .. _arm board: https://duckduckgo.com/?q=arm+board

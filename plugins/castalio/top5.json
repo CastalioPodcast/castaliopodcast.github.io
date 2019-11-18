@@ -1,5 +1,8 @@
 {
   "book": {
+    "Dragons of Eden": {
+      "url": "https://www.goodreads.com/book/show/32276.Dragons_of_Eden"
+    },
     "50 Anos a Mil": {
       "url": "https://www.goodreads.com/book/show/9896903-50-anos-a-mil"
     },
@@ -865,6 +868,15 @@
     }
   },
   "movie": {
+    "O Segredo dos Seus Olhos": {
+      "url": "https://www.imdb.com/title/tt1305806/"
+    },
+    "O Silêncio dos Inocentes": {
+      "url": "https://www.imdb.com/title/tt0102926/"
+    },
+    "Donnie Darko": {
+      "url": "https://www.imdb.com/title/tt0246578/"
+    },
     "Mad Men": {
       "url": "https://www.imdb.com/title/tt0804503/"
     },
