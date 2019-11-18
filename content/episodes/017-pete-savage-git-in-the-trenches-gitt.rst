@@ -68,47 +68,47 @@ Summary
 .. top5::
 
     :music:
-        * `Lagwagon`_
-        * `Green Day`_
-        * `Mike Oldfield`_
-        * `J-Rock`_
-        * `J-Pop`_
+        * Lagwagon
+        * Green Day
+        * Mike Oldfield
+        * J-Rock
+        * J-Pop
     :book:
-        * `Night Watch`_ series by `Sergei Lukyanenko`_
-    :sites:
-        * `Slashdot`_
-        * `The Register`_
-        * `The Daily WTF`_
-    :mivies:
-        * `Kamikaze Girls`_
-        * `Inception`_
-        * `The Prestige`_
+        * The Night Watch
+    :movie:
+        * Kamikaze Girls
+        * Inception
+        * The Prestige
 
 Links
 -----
--  `Greater New Hampshire Linux User Group (NHLUG)`_
--  `"Building GUI applications with Python, Gtk and Glade"`_
--  `PyGtk`_
--  `Duck Duck Go`_
--  `Official Ubuntu Book`_
--  `Edubuntu`_
--  `PHP`_
--  `Knoppix`_
--  `BETT Show`_
--  `StarOffice`_
--  **ProgBox** (domain no longer around)
--  `BillReminder`_
--  `GeekDeck`_
--  `Emblem Divide`_
--  `Alchemy Reigns`_
--  `Git in The Trenches (GITT)`_
--  `LaTeX`_
--  `Dragon Ball`_
--  `Bento lunchbox`_
--  `Tamagoyaki`_
--  `Manga`_
--  `Hiragana`_ and `Katakana`_
--  `Ethestra`_
+
+* `Greater New Hampshire Linux User Group (NHLUG)`_
+* `"Building GUI applications with Python, Gtk and Glade"`_
+* `PyGtk`_
+* `Duck Duck Go`_
+* `Official Ubuntu Book`_
+* `Edubuntu`_
+* `PHP`_
+* `Knoppix`_
+* `BETT Show`_
+* `StarOffice`_
+* **ProgBox** (domain no longer around)
+* `BillReminder`_
+* `GeekDeck`_
+* `Emblem Divide`_
+* `Alchemy Reigns`_
+* `Git in The Trenches (GITT)`_
+* `LaTeX`_
+* `Dragon Ball`_
+* `Bento lunchbox`_
+* `Tamagoyaki`_
+* `Manga`_
+* `Hiragana`_ and `Katakana`_
+* `Ethestra`_
+* `Slashdot`_
+* `The Register`_
+* `The Daily WTF`_
 
 
 .. _here: http://www.castalio.info/transcript-episode-17-pete-savage-git-in-the-trenches-gitt/

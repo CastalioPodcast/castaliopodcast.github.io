@@ -44,29 +44,32 @@ Tópicos abordados neste episódio
   especialista em criptomoedas? E além de tecnologia o que é preciso saber?
 * Detalhes sobre a `falha que o Everton encontrou na OmiseGo`_.
 
-Top 5
-=====
 
-* **Música**: `Frank Sinatra — Flying to the Moon`_
-* **Música**: `Antônio Carlos Jobim — Wave`_
-* **Música**: `Dire Straits — Sultans of Swing`_
-* **Música**: `Al Green — Let's Stay Together (versão da Odara Sol)`_
-* **Música**: `Sepultura — Bullet the Blue Sky`_
-* **Filme**: `Deuses Americanos`_
-* **Filme**: `O Troco`_
-* **Filme**: `Pulp Fiction`_
-* **Filme**: `Fullmetal Alchemist`_
-* **Filme**: `Manhunt: Unabomber`_
-* **Filme**: `Deep Web`_
-* **Filme**: `Ulterior States`_
-* **Livro**: `A Arte da Guerra`_
-* **Livro**: `O Livro dos Cinco Anéis`_
-* **Livro**: `Mastering Bitcoin`_
-* **Livro**: `The Wall Street Journal Guide to Information Graphics`_
-* **Livro**: `Humano, demasiado humano`_
-* **Livro**: `Bitcoin para Programadores`_
-* **Livro**: `Mastering Ethereum`_
-* **Livro**: `Black Market Cryptocurrencies`_
+.. top5::
+
+    :music:
+        * Frank Sinatra - Flying to the Moon
+        * Antônio Carlos Jobim - Wave
+        * Dire Straits - Sultans of Swing
+        * Al Green - Let's Stay Together (versão da Odara Sol)
+        * Sepultura - Bullet the Blue Sky
+    :movie:
+        * Deuses Americanos
+        * O Troco
+        * Pulp Fiction
+        * Fullmetal Alchemist
+        * Manhunt: Unabomber
+        * Deep Web
+        * Ulterior States
+    :book:
+        * A Arte da Guerra
+        * O Livro dos Cinco Anéis
+        * Mastering Bitcoin
+        * The Wall Street Journal Guide to Information Graphics
+        * Humano, demasiado humano
+        * Bitcoin para Programadores
+        * Mastering Ethereum
+        * Black Market Cryptocurrencies
 
 Assista a gravação deste episódio
 =================================
@@ -119,11 +122,6 @@ Links
 
 * `COMIBIT`_
 * `falha que o Everton encontrou na OmiseGo`_
-* `Bitcoin para Programadores`_
-* `Mastering Ethereum`_
-* `Black Market Cryptocurrencies`_
-* `Deep Web`_
-* `Ulterior States`_
 
 .. class:: panel-body bg-info
 
@@ -134,26 +132,6 @@ Links
 .. Mentioned
 .. _COMIBIT: http://comibit.org/
 .. _falha que o Everton encontrou na OmiseGo: https://github.com/omise/omise-php/issues/74
-.. _Frank Sinatra — Flying to the Moon: https://www.last.fm/music/Frank+Sinatra/_/Flying+to+the+Moon
-.. _Antônio Carlos Jobim — Wave: https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave
-.. _Dire Straits — Sultans of Swing: https://www.last.fm/music/Dire+Straits/_/Sultans+of+Swing
-.. _Al Green — Let's Stay Together (versão da Odara Sol): https://www.last.fm/music/Al+Green/_/Let%27s+Stay+Together
-.. _Sepultura — Bullet the Blue Sky: https://www.last.fm/music/Sepultura/_/Bullet+the+Blue+Sky
-.. _Deuses Americanos: https://www.imdb.com/title/tt1898069/
-.. _O Troco: https://www.imdb.com/title/tt0120784/
-.. _Pulp Fiction: https://www.imdb.com/title/tt0110912/
-.. _Fullmetal Alchemist: https://www.imdb.com/title/tt0421357/
-.. _Manhunt\: Unabomber: https://www.imdb.com/title/tt5618256/
-.. _Deep Web: https://www.imdb.com/title/tt3312868/
-.. _Ulterior States: https://www.youtube.com/watch?v=yQGQXy0RIIo
-.. _A Arte da Guerra: https://www.goodreads.com/book/show/40222464-a-arte-da-guerra
-.. _O Livro dos Cinco Anéis: https://www.goodreads.com/book/show/16119656-o-livro-dos-cinco-an-is
-.. _Mastering Bitcoin: https://www.goodreads.com/book/show/21820378-mastering-bitcoin
-.. _The Wall Street Journal Guide to Information Graphics: https://www.goodreads.com/book/show/6542897-the-wall-street-journal-guide-to-information-graphics
-.. _Humano, demasiado humano: https://www.goodreads.com/book/show/13414215-humano-demasiado-humano
-.. _Bitcoin para Programadores: https://btcparaprogramadores.marcoagner.org/
-.. _Mastering Ethereum: https://www.goodreads.com/book/show/33584554-mastering-ethereum
-.. _Black Market Cryptocurrencies: https://www.goodreads.com/book/show/22628423-black-market-cryptocurrencies
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

@@ -26,14 +26,14 @@ Contato
 .. top5::
 
     :music:
-        * Blink 182
-        * Radio Head
+        * blink-182
+        * Radiohead
         * NOFX
         * Avenged Sevenfold
-    :television:
-        * Cavaleiros do Zodiaco
+    :movie:
+        * Os Cavaleiros do Zodíaco
     :book:
-        * Asimov
+        * Isaac Asimov
 
 Links
 -----

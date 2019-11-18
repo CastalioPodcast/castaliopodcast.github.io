@@ -31,12 +31,13 @@ GITHUB_URL = 'http://github.com/CastalioPodcast'
 
 # Social widget
 SOCIAL = (
-    ('GitHub', 'github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
-    ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
     ('Facebook', 'facebook', 'https://facebook.com/castaliopod'),
+    ('GitHub', 'github', 'https://github.com/CastalioPodcast/CastalioPodcast.github.io'),
     ('iTunes', 'apple', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
-    ('YouTube', 'youtube', 'http://youtube.com/castaliopodcast'),
     ('RSS Feed', 'rss', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
+    ('Spotify', 'spotify', 'https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn'),
+    ('Twitter', 'twitter', 'https://twitter.com/castaliopod'),
+    ('YouTube', 'youtube', 'http://youtube.com/castaliopodcast'),
 )
 
 DEFAULT_PAGINATION = 10
@@ -88,14 +89,13 @@ SITEMAP = {
 }
 
 SUBSCRIBE = [
-    ('iTunes', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
+    ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),
     ('Pocket Casts', 'http://pca.st/castalio'),
-    ('Podflix', 'https://podflix.com.br/castaliopodcast'),
+    ('Spotify', 'https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn'),
+    ('iTunes', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
     (None, None),
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/CastalioPodcastMP3'),
-    ('Spotify do Castálio', 'https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg'),
     ('YouTube', 'https://www.youtube.com/castaliopodcast'),
-    ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),
 ]
 
 # Disqus configuration
@@ -126,12 +126,12 @@ PODCAST_FEED_EXPLICIT = 'No'
 PODCAST_FEED_LANGUAGE = 'pt-br'
 PODCAST_FEED_COPYRIGHT = '&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(
     datetime.now().year, AUTHOR)
-PODCAST_FEED_SUBTITLE = 'Um podcast inspirado para castálio'
+PODCAST_FEED_SUBTITLE = 'Um podcast inspirado para Castálio!'
 PODCAST_FEED_AUTHOR = AUTHOR
 PODCAST_FEED_SUMMARY = (
-    'O Castálio é um podcast publicado quinzenalmente. Elyézer e Bruno falam '
-    'sobre tecnologia, desenvolvimento de software, linguagens de '
-    'programação e o mundo do Open Source! A maioria dos episódios são em '
+    'O Castálio é um podcast publicado mensalmente com o objetivo de '
+    'entrevistar, e ao mesmo tempo apresentar pessoas e projetos que sejam '
+    'fonte de inspiração para os ouvintes. A maioria dos episódios são em '
     'português mas eventualmente trazemos alguns em inglês.'
 )
 PODCAST_FEED_IMAGE = 'http://castalio.info/images/castalio-podcast.png'

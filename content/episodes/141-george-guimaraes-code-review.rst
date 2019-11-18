@@ -5,7 +5,7 @@ Episódio 141: George Guimarães - Code Review
 :date: 2019-05-28
 :author: Castálio Podcast
 :podcast: https://archive.org/download/castalio-podcast-141/castalio-podcast-141.mp3
-:tags: george guimarães, circleci, credo, docker, ebert, ecto, editorconfig,
+:tags: george guimarães, circleci, credo, docker, sourcelevel, ecto, editorconfig,
        elixir, live de python, peek, phabricator, phoenix, plataformatec,
        postgresql, pylint, rake, reek, rubocop, ruby on rails, ruby,
        pycodestyle
@@ -14,12 +14,13 @@ Episódio 141: George Guimarães - Code Review
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
-Nosso convidado de hoje é co-founder da `Plataformatec`_ e co-founder do
-`Ebert`_, uma ferramenta de análise de código e métricas de produtividade de
-equipes de software. Tem mais de 12 anos de atuação em equipes de software,
-fazendo a Plataformatec crescer de 4 para 70 pessoas, e atuando diretamente com
-os clientes e desenvolvedores, especialmente nas linguagens `Ruby`_ e
-`Elixir`_.  George Guimarães seja bem vindo ao Castálio Podcast.
+Nosso convidado de hoje é co-founder da `Plataformatec`_ e co-founder do Ebert
+(renomeado para `SourceLevel`_), uma ferramenta de análise de código e métricas
+de produtividade de equipes de software. Tem mais de 12 anos de atuação em
+equipes de software, fazendo a Plataformatec crescer de 4 para 70 pessoas, e
+atuando diretamente com os clientes e desenvolvedores, especialmente nas
+linguagens `Ruby`_ e `Elixir`_.  George Guimarães seja bem vindo ao Castálio
+Podcast.
 
 .. more
 
@@ -35,16 +36,17 @@ Tópicos abordados neste episódio
 ================================
 
 
-
 * Como o George começou na área de programação?
 * O que é Code Review?
 * Quais os benefícios que o Code Review traz?
 * O que pode dar errado quando o Code Review não é empregado de forma adequada?
 * Quais seriam as boas práticas do Code Review? (algo que ajudaria a minimizar ou anular os erros)
-* Quais são as vantagens que a Ebert fornece a seus clientes?
-* Quais as tecnologias que o Ebert usa?
-* Quais os planos futuros para o Ebert?
-* Qual o perfil dos desenvolvedores para contratação que Plataformatec e o Ebert procuram?
+* Quais são as vantagens que a Ebert (renomeado para `SourceLevel`_) fornece a
+  seus clientes?
+* Quais as tecnologias que o Ebert (renomeado para `SourceLevel`_) usa?
+* Quais os planos futuros para o Ebert (renomeado para `SourceLevel`_)?
+* Qual o perfil dos desenvolvedores para contratação que Plataformatec e o
+  Ebert (renomeado para `SourceLevel`_) procuram?
 * Quais as ferramentas o George recomendaria para assegurar a Qualidade de
   código e Code Review?
 * Qual dica o George daria para quem quer ser empreendedor no Brasil na área de
@@ -125,7 +127,7 @@ Links
 * `CircleCI`_
 * `Credo`_
 * `Docker`_
-* `Ebert`_
+* Ebert, renomeado para `SourceLevel`_
 * `Ecto`_
 * `EditorConfig`_
 * `Elixir`_
@@ -154,7 +156,7 @@ Links
 .. _CircleCI: https://circleci.com/
 .. _Credo: https://github.com/rrrene/credo/
 .. _Docker: https://www.docker.com/
-.. _Ebert: https://ebertapp.io
+.. _SourceLevel: https://sourcelevel.io/
 .. _Ecto: https://hexdocs.pm/ecto/Ecto.html
 .. _EditorConfig: https://editorconfig.org/
 .. _Elixir: https://elixir-lang.org/

@@ -32,9 +32,14 @@ Escute Agora
 
 .. podcast:: castalio-podcast-06
 
+.. top5::
+
+    :book:
+        * Fortaleza Digital
+
 Contato
 -------
--  **Blog**: ﻿http://diegobz.net/
+-  **Blog**: http://diegobz.net/
 -  **Twitter**: http://twitter.com/diegobz
 
 Alguns dados interessantes do `Transifex`_:
@@ -54,7 +59,6 @@ Links
 -  `Fedora Brasil`_
 -  `FISL`_
 -  `Indifex`_
--  **Livro**: `Digital Fortress`_ por **Dan Brown**
 
 .. _Bitbucket: https://bitbucket.org/
 .. _Conectiva: https://secure.wikimedia.org/wikipedia/en/wiki/Conectiva

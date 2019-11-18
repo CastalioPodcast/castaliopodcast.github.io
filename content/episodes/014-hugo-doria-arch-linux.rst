@@ -51,30 +51,26 @@ Resumo
 .. top5::
 
     :music:
-        * Black Sabath
+        * Black Sabbath
         * Deep Purple
         * Steppenwolf
         * Nirvana
         * Metallica
-        * Iron Maiden
-        * Pink Floyd
-        * Led Zeppelin
+        * Iron Maiden
+        * Pink Floyd
+        * Led Zeppelin
     :book:
-        * Senhor dos Anéis (série)
+        * O Senhor dos Anéis
         * Admirável Mundo Novo
-        * Guia do Mochileiro das Galáxias
-        * Gibis de super heróis
-        * Game of Thrones (série)
+        * O Guia do Mochileiro das Galáxias
+        * A Game of Thrones
     :movie:
-        * De Volta Para o Futuro (trilogia)
-        * Matrix (trilogia)
+        * De Volta Para o Futuro
+        * The Matrix
         * Ghost in the Shell
-        * Samurai X
-        * Dragon Ball
-        * Cavaleiros do Zodíaco
-    :people/sites:
-        * agregador de notícias `Planeta GNU/Linux Brasil`_
-        * `BR-Linux`_, `BR-Mac`_ do **Augusto Campos**
+        * Samurai X: Trust and Betrayal
+        * Dragon Ball Z
+        * Os Cavaleiros do Zodíaco
 
 Links
 -----
@@ -83,6 +79,9 @@ Links
 -  `Arch Sheriff`_
 -  `POPCode`_ (`fotos`_)
 -  `Rock and Roll Racing`_
+- Agregador de notícias `Planeta GNU/Linux Brasil`_
+- `BR-Linux`_
+- `BR-Mac`_
 
 
 .. _Hugo Dória: http://hdoria.com/

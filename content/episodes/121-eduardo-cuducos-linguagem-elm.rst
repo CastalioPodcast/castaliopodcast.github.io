@@ -106,16 +106,18 @@ Contatos
 .. podcast:: castalio-podcast-121
     :heading: Escute Agora
 
-Top 5
-=====
+.. top5::
 
-* **Música**: `Hurricane`_ by `Bob Dylan`_
-* **Música**: `Stampede`_ by `The Quantic Soul Orchestra`_
-* **Filme**: `Dançando no Escuro`_
-* **Filme**: `Big Fish`_
-* **Filme**: `A Vida é Bela`_
-* **Livro**: `Musashi`_
-* **Livro**: `Alan Watts`_
+    :music:
+        * Bob Dylan - Hurricane
+        * The Quantic Soul Orchestra - Stampede
+    :movie:
+        * Dançando no Escuro
+        * Big Fish
+        * A Vida é Bela
+    :book:
+        * Musashi
+        * Alan Watts
 
 Links
 =====
@@ -156,16 +158,6 @@ Links
 .. _Elm Brasil no Telegram: https://t.me/elmbrasil
 .. _Ellie: https://ellie-app.com
 .. _Código fonte do demo: https://ellie-app.com/TQYv4QNxa1/0
-
-.. _Bob Dylan: https://www.last.fm/music/Bob+Dylan
-.. _Hurricane: https://www.last.fm/music/Bob+Dylan/_/Hurricane
-.. _Stampede: https://www.last.fm/music/The+Quantic+Soul+Orchestra/Stampede
-.. _The Quantic Soul Orchestra: https://www.last.fm/music/The+Quantic+Soul+Orchestra
-.. _Dançando no Escuro: http://www.imdb.com/title/tt0168629/
-.. _Big Fish: http://www.imdb.com/title/tt0319061/
-.. _A Vida é Bela: http://www.imdb.com/title/tt0118799/
-.. _Musashi: https://www.goodreads.com/book/show/102030.Musashi
-.. _Alan Watts: https://www.goodreads.com/author/show/1501668.Alan_W_Watts
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

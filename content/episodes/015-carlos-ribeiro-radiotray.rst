@@ -57,39 +57,38 @@ Resumo
 .. top5::
 
     :music:
-        * `U2`_
-        * `Cold Play`_
-        * `Célia Cruz`_
-        * `John Williams`_
-        * `Eminem`_
+        * U2
+        * Coldplay
+        * Célia Cruz
+        * John Williams
+        * Eminem
     :book:
-        * Livros do \ `Edgar Allan Poe`_
-        * `War of The Worlds`_ por `H. G.  Wells`_
-        * Livros do `J.R.R.  Tolkien`_
-        * `The Code Book - The Secret History of Codes and Code-breaking`_
-        * `The Code Book - The Science of Secrecy from Ancient Egypt to Quantum Cryptography`_
-        * Livros do `Dan Brown`_
+        * Edgar Allan Poe
+        * The War of the Worlds
+        * J.R.R. Tolkien
+        * The Code Book: The Secret History of Codes and Code-Breaking
+        * The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
+        * Dan Brown
     :movie:
-        * `Amélie`_
-        * `Matrix`_ (trilogia)
-        * `Pulp Fiction`_
-        * `Senhor dos Anéis`_ (trilogia)
-        * `Indiana Jones`_ (série)
-        * `Star Wars`_ (série)
-    :people/site:
-        * `DZone - Fresh Links for Developers`_
-        * `FS Daily - Free Software News`_
-        * `The H - Security news and Open source developments`_
-        * `Dilbert`_
+        * Amélie
+        * The Matrix
+        * Pulp Fiction
+        * Senhor dos Anéis
+        * Indiana Jones
+        * Star Wars
 
 Links
 -----
--  **Mora em**: `Vila Nova de Gaia`_ em **Portugal**
--  **Trabalha**: `MULTICERT`_
--  **Projeto**: `Radio Tray`_
--  `Foresight Linux`_
--  `Google Alerts`_
--  `LaTeX`_
+- **Mora em**: `Vila Nova de Gaia`_ em **Portugal**
+- **Trabalha**: `MULTICERT`_
+- **Projeto**: `Radio Tray`_
+- `Foresight Linux`_
+- `Google Alerts`_
+- `LaTeX`_
+- `DZone - Fresh Links for Developers`_
+- `FS Daily - Free Software News`_
+- `The H - Security news and Open source developments`_
+- `Dilbert`_
 
 .. _Twitter: https://twitter.com/#!/castaliopod
 .. _U2: http://www.last.fm/search?q=u2&from=ac

@@ -41,21 +41,24 @@ We talked about these topics
 * Advantages for beginners to start with Neovim
 * Books and tutorial recommendations for beginners
 
-Top 5
-=====
 
-* **Book**: `Hacker News`_
-* **Book**: `1984`_
-* **Book**: `The Godfather`_
-* **Music**: `Lamb of god`_
-* **Music**: `Arch enemy`_
-* **Music**: `Caji`_
-* **Music**: `Megadeth`_
-* **Music**: `Arcade Fire`_
-* **Music**: `Iron Maiden`_
-* **Movie**: `Blade Runner`_
-* **Movie**: `Apocalypse`_
-* **Movie**: `Total Recall`_
+.. top5::
+
+    :music:
+        * Lamb of God
+        * Arch Enemy
+        * Caji
+        * Megadeth
+        * Arcade Fire
+        * Iron Maiden
+    :movie:
+        * Blade Runner
+        * Apocalypse
+        * Total Recall
+    :book:
+        * Hacker News
+        * 1984
+        * The Godfather
 
 Watch the recording of this episode
 ===================================
@@ -130,18 +133,6 @@ Links
 .. Mentioned
 .. _Castálio Podcast's English Episodes: http://castalio.info/tag/english.html
 .. _Justin Keyes: https://github.com/justinmk
-.. _Hacker News: http://news.ycombinator.com
-.. _1984: https://www.goodreads.com/book/show/5470.1984
-.. _The Godfather: https://www.goodreads.com/book/show/22034.The_Godfather
-.. _Lamb of god: https://www.last.fm/pt/music/Lamb+of+God
-.. _Arch enemy: https://www.last.fm/pt/music/Arch+Enemy
-.. _Caji: https://www.last.fm/pt/music/Caji
-.. _Megadeth: https://www.last.fm/pt/music/Megadeth
-.. _Arcade Fire: https://www.last.fm/pt/music/Arcade+Fire
-.. _Iron Maiden: https://www.last.fm/pt/music/Iron+Maiden
-.. _Blade Runner: http://www.imdb.com/title/tt0083658/
-.. _Apocalypse: http://www.imdb.com/title/tt2594098/
-.. _Total Recall: http://www.imdb.com/title/tt1386703/
 .. _Emacs: http://emacsrocks.com
 .. _Neovim: https://neovim.io
 .. _Lua: http://www.lua.org
