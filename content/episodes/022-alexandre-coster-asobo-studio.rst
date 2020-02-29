@@ -51,26 +51,30 @@ Resumo
 -  **Patch de Natal** 01:00:00
 -  **Conclusão** 01:06:00
 
-Top 5
------
--  **Música:** `Jethro Tull`_
--  **Música:** `Pink Floyd`_
--  **Música:** `Queens of Stone Age`_
--  **Música:** `Ween`_
--  **Música:** `Jupiter Maçã`_
--  **Música:** `Paralamas`_
--  **Música:** `Engenheiros`_
--  **Filmes:** `The Pacific`_
--  **Filmes:** `Monty Python`_
--  **Filmes:** `Snatch`_
--  **Filmes:** `Pulp Fiction`_
--  **Filmes:** `Inglorious Bastards`_
--  **Filmes:** `Futurama`_
--  **Filmes:** `Life on Mars`_
--  **Jogos:** `Portal 2`_
--  **Jogos:** `Half Life 2`_
--  **Jogos:** `Scribblenauts`_
--  **Jogos:** `Just Cause 2`_
+
+.. top5::
+
+    :music:
+        * Jethro Tull
+        * Pink Floyd
+        * Queens of the Stone Age
+        * Ween
+        * Júpiter Maçã
+        * Os Paralamas do Sucesso
+        * Engenheiros do Hawaii
+    :movie:
+        * The Pacific
+        * Monty Python's Flying Circus
+        * Snatch
+        * Pulp Fiction
+        * Inglourious Basterds
+        * Futurama
+        * Life on Mars
+    :game:
+        * Portal 2
+        * Half-Life 2
+        * Scribblenauts
+        * Just Cause 2
 
 Links
 -----

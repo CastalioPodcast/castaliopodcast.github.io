@@ -854,6 +854,18 @@
     }
   },
   "game": {
+    "Portal 2": {
+      "url": "https://en.wikipedia.org/wiki/Portal_2"
+    },
+    "Half-Life 2": {
+      "url": "https://en.wikipedia.org/wiki/Half-Life_2"
+    },
+    "Scribblenauts": {
+      "url": "https://en.wikipedia.org/wiki/Scribblenauts"
+    },
+    "Just Cause 2": {
+      "url": "https://en.wikipedia.org/wiki/Just_Cause_2"
+    },
     "Dark Souls": {
       "url": "https://en.wikipedia.org/wiki/Dark_Souls"
     },
@@ -868,6 +880,18 @@
     }
   },
   "movie": {
+    "Life on Mars": {
+      "url": "https://www.imdb.com/title/tt0478942/"
+    },
+    "Futurama": {
+      "url": "https://www.imdb.com/title/tt0149460/"
+    },
+    "Monty Python's Flying Circus": {
+      "url": "https://www.imdb.com/title/tt0063929/"
+    },
+    "The Pacific": {
+      "url": "https://www.imdb.com/title/tt0374463/"
+    },
     "O Segredo dos Seus Olhos": {
       "url": "https://www.imdb.com/title/tt1305806/"
     },
@@ -1174,7 +1198,7 @@
     "Filme O Código Da Vinci": {
       "url": "https://www.imdb.com/title/tt0382625/"
     },
-    "Filme Snatch": {
+    "Snatch": {
       "url": "https://www.imdb.com/title/tt0208092/"
     },
     "Fogo Contra Fogo": {
@@ -1510,7 +1534,7 @@
     "The Imitation Game": {
       "url": "https://www.imdb.com/title/tt2084970/"
     },
-    "The Inglorious Basterds": {
+    "Inglourious Basterds": {
       "url": "https://www.imdb.com/title/tt0361748/"
     },
     "The Marvelous Mrs. Maisel": {
@@ -1596,6 +1620,9 @@
     }
   },
   "music": {
+    "Júpiter Maçã": {
+      "url": "https://www.last.fm/music/J%C3%BApiter+Ma%C3%A7%C3%A3"
+    },
     "2 Unlimited": {
       "url": "https://www.last.fm/music/2+Unlimited"
     },
