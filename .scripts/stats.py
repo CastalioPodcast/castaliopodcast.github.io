@@ -46,22 +46,26 @@ def get_name_and_url(fname):
 def print_summary(stats):
     total = sum([v['downloads'] for v in stats.values()])
     average = float(total) / len(stats)
-    most_downloaded = max(*stats.items(), key=lambda x: x[1]['downloads'])
-    least_downloaded = min(*stats.items(), key=lambda x: x[1]['downloads'])
+
+    def by_downloads(item):
+        return item[1]['downloads']
+
+    sorted_by_downloads = sorted(stats.items(), key=by_downloads)
+    most_downloaded = sorted(
+        sorted_by_downloads[-5:], key=by_downloads, reverse=True)
+    least_downloaded = sorted_by_downloads[:5]
 
     summary = sorted(stats.items(), key=lambda i: int(i[0].split('-')[-1]))
     for name, data in summary:
         print(f'{name}: {data["downloads"]}')
 
     print()
-    print(
-        f'Most downloaded episode: {most_downloaded[0]} '
-        f'({most_downloaded[1]["downloads"]})'
-    )
-    print(
-        f'Least downloaded episode: {least_downloaded[0]} '
-        f'({least_downloaded[1]["downloads"]})'
-    )
+    print(f'Top 5 most downloaded episode:')
+    for episode in most_downloaded:
+        print(f'  * {episode[0]} ({episode[1]["downloads"]})')
+    print('Top 5 least downloaded episode:')
+    for episode in least_downloaded:
+        print(f'  * {episode[0]} ({episode[1]["downloads"]})')
     print(f'Total of Downloads: {total}'.format(total))
     print(f'Average of Downloads: {round(average, 2)}')
 
@@ -86,10 +90,7 @@ async def main(loop, data):
             # The download information won't be present for episodes that were
             # just published.
             continue
-        stats[name] = {
-            'length': response['files']['/{}.ogg'.format(name)]['length'],
-        }
-        stats[name].update(response['item'])
+        stats[name] = response.get('item', {})
     print_summary(stats)
 
 
