@@ -54,6 +54,7 @@ class Top5(Directive):
         'music': 'Música',
         'pizza': 'Pizza',
         'podcast': 'Podcast',
+        'site': 'Site',
     }
 
     def run(self):
@@ -130,11 +131,12 @@ class Top5Best(Directive):
         'app': 'Top 5 Aplicativos',
         'beer': 'Top 5 Cervejas',
         'book': 'Top 5 Livros',
+        'game': 'Top 5 Games',
         'movie': 'Top 5 Filmes',
         'music': 'Top 5 Músicas',
         'pizza': 'Top 5 Pizzas',
         'podcast': 'Top 5 Podcast',
-        'game': 'Top 5 Games',
+        'site': 'Top 5 Sites',
     }
 
     def run(self):

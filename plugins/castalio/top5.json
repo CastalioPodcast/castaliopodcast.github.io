@@ -19,6 +19,9 @@
     }
   },
   "book": {
+    "Programando em Lua": {
+      "url": "http://www.grupogen.com.br/programando-em-lua?code=luaorg"
+    },
     "A Ditadura Derrotada": {
       "url": "https://www.goodreads.com/book/show/1866587.A_Ditadura_Derrotada"
     },
@@ -2842,6 +2845,17 @@
   "podcast": {
     "Um Milkshake Chamado Wanda": {
       "url": "https://soundcloud.com/ummilkshakechamadowanda"
+    }
+  },
+  "site": {
+    "CodeCombat": {
+      "url": "https://br.codecombat.com/"
+    },
+    "Lua-l (lista de email en_US)": {
+      "url": "http://www.lua.org/lua-l.html"
+    },
+    "Lua BR (lista de email pt_BR)": {
+      "url": "http://www.lua.org/lua-br.html"
     }
   }
 }

@@ -68,9 +68,15 @@ Segue a lista de links que comentamos no episódio:
 Top 5
 -----
 
-* Livro `Programando em Lua`_ (`Programming in Lua`_)
-* `CodeCombat`_
-* `Lua BR (lista de email pt_BR)`_ ou `Lua-l (lista de email en_US)`_
+.. top5::
+
+    :book:
+        * Programando em Lua
+        * Programming in Lua
+    :site:
+        * CodeCombat
+        * Lua BR (lista de email pt_BR)
+        * Lua-l (lista de email en_US)
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
@@ -102,11 +108,6 @@ Ainda não ouviu? escute agora!
 .. _Canal do YouTube da LuaConf: https://www.youtube.com/channel/UC8UnjF-8EPisllS_lHX0QMg
 .. _Torch: http://torch.ch/
 .. _Site pessoal da Etiene Dalcol: http://etiene.net/
-.. _Programming in Lua: https://www.goodreads.com/book/show/1332383.Programming_in_Lua
-.. _Programando em Lua: http://www.grupogen.com.br/programando-em-lua?code=luaorg
-.. _CodeCombat: https://br.codecombat.com/
-.. _Lua-l (lista de email en_US): http://www.lua.org/lua-l.html
-.. _Lua BR (lista de email pt_BR): http://www.lua.org/lua-br.html
 .. _Playlist do Castálio no Spotify: https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
