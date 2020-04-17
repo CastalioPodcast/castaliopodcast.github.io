@@ -70,22 +70,25 @@ Escute Agora
 
 .. podcast:: castalio-podcast-97
 
-Top 5
------
-* **Filme**: `Brilho Eterno de uma Mente sem Lembranças <http://www.imdb.com/title/tt0338013/>`_
-* **Filme**: `Vanilla Sky <http://www.imdb.com/title/tt0259711/>`_
-* **Filme**: `Filmes do Quentin Tarantino <http://www.imdb.com/name/nm0000233/>`_
-* **Livro**: `J.M. Coetzee <https://www.goodreads.com/author/show/4128.J_M_Coetzee>`_
-* **Livro**: `Oliver Sacks <https://www.goodreads.com/author/show/843200.Oliver_Sacks>`_
-* **Livro**: `José Saramago <https://www.goodreads.com/author/show/1285555.Jos_Saramago>`_
-* **Livro**: `Haruki Murakami <https://www.goodreads.com/author/show/3354.Haruki_Murakami>`_
-* **Livro**: `Mario Vargas Llosa <https://www.goodreads.com/author/show/22515.Mario_Vargas_Llosa>`_
-* **Livro**: `Jorge Luis Borges <https://www.goodreads.com/author/show/500.Jorge_Luis_Borges>`_
-* **Livro**: `Adolfo Bioy Casares <https://www.goodreads.com/author/show/3424060.Adolfo_Bioy_Casares>`_
-* **Música**: `Sigur Rós <https://www.last.fm/music/Sigur+R%C3%B3s>`_
-* **Música**: `Angus Stone <https://www.last.fm/music/Angus+Stone>`_
-* **Música**: `José González <https://www.last.fm/music/Jos%C3%A9+Gonz%C3%A1lez>`_
-* **Música**: `David Bowie <https://www.last.fm/music/David+Bowie>`_
+.. top5::
+
+    :movie:
+        * Brilho Eterno de uma Mente sem Lembranças
+        * Vanilla Sky
+        * Quentin Tarantino
+    :book:
+        * J.M. Coetzee
+        * Oliver Sacks
+        * José Saramago
+        * Haruki Murakami
+        * Mario Vargas Llosa
+        * Jorge Luis Borges
+        * Adolfo Bioy Casares
+    :music:
+        * Sigur Rós
+        * Angus Stone
+        * José González
+        * David Bowie
 
 Links
 -----

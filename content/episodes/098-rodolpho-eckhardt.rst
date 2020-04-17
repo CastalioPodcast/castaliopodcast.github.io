@@ -90,23 +90,26 @@ Escute Agora
 
 .. podcast:: castalio-podcast-98
 
-Top 5
------
-* **Filme**: `Arrival <http://www.imdb.com/title/tt2543164/>`_
-* **Filme**: `Primer <http://www.imdb.com/title/tt0390384/>`_
-* **Filme**: `Oldboy <http://www.imdb.com/title/tt0364569/>`_
-* **Filme**: `Se7en <http://www.imdb.com/title/tt0114369/>`_
-* **Filme**: `Jodorowsky's Dune <http://www.imdb.com/title/tt1935156/>`_
-* **Música**: `Björk - All Is Full of Love <https://www.last.fm/music/Bj%C3%B6rk/_/All+Is+Full+of+Love>`_
-* **Música**: `Craig Cardiff - Love Is Louder <https://www.last.fm/music/Craig+Cardiff/_/Love+Is+Louder+(Than+All+This+Noise)>`_
-* **Música**: `Nina Simone - Sinnerman <https://www.last.fm/music/Nina+Simone/_/Sinnerman>`_
-* **Música**: `Sigur Rós - Fjögur píanó <https://www.last.fm/music/Sigur+R%C3%B3s/_/Fj%C3%B6gur+p%C3%ADan%C3%B3>`_
-* **Música**: `Lera Lynn - It Only Takes One Shot <https://www.last.fm/music/Lera+Lynn/_/It+Only+Takes+One+Shot>`_
-* **Livro**: `The Bhagavad Gita <https://www.goodreads.com/book/show/99944.The_Bhagavad_Gita>`_
-* **Livro**: `O Processo <https://www.goodreads.com/book/show/6709963-o-processo>`_
-* **Livro**: `Gödel, Escher, Bach <https://www.goodreads.com/book/show/24113.G_del_Escher_Bach>`_
-* **Livro**: `1984 <https://www.goodreads.com/book/show/5470.1984>`_
-* **Livro**: `O Fim da Infância <https://www.goodreads.com/book/show/13251514-o-fim-da-inf-ncia>`_
+.. top5::
+
+    :movie:
+        * Arrival
+        * Primer
+        * Oldboy
+        * Se7en
+        * Jodorowsky's Dune
+    :music:
+        * Björk - All Is Full of Love
+        * Craig Cardiff - Love Is Louder
+        * Nina Simone - Sinnerman
+        * Sigur Rós - Fjögur píanó
+        * Lera Lynn - It Only Takes One Shot
+    :book:
+        * The Bhagavad Gita
+        * O Processo
+        * Gödel, Escher, Bach
+        * 1984
+        * O Fim da Infância
 
 Links
 -----

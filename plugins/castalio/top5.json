@@ -914,6 +914,9 @@
     }
   },
   "movie": {
+    "Quentin Tarantino": {
+      "url": "https://www.imdb.com/name/nm0000233/"
+    },
     "CQC: Custe o Que Custar": {
       "url": "https://www.imdb.com/title/tt1518344/"
     },

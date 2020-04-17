@@ -73,6 +73,7 @@ Nosso ouvintes enviaram algumas perguntas e aproveitamos para fazê-las:
 
 Contato
 -------
+
 * **Site**: http://www.lambda3.com.br/blog
 * **Twitter**: https://twitter.com/giovannibassi
 * **Github**: https://github.com/giggio
@@ -96,15 +97,17 @@ Segue a lista de links que comentamos no episódio:
 * `React Native`_
 * `The Open Organization`_
 
-Top 5 - Giovanni Bassi
-----------------------
+.. top5::
 
-* **Livro**: `Domain-Driven Design`_
-* **Livro**: `The End of Management and the Rise of Organizational Democracy`_
-* **Filme**: `Pulp Fiction`_
-* **Filme**: `Matrix`_
-* **Música**: `Metallica`_
-* **Música**: `Ramones`_
+    :book:
+        * Domain-Driven Design
+        * The End of Management and the Rise of Organizational Democracy
+    :movie:
+        * Pulp Fiction
+        * The Matrix
+    :music:
+        * Metallica
+        * Ramones
 
 Top 5 - Sobre a plataforma de desenvolvimento da Microsoft
 ----------------------------------------------------------
@@ -146,12 +149,6 @@ Ainda não ouviu? escute agora!
 .. _Ionic: http://ionicframework.com/
 .. _React Native: http://facebook.github.io/react-native/
 .. _The Open Organization: https://www.goodreads.com/book/show/23258978-the-open-organization
-.. _Domain-Driven Design: https://www.goodreads.com/book/show/179133.Domain_Driven_Design
-.. _The End of Management and the Rise of Organizational Democracy: https://www.goodreads.com/book/show/971989.The_End_of_Management_and_the_Rise_of_Organizational_Democracy
-.. _Pulp Fiction: http://www.imdb.com/title/tt0110912/
-.. _Matrix: http://www.imdb.com/title/tt0133093/
-.. _Metallica: https://www.last.fm/music/Metallica
-.. _Ramones: https://www.last.fm/music/Ramones
 .. _Blog da Lambda3: http://www.lambda3.com.br/blog
 .. _Podcast da Lambda3: http://www.lambda3.com.br/lambda3-podcast/
 .. _Blog do time do C#: https://blogs.msdn.microsoft.com/csharpfaq/
