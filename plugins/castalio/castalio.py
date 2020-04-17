@@ -46,12 +46,14 @@ class Top5(Directive):
     </li>
     """
     _category_text = {
+        'app': 'Aplicativo',
+        'beer': 'Cerveja',
         'book': 'Livro',
+        'game': 'Game',
         'movie': 'Filme',
         'music': 'Música',
         'pizza': 'Pizza',
         'podcast': 'Podcast',
-        'game': 'Game',
     }
 
     def run(self):
@@ -125,6 +127,8 @@ class Top5Best(Directive):
     """
     _li_template_no_url = '<li>{name} ({count})</li>'
     _category_text = {
+        'app': 'Top 5 Aplicativos',
+        'beer': 'Top 5 Cervejas',
         'book': 'Top 5 Livros',
         'movie': 'Top 5 Filmes',
         'music': 'Top 5 Músicas',

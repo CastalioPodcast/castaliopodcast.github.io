@@ -63,7 +63,7 @@ Resumo
     :movie:
         * Star Wars
         * Star Wars - The Empire Strikes Back
-        * Star Wars - Return of the Jedi
+        * Star Wars Episódio VI: O Retorno de Jedi
         * Ferris Bueller's Day Off
         * Star Trek
 

@@ -1,4 +1,23 @@
 {
+  "app": {
+    "Git": {
+      "url": "https://git-scm.com/"
+    },
+    "Vim": {
+      "url": "https://www.vim.org/"
+    }
+  },
+  "beer": {
+    "Guinness": {
+      "url": "https://untappd.com/Guinness"
+    },
+    "Old Speckled Hen": {
+      "url": "https://untappd.com/b/greene-king-morland-old-speckled-hen/3121"
+    },
+    "Eisenbahn Dunkel": {
+      "url": "https://untappd.com/b/cervejaria-eisenbahn-dunkel/14372"
+    }
+  },
   "book": {
     "A Ditadura Derrotada": {
       "url": "https://www.goodreads.com/book/show/1866587.A_Ditadura_Derrotada"
@@ -895,6 +914,9 @@
     }
   },
   "movie": {
+    "CQC: Custe o Que Custar": {
+      "url": "https://www.imdb.com/title/tt1518344/"
+    },
     "Emperor of the North": {
       "url": "https://www.imdb.com/title/tt0070030/"
     },
@@ -1477,22 +1499,13 @@
     "Star Wars": {
       "url": "https://www.imdb.com/title/tt0120915/"
     },
-    "Star Wars - Return of the Jedi": {
-      "url": "https://www.imdb.com/title/tt0086190/"
-    },
     "Star Wars - The Empire Strikes Back": {
       "url": "https://www.imdb.com/title/tt0080684/"
     },
     "Star Wars Episode V - O Império Contra Ataca": {
       "url": "https://www.imdb.com/title/tt0080684/"
     },
-    "Star Wars Episode VI - Return of the Jedi": {
-      "url": "https://www.imdb.com/title/tt0086190/"
-    },
-    "Star Wars O Retorno de Jedi": {
-      "url": "https://www.imdb.com/title/tt0086190/"
-    },
-    "Star Wars O Retorno do Jedi": {
+    "Star Wars Episódio VI: O Retorno de Jedi": {
       "url": "https://www.imdb.com/title/tt0086190/"
     },
     "Stranger Things": {

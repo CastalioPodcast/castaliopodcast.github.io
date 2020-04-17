@@ -42,23 +42,26 @@ Escute Agora
 
 .. podcast:: castalio-podcast-61
 
-Top 5
------
-* **Livro**: `Admirável Mundo Novo`_
-* **Livro**: `Guí­a do Mochileiro das Galáxias`_
-* **Livro**: `Operação Cavalo de Troia`_
-* **Livro**: `A Revolução dos Bichos`_
-* **Livro**: `O Código Da Vinci`_
-* **Música**: `AC/DC - Highway to Hell`_
-* **Música**: `Metallica - For Whom the Bell Tolls`_
-* **Música**: `Red Hot Chili Peppers - Suck My Kiss`_
-* **Música**: `Led Zeppelin - Stairway to Heaven`_
-* **Música**: `Live - Turn My Head`_
-* **Filme**: `Coração Valente`_
-* **Filme**: `2001\: Uma Odisséia no Espaço`_
-* **Filme**: `Matrix`_
-* **Filme**: `Star Wars\: O Retorno do Jedi`_
-* **Filme**: `Pulp Fiction`_
+.. top5::
+
+    :book:
+        * Admirável Mundo Novo
+        * O Guia do Mochileiro das Galáxias
+        * Operação Cavalo de Troia
+        * A Revolução dos Bichos
+        * O Código Da Vinci
+    :music:
+        * AC/DC - Highway to Hell
+        * Metallica - For Whom the Bell Tolls
+        * Red Hot Chili Peppers - Suck My Kiss
+        * Led Zeppelin - Stairway to Heaven
+        * Live - Turn My Head
+    :movie:
+        * Coração Valente
+        * 2001 Uma Odisséia no Espaço
+        * The Matrix
+        * Star Wars Episódio VI: O Retorno de Jedi
+        * Pulp Fiction
 
 Links
 -----
@@ -152,23 +155,6 @@ Links
 .. _Filme O Código Da Vinci: http://www.imdb.com/title/tt0382625
 .. _Filme Snatch: http://www.imdb.com/title/tt0208092
 
-
-.. Top 5
-.. _Admirável Mundo Novo: http://www.goodreads.com/book/show/5129.Brave_New_World
-.. _Guí­a do Mochileiro das Galáxias: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
-.. _Operação Cavalo de Troia: http://www.goodreads.com/book/show/66632.Jerusal_n
-.. _A Revolução dos Bichos: http://www.goodreads.com/book/show/5472.Animal_Farm_1984
-.. _O Código Da Vinci: http://www.goodreads.com/book/show/968.The_Da_Vinci_Code
-.. _AC/DC - Highway to Hell: http://www.last.fm/music/AC%2FDC/_/Highway+to+Hell
-.. _Metallica - For Whom the Bell Tolls: http://www.last.fm/music/Metallica/_/For+Whom+the+Bell+Tolls
-.. _Red Hot Chili Peppers - Suck My Kiss: http://www.last.fm/music/Red+Hot+Chili+Peppers/_/Suck+My+Kiss
-.. _Led Zeppelin - Stairway to Heaven: http://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven
-.. _Live - Turn My Head: http://www.last.fm/music/Live/_/Turn+My+Head
-.. _Coração Valente: http://www.imdb.com/title/tt0112573
-.. _2001\: Uma Odisséia no Espaço: http://www.imdb.com/title/tt0062622
-.. _Matrix: http://www.imdb.com/title/tt0133093
-.. _Star Wars\: O Retorno do Jedi: http://www.imdb.com/title/tt0086190
-.. _Pulp Fiction: http://www.imdb.com/title/tt0110912
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

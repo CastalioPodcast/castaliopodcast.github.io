@@ -18,7 +18,7 @@ Apesar de hoje passar mais tempo focando em seu novo projeto, `Tsuru`_, o Andrew
 
 .. more
 
-Durante nosso bate-papo conversamos sobre como o projeto nasceu, a origem do seu nome, quais obstáculos foram enfrentados, alguns esclarecimentos sobre o que eu e o Elyézer falamos no episódio anterior, e sobre como o `Spotify`_ prevê que a sua trilha sonóra para 2014 terá somente `Black Sabath`_!
+Durante nosso bate-papo conversamos sobre como o projeto nasceu, a origem do seu nome, quais obstáculos foram enfrentados, alguns esclarecimentos sobre o que eu e o Elyézer falamos no episódio anterior, e sobre como o `Spotify`_ prevê que a sua trilha sonóra para 2014 terá somente `Black Sabbath`_!
 
 Contato
 -------
@@ -32,23 +32,27 @@ Escute Agora
 
 .. podcast:: castalio-podcast-60
 
-Top 5
------
-* **Livros**: `Guía do Muchileiro das Galáxias`_
-* **Livros**: `O Estilho de Cristal`_
-* **Livros**: `R. A. Salvatore`_
-* **Livros**: `Agile Software Development, Principles, Patterns, and Practices`_
-* **Livros**: `Uncle Bob`_
-* **Livros**: `Refactoring: Improving the Design of Existing Code`_
-* **Livros**: `Martin Fowler`_
-* **Música**: `Black Sabath`_
-* **Música**: `Raul Seixas`_
-* **Filme**: `Iron Man`_
-* **Filme**: `Exterminador do Futuro`_
-* **Filme**: `De Volta para o Futuro`_
-* **Filme**: `Cobra`_
-* **Aplicativo**: `Git`_
-* **Aplicativo**: `Vi`_
+.. top5::
+
+    :app:
+        * Git
+        * Vim
+    :book:
+        * O Guia do Mochileiro das Galáxias
+        * O Estilho de Cristal
+        * \R. A. Salvatore
+        * Agile Software Development, Principles, Patterns, and Practices
+        * Uncle Bob
+        * Refactoring: Improving the Design of Existing Code
+        * Martin Fowler
+    :music:
+        * Black Sabbath
+        * Raul Seixas
+    :movie:
+        * Iron Man
+        * Exterminador do Futuro
+        * De Volta Para o Futuro
+        * Cobra
 
 Links
 -----
@@ -79,6 +83,7 @@ Links
 
 .. Mentioned
 .. _Episódio 56: http://castalio.info/episodio-56-splinter.html
+.. _Black Sabbath: http://www.last.fm/music/Black+Sabbath
 .. _Splinter: https://github.com/cobrateam/splinter
 .. _Tsuru: https://github.com/tsuru/tsuru
 .. _Travis: http://travis-ci.org/cobrateam/splinter
@@ -94,23 +99,6 @@ Links
 .. _AngularJS: http://angularjs.org/
 .. _Yipit: http://yipit.com/
 .. _JQuery: http://jquery.com/
-
-.. Top 5
-.. _Guía do Muchileiro das Galáxias: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
-.. _O Estilho de Cristal: https://www.goodreads.com/book/show/66693.The_Crystal_Shard
-.. _R. A. Salvatore: https://www.goodreads.com/author/show/1023510.R_A_Salvatore
-.. _Agile Software Development, Principles, Patterns, and Practices: https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices
-.. _Uncle Bob: https://www.goodreads.com/author/show/45372.Robert_C_Martin
-.. _Refactoring\: Improving the Design of Existing Code: https://www.goodreads.com/book/show/44936.Refactoring
-.. _Martin Fowler: https://www.goodreads.com/author/show/25215.Martin_Fowler
-.. _Black Sabath: http://www.last.fm/music/Black+Sabbath
-.. _Raul Seixas: http://www.last.fm/music/Raul+Seixas
-.. _Exterminador do Futuro: http://www.imdb.com/title/tt0088247/
-.. _De Volta para o Futuro: http://www.imdb.com/title/tt0088763/
-.. _Iron Man: http://www.imdb.com/title/tt0371746/
-.. _Cobra: http://www.imdb.com/title/tt0090859
-.. _Git: Git
-.. _Vi: https://en.wikipedia.org/wiki/Vi
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
