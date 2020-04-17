@@ -50,22 +50,27 @@ Resumo
 -  **Top 5** 22:01
 -  **Conclusão** 27:22
 
-Top 5
------
--  **Música:** `Toccata und Fuge`_
--  **Música:** `Asia`_
--  **Música:** `Racionais Mc`_
--  **Música:** `Facção Central`_
--  **Música:** `Clara Nunes`_
--  **Música:** `Jacob do Bandolim`_
--  **Filmes:** `O Poderoso Chefão`_
--  **Filmes:** `Runaway Train`_
--  **Filmes:** `Emperor of the North`_
--  **Livros:** `UNIX Network Programming - The sockets networking API`_
--  **Livros:** `Inverted World`_
--  **Livros:** `The smartest guys in the room`_
--  **Livros:** `No One Would Listen - A True Financial Thriller`_
--  **Livros:** `A ditadura derrotada`_
+
+.. top5::
+
+    :music:
+        * Johann Sebastian Bach - Toccata and Fugue in D Minor, BWV 565
+        * Asia
+        * Racionais Mc's
+        * Facção Central
+        * Clara Nunes
+        * Jacob Do Bandolim
+    :movie:
+        * O Poderoso Chefão
+        * Runaway Train
+        * Emperor of the North
+    :book:
+        * UNIX Network Programming, Volume 1: The Sockets Networking API
+        * The Inverted World
+        * The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron
+        * No One Would Listen
+        * A Ditadura Derrotada
+
 
 Links
 -----
@@ -96,20 +101,6 @@ Links
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 
 
-.. _Toccata und Fuge: http://www.last.fm/search?q=Toccata+und+Fuge
-.. _Asia: http://www.last.fm/search?q=Asia
-.. _Racionais Mc: http://www.last.fm/search?q=Racionais+Mc
-.. _Facção Central: http://www.last.fm/search?q=Facção+Central
-.. _Clara Nunes: http://www.last.fm/search?q=Clara+Nunes
-.. _Jacob do Bandolim: http://www.last.fm/search?q=Jacob+do+Bandolim
-.. _O Poderoso Chefão: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão
-.. _Runaway Train: http://www.imdb.com/find?s=all&q=Runaway+Train
-.. _Emperor of the North: http://www.imdb.com/find?s=all&q=Emperor+of+the+Noth
-.. _UNIX Network Programming - The sockets networking API: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=UNIX+Network+Programming:+The+sockets+networking+API
-.. _Inverted World: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Inverted+World
-.. _The smartest guys in the room: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+smartest+guys+in+the+room
-.. _No One Would Listen - A True Financial Thriller: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=No+One+Would+Listen:+A+True+Financial+Thriller
-.. _A ditadura derrotada: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+ditadura+derrotada
 .. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux
 .. _Revista do Linux: https://duckduckgo.com/?q=Revista+do+Linux
 .. _Red Hat Linux: https://duckduckgo.com/?q=Red+Hat+Linux

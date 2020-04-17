@@ -1,5 +1,20 @@
 {
   "book": {
+    "A Ditadura Derrotada": {
+      "url": "https://www.goodreads.com/book/show/1866587.A_Ditadura_Derrotada"
+    },
+    "No One Would Listen": {
+      "url": "https://www.goodreads.com/book/show/7740121-no-one-would-listen"
+    },
+    "The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron": {
+      "url": "https://www.goodreads.com/book/show/113576.The_Smartest_Guys_in_the_Room"
+    },
+    "The Inverted World": {
+      "url": "https://www.goodreads.com/book/show/142181.The_Inverted_World"
+    },
+    "UNIX Network Programming, Volume 1: The Sockets Networking API": {
+      "url": "https://www.goodreads.com/book/show/239240.UNIX_Network_Programming_Volume_1"
+    },
     "Dragons of Eden": {
       "url": "https://www.goodreads.com/book/show/32276.Dragons_of_Eden"
     },
@@ -880,6 +895,12 @@
     }
   },
   "movie": {
+    "Emperor of the North": {
+      "url": "https://www.imdb.com/title/tt0070030/"
+    },
+    "Runaway Train": {
+      "url": "https://www.imdb.com/title/tt0089941/"
+    },
     "Life on Mars": {
       "url": "https://www.imdb.com/title/tt0478942/"
     },
