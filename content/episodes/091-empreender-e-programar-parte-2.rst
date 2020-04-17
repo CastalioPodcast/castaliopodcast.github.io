@@ -80,12 +80,18 @@ Segue a lista de links que comentamos no episódio:
 * `Pivotal`_
 * `Modern Agile`_
 
-Top 5
------
 
-* `Rework`_
+.. top5::
+
+    :book:
+        * Rework
+    :site:
+        * Hacker News
+
+Top 5 Extra
+-----------
+
 * `ABC (always be closing ou always be coding)`_
-* `Hacker News`_
 * Não seja sacana ou Don't be evil!
 * Não convide um sócio técnico por 0.5%
 
@@ -134,9 +140,7 @@ Ainda não ouviu? escute agora!
 .. _Jira: https://www.atlassian.com/software/jira
 .. _Pivotal: https://pivotal.io/
 .. _Modern Agile: http://modernagile.org/
-.. _Rework: https://www.goodreads.com/book/show/6732019-rework
 .. _ABC (always be closing ou always be coding): https://www.youtube.com/watch?v=v9XW6P0tiVc
-.. _Hacker News: https://news.ycombinator.com/
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
