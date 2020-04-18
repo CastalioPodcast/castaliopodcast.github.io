@@ -19,6 +19,9 @@
     }
   },
   "book": {
+    "De Alma para Alma": {
+      "url": "https://duckduckgo.com/?q=De+Alma+para+Alma+Huberto+Rohden"
+    },
     "Programando em Lua": {
       "url": "http://www.grupogen.com.br/programando-em-lua?code=luaorg"
     },
@@ -917,6 +920,9 @@
     }
   },
   "movie": {
+    "Sessão da Tarde": {
+      "url": "https://pt.wikipedia.org/wiki/Sess%C3%A3o_da_Tarde"
+    },
     "Quentin Tarantino": {
       "url": "https://www.imdb.com/name/nm0000233/"
     },
@@ -2859,6 +2865,24 @@
     },
     "Lua BR (lista de email pt_BR)": {
       "url": "http://www.lua.org/lua-br.html"
+    },
+    "Documentação do Go": {
+      "url": "https://golang.org/doc/"
+    },
+    "Go Hands On": {
+      "url": "https://github.com/crgimenes/Go-Hands-On"
+    },
+    "Awesome Go": {
+      "url": "https://github.com/avelino/awesome-go"
+    },
+    "Go by Example": {
+      "url": "https://gobyexample.com/"
+    },
+    "Go Programming (video de introdução a linguagem)": {
+      "url": "https://www.youtube.com/watch?v=CF9S4QZuV30"
+    },
+    "Full Stack Development With Go": {
+      "url": "https://www.youtube.com/watch?v=liL20kmhcwo"
     }
   }
 }

@@ -98,104 +98,109 @@ Como o Castálio não seria o Castálio se não fosse pelo Top 5, não poderíam
 deixar ele de lado. Aliás, podemos considerar que foi um Top 15, já que o Bruno
 Rocha, o Elyézer Rezende e o Og Maciel fizeram seu Top 5.
 
-Top 5
------
+.. top5:: Top 5 Bruno Rocha
 
-Bruno Rocha
-+++++++++++
+    :book:
+        * De Alma para Alma
+        * O Triste Fim de Policarpo Quaresma
+        * The Paradox of Choice
+        * A Politica Sexual Da Carne
+        * Programming in Lua
+        * Python Essential Reference
+    :music:
+        * Anathema
+        * Jethro Tull
+        * Black Sabbath
+        * Kreator
+        * Nicola Arigliano
+    :movie:
+        * O Poderoso Chefão
+        * Scarface
+        * Cinema Paradiso
+        * The Office
+        * Derek
+        * Charlie Chaplin - O Grande Ditador
 
-* **Livro**: `De Alma para Alma <https://duckduckgo.com/?q=De+Alma+para+Alma+Huberto+Rohden>`_
-* **Livro**: `O Triste Fim de Policarpo Quaresma <https://www.goodreads.com/book/show/830875.O_Triste_Fim_de_Policarpo_Quaresma>`_
-* **Livro**: `The Paradox of Choice <https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice>`_
-* **Livro**: `A Politica Sexual Da Carne <https://www.goodreads.com/book/show/24263517-a-politica-sexual-da-carne>`_
-* **Livro**: `Programming in Lua <https://www.goodreads.com/book/show/1332383.Programming_in_Lua>`_
-* **Livro**: `Python Essential Reference <https://www.goodreads.com/book/show/80444.Python_Essential_Reference>`_
-* **Música**: `Anathema <https://www.last.fm/music/Anathema>`_
-* **Música**: `Jethro Tull <https://www.last.fm/music/Jethro+Tull>`_
-* **Música**: `Black Sabbath <https://www.last.fm/music/Black+Sabbath>`_
-* **Música**: `Kreator <https://www.last.fm/music/Kreator>`_
-* **Música**: `Nicola Arigliano <https://www.last.fm/music/Nicola+Arigliano>`_
-* **Filme**: `O Poderoso Chefão <http://www.imdb.com/title/tt0068646/>`_
-* **Filme**: `Scarface <http://www.imdb.com/title/tt0086250/>`_
-* **Filme**: `Cinema Paradiso <http://www.imdb.com/title/tt0095765/>`_
-* **Filme**: `The Office <http://www.imdb.com/title/tt0386676/>`_
-* **Filme**: `Derek <http://www.imdb.com/title/tt2616280/>`_
-* **Filme**: `Charlie Chaplin - O Grande Ditador <http://www.imdb.com/title/tt0032553/>`_
 
-Elyézer Rezende
-+++++++++++++++
+.. top5:: Top 5 Elyézer Rezende
 
-* **Livro**: `O Monge e o Executivo <https://www.goodreads.com/book/show/3159713-o-monge-e-o-executivo>`_
-* **Livro**: `O Conselheiro <https://www.goodreads.com/book/show/1873060.The_Go_Giver>`_
-* **Livro**: `Mergulhando no Python <https://www.goodreads.com/book/show/24038.Dive_Into_Python>`_
-* **Livro**: `Aprendendo Python <https://www.goodreads.com/book/show/25834332-aprendendo-python>`_
-* **Livro**: `Pratical Vim <https://www.goodreads.com/book/show/13607232-practical-vim>`_
-* **Livro**: `Fluent Python <https://www.goodreads.com/book/show/22800567-fluent-python>`_
-* **Livro**: `Expressões Regulares <https://www.goodreads.com/book/show/9633168-express-es-regulares>`_
-* **Música**: `Linkin Park <https://www.last.fm/music/Linkin+Park>`_
-* **Música**: `Fort Minor <https://www.last.fm/music/Fort+Minor>`_
-* **Música**: `Hardwell <https://www.last.fm/music/Hardwell>`_
-* **Música**: `Nicky Romero <https://www.last.fm/music/Nicky+Romero>`_
-* **Música**: `W&W <https://www.last.fm/music/W&W>`_
-* **Música**: `Queen <https://www.last.fm/music/Queen>`_
-* **Música**: `Scorpions <https://www.last.fm/music/Scorpions>`_
-* **Música**: `Michael Jackson <https://www.last.fm/music/Michael+Jackson>`_
-* **Música**: `2Cellos <https://www.last.fm/music/2cellos>`_
-* **Filme**: `Avengers <http://www.imdb.com/title/tt0848228/>`_
-* **Filme**: `A Espera de um Milagre <http://www.imdb.com/title/tt0120689/>`_
-* **Filme**: `A Onda <http://www.imdb.com/title/tt1063669/>`_
-* **Filme**: `O Menino do Pijama Listrado <http://www.imdb.com/title/tt0914798/>`_
-* **Filme**: `Matrix <http://www.imdb.com/title/tt0133093/>`_
-* **Filme**: `Batman <http://www.imdb.com/title/tt0372784/>`_
-* **Filme**: `Vikings <http://www.imdb.com/title/tt2306299/>`_
-* **Filme**: `The Flash <http://www.imdb.com/title/tt3107288/>`_
-* **Filme**: `Arrow <http://www.imdb.com/title/tt2193021/>`_
-* **Filme**: `Luke Cage <http://www.imdb.com/title/tt3322314/>`_
-* **Filme**: `Demolidor <http://www.imdb.com/title/tt3322312/>`_
-* **Filme**: `Van Helsing <http://www.imdb.com/title/tt5197820/>`_
-* **Filme**: `Dragon Ball Z <http://www.imdb.com/title/tt0121220/>`_
-* **Filme**: `Os Cavaleiros do Zodíaco <http://www.imdb.com/title/tt0161952/>`_
-* **Filme**: `Charlie Chaplin - Tempos Modernos <http://www.imdb.com/title/tt0027977/>`_
+    :book:
+        * O Monge e o Executivo
+        * O Conselheiro
+        * Dive into Python
+        * Aprendendo Python
+        * Practical Vim
+        * Python Fluente
+        * Expressões Regulares
+    :music:
+        * Linkin Park
+        * Fort Minor
+        * Hardwell
+        * Nicky Romero
+        * W&W
+        * Queen
+        * Scorpions
+        * Michael Jackson
+        * 2Cellos
+    :movie:
+        * Avengers
+        * A Espera de um Milagre
+        * A Onda
+        * O Menino do Pijama Listrado
+        * The Matrix
+        * Batman
+        * Vikings
+        * The Flash
+        * Arrow
+        * Luke Cage
+        * Demolidor
+        * Van Helsing
+        * Dragon Ball Z
+        * Os Cavaleiros do Zodíaco
+        * Charlie Chaplin - Tempos Modernos
 
-Og Maciel
-+++++++++
 
-* **Livro**: `Os Meninos da Rua Paulo <https://www.goodreads.com/book/show/6250312-os-meninos-da-rua-paulo>`_
-* **Livro**: `Dandelion Wine <https://www.goodreads.com/book/show/50033.Dandelion_Wine>`_
-* **Livro**: `As Vinhas da Ira <https://www.goodreads.com/book/show/6294159-as-vinhas-da-ira>`_
-* **Livro**: `Dom Casmurro <https://www.goodreads.com/book/show/82888.Dom_Casmurro>`_
-* **Livro**: `Capitães da Areia <https://www.goodreads.com/book/show/723456.Capit_es_da_Areia>`_
-* **Livro**: `Maria José Dupré <https://www.goodreads.com/author/show/1357307.Maria_Jos_Dupr_>`_
-* **Livro**: `Monteiro Lobato <https://www.goodreads.com/author/show/2450573.Monteiro_Lobato>`_
-* **Livro**: `Série Vaga-lume <https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume>`_
-* **Livro**: `Série Vaga-lume <https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume>`_
-* **Livro**: `Turma da Mônica <https://www.goodreads.com/book/show/3620538-as-tiras-cl-ssicas-da-turma-da-m-nica>`_
-* **Livro**: `Tio Patinhas <https://www.goodreads.com/book/show/23293716-tio-patinhas>`_
-* **Livro**: `Tex <https://www.goodreads.com/book/show/30309481-tex-graphic-novel-1>`_
-* **Livro**: `Ken Parker <https://www.goodreads.com/book/show/13558175-ken-parker>`_
-* **Livro**: `Zagor <https://www.goodreads.com/book/show/6600147-zagor-n-1>`_
-* **Livro**: `Jules Verne <https://www.goodreads.com/author/show/696805.Jules_Verne>`_
-* **Livro**: `Isaac Asimov <https://www.goodreads.com/author/show/16667.Isaac_Asimov>`_
-* **Música**: `Legião Urbana <https://www.last.fm/music/Legi%C3%A3o+Urbana>`_
-* **Música**: `Dire Straits <https://www.last.fm/music/Dire+Straits>`_
-* **Música**: `Engenheiros do Hawaii <https://www.last.fm/music/Engenheiros+Do+Hawaii>`_
-* **Música**: `Os Paralamas do Sucesso <https://www.last.fm/music/Os+Paralamas+Do+Sucesso>`_
-* **Música**: `Pink Floyd <https://www.last.fm/music/Pink+Floyd>`_
-* **Música**: `Led Zeppelin <https://www.last.fm/music/Led+Zeppelin>`_
-* **Música**: `Nirvana <https://www.last.fm/music/Nirvana>`_
-* **Música**: `Ella Fitzgerald <https://www.last.fm/music/Ella+Fitzgerald>`_
-* **Música**: `Etta James <https://www.last.fm/music/Etta+James>`_
-* **Filme**: `Blade Runner <http://www.imdb.com/title/tt0083658/>`_
-* **Filme**: `Pulp Fiction <http://www.imdb.com/title/tt0110912/>`_
-* **Filme**: `Snatch <http://www.imdb.com/title/tt0208092/>`_
-* **Filme**: `The Big Lebowski <http://www.imdb.com/title/tt0118715/>`_
-* **Filme**: `O Brother, Where Art Thou? <http://www.imdb.com/title/tt0190590/>`_
-* **Filme**: `The Good, The Bad and The Ugly <http://www.imdb.com/title/tt0060196/>`_
-* **Filme**: `Beau Geste <http://www.imdb.com/title/tt0060155/>`_
-* **Filme**: `Caverna do Dragão <http://www.imdb.com/title/tt0085011/>`_
-* **Filme**: `Sessão da Tarde <https://pt.wikipedia.org/wiki/Sess%C3%A3o_da_Tarde>`_
-* **Filme**: `Sítio do Pica-Pau Amarelo <http://www.imdb.com/title/tt0149528/>`_
-* **Filme**: `Os Trapalhões <http://www.imdb.com/title/tt0143073/>`_
+.. top5:: Top 5 Og Maciel
+
+    :book:
+        * Os Meninos da Rua Paulo
+        * Dandelion Wine
+        * As Vinhas da Ira
+        * Dom Casmurro
+        * Capitães da Areia
+        * Maria José Dupré
+        * Monteiro Lobato
+        * Série Vaga-lume
+        * Série Vaga-lume
+        * Turma da Mônica
+        * Tio Patinhas
+        * Tex
+        * Ken Parker
+        * Zagor
+        * Jules Verne
+        * Isaac Asimov
+    :music:
+        * Legião Urbana
+        * Dire Straits
+        * Engenheiros do Hawaii
+        * Os Paralamas do Sucesso
+        * Pink Floyd
+        * Led Zeppelin
+        * Nirvana
+        * Ella Fitzgerald
+        * Etta James
+    :movie:
+        * Blade Runner
+        * Pulp Fiction
+        * Snatch
+        * The Big Lebowski
+        * O Brother, Where Art Thou?
+        * The Good, The Bad and The Ugly
+        * Beau Geste
+        * Caverna do Dragão
+        * Sessão da Tarde
+        * Sítio do Pica-Pau Amarelo
+        * Os Trapalhões
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que de
 alguma forma fizeram parte do Castálio Podcast nesses 6 anos. Não deixe de
