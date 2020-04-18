@@ -109,19 +109,22 @@ Listen Now (Escute Agora)
 
 .. podcast:: castalio-podcast-83
 
-Top 5
------
-* **Music (Música)**: `Tyler Yarema <http://www.last.fm/music/Tyler+Yarema>`_
-* **Music (Música)**: `Chali 2na <http://www.last.fm/pt/music/Chali+2na>`_
-* **Music (Música)**: `Ghislain Poirier <http://www.last.fm/music/Ghislain+Poirier>`_
-* **Music (Música)**: `Chinese Man <http://www.last.fm/music/Chinese+Man>`_
-* **Book (Livro)**: `Dan Simmons <https://www.goodreads.com/author/show/2687.Dan_Simmons>`_
-* **Book (Livro)**: `Terry Pratchett <https://www.goodreads.com/author/show/1654.Terry_Pratchett>`_
-* **Book (Livro)**: `Warren Ellis <https://www.goodreads.com/author/show/12772.Warren_Ellis>`_
-* **Book (Livro)**: `Ed Brubaker <https://www.goodreads.com/author/show/37450.Ed_Brubaker>`_
-* **Book (Livro)**: `Philip K. Dick <https://www.goodreads.com/author/show/4764.Philip_K_Dick>`_
-* **Movie (Filme)**: `Free to Run <http://www.imdb.com/title/tt3530882/>`_
-* **Movie (Filme)**: `Summits of My Life: A Fine Line <http://www.imdb.com/title/tt2625054/>`_
+.. top5::
+
+    :music:
+        * Tyler Yarema
+        * Chali 2na
+        * Ghislain Poirier
+        * Chinese Man
+    :book:
+        * Dan Simmons
+        * Terry Pratchett
+        * Warren Ellis
+        * Ed Brubaker
+        * Philip K. Dick
+    :movie:
+        * Free to Run
+        * Summits of My Life: A Fine Line
 
 Links
 -----

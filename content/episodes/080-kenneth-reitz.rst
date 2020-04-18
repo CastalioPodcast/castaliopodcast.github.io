@@ -131,29 +131,32 @@ Listen Now (Escute Agora)
 
 .. podcast:: castalio-podcast-80
 
-Top 5
------
-* **Book (Livro)**: `Hermetica <https://www.goodreads.com/book/show/681667.Hermetica>`_
-* **Book (Livro)**: `The Book of the Law <https://www.goodreads.com/book/show/123653.The_Book_of_the_Law>`_
-* **Book (Livro)**: `Kybalion <https://www.goodreads.com/book/show/1363427.Kybalion>`_
-* **Book (Livro)**: `Ashtanga Yoga <https://www.goodreads.com/book/show/25070646-ashtanga-yoga>`_
-* **Book (Livro)**: `The Hitchhiker's Guide to the Galaxy <https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy>`_
-* **Book (Livro)**: `Einstein's Dreams <https://www.goodreads.com/book/show/14376.Einstein_s_Dreams>`_
-* **Music (Música)**: `Tool - Lateralus <http://www.last.fm/music/Tool/_/Lateralus>`_
-* **Music (Música)**: `Kanye West <http://www.last.fm/music/Kanye+West>`_
-* **Music (Música)**: `Rage Against the Machine album <http://www.last.fm/music/Rage+Against+the+Machine/Rage+Against+the+Machine>`_
-* **Music (Música)**: `Linkin Park - Hybrid Theory <ihttp://www.last.fm/music/Linkin+Park/Hybrid+Theory>`_
-* **Music (Música)**: `311 <http://www.last.fm/music/311>`_
-* **Movie (Filme)**: `The Matrix <http://www.imdb.com/title/tt0133093>`_
-* **Movie (Filme)**: `Dark City <http://www.imdb.com/title/tt0118929/>`_
-* **Movie (Filme)**: `Doctor Strange <http://www.imdb.com/title/tt1211837/>`_
-* **Movie (Filme)**: `Arrival <http://www.imdb.com/title/tt2543164/>`_
-* **Movie (Filme)**: `Anchorman <http://www.imdb.com/title/tt0357413/>`_
-* **Movie (Filme)**: `Tropic Thunder <http://www.imdb.com/title/tt0942385/>`_
-* **Movie (Filme)**: `Waking Life <http://www.imdb.com/title/tt0243017/>`_
-* **Movie (Filme)**: `Talladega Nights <http://www.imdb.com/title/tt0415306/>`_
-* **Movie (Filme)**: `Hercules <http://www.imdb.com/title/tt0119282/>`_
-* **Movie (Filme)**: `The Prince of Egypt <http://www.imdb.com/title/tt0120794/>`_
+.. top5::
+
+    :book:
+        * Hermetica
+        * The Book of the Law
+        * Kybalion
+        * Ashtanga Yoga
+        * O Guia do Mochileiro das Galáxias
+        * Einstein's Dreams
+    :music:
+        * Tool - Lateralus
+        * Kanye West
+        * Rage Against the Machine album
+        * Linkin Park - Hybrid Theory
+        * 311
+    :movie:
+        * The Matrix
+        * Dark City
+        * Doctor Strange
+        * Arrival
+        * Anchorman
+        * Tropic Thunder
+        * Waking Life
+        * Talladega Nights
+        * Hercules
+        * The Prince of Egypt
 
 Links
 -----

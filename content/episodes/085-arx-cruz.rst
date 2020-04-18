@@ -70,24 +70,27 @@ Escute Agora
 
 .. podcast:: castalio-podcast-85
 
-Top 5
------
-* **Livro**: `Agatha Christie <https://www.goodreads.com/author/show/123715.Agatha_Christie>`_
-* **Livro**: `Os Elefantes Não Esquecem <https://www.goodreads.com/book/show/23012036-os-elefantes-n-o-esquecem>`_
-* **Livro**: `O Diário de um Mago <https://www.goodreads.com/book/show/68887.O_Di_rio_de_um_Mago>`_
-* **Livro**: `Na Margem Do Rio Piedra Eu Sentei e Chorei <https://www.goodreads.com/book/show/6313361-na-margem-do-rio-piedra-eu-sentei-e-chorei>`_
-* **Livro**: `Expressões Regulares <https://www.goodreads.com/book/show/9633168-express-es-regulares>`_
-* **Livro**: `Fluent Python <https://www.goodreads.com/book/show/22800567-fluent-python>`_
-* **Livro**: `Revistas do Batman <https://www.goodreads.com/book/show/59980.Batman>`_
-* **Filme**: `Vidas em Jogo <http://www.imdb.com/title/tt0119174/>`_
-* **Filme**: `Amor Além da Vida <http://www.imdb.com/title/tt0120889/>`_
-* **Filme**: `Matrix <http://www.imdb.com/title/tt0133093/>`_
-* **Filme**: `O Senhor dos Anéis <http://www.imdb.com/title/tt0120737/>`_
-* **Música**: `Bohemian Rhapsody - Queen <http://www.last.fm/music/Queen/_/Bohemian+Rhapsody>`_
-* **Música**: `November Rain <http://www.last.fm/music/Guns+N%27+Roses/_/November+Rain>`_
-* **Música**: `Hurricane - Bob Dylan <http://www.last.fm/music/Bob+Dylan/_/Hurricane>`_
-* **Música**: `Faroeste Caboclo <http://www.last.fm/music/Legi%C3%A3o+Urbana/_/Faroeste+Caboclo>`_
-* **Música**: `Águas de Março <http://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/%C3%81guas+de+mar%C3%A7o>`_
+.. top5::
+
+    :book:
+        * Agatha Christie
+        * Os Elefantes Não Esquecem
+        * O Diário de um Mago
+        * Na Margem Do Rio Piedra Eu Sentei e Chorei
+        * Expressões Regulares
+        * Python Fluente
+        * Revistas do Batman
+    :movie:
+        * Vidas em Jogo
+        * Amor Além da Vida
+        * The Matrix
+        * O Senhor dos Anéis
+    :music:
+        * Queen - Bohemian Rhapsody
+        * Guns N' Roses - November Rain
+        * Bob Dylan - Hurricane
+        * Legião Urbana - Faroeste Caboclo
+        * Antônio Carlos Jobim - Águas de Março
 
 Links
 -----
