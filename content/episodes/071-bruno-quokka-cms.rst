@@ -64,40 +64,43 @@ Escute Agora
 
 .. podcast:: castalio-podcast-71
 
-Top 5
------
-* **Livros**: `Série Vagalume`_
-* **Livros**: `De Alma para Alma`_
-* **Livros**: `O Zoo Humano`_
-* **Livros**: `O Macaco Nu`_
-* **Livros**: `The Pragmatic Programmer`_
-* **Livros**: `Programming in Lua`_
-* **Livros**: `Python Essential Reference`_
-* **Música**: `Ozzy Osbourne`_
-* **Música**: `Jethro Tull`_
-* **Música**: `Yes`_
-* **Música**: `Alan Parsons`_
-* **Música**: `Anathema`_
-* **Música**: `Pain of Salvation`_
-* **Música**: `Dream Theather`_
-* **Música**: `Morcheeba`_
-* **Música**: `Lambchop`_
-* **Música**: `Massive Attack`_
-* **Música**: `Belchior`_
-* **Música**: `Clube da Esquina`_
-* **Música**: `Milton Nacimento`_
-* **Música**: `Kleiton e Kledir`_
-* **Filme**: `Earthlings (Terráqueos)`_
-* **Filme**: `O poderoso chefão`_
-* **Filme**: `Scarface`_
-* **Filme**: `Ladrões de Bicicleta`_
-* **Filme**: `Tempos Modernos`_
-* **Filme**: `O Grande Hotel Budapeste`_
-* **Série**: `Derek`_
-* **Série**: `The Borgias`_
-* **Série**: `The Office (America)`_
-* **Série**: `The I.T Crowd`_
-* **Série**: `Mr. Robot`_
+.. top5::
+
+    :book:
+        * Série Vaga-lume
+        * De Alma para Alma
+        * O Zoo Humano
+        * O Macaco Nu
+        * The Pragmatic Programmer
+        * Programming in Lua
+        * Python Essential Reference
+    :music:
+        * Ozzy Osbourne
+        * Jethro Tull
+        * Yes
+        * Alan Parsons
+        * Anathema
+        * Pain of Salvation
+        * Dream Theater
+        * Morcheeba
+        * Lambchop
+        * Massive Attack
+        * Belchior
+        * Clube da Esquina
+        * Milton Nacimento
+        * Kleiton e Kledir
+    :movie:
+        * Earthlings (Terráqueos)
+        * O Poderoso Chefão
+        * Scarface
+        * Ladrões de Bicicleta
+        * Tempos Modernos
+        * O Grande Hotel Budapeste
+        * Derek
+        * The Borgias
+        * The Office (America)
+        * The IT Crowd
+        * Mr. Robot
 
 Links
 -----
@@ -131,40 +134,6 @@ Links
 .. _Quokka CMS: http://quokkaproject.org/
 .. _Swagger: http://swagger.io/
 .. _What the Flask: http://pythonclub.com.br/tag/what-the-flask.html
-
-.. Top 5
-.. _Série Vagalume: https://pt.wikipedia.org/wiki/Lista_de_volumes_da_S%C3%A9rie_Vaga-Lume
-.. _De Alma para Alma: http://pt.slideshare.net/universalismocultura/huberto-rohden-de-alma-para-alma
-.. _O Zoo Humano: https://www.goodreads.com/book/show/12936088-o-zoo-humano
-.. _O Macaco Nu: https://www.goodreads.com/book/show/9062565-o-macaco-nu
-.. _The Pragmatic Programmer: https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer
-.. _Programming in Lua: https://www.goodreads.com/book/show/1332383.Programming_in_Lua
-.. _Python Essential Reference: https://www.goodreads.com/book/show/80444.Python_Essential_Reference
-.. _Ozzy Osbourne: http://www.last.fm/music/Ozzy+Osbourne
-.. _Jethro Tull: http://www.last.fm/music/Jethro+Tull
-.. _Yes: http://www.last.fm/music/Yes
-.. _Alan Parsons: http://www.last.fm/music/Alan+Parsons
-.. _Anathema: http://www.last.fm/music/Anathema
-.. _Pain of Salvation: http://www.last.fm/music/Pain+of+Salvation
-.. _Dream Theather: http://www.last.fm/music/Dream+Theater
-.. _Morcheeba: http://www.last.fm/music/Morcheeba
-.. _Lambchop: http://www.last.fm/music/Lambchop
-.. _Massive Attack: http://www.last.fm/music/Massive+Attack
-.. _Belchior: http://www.last.fm/music/Belchior
-.. _Clube da Esquina: http://www.last.fm/music/Clube+da+Esquina
-.. _Milton Nacimento: http://www.last.fm/music/Milton+Nascimento
-.. _Kleiton e Kledir: http://www.last.fm/music/Kleiton+&+Kledir
-.. _Earthlings (Terráqueos): http://www.terraqueos.org/
-.. _O poderoso chefão: http://www.imdb.com/title/tt0068646/
-.. _Scarface: http://www.imdb.com/title/tt0086250/
-.. _Ladrões de Bicicleta: http://www.imdb.com/title/tt0040522/
-.. _Tempos Modernos: http://www.imdb.com/title/tt0027977/
-.. _O Grande Hotel Budapeste: http://www.imdb.com/title/tt2278388/
-.. _Derek: http://www.imdb.com/title/tt2616280/
-.. _The Borgias: http://www.imdb.com/title/tt1582457/
-.. _The Office (America): http://www.imdb.com/title/tt0386676/
-.. _The I.T Crowd: http://www.imdb.com/title/tt0487831/
-.. _Mr. Robot: http://www.imdb.com/title/tt4158110/
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

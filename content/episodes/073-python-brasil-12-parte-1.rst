@@ -81,16 +81,23 @@ Escute Agora
 
 .. podcast:: castalio-podcast-73
 
-Top 1 Mário Sergio
-------------------
-* **Filme**: `A Espera de um Milagre <http://www.imdb.com/title/tt0120689/>`_
-* **Música**: `Legião Urbana <http://www.last.fm/music/Legi%C3%A3o+Urbana>`_
-* **Livro**: `O Caçador de Pipas <https://www.goodreads.com/book/show/65438.O_Ca_ador_de_Pipas>`_
+.. top5:: Top 1 Mário Sergio
 
-Top 1 Naomi Ceder
------------------
-* **Música**: `Florence + the Machine <http://www.last.fm/music/Florence+%252B+the+Machine>`_
-* **Livro**: `Confessions of a Necromancer <https://www.goodreads.com/book/show/32326166-confessions-of-a-necromancer>`_
+    :movie:
+        * A Espera de um Milagre
+    :music:
+        * Legião Urbana
+    :book:
+        * O Caçador de Pipas
+
+
+.. top5:: Top 1 Naomi Ceder
+
+    :music:
+        * Florence + the Machine
+    :book:
+        * Confessions of a Necromancer
+
 
 Links
 -----

@@ -19,6 +19,9 @@
     }
   },
   "book": {
+    "Princípios, Padrões e Práticas Ágeis em C#": {
+      "url": "https://www.goodreads.com/book/show/30255258-princ-pios-padr-es-e-pr-ticas-geis-em-c"
+    },
     "De Alma para Alma": {
       "url": "https://duckduckgo.com/?q=De+Alma+para+Alma+Huberto+Rohden"
     },
@@ -920,6 +923,9 @@
     }
   },
   "movie": {
+    "Earthlings (Terráqueos)": {
+      "url": "http://www.terraqueos.org/"
+    },
     "Sessão da Tarde": {
       "url": "https://pt.wikipedia.org/wiki/Sess%C3%A3o_da_Tarde"
     },

@@ -76,21 +76,23 @@ Escute Agora
 
 .. podcast:: castalio-podcast-78
 
-Top 5
------
-* **Música**: `Pink Floyd - Dark Side of the Moon <http://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon>`_
-* **Música**: `Pink Floyd - Time <http://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon/Time>`_
-* **Música**: `Ludwig van Beethoven <http://www.last.fm/music/Ludwig+van+Beethoven>`_
-* **Música**: `Wolfgang Amadeus Mozart <http://www.last.fm/music/Wolfgang+Amadeus+Mozart>`_
-* **Música**: `Johann Sebastian Bach <http://www.last.fm/music/Johann+Sebastian+Bach>`_
-* **Música**: `David Guetta <http://www.last.fm/music/David+Guetta>`_
-* **Música**: `B.B. King <http://www.last.fm/music/B.B.+King>`_
-* **Música**: `Bebel Gilberto - Céu Distante <http://www.last.fm/music/Bebel+Gilberto/_/C%C3%A9u+Distante>`_
-* **Música**: `Morcheeba <http://www.last.fm/music/Morcheeba>`_
-* **Livro**: `The Happiness Hypothesis <https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis>`_
-* **Livro**: `The Lean Startup <https://www.goodreads.com/book/show/10127019-the-lean-startup>`_
-* **Livro**: `Free: The Future of a Radical Price <https://www.goodreads.com/book/show/6150530-free>`_
-* **Livro**: `The Black Swan <https://www.goodreads.com/book/show/242472.The_Black_Swan>`_
+.. top5::
+
+    :music:
+        * Pink Floyd - Dark Side of the Moon
+        * Pink Floyd - Time
+        * Ludwig van Beethoven
+        * Wolfgang Amadeus Mozart
+        * Johann Sebastian Bach
+        * David Guetta
+        * B.B. King
+        * Bebel Gilberto - Céu Distante
+        * Morcheeba
+    :book:
+        * The Happiness Hypothesis
+        * The Lean Startup
+        * Free: The Future of a Radical Price
+        * The Black Swan
 
 Links
 -----

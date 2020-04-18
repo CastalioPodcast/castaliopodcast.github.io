@@ -60,19 +60,22 @@ Escute Agora
 
 .. podcast:: castalio-podcast-79
 
-Top 5
------
-* **Música**: `Korn <http://www.last.fm/pt/music/Korn>`_
-* **Música**: `Black Sabbath <http://www.last.fm/pt/music/Black+Sabbath>`_
-* **Música**: `Foo Fighters <http://www.last.fm/music/Foo+Fighters>`_
-* **Música**: `Slipknot <http://www.last.fm/music/Slipknot>`_
-* **Música**: `Jimmy Hendrix <http://www.last.fm/music/Jimmy+Hendrix>`_
-* **Livro**: `Senhor dos Anéis <https://www.goodreads.com/book/show/7829280-o-senhor-dos-an-is>`_
-* **Livro**: `O Hobbit <http://www.goodreads.com/book/show/5907.The_Hobbit>`_
-* **Livro**: `Principios e Padrões em Práticas Agéis  <http://www.livrariacultura.com.br/p/principios-padroes-e-praticas-ageis-em-c-5100450>`_
-* **Livro**: `Clean Code <http://www.goodreads.com/book/show/3735293-clean-code>`_
-* **Filme** `O Quinto Elemento  <http://www.imdb.com/title/tt0119116/>`_
-* **Filme** `from Sessão da Tarde import *  <https://pt.wikipedia.org/wiki/Sess%C3%A3o_da_Tarde>`_
+.. top5::
+
+    :music:
+        * Korn
+        * Black Sabbath
+        * Foo Fighters
+        * Slipknot
+        * Jimmy Hendrix
+    :book:
+        * O Senhor dos Anéis
+        * O Hobbit
+        * Princípios, Padrões e Práticas Ágeis em C#
+        * Clean Code
+    :movie:
+        * O Quinto Elemento
+        * Sessão da Tarde
 
 Links
 -----

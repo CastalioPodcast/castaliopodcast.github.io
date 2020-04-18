@@ -56,23 +56,27 @@ Escute Agora
 
 .. podcast:: castalio-podcast-72
 
-Top 5
------
-* **Filme**: `A Espera de um Milagre <http://www.imdb.com/title/tt0120689/>`_
-* **Filme**: `Clube da Luta <http://www.imdb.com/title/tt0137523/>`_
-* **Filme**: `O Poderoso Chefão <http://www.imdb.com/title/tt0068646/>`_
-* **Filme**: `Pulp Fiction <http://www.imdb.com/title/tt0110912/>`_
-* **Música**: `AC/DC <http://www.last.fm/music/AC%2FDC>`_
-* **Música**: `B.B. King <http://www.last.fm/music/B.B.+King>`_
-* **Música**: `Jimi Hendrix <http://www.last.fm/music/Jimi+Hendrix>`_
-* **Música**: `Stevie Ray <http://www.last.fm/music/Stevie+Ray+Vaughan>`_
-* **Música**: `Tenatious D <http://www.last.fm/music/Tenacious+D>`_
-* **Quadrinhos**: `Hellblazer <https://www.goodreads.com/book/show/133017.Hellblazer>`_
-* **Quadrinhos**: `Maus <https://www.goodreads.com/book/show/15196.Maus_I>`_
-* **Quadrinhos**: `The Sandman <https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1>`_
-* **Quadrinhos**: `Watchmen <https://www.goodreads.com/book/show/472331.Watchmen>`_
-* **Série**: `Game of Thrones <http://www.imdb.com/title/tt0944947/>`_
-* **Série**: `Silicon Valley <http://www.imdb.com/title/tt2575988/>`_
+.. top5::
+
+    :movie:
+        * A Espera de um Milagre
+        * Clube da Luta
+        * O Poderoso Chefão
+        * Pulp Fiction
+        * Game of Thrones
+        * Silicon Valley
+    :music:
+        * AC/DC
+        * B.B. King
+        * Jimi Hendrix
+        * Stevie Ray
+        * Tenatious D
+    :book:
+        * Hellblazer
+        * Maus
+        * The Sandman
+        * Watchmen
+
 
 Links
 -----
