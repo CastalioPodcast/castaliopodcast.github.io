@@ -39,32 +39,36 @@ Escute Agora
 
 .. podcast:: castalio-podcast-66
 
-Top 5
------
-* **Livro**: `Thinking, Fast and Slow`_
-* **Livro**: `Ready Player One`_
-* **Livro**: `Harry Potter`_
-* **Livro**: `O Guia do Mochileiro das Galáxias`_
-* **Livro**: `Percy Jackson`_
-* **Música**: `Coldplay`_
-* **Música**: `Maroon 5`_
-* **Música**: `Foo Fighters`_
-* **Música**: `Linkin Park`_
-* **Música**: `Bullet For My Valentine`_
-* **Música**: `Eminem`_
-* **Música**: `Taylor Swift`_
-* **Filme**: `Harry Potter (Filme)`_
-* **Filme**: `Star Wars`_
-* **Filme**: `X-Men`_
-* **Filme**: `Lord of the Rings`_
-* **Filme**: `The Inglorious Basterds`_
-* **Filme**: `Fight Club`_
-* **Filme**: `À Procura da Felicidade`_
-* **Podcast**: `Bad Voltage`_
-* **Podcast**: `Everyday Linux`_
-* **Podcast**: `Hack'n'Cast`_
-* **Podcast**: `Castálio Podcast`_
-* **Podcast**: `Papo Acessível`_
+.. top5::
+
+    :book:
+        * Thinking, Fast and Slow
+        * Ready Player One
+        * Harry Potter
+        * O Guia do Mochileiro das Galáxias
+        * Percy Jackson
+    :music:
+        * Coldplay
+        * Maroon 5
+        * Foo Fighters
+        * Linkin Park
+        * Bullet for My Valentine
+        * Eminem
+        * Taylor Swift
+    :movie:
+        * Harry Potter e a Pedra Filosofal
+        * Star Wars
+        * X-Men
+        * Lord of the Rings
+        * Inglourious Basterds
+        * Fight Club
+        * À Procura da Felicidade
+    :podcast:
+        * Bad Voltage
+        * Everyday Linux
+        * Hack'n'Cast
+        * Castálio Podcast
+        * Papo Acessível
 
 Links
 -----
@@ -72,7 +76,6 @@ Links
 * `The Da Vince Code`_
 * `Emacs`_
 * `GoodReads`_
-* `Harry Potter`_
 * `Haskell`_
 * `Jono Bacon`_
 * `Kindle`_
@@ -108,31 +111,6 @@ Links
 .. _How do I blog with org2blog: https://vimeo.com/108656001
 .. _Vim: http://www.vim.org/
 
-.. Top 5
-.. _Thinking, Fast and Slow: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
-.. _Ready Player One: https://www.goodreads.com/book/show/9969571-ready-player-one
-.. _Harry Potter: https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone
-.. _O Guia do Mochileiro das Galáxias: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
-.. _Percy Jackson: https://www.goodreads.com/book/show/28187.The_Lightning_Thief
-.. _Coldplay: http://www.last.fm/music/Coldplay
-.. _Maroon 5: http://www.last.fm/music/Maroon+5
-.. _Foo Fighters: http://www.last.fm/music/Foo+Fighters
-.. _Linkin Park: http://www.last.fm/music/Linkin+Park
-.. _Bullet for My Valentine: http://www.last.fm/music/Bullet+for+My+Valentine
-.. _Eminem: http://www.last.fm/music/Eminem
-.. _Taylor Swift: http://www.last.fm/music/Taylor+Swift
-.. _Harry Potter (Filme): http://www.imdb.com/title/tt0241527/
-.. _Star Wars: http://www.imdb.com/title/tt0076759/
-.. _X-Men: http://www.imdb.com/title/tt0120903/
-.. _Lord of the Rings: http://www.imdb.com/title/tt0120737/
-.. _The Inglorious Basterds: http://www.imdb.com/title/tt0361748
-.. _Fight Club: http://www.imdb.com/title/tt0137523/
-.. _À Procura da Felicidade: http://www.imdb.com/title/tt0454921/
-.. _Bad Voltage: http://www.badvoltage.org/
-.. _Everyday Linux: http://elementopie.com/everyday-linux-episodes
-.. _Hack'n'Cast: http://hackncast.org/
-.. _Castálio Podcast: http://castalio.info/
-.. _Papo Acessível: https://papoacessivel.com.br/
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

@@ -59,43 +59,47 @@ Escute Agora
 
 .. podcast:: castalio-podcast-68
 
-Top 5
------
-* **Música**: `Ramones`_
-* **Música**: `Bad Religion`_
-* **Música**: `Face To Face`_
-* **Música**: `Lagwagon`_
-* **Música**: `No Fun At All`_
-* **Música**: `Nofx`_
-* **Música**: `Ten Foot Pole`_
-* **Música**: `The Vandals`_
-* **Música**: `Linkin Park`_
-* **Música**: `System of a Down`_
-* **Música**: `Toy Dolls`_
-* **Música**: `Raimundos`_
-* **Música**: `Ultraje a Rigor`_
-* **Música**: `Matanza`_
-* **Música**: `Tequila Baby`_
-* **Música**: `Iron Maiden`_
-* **Música**: `Attaque 77 (Argentina)`_
-* **Música**: `Los Mox (Chile)`_
-* **Música**: `Die Ärzte (Alemanha)`_
-* **Filme**: Documentários
-* **Filme**: Ficção científica
-* **Filme**: Terror
-* **Leitura notícia**: `BR-Linux`_
-* **Leitura notícia**: `Blog MacMagazine`_
-* **Leitura notícia**: `Android Central`_
-* **Leitura notícia**: `Windows Central`_
-* **Leitura programação**: `Coding Horror`_
-* **Leitura programação**: `The Daily WTF`_
-* **Leitura programação**: `Programming in the 21st Century`_
-* **Leitura programação**: `QuirksBlog`_
-* **Podcast**: `Nerdcast`_
-* **Podcast**: `Stuff You Should Know`_
-* **Podcast**: `Accidental Tech Podcast`_
-* **Podcast**: `Debug`_
-* **Podcast**: `Android Developers Backstage`_
+.. top5::
+
+    :music:
+        * Ramones
+        * Bad Religion
+        * Face To Face
+        * Lagwagon
+        * No Fun At All
+        * NOFX
+        * Ten Foot Pole
+        * The Vandals
+        * Linkin Park
+        * System of a Down
+        * Toy Dolls
+        * Raimundos
+        * Ultraje a Rigor
+        * Matanza
+        * Tequila Baby
+        * Iron Maiden
+        * Attaque 77 (Argentina)
+        * Los Mox (Chile)
+        * Die Ärzte (Alemanha)
+    :movie:
+        * Documentários
+        * Ficção Científica
+        * Terror
+    :site:
+        * BR-Linux
+        * Blog MacMagazine
+        * Android Central
+        * Windows Central
+        * Coding Horror
+        * The Daily WTF
+        * Programming in the 21st Century
+        * QuirksBlog
+    :podcast:
+        * Nerdcast
+        * Stuff You Should Know
+        * Accidental Tech Podcast
+        * Debug
+        * Android Developers Backstage
 
 A lista de podcast foi enviada por email e não mencionada no episódio. Mas
 resolvemos adicionar assim mesmo para você conferir o que o Aurelio costuma
@@ -116,39 +120,6 @@ Links
 .. _MoneyLog: http://aurelio.net/moneylog/
 .. _MiGuXeiToR: http://www.coisinha.com.br/miguxeitor/
 
-.. Top 5
-.. _Ramones: http://www.last.fm/music/Ramones
-.. _Bad Religion: http://www.last.fm/music/Bad+Religion
-.. _Face To Face: http://www.last.fm/music/Face+to+Face
-.. _Lagwagon: http://www.last.fm/music/Lagwagon
-.. _No Fun At All: http://www.last.fm/music/No+Fun+at+All
-.. _Nofx: http://www.last.fm/music/NOFX
-.. _Ten Foot Pole: http://www.last.fm/music/Ten+Foot+Pole
-.. _The Vandals: http://www.last.fm/music/The+Vandals
-.. _Linkin Park: http://www.last.fm/music/Linkin+Park
-.. _System of a Down: http://www.last.fm/music/System+of+a+Down
-.. _Toy Dolls: http://www.last.fm/music/The+Toy+Dolls
-.. _Raimundos: http://www.last.fm/music/Raimundos
-.. _Ultraje a Rigor: http://www.last.fm/music/Ultraje+A+Rigor
-.. _Matanza: http://www.last.fm/music/Matanza
-.. _Tequila Baby: http://www.last.fm/music/Tequila+Baby
-.. _Iron Maiden: http://www.last.fm/music/Iron+Maiden
-.. _Attaque 77 (Argentina): http://www.last.fm/music/Attaque+77
-.. _Los Mox (Chile): http://www.last.fm/music/Los+Mox!
-.. _Die Ärzte (Alemanha): http://www.last.fm/music/Die+%C3%84rzte
-.. _BR-Linux: http://br-linux.org/
-.. _Blog MacMagazine: https://macmagazine.com.br/
-.. _Android Central: http://www.androidcentral.com/
-.. _Windows Central: http://www.windowscentral.com/
-.. _Coding Horror: http://blog.codinghorror.com/
-.. _The Daily WTF: http://thedailywtf.com/
-.. _Programming in the 21st Century: http://prog21.dadgum.com/
-.. _QuirksBlog: http://www.quirksmode.org/blog/
-.. _Nerdcast: http://jovemnerd.com.br/categoria/nerdcast/
-.. _Stuff You Should Know: http://www.stuffyoushouldknow.com/podcasts/
-.. _Accidental Tech Podcast: http://atp.fm/
-.. _Debug: http://www.imore.com/debug
-.. _Android Developers Backstage: http://androidbackstage.blogspot.com/
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

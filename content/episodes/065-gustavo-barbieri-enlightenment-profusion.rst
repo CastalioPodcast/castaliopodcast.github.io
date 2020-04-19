@@ -44,25 +44,28 @@ Escute Agora
 
 .. podcast:: castalio-podcast-65
 
-Top 5
------
-* **Música**: `AC/DC`_
-* **Música**: `Iron Maiden`_
-* **Música**: `Metallica`_
-* **Música**: `Black Sabbath`_
-* **Música**: `Ozzy Osbourne`_
-* **Música**: `ZZ Top`_
-* **Música**: `Dream Theater`_
-* **Livro**: `Minu, o Gato Azul`_
-* **Livro**: `Menino Maluquinho`_
-* **Livro**: `Garra De Campeão`_
-* **Livro**: `Turma da Mônica`_
-* **Filme**: `Breaking Bad`_
-* **Filme**: `Prison Break`_
-* **Filme**: `Star Trek`_
-* **Filme**: `Star Wars`_
-* **Filme**: `Jaspion`_
-* **Filme**: `Jiraiya`_
+.. top5::
+
+    :music:
+        * AC/DC
+        * Iron Maiden
+        * Metallica
+        * Black Sabbath
+        * Ozzy Osbourne
+        * ZZ Top
+        * Dream Theater
+    :book:
+        * Minu, o Gato Azul
+        * Menino Maluquinho
+        * Garra De Campeão
+        * Turma da Mônica
+    :movie:
+        * Breaking Bad
+        * Prison Break
+        * Star Trek
+        * Star Wars
+        * Jaspion
+        * Jiraiya
 
 Links
 -----
@@ -82,24 +85,6 @@ Links
 .. _IoT: https://pt.wikipedia.org/wiki/Internet_das_Coisas
 .. _Carsten Haitzler: https://en.wikipedia.org/wiki/Carsten_Haitzler
 
-.. Top 5
-.. _AC/DC: http://www.last.fm/music/AC%252FDC
-.. _Iron Maiden: http://www.last.fm/music/Iron+Maiden
-.. _Metallica: http://www.last.fm/music/Metallica
-.. _Black Sabbath: http://www.last.fm/music/Black+Sabbath
-.. _Ozzy Osbourne: http://www.last.fm/music/Ozzy+Osbourne
-.. _ZZ Top: http://www.last.fm/music/ZZ+Top
-.. _Dream Theater: http://www.last.fm/music/Dream+Theater
-.. _Minu, o Gato Azul: http://www.amazon.com/Minu-Gato-Azul-Portugues-Brasil/dp/8532519970
-.. _Menino Maluquinho: https://www.goodreads.com/book/show/1796355.O_Menino_Maluquinho
-.. _Garra De Campeão: https://www.goodreads.com/book/show/6605758-garra-de-campe-o
-.. _Turma da Mônica: https://www.goodreads.com/book/show/3620538-as-tiras-cl-ssicas-da-turma-da-m-nica
-.. _Breaking Bad: http://www.imdb.com/title/tt0903747/
-.. _Prison Break: http://www.imdb.com/title/tt0455275/
-.. _Star Trek: http://www.imdb.com/title/tt0060028/
-.. _Star Wars: http://www.imdb.com/title/tt0076759/
-.. _Jaspion: http://www.imdb.com/title/tt0182616/
-.. _Jiraiya: https://pt.wikipedia.org/wiki/Jiraiya_(s%C3%A9rie)
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

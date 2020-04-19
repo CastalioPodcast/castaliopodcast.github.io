@@ -19,6 +19,9 @@
     }
   },
   "book": {
+    "Minu, o Gato Azul": {
+      "url": "http://www.amazon.com/Minu-Gato-Azul-Portugues-Brasil/dp/8532519970"
+    },
     "Princípios, Padrões e Práticas Ágeis em C#": {
       "url": "https://www.goodreads.com/book/show/30255258-princ-pios-padr-es-e-pr-ticas-geis-em-c"
     },
@@ -923,6 +926,12 @@
     }
   },
   "movie": {
+    "Jiraiya": {
+      "url": "https://pt.wikipedia.org/wiki/Jiraiya_(s%C3%A9rie)"
+    },
+    "Documentários": {},
+    "Ficção Científica": {},
+    "Terror": {},
     "Earthlings (Terráqueos)": {
       "url": "http://www.terraqueos.org/"
     },
@@ -2855,11 +2864,65 @@
     "Peperoni": {}
   },
   "podcast": {
+    "Bad Voltage": {
+      "url": "http://www.badvoltage.org/"
+    },
+    "Everyday Linux": {
+      "url": "http://elementopie.com/everyday-linux-episodes"
+    },
+    "Hack'n'Cast": {
+      "url": "http://hackncast.org/"
+    },
+    "Castálio Podcast": {
+      "url": "http://castalio.info/"
+    },
+    "Papo Acessível": {
+      "url": "https://papoacessivel.com.br/"
+    },
+    "Nerdcast": {
+      "url": "http://jovemnerd.com.br/categoria/nerdcast/"
+    },
+    "Stuff You Should Know": {
+      "url": "http://www.stuffyoushouldknow.com/podcasts/"
+    },
+    "Accidental Tech Podcast": {
+      "url": "http://atp.fm/"
+    },
+    "Debug": {
+      "url": "http://www.imore.com/debug"
+    },
+    "Android Developers Backstage": {
+      "url": "http://androidbackstage.blogspot.com/"
+    },
     "Um Milkshake Chamado Wanda": {
       "url": "https://soundcloud.com/ummilkshakechamadowanda"
     }
   },
   "site": {
+    "BR-Linux": {
+      "url": "http://br-linux.org/"
+    },
+    "Blog MacMagazine": {
+      "url": "https://macmagazine.com.br/"
+    },
+    "Android Central": {
+      "url": "http://www.androidcentral.com/"
+    },
+    "Windows Central": {
+      "url": "http://www.windowscentral.com/"
+    },
+    "Coding Horror": {
+      "url": "http://blog.codinghorror.com/"
+    },
+    "The Daily WTF": {
+      "url": "http://thedailywtf.com/"
+    },
+    "Programming in the 21st Century": {
+      "url": "http://prog21.dadgum.com/"
+    },
+    "QuirksBlog": {
+      "url": "http://www.quirksmode.org/blog/"
+    },
     "CodeCombat": {
       "url": "https://br.codecombat.com/"
     },

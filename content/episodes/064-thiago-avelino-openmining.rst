@@ -37,28 +37,31 @@ Escute Agora
 
 .. podcast:: castalio-podcast-64
 
-Top 5
------
-* **Música**: `System of a Down`_
-* **Música**: `The Offspring`_
-* **Música**: `Korn`_
-* **Música**: `Charlie Brown Jr`_
-* **Música**: `Los Hermanos`_
-* **Música**: `Matisyahu`_
-* **Música**: `Radiohead`_
-* **Livro**: `Guía do Muchileiro das Galáxias`_
-* **Livro**: `Operação Cavalo de Troia`_
-* **Livro**: `Refactoring to Patterns`_ (`Martin Fowler`)
-* **Livro**: `Lean Startup`_
-* **Livro**: `Viagem ao Centro da Terra`_
-* **Livro**: `O Monge e o Executivo`_
-* **Filme**: `De Volta para o Futuro`_
-* **Filme**: `Caça Fantasmas`_
-* **Filme**: `Matrix`_
-* **Filme**: `Star Wars`_
-* **Filme**: `Os Vingadores`_
-* **Filme**: `Homem de Ferro`_
-* **Filme**: `Tron`_
+.. top5::
+
+    :music:
+        * System of a Down
+        * The Offspring
+        * Korn
+        * Charlie Brown JR.
+        * Los Hermanos
+        * Matisyahu
+        * Radiohead
+    :book:
+        * O Guia do Mochileiro das Galáxias
+        * Operação Cavalo de Troia
+        * Refactoring
+        * The Lean Startup
+        * Viagem ao Centro da Terra
+        * O Monge e o Executivo
+    :movie:
+        * De Volta Para o Futuro
+        * Caça Fantasmas
+        * The Matrix
+        * Star Wars
+        * Os Vingadores
+        * Homem de Ferro
+        * Tron
 
 Links
 -----
@@ -91,28 +94,6 @@ Links
 .. _Django: https://www.djangoproject.com/
 .. _Github Developer Program: https://developer.github.com/program/
 
-.. Top 5
-.. _System of a Down: http://www.last.fm/music/System+of+a+Down
-.. _The Offspring: http://www.last.fm/music/The+Offspring
-.. _Korn: http://www.last.fm/music/Korn
-.. _Charlie Brown Jr: http://www.last.fm/music/Charlie+Brown+JR.
-.. _Los Hermanos: http://www.last.fm/music/Los+Hermanos
-.. _Matisyahu: http://www.last.fm/music/Matisyahu
-.. _Radiohead: http://www.last.fm/music/Radiohead
-.. _De Volta para o Futuro: http://www.imdb.com/title/tt0088763/
-.. _Caça Fantasmas: http://www.imdb.com/title/tt1289401/
-.. _Matrix: http://www.imdb.com/title/tt0133093
-.. _Star Wars: http://www.imdb.com/find?ref_=nv_sr_fn&q=star+wars&s=all
-.. _Os Vingadores: http://www.imdb.com/title/tt0848228/
-.. _Homem de Ferro: http://www.imdb.com/title/tt0371746/
-.. _Tron: http://www.imdb.com/title/tt0084827/
-.. _Guía do Muchileiro das Galáxias: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
-.. _Operação Cavalo de Troia: http://www.goodreads.com/book/show/66632.Jerusal_n
-.. _Lean Startup: https://www.goodreads.com/book/show/10127019-the-lean-startup
-.. _Refactoring to Patterns:
-.. _Martin Fowler: https://www.goodreads.com/author/show/25215.Martin_Fowler
-.. _Viagem ao Centro da Terra: https://www.goodreads.com/book/show/23930886-viagem-ao-centro-da-terra
-.. _O Monge e o Executivo: https://www.goodreads.com/book/show/3159713-o-monge-e-o-executivo
 
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll

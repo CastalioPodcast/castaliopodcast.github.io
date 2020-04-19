@@ -32,26 +32,29 @@ Escute Agora
 
 .. podcast:: castalio-podcast-69
 
-Top 5
------
-* **Filme**: `Sonho de Liberdade`_
-* **Filme**: `Coração Valente`_
-* **Filme**: `Tropa de Elite`_
-* **Filme**: `Interestelar`_
-* **Filme**: `O Ilusionista`_
-* **Filme**: `O Grande Truque`_
-* **Música**: `Pearl Jam`_
-* **Música**: `Legião Urbana`_
-* **Música**: `Raimundos`_
-* **Música**: `Mamonas Assassinas`_
-* **Música**: `Rastapé`_
-* **Música**: `Falamansa`_
-* **Leitura programação**:`Fluent Python`_
-* **Leitura programação**:`Programming in Lua`_
-* **Leitura programação**:`Dive into Python`_
-* **Leitura programação**:`Python Cookbook`_
-* **Leitura programação**:`The Incredible Secret Money Machine`_
-* **Leitura programação**:`Como Fazer Amigos e Influenciar Pessoas`_
+.. top5::
+
+    :movie:
+        * Sonho de Liberdade
+        * Coração Valente
+        * Tropa de Elite
+        * Interestelar
+        * O Ilusionista
+        * O Grande Truque
+    :music:
+        * Pearl Jam
+        * Legião Urbana
+        * Raimundos
+        * Mamonas Assassinas
+        * Rastapé
+        * Falamansa
+    :book:
+        * Python Fluente
+        * Programming in Lua
+        * Dive into Python
+        * Python Cookbook
+        * The Incredible Secret Money Machine
+        * Como Fazer Amigos e Influenciar Pessoas
 
 
 Links
@@ -74,27 +77,6 @@ Links
 .. _Django Framework: https://www.djangoproject.com/
 .. _Python Para Zumbis: http://pycursos.com/python-para-zumbis/
 .. _Python Birds: https://github.com/pythonprobr/pythonbirds
-
-
-.. Top 5
-.. _Sonho de Liberdade: http://www.imdb.com/title/tt0111161/
-.. _Coração Valente: http://www.imdb.com/title/tt0112573/
-.. _Tropa de Elite: http://www.imdb.com/title/tt0861739/
-.. _Interestelar: http://www.imdb.com/title/tt0816692/
-.. _O Ilusionista: http://www.imdb.com/title/tt0443543/
-.. _O Grande Truque: http://www.imdb.com/title/tt0482571/
-.. _Pearl Jam: http://www.last.fm/music/Pearl+Jam
-.. _Legião Urbana: http://www.last.fm/music/Legi%C3%A3o+Urbana
-.. _Raimundos: http://www.last.fm/music/Raimundos
-.. _Mamonas Assassinas: http://www.last.fm/music/Mamonas+Assassinas
-.. _Rastapé: http://www.last.fm/music/Rastape%CC%81
-.. _Falamansa: http://www.last.fm/music/Falamansa
-.. _Fluent Python: https://www.goodreads.com/book/show/22800567-fluent-python
-.. _Programming in Lua: https://www.goodreads.com/book/show/1332383.Programming_in_Lua
-.. _Dive into Python: http://www.diveintopython.net/
-.. _Python Cookbook: https://www.goodreads.com/book/show/17152735-python-cookbook
-.. _The Incredible Secret Money Machine: https://www.goodreads.com/book/show/17565644-the-incredible-secret-money-machine
-.. _Como Fazer Amigos e Influenciar Pessoas: https://www.goodreads.com/book/show/25895956-como-fazer-amigos-e-influenciar-pessoas
 
 
 .. Footer
