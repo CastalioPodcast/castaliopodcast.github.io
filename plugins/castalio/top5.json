@@ -19,6 +19,12 @@
     }
   },
   "book": {
+    "10% Mais Feliz": {
+      "url": "https://www.goodreads.com/book/show/25948734-10-mais-feliz"
+    },
+    "O Livro de Jô: uma Autobiografia Desautorizada": {
+      "url": "https://www.goodreads.com/book/show/36899475-o-livro-de-j"
+    },
     "Minu, o Gato Azul": {
       "url": "http://www.amazon.com/Minu-Gato-Azul-Portugues-Brasil/dp/8532519970"
     },
@@ -926,6 +932,27 @@
     }
   },
   "movie": {
+    "Lisbela e o Prisioneiro": {
+      "url": "https://www.imdb.com/title/tt0367975/"
+    },
+    "Os Infiltrados": {
+      "url": "https://www.imdb.com/title/tt0407887/"
+    },
+    "Chicago Fire": {
+      "url": "https://www.imdb.com/title/tt2261391/"
+    },
+    "Dark": {
+      "url": "https://www.imdb.com/title/tt5753856/"
+    },
+    "Fringe": {
+      "url": "https://www.imdb.com/title/tt1119644/"
+    },
+    "How I Met Your Mother": {
+      "url": "https://www.imdb.com/title/tt0460649/"
+    },
+    "Battlestar Galactica": {
+      "url": "https://www.imdb.com/title/tt0407362/"
+    },
     "Jiraiya": {
       "url": "https://pt.wikipedia.org/wiki/Jiraiya_(s%C3%A9rie)"
     },
@@ -1681,6 +1708,18 @@
     }
   },
   "music": {
+    "Jazz": {
+      "url": "https://pt.wikipedia.org/wiki/Jazz"
+    },
+    "Trip hop": {
+      "url": "https://en.wikipedia.org/wiki/Trip_hop"
+    },
+    "Massive Attack": {
+      "url": "https://www.last.fm/music/Massive+Attack"
+    },
+    "Moby": {
+      "url": "https://www.last.fm/music/Moby"
+    },
     "Júpiter Maçã": {
       "url": "https://www.last.fm/music/J%C3%BApiter+Ma%C3%A7%C3%A3"
     },
