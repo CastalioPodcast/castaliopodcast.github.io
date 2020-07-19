@@ -37,24 +37,20 @@ class Top5(Directive):
 
     _header_title = 'Top 5'
     _li_template = """<li>
-    <strong>{category}:</strong>
     <a class="reference external" href="{url}">{name}</a>
     </li>
     """
-    _li_template_no_url = """<li>
-    <strong>{category}:</strong> {name}
-    </li>
-    """
+    _li_template_no_url = """<li>{name}</li>"""
     _category_text = {
-        'app': 'Aplicativo',
-        'beer': 'Cerveja',
-        'book': 'Livro',
-        'game': 'Game',
-        'movie': 'Filme',
-        'music': 'Música',
-        'pizza': 'Pizza',
-        'podcast': 'Podcast',
-        'site': 'Site',
+        'app': 'Aplicativos',
+        'beer': 'Cervejas',
+        'book': 'Livros',
+        'game': 'Games',
+        'movie': 'Filmes',
+        'music': 'Músicas',
+        'pizza': 'Pizzas',
+        'podcast': 'Podcasts',
+        'site': 'Sites',
     }
 
     def run(self):
@@ -75,11 +71,25 @@ class Top5(Directive):
         ) as fp:
             data = yaml.safe_load(fp)
 
-        enumerated_list = nodes.enumerated_list()
+        if self.arguments:
+            header_title = self.arguments[0]
+        else:
+            header_title = self._header_title
+        generated_nodes = [
+            nodes.title(header_title, '', nodes.Text(header_title)),
+        ]
         for field in node[0]:
             category = field[0].astext()
             if category not in TOP5_STATS:
                 TOP5_STATS[category] = {}
+            generated_nodes.append(
+                nodes.raw(
+                    '',
+                    '<h3>' + self._category_text[category] + ':</h3>',
+                    format='html'
+                )
+            )
+            enumerated_list = nodes.enumerated_list()
             for item in [item.astext() for item in field[1][0]]:
                 top5_item = data.get(category, {}).get(item)
                 if top5_item is None:
@@ -90,7 +100,6 @@ class Top5(Directive):
                     )]
                 if 'url' in top5_item:
                     text = self._li_template.format(
-                        category=self._category_text[category],
                         name=item,
                         url=top5_item['url'],
                     )
@@ -111,14 +120,8 @@ class Top5(Directive):
                         'url': top5_item.get('url'),
                     }
                 TOP5_STATS[category][item]['count'] += 1
-        if self.arguments:
-            header_title = self.arguments[0]
-        else:
-            header_title = self._header_title
-        return [
-            nodes.title(header_title, '', nodes.Text(header_title)),
-            enumerated_list,
-        ]
+            generated_nodes.append(enumerated_list)
+        return generated_nodes
 
 
 class Top5Best(Directive):
