@@ -3,6 +3,18 @@ app:
     url: https://git-scm.com/
   Vim:
     url: https://www.vim.org/
+  Visual Studio Code:
+    url: https://code.visualstudio.com/
+  OBS Studio:
+    url: https://obsproject.com/
+  HitFilm Express:
+    url: https://fxhome.com/hitfilm-express
+  Affinity Photo:
+    url:
+  Visual Studio:
+    url: https://visualstudio.microsoft.com/
+  PhpStorm:
+    url: https://www.jetbrains.com/phpstorm/
 beer:
   Eisenbahn Dunkel:
     url: https://untappd.com/b/cervejaria-eisenbahn-dunkel/14372
@@ -11,6 +23,14 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  A Linguagem de Programação Go:
+    url: https://www.goodreads.com/book/show/41004328-a-linguagem-de-programa-o-go
+  O Mundo de Sofia:
+    url: https://www.goodreads.com/book/show/2890781-o-mundo-de-sofia
+  O Incrível Homem Que Encolheu:
+    url: https://www.goodreads.com/book/show/12308424-o-incr-vel-homem-que-encolheu
+  O Paradoxo da Escolha:
+    url: https://www.goodreads.com/book/show/39288422-o-paradoxo-da-escolha
   10% Mais Feliz:
     url: https://www.goodreads.com/book/show/25948734-10-mais-feliz
   '1984':
@@ -619,6 +639,16 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Carrie - A Estranha:
+    url: https://www.imdb.com/title/tt1939659/
+  Resgate:
+    url: https://www.imdb.com/title/tt8936646/
+  Elite:
+    url: https://www.imdb.com/title/tt7134908/
+  A Mão que Balança o Berço:
+    url: https://www.imdb.com/title/tt0104389/
+  Gênio Indomável:
+    url: https://www.imdb.com/title/tt0119217/
   1000 Ways to Die:
     url: https://www.imdb.com/title/tt1105711/
   101 Dalmatas:
@@ -1135,6 +1165,16 @@ movie:
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
 music:
+  Caetano Veloso:
+    url: https://www.last.fm/music/Caetano+Veloso
+  Chico Buarque:
+    url: https://www.last.fm/music/Chico+Buarque
+  João Gilberto:
+    url: https://www.last.fm/music/Jo%C3%A3o+Gilberto
+  Shaaman:
+    url: https://www.last.fm/music/Shaaman
+  Trivium:
+    url: https://www.last.fm/music/Trivium
   2 Brothers on the 4th Floor:
     url: https://www.last.fm/music/2+Brothers+On+The+4th+Floor
   2 Unlimited:
