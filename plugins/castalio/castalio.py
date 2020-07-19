@@ -1,10 +1,10 @@
-import json
 import operator
 import os
 
 import pelican
+import yaml
 from docutils import nodes
-from docutils.parsers.rst import directives, roles, Directive
+from docutils.parsers.rst import directives, Directive
 
 
 TOP5_STATS = {}
@@ -70,10 +70,10 @@ class Top5(Directive):
         self.state.nested_parse(self.content, self.content_offset, node)
 
         with open(
-            os.path.join(os.path.dirname(__file__), 'top5.json'),
+            os.path.join(os.path.dirname(__file__), 'top5.yaml'),
             encoding='utf-8'
         ) as fp:
-            data = json.load(fp)
+            data = yaml.safe_load(fp)
 
         enumerated_list = nodes.enumerated_list()
         for field in node[0]:
