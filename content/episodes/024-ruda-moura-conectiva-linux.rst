@@ -48,20 +48,24 @@ Resumo
 -  **Os Manobristas** 31:00
 -  **Conclusão** 32:26
 
-Top 5
------
--  **Música:** `Yo La Tengo`_
--  **Música:** `Mutantes`_
--  **Música:** `New Order`_
--  **Música:** `Kraftwerk`_
--  **Filmes:** `Blade Runner`_
--  **Filmes:** `Matrix`_
--  **Filmes:** `Sociedade dos poetas mortos`_
--  **Filmes:** `7 anos no tibet`_
--  **Livros:** `Ruído Branco (DeLillo)`_
--  **Livros:** `Qualquer um do Saramago`_
--  **Livros:** `Art Of Computer Program (Knuth)`_
--  **Livros:** `Cammel Book (Larry Wall)`_
+
+.. top5::
+
+    :music:
+        * Yo La Tengo
+        * Os Mutantes
+        * New Order
+        * Kraftwerk
+    :movie:
+        * Blade Runner
+        * The Matrix
+        * Sociedade dos Poetas Mortos
+        * Sete Anos no Tibet
+    :book:
+        * Ruído Branco
+        * José Saramago
+        * The Art of Computer Programming
+        * Programming Perl
 
 Links
 -----
@@ -90,22 +94,9 @@ Links
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 
-
 .. _@__ruda__: https://twitter.com/#!/__ruda__
 .. _ruda.moura: https://www.facebook.com/ruda.moura
 .. _rudamoura.com: http://rudamoura.com/
-.. _Yo La Tengo: http://www.last.fm/search?q=Yo+La+Tengo
-.. _Mutantes: http://www.last.fm/search?q=Mutantes
-.. _New Order: http://www.last.fm/search?q=New+Order
-.. _Kraftwerk: http://www.last.fm/search?q=Kraftwerk
-.. _Blade Runner: http://www.imdb.com/find?s=all&q=Blade+Runner
-.. _Matrix: http://www.imdb.com/find?s=all&q=matrix
-.. _Sociedade dos poetas mortos: http://www.imdb.com/find?s=all&q=Sociedade+dos+poetas+mortos
-.. _7 anos no tibet: http://www.imdb.com/find?s=all&q=7+anos+no+tibet
-.. _Ruído Branco (DeLillo): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ruído+Branco+(DeLillo)
-.. _Qualquer um do Saramago: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Saramago
-.. _Art Of Computer Program (Knuth): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Art+Of+Computer+Program+(Knuth)
-.. _Cammel Book (Larry Wall): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cammel+Book+(Larry+Wall)
 .. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux
 .. _Slackware Linux: https://duckduckgo.com/?q=Slackware+Linux
 .. _Canonical: https://duckduckgo.com/?q=Canonical

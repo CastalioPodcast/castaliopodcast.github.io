@@ -43,13 +43,16 @@ Resumo
 -  **Top 5** 34:12
 -  **Conclusão** 42:07
 
-Top 5
------
--  **Música:** `Nina Simone`_
--  **Música:** `Frank Sinatra`_
--  **Filmes:** `The Shawshank Redemption`_
--  **Livros:** `Pot-Limit Omaha Poker`_
--  **Livros:** `Advanced Pot-Limit Omaha\: Small Ball and Short-Handed Play`_
+.. top5::
+
+    :music:
+        * Nina Simone
+        * Frank Sinatra
+    :movie:
+        * The Shawshank Redemption
+    :book:
+        * Pot-Limit Omaha Poker
+        * Advanced Pot-limit Omaha: Small Ball and Short-Handed Play
 
 Links
 -----
@@ -87,18 +90,11 @@ Links
 -  `Livraria Saráiva`_
 -  `IMDB.com`_
 -  `Texas Holden Poker`_
--  `Pot-Limit Omaha Poker (DuckDuckGo)`_
 -  `Jeff Hwang`_
 
 .. class:: panel-body bg-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
-
-.. _Nina Simone: http://www.last.fm/search?q=Nina+Simone
-.. _Frank Sinatra: http://www.last.fm/search?q=Frank+Sinatra
-.. _The Shawshank Redemption: http://www.imdb.com/find?s=all&q=The+Shawshank+Redemption
-.. _Pot-Limit Omaha Poker: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pot-Limit+Omaha+Poker
-.. _Advanced Pot-Limit Omaha\: Small Ball and Short-Handed Play: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Advanced+Pot-Limit+OmahaÇ+Small+Ball+and+Short-Handed+Play
 .. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux
 .. _Canonical: https://duckduckgo.com/?q=Canonical
 .. _Ubuntu Developers Summit: https://duckduckgo.com/?q=Ubuntu+Developers+Summit
@@ -133,7 +129,6 @@ Links
 .. _Livraria Saráiva: https://duckduckgo.com/?q=Livraria+Saráiva
 .. _IMDB.com: https://duckduckgo.com/?q=IMDB.com
 .. _Texas Holden Poker: https://duckduckgo.com/?q=Texas+Holden+Poker
-.. _Pot-Limit Omaha Poker (DuckDuckGo): https://duckduckgo.com/?q=Pot-Limit+Omaha+Poker
 .. _Jeff Hwang: https://duckduckgo.com/?q=Jeff+Hwang
 .. _Sunday Night Learning: http://soundcloud.com/clebertsuconic/sunday-night-lerning
 .. _Clebert Suconic: http://soundcloud.com/clebertsuconic

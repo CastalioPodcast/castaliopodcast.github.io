@@ -23,6 +23,20 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  "Advanced Pot-limit Omaha: Small Ball and Short-Handed Play":
+    url: https://www.goodreads.com/book/show/6597025-advanced-pot-limit-omaha
+  Pot-Limit Omaha Poker:
+    url: https://www.goodreads.com/book/show/2537502.Pot_Limit_Omaha_Poker
+  Folha:
+    url: {}
+  Estadão:
+    url: {}
+  Bíblia:
+    url: https://pt.wikipedia.org/wiki/B%C3%ADblia
+  Programming Perl:
+    url: https://www.goodreads.com/book/show/154155.Programming_Perl
+  Ruído Branco:
+    url: https://www.goodreads.com/book/show/7666398-ru-do-branco
   A Linguagem de Programação Go:
     url: https://www.goodreads.com/book/show/41004328-a-linguagem-de-programa-o-go
   O Mundo de Sofia:
@@ -639,6 +653,26 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  The Shawshank Redemption:
+    url: https://www.imdb.com/title/tt0111161/
+  The Mentalist:
+    url: https://www.imdb.com/title/tt1196946/
+  Criminal Minds:
+    url: https://www.imdb.com/title/tt0452046/
+  Apollo 18:
+    url: https://www.imdb.com/title/tt1772240/
+  Source Code:
+    url: https://www.imdb.com/title/tt0945513/
+  Super 8:
+    url: https://www.imdb.com/title/tt1650062/
+  Agentes do Destino:
+    url: https://www.imdb.com/title/tt1385826/
+  V de Vingança:
+    url: https://www.imdb.com/title/tt0434409/
+  Sete Anos no Tibet:
+    url: https://www.imdb.com/title/tt0120102/
+  Sociedade dos Poetas Mortos:
+    url: https://www.imdb.com/title/tt0097165/
   Carrie - A Estranha:
     url: https://www.imdb.com/title/tt1939659/
   Resgate:
@@ -1686,7 +1720,7 @@ music:
   Oasis:
     url: https://www.last.fm/music/Oasis
   Os Mutantes:
-    url: https://www.last.fm/music/Os+Mutantes?ac=os%20muta
+    url: https://www.last.fm/music/Os+Mutantes
   Os Paralamas do Sucesso:
     url: https://www.last.fm/music/Os+Paralamas+Do+Sucesso
   Oswaldo Montenegro:

@@ -52,30 +52,35 @@ Resumo
 -  **Ovo de Páscoa** 40:45
 -  **Conclusão** 42:07
 
-Top 5
------
--  **Música:** `Dream Theater`_
--  **Música:** `Angra`_
--  **Música:** `Enya`_
--  **Música:** `Kitaro`_
--  **Música:** `Legião Urbana`_
--  **Música:** `Nightwish`_
--  **Música:** `Within Temptation`_
--  **Música:** `Stratovarious`_
--  **Filmes:** `Trilogia O Senhor dos Anéis`_
--  **Filmes:** `Trilogia Matrix`_
--  **Filmes:** `V de Vingança`_
--  **Filmes:** `Agentes do Destino`_
--  **Filmes:** `Super 8`_
--  **Filmes:** `Source Code`_
--  **Filmes:** `Apollo 18`_
--  **Filmes:** `Dexter`_
--  **Filmes:** `Criminal Minds`_
--  **Filmes:** `The Mentalist`_
--  **Livros:** `Bíblia`_
--  **Livros:** `BR-Linux`_
--  **Livros:** `Folha`_
--  **Livros:** `Estadão`_
+.. top5::
+
+    :music:
+        * Dream Theater
+        * Angra
+        * Enya
+        * Kitaro
+        * Legião Urbana
+        * Nightwish
+        * Within Temptation
+        * Stratovarius
+    :movie:
+        * O Senhor dos Anéis
+        * The Matrix
+        * V de Vingança
+        * Agentes do Destino
+        * Super 8
+        * Source Code
+        * Apollo 18
+        * Dexter
+        * Criminal Minds
+        * The Mentalist
+    :book:
+        * Bíblia
+        * Folha
+        * Estadão
+    :site:
+        * BR-Linux
+
 
 Links
 -----
@@ -99,28 +104,6 @@ Links
 
 .. _Revista Espírito Livre: http://www.revista.espiritolivre.org/
 .. _@jfcosta: https://twitter.com/jfcosta
-.. _Dream Theater: http://www.last.fm/search?q=Dream+Theater
-.. _Angra: http://www.last.fm/search?q=Angra
-.. _Enya: http://www.last.fm/search?q=Enya
-.. _Kitaro: http://www.last.fm/search?q=kitaro
-.. _Legião Urbana: http://www.last.fm/search?q=Legi%C3%A3o+Urbana
-.. _Nightwish: http://www.last.fm/search?q=Nightwish
-.. _Within Temptation: http://www.last.fm/search?q=Within+Temptation
-.. _Stratovarious: http://www.last.fm/search?q=Stratovarious
-.. _Trilogia O Senhor dos Anéis: http://www.imdb.com/find?s=all&q=Trilogia+O+Senhor+dos+An%C3%A9is
-.. _Trilogia Matrix: http://www.imdb.com/find?s=all&q=Trilogia+Matrix
-.. _V de Vingança: http://www.imdb.com/find?s=all&q=V+de+Vingan%C3%A7a
-.. _Agentes do Destino: http://www.imdb.com/find?s=all&q=Agentes+do+Destino
-.. _Super 8: http://www.imdb.com/find?s=all&q=Super+8
-.. _Source Code: http://www.imdb.com/find?s=all&q=Source+Code
-.. _Apollo 18: http://www.imdb.com/find?s=all&q=Apollo+18
-.. _Dexter: http://www.imdb.com/find?s=all&q=Dexter
-.. _Criminal Minds: http://www.imdb.com/find?s=all&q=Criminal+Minds
-.. _The Mentalist: http://www.imdb.com/find?s=all&q=The+Mentalist
-.. _Bíblia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=B%C3%ADblia
-.. _BR-Linux: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=BR-Linux
-.. _Folha: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Folha
-.. _Estadão: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estad%C3%A3o
 .. _Revista Espírito Livre (DuckDuckGo): https://duckduckgo.com/?q=Revista+Esp%C3%ADrito+Livre
 .. _GTalk: https://duckduckgo.com/?q=GTalk
 .. _Jon Maddog Hall: https://duckduckgo.com/?q=Jon+Maddog+Hall
