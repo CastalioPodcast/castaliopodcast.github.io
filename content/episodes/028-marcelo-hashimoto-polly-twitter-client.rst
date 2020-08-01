@@ -50,22 +50,25 @@ Resumo
 -  **Onde aprendeu inglês** 32:28
 -  **Conclusão** 33:32
 
-Top 5
------
--  **Música:** `Halloween`_
--  **Música:** `Savatage`_
--  **Música:** `Metallica`_
--  **Música:** `Megadeath`_
--  **Música:** `Annihilator`_
--  **Filmes:** `Piratas do Caribe`_
--  **Livros:** `Victor Hugo`_
--  **Livros:** `Os Miseráveis`_
--  **Livros:** `A Revolução dos Bichos`_
--  **Livros:** `O Parque dos Dinossáuros`_
--  **Livros:** `Augusto dos Anjos`_
--  **Livros:** `Carlos Drummond de Andrade`_
--  **Livros:** `William Blake`_
--  **Livros:** `Baudelaire`_
+.. top5::
+
+    :music:
+        * Halloween
+        * Savatage
+        * Metallica
+        * Megadeth
+        * Annihilator
+    :movie:
+        * Piratas do Caribe
+    :book:
+        * Victor Hugo
+        * Os Miseráveis
+        * A Revolução dos Bichos
+        * O Parque dos Dinossauros
+        * Augusto dos Anjos
+        * Carlos Drummond de Andrade
+        * William Blake
+        * Charles Baudelaire
 
 Links
 -----
@@ -105,20 +108,6 @@ Links
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 
 .. _OMG! Ubuntu: http://www.omgubuntu.co.uk/
-.. _Halloween: http://www.last.fm/search?q=Halloween
-.. _Savatage: http://www.last.fm/search?q=Savatage
-.. _Metallica: http://www.last.fm/search?q=Metallica
-.. _Megadeath: http://www.last.fm/search?q=Megadeath
-.. _Annihilator: http://www.last.fm/search?q=Annihilator
-.. _Piratas do Caribe: http://www.imdb.com/find?s=all&q=Piratas+do+Caribe
-.. _Victor Hugo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Victor+Hugo
-.. _Os Miseráveis: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Miseráveis
-.. _A Revolução dos Bichos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Revolução+dos+Bichos
-.. _O Parque dos Dinossáuros: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Parque+dos+Dinossáuros
-.. _Augusto dos Anjos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Augusto+dos+Anjos
-.. _Carlos Drummond de Andrade: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Carlos+Drummond+de+Andrade
-.. _William Blake: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=William+Blake
-.. _Baudelaire: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Baudelaire
 .. _Polly Twitter Client: https://duckduckgo.com/?q=Polly+Twitter+Client
 .. _Twitter: https://duckduckgo.com/?q=Twitter
 .. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux

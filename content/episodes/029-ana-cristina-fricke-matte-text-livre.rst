@@ -49,11 +49,14 @@ Resumo
 -  **Pipoca** 33:52
 -  **Conclusão** 34:18
 
-Top 5
------
--  **Música:** `Madonna`_
--  **Filmes:** `Dexter`_
--  **Livros:** `Ponto de Impacto`_
+.. top5::
+
+    :music:
+        Madonna
+    :movie:
+        Dexter
+    :book:
+        Ponto de Impácto
 
 Links
 -----
@@ -103,9 +106,6 @@ aqui: https://code.launchpad.net/~conscioususer/polly/python2.6
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 
 .. _Texto Livre: http://www.textolivre.org/site/
-.. _Madonna: http://www.last.fm/search?q=Madonna
-.. _Dexter: http://www.imdb.com/find?s=all&q=Dexter
-.. _Ponto de Impacto: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ponto+de+Impacto
 .. _Polly Twitter Client: https://duckduckgo.com/?q=Polly+Twitter+Client
 .. _Universidade Federal de Minas Gerais: https://duckduckgo.com/?q=Universidade+Federal+de+Minas+Gerais
 .. _Evidosol: https://duckduckgo.com/?q=Evidosol

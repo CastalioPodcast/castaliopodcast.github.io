@@ -23,6 +23,32 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Tom Venuto:
+    url: https://www.goodreads.com/author/show/887788.Tom_Venuto
+  Ponto de Impácto:
+    url: https://www.imdb.com/title/tt0113313/
+  Charles Baudelaire:
+    url: https://www.goodreads.com/author/show/13847.Charles_Baudelaire
+  William Blake:
+    url: https://www.goodreads.com/author/show/13453.William_Blake
+  Carlos Drummond de Andrade:
+    url: https://www.goodreads.com/author/show/311800.Carlos_Drummond_de_Andrade
+  Augusto dos Anjos:
+    url: https://www.goodreads.com/author/show/1204079.Augusto_dos_Anjos
+  O Parque dos Dinossauros:
+    url: https://www.goodreads.com/book/show/8050251-o-parque-dos-dinossauros
+  Victor Hugo:
+    url: https://www.goodreads.com/author/show/13661.Victor_Hugo
+  Aristóteles:
+    url: https://www.goodreads.com/author/show/2192.Aristotle
+  Platão:
+    url: https://www.goodreads.com/author/show/879.Plato
+  Sistemas Operacionais Modernos:
+    url: https://www.goodreads.com/book/show/6255754-sistemas-operacionais-modernos
+  Utopia:
+    url: https://www.goodreads.com/book/show/18414.Utopia
+  The Starfish and the Spider:
+    url: https://www.goodreads.com/book/show/21314.The_Starfish_and_the_Spider
   "Advanced Pot-limit Omaha: Small Ball and Short-Handed Play":
     url: https://www.goodreads.com/book/show/6597025-advanced-pot-limit-omaha
   Pot-Limit Omaha Poker:
@@ -653,6 +679,18 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Doctor Who:
+    url: https://www.imdb.com/title/tt0436992/
+  Battlestar Galactica:
+    url: https://www.imdb.com/title/tt0407362/
+  Encontro Marcado:
+    url: https://www.imdb.com/title/tt0119643/
+  Piratas do Caribe:
+    url: https://www.imdb.com/title/tt0325980/
+  A Profecia:
+    url: https://www.imdb.com/title/tt0075005/
+  O Exorcista:
+    url: https://www.imdb.com/title/tt0070047/
   The Shawshank Redemption:
     url: https://www.imdb.com/title/tt0111161/
   The Mentalist:

@@ -55,27 +55,30 @@ Resumo
 -  **Top 5** 33:00
 -  **Conclusão** 37:52
 
-Top 5
------
--  **Música:** `Beatles`_
--  **Música:** `Raul Seixas`_
--  **Música:** `AC/DC`_
--  **Música:** `IRA`_
--  **Música:** `Engenheiros do Hawai`_
--  **Música:** `Jack Johnson`_
--  **Música:** `Iron Maiden`_
--  **Filmes:** `O Exorcista`_
--  **Filmes:** `Forrest Gump`_
--  **Filmes:** `A Profecia`_
--  **Filmes:** `O Senhor dos Anéis`_
--  **Filmes:** `2001 Uma Odisséia no Espaço`_
--  **Livros:** `Starfish and the Spider`_
--  **Livros:** `Utopia`_
--  **Livros:** `A Arte da Guerra`_
--  **Livros:** `O Senhor dos Aneis`_
--  **Livros:** `Sistemas Operacionais Modernos`_
--  **Livros:** `Aristóteles`_
--  **Livros:** `Platão`_
+.. top5::
+
+    :music:
+        * The Beatles
+        * Raul Seixas
+        * AC/DC
+        * Ira!
+        * Engenheiros do Hawaii
+        * Jack Johnson
+        * Iron Maiden
+    :movie:
+        * O Exorcista
+        * Forrest Gump
+        * A Profecia
+        * O Senhor dos Anéis
+        * 2001 Uma Odisséia no Espaço
+    :book:
+        * The Starfish and the Spider
+        * Utopia
+        * A Arte da Guerra
+        * O Senhor dos Anéis
+        * Sistemas Operacionais Modernos
+        * Aristóteles
+        * Platão
 
 Links
 -----
@@ -113,25 +116,6 @@ Links
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 
-.. _Beatles: http://www.last.fm/search?q=Beatles
-.. _Raul Seixas: http://www.last.fm/search?q=Raul+Seixas
-.. _AC/DC: http://www.last.fm/search?q=AC/DC
-.. _IRA: http://www.last.fm/search?q=IRA
-.. _Engenheiros do Hawai: http://www.last.fm/search?q=Engenheiros+do+Hawai
-.. _Jack Johnson: http://www.last.fm/search?q=Jack+Johnson
-.. _Iron Maiden: http://www.last.fm/search?q=Iron+Maiden
-.. _O Exorcista: http://www.imdb.com/find?s=all&q=O+Exorcista
-.. _Forrest Gump: http://www.imdb.com/find?s=all&q=Forrest+Gump
-.. _A Profecia: http://www.imdb.com/find?s=all&q=A+Profecia
-.. _O Senhor dos Anéis: http://www.imdb.com/find?s=all&q=O+Senhor+dos+Anéis
-.. _2001 Uma Odisséia no Espaço: http://www.imdb.com/find?s=all&q=2001+Uma+Odisséia+no+Espaço
-.. _Starfish and the Spider: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starfish+and+the+Spider
-.. _Utopia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Utopia
-.. _A Arte da Guerra: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Arte+da+Guerra
-.. _O Senhor dos Aneis: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Senhor+dos+Aneis
-.. _Sistemas Operacionais Modernos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sistemas+Operacionais+Modernos
-.. _Aristóteles: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Aristóteles
-.. _Platão: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Platão
 .. _Linked.in: https://duckduckgo.com/?q=Linked.in
 .. _Linux Plus Magazine: https://duckduckgo.com/?q=Linux+Plus+Magazine
 .. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux

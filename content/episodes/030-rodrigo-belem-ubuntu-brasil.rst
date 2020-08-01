@@ -59,22 +59,25 @@ Resumo
 -  **Top 5** 28:30
 -  **Conclusão** 33:38
 
-Top 5
------
--  **Música:** `The Advantage`_
--  **Música:** `Antônio Pereira`_
--  **Música:** `Geraldo Azevedo`_
--  **Música:** `Oswaldo Montenegro`_
--  **Filmes:** `Encontro Marcado`_
--  **Filmes:** `Supernatural`_
--  **Filmes:** `Dexter`_
--  **Filmes:** `Battlestar Gallactica`_
--  **Filmes:** `Doctor Who`_
--  **Filmes:** `Monty Python`_
--  **Livros:** `Natural Language Processing with Python`_
--  **Livros:** `Guía do Muchileiro das Galáxias`_
--  **Livros:** `Cavalo de Tróia`_
--  **Livros:** `Tom Venuto`_
+.. top5::
+
+    :music:
+        * The Advantage
+        * Antônio Pereira
+        * Geraldo Azevedo
+        * Oswaldo Montenegro
+    :movie:
+        * Encontro Marcado
+        * Supernatural
+        * Dexter
+        * Battlestar Galactica
+        * Doctor Who
+        * Monty Python's Flying Circus
+    :book:
+        * Natural Language Processing with Python
+        * O Guia do Mochileiro das Galáxias
+        * Operação Cavalo de Troia
+        * Tom Venuto
 
 Links
 -----
@@ -127,20 +130,6 @@ Links
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 
-.. _The Advantage: http://www.last.fm/search?q=The+Advantage
-.. _Antônio Pereira: http://www.last.fm/search?q=Antônio+Pereira
-.. _Geraldo Azevedo: http://www.last.fm/search?q=Geraldo+Azevedo
-.. _Oswaldo Montenegro: http://www.last.fm/search?q=Oswaldo+Montenegro
-.. _Encontro Marcado: http://www.imdb.com/find?s=all&q=Encontro+Marcado
-.. _Supernatural: http://www.imdb.com/find?s=all&q=Supernatural
-.. _Dexter: http://www.imdb.com/find?s=all&q=Dexter
-.. _Battlestar Gallactica: http://www.imdb.com/find?s=all&q=Battlestar+Gallactica
-.. _Doctor Who: http://www.imdb.com/find?s=all&q=Doctor+Who
-.. _Monty Python: http://www.imdb.com/find?s=all&q=Monty+Python
-.. _Natural Language Processing with Python: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Natural+Language+Processing+with+Python
-.. _Guía do Muchileiro das Galáxias: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Guia+do+Muchileiro+das+Galáxias
-.. _Cavalo de Tróia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cavalo+de+Tróia
-.. _Tom Venuto: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Tom+Venuto
 .. _Ian Lawrence: https://duckduckgo.com/?q=Ian+Lawrence
 .. _Carlos "segfault" Santiviago: https://duckduckgo.com/?q=Carlos+
 .. _DebConf: https://duckduckgo.com/?q=DebConf
