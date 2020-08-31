@@ -23,6 +23,16 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Algoritmos Para Viver:
+    url: https://www.goodreads.com/book/show/35819925-algoritmos-para-viver-a-ci-ncia-exata-das-decis-es-humanas
+  African Mathematics:
+    url: https://www.goodreads.com/book/show/10113410-african-mathematics
+  História da Matemática:
+    url: https://www.goodreads.com/book/show/17908948-hist-ria-da-matem-tica
+  As Lendas de Dandara:
+    url: https://www.goodreads.com/book/show/26250275-as-lendas-de-dandara
+  Hip-Hop and Philosophy:
+    url: https://www.goodreads.com/book/show/485824.Hip_Hop_and_Philosophy
   Tom Venuto:
     url: https://www.goodreads.com/author/show/887788.Tom_Venuto
   Ponto de Impácto:
@@ -679,6 +689,12 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  "Spider-Man: Into the Spider-Verse":
+    url: https://www.imdb.com/title/tt4633694/
+  Pantera Negra:
+    url: https://www.imdb.com/title/tt1825683/
+  Insecure:
+    url: https://www.imdb.com/title/tt5024912/
   Doctor Who:
     url: https://www.imdb.com/title/tt0436992/
   Battlestar Galactica:
@@ -1237,6 +1253,15 @@ movie:
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
 music:
+  Beyoncé - BLACK PARADE:
+    url: https://www.last.fm/music/Beyonc%C3%A9/_/BLACK+PARADE
+  Emicida:
+    url: https://www.last.fm/music/Emicida
+  Zéca Pagodinho:
+    url: https://www.last.fm/music/Z%C3%A9ca+Pagodinho
+  Panic! at the Disco:
+    url: "https://www.last.fm/music/Panic!+at+the+Disco"
+  Funk: {}
   Caetano Veloso:
     url: https://www.last.fm/music/Caetano+Veloso
   Chico Buarque:
