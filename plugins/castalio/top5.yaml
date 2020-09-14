@@ -1,4 +1,8 @@
 app:
+  tmux:
+    url: https://github.com/tmux/tmux/wiki
+  Emacs:
+    url: https://www.gnu.org/software/emacs/
   Git:
     url: https://git-scm.com/
   Vim:
@@ -23,6 +27,16 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  The Rust Programming Language:
+    url: https://doc.rust-lang.org/stable/book/
+  Rust in Action:
+    url: https://www.manning.com/books/rust-in-action
+  Programação Funcional e Concorrente em Rust:
+    url: https://www.casadocodigo.com.br/products/livro-rust-funcional-concorrente
+  Rust:
+    url: https://www.casadocodigo.com.br/products/livro-rust
+  "Step Ahead with Rust: Systems Programming in Rust":
+    url: https://www.goodreads.com/book/show/38235871-step-ahead-with-rust
   Algoritmos Para Viver:
     url: https://www.goodreads.com/book/show/35819925-algoritmos-para-viver-a-ci-ncia-exata-das-decis-es-humanas
   African Mathematics:
@@ -689,6 +703,12 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Lucifer:
+    url: https://www.imdb.com/title/tt4052886/
+  Modern Family:
+    url: https://www.imdb.com/title/tt1442437/
+  Outlander:
+    url: https://www.imdb.com/title/tt3006802/
   "Spider-Man: Into the Spider-Verse":
     url: https://www.imdb.com/title/tt4633694/
   Pantera Negra:
@@ -1253,6 +1273,8 @@ movie:
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
 music:
+  Roxette:
+    url: https://www.last.fm/music/Roxette
   Beyoncé - BLACK PARADE:
     url: https://www.last.fm/music/Beyonc%C3%A9/_/BLACK+PARADE
   Emicida:
