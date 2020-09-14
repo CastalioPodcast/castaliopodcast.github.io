@@ -26,6 +26,16 @@ muito bem-vindo ao Castálio Podcast.
 .. podcast:: castalio-podcast-150
     :heading: Escute enquanto lê os show notes!
 
+.. raw:: html
+
+    <div class="row">
+        <div class="col-md-12">
+            <a href="https://mng.bz/4B9V" target="_blank">
+                <img class="img-responsive" src="images/rust-conference.jpg" alt="live@manning Rust Conference" />
+            </a>
+        </div>
+    </div>
+
 
 Tópicos abordados neste episódio
 ================================
@@ -33,6 +43,7 @@ Tópicos abordados neste episódio
 * Como e quando o Otavio decidiu seguir na área de tecnologia
 * Em que tipo de projetos usar Rust
 * Onde aprender mais sobre Rust, dicas para quem quer aprender mais
+
 
 .. top5::
 
