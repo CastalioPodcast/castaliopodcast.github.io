@@ -1,4 +1,15 @@
 app:
+  Calendly:
+    url: https://calendly.com/
+  Apple Podcasts:
+    url: https://apps.apple.com/us/app/apple-podcasts/id525463029
+  Pokémon Go:
+    url: https://www.pokemongo.com/
+  Calendário: {}
+  Notion:
+    url: https://www.notion.so/
+  Focus To-Do:
+    url: https://www.focustodo.cn/
   tmux:
     url: https://github.com/tmux/tmux/wiki
   Emacs:
@@ -27,6 +38,12 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Software Quality Engineering:
+    url: https://www.goodreads.com/book/show/44542456-software-quality-engineering
+  "Angela Y. Davis":
+    url: https://www.goodreads.com/author/show/5863103.Angela_Y_Davis
+  O andar do bêbado:
+    url: https://www.goodreads.com/book/show/17559003-o-andar-do-b-bado
   The Rust Programming Language:
     url: https://doc.rust-lang.org/stable/book/
   Rust in Action:
@@ -703,6 +720,12 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Get Organized with the Home Edit:
+    url: https://www.imdb.com/title/tt12923714/
+  Hayao Miyazaki:
+    url: https://www.imdb.com/name/nm0594503/
+  Estrelas Além do Tempo:
+    url: https://www.imdb.com/title/tt4846340/
   Lucifer:
     url: https://www.imdb.com/title/tt4052886/
   Modern Family:
@@ -1273,6 +1296,20 @@ movie:
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
 music:
+  Art Popular:
+    url: https://www.last.fm/music/Art+Popular
+  Raça Negra:
+    url: https://www.last.fm/music/Ra%C3%A7a+Negra
+  DJONGA:
+    url: https://www.last.fm/music/DJONGA
+  BK:
+    url: https://www.last.fm/music/BK
+  Sabotage:
+    url: https://www.last.fm/music/Sabotage
+  Tina Turner:
+    url: https://www.last.fm/music/Tina+Turner
+  Stevie Wonder:
+    url: https://www.last.fm/music/Stevie+Wonder
   Roxette:
     url: https://www.last.fm/music/Roxette
   Beyoncé - BLACK PARADE:
