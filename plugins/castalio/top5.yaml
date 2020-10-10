@@ -38,6 +38,10 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Batalha do Apocalipse:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse
+  "Filhos do Éden":
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Filhos+do+Éden
   Software Quality Engineering:
     url: https://www.goodreads.com/book/show/44542456-software-quality-engineering
   "Angela Y. Davis":
@@ -720,6 +724,10 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Animatrix:
+    url: http://www.imdb.com/find?s=all&q=Animatrix
+  The Walking Dead:
+    url: http://www.imdb.com/find?s=all&q=The+Walking+Dead
   Get Organized with the Home Edit:
     url: https://www.imdb.com/title/tt12923714/
   Hayao Miyazaki:
@@ -1296,6 +1304,10 @@ movie:
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
 music:
+  Iron Madden:
+    url: http://www.last.fm/search?q=Iron+Madden
+  Piresca Greco:
+    url: http://www.last.fm/search?q=Piresca+Greco
   Art Popular:
     url: https://www.last.fm/music/Art+Popular
   Raça Negra:
