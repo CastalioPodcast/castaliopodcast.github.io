@@ -62,24 +62,27 @@ Resumo
 -  **Previsão para o Ubuntu em 2012** 32:50
 -  **Conclusão** 34:14
 
-Top 5
------
--  **Música:** `Cesar Oliveira`_
--  **Música:** `Rogério Melo`_
--  **Música:** `Neto Fagundes`_
--  **Música:** `Piresca Greco`_
--  **Música:** `Iron Madden`_
--  **Música:** `AC/DC`_
--  **Música:** `Mettalica`_
--  **Música:** `Ludwig van Beethoven`_
--  **Música:** `Cidadão Quem`_
--  **Música:** `Capital Inicial`_
--  **Filmes:** `The Walking Dead`_
--  **Filmes:** `Inception`_
--  **Filmes:** `The Matrix`_
--  **Filmes:** `Animatrix`_
--  **Livros:** `Filhos do Éden`_
--  **Livros:** `Batalha do Apocalipse`_
+.. top5::
+
+    :music:
+        * Cesar Oliveira
+        * Rogério Melo
+        * Neto Fagundes
+        * Piresca Greco
+        * Iron Madden
+        * AC/DC
+        * Metallica
+        * Ludwig van Beethoven
+        * Cidadão Quem
+        * Capital Inicial
+    :movie:
+        * The Walking Dead
+        * Inception
+        * The Matrix
+        * Animatrix
+    :book:
+        * Filhos do Éden
+        * Batalha do Apocalipse
 
 Links
 -----
@@ -121,22 +124,6 @@ Links
 .. _BR-Linux: http://br-linux.org/
 .. _canal de vídeos: http://www.youtube.com/user/ubunterobr?feature=watch
 .. _Reinaldo Bispo: https://twitter.com/#!/corvolinoPUNK
-.. _Cesar Oliveira: http://www.last.fm/search?q=Cesar+Oliveira
-.. _Rogério Melo: http://www.last.fm/search?q=Rogério+Melo
-.. _Neto Fagundes: http://www.last.fm/search?q=Neto+Fagundes
-.. _Piresca Greco: http://www.last.fm/search?q=Piresca+Greco
-.. _Iron Madden: http://www.last.fm/search?q=Iron+Madden
-.. _AC/DC: http://www.last.fm/search?q=AC/DC
-.. _Mettalica: http://www.last.fm/search?q=Mettalica
-.. _Ludwig van Beethoven: http://www.last.fm/search?q=Ludwig+van+Beethoven
-.. _Cidadão Quem: http://www.last.fm/search?q=Cidadão+Quem
-.. _Capital Inicial: http://www.last.fm/search?q=Capital+Inicial
-.. _The Walking Dead: http://www.imdb.com/find?s=all&q=The+Walking+Dead
-.. _Inception: http://www.imdb.com/find?s=all&q=Inception
-.. _The Matrix: http://www.imdb.com/find?s=all&q=The+Matrix
-.. _Animatrix: http://www.imdb.com/find?s=all&q=Animatrix
-.. _Filhos do Éden: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Filhos+do+Éden
-.. _Batalha do Apocalipse: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse
 .. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
 .. _Ubuntero: https://duckduckgo.com/?q=Ubuntero
 .. _OpenCast: https://duckduckgo.com/?q=OpenCast
