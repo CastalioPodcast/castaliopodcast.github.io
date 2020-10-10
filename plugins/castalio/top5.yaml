@@ -38,6 +38,8 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  HBase:
+  url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase
   Batalha do Apocalipse:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse
   "Filhos do Éden":
@@ -724,6 +726,18 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Jogos Mortais:
+    url: http://www.imdb.com/find?s=all&q=Jogos+Mortais
+  "Lock, Stock and Two Smoking Barrels":
+    url: http://www.imdb.com/find?s=all&q=Lock,+Stock+and+Two+Smoking+Barrels
+  Sherlock Holmes:
+    url: http://www.imdb.com/find?s=all&q=Sherlock+Holmes
+  Guy Ritchie:
+    url: http://www.imdb.com/find?s=all&q=Guy+Ritchie
+  Big Band Theory:
+    url: http://www.imdb.com/find?s=all&q=Big+Band+Theory
+  White Collar:
+    url: http://www.imdb.com/find?s=all&q=White+Collar
   Animatrix:
     url: http://www.imdb.com/find?s=all&q=Animatrix
   The Walking Dead:
