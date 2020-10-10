@@ -67,20 +67,23 @@ Resumo
 -  **Top 5** 38:15
 -  **Conclusão** 47:50
 
-Top 5
------
--  **Música:** `Metallica`_
--  **Música:** `Megadeath`_
--  **Música:** `Rise Against the Machine`_
--  **Filmes:** `The Matrix`_
--  **Filmes:** `O Poderoso Chefão`_
--  **Filmes:** `De Volta para o Futuro`_
--  **Filmes:** `Star Gate`_
--  **Livros:** `Revista INPUT (Amazon)`_ (`PDFs`_ de todas)
--  **Livros:** `Presentation Zen`_
--  **Livros:** `Code`_
--  **Livros:** `O Conselheiro`_
--  **Livros:** `A Origem do Capitalism`_
+.. top5::
+
+    :music:
+        * Metallica
+        * Megadeath
+        * Rage Against the Machine
+    :movie:
+        * The Matrix
+        * O Poderoso Chefão
+        * De Volta para o Futuro
+        * Star Gate
+    :book:
+        * Revista INPUT
+        * Presentation Zen
+        * Code
+        * O Conselheiro
+        * A Origem do Capitalismo
 
 Links
 -----
@@ -148,18 +151,6 @@ Links
 .. _Revista INPUT: http://www.datacassete.com.br/
 .. _Welcome to the Django: http://welcometothedjango.com.br/
 .. _Dekode: http://dekode.com.br/
-.. _Metallica: http://www.last.fm/search?q=Metallica
-.. _Megadeath: http://www.last.fm/search?q=Megadeath
-.. _Rise Against the Machine: http://www.last.fm/search?q=Rise+Against+the+Machine
-.. _The Matrix: http://www.imdb.com/find?s=all&q=The+Matrix
-.. _O Poderoso Chefão: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão
-.. _De Volta para o Futuro: http://www.imdb.com/find?s=all&q=De+Volta+para+o+Futuro
-.. _Star Gate: http://www.imdb.com/find?s=all&q=Star+Gate
-.. _Revista INPUT (Amazon): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Revista+INPUT
-.. _Presentation Zen: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Presentation+Zen
-.. _Code: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Code
-.. _O Conselheiro: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Conselheiro
-.. _A Origem do Capitalism: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism
 .. _Guns and Roses: https://duckduckgo.com/?q=Guns+and+Roses
 .. _Django: https://duckduckgo.com/?q=Django
 .. _Coding Dojo: https://duckduckgo.com/?q=Coding+Dojo
@@ -212,7 +203,6 @@ Links
 .. _Código Morse: https://duckduckgo.com/?q=Código+Morse
 .. _Ellen Wood: https://duckduckgo.com/?q=Ellen+Wood
 .. _Hugo Doria: https://duckduckgo.com/?q=Hugo+Doria
-.. _PDFs: http://www.datassete.org/revistas/input/
 .. _1: http://devinrio.com.br/2009
 .. _2: http://devinrio.com.br/
 .. _3: http://vimeo.com/channels/devinrio
