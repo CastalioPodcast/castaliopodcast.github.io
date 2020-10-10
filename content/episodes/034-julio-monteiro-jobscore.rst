@@ -57,29 +57,33 @@ Resumo
 -  **Top 5** 34:00
 -  **Conclusão** 42:10
 
-Top 5
------
--  **Música:** `Daft Punk`_
--  **Música:** `Four Tet`_
--  **Música:** `Justice`_
--  **Música:** `Kraftwerk`_
--  **Música:** `Pat Metheny Group`_
--  **Música:** `Royksopp`_
--  **Música:** `Penguin Cafe Orchestra`_
--  **Música:** `Gotan Project`_
--  **Música:** `Tanghetto`_
--  **Podcast:** `Grok Podcast`_
--  **Podcast:** `NerdCast`_
--  **Podcast:** `Escriba Café`_
--  **Filmes:** `Howl's Moving Castle`_
--  **Filmes:** `Game of Thrones`_
--  **Filmes:** `The Big Bang Theory`_
--  **Filmes:** `The IT Crowd`_
--  **Filmes:** `Walking Dead`_
--  **Livros:** `The Tipping Poing`_
--  **Livros:** `Blink`_
--  **Livros:** `Outliers`_
--  **Livros:** `Drive`_
+.. top5::
+
+    :music:
+        * Daft Punk
+        * Four Tet
+        * Justice
+        * Kraftwerk
+        * Pat Metheny Group
+        * Royksopp
+        * Penguin Cafe Orchestra
+        * Gotan Project
+        * Tanghetto
+    :podcast:
+        * Grok Podcast
+        * Nerdcast
+        * Escriba Café
+    :movie:
+        * Howl's Moving Castle
+        * Game of Thrones
+        * The Big Bang Theory
+        * The IT Crowd
+        * The Walking Dead
+    :book:
+        * The Tipping Poing
+        * Blink
+        * Outliers
+        * Drive
 
 Links
 -----
@@ -125,27 +129,7 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
-.. _Daft Punk: http://www.last.fm/search?q=Daft+Punk
-.. _Four Tet: http://www.last.fm/search?q=Four+Tet
-.. _Justice: http://www.last.fm/search?q=Justice
-.. _Kraftwerk: http://www.last.fm/search?q=Kraftwerk
-.. _Pat Metheny Group: http://www.last.fm/search?q=Pat+Metheny+Group
-.. _Royksopp: http://www.last.fm/search?q=Royksopp
-.. _Penguin Cafe Orchestra: http://www.last.fm/search?q=Penguin+Cafe+Orchestra
-.. _Gotan Project: http://www.last.fm/search?q=Gotan+Project
-.. _Tanghetto: http://www.last.fm/search?q=Tanghetto
-.. _Grok Podcast: http://grokpodcast.com/
-.. _NerdCast: http://jovemnerd.ig.com.br/categoria/nerdcast/
-.. _Escriba Café: http://www.escribacafe.com/
-.. _Howl's Moving Castle: http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle
-.. _Game of Thrones: http://www.imdb.com/find?s=all&q=Game+of+Thrones
-.. _The Big Bang Theory: http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory
-.. _The IT Crowd: http://www.imdb.com/find?s=all&q=The+IT+Crowd
-.. _Walking Dead: http://www.imdb.com/find?s=all&q=Walking+Dead
-.. _The Tipping Poing: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Tipping+Poing
-.. _Blink: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Blink
-.. _Outliers: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Outliers
-.. _Drive: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive
+
 .. _JobScore: https://duckduckgo.com/?q=JobScore
 .. _Ubuntu Brasil: https://duckduckgo.com/?q=Ubuntu+Brasil
 .. _HTML: https://duckduckgo.com/?q=HTML

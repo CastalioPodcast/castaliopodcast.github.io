@@ -38,6 +38,14 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Drive:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive
+  Outliers:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Outliers
+  Blink:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Blink
+  The Tipping Poing:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Tipping+Poing
   A Origem do Capitalismo:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism
   Code:
@@ -734,6 +742,8 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  "Howl's Moving Castle":
+    url: http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle
   Star Gate:
     url: http://www.imdb.com/find?s=all&q=Star+Gate
   De Volta para o Futuro:
@@ -1330,6 +1340,8 @@ movie:
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
 music:
+  Royksopp:
+    url: http://www.last.fm/search?q=Royksopp
   Megadeath:
     url: http://www.last.fm/search?q=Megadeath
   Iron Madden:
@@ -2163,6 +2175,10 @@ pizza:
   Marguerita: {}
   Peperoni: {}
 podcast:
+  "Escriba Café":
+    url: http://www.escribacafe.com/
+  Grok Podcast:
+    url: http://grokpodcast.com/
   Accidental Tech Podcast:
     url: http://atp.fm/
   Android Developers Backstage:
