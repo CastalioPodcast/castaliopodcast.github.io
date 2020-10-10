@@ -38,8 +38,16 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  A Origem do Capitalismo:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism
+  Code:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Code
+  Presentation Zen:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Presentation+Zen
+  Revista INPUT:
+    url: http://www.datassete.org/revistas/input/
   HBase:
-  url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase
   Batalha do Apocalipse:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse
   "Filhos do Éden":
@@ -726,6 +734,10 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Star Gate:
+    url: http://www.imdb.com/find?s=all&q=Star+Gate
+  De Volta para o Futuro:
+    url: http://www.imdb.com/find?s=all&q=De+Volta+para+o+Futuro
   Jogos Mortais:
     url: http://www.imdb.com/find?s=all&q=Jogos+Mortais
   "Lock, Stock and Two Smoking Barrels":
@@ -1318,6 +1330,8 @@ movie:
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
 music:
+  Megadeath:
+    url: http://www.last.fm/search?q=Megadeath
   Iron Madden:
     url: http://www.last.fm/search?q=Iron+Madden
   Piresca Greco:
