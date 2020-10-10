@@ -60,21 +60,23 @@ Resumo
 -  **Top 5** 33:35
 -  **Conclusão** 38:23
 
-Top 5
------
--  **Música:** `Strokes`_
--  **Música:** `White Stripes`_
--  **Música:** `MGMT`_
--  **Música:** `Two Door Cinema Club`_
--  **Música:** `Daft Punk`_
--  **Filmes:** `White Collar`_
--  **Filmes:** `Big Band Theory`_
--  **Filmes:** `Dexter`_
--  **Filmes:** `Guy Ritchie`_
--  **Filmes:** `Sherlock Holmes`_
--  **Filmes:** `Lock, Stock and Two Smoking Barrels`_
--  **Filmes:** `Jogos Mortais`_
--  **Livros:** `HBase`_
+. top5::
+    :music:
+        * The Strokes
+        * The White Stripes
+        * MGMT
+        * Two Door Cinema Club
+        * Daft Punk
+    :movie:
+        * White Collar
+        * Big Band Theory
+        * Dexter
+        * Guy Ritchie
+        * Sherlock Holmes
+        * Lock, Stock and Two Smoking Barrels
+        * Jogos Mortais
+    :books:
+        * HBase2
 
 Links
 -----
@@ -140,19 +142,6 @@ Links
 .. Footer
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
-.. _Strokes: http://www.last.fm/search?q=Strokes
-.. _White Stripes: http://www.last.fm/search?q=White+Stripes
-.. _MGMT: http://www.last.fm/search?q=MGMT
-.. _Two Door Cinema Club: http://www.last.fm/search?q=Two+Door+Cinema+Club
-.. _Daft Punk: http://www.last.fm/search?q=Daft+Punk
-.. _White Collar: http://www.imdb.com/find?s=all&q=White+Collar
-.. _Big Band Theory: http://www.imdb.com/find?s=all&q=Big+Band+Theory
-.. _Dexter: http://www.imdb.com/find?s=all&q=Dexter
-.. _Guy Ritchie: http://www.imdb.com/find?s=all&q=Guy+Ritchie
-.. _Sherlock Holmes: http://www.imdb.com/find?s=all&q=Sherlock+Holmes
-.. _Lock, Stock and Two Smoking Barrels: http://www.imdb.com/find?s=all&q=Lock,+Stock+and+Two+Smoking+Barrels
-.. _Jogos Mortais: http://www.imdb.com/find?s=all&q=Jogos+Mortais
-.. _HBase: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase
 .. _Guake: https://duckduckgo.com/?q=Guake
 .. _Tilda: https://duckduckgo.com/?q=Tilda
 .. _Yakauke: https://duckduckgo.com/?q=Yakauke
