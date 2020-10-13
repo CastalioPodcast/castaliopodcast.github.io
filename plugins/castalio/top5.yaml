@@ -38,6 +38,16 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Hacker News:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News
+  Wikipedia:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Wikipedia
+  "Effective C++":
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Effective+C++
+  "Survivor: A Novel":
+    url: http://www.amazon.com/Survivor-A-Novel-Chuck-Palahniuk/dp/0385498721?tag=duckduckgo-d-20
+  Clube da Luta:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clube+da+Luta
   Drive:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive
   Outliers:
@@ -742,6 +752,14 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Being John Malkovich:
+    url: http://www.imdb.com/find?s=all&q=Being+John+Malkovich
+  Adaptation:
+    url: http://www.imdb.com/find?s=all&q=Adaptation
+  Vampire Diaries:
+    url: http://www.imdb.com/find?s=all&q=Vampire+Diaries
+  The Girl with the Dragon Tatoo:
+    url: http://www.imdb.com/find?s=all&q=The+Girl+with+the+Dragon+Tatoo
   "Howl's Moving Castle":
     url: http://www.imdb.com/find?s=all&q=Howl's+Moving+Castle
   Star Gate:
@@ -1340,6 +1358,11 @@ movie:
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
 music:
+
+  The Atomic BitchWax:
+    url: http://www.last.fm/search?q=The+Atomic+BitchWax
+  Radio Head:
+    url: http://www.last.fm/search?q=Radio+Head
   Royksopp:
     url: http://www.last.fm/search?q=Royksopp
   Megadeath:

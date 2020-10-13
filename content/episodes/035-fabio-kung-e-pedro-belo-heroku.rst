@@ -68,28 +68,31 @@ Resumo
 -  **Top 5** 33:29
 -  **Conclusão** 43:06
 
-Top 5
------
--  **Música:** `Radio Head`_
--  **Música:** `PJ Harvey`_
--  **Música:** `The Black Keys`_
--  **Música:** `Queens of the Stone Age`_
--  **Música:** `The Atomic BitchWax`_
--  **Música:** `Cold Play`_
--  **Filmes:** `The Girl with the Dragon Tatoo`_
--  **Filmes:** `O Senhor dos Anéis`_
--  **Filmes:** `Fringe`_
--  **Filmes:** `Vampire Diaries`_
--  **Filmes:** `Supernatural`_
--  **Filmes:** `The Big Bang Theory`_
--  **Filmes:** `Game of Thrones`_
--  **Filmes:** `Adaptation`_
--  **Filmes:** `Being John Malkovich`_
--  **Livros:** `Clube da Luta`_
--  **Livros:** `Survivor\: A Novel`_
--  **Livros:** `Effective C++`_
--  **Livros:** `Wikipedia`_
--  **Livros:** `Hacker News`_
+.. top5::
+
+    :music:
+        * Radio Head
+        * PJ Harvey
+        * The Black Keys
+        * Queens of the Stone Age
+        * The Atomic BitchWax
+        * Coldplay
+    :movie:
+        * The Girl with the Dragon Tatoo
+        * O Senhor dos Anéis
+        * Fringe
+        * Vampire Diaries
+        * Supernatural
+        * The Big Bang Theory
+        * Game of Thrones
+        * Adaptation
+        * Being John Malkovich
+    :book:
+        * Clube da Luta
+        * Survivor\: A Novel
+        * Effective C++
+        * Wikipedia
+        * Hacker News
 
 Links
 -----
@@ -147,26 +150,6 @@ Links
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
 .. _Henrique Bastos: http://www.castalio.info/henrique-bastos-welcome-to-the-django/
 .. _Júlio Monteiro: http://www.castalio.info/julio-monteiro-jobscore/
-.. _Radio Head: http://www.last.fm/search?q=Radio+Head
-.. _PJ Harvey: http://www.last.fm/search?q=PJ+Harvey
-.. _The Black Keys: http://www.last.fm/search?q=The+Black+Keys
-.. _Queens of the Stone Age: http://www.last.fm/search?q=Queens+of+the+Stone+Age
-.. _The Atomic BitchWax: http://www.last.fm/search?q=The+Atomic+BitchWax
-.. _Cold Play: http://www.last.fm/search?q=Cold+Play
-.. _The Girl with the Dragon Tatoo: http://www.imdb.com/find?s=all&q=The+Girl+with+the+Dragon+Tatoo
-.. _O Senhor dos Anéis: http://www.imdb.com/find?s=all&q=O+Senhor+dos+Anéis
-.. _Fringe: http://www.imdb.com/find?s=all&q=Fringe
-.. _Vampire Diaries: http://www.imdb.com/find?s=all&q=Vampire+Diaries
-.. _Supernatural: http://www.imdb.com/find?s=all&q=Supernatural
-.. _The Big Bang Theory: http://www.imdb.com/find?s=all&q=The+Big+Bang+Theory
-.. _Game of Thrones: http://www.imdb.com/find?s=all&q=Game+of+Thrones
-.. _Adaptation: http://www.imdb.com/find?s=all&q=Adaptation
-.. _Being John Malkovich: http://www.imdb.com/find?s=all&q=Being+John+Malkovich
-.. _Clube da Luta: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clube+da+Luta
-.. _Survivor\: A Novel: http://www.amazon.com/Survivor-A-Novel-Chuck-Palahniuk/dp/0385498721?tag=duckduckgo-d-20
-.. _Effective C++: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Effective+C++
-.. _Wikipedia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Wikipedia
-.. _Hacker News: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News
 .. _Heroku: https://duckduckgo.com/?q=Heroku
 .. _Platform as a Service: https://duckduckgo.com/?q=Platform+as+a+Service
 .. _Júlio Monteiro (DuckDuckGo): https://duckduckgo.com/?q=Júlio+Monteiro
