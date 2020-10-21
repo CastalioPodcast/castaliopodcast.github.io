@@ -69,37 +69,40 @@ Resumo
 -  **Small Acts Manifesto** 38:20
 -  **Conclusão** 41:42
 
-Top 5
------
--  **Música:** `In Flames`_
--  **Música:** `Metallica`_
--  **Música:** `Pantera`_
--  **Música:** `Sepultura`_
--  **Música:** `Pendulum`_
--  **Música:** `Massive Attack`_
--  **Música:** `Postal Service`_
--  **Música:** `Blink 182`_
--  **Música:** `Gold Finger`_
--  **Música:** `Rancid`_
--  **Filmes:** `Crash`_
--  **Filmes:** `The Avengers`_
--  **Filmes:** `Breaking Bad`_
--  **Filmes:** `United States of Tara`_
--  **Livros:** `Gunslinger`_
--  **Livros:** `Ramones`_
--  **Livros:** `Sepultura (Amazon)`_
--  **Livros:** `Mötley Crüe`_
--  **Twitter**: https://twitter.com/#!/henriquebastos
--  **Twitter**: https://twitter.com/#!/rafaelp
--  **Twitter**: https://twitter.com/#!/ramonpage
--  **Twitter**: https://twitter.com/#!/smergulhao
--  **Twitter**: https://twitter.com/#!/tapajos
--  **Twitter**: https://twitter.com/#!/viniciusteles
--  **Twitter**: https://twitter.com/#!/pellegrino
--  **Twitter**: https://twitter.com/#!/alegomes
--  **Twitter**: https://twitter.com/#!/avdi
--  **Twitter**: https://twitter.com/#!/envylabs
--  **Twitter**: https://twitter.com/#!/codeschool
+. top5::
+    :music:
+        * In Flames
+        * Metallica
+        * Pantera
+        * Sepultura
+        * Pendulum
+        * Massive Attack
+        * The Postal Service
+        * blink-182
+        * Gold Finger
+        * Rancid
+    :movie:
+        * Crash
+        * Avengers
+        * Breaking Bad
+        * United States of Tara
+    :book:
+        * Gunslinger
+        * Ramones
+        * Sepultura (Amazon)
+        * Mötley Crüe
+    :twitter:
+        * henriquebastos
+        * rafaelp
+        * ramonpage
+        * smergulhao
+        * tapajos
+        * viniciusteles
+        * pellegrino
+        * alegomes
+        * avdi
+        * envylabs
+        * codeschool
 
 Links
 -----
@@ -154,24 +157,6 @@ Links
 .. _Henrique Bastos: http://www.castalio.info/henrique-bastos-welcome-to-the-django/
 .. _música da banda: https://www.facebook.com/heroeswillfall?sk=app_204974879526524
 .. _Heroes Will Fall: https://www.facebook.com/heroeswillfall
-.. _In Flames: http://www.last.fm/search?q=In+Flames
-.. _Metallica: http://www.last.fm/search?q=Metallica
-.. _Pantera: http://www.last.fm/search?q=Pantera
-.. _Sepultura: http://www.last.fm/search?q=Sepultura
-.. _Pendulum: http://www.last.fm/search?q=Pendulum
-.. _Massive Attack: http://www.last.fm/search?q=Massive+Attack
-.. _Postal Service: http://www.last.fm/search?q=Postal+Service
-.. _Blink 182: http://www.last.fm/search?q=Blink+182
-.. _Gold Finger: http://www.last.fm/search?q=Gold+Finger
-.. _Rancid: http://www.last.fm/search?q=Rancid
-.. _Crash: http://www.imdb.com/find?s=all&q=Crash
-.. _The Avengers: http://www.imdb.com/find?s=all&q=The+Avengers
-.. _Breaking Bad: http://www.imdb.com/find?s=all&q=Breaking+Bad
-.. _United States of Tara: http://www.imdb.com/find?s=all&q=United+States+of+Tara
-.. _Gunslinger: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gunslinger
-.. _Ramones: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ramones
-.. _Sepultura (Amazon): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sepultura
-.. _Mötley Crüe: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Mötley+Crüe
 .. _Henrique Bastos (DuckDuckGo): https://duckduckgo.com/?q=Henrique+Bastos
 .. _Envy Labs: https://duckduckgo.com/?q=Envy+Labs
 .. _Ruby on Rails: https://duckduckgo.com/?q=Ruby+on+Rails
