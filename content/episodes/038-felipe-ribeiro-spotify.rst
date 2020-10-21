@@ -61,24 +61,28 @@ Resumo
 -  **Perks** 30:12
 -  **Conclusão** 32:22
 
-Top 5
------
--  **Música:** `Pearl Jam`_
--  **Música:** `Wolfmother`_
--  **Música:** `AC/DC`_
--  **Música:** `Creedence Clearwater Revival`_
--  **Música:** `Explosions in the Sky`_
--  **Filmes:** `Forrest Gump`_
--  **Filmes:** `Back to the future`_
--  **Filmes:** `Inception`_
--  **Filmes:** `The Big Lebowski`_
--  **Filmes:** `The Good, the Bad and the Ugly`_
--  **Livros:** `Programming pearls`_
--  **Livros:** `The algorithm design manual`_
--  **Livros:** `Being Geek`_
--  **Livros:** `The Hichhiker\'s guide to the galaxy`_
--  **Livros:** `Starman - Truth Behind the Legend of Yuri Gagarin`_
--  **Livros:** `Ensaio sobre a cegueira`_
+. top5::
+    :music:
+        * Pearl Jam
+        * Wolfmother
+        * AC/DC
+        * Creedence Clearwater Revival
+        * Explosions in the Sky
+
+    :movie:
+        * Forrest Gump
+        * Back to the future
+        * Inception
+        * The Big Lebowski
+        * The Good, the Bad and the Ugly
+
+    :book:
+        * Programming pearls
+        * The algorithm design manual
+        * Being Geek
+        * The Hichhiker's guide to the galaxy
+        * Starman - Truth Behind the Legend of Yuri Gagarin
+        * Ensaio sobre a cegueira
 
 Links
 -----
@@ -110,22 +114,6 @@ Links
 .. _presente: http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1
 .. _Spotify: http://www.spotify.com/
 .. _último episódio: http://www.castalio.info/flavio-ribeiro-globo-com/
-.. _Pearl Jam: http://www.last.fm/search?q=Pearl+Jam
-.. _Wolfmother: http://www.last.fm/search?q=Wolfmother
-.. _AC/DC: http://www.last.fm/search?q=AC/DC
-.. _Creedence Clearwater Revival: http://www.last.fm/search?q=Creedence+Clearwater+Revival
-.. _Explosions in the Sky: http://www.last.fm/search?q=Explosions+in+the+Sky
-.. _Forrest Gump: http://www.imdb.com/find?s=all&q=Forrest+Gump
-.. _Back to the future: http://www.imdb.com/find?s=all&q=Back+to+the+future
-.. _Inception: http://www.imdb.com/find?s=all&q=Inception
-.. _The Big Lebowski: http://www.imdb.com/find?s=all&q=The+Big+Lebowski
-.. _The Good, the Bad and the Ugly: http://www.imdb.com/find?s=all&q=The+Good,+the+Bad+and+the+Ugly
-.. _Programming pearls: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+pearls
-.. _The algorithm design manual: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+algorithm+design+manual
-.. _Being Geek: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Being+Geek
-.. _The Hichhiker\'s guide to the galaxy: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
-.. _Starman - Truth Behind the Legend of Yuri Gagarin: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starman:+Truth+Behind+the+Legend+of+Yuri+Gagarin
-.. _Ensaio sobre a cegueira: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ensaio+sobre+a+cegueira
 .. _Flávio Ribeiro: https://duckduckgo.com/?q=Flávio+Ribeiro
 .. _Spotify (DuckDuckGo): https://duckduckgo.com/?q=Spotify
 .. _Tuenti: https://duckduckgo.com/?q=Tuenti
