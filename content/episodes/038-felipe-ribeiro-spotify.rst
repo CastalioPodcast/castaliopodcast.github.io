@@ -61,7 +61,8 @@ Resumo
 -  **Perks** 30:12
 -  **Conclusão** 32:22
 
-. top5::
+.. top5::
+
     :music:
         * Pearl Jam
         * Wolfmother
@@ -74,7 +75,7 @@ Resumo
         * Back to the future
         * Inception
         * The Big Lebowski
-        * The Good, the Bad and the Ugly
+        * The Good, The Bad and The Ugly
 
     :book:
         * Programming pearls
