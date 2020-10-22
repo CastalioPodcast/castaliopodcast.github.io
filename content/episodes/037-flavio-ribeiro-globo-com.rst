@@ -59,7 +59,8 @@ Resumo
 -  **Top 5** 26:23
 -  **Conclusão** 34:10
 
-. top5::
+.. top5::
+
     :music:
         * The Strokes
         * Cooks
@@ -76,7 +77,7 @@ Resumo
         * The Cleveland Show
         * The Walking Dead
         * The Pacific
-        * Simpsons
+        * The Simpsons
 
     :book:
         * Clean Code
