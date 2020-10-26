@@ -60,25 +60,30 @@ Resumo
 -  **Top 5** 25:00
 -  **Conclusão** 33:50
 
-Top 5
------
--  **Música:** `Creedence Clearwater Revival`_
--  **Música:** `Led Zeppelin`_
--  **Música:** `Raul Seixas`_
--  **Música:** `The Raincoats`_
--  **Filmes:** `Chaves`_
--  **Filmes:** `The IT Crowd`_
--  **Filmes:** `Breaking Bad`_
--  **Filmes:** `Pedro Almodóvar`_
--  **Filmes:** `Sin City`_
--  **Filmes:** `Hell Boy`_
--  **Filmes:** `Constantine`_
--  **Livros:** `Rubem Alves`_
--  **Livros:** `Gandhi - A Magia dos gestos poéticos`_
--  **Livros:** `Casa 21`_
--  **Livros:** `Cidades Ilustradas`_
--  **Livros:** `Oscar Wilde`_
--  **Livros:** `The Picture of Dorian Gray`_
+.. top5::
+
+    :music:
+        * Creedence Clearwater Revival
+        * Led Zeppelin
+        * Raul Seixas
+        * The Raincoats
+
+    :movie:
+        * Chaves
+        * The IT Crowd
+        * Breaking Bad
+        * Pedro Almodovar
+        * Sin City
+        * Hell Boy
+        * Constantine
+
+    :book:
+        * Rubem Alves
+        * Gandhi - A Magia dos gestos poéticos
+        * Casa 21
+        * Cidades Ilustradas
+        * Oscar Wilde
+        * The Picture of Dorian Gray
 
 Links
 -----
@@ -112,23 +117,6 @@ Links
 .. _primeiro vídeo: https://www.youtube.com/watch?feature=player_embedded&v=qmwKZKb0f-Y
 .. _Google Plus: https://plus.google.com/107864992170817866192/posts
 .. _Twitter: https://twitter.com/#!/castaliopod
-.. _Creedence Clearwater Revival: http://www.last.fm/search?q=Creedence+Clearwater+Revival
-.. _Led Zeppelin: http://www.last.fm/search?q=Led+Zeppelin
-.. _Raul Seixas: http://www.last.fm/search?q=Raul+Seixas
-.. _The Raincoats: http://www.last.fm/search?q=The+Raincoats
-.. _Chaves: http://www.imdb.com/find?s=all&q=Chaves
-.. _The IT Crowd: http://www.imdb.com/find?s=all&q=The+IT+Crowd
-.. _Breaking Bad: http://www.imdb.com/find?s=all&q=Breaking+Bad
-.. _Pedro Almodóvar: http://www.imdb.com/find?s=all&q=Pedro+Almodóvar
-.. _Sin City: http://www.imdb.com/find?s=all&q=Sin+City
-.. _Hell Boy: http://www.imdb.com/find?s=all&q=Hell+Boy
-.. _Constantine: http://www.imdb.com/find?s=all&q=Constantine
-.. _Rubem Alves: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Rubem+Alves
-.. _Gandhi - A Magia dos gestos poéticos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gandhi:+A+Magia+dos+gestos+poéticos
-.. _Casa 21: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Casa+21
-.. _Cidades Ilustradas: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidades+Ilustradas
-.. _Oscar Wilde: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Oscar+Wilde
-.. _The Picture of Dorian Gray: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Picture+of+Dorian+Gray
 .. _Ambiente GNOME: https://duckduckgo.com/?q=Ambiente+GNOME
 .. _GNOME Brasil: https://duckduckgo.com/?q=GNOME+Brasil
 .. _Jonh Wendell: https://duckduckgo.com/?q=Jonh+Wendell
