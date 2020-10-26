@@ -143,7 +143,7 @@ Rocha, o Elyézer Rezende e o Og Maciel fizeram seu Top 5.
         * Michael Jackson
         * 2Cellos
     :movie:
-        * Avengers
+        * The Avengers
         * A Espera de um Milagre
         * A Onda
         * O Menino do Pijama Listrado

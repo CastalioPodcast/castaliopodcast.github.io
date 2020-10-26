@@ -38,6 +38,14 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  "Mötley Crüe: A Visual History, 1983-2005":
+    url: https://www.goodreads.com/book/show/5972946-m-tley-cr-e
+  "Ramones: An American Band":
+    url: https://www.goodreads.com/book/show/199448.Ramones
+  Relentless - Thirty Years of Sepultura:
+    url: https://www.goodreads.com/book/show/23677798-relentless---thirty-years-of-sepultura
+  The Gunslinger:
+    url: https://www.goodreads.com/book/show/43615.The_Gunslinger
   Hacker News:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News
   Wikipedia:
@@ -746,6 +754,22 @@ book:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Oscar+Wilde
   The Picture of Dorian Gray:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Picture+of+Dorian+Gray
+  Programming pearls:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+pearls
+  The algorithm design manual:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+algorithm+design+manual
+  Being Geek:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Being+Geek
+  The Hichhiker's guide to the galaxy:
+    url: https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
+  Starman - Truth Behind the Legend of Yuri Gagarin:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Starman:+Truth+Behind+the+Legend+of+Yuri+Gagarin
+  Ensaio sobre a cegueira:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ensaio+sobre+a+cegueira
+  Land of Lisp:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Land+of+Lisp
+  Hackers and Painters:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters
 game:
   Dark Souls:
     url: https://en.wikipedia.org/wiki/Dark_Souls
@@ -764,6 +788,8 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  United States of Tara:
+    url: https://www.imdb.com/title/tt1001482/
   Being John Malkovich:
     url: http://www.imdb.com/find?s=all&q=Being+John+Malkovich
   Adaptation:
@@ -900,7 +926,7 @@ movie:
     url: https://www.imdb.com/title/tt4189022/
   Avatar:
     url: https://www.imdb.com/title/tt0499549/
-  Avengers:
+  The Avengers:
     url: https://www.imdb.com/title/tt0848228/
   Batman:
     url: https://www.imdb.com/title/tt0372784/
@@ -1379,8 +1405,13 @@ movie:
     url: http://www.imdb.com/find?s=all&q=Hell+Boy
   Constantine:
     url: http://www.imdb.com/find?s=all&q=Constantine
+  Back to the future:
+    url: http://www.imdb.com/find?s=all&q=Back+to+the+future
+  The Cleveland Show:
+    url: http://www.imdb.com/find?s=all&q=The+Cleveland+Show
+  United States of Tara:
+    url: https://www.imdb.com/title/tt1001482/
 music:
-
   The Atomic BitchWax:
     url: http://www.last.fm/search?q=The+Atomic+BitchWax
   Radio Head:
@@ -2212,6 +2243,12 @@ music:
     url: https://www.last.fm/music/blink-182
   blink-182 - I miss you:
     url: https://www.last.fm/music/blink-182/_/I+Miss+You
+  Cooks:
+    url: http://www.last.fm/search?q=Cooks
+  Some 451:
+    url: http://www.last.fm/search?q=Some+451
+  Rise Against:
+    url: http://www.last.fm/search?q=Rise+Against
 pizza:
   Aliche: {}
   Catuperoni: {}
@@ -2283,3 +2320,26 @@ site:
     url: http://thedailywtf.com/
   Windows Central:
     url: http://www.windowscentral.com/
+twitter:
+  "@henriquebastos":
+    url: https://twitter.com/henriquebastos
+  "@rafaelp":
+    url: https://twitter.com/rafaelp
+  "@ramonpage":
+    url: https://twitter.com/ramonpage
+  "@smergulhao":
+    url: https://twitter.com/smergulhao
+  "@tapajos":
+    url: https://twitter.com/tapajos
+  "@viniciusteles":
+    url: https://twitter.com/viniciusteles
+  "@pellegrino":
+    url: https://twitter.com/pellegrino
+  "@alegomes":
+    url: https://twitter.com/alegomes
+  "@avdi":
+    url: https://twitter.com/avdi
+  "@envylabs":
+    url: https://twitter.com/envylabs
+  "@codeschool":
+    url: https://twitter.com/codeschool

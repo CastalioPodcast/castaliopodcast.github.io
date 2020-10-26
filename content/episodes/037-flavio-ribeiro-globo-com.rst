@@ -59,27 +59,32 @@ Resumo
 -  **Top 5** 26:23
 -  **Conclusão** 34:10
 
-Top 5
------
--  **Música:** `The Strokes`_
--  **Música:** `Cooks`_
--  **Música:** `The Fratellis`_
--  **Música:** `Some 451`_
--  **Música:** `Streetlight Manifesto`_
--  **Música:** `Silverchair`_
--  **Música:** `Rise Against`_
--  **Música:** `System of a Down`_
--  **Música:** `Flogging Molly`_
--  **Filmes:** `Family Guy`_
--  **Filmes:** `The Cleveland Show`_
--  **Filmes:** `The Walking Dead`_
--  **Filmes:** `The Pacific`_
--  **Filmes:** `Simpsons`_
--  **Livros:** `Clean Code`_
--  **Livros:** `The Clean Coder`_
--  **Livros:** `Land of Lisp`_
--  **Livros:** `Hackers and Painters`_
--  **Livros:** `Programming Collective Intelligence`_
+.. top5::
+
+    :music:
+        * The Strokes
+        * Cooks
+        * The Fratellis
+        * Some 451
+        * Streetlight Manifesto
+        * Silverchair
+        * Rise Against
+        * System of a Down
+        * Flogging Molly
+
+    :movie:
+        * Family Guy
+        * The Cleveland Show
+        * The Walking Dead
+        * The Pacific
+        * The Simpsons
+
+    :book:
+        * Clean Code
+        * The Clean Coder
+        * Land of Lisp
+        * Hackers and Painters
+        * Programming Collective Intelligence
 
 Links
 -----
@@ -148,25 +153,6 @@ Links
 .. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
 .. _Yuri Malheiros: http://www.castalio.info/yuri-malheiros-engenharia-de-software-e-inteligencia-artificial/
-.. _The Strokes: http://www.last.fm/search?q=The+Strokes
-.. _Cooks: http://www.last.fm/search?q=Cooks
-.. _The Fratellis: http://www.last.fm/search?q=The+Fratellis
-.. _Some 451: http://www.last.fm/search?q=Some+451
-.. _Streetlight Manifesto: http://www.last.fm/search?q=Streetlight+Manifesto
-.. _Silverchair: http://www.last.fm/search?q=Silverchair
-.. _Rise Against: http://www.last.fm/search?q=Rise+Against
-.. _System of a Down: http://www.last.fm/search?q=System+of+a+Down
-.. _Flogging Molly: http://www.last.fm/search?q=Flogging+Molly
-.. _Family Guy: http://www.imdb.com/find?s=all&q=Family+Guy
-.. _The Cleveland Show: http://www.imdb.com/find?s=all&q=The+Cleveland+Show
-.. _The Walking Dead: http://www.imdb.com/find?s=all&q=The+Walking+Dead
-.. _The Pacific: http://www.imdb.com/find?s=all&q=The+Pacific
-.. _Simpsons: http://www.imdb.com/find?s=all&q=Simpsons
-.. _Clean Code: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clean+Code
-.. _The Clean Coder: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Clean+Coder
-.. _Land of Lisp: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Land+of+Lisp
-.. _Hackers and Painters: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters
-.. _Programming Collective Intelligence: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Collective+Intelligence
 .. _Rede Globo: https://duckduckgo.com/?q=Rede+Globo
 .. _Scrum: https://duckduckgo.com/?q=Scrum
 .. _Big Brother: https://duckduckgo.com/?q=Big+Brother
