@@ -4,7 +4,7 @@ Henrique Bastos: Welcome to the Django
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-33/castalio-podcast-33.mp3
-:tags: .net, a origem do capitalism, adobe connect, adobe flash, amazon ec2, bernardo fontes, c++, caike, código morse, charles petzold, code, code review, coding dojo, coding sprint, controle de versão distribuído, datak7, de volta para o futuro, dekode, desenvolvimento ágil, django, ellen wood, fisl 2009, gabriel falcão, garr reynolds, genial, git, github, globo.com, go to pc, google, guake, guilherme chapievsky, guns and roses, henrique bastos, heroku, hoverboard, hugo doria, illustrator, jacob kaplan-moss, java, jeff patton, joomla, megadeath, metallica, metapix, o conselheiro, o poderoso chefão, photoshop, php rio, platform as a service (paas), porto alegre, presentation zen, pycon 2010, python, python brasil, revista input, rise against the machine, ryan ozimek, small acts, star gate, the matrix, tiago garcia, tk-85, vb.net, vimeo, webex, welcome to the django, zx spectrum
+:tags: .net, a origem do capitalism, adobe connect, adobe flash, amazon ec2, bernardo fontes, c++, caike, código morse, charles petzold, code, code review, coding dojo, coding sprint, controle de versão distribuído, datak7, de volta para o futuro, dekode, desenvolvimento ágil, django, ellen wood, fisl 2009, gabriel falcão, garr reynolds, genial, git, github, globo.com, go to pc, google, guake, guilherme chapievsky, guns and roses, henrique bastos, heroku, hoverboard, hugo doria, illustrator, jacob kaplan-moss, java, jeff patton, joomla, megadeth, metallica, metapix, o conselheiro, o poderoso chefão, photoshop, php rio, platform as a service (paas), porto alegre, presentation zen, pycon 2010, python, python brasil, revista input, rise against the machine, ryan ozimek, small acts, star gate, the matrix, tiago garcia, tk-85, vb.net, vimeo, webex, welcome to the django, zx spectrum
 :image: images/henriquebastos.png
 :image-alt: Henrique Bastos: Welcome to the Django
 
@@ -71,7 +71,7 @@ Resumo
 
     :music:
         * Metallica
-        * Megadeath
+        * Megadeth
         * Rage Against the Machine
     :movie:
         * The Matrix
