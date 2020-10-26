@@ -38,6 +38,14 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  "Mötley Crüe: A Visual History, 1983-2005":
+    url: https://www.goodreads.com/book/show/5972946-m-tley-cr-e
+  "Ramones: An American Band":
+    url: https://www.goodreads.com/book/show/199448.Ramones
+  Relentless - Thirty Years of Sepultura:
+    url: https://www.goodreads.com/book/show/23677798-relentless---thirty-years-of-sepultura
+  The Gunslinger:
+    url: https://www.goodreads.com/book/show/43615.The_Gunslinger
   Hacker News:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News
   Wikipedia:
@@ -734,14 +742,6 @@ book:
     url: https://www.goodreads.com/book/show/6600147-zagor-n-1
   "\xC1lgebra Linear e Aplica\xE7\xF5es":
     url: https://www.goodreads.com/book/show/17858710-lgebra-linear-e-aplica-es
-  Gunslinger:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gunslinger
-  Ramones:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ramones
-  Sepultura (Amazon):
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sepultura
-  Mötley Crüe:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Mötley+Crüe
 game:
   Dark Souls:
     url: https://en.wikipedia.org/wiki/Dark_Souls
@@ -760,6 +760,8 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  United States of Tara:
+    url: https://www.imdb.com/title/tt1001482/
   Being John Malkovich:
     url: http://www.imdb.com/find?s=all&q=Being+John+Malkovich
   Adaptation:
@@ -896,7 +898,7 @@ movie:
     url: https://www.imdb.com/title/tt4189022/
   Avatar:
     url: https://www.imdb.com/title/tt0499549/
-  Avengers:
+  The Avengers:
     url: https://www.imdb.com/title/tt0848228/
   Batman:
     url: https://www.imdb.com/title/tt0372784/
@@ -1368,7 +1370,6 @@ movie:
   United States of Tara:
     url: https://www.imdb.com/title/tt1001482/
 music:
-
   The Atomic BitchWax:
     url: http://www.last.fm/search?q=The+Atomic+BitchWax
   Radio Head:
@@ -2272,25 +2273,25 @@ site:
   Windows Central:
     url: http://www.windowscentral.com/
 twitter:
-  henriquebastos:
-    url: https://twitter.com/#!/henriquebastos
-  rafaelp:
-    url: https://twitter.com/#!/rafaelp
-  ramonpage:
-    url: https://twitter.com/#!/ramonpage
-  smergulhao:
-    url: https://twitter.com/#!/smergulhao
-  tapajos:
-    url: https://twitter.com/#!/tapajos
-  viniciusteles:
-    url: https://twitter.com/#!/viniciusteles
-  pellegrino:
-    url: https://twitter.com/#!/pellegrino
-  alegomes:
-    url: https://twitter.com/#!/alegomes
-  avdi:
-    url: https://twitter.com/#!/avdi
-  envylabs:
-    url: https://twitter.com/#!/envylabs
-  codeschool:
-    url: https://twitter.com/#!/codeschool
+  "@henriquebastos":
+    url: https://twitter.com/henriquebastos
+  "@rafaelp":
+    url: https://twitter.com/rafaelp
+  "@ramonpage":
+    url: https://twitter.com/ramonpage
+  "@smergulhao":
+    url: https://twitter.com/smergulhao
+  "@tapajos":
+    url: https://twitter.com/tapajos
+  "@viniciusteles":
+    url: https://twitter.com/viniciusteles
+  "@pellegrino":
+    url: https://twitter.com/pellegrino
+  "@alegomes":
+    url: https://twitter.com/alegomes
+  "@avdi":
+    url: https://twitter.com/avdi
+  "@envylabs":
+    url: https://twitter.com/envylabs
+  "@codeschool":
+    url: https://twitter.com/codeschool
