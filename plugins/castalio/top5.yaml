@@ -742,6 +742,10 @@ book:
     url: https://www.goodreads.com/book/show/6600147-zagor-n-1
   "\xC1lgebra Linear e Aplica\xE7\xF5es":
     url: https://www.goodreads.com/book/show/17858710-lgebra-linear-e-aplica-es
+  Land of Lisp:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Land+of+Lisp
+  Hackers and Painters:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters
 game:
   Dark Souls:
     url: https://en.wikipedia.org/wiki/Dark_Souls
@@ -1367,6 +1371,8 @@ movie:
     url: https://www.imdb.com/title/tt1166827/
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
+  The Cleveland Show:
+    url: http://www.imdb.com/find?s=all&q=The+Cleveland+Show
   United States of Tara:
     url: https://www.imdb.com/title/tt1001482/
 music:
@@ -2201,6 +2207,12 @@ music:
     url: https://www.last.fm/music/blink-182
   blink-182 - I miss you:
     url: https://www.last.fm/music/blink-182/_/I+Miss+You
+  Cooks:
+    url: http://www.last.fm/search?q=Cooks
+  Some 451:
+    url: http://www.last.fm/search?q=Some+451
+  Rise Against:
+    url: http://www.last.fm/search?q=Rise+Against
 pizza:
   Aliche: {}
   Catuperoni: {}
