@@ -84,26 +84,26 @@ Resumo
         * Rancid
     :movie:
         * Crash
-        * Avengers
+        * The Avengers
         * Breaking Bad
         * United States of Tara
     :book:
-        * Gunslinger
-        * Ramones
-        * Sepultura (Amazon)
-        * Mötley Crüe
+        * The Gunslinger
+        * Ramones: An American Band
+        * Relentless - Thirty Years of Sepultura
+        * Mötley Crüe: A Visual History, 1983-2005
     :twitter:
-        * henriquebastos
-        * rafaelp
-        * ramonpage
-        * smergulhao
-        * tapajos
-        * viniciusteles
-        * pellegrino
-        * alegomes
-        * avdi
-        * envylabs
-        * codeschool
+        * @henriquebastos
+        * @rafaelp
+        * @ramonpage
+        * @smergulhao
+        * @tapajos
+        * @viniciusteles
+        * @pellegrino
+        * @alegomes
+        * @avdi
+        * @envylabs
+        * @codeschool
 
 Links
 -----
