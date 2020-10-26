@@ -46,10 +46,6 @@ book:
     url: https://www.goodreads.com/book/show/23677798-relentless---thirty-years-of-sepultura
   The Gunslinger:
     url: https://www.goodreads.com/book/show/43615.The_Gunslinger
-  Hacker News:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hacker+News
-  Wikipedia:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Wikipedia
   "Effective C++":
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Effective+C++
   "Survivor: A Novel":
@@ -1430,10 +1426,6 @@ music:
     url: http://www.last.fm/search?q=Radio+Head
   Royksopp:
     url: http://www.last.fm/search?q=Royksopp
-  Megadeath:
-    url: http://www.last.fm/search?q=Megadeath
-  Iron Madden:
-    url: http://www.last.fm/search?q=Iron+Madden
   Piresca Greco:
     url: http://www.last.fm/search?q=Piresca+Greco
   Art Popular:
@@ -2262,7 +2254,7 @@ music:
   Some 451:
     url: http://www.last.fm/search?q=Some+451
   Rise Against:
-    url: http://www.last.fm/search?q=Rise+Against
+    url: https://www.last.fm/music/Rise+Against
 pizza:
   Aliche: {}
   Catuperoni: {}

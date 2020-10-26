@@ -4,7 +4,7 @@ Ivan Brasil Fuzzer: Ubuntero
 :author: Og Maciel
 :category: Podcast
 :podcast: https://archive.org/download/castalio-podcast-31/castalio-podcast-31.mp3
-:tags: ac/dc, animatrix, assembly, audacity, batalha do apocalipse, br-linux, c++, capital inicial, cesar oliveira, cidadão quem, cinelera, cobol, debian linux, delphi, eduardo spohr, filhos do éden, grupo caudílho livre, gtkrecordmydesktop, inception, iron madden, java, kdenlive, list, ludwig van beethoven, mettalica, mozilla thunderbird, neto fagundes, opencast, openshot, piresca greco, rogério melo, shell script, skype, skype call recorder, the matrix, the walking dead, twitter, ubuntero, ubuntu linux, ubuntu unity, vim, virtual box, w32 codecs, youtube
+:tags: ac/dc, animatrix, assembly, audacity, batalha do apocalipse, br-linux, c++, capital inicial, cesar oliveira, cidadão quem, cinelera, cobol, debian linux, delphi, eduardo spohr, filhos do éden, grupo caudílho livre, gtkrecordmydesktop, inception, iron maiden, java, kdenlive, list, ludwig van beethoven, mettalica, mozilla thunderbird, neto fagundes, opencast, openshot, piresca greco, rogério melo, shell script, skype, skype call recorder, the matrix, the walking dead, twitter, ubuntero, ubuntu linux, ubuntu unity, vim, virtual box, w32 codecs, youtube
 :image: images/ivanfuzzer.jpg
 :image-alt: Ivan Brasil Fuzzer: Ubuntero
 
@@ -69,7 +69,7 @@ Resumo
         * Rogério Melo
         * Neto Fagundes
         * Piresca Greco
-        * Iron Madden
+        * Iron Maiden
         * AC/DC
         * Metallica
         * Ludwig van Beethoven
