@@ -734,6 +734,14 @@ book:
     url: https://www.goodreads.com/book/show/6600147-zagor-n-1
   "\xC1lgebra Linear e Aplica\xE7\xF5es":
     url: https://www.goodreads.com/book/show/17858710-lgebra-linear-e-aplica-es
+  Gunslinger:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gunslinger
+  Ramones:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ramones
+  Sepultura (Amazon):
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sepultura
+  Mötley Crüe:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Mötley+Crüe
 game:
   Dark Souls:
     url: https://en.wikipedia.org/wiki/Dark_Souls
@@ -1357,6 +1365,8 @@ movie:
     url: https://www.imdb.com/title/tt1166827/
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
+  United States of Tara:
+    url: https://www.imdb.com/title/tt1001482/
 music:
 
   The Atomic BitchWax:
@@ -2261,3 +2271,26 @@ site:
     url: http://thedailywtf.com/
   Windows Central:
     url: http://www.windowscentral.com/
+twitter:
+  henriquebastos:
+    url: https://twitter.com/#!/henriquebastos
+  rafaelp:
+    url: https://twitter.com/#!/rafaelp
+  ramonpage:
+    url: https://twitter.com/#!/ramonpage
+  smergulhao:
+    url: https://twitter.com/#!/smergulhao
+  tapajos:
+    url: https://twitter.com/#!/tapajos
+  viniciusteles:
+    url: https://twitter.com/#!/viniciusteles
+  pellegrino:
+    url: https://twitter.com/#!/pellegrino
+  alegomes:
+    url: https://twitter.com/#!/alegomes
+  avdi:
+    url: https://twitter.com/#!/avdi
+  envylabs:
+    url: https://twitter.com/#!/envylabs
+  codeschool:
+    url: https://twitter.com/#!/codeschool
