@@ -742,6 +742,18 @@ book:
     url: https://www.goodreads.com/book/show/6600147-zagor-n-1
   "\xC1lgebra Linear e Aplica\xE7\xF5es":
     url: https://www.goodreads.com/book/show/17858710-lgebra-linear-e-aplica-es
+  Rubem Alves:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Rubem+Alves
+  Gandhi - A Magia dos gestos poéticos:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Gandhi:+A+Magia+dos+gestos+poéticos
+  Casa 21:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Casa+21
+  Cidades Ilustradas:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidades+Ilustradas
+  Oscar Wilde:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Oscar+Wilde
+  The Picture of Dorian Gray:
+    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Picture+of+Dorian+Gray
   Programming pearls:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+pearls
   The algorithm design manual:
@@ -1383,6 +1395,16 @@ movie:
     url: https://www.imdb.com/title/tt1166827/
   "\xC0 Procura da Felicidade":
     url: https://www.imdb.com/title/tt0454921/
+  Chaves:
+    url: http://www.imdb.com/find?s=all&q=Chaves
+  Pedro Almodovar:
+    url: http://www.imdb.com/find?s=all&q=Pedro+Almodóvar
+  Sin City:
+    url: http://www.imdb.com/find?s=all&q=Sin+City
+  Hell Boy:
+    url: http://www.imdb.com/find?s=all&q=Hell+Boy
+  Constantine:
+    url: http://www.imdb.com/find?s=all&q=Constantine
   Back to the future:
     url: http://www.imdb.com/find?s=all&q=Back+to+the+future
   The Cleveland Show:
