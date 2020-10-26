@@ -53,24 +53,29 @@ Resumo
 -  **Comunicando com o pessoal no Brasil** 28:40
 -  **Conclusão** 29:33
 
-Top 5
------
--  **Música:** `Samba`_
--  **Música:** `Martinho da Vila`_
--  **Música:** `Dominguinhos`_
--  **Música:** `Jack Johnson`_
--  **Música:** `Ben Harper`_
--  **Música:** `Yamandu Costa`_
--  **Filmes:** `O Poderoso Chefão I`_
--  **Filmes:** `O Poderoso Chefão II`_
--  **Filmes:** `O Clube da Luta`_
--  **Filmes:** `Inception`_
--  **Filmes:** `Amelie`_
--  **Livros:** `Introdução a Algorítimos`_
--  **Livros:** `Programming Perl`_
--  **Livros:** `Zen, The Art of Motocycle Repair`_
--  **Livros:** `Pelejas de Ojuara, o Homem que Desafiou o Diabo`_
--  **Livros:** `The Visual Display of Quantitative Information`_
+.. top5::
+
+    :music:
+        * Samba
+        * Martinho Da Vila
+        * Dominguinhos
+        * Jack Johnson
+        * Ben Harper
+        * Yamandu Costa
+
+    :movie:
+        * O Poderoso Chefão
+        * O Poderoso Chefão II
+        * Clube da Luta
+        * Inception
+        * Amelie
+
+    :book:
+        * Introdução a Algorítimos
+        * Programming Perl
+        * Zen, The Art of Motocycle Repair
+        * Pelejas de Ojuara, o Homem que Desafiou o Diabo
+        * The Visual Display of Quantitative Information
 
 Links
 -----
@@ -99,22 +104,6 @@ Links
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
 .. _Ubuntero: http://www.ubuntero.com.br
 .. _aqui: http://www.youtube.com/watch?v=4aYZTH93OMg&feature=plcp
-.. _Samba: http://www.last.fm/search?q=Samba
-.. _Martinho da Vila: http://www.last.fm/search?q=Martinho+da+Vila
-.. _Dominguinhos: http://www.last.fm/search?q=Dominguinhos
-.. _Jack Johnson: http://www.last.fm/search?q=Jack+Johnson
-.. _Ben Harper: http://www.last.fm/search?q=Ben+Harper
-.. _Yamandu Costa: http://www.last.fm/search?q=Yamandu+Costa
-.. _O Poderoso Chefão I: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+I
-.. _O Poderoso Chefão II: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão+II
-.. _O Clube da Luta: http://www.imdb.com/find?s=all&q=O+Clube+da+Luta
-.. _Inception: http://www.imdb.com/find?s=all&q=Inception
-.. _Amelie: http://www.imdb.com/find?s=all&q=Amelie
-.. _Introdução a Algorítimos: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Introdução+a+Algorítimos
-.. _Programming Perl: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programming+Perl
-.. _Zen, The Art of Motocycle Repair: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Zen,+The+Art+of+Motocycle+Repair
-.. _Pelejas de Ojuara, o Homem que Desafiou o Diabo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pelejas+de+Ojuara,+o+Homem+que+Desafiou+o+Diabo
-.. _The Visual Display of Quantitative Information: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Visual+Display+of+Quantitative+Information
 .. _Ubuntero (DuckDuckGo): https://duckduckgo.com/?q=Ubuntero
 .. _Youtube: https://duckduckgo.com/?q=Youtube
 .. _Facebook: https://duckduckgo.com/?q=Facebook
