@@ -89,8 +89,9 @@ Resumo
         * Being John Malkovich
     :book:
         * Clube da Luta
-        * Survivor\: A Novel
+        * Survivor
         * Effective C++
+    :site:
         * Wikipedia
         * Hacker News
 
