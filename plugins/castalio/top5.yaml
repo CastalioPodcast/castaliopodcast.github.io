@@ -47,11 +47,11 @@ book:
   The Gunslinger:
     url: https://www.goodreads.com/book/show/43615.The_Gunslinger
   "Effective C++":
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Effective+C++
-  "Survivor: A Novel":
-    url: http://www.amazon.com/Survivor-A-Novel-Chuck-Palahniuk/dp/0385498721?tag=duckduckgo-d-20
+    url: https://www.goodreads.com/book/show/105125.Effective_C_
+  Survivor:
+    url: https://www.goodreads.com/book/show/22283.Survivor
   Clube da Luta:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Clube+da+Luta
+    url: https://www.goodreads.com/book/show/13583337-clube-da-luta
   Drive:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Drive
   Outliers:
@@ -62,8 +62,6 @@ book:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Tipping+Poing
   A Origem do Capitalismo:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Origem+do+Capitalism
-  Code:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Code
   Presentation Zen:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Presentation+Zen
   Revista INPUT:
@@ -2324,6 +2322,8 @@ site:
     url: http://www.quirksmode.org/blog/
   The Daily WTF:
     url: http://thedailywtf.com/
+  Wikipedia:
+    url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
   Windows Central:
     url: http://www.windowscentral.com/
 twitter:
