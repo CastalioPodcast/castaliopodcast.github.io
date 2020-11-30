@@ -24,16 +24,6 @@ Loyanne Cristine, sejam muito bem-vindas ao Castálio Podcast.
 .. podcast:: castalio-podcast-152
     :heading: Escute enquanto lê os show notes!
 
-.. raw:: html
-
-    <div class="row">
-        <div class="col-md-12">
-            <a href="http://mng.bz/Qxnj" target="_blank">
-                <img class="img-responsive" src="images/women-in-tech-conference.jpg" alt="live@manning Women in Technology" />
-            </a>
-        </div>
-    </div>
-
 
 Tópicos abordados neste episódio
 ================================
