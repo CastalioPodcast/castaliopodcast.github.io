@@ -38,6 +38,12 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Jorge Amado:
+    url: https://www.goodreads.com/author/show/52683.Jorge_Amado
+  Portões de Fogo:
+    url: https://www.goodreads.com/book/show/9730575-port-es-de-fogo
+  Stalingrado - O Cerco Fatal:
+    url: https://www.goodreads.com/book/show/13616012-stalingrado---o-cerco-fatal
   "Mötley Crüe: A Visual History, 1983-2005":
     url: https://www.goodreads.com/book/show/5972946-m-tley-cr-e
   "Ramones: An American Band":
@@ -790,6 +796,8 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Círculo de Fogo:
+    url: https://www.imdb.com/title/tt1663662/
   United States of Tara:
     url: https://www.imdb.com/title/tt1001482/
   Being John Malkovich:

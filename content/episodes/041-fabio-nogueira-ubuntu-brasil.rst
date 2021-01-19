@@ -74,18 +74,22 @@ Resumo
 -  **Palavras finais** 36:26
 -  **Conclusão** 42:38
 
-Top 5
------
--  **Música:** `Elvis Presley`_
--  **Música:** `Johnny Cash`_
--  **Música:** `Bee Gees`_
--  **Música:** `Black Sabath`_
--  **Música:** `Deep Purple`_
--  **Filmes:** `De volta para o futuro`_
--  **Filmes:** `Círculo de fogo`_
--  **Livros:** `Stalingrado Cerco Fatal`_
--  **Livros:** `Portões de Fogo`_
--  **Livros:** `Jorge Amado`_
+.. top5::
+
+    :music:
+        * Elvis Presley
+        * Johnny Cash
+        * Bee Gees
+        * Black Sabbath
+        * Deep Purple
+    :movie:
+        * De Volta para o Futuro
+        * Círculo de Fogo
+    :book:
+        * Stalingrado - O Cerco Fatal
+        * Portões de Fogo
+        * Jorge Amado
+
 
 Links
 -----
@@ -125,16 +129,6 @@ Links
 .. _vídeo: http://www.youtube.com/watch?v=Dgf8Bvn8tYI
 .. _Rodrigo Belém: http://www.castalio.info/rodrigo-belem-ubuntu-brasil/
 .. _http://blog.fnogueira.com.br: http://blog.fnogueira.com.br/
-.. _Elvis Presley: http://www.last.fm/search?q=Elvis+Presley
-.. _Johnny Cash: http://www.last.fm/search?q=Johnny+Cash
-.. _Bee Gees: http://www.last.fm/search?q=Bee+Gees
-.. _Black Sabath: http://www.last.fm/search?q=Black+Sabath
-.. _Deep Purple: http://www.last.fm/search?q=Deep+Purple
-.. _De volta para o futuro: http://www.imdb.com/find?s=all&q=De+volta+para+o+futuro
-.. _Círculo de fogo: http://www.imdb.com/find?s=all&q=Círculo+de+fogo
-.. _Stalingrado Cerco Fatal: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Stalingrado+Cerco+Fatal
-.. _Portões de Fogo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Portões+de+Fogo
-.. _Jorge Amado: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jorge+Amado
 .. _Ubuntu Brasil: https://duckduckgo.com/?q=Ubuntu+Brasil
 .. _Kalango Linux: https://duckduckgo.com/?q=Kalango+Linux
 .. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
