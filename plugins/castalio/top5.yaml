@@ -38,6 +38,16 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  I, Woz:
+    url: https://www.goodreads.com/book/show/1891297.I_Woz
+  A Noite dos Tempos:
+    url: https://www.goodreads.com/book/show/15945726-a-noite-dos-tempos
+  "Pandora's Star":
+    url: https://www.goodreads.com/book/show/45252.Pandora_s_Star
+  Guerra do Velho:
+    url: https://www.goodreads.com/book/show/29606110-guerra-do-velho
+  Trilogia A Fundação:
+    url: https://www.goodreads.com/book/show/46654.The_Foundation_Trilogy
   Jorge Amado:
     url: https://www.goodreads.com/author/show/52683.Jorge_Amado
   Portões de Fogo:
@@ -796,6 +806,12 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Perdidos no Espaço:
+    url: https://www.imdb.com/title/tt0120738/
+  Ministério do Tempo:
+    url: https://www.imdb.com/title/tt4136774/
+  The Expanse:
+    url: https://www.imdb.com/title/tt3230854/
   Círculo de Fogo:
     url: https://www.imdb.com/title/tt1663662/
   United States of Tara:
@@ -1426,6 +1442,10 @@ movie:
   United States of Tara:
     url: https://www.imdb.com/title/tt1001482/
 music:
+  The Tragically Hip:
+    url: https://www.last.fm/music/The+Tragically+Hip
+  Cazuza:
+    url: https://www.last.fm/music/Cazuza
   The Atomic BitchWax:
     url: http://www.last.fm/search?q=The+Atomic+BitchWax
   Radio Head:
@@ -1937,7 +1957,7 @@ music:
     url: https://www.last.fm/music/Miles+Davis?ac=miles
   Miles Davis - Kind of Blue:
     url: https://www.last.fm/music/Miles+Davis/Kind+of+Blue
-  Milton Nacimento:
+  Milton Nascimento:
     url: https://www.last.fm/music/Milton+Nascimento
   Moby:
     url: https://www.last.fm/music/Moby

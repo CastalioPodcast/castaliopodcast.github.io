@@ -87,7 +87,7 @@ Escute Agora
         * Massive Attack
         * Belchior
         * Clube da Esquina
-        * Milton Nacimento
+        * Milton Nascimento
         * Kleiton e Kledir
     :movie:
         * Earthlings (Terráqueos)
