@@ -62,28 +62,31 @@ Resumo
 -  **Top 5** 37:00
 -  **Conclusão** 42:38
 
-Top 5
------
--  **Música:** `Sex Pistols`_
--  **Música:** `Dead Kennedys`_
--  **Música:** `U2`_
--  **Música:** `R.E.M.`_
--  **Música:** `Norah Jones`_
--  **Música:** `Madeleine Peyroux`_
--  **Música:** `Carla Bruni`_
--  **Música:** `Jorge Ben`_
--  **Música:** `The Beatles`_
--  **Filmes:** `House`_
--  **Filmes:** `Breaking Bad`_
--  **Filmes:** `Two and a Half Man`_
--  **Filmes:** `Game of Thrones`_
--  **Livros:** `John Sandford`_
--  **Livros:** `Michael Connelly`_
--  **Livros:** `David Baldacci`_
--  **Livros:** `Steve Jobs`_
--  **Livros:** `Albert Einstein`_
--  **Livros:** `Jeffrey Archer`_
--  **Livros:** `Airton Ortiz`_
+.. top5::
+
+    :music:
+        * Sex Pistols
+        * Dead Kennedys
+        * U2
+        * R.E.M.
+        * Norah Jones
+        * Madeleine Peyroux
+        * Carla Bruni
+        * Jorge Ben
+        * The Beatles
+    :movie:
+        * House M.D.
+        * Breaking Bad
+        * Two and a Half Men
+        * Game of Thrones
+    :book:
+        * John Sandford
+        * Michael Connelly
+        * David Baldacci
+        * Steve Jobs
+        * Albert Einstein
+        * Jeffrey Archer
+        * Airton Ortiz
 
 Links
 -----
@@ -117,26 +120,6 @@ Links
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
 .. _Youtube: http://www.youtube.com/watch?v=k58aVfWhIWE&feature=g-upl
 .. _@caccac: http://twitter.com/#!/caccac
-.. _Sex Pistols: http://www.last.fm/search?q=Sex+Pistols
-.. _Dead Kennedys: http://www.last.fm/search?q=Dead+Kennedys
-.. _U2: http://www.last.fm/search?q=U2
-.. _R.E.M.: http://www.last.fm/search?q=R.E.M.
-.. _Norah Jones: http://www.last.fm/search?q=Norah+Jones
-.. _Madeleine Peyroux: http://www.last.fm/search?q=Madeleine+Peyroux
-.. _Carla Bruni: http://www.last.fm/search?q=Carla+Bruni
-.. _Jorge Ben: http://www.last.fm/search?q=Jorge+Ben
-.. _The Beatles: http://www.last.fm/search?q=The+Beatles
-.. _House: http://www.imdb.com/find?s=all&q=House
-.. _Breaking Bad: http://www.imdb.com/find?s=all&q=Breaking+Bad
-.. _Two and a Half Man: http://www.imdb.com/find?s=all&q=Two+and+a+Half+Man
-.. _Game of Thrones: http://www.imdb.com/find?s=all&q=Game+of+Thrones
-.. _John Sandford: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=John+Sandford
-.. _Michael Connelly: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Michael+Connelly
-.. _David Baldacci: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=David+Baldacci
-.. _Steve Jobs: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Steve+Jobs
-.. _Albert Einstein: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Albert+Einstein
-.. _Jeffrey Archer: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jeffrey+Archer
-.. _Airton Ortiz: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Airton+Ortiz
 .. _Leo Laporte: https://duckduckgo.com/?q=Leo+Laporte
 .. _MacBreak Weekly: https://duckduckgo.com/?q=MacBreak+Weekly
 .. _Computadores Apple: https://duckduckgo.com/?q=Computadores+Apple

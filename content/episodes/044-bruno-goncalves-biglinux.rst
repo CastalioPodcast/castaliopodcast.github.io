@@ -67,26 +67,29 @@ Resumo
 -  **Top 5** 38:50
 -  **Conclusão** 41:00
 
-Top 5
------
--  **Música:** `Raul Seixas`_
--  **Música:** `Ultrage a Rigor`_
--  **Música:** `Chuck Berry`_
--  **Música:** `Elvis Presley`_
--  **Música:** `Planet Hemp`_
--  **Música:** `Frejat`_
--  **Filmes:** `Rocky`_
--  **Filmes:** `Scarface`_
--  **Filmes:** `Chavez`_
--  **Filmes:** `Chapolin`_
--  **Filmes:** `O Grande Dragão Branco`_
--  **Livros:** `Fórum BigLinux`_
--  **Livros:** `Fórum Ubuntu BR`_
--  **Livros:** `Fórum Outer Space`_
--  **Livros:** `Fórum Hard Science`_
--  **Livros:** `BR-Linux`_
--  **Livros:** `Forum nix`_
--  **Livros:** `Planet KDE`_
+.. top5::
+
+    :music:
+        * Raul Seixas
+        * Ultraje a Rigor
+        * Chuck Berry
+        * Elvis Presley
+        * Planet Hemp
+        * Frejat
+    :movie:
+        * Rocky
+        * Scarface
+        * Chaves
+        * Chapolin
+        * O Grande Dragão Branco
+    :site:
+        * Fórum BigLinux
+        * Fórum Ubuntu BR
+        * Fórum Outer Space
+        * Fórum Hard Science
+        * BR-Linux
+        * Forum nix
+        * Planet KDE
 
 Links
 -----
@@ -138,24 +141,6 @@ Links
 .. _BigBashLinux: http://code.google.com/p/bigbashview/
 .. _aqui: http://biglinux.com.br/forum/viewforum.php?f=62
 .. _vídeo: http://www.youtube.com/watch?v=lpDNGGOw_tY&feature=g-all-u
-.. _Raul Seixas: http://www.last.fm/search?q=Raul+Seixas
-.. _Ultrage a Rigor: http://www.last.fm/search?q=Ultrage+a+Rigor
-.. _Chuck Berry: http://www.last.fm/search?q=Chuck+Berry
-.. _Elvis Presley: http://www.last.fm/search?q=Elvis+Presley
-.. _Planet Hemp: http://www.last.fm/search?q=Planet+Hemp
-.. _Frejat: http://www.last.fm/search?q=Frejat
-.. _Rocky: http://www.imdb.com/find?s=all&q=Rocky
-.. _Scarface: http://www.imdb.com/find?s=all&q=Scarface
-.. _Chavez: http://www.imdb.com/find?s=all&q=Chavez
-.. _Chapolin: http://www.imdb.com/find?s=all&q=Chapolin
-.. _O Grande Dragão Branco: http://www.imdb.com/find?s=all&q=O+Grande+Dragão+Branco
-.. _Fórum BigLinux: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+BigLinux
-.. _Fórum Ubuntu BR: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Ubuntu+BR
-.. _Fórum Outer Space: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Outer+Space
-.. _Fórum Hard Science: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fórum+Hard+Science
-.. _BR-Linux: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=BR-Linux
-.. _Forum nix: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Forum+nix
-.. _Planet KDE: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Planet+KDE
 .. _Vladimir Melo: https://duckduckgo.com/?q=Vladimir+Melo
 .. _BigLinux (DuckDuckGo): https://duckduckgo.com/?q=BigLinux
 .. _Bruno Gonçalves: https://duckduckgo.com/?q=Bruno+Gonçalves

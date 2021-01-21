@@ -38,6 +38,48 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  André Vianco:
+    url: https://www.goodreads.com/author/show/1243609.Andr_Vianco
+  Rubem Braga:
+    url: https://www.goodreads.com/author/show/381467.Rubem_Braga
+  Castro Alves:
+    url: https://www.goodreads.com/author/show/17732224.Castro_Alves
+  Para Gostar de Ler:
+    url: https://www.goodreads.com/series/220780-para-gostar-de-ler
+  Fernão Capelo Gaivota:
+    url: https://www.goodreads.com/book/show/6740506-fern-o-capelo-gaivota
+  Richard Bach:
+    url: https://www.goodreads.com/author/show/16904.Richard_Bach
+  Longe é um lugar que não existe:
+    url: https://www.goodreads.com/book/show/6249707-longe-um-lugar-que-n-o-existe
+  Eduardo Galeano:
+    url: https://www.goodreads.com/author/show/5822041.Eduardo_Galeano
+  Design for Hackers:
+    url: https://www.goodreads.com/book/show/11457105-design-for-hackers
+  Eduardo Spohr:
+    url: https://www.goodreads.com/author/show/938918.Eduardo_Spohr
+  Os Sertões:
+    url: https://www.goodreads.com/book/show/12145748-os-sert-es---volume-i
+  Euclides da Cunha:
+    url: https://www.goodreads.com/author/show/458836.Euclides_da_Cunha
+  Khaled Hosseini:
+    url: https://www.goodreads.com/author/show/569.Khaled_Hosseini
+  A Cidade do Sol:
+    url: https://www.goodreads.com/book/show/6336093-a-cidade-do-sol
+  Pablo Neruda:
+    url: https://www.goodreads.com/author/show/4026.Pablo_Neruda
+  Airton Ortiz:
+    url: https://www.goodreads.com/author/show/2925176.Airton_Ortiz
+  Jeffrey Archer:
+    url: https://www.goodreads.com/author/show/4820.Jeffrey_Archer
+  Albert Einstein:
+    url: https://www.goodreads.com/author/show/9810.Albert_Einstein
+  David Baldacci:
+    url: https://www.goodreads.com/author/show/9291.David_Baldacci
+  Michael Connelly:
+    url: https://www.goodreads.com/author/show/12470.Michael_Connelly
+  John Sandford:
+    url: https://www.goodreads.com/author/show/4610.John_Sandford
   I, Woz:
     url: https://www.goodreads.com/book/show/1891297.I_Woz
   A Noite dos Tempos:
@@ -84,8 +126,8 @@ book:
     url: http://www.datassete.org/revistas/input/
   HBase:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=HBase
-  Batalha do Apocalipse:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse
+  A Batalha do Apocalipse:
+    url: https://www.goodreads.com/book/show/2067912.A_Batalha_do_Apocalipse
   "Filhos do Éden":
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Filhos+do+Éden
   Software Quality Engineering:
@@ -786,8 +828,8 @@ book:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ensaio+sobre+a+cegueira
   Land of Lisp:
     url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Land+of+Lisp
-  Hackers and Painters:
-    url: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters
+  Hackers & Painters:
+    url: https://www.goodreads.com/book/show/41793.Hackers_Painters
 game:
   Dark Souls:
     url: https://en.wikipedia.org/wiki/Dark_Souls
@@ -806,6 +848,15 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Novela: {}
+  O Grande Dragão Branco:
+    url: https://www.imdb.com/title/tt0092675/
+  Rocky:
+    url: https://www.imdb.com/title/tt0075148/
+  Homeland:
+    url: https://www.imdb.com/title/tt1796960/
+  Two and a Half Men:
+    url: https://www.imdb.com/title/tt0369179/
   Perdidos no Espaço:
     url: https://www.imdb.com/title/tt0120738/
   Ministério do Tempo:
@@ -1426,7 +1477,7 @@ movie:
   Amelie:
     url: http://www.imdb.com/find?s=all&q=Amelie
   Chaves:
-    url: http://www.imdb.com/find?s=all&q=Chaves
+    url: https://www.imdb.com/title/tt0229889/
   Pedro Almodovar:
     url: http://www.imdb.com/find?s=all&q=Pedro+Almodóvar
   Sin City:
@@ -2316,6 +2367,17 @@ podcast:
   Um Milkshake Chamado Wanda:
     url: https://soundcloud.com/ummilkshakechamadowanda
 site:
+  Fórum BigLinux:
+    url: https://www.biglinux.com.br/forum/
+  Fórum Ubuntu BR:
+    url: https://ubuntuforum-br.org/
+  Fórum Outer Space:
+    url: https://forum.outerspace.com.br/
+  Fórum Hard Science: {}
+  Forum nix:
+    url: https://discourse.nixos.org/
+  Planet KDE:
+    url: https://planet.kde.org/
   Android Central:
     url: http://www.androidcentral.com/
   Awesome Go:

@@ -83,7 +83,7 @@ Resumo
         * Clean Code
         * The Clean Coder
         * Land of Lisp
-        * Hackers and Painters
+        * Hackers & Painters
         * Programming Collective Intelligence
 
 Links

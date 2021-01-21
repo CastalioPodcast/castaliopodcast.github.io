@@ -61,23 +61,27 @@ Resumo
 -  **Gangnam Style** 37:27
 -  **Conclusão** 39:05
 
-Top 5
------
--  **Música:** `Hugh Laurie`_
--  **Filmes:** `Novela`_
--  **Filmes:** `Lisbela e o Prisioneiro`_
--  **Filmes:** `Homem de Ferro`_
--  **Filmes:** `Batman`_
--  **Filmes:** `Os Vingadores`_
--  **Livros:** `Longe é um lugar que não existe`_
--  **Livros:** `Richard Bach`_
--  **Livros:** `Fernão Capelo Gaivota`_
--  **Livros:** `Para Gostar de Ler`_
--  **Livros:** `Carlos Drummond de Andrade`_
--  **Livros:** `Ben Alves`_
--  **Livros:** `Fernando Sabino`_
--  **Livros:** `André Vianco`_
--  **Livros:** `Hackers and Painters`_
+.. top5::
+
+    :music:
+        * Hugh Laurie
+    :movie:
+        * Novela
+        * Lisbela e o Prisioneiro
+        * Homem de Ferro
+        * Batman
+        * Os Vingadores
+    :book:
+        * Longe é um lugar que não existe
+        * Richard Bach
+        * Fernão Capelo Gaivota
+        * Para Gostar de Ler
+        * Carlos Drummond de Andrade
+        * Castro Alves
+        * Rubem Braga
+        * Fernando Sabino
+        * André Vianco
+        * Hackers & Painters
 
 Links
 -----
@@ -111,21 +115,6 @@ Links
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
 .. _Gangnam Style: https://www.youtube.com/watch?v=9bZkp7q19f0
 .. _aqui: http://bit.ly/QTNlg0
-.. _Hugh Laurie: http://www.last.fm/search?q=Hugh+Laurie
-.. _Novela: http://www.imdb.com/find?s=all&q=Novela
-.. _Lisbela e o Prisioneiro: http://www.imdb.com/find?s=all&q=Lisbela+e+o+Prisioneiro
-.. _Homem de Ferro: http://www.imdb.com/find?s=all&q=Homem+de+Ferro
-.. _Batman: http://www.imdb.com/find?s=all&q=Batman
-.. _Os Vingadores: http://www.imdb.com/find?s=all&q=Os+Vingadores
-.. _Longe é um lugar que não existe: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Longe+é+um+lugar+que+não+existe
-.. _Richard Bach: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Richard+Bach
-.. _Fernão Capelo Gaivota: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fernão+Capelo+Gaivota
-.. _Para Gostar de Ler: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Para+Gostar+de+Ler
-.. _Carlos Drummond de Andrade: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Carlos+Drummond+de+Andrade
-.. _Ben Alves: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Ben+Alves
-.. _Fernando Sabino: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Fernando+Sabino
-.. _André Vianco: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=André+Vianco
-.. _Hackers and Painters: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Hackers+and+Painters
 .. _Google: https://duckduckgo.com/?q=Google
 .. _Linked.in: https://duckduckgo.com/?q=Linked.in
 .. _Bit Twiddler: https://duckduckgo.com/?q=Bit+Twiddler

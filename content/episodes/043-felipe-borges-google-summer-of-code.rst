@@ -62,27 +62,30 @@ Resumo
 -  **Top 5** 28:23
 -  **Conclusão** 43:27
 
-Top 5
------
--  **Música:** `Immortal Technique`_
--  **Música:** `Criolo`_
--  **Música:** `Bob Marley`_
--  **Música:** `Cavalera Conspiracy`_
--  **Música:** `Lowkey`_
--  **Filmes:** `Prison Break`_
--  **Filmes:** `Big Bang Theory`_
--  **Filmes:** `The IT Crowd`_
--  **Filmes:** `Chavez`_
--  **Filmes:** `Homeland`_
--  **Livros:** `Pablo Neruda`_
--  **Livros:** `Cidade do Sol`_
--  **Livros:** `Khaled Hossein`_
--  **Livros:** `Os Sertões`_
--  **Livros:** `Euclydes da Cunha`_
--  **Livros:** `Batalha do Apocalipse`_
--  **Livros:** `Eduardo Spohr`_
--  **Livros:** `Design for Hackers`_
--  **Livros:** `Eduardo Galeano`_
+.. top5::
+
+    :music:
+        * Immortal Technique
+        * Criolo
+        * Bob Marley
+        * Cavalera Conspiracy
+        * Lowkey
+    :movie:
+        * Prison Break
+        * The Big Bang Theory
+        * The IT Crowd
+        * Chaves
+        * Homeland
+    :book:
+        * Pablo Neruda
+        * A Cidade do Sol
+        * Khaled Hosseini
+        * Os Sertões
+        * Euclides da Cunha
+        * A Batalha do Apocalipse
+        * Eduardo Spohr
+        * Design for Hackers
+        * Eduardo Galeano
 
 Links
 -----
@@ -125,25 +128,6 @@ Links
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
 .. _Google Summer of Code: https://code.google.com/soc/
 .. _vídeo: http://www.youtube.com/watch?v=0T6nGDSr13o
-.. _Immortal Technique: http://www.last.fm/search?q=Immortal+Technique
-.. _Criolo: http://www.last.fm/search?q=Criolo
-.. _Bob Marley: http://www.last.fm/search?q=Bob+Marley
-.. _Cavalera Conspiracy: http://www.last.fm/search?q=Cavalera+Conspiracy
-.. _Lowkey: http://www.last.fm/search?q=Lowkey
-.. _Prison Break: http://www.imdb.com/find?s=all&q=Prison+Break
-.. _Big Bang Theory: http://www.imdb.com/find?s=all&q=Big+Bang+Theory
-.. _The IT Crowd: http://www.imdb.com/find?s=all&q=The+IT+Crowd
-.. _Chavez: http://www.imdb.com/find?s=all&q=Chavez
-.. _Homeland: http://www.imdb.com/find?s=all&q=Homeland
-.. _Pablo Neruda: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Pablo+Neruda
-.. _Cidade do Sol: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Cidade+do+Sol
-.. _Khaled Hossein: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Khaled+Hossein
-.. _Os Sertões: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Sertões
-.. _Euclydes da Cunha: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Euclydes+da+Cunha
-.. _Batalha do Apocalipse: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Batalha+do+Apocalipse
-.. _Eduardo Spohr: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Spohr
-.. _Design for Hackers: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Design+for+Hackers
-.. _Eduardo Galeano: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Eduardo+Galeano
 .. _Planet GNOME: https://duckduckgo.com/?q=Planet+GNOME
 .. _Universidade Federal de Pelotas: https://duckduckgo.com/?q=Universidade+Federal+de+Pelotas
 .. _Projeto GNOME: https://duckduckgo.com/?q=Projeto+GNOME
