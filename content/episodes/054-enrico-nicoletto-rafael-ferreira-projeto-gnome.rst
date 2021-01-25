@@ -48,52 +48,58 @@ Contato
 -  **Twitter**: https://twitter.com/exawarrior
 -  **Linkedin**: `br.linkedin.com/pub/dir/Enrico/Nicoletto`_
 
-Top 5
------
--  **Música:** `The Strokes`_
--  **Música:** `Arcade Fire`_
--  **Música:** `Fala Mansa`_
--  **Música:** `Quatro por Um`_
--  **Música:** `Fernandinho`_
--  **Música:** `Bryan Adams`_
--  **Música:** `Bon Jovi`_
--  **Música:** `Stratovarius`_
--  **Filmes:** `Tio Nino`_
--  **Filmes:** `Uma Professora Muito Maluquinha`_
--  **Filmes:** `El Estudiante`_
--  **Filmes:** `War Games`_
--  **Filmes:** `Blankman`_
--  **Filmes:** `Total Recall`_
--  **Filmes:** `Lawless`_
--  **Filmes:** `Ghost in the Shell`_
--  **Filmes:** `Trance`_
--  **Filmes:** `Sexto Sentido`_
--  **Livros:** `Biblia Sagrada`_
--  **Livros:** `Deus Tem Um Plano Para Voce`_
--  **Livros:** `Laugh and learn - 95 ways to use humor for more effective teaching and training`_
--  **Livros:** `How Things Work Encyclopedia`_
--  **Livros:** `Sagarana`_
--  **Livros:** `O Hobbit`_
--  **Livros:** `Harry Potter`_
--  **Software:** `poEdit`_
--  **Software:** `Gedit`_
--  **Software:** `Open-Tran`_
--  **Software:** `Meld`_
--  **Software:** `Decker`_
--  **Software:** `Damned Lies`_
--  **Software:** `Transifex`_
--  **Software:** `Launchpad`_
--  **Software:** `Translation Toolkit`_
--  **Software:** `Notepad++`_
--  **Software:** `Media Player Classic`_
--  **Software:** `Cliente de e-mail Thunderbird`_
--  **Software:** `Audacity`_
--  **Software:** `Kalibre`_
--  **Software:** `Ruby on Rails`_
--  **Software:** `Google Chrome`_
--  **Software:** `GNOME Terminal`_
--  **Software:** `Libre Office`_
--  **Software:** `GOM Player`_
+.. top5::
+
+    :music:
+        * The Strokes
+        * Arcade Fire
+        * Falamansa
+        * Quatro por Um
+        * Fernandinho
+        * Bryan Adams
+        * Bon Jovi
+        * Stratovarius
+    :movie:
+        * Tio Nino
+        * Uma Professora Muito Maluquinha
+        * El Estudiante
+        * War Games
+        * Blankman
+        * Total Recall
+        * Lawless
+        * Ghost in the Shell
+        * Trance
+        * O Sexto Sentido
+    :book:
+        * Bíblia
+        * Deus Tem Um Plano Para Você
+        * Laugh and Learn
+        * How Things Work Encyclopedia
+        * Sagarana
+        * O Hobbit
+        * Harry Potter
+    :app:
+        * Poedit
+        * Gedit
+        * Open-Tran
+        * Meld
+        * Decker
+        * Damned Lies
+        * Transifex
+        * Launchpad
+        * Translate Toolkit
+        * Notepad++
+        * Media Player Classic
+        * Thunderbird
+        * Audacity
+        * Calibre
+        * Ruby on Rails
+        * Google Chrome
+        * GNOME Terminal
+        * Libre Office
+        * GOM Player
+    :game:
+        * Worms
 
 Links
 -----
@@ -120,50 +126,6 @@ Links
 .. _vídeo: http://bit.ly/136X3jF
 .. _OpenCast: http://www.ubuntero.com.br/
 .. _br.linkedin.com/pub/dir/Enrico/Nicoletto: http://br.linkedin.com/pub/dir/Enrico/Nicoletto
-.. _The Strokes: http://www.last.fm/search?q=The+Strokes
-.. _Arcade Fire: http://www.last.fm/search?q=Arcade+Fire
-.. _Fala Mansa: http://www.last.fm/search?q=Fala+Mansa
-.. _Quatro por Um: http://www.last.fm/search?q=Quatro+por+Um
-.. _Fernandinho: http://www.last.fm/search?q=Fernandinho
-.. _Bryan Adams: http://www.last.fm/search?q=Bryan+Adams
-.. _Bon Jovi: http://www.last.fm/search?q=Bon+Jovi
-.. _Stratovarius: http://www.last.fm/search?q=Stratovarius
-.. _Tio Nino: http://www.imdb.com/find?s=all&q=Tio+Nino
-.. _Uma Professora Muito Maluquinha: http://www.imdb.com/find?s=all&q=Uma+Professora+Muito+Maluquinha
-.. _El Estudiante: http://www.imdb.com/find?s=all&q=El+Estudiante
-.. _War Games: http://www.imdb.com/find?s=all&q=War+Games
-.. _Blankman: http://www.imdb.com/find?s=all&q=Blankman
-.. _Total Recall: http://www.imdb.com/find?s=all&q=Total+Recall
-.. _Lawless: http://www.imdb.com/find?s=all&q=Lawless
-.. _Ghost in the Shell: http://www.imdb.com/find?s=all&q=Ghost+in+the+Shell
-.. _Trance: http://www.imdb.com/find?s=all&q=Trance
-.. _Sexto Sentido: http://www.imdb.com/find?s=all&q=Sexto+Sentido
-.. _Biblia Sagrada: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Biblia+Sagrada
-.. _Deus Tem Um Plano Para Voce: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus+Tem+Um+Plano+Para+Voce
-.. _Laugh and learn - 95 ways to use humor for more effective teaching and training: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Laugh+and+learn+:+95+ways+to+use+humor+for+more+effective+teaching+and+training
-.. _How Things Work Encyclopedia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=How+Things+Work+Encyclopedia
-.. _Sagarana: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sagarana
-.. _O Hobbit: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit
-.. _Harry Potter: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Harry+Potter
-.. _poEdit: https://duckduckgo.com/?q=poEdit
-.. _Gedit: https://duckduckgo.com/?q=Gedit
-.. _Open-Tran: https://duckduckgo.com/?q=Open-Tran
-.. _Meld: https://duckduckgo.com/?q=Meld
-.. _Decker: https://duckduckgo.com/?q=Decker
-.. _Damned Lies: https://duckduckgo.com/?q=Damned+Lies
-.. _Transifex: https://duckduckgo.com/?q=Transifex
-.. _Launchpad: https://duckduckgo.com/?q=Launchpad
-.. _Translation Toolkit: https://duckduckgo.com/?q=Translation+Toolkit
-.. _Notepad++: https://duckduckgo.com/?q=Notepad++
-.. _Media Player Classic: https://duckduckgo.com/?q=Media+Player+Classic
-.. _Cliente de e-mail Thunderbird: https://duckduckgo.com/?q=Cliente+de+e-mail+Thunderbird
-.. _Audacity: https://duckduckgo.com/?q=Audacity
-.. _Kalibre: https://duckduckgo.com/?q=Kalibre
-.. _Ruby on Rails: https://duckduckgo.com/?q=Ruby+on+Rails
-.. _Google Chrome: https://duckduckgo.com/?q=Google+Chrome
-.. _GNOME Terminal: https://duckduckgo.com/?q=GNOME+Terminal
-.. _Libre Office: https://duckduckgo.com/?q=Libre+Office
-.. _GOM Player: https://duckduckgo.com/?q=GOM+Player
 .. _Projeto GNOME: https://duckduckgo.com/?q=Projeto+GNOME
 .. _Damned Lies: https://duckduckgo.com/?q=Damned+Lies
 .. _Open-Tran: https://duckduckgo.com/?q=Open-Tran

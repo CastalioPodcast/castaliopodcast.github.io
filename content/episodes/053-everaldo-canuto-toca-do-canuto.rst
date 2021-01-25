@@ -45,24 +45,27 @@ Contato
 -  **Github**:  https://github.com/ecanuto
 -  **Facebook**:  https://www.facebook.com/tocacanuto?fref=ts
 
-Top 5
------
--  **Música:** `Titãs`_
--  **Música:** `Legião Urbana`_
--  **Música:** `Engenheiros do Hawaii`_
--  **Música:** `Pink Floyd`_
--  **Livros:** `O Homem da Areia`_
--  **Livros:** `Sir Arthur Conan Doyle`_
--  **Livros:** `Deus Um Delírio`_
--  **Livros:** `O Hobbit`_
--  **Livros:** `O Código DaVinci`_
--  **Software:** `OpenSSH`_
--  **Software:** `Git`_
--  **Software:** `Markdown`_
--  **Software:** `Google Hangout`_
--  **Software:** `Youtube`_
--  **Software:** `HTML 5`_
--  **Software:** `CSS3`_
+.. top5::
+
+    :music:
+        * Titãs
+        * Legião Urbana
+        * Engenheiros do Hawaii
+        * Pink Floyd
+    :book:
+        * O Homem da Areia
+        * Arthur Conan Doyle
+        * Deus, Um Delírio
+        * O Hobbit
+        * O Código Da Vinci
+    :app:
+        * OpenSSH
+        * Git
+        * Markdown
+        * Google Hangouts
+        * YouTube
+        * HTML5
+        * CSS3
 
 Links
 -----
@@ -115,22 +118,6 @@ Links
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
 .. _Toca do Canuto: http://www.youtube.com/user/tocadocanuto?feature=g-subs-u
 .. _vídeo: http://bit.ly/Z8tFWJ
-.. _Titãs: http://www.last.fm/search?q=Titãs
-.. _Legião Urbana: http://www.last.fm/search?q=Legião+Urbana
-.. _Engenheiros do Hawaii: http://www.last.fm/search?q=Engenheiros+do+Hawaii
-.. _Pink Floyd: http://www.last.fm/search?q=Pink+Floyd
-.. _O Homem da Areia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Homem+da+Areia
-.. _Sir Arthur Conan Doyle: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sir+Arthur+Conan+Doyle
-.. _Deus Um Delírio: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus+Um+Delírio
-.. _O Hobbit: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit
-.. _O Código DaVinci: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Código+DaVinci
-.. _OpenSSH: https://duckduckgo.com/?q=OpenSSH
-.. _Git: https://duckduckgo.com/?q=Git
-.. _Markdown: https://duckduckgo.com/?q=Markdown
-.. _Google Hangout: https://duckduckgo.com/?q=Google+Hangout
-.. _Youtube: https://duckduckgo.com/?q=Youtube
-.. _HTML 5: https://duckduckgo.com/?q=HTML+5
-.. _CSS3: https://duckduckgo.com/?q=CSS3
 .. _GUADEC: https://duckduckgo.com/?q=GUADEC
 .. _Intel: https://duckduckgo.com/?q=Intel
 .. _Moblin: https://duckduckgo.com/?q=Moblin

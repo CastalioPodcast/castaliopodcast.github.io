@@ -40,30 +40,27 @@ Contato
 -  `Facebook`_
 -  `Twitter`_
 
-Top 5
------
--  **Música**
+.. top5::
 
-   -  `Tim Maia`_
-   -  `Criolo`_
-   -  `Arnaldo Baptista`_
-   -  `Os Mutantes`_
-   -  `Taquinho Noronha`_
-   -  `The Name`_
-   -  `Club America`_
-   -  `Schoolbell`_
-   -  `Bonde do Rolê`_
-   -  `Pink Floyd`_
-   -  `Led Zeppelin`_
-   -  `Panthera`_
-   -  `Miles Davis`_
-
--  **Filmes/Televisão:**
-
-   -  `House M.D.`_
-   -  `Dexter`_
-   -  `El Chavo`_
-   -  `Quentin Tarantino`_
+    :music:
+        * Tim Maia
+        * Criolo
+        * Arnaldo Baptista
+        * Os Mutantes
+        * Taquinho Noronha
+        * The Name
+        * Club America
+        * Schoolbell
+        * Bonde do Rolê
+        * Pink Floyd
+        * Led Zeppelin
+        * Pantera
+        * Miles Davis
+    :movie:
+        * House M.D.
+        * Dexter
+        * El Chavo
+        * Quentin Tarantino
 
 Links
 -----
@@ -103,23 +100,6 @@ Links
 .. _Google+: https://plus.google.com/116512253405346448508
 .. _Facebook: https://www.facebook.com/fabianofidencio
 .. _Twitter: https://twitter.com/ffidencio
-.. _Tim Maia: http://www.last.fm/music/Tim+Maia?ac=tim%20maia
-.. _Criolo: http://www.criolo.net/music.html
-.. _Arnaldo Baptista: http://www.arnaldobaptista.com.br/
-.. _Os Mutantes: http://www.last.fm/music/Os+Mutantes?ac=os%20muta
-.. _Taquinho Noronha: http://www.myspace.com/taquinhonoronha
-.. _The Name: http://www.myspace.com/thenamemusik
-.. _Club America: https://www.facebook.com/clubclubamerica
-.. _Schoolbell: https://soundcloud.com/rwbclub/schoobell-spin-me
-.. _Bonde do Rolê: https://soundcloud.com/bondedorole
-.. _Pink Floyd: http://www.last.fm/music/Pink+Floyd?ac=pink
-.. _Led Zeppelin: http://www.last.fm/music/Led+Zeppelin?ac=led%20zep
-.. _Panthera: http://www.last.fm/music/Pantera?ac=pantera
-.. _Miles Davis: http://www.last.fm/music/Miles+Davis?ac=miles
-.. _House M.D.: http://www.imdb.com/title/tt0412142/
-.. _Dexter: http://www.imdb.com/title/tt0773262/
-.. _El Chavo: http://www.imdb.com/title/tt0229889/
-.. _Quentin Tarantino: http://www.imdb.com/name/nm0000233/
 .. _Planet GNOME: https://duckduckgo.com/?q=Planet+GNOME
 .. _Google Summer of Code: https://duckduckgo.com/?q=Google+Summer+of+Code
 .. _GOME Boxes: https://duckduckgo.com/?q=GOME+Boxes

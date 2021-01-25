@@ -49,26 +49,31 @@ Escute Agora
 
 .. podcast:: castalio-podcast-52
 
-Top 5
------
--  **Música:** `Mamonas Assassinas`_
--  **Música:** `Megadeth`_
--  **Música:** `Shadow Gallery`_
--  **Filmes:** `Breaking Bad`_
--  **Filmes:** `Dexter`_
--  **Filmes:** `Top Gear`_
--  **Filmes:** `Mad Men`_
--  **Livros:** `The Lean Startup`_
--  **Livros:** `Programação Extrema Explicada`_
--  **Livros:** `Vinícius Magalhães Peres`_
--  **Livros:** `Deus, Um Delírio`_
--  **Livros:** `Richard Dawkins`_
--  **Livros:** `Os Jogos da Vida`_
--  **Software:** `Sublime Text`_
--  **Software:** `Ubuntu Linux`_
--  **Software:** `Firefox`_
--  **Software:** `Visual Studio 2012`_
--  **Software:** `Windows Poer Shell`_
+.. top5::
+
+    :music:
+        * Mamonas Assassinas
+        * Megadeth
+        * Shadow Gallery
+        * Unisonic
+    :movie:
+        * Breaking Bad
+        * Dexter
+        * Top Gear
+        * Mad Men
+    :book:
+        * The Lean Startup
+        * Programação Extrema (XP) Explicada
+        * Extreme Programming
+        * Deus, Um Delírio
+        * Richard Dawkins
+        * Jogos Da Vida
+    :app:
+        * Sublime Text
+        * Ubuntu
+        * Firefox
+        * Visual Studio
+        * PowerShell
 
 Links
 -----
@@ -139,24 +144,6 @@ Links
 .. _Rafael Rosa Fu: https://twitter.com/rafaelrosafu
 .. _GrokPodcast: http://grokpodcast.com/
 .. _Dados na Web Semântica\: padrões e ferramentas: http://www.infoq.com/br/presentations/web-semantica-dados;jsessionid=E408164E3C4277902ADA1D8782C45380
-.. _Mamonas Assassinas: http://www.last.fm/search?q=Mamonas+Assassinas
-.. _Megadeth: http://www.last.fm/search?q=Megadeth
-.. _Shadow Gallery: http://www.last.fm/search?q=Shadow+Gallery
-.. _Breaking Bad: http://www.imdb.com/find?s=all&q=Breaking+Bad
-.. _Dexter: http://www.imdb.com/find?s=all&q=Dexter
-.. _Top Gear: http://www.imdb.com/find?s=all&q=Top+Gear
-.. _Mad Men: http://www.imdb.com/find?s=all&q=Mad+Men
-.. _The Lean Startup: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=The+Lean+Startup
-.. _Programação Extrema Explicada: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Programação+Extrema+Explicada
-.. _Vinícius Magalhães Peres: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Vinícius+Magalhães+Peres
-.. _Deus, Um Delírio: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Deus,+Um+Delírio
-.. _Richard Dawkins: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Richard+Dawkins
-.. _Os Jogos da Vida: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Os+Jogos+da+Vida
-.. _Sublime Text: https://duckduckgo.com/?q=Sublime+Text
-.. _Ubuntu Linux: https://duckduckgo.com/?q=Ubuntu+Linux
-.. _Firefox: https://duckduckgo.com/?q=Firefox
-.. _Visual Studio 2012: https://duckduckgo.com/?q=Visual+Studio+2012
-.. _Windows Poer Shell: https://duckduckgo.com/?q=Windows+Poer+Shell
 .. _Yahoo: https://duckduckgo.com/?q=Yahoo
 .. _Yahoo Memo: https://duckduckgo.com/?q=Yahoo+Memo
 .. _Yahoo Profile: https://duckduckgo.com/?q=Yahoo+Profile

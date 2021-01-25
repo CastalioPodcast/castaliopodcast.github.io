@@ -61,23 +61,26 @@ Contato
 -  **Speaker Deck**: https://speakerdeck.com/ramalho
 -  **Slideshare**\ *:* http://www.slideshare.net/ramalho
 
-Top 5
------
--  **Música:** `Deep Purple`_
--  **Música:** `Frank Zappa`_
--  **Música:** `Mozart`_
--  **Música:** `Pink Floyd`_
--  **Música:** `Led Zeppelin`_
--  **Música:** `Björk`_
--  **Música:** `Philip Glass`_
--  **Filmes:** `Apocalipse Now`_
--  **Filmes:** `Brazil`_
--  **Filmes:** `Senhor dos Aneis`_
--  **Filmes:** `O Hobbit`_
--  **Filmes:** `O Poderoso Chefão`_
--  **Livros:** `Império a Deriva`_
--  **Livros:** `O Hobbit (Amazon)`_
--  **Livros:** `Estação Carandiru`_
+.. top5::
+
+    :music:
+        * Deep Purple
+        * Frank Zappa
+        * Wolfgang Amadeus Mozart
+        * Pink Floyd
+        * Led Zeppelin
+        * Björk
+        * Philip Glass
+    :movie:
+        * Apocalypse Now
+        * Brazil
+        * O Senhor dos Anéis
+        * O Hobbit
+        * O Poderoso Chefão
+    :book:
+        * Império à Deriva
+        * O Hobbit
+        * Estação Carandiru
 
 Links
 -----
@@ -127,21 +130,6 @@ Links
 .. _Red Hook Ramblers: http://www.redhookramblers.com/
 .. _Garoa Hacker Clube: http://hackerspaces.org/wiki/Garoa_Hacker_Clube
 .. _vídeo: http://bit.ly/YPOZTO
-.. _Deep Purple: http://www.last.fm/search?q=Deep+Purple
-.. _Frank Zappa: http://www.last.fm/search?q=Frank+Zappa
-.. _Mozart: http://www.last.fm/search?q=Mozart
-.. _Pink Floyd: http://www.last.fm/search?q=Pink+Floyd
-.. _Led Zeppelin: http://www.last.fm/search?q=Led+Zeppelin
-.. _Björk: http://www.last.fm/search?q=Björk
-.. _Philip Glass: http://www.last.fm/search?q=Philip+Glass
-.. _Apocalipse Now: http://www.imdb.com/find?s=all&q=Apocalipse+Now
-.. _Brazil: http://www.imdb.com/find?s=all&q=Brazil
-.. _Senhor dos Aneis: http://www.imdb.com/find?s=all&q=Senhor+dos+Aneis
-.. _O Hobbit: http://www.imdb.com/find?s=all&q=O+Hobbit
-.. _O Poderoso Chefão: http://www.imdb.com/find?s=all&q=O+Poderoso+Chefão
-.. _Império a Deriva: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Império+a+Deriva
-.. _O Hobbit (Amazon): http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Hobbit
-.. _Estação Carandiru: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Estação+Carandiru
 .. _SpeakerDeck: https://duckduckgo.com/?q=SpeakerDeck
 .. _Python: https://duckduckgo.com/?q=Python
 .. _Zope: https://duckduckgo.com/?q=Zope

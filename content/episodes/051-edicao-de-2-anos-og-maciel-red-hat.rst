@@ -66,50 +66,54 @@ Contato
 -  **LinkedIn**: http://www.linkedin.com/pub/og-maciel/7/425/257/
 -  **GoodReads**: http://www.goodreads.com/user/show/12048315-og-maciel
 
-Top 5
------
--  **Música:** `Legião Urbana`_
--  **Música:** `Os Paralamas do Sucesso`_
--  **Música:** `Ultraje a Rigor`_
--  **Música:** `Titãs`_
--  **Música:** `Barão Vermelho`_
--  **Música:** `Capital Inicial`_
--  **Música:** `Dire Straits`_
--  **Música:** `Pink Floyd`_
--  **Música:** `Led Zeppelin`_
--  **Música:** `The Doors`_
--  **Música:** `The Cure`_
--  **Filmes:** `Blade Runner`_
--  **Filmes:** `The Good, The Bad and The Ugly`_
--  **Filmes:** `Beau Geste`_
--  **Filmes:** `Sessão da Tarde`_
--  **Filmes:** `Os Trapalhões`_
--  **Filmes:** `Pulp Fiction`_
--  **Filmes:** `Snatch`_
--  **Filmes:** `Syriana`_
--  **Filmes:** `Ides of March`_
--  **Livros:** `Maria José Dupré`_
--  **Livros:** `O Cachorrinho Samba`_
--  **Livros:** `A Mina de Ouro`_
--  **Livros:** `A Montanha Encantada`_
--  **Livros:** `Monteiro Lobato`_
--  **Livros:** `Série Vagalume`_
--  **Livros:** `Sítio do Picapau Amarelo`_
--  **Livros:** `Issac Asimov`_
--  **Livros:** `Jules Verne`_
--  **Livros:** `Homero`_
--  **Livros:** `A Odisséia`_
--  **Livros:** `Mark Twain`_
--  **Livros:** `Tom Sawyer`_
--  **Livros:** `Edgar Alan Poe`_
--  **Livros:** `Kit Carson`_
--  **Software:** `vim`_
--  **Software:** `emacs`_
--  **Software:** `Openbox`_
--  **Software:** `i3`_
--  **Software:** `ipython`_
--  **Software:** `terminator`_
--  **Software:** `git`_
+.. top5::
+
+    :music:
+        * Legião Urbana
+        * Os Paralamas do Sucesso
+        * Ultraje a Rigor
+        * Titãs
+        * Barão Vermelho
+        * Capital Inicial
+        * Dire Straits
+        * Pink Floyd
+        * Led Zeppelin
+        * The Doors
+        * The Cure
+    :movie:
+        * Blade Runner
+        * The Good, The Bad and The Ugly
+        * Beau Geste
+        * Sessão da Tarde
+        * Os Trapalhões
+        * Pulp Fiction
+        * Snatch
+        * Syriana
+        * The Ides of March
+    :book:
+        * Maria José Dupré
+        * O Cachorrinho Samba
+        * A Mina de Ouro
+        * A Montanha Encantada
+        * Monteiro Lobato
+        * Série Vaga-lume
+        * O Sítio do Picapau Amarelo
+        * Isaac Asimov
+        * Jules Verne
+        * Homero
+        * A Odisseia
+        * Mark Twain
+        * The Adventures of Tom Sawyer
+        * Edgar Allan Poe
+        * Kit Carson
+    :app:
+        * Vim
+        * Emacs
+        * Openbox
+        * i3
+        * iPython
+        * Terminator
+        * Git
 
 Links
 -----
@@ -155,48 +159,7 @@ Links
 .. _episódio piloto: http://bit.ly/12YS1pU
 .. _aqui: http://bit.ly/VAfGLG
 .. _Youtube: http://bit.ly/12MJKVZ
-.. _Legião Urbana: http://www.last.fm/search?q=Legião+Urbana
-.. _Os Paralamas do Sucesso: http://www.last.fm/search?q=Os+Paralamas+do+Sucesso
-.. _Ultraje a Rigor: http://www.last.fm/search?q=Ultraje+a+Rigor
-.. _Titãs: http://www.last.fm/search?q=Titãs
-.. _Barão Vermelho: http://www.last.fm/search?q=Barão+Vermelho
-.. _Capital Inicial: http://www.last.fm/search?q=Capital+Inicial
-.. _Dire Straits: http://www.last.fm/search?q=Dire+Straits
-.. _Pink Floyd: http://www.last.fm/search?q=Pink+Floyd
-.. _Led Zeppelin: http://www.last.fm/search?q=Led+Zeppelin
-.. _The Doors: http://www.last.fm/search?q=The+Doors
-.. _The Cure: http://www.last.fm/search?q=The+Cure
-.. _Blade Runner: http://www.imdb.com/find?s=all&q=Blade+Runner
-.. _The Good, The Bad and The Ugly: http://www.imdb.com/find?s=all&q=The+Good,+The+Bad+and+The+Ugly
-.. _Beau Geste: http://www.imdb.com/find?s=all&q=Beau+Geste
-.. _Sessão da Tarde: http://www.imdb.com/find?s=all&q=Sessão+da+Tarde
-.. _Os Trapalhões: http://www.imdb.com/find?s=all&q=Os+Trapalhões
-.. _Pulp Fiction: http://www.imdb.com/find?s=all&q=Pulp+Fiction
-.. _Snatch: http://www.imdb.com/find?s=all&q=Snatch
-.. _Syriana: http://www.imdb.com/find?s=all&q=Syriana
-.. _Ides of March: http://www.imdb.com/find?s=all&q=Ides+of+March
-.. _Maria José Dupré: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Maria+José+Dupré
-.. _O Cachorrinho Samba: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=O+Cachorrinho+Samba
-.. _A Mina de Ouro: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Mina+de+Ouro
-.. _A Montanha Encantada: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Montanha+Encantada
-.. _Monteiro Lobato: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Monteiro+Lobato
-.. _Série Vagalume: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Série+Vagalume
-.. _Sítio do Picapau Amarelo: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Sítio+do+Picapau+Amarelo
-.. _Issac Asimov: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Issac+Asimov
-.. _Jules Verne: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jules+Verne
-.. _Homero: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Homero
-.. _A Odisséia: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=A+Odisséia
-.. _Mark Twain: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Mark+Twain
-.. _Tom Sawyer: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Tom+Sawyer
-.. _Edgar Alan Poe: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Edgar+Alan+Poe
-.. _Kit Carson: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Kit+Carson
-.. _vim: http://www.vim.org/
-.. _emacs: https://www.gnu.org/software/emacs
 .. _Openbox: http://openbox.org/
-.. _i3: http://i3wm.org/
-.. _ipython: http://ipython.org/
-.. _terminator: http://www.tenshu.net/p/terminator.html
-.. _git: http://git-scm.com/
 .. _Og Mandino: https://duckduckgo.com/?q=Og+Mandino
 .. _Fernando Collor de Mello: https://duckduckgo.com/?q=Fernando+Collor+de+Mello
 .. _rPath: https://duckduckgo.com/?q=rPath

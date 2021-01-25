@@ -1,4 +1,69 @@
 app:
+  Calibre:
+    url: https://calibre-ebook.com/
+  GNOME Terminal:
+    url: https://wiki.gnome.org/Apps/Terminal
+  Ruby on Rails:
+    url: https://rubyonrails.org/
+  Damned Lies:
+    url: https://l10n.gnome.org/about/
+  Translate Toolkit:
+    url: http://toolkit.translatehouse.org/
+  Launchpad:
+    url: https://launchpad.net/
+  Transifex:
+    url: https://www.transifex.com/
+  Thunderbird:
+    url: https://www.thunderbird.net/en-US/
+  Notepad++:
+    url: http://notepad-plus-plus.org/
+  Google Chrome:
+    url: https://www.google.com/chrome/
+  Media Player Classic:
+    url: https://mpc-hc.org/
+  Libre Office:
+    url: https://www.libreoffice.org/
+  Open-Tran: {}
+  Meld:
+    url: http://meldmerge.org/
+  Decker:
+    url: https://sourceforge.net/projects/decker/
+  Audacity:
+    url: https://www.audacityteam.org/
+  GOM Player:
+    url: https://en.wikipedia.org/wiki/GOM_Player
+  Gedit:
+    url: https://wiki.gnome.org/Apps/Gedit
+  Poedit:
+    url: https://poedit.net/
+  HTML5:
+    url: https://en.wikipedia.org/wiki/HTML5
+  CSS3:
+    url: https://en.wikipedia.org/wiki/CSS
+  YouTube:
+    url: https://www.youtube.com/
+  Google Hangouts:
+    url: https://en.wikipedia.org/wiki/Google_Hangouts
+  Markdown:
+    url: https://daringfireball.net/projects/markdown/
+  OpenSSH:
+    url: http://www.openssh.com/
+  PowerShell:
+    url: https://docs.microsoft.com/pt-br/powershell/
+  Firefox:
+    url: https://www.mozilla.org/pt-BR/firefox/new/
+  Ubuntu:
+    url: https://ubuntu.com/
+  Sublime Text:
+    url: https://www.sublimetext.com/
+  Terminator:
+    url: http://www.tenshu.net/p/terminator.html
+  i3:
+    url: http://i3wm.org/
+  iPython:
+    url: http://ipython.org
+  Openbox:
+    url: http://openbox.org/
   Calendly:
     url: https://calendly.com/
   Apple Podcasts:
@@ -38,6 +103,49 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Sagarana:
+    url: https://www.goodreads.com/book/show/2260391.Sagarana
+  Deus Tem Um Plano Para Você: {}
+  How Things Work Encyclopedia:
+    url: https://www.goodreads.com/book/show/7632102-how-things-work-encyclopedia
+  Laugh and Learn:
+    url: https://www.goodreads.com/book/show/628563.Laugh_and_Learn
+  Arthur Conan Doyle:
+    url: https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle
+  O Homem da Areia:
+    url: https://www.goodreads.com/book/show/13511997-o-homem-da-areia
+  Extreme Programming:
+    url: https://www.goodreads.com/book/show/9737235-extreme-programmin
+  Jogos Da Vida:
+    url: https://www.goodreads.com/book/show/49745462-jogos-da-vida---analise-transacional-relacionament
+  Richard Dawkins:
+    url: https://www.goodreads.com/author/show/1194.Richard_Dawkins
+  Deus, Um Delírio:
+    url: https://www.goodreads.com/book/show/3574387-deus-um-del-rio
+  Programação Extrema (XP) Explicada:
+    url: https://www.goodreads.com/book/show/6255755-programa-o-extrema-xp-explicada
+  Homero:
+    url: https://www.goodreads.com/author/show/903.Homer
+  Kit Carson:
+    url: https://www.goodreads.com/author/show/358998.Kit_Carson
+  The Adventures of Tom Sawyer:
+    url: https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer
+  Mark Twain:
+    url: https://www.goodreads.com/author/show/1244.Mark_Twain
+  A Odisseia:
+    url: https://www.goodreads.com/book/show/24986678-a-odisseia
+  O Sítio do Picapau Amarelo:
+    url: https://www.goodreads.com/book/show/7508927-o-s-tio-do-picapau-amarelo
+  A Montanha Encantada:
+    url: https://www.goodreads.com/book/show/5069870-a-montanha-encantada
+  A Mina de Ouro:
+    url: https://www.goodreads.com/book/show/3190084-a-mina-de-ouro
+  O Cachorrinho Samba:
+    url: https://www.goodreads.com/book/show/5088147-o-cachorrinho-samba
+  Estação Carandiru:
+    url: https://www.goodreads.com/book/show/1045984.Esta_o_Carandiru
+  Império à Deriva:
+    url: https://www.goodreads.com/book/show/13568666-imp-rio-deriva
   André Vianco:
     url: https://www.goodreads.com/author/show/1243609.Andr_Vianco
   Rubem Braga:
@@ -831,6 +939,8 @@ book:
   Hackers & Painters:
     url: https://www.goodreads.com/book/show/41793.Hackers_Painters
 game:
+  Worms:
+    url: https://en.wikipedia.org/wiki/Worms_(series)
   Dark Souls:
     url: https://en.wikipedia.org/wiki/Dark_Souls
   Fallout 4:
@@ -848,6 +958,34 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  O Sexto Sentido:
+    url: https://www.imdb.com/title/tt0167404/
+  Trance:
+    url: https://www.imdb.com/title/tt1924429/
+  Lawless:
+    url: https://www.imdb.com/title/tt1212450/
+  Blankman:
+    url: https://www.imdb.com/title/tt0109288/
+  War Games:
+    url: https://www.imdb.com/title/tt0086567/
+  El Estudiante:
+    url: https://www.imdb.com/title/tt1261393/
+  Uma Professora Muito Maluquinha:
+    url: https://www.imdb.com/title/tt8737840/
+  Tio Nino:
+    url: https://www.imdb.com/title/tt0327210/
+  Top Gear:
+    url: https://www.imdb.com/title/tt1628033/
+  The Ides of March:
+    url: https://www.imdb.com/title/tt1124035/
+  Syriana:
+    url: https://www.imdb.com/title/tt0365737/
+  O Hobbit:
+    url: https://www.imdb.com/title/tt0903624/
+  Brazil:
+    url: https://www.imdb.com/title/tt0088846/
+  Apocalypse Now:
+    url: https://www.imdb.com/title/tt0078788/
   Novela: {}
   O Grande Dragão Branco:
     url: https://www.imdb.com/title/tt0092675/
@@ -1493,6 +1631,20 @@ movie:
   United States of Tara:
     url: https://www.imdb.com/title/tt1001482/
 music:
+  Unisonic:
+    url: https://www.last.fm/music/Unisonic
+  Bonde do Rolê:
+    url: https://www.last.fm/music/Bonde+do+Rol%C3%AA
+  Schoolbell:
+    url: https://www.last.fm/music/Schoolbell
+  Club America:
+    url: https://www.last.fm/music/Club+America
+  The Name:
+    url: https://www.last.fm/music/The+Name
+  Taquinho Noronha:
+    url: https://www.last.fm/music/Taquinho+Noronha
+  Arnaldo Baptista:
+    url: https://www.last.fm/music/Arnaldo+Baptista
   The Tragically Hip:
     url: https://www.last.fm/music/The+Tragically+Hip
   Cazuza:
