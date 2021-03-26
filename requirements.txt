@@ -9,7 +9,7 @@ pelican==4.1.1
 Pygments==2.3.1
 python-dateutil==2.8.0
 pytz==2018.9
-PyYAML==5.3.1
+PyYAML==5.4
 six==1.12.0
 soupsieve==1.8
 Unidecode==1.0.23
