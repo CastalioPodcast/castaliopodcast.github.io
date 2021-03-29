@@ -6,7 +6,7 @@ ghp-import==0.5.5
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 pelican==4.1.1
-Pygments==2.3.1
+Pygments==2.7.4
 python-dateutil==2.8.0
 pytz==2018.9
 PyYAML==5.3.1
