@@ -114,8 +114,6 @@ Ainda não ouviu? escute agora!
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
 .. Mentioned
-.. _Fix my Django: http://www.fixmydjango.com/
-.. _Código fonte do Fix my Django: https://github.com/fixmydjango/fixmydjango
 .. _Bullet Journal: http://bulletjournal.com/
 .. _Evernote: https://evernote.com/
 .. _Simplenote: https://simplenote.com/
