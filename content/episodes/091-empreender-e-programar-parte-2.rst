@@ -55,8 +55,6 @@ Links
 
 Segue a lista de links que comentamos no episódio:
 
-* `Fix my Django`_
-* `Código fonte do Fix my Django`_
 * `Bullet Journal`_
 * `Evernote`_
 * `Simplenote`_
