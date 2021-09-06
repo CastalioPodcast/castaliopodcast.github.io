@@ -2,7 +2,7 @@
 Episódio 154: Antonio Piccinini e Leonardo da Silva - CDP e Analytics
 =====================================================================
 
-:date: 2021-09-03
+:date: 2021-09-06
 :author: Castálio Podcast
 :podcast: https://archive.org/download/castalio-podcast-154/castalio-podcast-154.mp3
 :tags: antonio piccinini, leonardo da silva, cdp, analytics, acquia
