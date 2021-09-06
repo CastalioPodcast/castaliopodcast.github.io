@@ -1,8 +1,8 @@
 Castálio Podcast
 ================
 
-.. image:: https://travis-ci.org/CastalioPodcast/CastalioPodcast.github.io.png?branch=pelican
-   :target: https://travis-ci.org/CastalioPodcast/CastalioPodcast.github.io
+.. image:: https://app.travis-ci.com/CastalioPodcast/castaliopodcast.github.io.svg?branch=pelican
+   :target: https://app.travis-ci.com/CastalioPodcast/castaliopodcast.github.io
    :alt: Build Status
 
 `Castálio Podcast <http://castalio.info>`__ , um podcast inspirado prá castálio!
