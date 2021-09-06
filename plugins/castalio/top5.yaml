@@ -103,6 +103,18 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Principles of Marketing:
+    url: https://www.goodreads.com/book/show/50384359-principles-of-marketing
+  Bold:
+    url: https://www.goodreads.com/book/show/22609444-bold
+  'Plataforma: a Revolução da Estratégia':
+    url: https://www.goodreads.com/book/show/49422062-plataforma
+  Cem Dias Entre Céu e Mar:
+    url: https://www.goodreads.com/book/show/1575430.Cem_Dias_Entre_C_u_e_Mar
+  Open:
+    url: https://www.goodreads.com/book/show/6480781-open
+  No Teto do Mundo:
+    url: https://www.goodreads.com/book/show/16097306-no-teto-do-mundo
   Sagarana:
     url: https://www.goodreads.com/book/show/2260391.Sagarana
   Deus Tem Um Plano Para Você: {}
@@ -958,6 +970,8 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  Contato:
+    url: https://www.imdb.com/title/tt0118884/
   O Sexto Sentido:
     url: https://www.imdb.com/title/tt0167404/
   Trance:
@@ -1003,8 +1017,6 @@ movie:
     url: https://www.imdb.com/title/tt3230854/
   Círculo de Fogo:
     url: https://www.imdb.com/title/tt1663662/
-  United States of Tara:
-    url: https://www.imdb.com/title/tt1001482/
   Being John Malkovich:
     url: http://www.imdb.com/find?s=all&q=Being+John+Malkovich
   Adaptation:
@@ -1631,6 +1643,12 @@ movie:
   United States of Tara:
     url: https://www.imdb.com/title/tt1001482/
 music:
+  Goldfish:
+    url: https://www.last.fm/music/Goldfish
+  Alok:
+    url: https://www.last.fm/music/Alok
+  Natiruts:
+    url: https://www.last.fm/music/Natiruts
   Unisonic:
     url: https://www.last.fm/music/Unisonic
   Bonde do Rolê:
