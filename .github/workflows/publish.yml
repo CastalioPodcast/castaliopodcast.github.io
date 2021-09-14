@@ -16,6 +16,11 @@ jobs:
           submodules: true
           fetch-depth: 0
 
+      - name: Install language-pack-pt
+        run: |
+          sudo apt-get update
+          sudo apt-get install language-pack-pt
+
       - name: Set up Python 3.6
         uses: actions/setup-python@v2
         with:
