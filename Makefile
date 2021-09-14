@@ -75,11 +75,7 @@ github: publish
 	ghp-import -m "Update Castálio Podcast site." -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-travis: publish
-	ghp-import  -m "Update Castálio Podcast site." -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	@git push -fq https://${GH_TOKEN}@github.com/CastalioPodcast/CastalioPodcast.github.io.git master > /dev/null
-
 stats:
 	./.scripts/stats.py content/episodes/*.rst
 
-.PHONY: html help clean regenerate serve serve-global devserver stopserver publish github travis stats
+.PHONY: html help clean regenerate serve serve-global devserver stopserver publish github stats
