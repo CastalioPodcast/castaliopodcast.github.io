@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 99: Tech News e Book Review - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-99-tech-news-e-book-review.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="tech news,book review,complô contra a américa,philip roth,red hat,satellite 6,ansible,fauxfactory,pyup,openshift.io,bpython,tarek ziade,ipython,python,dan bader,faas,mstream,what the flask,pythonclub,tdd,api,rest,restful,django,django apps checklist,localstack,facebook,dev na estrada,hack'n'cast,opencast,priscila mayumi,caipyra,python brasil 13,python brasil,renzo nuccitelli,bruno rocha,og maciel,elyézer rezende,docker,prometheus,empreender e programar,flask,jupyter notebooks,py.test,travis,codecov" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Hoje trazemos um Tech News com notícias, sugestões e dicas. Também fazemos um Book Review do livro Complô Contra a América de Philip Roth. Além disso, temos uma novidade, o Castálio agora tem um canal no YouTube e …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 99: Tech News e Book Review"/>
+        <meta property="og:url" content="https://castalio.info/episodio-99-tech-news-e-book-review.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Hoje trazemos um Tech News com notícias, sugestões e dicas. Também fazemos um Book Review do livro Complô Contra a América de Philip Roth. Além disso, temos uma novidade, o Castálio agora tem um canal no YouTube e …"/>
+        <meta property="article:published_time" content="2017-05-08" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="tech news" />
+            <meta property="article:tag" content="book review" />
+            <meta property="article:tag" content="complô contra a américa" />
+            <meta property="article:tag" content="philip roth" />
+            <meta property="article:tag" content="red hat" />
+            <meta property="article:tag" content="satellite 6" />
+            <meta property="article:tag" content="ansible" />
+            <meta property="article:tag" content="fauxfactory" />
+            <meta property="article:tag" content="pyup" />
+            <meta property="article:tag" content="openshift.io" />
+            <meta property="article:tag" content="bpython" />
+            <meta property="article:tag" content="tarek
+ziade" />
+            <meta property="article:tag" content="ipython" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="dan bader" />
+            <meta property="article:tag" content="faas" />
+            <meta property="article:tag" content="mstream" />
+            <meta property="article:tag" content="what the flask" />
+            <meta property="article:tag" content="pythonclub" />
+            <meta property="article:tag" content="tdd" />
+            <meta property="article:tag" content="api" />
+            <meta property="article:tag" content="rest" />
+            <meta property="article:tag" content="restful" />
+            <meta property="article:tag" content="django" />
+            <meta property="article:tag" content="django apps checklist" />
+            <meta property="article:tag" content="localstack" />
+            <meta property="article:tag" content="facebook" />
+            <meta property="article:tag" content="dev na estrada" />
+            <meta property="article:tag" content="hack'n'cast" />
+            <meta property="article:tag" content="opencast" />
+            <meta property="article:tag" content="priscila
+mayumi" />
+            <meta property="article:tag" content="caipyra" />
+            <meta property="article:tag" content="python brasil 13" />
+            <meta property="article:tag" content="python brasil" />
+            <meta property="article:tag" content="renzo nuccitelli" />
+            <meta property="article:tag" content="bruno rocha" />
+            <meta property="article:tag" content="og maciel" />
+            <meta property="article:tag" content="elyézer rezende" />
+            <meta property="article:tag" content="docker" />
+            <meta property="article:tag" content="prometheus" />
+            <meta property="article:tag" content="empreender
+e programar" />
+            <meta property="article:tag" content="flask" />
+            <meta property="article:tag" content="jupyter notebooks" />
+            <meta property="article:tag" content="py.test" />
+            <meta property="article:tag" content="travis" />
+            <meta property="article:tag" content="codecov" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-99-tech-news-e-book-review.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 99: Tech News e Book Review">
+                        Episódio 99: Tech News e Book Review
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2017-05-08T00:00:00-04:00">Mon 08 May 2017</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-99-tech-news-e-book-review.html#disqus_thread" data-disqus-identifier="episodio-99-tech-news-e-book-review">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Tech News e Book Review" src="/images/tech-news.png"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje trazemos um Tech News com notícias, sugestões e dicas. Também fazemos um
+Book Review do livro Complô Contra a América de Philip Roth. Além disso, temos
+uma novidade, o Castálio agora tem um canal no YouTube e este episódio foi
+gravado ao vivo por lá. Se você quer receber as novidades das próximas
+gravações ao vivo e outros conteúdos que estaremos publicando por lá, assine o
+<a class="reference external" href="http://bit.ly/CanalCastalio">Canal do YouTube do Castálio Podcast</a>.</p>
+
+<div class="section" id="escute-enquanto-le-os-show-notes">
+<h2>Escute enquanto lê os show notes</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-99" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <br /><div class="section" id="tech-news">
+<h3>Tech News</h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/omaciel/fauxfactory">FauxFactory dropped support for Python 2</a><ul>
+<li>Usado pelas equipes da Red Hat Satellite 6 e Ansible, dentre outros.</li>
+<li>Geradores de dados foram mudados para módulos próprios (mais fácil de
+manter)</li>
+<li><a class="reference external" href="https://codecov.io/gh/omaciel/fauxfactory">100% de cobertura de código</a></li>
+<li>Testes são rodados no Travis usando py.test e novos testes foram
+adicionados (193 para 242).</li>
+<li>Instale utilizando o pip: <tt class="docutils literal">pip install fauxfactory</tt></li>
+</ul>
+</li>
+<li><a class="reference external" href="https://pyup.io/">pyup.io</a><ul>
+<li>Receba notificações de quando uma dependência do seu projeto foi atualizada
+ou tem alguma vulnerabilidade.</li>
+</ul>
+</li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=X-rAAF_7nSQ">Vídeo de apresentação do OpenShift.io</a></li>
+<li><a class="reference external" href="http://docs.pyfora.com">pyfora</a> biblioteca para dividir o processamento em
+varias máquinas.</li>
+<li><a class="reference external" href="http://freecode.com/projects/bpython">bpython</a><ul>
+<li>B de Better Python mas na verdade o B é de Bob Farrel, o criador do projeto</li>
+<li>Interpretador Python interativo baseado na biblioteca curses</li>
+<li>O <a class="reference external" href="http://castalio.info/episodio-83-tarek-ziade-mozilla.html">Tarek Ziade</a> é um dos
+contribuidores :)</li>
+<li>Alguns dos recursos:<ul>
+<li>In-line syntax highlighting</li>
+<li>Readline-like autocomplete with suggestions displayed as you type.</li>
+<li>Expected parameter list for any Python function.</li>
+<li>&quot;Rewind&quot; function to pop the last line of code from memory and re-evaluate.</li>
+<li>Send the code you've entered off to a pastebin.</li>
+<li>Save the code you've entered to a file.</li>
+<li>Auto-indentation.</li>
+<li>Python 3 support.</li>
+</ul>
+</li>
+<li>Diferenças com IPython<ul>
+<li>Não existe acesso aos comandos do seu shell</li>
+<li>Não tem como fazer um reload em módulos importados</li>
+<li>Não tem notebooks (aka ipython notebooks aka Jupyter)</li>
+</ul>
+</li>
+<li><tt class="docutils literal">pip install bpython</tt></li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=QITlSgYf8mc">A better Python REPL – bpython vs python</a> vídeo por <a class="reference external" href="https://dbader.org/">Dan Bader</a></li>
+</ul>
+</li>
+<li><a class="reference external" href="https://github.com/alexellis/faas">FAAS (Function as a Service)</a>:
+Serverless Platform based on Docker and Prometheus</li>
+<li><cite>Mstream &lt;https://github.com/IrosTheBeggar/mStream&gt;</cite>: crie seu próprio Spotify</li>
+<li><a class="reference external" href="http://pythonclub.com.br/what-the-flask-pt-4-extensoes-para-o-flask.html">What the Flask? parte 4 - Extensões para o Flask</a>
+foi lançado.</li>
+<li><a class="reference external" href="https://realpython.com/blog/python/test-driven-development-of-a-django-restful-api/">Test Driven Development of a Django RESTful API</a><ul>
+<li>Artigo que mostra como criar um aplicativo Django com interface REST usando
+a metodologia TDD.</li>
+<li>Mencionado sobre o <a class="reference external" href="http://djangoappschecklist.com/">Django Apps Checklist</a> e o episódio <a class="reference external" href="http://castalio.info/episodio-90-empreender-e-programar-parte-1.html">Empreender e Programar</a>.</li>
+</ul>
+</li>
+<li><a class="reference external" href="https://github.com/atlassian/localstack">LocalStack</a> infraestrutura fake
+da Amazon para usar em testes e desenvolvimento.</li>
+<li>Caso do Facebook sobre o preconceito com as mulheres: <a class="reference external" href="https://www.wsj.com/articles/facebooks-female-engineers-claim-gender-bias-1493737116">According to The Wall
+Street Journal</a>,
+female engineers who work at Facebook may face gender bias <a class="reference external" href="https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report">that prevents
+their code from being accepted at the same rate as male counterparts</a>.
+&quot;For Facebook, these revelations call into question the company's ongoing
+diversity efforts and its goal to build overarching online systems for people
+around the globe,&quot; reports The Verge.  &quot;The company's <a class="reference external" href="http://www.businessinsider.com/uber-diversity-report-comparison-google-apple-facebook-microsoft-twitter-2017-3">workforce is just 33
+percent female</a>,
+with women holding just 17 percent of technical roles and 27 percent of
+leadership positions.&quot;</li>
+</ul>
+<p>Assista a gravação do episódio:</p>
+
+        <p class="clearfix">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F30Jp73PKXo" allowfullscreen></iframe>
+        </div>
+        </p>
+        </div>
+</div>
+<div class="section" id="book-review">
+<h2>Book Review</h2>
+<p>Hoje trazemos o book review do livro <a class="reference external" href="https://en.wikipedia.org/wiki/The_Plot_Against_America">Complô Contra a América</a> de Philip Roth.
+Confira alguns pontos que foram mencionados:</p>
+<ul class="simple">
+<li>Ficção histórica (1940)</li>
+<li>Historiá contada do ponto de vista de um garoto da cidade de Newark, NJ.</li>
+<li>Franklin Delano Roosevelt (FDR) tenta se eleger pela terceira vez para a
+presidência, mas perde para o aviador Charles Lindbergh, que e famoso por ter
+feito um voo direto (sem parar) de NY até Paris.</li>
+<li>Charles Lindbergh diz em sua campanha não se envolver com a guerra e faz
+comentários elogiando Hitler.</li>
+<li>Charles Lindbergh diz que um voto para FDR significaria um voto a favor da
+guerra (America First)</li>
+<li>FDR pretende entrar na guerra e lutar contra Hitler</li>
+<li>Charles Lindbergh ganha a eleição, mostrando que muitas pessoas preferem não
+entrar na guerra, mesmo que isso signifique virar as costas ou fechar os
+olhos e ignorar o que está acontecendo com os Judeus e minorias na Europa.</li>
+<li>Uma vez eleito, o novo presidente assina um acordo de cooperação com Hitler,
+dizendo que os EUA não iriam participar ou se intrometer com a guerra e/ou
+decisões de Hitler.</li>
+<li>Nos EUA, todas as pessoas que já tinham noções anti semitistas se sentem mais
+com liberdade para se expressar em público todo seu preconceito.</li>
+<li>O livro então nos conta, do ponto de vista do personagem principal, como que
+pouco a pouco o governo começa de forma bem sutil a identificar e separar os
+Judeus dentre a população Americana.<ul>
+<li>Propaganda forte dizendo que Judeus não são Americanos, independente de
+quantas gerações já existam no pais</li>
+<li>Preconceito e racismo extremo contra Judeus</li>
+<li>Formação de um movimento igual os Nazistas fizeram onde crianças são
+convidadas a participar de campos de treinamento<ul>
+<li>Denunciar qualquer pessoa que seja contra o governo, mesmo se forem seus
+próprios pais</li>
+<li>Lavagem cerebral para aceitar que Judeus são sinónimo de pessoas que amam
+a guerra, não americanos</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>O final do livro acontece de forma muito rápida, e na minha opinião deixa a
+desejar por terminar assim</li>
+<li>Semelhanças com os USA depois do Trump<ul>
+<li>America First</li>
+<li>Rússia e EUA (Putin &amp; Trump)</li>
+</ul>
+</li>
+<li>Semelhanças com o autor<ul>
+<li>Família chama-se Roth</li>
+<li>Narrador chama-se Philip</li>
+<li>Cenário é Newark</li>
+</ul>
+</li>
+</ul>
+<p>O livro possui adaptações para o cinema:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://www.imdb.com/title/tt0376479/">Pastoral Americana</a></li>
+<li><a class="reference external" href="http://www.imdb.com/title/tt0308383/">Revelações</a></li>
+<li><a class="reference external" href="http://www.imdb.com/title/tt1568343/">O Último Ato</a></li>
+<li><a class="reference external" href="http://www.imdb.com/title/tt0974554/">Fatal</a></li>
+</ul>
+</div>
+<div class="section" id="ainda-nao-ouviu-escute-agora">
+<h2>Ainda não ouviu? escute agora!</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-99" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        </div>
+<div class="section" id="comunicados-e-eventos">
+<h2>Comunicados e eventos</h2>
+<p>Fique ligado pois o episódio de número 100 será gravado ao vivo pelo YouTube no
+dia 10 de maio de 2017 e será um Cage Match de Sistemas Operacionais. Já temos
+a confirmação da participação de membros do <a class="reference external" href="http://devnaestrada.com.br/">DEV na Estrada</a>, <a class="reference external" href="https://hackncast.org/">Hack’n’Cast</a>,
+<a class="reference external" href="http://tecnologiaaberta.com.br/category/opencast/">Opencast</a>, <a class="reference external" href="https://twitter.com/MayogaX">Priscila
+Mayumi</a> e você, isso mesmo, você poderá
+participar ao vivo. Então não perca essa chance, participe!</p>
+<p>Confira os eventos nos quais você poderá encontra nos do Castálio Podcast:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://caipyra.python.org.br/">Caipyra</a> 2017 em Ribeirão Preto<ul>
+<li>O Bruno Rocha fará um keynote no dia 24 de Junho de 2017.</li>
+</ul>
+</li>
+<li><a class="reference external" href="http://2017.pythonbrasil.org.br/">Python Brasil 13</a> que acontecerá em Belo
+Horizonte - MG de 06 a 11 de Outubro. Segue algumas palestras e tutoriais que
+recomendamos para você votar:<ul>
+<li>Vote no <a class="reference external" href="http://speakerfight.com/events/python-brasil-13-tutoriais/#what-the-flask-aprenda-flask-criando-um-cms-e-suas-extensoes">Tutorial What The Flask</a>
+que o Bruno Rocha vai ministrar.</li>
+<li>Vote na palestra <a class="reference external" href="http://speakerfight.com/events/python-brasil-13-palestras/#autonomy-way-o-caminho-da-autonomia">Autonomy way: o caminho da autonomia</a>
+do Renzo Nuccitelli.</li>
+<li>Vote na palestra <a class="reference external" href="http://speakerfight.com/events/python-brasil-13-palestras/#just-what-is-a-quality-engineer">Just What Is A Quality Engineer?</a>
+do Og Maciel.</li>
+<li>Vote na palestra <a class="reference external" href="http://speakerfight.com/events/python-brasil-13-palestras/#mantendo-test-case-e-codigo-de-automacao-juntos-no-codigo-fonte-2">Mantendo Test Case e Código de Automação juntos no código
+fonte</a>
+do Og Maciel.</li>
+<li>O Elyézer Rezende ainda não enviou nenhuma proposta de palestra mas tem
+planos de enviar. De qualquer forma, ele estará presente no evento.</li>
+</ul>
+</li>
+</ul>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a class="reference external" href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio Podcast</a>.</p>
+<p>Até o próximo episódio!</p>
+<p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/tech-news.html">tech news</a>
+  <a class="label label-primary" href="https://castalio.info/tag/book-review.html">book review</a>
+  <a class="label label-primary" href="https://castalio.info/tag/complo-contra-a-america.html">complô contra a américa</a>
+  <a class="label label-primary" href="https://castalio.info/tag/philip-roth.html">philip roth</a>
+  <a class="label label-primary" href="https://castalio.info/tag/red-hat.html">red hat</a>
+  <a class="label label-primary" href="https://castalio.info/tag/satellite-6.html">satellite 6</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ansible.html">ansible</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fauxfactory.html">fauxfactory</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pyup.html">pyup</a>
+  <a class="label label-primary" href="https://castalio.info/tag/openshiftio.html">openshift.io</a>
+  <a class="label label-primary" href="https://castalio.info/tag/bpython.html">bpython</a>
+  <a class="label label-primary" href="https://castalio.info/tag/tarek-ziade.html">tarek
+ziade</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ipython.html">ipython</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/dan-bader.html">dan bader</a>
+  <a class="label label-primary" href="https://castalio.info/tag/faas.html">faas</a>
+  <a class="label label-primary" href="https://castalio.info/tag/mstream.html">mstream</a>
+  <a class="label label-primary" href="https://castalio.info/tag/what-the-flask.html">what the flask</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pythonclub.html">pythonclub</a>
+  <a class="label label-primary" href="https://castalio.info/tag/tdd.html">tdd</a>
+  <a class="label label-primary" href="https://castalio.info/tag/api.html">api</a>
+  <a class="label label-primary" href="https://castalio.info/tag/rest.html">rest</a>
+  <a class="label label-primary" href="https://castalio.info/tag/restful.html">restful</a>
+  <a class="label label-primary" href="https://castalio.info/tag/django.html">django</a>
+  <a class="label label-primary" href="https://castalio.info/tag/django-apps-checklist.html">django apps checklist</a>
+  <a class="label label-primary" href="https://castalio.info/tag/localstack.html">localstack</a>
+  <a class="label label-primary" href="https://castalio.info/tag/facebook.html">facebook</a>
+  <a class="label label-primary" href="https://castalio.info/tag/dev-na-estrada.html">dev na estrada</a>
+  <a class="label label-primary" href="https://castalio.info/tag/hackncast.html">hack'n'cast</a>
+  <a class="label label-primary" href="https://castalio.info/tag/opencast.html">opencast</a>
+  <a class="label label-primary" href="https://castalio.info/tag/priscila-mayumi.html">priscila
+mayumi</a>
+  <a class="label label-primary" href="https://castalio.info/tag/caipyra.html">caipyra</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python-brasil-13.html">python brasil 13</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python-brasil.html">python brasil</a>
+  <a class="label label-primary" href="https://castalio.info/tag/renzo-nuccitelli.html">renzo nuccitelli</a>
+  <a class="label label-primary" href="https://castalio.info/tag/bruno-rocha.html">bruno rocha</a>
+  <a class="label label-primary" href="https://castalio.info/tag/og-maciel.html">og maciel</a>
+  <a class="label label-primary" href="https://castalio.info/tag/elyezer-rezende.html">elyézer rezende</a>
+  <a class="label label-primary" href="https://castalio.info/tag/docker.html">docker</a>
+  <a class="label label-primary" href="https://castalio.info/tag/prometheus.html">prometheus</a>
+  <a class="label label-primary" href="https://castalio.info/tag/empreender-e-programar.html">empreender
+e programar</a>
+  <a class="label label-primary" href="https://castalio.info/tag/flask.html">flask</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jupyter-notebooks.html">jupyter notebooks</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pytest.html">py.test</a>
+  <a class="label label-primary" href="https://castalio.info/tag/travis.html">travis</a>
+  <a class="label label-primary" href="https://castalio.info/tag/codecov.html">codecov</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-99-tech-news-e-book-review';
+                var disqus_url = 'https://castalio.info/episodio-99-tech-news-e-book-review.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-99&callback=set_download_count?output=json"></script>
+</body>
+</html>

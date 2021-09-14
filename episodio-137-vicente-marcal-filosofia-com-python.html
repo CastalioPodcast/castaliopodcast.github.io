@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 137: Vicente Marçal - Filosofia com Python - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-137-vicente-marcal-filosofia-com-python.html">
+
+        <meta name="author" content="Castálio Podcast" />
+        <meta name="keywords" content="vicente marçal,bash,beaultiful soup,brasil.io,django,fedora,flask,python,numpy,podprogramar,pycharm,pyladies,python para zumbis,quebradev,rosie,sqlite,serenata de amor,web scraping,matplotlib,scikit-learn,turicas" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nosso convidado de hoje é professor adjunto do Departamento de Filosofia da UNIR - Universidade Federal de Rondônia. Doutorando em Psicologia Social e do Trabalho pelo IP-USP - Instituto de Psicologia da Universidade de São Paulo. Mestre em Filosofia pela …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 137: Vicente Marçal - Filosofia com Python"/>
+        <meta property="og:url" content="https://castalio.info/episodio-137-vicente-marcal-filosofia-com-python.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nosso convidado de hoje é professor adjunto do Departamento de Filosofia da UNIR - Universidade Federal de Rondônia. Doutorando em Psicologia Social e do Trabalho pelo IP-USP - Instituto de Psicologia da Universidade de São Paulo. Mestre em Filosofia pela …"/>
+        <meta property="article:published_time" content="2018-11-27" />
+            <meta property="article:section" content="episodes" />
+            <meta property="article:tag" content="vicente marçal" />
+            <meta property="article:tag" content="bash" />
+            <meta property="article:tag" content="beaultiful soup" />
+            <meta property="article:tag" content="brasil.io" />
+            <meta property="article:tag" content="django" />
+            <meta property="article:tag" content="fedora" />
+            <meta property="article:tag" content="flask" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="numpy" />
+            <meta property="article:tag" content="podprogramar" />
+            <meta property="article:tag" content="pycharm" />
+            <meta property="article:tag" content="pyladies" />
+            <meta property="article:tag" content="python
+para zumbis" />
+            <meta property="article:tag" content="quebradev" />
+            <meta property="article:tag" content="rosie" />
+            <meta property="article:tag" content="sqlite" />
+            <meta property="article:tag" content="serenata de amor" />
+            <meta property="article:tag" content="web scraping" />
+            <meta property="article:tag" content="matplotlib" />
+            <meta property="article:tag" content="scikit-learn" />
+            <meta property="article:tag" content="turicas" />
+            <meta property="article:author" content="Castálio Podcast" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-137-vicente-marcal-filosofia-com-python.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 137: Vicente Marçal - Filosofia com Python">
+                        Episódio 137: Vicente Marçal - Filosofia com Python
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2018-11-27T00:00:00-05:00">Tue 27 November 2018</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-137-vicente-marcal-filosofia-com-python.html#disqus_thread" data-disqus-identifier="episodio-137-vicente-marcal-filosofia-com-python">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Vicente Marçal" src="/images/vicente-marcal.jpg"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é professor adjunto do Departamento de Filosofia da
+UNIR - Universidade Federal de Rondônia. Doutorando em Psicologia Social e do
+Trabalho pelo IP-USP - Instituto de Psicologia da Universidade de São Paulo.
+Mestre em Filosofia pela FFC-UNESP - Faculdade de Filosofia e Ciências da
+Universidade Estadual Paulista/Campus Marília. Especialista em Filosofia
+Moderna e Contemporânea: Aspectos Éticos e Jurídicos pela UEL - Universidade
+Estadual de Londrina. Licenciado em Filosofia pela UEL - Universidade Estadual
+de Londrina. Coordenador do GEPEGRA - Grupo de Estudos e Pesquisa em
+Epistemologia Genética da Região Amazônica (CNPq) do Departamento de Filosofia
+da UNIR em Porto Velho-RO. Com experiência em Filosofia, com ênfase em
+Epistemologia, Epistemologia Genética, Teoria do Conhecimento e Lógica. E nas
+horas vagas ele brinca com Python. Vicente Marçal seja bem-vindo ao Castálio
+Podcast.</p>
+
+<div class="clearfix"></div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute enquanto lê os show notes!</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-137" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            <div class="section" id="topicos-abordados-neste-episodio">
+<h2>Tópicos abordados neste episódio</h2>
+<ul class="simple">
+<li>Como o Vicente entrou na área de Filosofia?</li>
+<li>Qual o interesse dos alunos por filosofia hoje em dia?</li>
+<li>É possível transformar o mundo utilizando tecnologia?</li>
+<li>Como o Vicente chegou até o Python?</li>
+<li>Quais os livros e cursos o Vicente recomenda para quem está iniciando com
+Python?</li>
+<li>Quais os livros e cursos o Vicente recomenda para quem está aprendendo
+programação? Principalmente para pessoas que não são da área de tecnologia.</li>
+<li>Como o background como filósofo ajudou o Vicente a aprender e utilizar
+a programação?</li>
+</ul>
+<h2>Top 5</h2>
+<h3>Livros:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.estantevirtual.com.br/livros/zelia-ramozzi-chiarottino/piaget-modelo-e-estrutura/1711628536">Modelo e Estrutura - Zelia Ramozzi</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.estantevirtual.com.br/livros/zelia-ramozzi-chiarottino/em-busca-do-sentido-da-obra-de-jean-piaget/1815760251">Em Busca do Sentido da Obra de Jean Piaget - Zelia Ramozzi</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/7502434-adaptation-and-intelligence">Adaptation vitale et psychologie de l'intelligence</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/1814504.Biology_and_Knowledge">Biologia e Conhecimento</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/14622485-la-psychanalyse-son-image-et-son-public">A Psicanálise, sua imagem e seu público</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/1728850.The_Origins_of_Intelligence_in_Children">O Nascimento da Inteligência na Criança</a>
+    </li>
+    </ol>
+<h3>Músicas:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.last.fm/music/Iron+Maiden/Powerslave/Powerslave">Iron Maiden - Powerslave</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Belphegor/_/Lucifer+Incestus">Belphegor - Lucifer Incestus</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Ratos+De+Por%C3%A3o/_/Conflito+Violento">Ratos De Porão - Conflito Violento</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/C%C3%B3lera/_/Medo">Cólera - Medo</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Garotos+Podres/_/Eu+n%C3%A3o+sei+o+que+quero">Garotos Podres - Eu não sei o que quero</a>
+    </li>
+    </ol>
+<h3>Filmes:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0944947/">Game of Thrones</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt1830617/">Grimm</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt3749900/">Gotham</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0451279/">Mulher Maravilha</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0468569/">The Dark Knight</a>
+    </li>
+    </ol>
+</div>
+<div class="section" id="assista-a-gravacao-deste-episodio">
+<h2>Assista a gravação deste episódio</h2>
+<p>Este episódio foi gravado ao vivo em nosso <a class="reference external" href="http://youtube.com/castaliopodcast">canal no YouTube</a> e você pode assistir a gravação e os
+demos no vídeo abaixo:</p>
+
+        <p class="clearfix">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hl8qQpijrM4" allowfullscreen></iframe>
+        </div>
+        </p>
+        <p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a class="reference external" href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify Playlist</a> e e
+não se esqueça de inscrever-se no <a class="reference external" href="http://youtube.com/castaliopodcast">Canal no YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+</div>
+<div class="section" id="contatos">
+<h2>Contatos</h2>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object img-circle img-thumbnail" src="images/vicente-marcal.jpg" alt="Vicente Marçal" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Vicente Marçal</h4>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-link"></i> <a href="http://lattes.cnpq.br/6291991365858479">Currículo Lattes</a></li>
+                <li><i class="fa fa-link"></i> <a href="https://www.vicentemarcal.com/">Site</a></li>
+                <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/vicentemarcal">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute Agora</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-137" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            </div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="https://www.gnu.org/software/bash/">Bash</a></li>
+<li><a class="reference external" href="https://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a></li>
+<li><a class="reference external" href="https://brasil.io/">Brasil.io</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/book/show/23099363-django-essentials">Django Essentials</a></li>
+<li><a class="reference external" href="https://getfedora.org/">Fedora</a></li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=fft6IvL-y1g&amp;list=PLCuWRxjbgFnOgjL5rynXlnotsDhsi00Xa&amp;index=3">Flask Mega Tutorial</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/book/show/35109529-introdu-o-programa-o-com-python">Introdução à Programação com Python</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas">Jürgen Habermas</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Karl_Marx">Karl Marx</a></li>
+<li><a class="reference external" href="http://www.numpy.org/">NumPy</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/book/show/40800648-pense-em-python">Pense em Python</a></li>
+<li><a class="reference external" href="https://mundopodcast.com.br/podprogramar/">PodProgramar</a></li>
+<li><a class="reference external" href="https://www.thevenusproject.com/">Projeto Venus</a></li>
+<li><a class="reference external" href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+<li><a class="reference external" href="http://brasil.pyladies.com/">PyLadies</a></li>
+<li><a class="reference external" href="https://www.python.pro.br/">Python Pro</a></li>
+<li><a class="reference external" href="https://www.pycursos.com/python-para-zumbis/">Python para Zumbis</a></li>
+<li><a class="reference external" href="http://quebradev.com.br/">QuebraDev</a></li>
+<li><a class="reference external" href="https://twitter.com/RosieDaSerenata">Rosie da Serenata</a></li>
+<li><a class="reference external" href="https://sqlite.org/">SQLite</a></li>
+<li><a class="reference external" href="https://serenata.ai/">Serenata de Amor</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/book/show/24488664-web-scraping-with-python">Web Scraping com Python</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Web_scraping">Web scraping</a></li>
+<li><a class="reference external" href="https://welcometothedjango.com.br/">Welcome to the Django</a></li>
+<li><a class="reference external" href="http://lattes.cnpq.br/2160365073619685">Zelia Ramozzi-Chiarottino</a></li>
+<li><a class="reference external" href="https://matplotlib.org/">matplotlib</a></li>
+<li><a class="reference external" href="https://scikit-learn.org/">scikit-learn</a></li>
+<li><a class="reference external" href="http://turicas.info/">Álvaro Justen (Turicas)</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Música</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/vicente-marcal.html">vicente marçal</a>
+  <a class="label label-primary" href="https://castalio.info/tag/bash.html">bash</a>
+  <a class="label label-primary" href="https://castalio.info/tag/beaultiful-soup.html">beaultiful soup</a>
+  <a class="label label-primary" href="https://castalio.info/tag/brasilio.html">brasil.io</a>
+  <a class="label label-primary" href="https://castalio.info/tag/django.html">django</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fedora.html">fedora</a>
+  <a class="label label-primary" href="https://castalio.info/tag/flask.html">flask</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/numpy.html">numpy</a>
+  <a class="label label-primary" href="https://castalio.info/tag/podprogramar.html">podprogramar</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pycharm.html">pycharm</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pyladies.html">pyladies</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python-para-zumbis.html">python
+para zumbis</a>
+  <a class="label label-primary" href="https://castalio.info/tag/quebradev.html">quebradev</a>
+  <a class="label label-primary" href="https://castalio.info/tag/rosie.html">rosie</a>
+  <a class="label label-primary" href="https://castalio.info/tag/sqlite.html">sqlite</a>
+  <a class="label label-primary" href="https://castalio.info/tag/serenata-de-amor.html">serenata de amor</a>
+  <a class="label label-primary" href="https://castalio.info/tag/web-scraping.html">web scraping</a>
+  <a class="label label-primary" href="https://castalio.info/tag/matplotlib.html">matplotlib</a>
+  <a class="label label-primary" href="https://castalio.info/tag/scikit-learn.html">scikit-learn</a>
+  <a class="label label-primary" href="https://castalio.info/tag/turicas.html">turicas</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-137-vicente-marcal-filosofia-com-python';
+                var disqus_url = 'https://castalio.info/episodio-137-vicente-marcal-filosofia-com-python.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-137&callback=set_download_count?output=json"></script>
+</body>
+</html>

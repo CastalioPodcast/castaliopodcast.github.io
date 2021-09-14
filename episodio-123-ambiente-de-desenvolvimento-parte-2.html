@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 123: Ambiente de Desenvolvimento - Parte 2 - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-123-ambiente-de-desenvolvimento-parte-2.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="ambiente de desenvolvimento,editor,ide,programação,python,shell,vim,vscode,emacs,direnv,git,magit,orgmode,vim-gitgutter,vim-fugitive,vim-ctrlp,geany,pycharm,visual studio code,nano,dotfiles,vimrc,emacs.d" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Neste episódio continuamos a falar do nosso ambiente de desenvolvimento. Se você ainda não ouviu na primeira parte falamos sobre nosso shell, sistema operacional e algumas configurações de nossos ambientes. Nesta parte vamos focar e falar sobre nossos …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 123: Ambiente de Desenvolvimento - Parte 2"/>
+        <meta property="og:url" content="https://castalio.info/episodio-123-ambiente-de-desenvolvimento-parte-2.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Neste episódio continuamos a falar do nosso ambiente de desenvolvimento. Se você ainda não ouviu na primeira parte falamos sobre nosso shell, sistema operacional e algumas configurações de nossos ambientes. Nesta parte vamos focar e falar sobre nossos …"/>
+        <meta property="article:published_time" content="2017-10-23" />
+            <meta property="article:section" content="episodes" />
+            <meta property="article:tag" content="ambiente de desenvolvimento" />
+            <meta property="article:tag" content="editor" />
+            <meta property="article:tag" content="ide" />
+            <meta property="article:tag" content="programação" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="shell" />
+            <meta property="article:tag" content="vim" />
+            <meta property="article:tag" content="vscode" />
+            <meta property="article:tag" content="emacs" />
+            <meta property="article:tag" content="direnv" />
+            <meta property="article:tag" content="git" />
+            <meta property="article:tag" content="magit" />
+            <meta property="article:tag" content="orgmode" />
+            <meta property="article:tag" content="vim-gitgutter" />
+            <meta property="article:tag" content="vim-fugitive" />
+            <meta property="article:tag" content="vim-ctrlp" />
+            <meta property="article:tag" content="geany" />
+            <meta property="article:tag" content="pycharm" />
+            <meta property="article:tag" content="visual studio code" />
+            <meta property="article:tag" content="nano" />
+            <meta property="article:tag" content="dotfiles" />
+            <meta property="article:tag" content="vimrc" />
+            <meta property="article:tag" content="emacs.d" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-123-ambiente-de-desenvolvimento-parte-2.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 123: Ambiente de Desenvolvimento - Parte 2">
+                        Episódio 123: Ambiente de Desenvolvimento - Parte 2
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2017-10-23T00:00:00-04:00">Mon 23 October 2017</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-123-ambiente-de-desenvolvimento-parte-2.html#disqus_thread" data-disqus-identifier="episodio-123-ambiente-de-desenvolvimento-parte-2">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Ambiente de Desenvolvimento - Parte 2" src="/images/episode-123.png"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Neste episódio continuamos a falar do nosso ambiente de desenvolvimento. Se
+você ainda não ouviu na <a class="reference external" href="http://localhost:8000/episodio-120-ambiente-de-desenvolvimento-parte-1.html">primeira parte</a>
+falamos sobre nosso shell, sistema operacional e algumas configurações de
+nossos ambientes. Nesta parte vamos focar e falar sobre nossos editores de
+texto, alguns plugins, configurações e recursos que usamos. Alem disso,
+deixamos outras dicas como, por exemplo, se deve usar o <a class="reference external" href="https://git-scm.com/">Git</a> com chave SSH ou
+usuário e senha e também alguns atalhos úteis para quem utiliza o terminal.</p>
+
+<div class="clearfix"></div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute enquanto lê os show notes!</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-123" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-123/castalio-podcast-123.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-123/castalio-podcast-123.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            <div class="section" id="recados">
+<h2>Recados</h2>
+<ol class="arabic simple">
+<li>A temporada 2017 do Castálio vai até 30/10/2017 e então faremos uma pausa de
+2 meses até Janeiro de 2017, confira em nossa <a class="reference external" href="http://castalio.info/agenda.html">agenda</a>.</li>
+<li>Utilize o cupom de desconto <strong>PRC_Castalio</strong> e compre seu ingresso para a
+<a class="reference external" href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/">RubyConf</a>
+com 30% de desconto.</li>
+</ol>
+</div>
+<div class="section" id="topicos-abordados-neste-episodio">
+<h2>Tópicos abordados neste episódio</h2>
+<ul class="simple">
+<li>O Og comentou sobre seu editor, o <a class="reference external" href="https://www.gnu.org/software/emacs/">Emacs</a>, e alguns dos plugins que ele
+utiliza como o <a class="reference external" href="https://magit.vc/">Magit</a> e <a class="reference external" href="http://orgmode.org/">OrgMode</a>.</li>
+<li>O Elyézer falou sobre o <a class="reference external" href="http://www.vim.org/">Vim</a> e alguns do plugins que utiliza como o
+<a class="reference external" href="https://github.com/tpope/vim-fugitive">vim-fugitive</a>, <a class="reference external" href="https://github.com/airblade/vim-gitgutter">vim-gitgutter</a> e o <a class="reference external" href="https://github.com/kien/ctrlp.vim">vim-ctrlp</a>. Ele também comentou sobre
+o por que de um editor modal ser ate considerado bom em termos de ergonomia e
+como buscar e navegar na documentação do Vim.</li>
+<li>O Bruno mostrou que utiliza alguns editores como <a class="reference external" href="https://www.geany.org/">Geany</a>, <a class="reference external" href="https://www.jetbrains.com/pycharm/">PyCharm</a>,
+<a class="reference external" href="https://www.nano-editor.org/">nano</a> e <a class="reference external" href="https://code.visualstudio.com/">VSCode</a>. Ele também utiliza o <a class="reference external" href="https://direnv.net/">direnv</a> para criar ambientes
+virtuais para cada um de seus projetos e a ativação e desativação desses
+ambientes acontece quando o diretório do projeto e acessado ou deixado
+respectivamente.</li>
+<li>Falamos também como acessamos um repositório Git no Github, se utilizamos
+uma chave SSH ou usuário e senha.</li>
+<li>No final foi comentado sobre alguns atalhos do terminal para facilitar a
+entrada de comandos:<ul>
+<li><tt class="docutils literal">Ctrl + a</tt>: move o cursor para o inicio da linha</li>
+<li><tt class="docutils literal">Ctrl + e</tt>: move o cursos para o final da linha</li>
+<li><tt class="docutils literal">Ctrl + k</tt>: apaga desde a posição do cursor ate o final da linha</li>
+<li><tt class="docutils literal">Ctrl + w</tt>: apara a palavra anterior ao cursor</li>
+<li><tt class="docutils literal">Ctrl + r</tt>: pesquisa no histórico de comandos fazendo o match em qualquer
+parte do comando. <tt class="docutils literal">Ctrl + p</tt> e <tt class="docutils literal">Ctrl + n</tt> podem ser utilizados para ir
+para o comando encontrado anterior e posterior respectivamente.</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="assista-a-gravacao-deste-episodio">
+<h2>Assista a gravação deste episódio</h2>
+<p>Este episódio foi gravado ao vivo em nosso <a class="reference external" href="http://youtube.com/castaliopodcast">canal no YouTube</a> e você pode assistir a gravação e os
+demos no video abaixo:</p>
+
+        <p class="clearfix">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4m_6Q8wQmm8" allowfullscreen></iframe>
+        </div>
+        </p>
+        <p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a class="reference external" href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify Playlist</a> e e
+não se esqueça de inscrever-se no <a class="reference external" href="http://youtube.com/castaliopodcast">Canal no YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+</div>
+<div class="section" id="contatos">
+<h2>Contatos</h2>
+<div class="row">
+    <div class="col-md-4">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object img-circle img-thumbnail" src="https://avatars1.githubusercontent.com/u/458654?v=3&s=240" alt="Bruno Rocha" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Bruno Rocha</h4>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-twitter"></i> <a href="https://www.twitter.com/rochacbruno">Twitter</a></li>
+                <li><i class="fa fa-github"></i> <a href="https://github.com/rochacbruno">Github</a></li>
+                <li><i class="fa fa-link"></i> <a href="http://brunorocha.org">Site</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+
+    <div class="col-md-4">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object img-circle img-thumbnail" src="https://avatars2.githubusercontent.com/u/48132?v=3&s=240" alt="Elyézer Rezende" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Elyézer Rezende</h4>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-twitter"></i> <a href="https://www.twitter.com/elyezer">Twitter</a></li>
+                <li><i class="fa fa-github"></i> <a href="https://github.com/elyezer">Github</a></li>
+                <li><i class="fa fa-link"></i> <a href="http://elyezer.com/">Site</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+
+    <div class="col-md-4">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object img-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/53362?s=400&v=4" alt="Og Maciel" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Og Maciel</h4>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/ogmaciel">Twitter</a></li>
+                <li><i class="fa fa-github"></i> <a href="https://github.com/omaciel">Github</a></li>
+                <li><i class="fa fa-link"></i> <a href="https://omaciel.github.io/">Site</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute Agora</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-123" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-123/castalio-podcast-123.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-123/castalio-podcast-123.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            </div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="https://git-scm.com/">Git</a></li>
+<li><a class="reference external" href="https://www.gnu.org/software/emacs/">Emacs</a></li>
+<li><a class="reference external" href="https://magit.vc/">Magit</a></li>
+<li><a class="reference external" href="http://orgmode.org/">OrgMode</a></li>
+<li><a class="reference external" href="http://www.vim.org/">Vim</a></li>
+<li><a class="reference external" href="https://github.com/tpope/vim-fugitive">vim-fugitive</a></li>
+<li><a class="reference external" href="https://github.com/airblade/vim-gitgutter">vim-gitgutter</a></li>
+<li><a class="reference external" href="https://github.com/kien/ctrlp.vim">vim-ctrlp</a></li>
+<li><a class="reference external" href="https://www.geany.org/">Geany</a></li>
+<li><a class="reference external" href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+<li><a class="reference external" href="https://code.visualstudio.com/">VScode</a></li>
+<li><a class="reference external" href="https://www.nano-editor.org/">nano</a></li>
+<li><a class="reference external" href="https://direnv.net/">direnv</a></li>
+<li><a class="reference external" href="https://github.com/elyezer/.vim">vimrc do Elyézer</a></li>
+<li><a class="reference external" href="https://github.com/omaciel/dotfiles">dotfiles do Og</a></li>
+<li><a class="reference external" href="https://github.com/omaciel/super-emacs">emacs.d do Og</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/ambiente-de-desenvolvimento.html">ambiente de desenvolvimento</a>
+  <a class="label label-primary" href="https://castalio.info/tag/editor.html">editor</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ide.html">ide</a>
+  <a class="label label-primary" href="https://castalio.info/tag/programacao.html">programação</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/shell.html">shell</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vim.html">vim</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vscode.html">vscode</a>
+  <a class="label label-primary" href="https://castalio.info/tag/emacs.html">emacs</a>
+  <a class="label label-primary" href="https://castalio.info/tag/direnv.html">direnv</a>
+  <a class="label label-primary" href="https://castalio.info/tag/git.html">git</a>
+  <a class="label label-primary" href="https://castalio.info/tag/magit.html">magit</a>
+  <a class="label label-primary" href="https://castalio.info/tag/orgmode.html">orgmode</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vim-gitgutter.html">vim-gitgutter</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vim-fugitive.html">vim-fugitive</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vim-ctrlp.html">vim-ctrlp</a>
+  <a class="label label-primary" href="https://castalio.info/tag/geany.html">geany</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pycharm.html">pycharm</a>
+  <a class="label label-primary" href="https://castalio.info/tag/visual-studio-code.html">visual studio code</a>
+  <a class="label label-primary" href="https://castalio.info/tag/nano.html">nano</a>
+  <a class="label label-primary" href="https://castalio.info/tag/dotfiles.html">dotfiles</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vimrc.html">vimrc</a>
+  <a class="label label-primary" href="https://castalio.info/tag/emacsd.html">emacs.d</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-123-ambiente-de-desenvolvimento-parte-2';
+                var disqus_url = 'https://castalio.info/episodio-123-ambiente-de-desenvolvimento-parte-2.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-123&callback=set_download_count?output=json"></script>
+</body>
+</html>

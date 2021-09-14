@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 134: Rodrigo Senra - Jupyter Notebooks - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-134-rodrigo-senra-jupyter-notebooks.html">
+
+        <meta name="author" content="Castálio Podcast" />
+        <meta name="keywords" content="alexandre oliva,anaconda,apache zeppelin,associação python brasil,azure notebooks,beakerx,binder,c++,closure,colaboratory,donald knuth,fernando pérez,fortran,graphql,guido van rossum,ipython,java,javascript,json,jupyter kenels,jupyter notebooks,jupyterhub,jupyterlab,latex,lisp,literate programming,lua,matlab,perl,cinerdia,prêmio dorneles tremea,python,r,rodrigo senra,scala,spark notebook,tcl,typescript,zope" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nosso convidado de hoje é diretor técnico na Work &amp; Co, PhD em Ciências da Computação, já contribuiu com inúmeros projetos open source em Python, ajudou a fundar a Associação Python Brasil e já foi premiado com o Prêmio …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 134: Rodrigo Senra - Jupyter Notebooks"/>
+        <meta property="og:url" content="https://castalio.info/episodio-134-rodrigo-senra-jupyter-notebooks.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nosso convidado de hoje é diretor técnico na Work &amp; Co, PhD em Ciências da Computação, já contribuiu com inúmeros projetos open source em Python, ajudou a fundar a Associação Python Brasil e já foi premiado com o Prêmio …"/>
+        <meta property="article:published_time" content="2018-10-15" />
+            <meta property="article:section" content="episodes" />
+            <meta property="article:tag" content="alexandre oliva" />
+            <meta property="article:tag" content="anaconda" />
+            <meta property="article:tag" content="apache zeppelin" />
+            <meta property="article:tag" content="associação python brasil" />
+            <meta property="article:tag" content="azure notebooks" />
+            <meta property="article:tag" content="beakerx" />
+            <meta property="article:tag" content="binder" />
+            <meta property="article:tag" content="c++" />
+            <meta property="article:tag" content="closure" />
+            <meta property="article:tag" content="colaboratory" />
+            <meta property="article:tag" content="donald knuth" />
+            <meta property="article:tag" content="fernando
+pérez" />
+            <meta property="article:tag" content="fortran" />
+            <meta property="article:tag" content="graphql" />
+            <meta property="article:tag" content="guido van rossum" />
+            <meta property="article:tag" content="ipython" />
+            <meta property="article:tag" content="java" />
+            <meta property="article:tag" content="javascript" />
+            <meta property="article:tag" content="json" />
+            <meta property="article:tag" content="jupyter kenels" />
+            <meta property="article:tag" content="jupyter notebooks" />
+            <meta property="article:tag" content="jupyterhub" />
+            <meta property="article:tag" content="jupyterlab" />
+            <meta property="article:tag" content="latex" />
+            <meta property="article:tag" content="lisp" />
+            <meta property="article:tag" content="literate programming" />
+            <meta property="article:tag" content="lua" />
+            <meta property="article:tag" content="matlab" />
+            <meta property="article:tag" content="perl" />
+            <meta property="article:tag" content="cinerdia" />
+            <meta property="article:tag" content="prêmio dorneles tremea" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="r" />
+            <meta property="article:tag" content="rodrigo senra" />
+            <meta property="article:tag" content="scala" />
+            <meta property="article:tag" content="spark notebook" />
+            <meta property="article:tag" content="tcl" />
+            <meta property="article:tag" content="typescript" />
+            <meta property="article:tag" content="zope" />
+            <meta property="article:author" content="Castálio Podcast" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-134-rodrigo-senra-jupyter-notebooks.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 134: Rodrigo Senra - Jupyter Notebooks">
+                        Episódio 134: Rodrigo Senra - Jupyter Notebooks
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2018-10-15T00:00:00-04:00">Mon 15 October 2018</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-134-rodrigo-senra-jupyter-notebooks.html#disqus_thread" data-disqus-identifier="episodio-134-rodrigo-senra-jupyter-notebooks">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Rodrigo Senra" src="/images/rodrigo-senra.jpg"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é diretor técnico na <a class="reference external" href="https://work.co/">Work &amp; Co</a>, PhD em Ciências da
+Computação, já contribuiu com inúmeros projetos open source em Python, ajudou a
+fundar a <a class="reference external" href="http://associacao.python.org.br/">Associação Python Brasil</a> e já foi premiado com o <a class="reference external" href="http://associacao.python.org.br/dorneles-tremea">Prêmio Dorneles
+Tremea</a> por contribuições para a comunidade Python Brasil.</p>
+
+<div class="clearfix"></div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute enquanto lê os show notes!</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-134" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            <div class="section" id="topicos-abordados-neste-episodio">
+<h2>Tópicos abordados neste episódio</h2>
+<ul class="simple">
+<li>Como o Rodrigo iniciou na área de desenvovimento?</li>
+<li>Qual a tragetória do Rodrigo até iniciar programar com Python?</li>
+<li>O que seria <a class="reference external" href="http://jupyter.org/">Jupyter Notebooks</a>? O projeto sempre teve esse nome?</li>
+<li>O Rodrigo já fez alguma contribuição com o projeto Jupyter Notebooks e/ou
+iPython?</li>
+<li>Quais os recursos que o Rodrigo mais gosta no Jupyter? Quais os recursos que
+ele utiliza mais?</li>
+<li>Quais as recomendações do Rodrigo para quem está interessado em aprender
+Jupyter?</li>
+<li>Quais ferramentas, linguages e tecnologias o Rodrigo recomenda investir para
+a área de Data Science à longo prazo?</li>
+<li>É possível utilizar Jupyter notebook fora da área de Data Science?</li>
+<li>O Jupyter é um novo Bash e o JupyterLab seria um novo Eclipse do Cientista de
+dados?</li>
+<li>O que é <a class="reference external" href="https://mybinder.org/">Binder</a>?</li>
+</ul>
+<h2>Top 5</h2>
+<h3>Músicas:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.last.fm/music/Jack+Johnson">Jack Johnson</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Adele">Adele</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Kings+of+Convenience">Kings of Convenience</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune">Claude Debussy - Clair de lune</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Carl+Orff/_/Carmina+Burana:+O+Fortuna">Carl Orff - Carmina Burana: O Fortuna</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/The+Beatles">The Beatles</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Sting">Sting</a>
+    </li>
+    </ol>
+<h3>Filmes:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0040746/">Festim Diabólico</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0063415/">The Party</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0080684/">Star Wars Episode V - O Império Contra Ataca</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0087182/">Dune</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0088930/">Clue</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0097165/">Dead Poets Society</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0110917/">Una Pura Formalitá</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0133093/">The Matrix</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0390384/">Primer</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt1935156/">Jodorowsky's Dune</a>
+    </li>
+    </ol>
+<h3>Livros:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/6313614-the-monte-cristo-cover-up">The Monte Cristo Cover-Up</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/375802.Ender_s_Game">Ender’s Game</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/59097.Dear_and_Glorious_Physician">Dear and Glorious Physician</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/402093.Sh_gun">Shōgun</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/102030.Musashi">Musashi</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach">Gödel, Escher, Bach</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/150999.The_Turning_Point">The Turning Point</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_">Surely You're Joking, Mr. Feynman!</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/44882.Code">Code</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/9793361-the-decision-book">The Decision Book</a>
+    </li>
+    </ol>
+</div>
+<div class="section" id="assista-a-gravacao-deste-episodio">
+<h2>Assista a gravação deste episódio</h2>
+<p>Este episódio foi gravado ao vivo em nosso <a class="reference external" href="http://youtube.com/castaliopodcast">canal no YouTube</a> e você pode assistir a gravação e os
+demos no vídeo abaixo:</p>
+
+        <p class="clearfix">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nvHbLPLVLiA" allowfullscreen></iframe>
+        </div>
+        </p>
+        <p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a class="reference external" href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify Playlist</a> e e
+não se esqueça de inscrever-se no <a class="reference external" href="http://youtube.com/castaliopodcast">Canal no YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+</div>
+<div class="section" id="contatos">
+<h2>Contatos</h2>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object img-circle img-thumbnail" src="images/rodrigo-senra.jpg" alt="Rodrigo Senra" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Rodrigo Senra</h4>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-github"></i> <a href="https://github.com/rodsenra">Github</a></li>
+                <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/rodsenra">LinkedIn</a></li>
+                <li><i class="fa fa-link"></i> <a href="http://www.cinerdia.com.br">Podcast</a></li>
+                <li><i class="fa fa-link"></i> <a href="http://rodrigo.senra.nom.br">Site</a></li>
+                <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/rodsenra">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute Agora</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-134" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            </div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Alexandre_Oliva">Alexandre Oliva</a></li>
+<li><a class="reference external" href="https://www.anaconda.com/">Anaconda</a></li>
+<li><a class="reference external" href="https://zeppelin.apache.org/">Apache Zeppelin</a></li>
+<li><a class="reference external" href="https://medium.com/netflix-techblog/notebook-innovation-591ee3221233">Artigo Jupyter (Parte 1)</a></li>
+<li><a class="reference external" href="https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6">Artigo Jupyter (Parte 2)</a></li>
+<li><a class="reference external" href="http://associacao.python.org.br/">Associação Python Brasil</a></li>
+<li><a class="reference external" href="https://notebooks.azure.com/">Azure Notebooks</a></li>
+<li><a class="reference external" href="http://beakerx.com/">BeakerX</a></li>
+<li><a class="reference external" href="https://mybinder.org/">Binder</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Clojure">Closure</a></li>
+<li><a class="reference external" href="https://colab.research.google.com/">Colaboratory</a></li>
+<li><a class="reference external" href="https://jupyter.readthedocs.io/en/latest/">Documentação Jupyter</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Donald_Knuth">Donald Knuth</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Fernando_P%C3%A9rez_(software_developer)">Fernando Pérez</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Fortran">Fortran</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/GraphQL">GraphQL</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/JSON">JSON</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Java_(software_platform)">Java</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></li>
+<li><a class="reference external" href="https://github.com/jupyter/jupyter/wiki/Jupyter-kernels">Jupyter Kenels</a></li>
+<li><a class="reference external" href="http://jupyter.org/">Jupyter Notebooks</a></li>
+<li><a class="reference external" href="https://jupyter.org/hub">JupyterHub</a></li>
+<li><a class="reference external" href="https://github.com/jupyterlab/jupyterlab">JupyterLab</a></li>
+<li><a class="reference external" href="https://github.com/jupyterlab/jupyterlab">Jupyterlab</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Literate_programming">Literate programming</a></li>
+<li><a class="reference external" href="https://www.lua.org/">Lua</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/MATLAB">MATLAB</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Perl">Perl</a></li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=bp7KuOTU9nE&amp;list=PLrhOVGK6sXHCndw6Fy8YTVq_tbVk3D2_k">Playlist das palestras do Senra</a></li>
+<li><a class="reference external" href="http://www.cinerdia.com.br">Podcast Cinerdia</a></li>
+<li><a class="reference external" href="http://associacao.python.org.br/dorneles-tremea">Prêmio Dorneles Tremea</a></li>
+<li><a class="reference external" href="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#reproducible-academic-publications">Publicações acadêmicas de Jupyter Notebooks</a></li>
+<li><a class="reference external" href="http://qaweek.com.br/">QA WEEK</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Scala_(programming_language)">Scala</a></li>
+<li><a class="reference external" href="http://spark-notebook.io/">Spark Notebook</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Tcl">Tcl</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a></li>
+<li><a class="reference external" href="https://work.co/">Work &amp; Co</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Zope">Zope</a></li>
+<li><a class="reference external" href="https://ipython.readthedocs.io/en/stable/">iPython</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Música</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/alexandre-oliva.html">alexandre oliva</a>
+  <a class="label label-primary" href="https://castalio.info/tag/anaconda.html">anaconda</a>
+  <a class="label label-primary" href="https://castalio.info/tag/apache-zeppelin.html">apache zeppelin</a>
+  <a class="label label-primary" href="https://castalio.info/tag/associacao-python-brasil.html">associação python brasil</a>
+  <a class="label label-primary" href="https://castalio.info/tag/azure-notebooks.html">azure notebooks</a>
+  <a class="label label-primary" href="https://castalio.info/tag/beakerx.html">beakerx</a>
+  <a class="label label-primary" href="https://castalio.info/tag/binder.html">binder</a>
+  <a class="label label-primary" href="https://castalio.info/tag/c.html">c++</a>
+  <a class="label label-primary" href="https://castalio.info/tag/closure.html">closure</a>
+  <a class="label label-primary" href="https://castalio.info/tag/colaboratory.html">colaboratory</a>
+  <a class="label label-primary" href="https://castalio.info/tag/donald-knuth.html">donald knuth</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fernando-perez.html">fernando
+pérez</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fortran.html">fortran</a>
+  <a class="label label-primary" href="https://castalio.info/tag/graphql.html">graphql</a>
+  <a class="label label-primary" href="https://castalio.info/tag/guido-van-rossum.html">guido van rossum</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ipython.html">ipython</a>
+  <a class="label label-primary" href="https://castalio.info/tag/java.html">java</a>
+  <a class="label label-primary" href="https://castalio.info/tag/javascript.html">javascript</a>
+  <a class="label label-primary" href="https://castalio.info/tag/json.html">json</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jupyter-kenels.html">jupyter kenels</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jupyter-notebooks.html">jupyter notebooks</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jupyterhub.html">jupyterhub</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jupyterlab.html">jupyterlab</a>
+  <a class="label label-primary" href="https://castalio.info/tag/latex.html">latex</a>
+  <a class="label label-primary" href="https://castalio.info/tag/lisp.html">lisp</a>
+  <a class="label label-primary" href="https://castalio.info/tag/literate-programming.html">literate programming</a>
+  <a class="label label-primary" href="https://castalio.info/tag/lua.html">lua</a>
+  <a class="label label-primary" href="https://castalio.info/tag/matlab.html">matlab</a>
+  <a class="label label-primary" href="https://castalio.info/tag/perl.html">perl</a>
+  <a class="label label-primary" href="https://castalio.info/tag/cinerdia.html">cinerdia</a>
+  <a class="label label-primary" href="https://castalio.info/tag/premio-dorneles-tremea.html">prêmio dorneles tremea</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/r.html">r</a>
+  <a class="label label-primary" href="https://castalio.info/tag/rodrigo-senra.html">rodrigo senra</a>
+  <a class="label label-primary" href="https://castalio.info/tag/scala.html">scala</a>
+  <a class="label label-primary" href="https://castalio.info/tag/spark-notebook.html">spark notebook</a>
+  <a class="label label-primary" href="https://castalio.info/tag/tcl.html">tcl</a>
+  <a class="label label-primary" href="https://castalio.info/tag/typescript.html">typescript</a>
+  <a class="label label-primary" href="https://castalio.info/tag/zope.html">zope</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-134-rodrigo-senra-jupyter-notebooks';
+                var disqus_url = 'https://castalio.info/episodio-134-rodrigo-senra-jupyter-notebooks.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-134&callback=set_download_count?output=json"></script>
+</body>
+</html>

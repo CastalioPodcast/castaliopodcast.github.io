@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt"
+<html lang="pt_br"
 >
 <head>
     <title>Johan Dahlin - Stoq: Gestor Comercial Livre - Castálio Podcast</title>
@@ -9,44 +9,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
 
-<link rel="canonical" href="https://castaliopodcast.github.io/johan-dahlin-stoq-gestor-comercial-livre.html">
+<link rel="canonical" href="https://castalio.info/johan-dahlin-stoq-gestor-comercial-livre.html">
 
         <meta name="author" content="Og Maciel" />
-        <meta name="keywords" content="Async,Fluendo,Litl,pygtk,Stoq" />
-        <meta name="description" content="Hoje o meu convidado é o Johan Dahlin, um dos programadores do mundo do software livre que eu mais admiro! O Johan nasceu na Suécia mas mora no Brasil desde 2004. No currículo dele temos participações em várias companhias de nome no mundo do software livre, como a Fluendo, Litl ..." />
+        <meta name="keywords" content="async,fluendo,litl,pygtk,stoq" />
+        <meta name="description" content="Hoje o meu convidado é o Johan Dahlin, um dos programadores do mundo do software livre  que eu mais admiro! O Johan nasceu na Suécia mas mora no Brasil desde 2004. No currículo dele temos participações em várias companhias de nome no mundo do software livre, como a Fluendo, Litl …" />
 
         <meta property="og:site_name" content="Castálio Podcast" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="Johan Dahlin - Stoq: Gestor Comercial Livre"/>
-        <meta property="og:url" content="https://castaliopodcast.github.io/johan-dahlin-stoq-gestor-comercial-livre.html"/>
-        <meta property="og:description" content="Hoje o meu convidado é o Johan Dahlin, um dos programadores do mundo do software livre que eu mais admiro! O Johan nasceu na Suécia mas mora no Brasil desde 2004. No currículo dele temos participações em várias companhias de nome no mundo do software livre, como a Fluendo, Litl ..."/>
+        <meta property="og:url" content="https://castalio.info/johan-dahlin-stoq-gestor-comercial-livre.html"/>
+        <meta property="og:description" content="Hoje o meu convidado é o Johan Dahlin, um dos programadores do mundo do software livre  que eu mais admiro! O Johan nasceu na Suécia mas mora no Brasil desde 2004. No currículo dele temos participações em várias companhias de nome no mundo do software livre, como a Fluendo, Litl …"/>
         <meta property="article:published_time" content="2011-06-12" />
             <meta property="article:section" content="Podcast" />
-            <meta property="article:tag" content="Async" />
-            <meta property="article:tag" content="Fluendo" />
-            <meta property="article:tag" content="Litl" />
+            <meta property="article:tag" content="async" />
+            <meta property="article:tag" content="fluendo" />
+            <meta property="article:tag" content="litl" />
             <meta property="article:tag" content="pygtk" />
-            <meta property="article:tag" content="Stoq" />
+            <meta property="article:tag" content="stoq" />
             <meta property="article:author" content="Og Maciel" />
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="https://castaliopodcast.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="https://castaliopodcast.github.io/theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/style.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
 
-        <link href="https://castaliopodcast.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
               title="Castálio Podcast ATOM Feed"/>
-        <link href="https://castaliopodcast.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
               title="Castálio Podcast RSS Feed"/>
 
 </head>
 <body>
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -55,116 +57,182 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="https://castaliopodcast.github.io/" class="navbar-brand">
-Castálio Podcast            </a>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li><a href="https://castaliopodcast.github.io/pages/sobre.html">
-                             Sobre
-                          </a></li>
-                        <li >
-                            <a href="https://castaliopodcast.github.io/category/noticia.html">Notícia</a>
-                        </li>
-                        <li class="active">
-                            <a href="https://castaliopodcast.github.io/category/podcast.html">Podcast</a>
-                        </li>
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="https://castaliopodcast.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
 </div> <!-- /.navbar -->
 <!-- Banner -->
-<!-- End Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
 <div class="container">
     <div class="row">
-        <div class="col-sm-9">
 
+        <div class="col-lg-12">
     <section id="content">
         <article>
-            <header class="page-header">
+            <div class="post-body" style="margin-left: 0px">
                 <h1>
-                    <a href="https://castaliopodcast.github.io/johan-dahlin-stoq-gestor-comercial-livre.html"
+                    <a href="https://castalio.info/johan-dahlin-stoq-gestor-comercial-livre.html"
                        rel="bookmark"
                        title="Permalink to Johan Dahlin - Stoq: Gestor Comercial Livre">
                         Johan Dahlin - Stoq: Gestor Comercial Livre
                     </a>
                 </h1>
-            </header>
-            <div class="entry-content">
-                <div class="panel">
-                    <div class="panel-body">
-<footer class="post-info">
-    <span class="label label-default">Date</span>
+<div class="post-meta">
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2011-06-12T21:31:00-04:00"> Sun 12 June 2011</time>
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2011-06-12T21:31:00-04:00">Sun 12 June 2011</time>
     </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>        </span>
 
 
 
-<span class="label label-default">Tags</span>
-	<a href="https://castaliopodcast.github.io/tag/async.html">Async</a>
-        /
-	<a href="https://castaliopodcast.github.io/tag/fluendo.html">Fluendo</a>
-        /
-	<a href="https://castaliopodcast.github.io/tag/litl.html">Litl</a>
-        /
-	<a href="https://castaliopodcast.github.io/tag/pygtk.html">pygtk</a>
-        /
-	<a href="https://castaliopodcast.github.io/tag/stoq.html">Stoq</a>
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/johan-dahlin-stoq-gestor-comercial-livre.html#disqus_thread" data-disqus-identifier="johan-dahlin-stoq-gestor-comercial-livre">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
     
-</footer><!-- /.post-info -->                    </div>
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Johan Dahlin - Stoq: Gestor Comercial Livre" src="/images/johandahlin.jpg"/>
                 </div>
-                <p><img alt="Johan Dahlin - Stoq: Gestor Comercial Livre" src="https://castaliopodcast.github.io/images/johandahlin.jpg" /></p>
-<p>Hoje o meu convidado é o <a href="blogs.gnome.org/johan">Johan Dahlin</a>, um dos
-programadores do mundo do software livre  que eu mais admiro! O Johan
-nasceu na <strong>Suécia</strong> mas mora no Brasil desde 2004. No currículo dele
-temos participações em várias companhias de nome no mundo do software
-livre, como a <a href="http://www.fluendo.com/">Fluendo</a>,
-<a href="http://litl.com/">Litl</a>, e a <a href="http://www.async.com.br/">Async</a> onde ele
-hoje trabalha e é um dos sócios. Neste episódio conversamos sobre como a
-adaptação Suécia - Brasil, sua primeira contribuição com software livre,
-vários de seus projetos como o <a href="http://www.stoq.com.br/pt-br">Stoq</a>, um
-software de gestão comercial livre, e é claro que não podia faltar o top
-5!</p>
-<p>Escute agora:</p>
-<ul>
-<li><a href="http://downloads.ogmaciel.com/castalio-podcast-09.mp3">MP3</a></li>
-<li><a href="http://downloads.ogmaciel.com/castalio-podcast-09.ogg">Ogg</a> </li>
-</ul>
-<p><strong>Twitter</strong>:
-<a href="http://twitter.com/#!/johandahlin" title="http://twitter.com/#!/johandahlin">twitter.com/johandahlin</a><br />
-<strong>Blog</strong>:
-<a href="http://blogs.gnome.org/johan/" title="http://blogs.gnome.org/johan/">blogs.gnome.org/johan</a></p>
-<p><strong>Links</strong>:</p>
-<ul>
-<li>Goleiro da equipe <strong>Malmö FF</strong> da Suecia:
-    https://secure.wikimedia.org/wikipedia/en/wiki/Johan_Dahlin?</li>
-<li><strong>Filmes</strong>: 8 1/2 do Felini</li>
-<li><strong>Filmes</strong>: Pulp Fiction</li>
-<li><strong>Filmes</strong>: Miyazaki (Spirited Away)</li>
-<li><strong>Filmes</strong>: Vertigo</li>
-<li><strong>Filmes</strong>: Casa Blanca</li>
-<li><strong>Músicas</strong>: Daft Punk</li>
-<li><strong>Músicas</strong>: Foo Fighters</li>
-<li><strong>Músicas</strong>: Marcelo D2</li>
-<li><strong>Livros</strong>: Pippi Longstocking da Astrid Lindgren</li>
-<li><strong>Livros</strong>: Tolkien</li>
-<li><strong>Livros</strong>: The Girl With The Dragon Tattoo</li>
-<li><strong>Pessoas/Blogs</strong>: Linus Torvald</li>
-<li><strong>Pessoas/Blogs</strong>: Miguel de Icaza</li>
-<li><strong>Pessoas/Blogs</strong>: Joel on Software</li>
-<li><strong>Pessoas/Blogs</strong>: Coding Horror</li>
-<li><strong>Pessoas/Blogs</strong>: Guido pai do python</li>
-</ul>
+                <p>Hoje o meu convidado é o <a class="reference external" href="blogs.gnome.org/johan">Johan Dahlin</a>, um dos programadores do mundo do
+software livre &nbsp;que eu mais admiro! O Johan nasceu na <strong>Suécia</strong> mas mora no
+Brasil desde 2004. No currículo dele temos participações em várias companhias
+de nome no mundo do software livre, como a <a class="reference external" href="http://www.fluendo.com/">Fluendo</a>, <a class="reference external" href="http://litl.com/">Litl</a>, e a <a class="reference external" href="http://www.async.com.br/">Async</a>
+onde ele hoje trabalha e é um dos sócios. Neste episódio conversamos sobre como
+a adaptação Suécia - Brasil, sua primeira contribuição com software livre,
+vários de seus projetos como o <a class="reference external" href="http://www.stoq.com.br/pt-br">Stoq</a>, um software de gestão comercial livre,
+e é claro que não podia faltar o top 5!</p>
+<div class="section" id="escute-agora">
+<h2>Escute Agora</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-09" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-09/castalio-podcast-09.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-09/castalio-podcast-09.ogg"><i class="fa fa-download"></i> OGG</a>
             </div>
-            <!-- /.entry-content -->
+        </div>
+        </div>
+<div class="section" id="contato">
+<h2>Contato</h2>
+<ul class="simple">
+<li><strong>Twitter</strong>: <a class="reference external" href="http://twitter.com/#!/johandahlin:people/blogs:*LinusTorvald*MigueldeIcaza*JoelonSoftware*CodingHorror*Guidopaidopython">twitter.com/johandahlin</a></li>
+<li><strong>Blog</strong>: <a class="reference external" href="http://blogs.gnome.org/johan/">blogs.gnome.org/johan</a></li>
+</ul>
+<h2>Top 5</h2>
+<h3>Filmes:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0056801/">8½</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0110912/">Pulp Fiction</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0245429/">Spirited Away</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0052357/">Vertigo</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0034583/">Casa Blanca</a>
+    </li>
+    </ol>
+<h3>Músicas:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.last.fm/music/Daft+Punk">Daft Punk</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Foo+Fighters">Foo Fighters</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Marcelo+D2">Marcelo D2</a>
+    </li>
+    </ol>
+<h3>Livros:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/19302.Pippi_Longstocking">Pippi Longstocking</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/author/show/656983.J_R_R_Tolkien">J.R.R. Tolkien</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo">The Girl with the Dragon Tattoo</a>
+    </li>
+    </ol>
+</div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li>Goleiro da equipe <strong>Malmö FF</strong> da Suecia: <a class="reference external" href="https://secure.wikimedia.org/wikipedia/en/wiki/Johan_Dahlin">https://secure.wikimedia.org/wikipedia/en/wiki/Johan_Dahlin</a>?</li>
+</ul>
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/async.html">async</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fluendo.html">fluendo</a>
+  <a class="label label-primary" href="https://castalio.info/tag/litl.html">litl</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pygtk.html">pygtk</a>
+  <a class="label label-primary" href="https://castalio.info/tag/stoq.html">stoq</a>
+</div>
     <hr/>
     <section class="comments" id="comments">
-        <h2>Comments</h2>
+        <h2>Comentários</h2>
 
         <div id="disqus_thread"></div>
         <script type="text/javascript">
@@ -172,10 +240,10 @@ software de gestão comercial livre, e é claro que não podia faltar o top
             var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
 
                     var disqus_identifier = 'johan-dahlin-stoq-gestor-comercial-livre';
-                var disqus_url = 'https://castaliopodcast.github.io/johan-dahlin-stoq-gestor-comercial-livre.html';
+                var disqus_url = 'https://castalio.info/johan-dahlin-stoq-gestor-comercial-livre.html';
 
             var disqus_config = function () {
-                this.language = "pt";
+                this.language = "pt_br";
             };
 
             /* * * DON'T EDIT BELOW THIS LINE * * */
@@ -192,104 +260,80 @@ software de gestão comercial livre, e é claro que não podia faltar o top
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
     </section>
+            </div>
         </article>
     </section>
 
         </div>
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-
-<section class="well well-sm">
-    <ul class="list-group list-group-flush">
-            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
-              <ul class="list-group" id="social">
-                <li class="list-group-item"><a href="https://twitter.com/castaliopod"><i class="fa fa-@castaliopod-square fa-lg"></i> @castaliopod</a></li>
-              </ul>
-            </li>
-
-
-
-            <li class="list-group-item"><a href="https://castaliopodcast.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
-                <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">
-                            Ubuntu Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/github.html">
-                            Github
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/python.html">
-                            python
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/c.html">
-                            C++
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/slackware-linux.html">
-                            Slackware Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/wordpress.html">
-                            WordPress
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/debian-linux.html">
-                            Debian Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/gnome.html">
-                            GNOME
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/netflix.html">
-                            Netflix
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/canonical.html">
-                            Canonical
-                        </a>
-                    </li>
-                </ul>
-            </li>
-    </ul>
-</section>
-            </aside>
-        </div>
     </div>
 </div>
-<footer>
+<footer id="footer">
    <div class="container">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy; 2014 Og Maciel & Eliézer Rezende
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
       </div>
    </div>
 </footer>
-<script src="https://castaliopodcast.github.io/theme/js/jquery.min.js"></script>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="https://castaliopodcast.github.io/theme/js/bootstrap.min.js"></script>
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="https://castaliopodcast.github.io/theme/js/respond.min.js"></script>
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
 
-    <script src="https://castaliopodcast.github.io/theme/js/bodypadding.js"></script>
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
     <!-- Disqus -->
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -305,6 +349,31 @@ software de gestão comercial livre, e é claro que não podia faltar o top
         }());
     </script>
     <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-09&callback=set_download_count?output=json"></script>
 </body>
 </html>

@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 118: Jefferson Rocha - Emmi Linux - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-118-jefferson-rocha-emmi-linux.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="emmi linux,linux,open source,debian,jefferson rocha,centos,fedora,fish shell,pi,emmi instalador,python,python brasil 13,pybr,rubyconf,ruby,ramones,pet cemetery,poiso heart,metallica,nirvana,ratos de porão,eminem,game of thrones,supernatural,slackware,opensuse,foresight,xfce,korora,bobthefish,linux mint,deepin,shell script" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nosso convidado de hoje fez o que, na nossa opinião, deve ter sido o sonho de todo mundo que fez parte do mundo Open Source na década de 90 ou 2000: criar sua própria distribuição GNU/Linux! No …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 118: Jefferson Rocha - Emmi Linux"/>
+        <meta property="og:url" content="https://castalio.info/episodio-118-jefferson-rocha-emmi-linux.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nosso convidado de hoje fez o que, na nossa opinião, deve ter sido o sonho de todo mundo que fez parte do mundo Open Source na década de 90 ou 2000: criar sua própria distribuição GNU/Linux! No …"/>
+        <meta property="article:published_time" content="2017-09-18" />
+            <meta property="article:section" content="episodes" />
+            <meta property="article:tag" content="emmi linux" />
+            <meta property="article:tag" content="linux" />
+            <meta property="article:tag" content="open source" />
+            <meta property="article:tag" content="debian" />
+            <meta property="article:tag" content="jefferson rocha" />
+            <meta property="article:tag" content="centos" />
+            <meta property="article:tag" content="fedora" />
+            <meta property="article:tag" content="fish shell" />
+            <meta property="article:tag" content="pi" />
+            <meta property="article:tag" content="emmi instalador" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="python brasil 13" />
+            <meta property="article:tag" content="pybr" />
+            <meta property="article:tag" content="rubyconf" />
+            <meta property="article:tag" content="ruby" />
+            <meta property="article:tag" content="ramones" />
+            <meta property="article:tag" content="pet cemetery" />
+            <meta property="article:tag" content="poiso heart" />
+            <meta property="article:tag" content="metallica" />
+            <meta property="article:tag" content="nirvana" />
+            <meta property="article:tag" content="ratos de porão" />
+            <meta property="article:tag" content="eminem" />
+            <meta property="article:tag" content="game of thrones" />
+            <meta property="article:tag" content="supernatural" />
+            <meta property="article:tag" content="slackware" />
+            <meta property="article:tag" content="opensuse" />
+            <meta property="article:tag" content="foresight" />
+            <meta property="article:tag" content="xfce" />
+            <meta property="article:tag" content="korora" />
+            <meta property="article:tag" content="bobthefish" />
+            <meta property="article:tag" content="linux mint" />
+            <meta property="article:tag" content="deepin" />
+            <meta property="article:tag" content="shell
+script" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-118-jefferson-rocha-emmi-linux.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 118: Jefferson Rocha - Emmi Linux">
+                        Episódio 118: Jefferson Rocha - Emmi Linux
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2017-09-18T00:00:00-04:00">Mon 18 September 2017</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-118-jefferson-rocha-emmi-linux.html#disqus_thread" data-disqus-identifier="episodio-118-jefferson-rocha-emmi-linux">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Jefferson Rocha - Emmi Linux" src="/images/jefferson-rocha.jpg"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje fez o que, na nossa opinião, deve ter sido o sonho de
+todo mundo que fez parte do mundo Open Source na década de 90 ou 2000: criar
+sua própria distribuição GNU/Linux! No episódio de hoje conversamos com o
+criador do <a class="reference external" href="http://www.emmilinux.com.br/">Emmi Linux</a>, uma distribuição baseada no <a class="reference external" href="https://www.debian.org/">Debian</a> &quot;simples, leve,
+e Brasileira&quot; (como diz no site da distribuição). É com grande prazer que nós
+recebemos nosso convidado, Jefferson Rocha.</p>
+
+<div class="clearfix"></div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute enquanto lê os show notes</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-118" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-118/castalio-podcast-118.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-118/castalio-podcast-118.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            <div class="section" id="topicos-abordados">
+<h2>Tópicos Abordados</h2>
+<ul class="simple">
+<li>Como foi que nasceu o <a class="reference external" href="http://www.emmilinux.com.br/">Emmi Linux</a>? Qual foi o motivo que levou à criação de
+uma nova distribuição GNU/Linux?</li>
+<li>Qual seria o chamativo para que alguém se interesse pelo Emmi Linux?</li>
+<li>Qual a origem do nome Emmi Linux?</li>
+<li>Quais foram os primeiros desafios encontrados ao iniciar com a distribuição?</li>
+<li>Os comandos do shell podem ser executados usando palavras em português?</li>
+<li>O Emmi Linux atualmente é derivado do <a class="reference external" href="https://www.debian.org/">Debian</a>, em algum momento no início,
+foi cogitado utilizar alguma distribuição com base Red Hat como <a class="reference external" href="https://www.centos.org/">CentOS</a> ou
+<a class="reference external" href="https://getfedora.org/">Fedora</a>?</li>
+<li>Quais são as atividades que fazem parte do dia-a-dia de manter uma
+distribuição GNU/Linux?</li>
+<li>Quanto tempo é dedicado para manter a distribuição?</li>
+<li>Por que foi escolhido o <a class="reference external" href="http://fishshell.com/">fish shell</a> como shell padrão?</li>
+<li>Tendo o objetivo de atingir pessoas iniciantes, existe alguma iniciativa ou a
+ideia de criar um projeto pra aplicar a distribuição em ambiente educacional
+como é feito com o Linux Educacional?</li>
+<li>O que é o gerenciador de pacotes <a class="reference external" href="https://github.com/emmilinux/pi">Pi (Pacote Inteligente)</a> e qual a sua
+origem?  Qual a vantagem em usá-lo invés de usar o aptitude ou apt-get? Quais
+as tecnologias utilizadas no Pi e como contribuir com o projeto?</li>
+<li>O que é o <a class="reference external" href="https://github.com/emmilinux/emmi-instalador">Emmi Instalador</a> e quais são as tecnologias utilizadas para
+desenvolvê-lo?</li>
+<li>O Emmi Linux possui LiveCD?</li>
+<li>Quais são os próximos passos do projeto? O que devemos esperar pelos próximos
+meses?</li>
+<li>Como é a comunidade do Emmi Linux e como que é o nível de suporte para
+iniciantes?</li>
+<li>Quais são os canais de contato e suporte do projeto?</li>
+<li>Qual a versão atual e como fazer o download dela?</li>
+</ul>
+</div>
+<div class="section" id="sorteio-de-um-ingresso-para-a-python-brasil-13">
+<h2>Sorteio de um Ingresso para a Python Brasil 13</h2>
+<p>A <a class="reference external" href="http://2017.pythonbrasil.org.br">Python Brasil 13</a> é a maior conferência
+de Python no Brasil. Este ano o evento será em Belo Horizonte/MG entre os dias
+6 e 11 de Outubro, serão: 3 dias de palestras, 2 dias de tutoriais e 1 dia de
+Sprints. É esperado um numero entre 500 e 700 pessoas no evento.</p>
+<p>Para participar basta você responder a pergunta do <a class="reference external" href="http://bit.ly/castaliopybr13">formulário do sorteio</a>. O sorteio será realizado no dia 20 de
+Setembro de 2017 às 21:00 horas ao vivo no <a class="reference external" href="http://youtube.com/c/CastalioPodcast">Canal do YouTube do Castálio
+Podcast</a>, durante a gravação do próximo episódio. Se você ainda não é
+inscrito, não perca tempo, assine agora mesmo e ative as notificações para
+saber sobre nossas próximas gravações.</p>
+</div>
+<div class="section" id="sorteio-de-ingressos-para-a-rubyconf">
+<h2>Sorteio de Ingressos para a RubyConf</h2>
+<p>A <a class="reference external" href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/">RubyConf</a>,
+maior conferência brasileira de Ruby acontecerá na Fecomercio em São Paulo nos
+dias 17 e 18 de Novembro. Os ingressos já estão à venda e nós sorteamos 2
+ingressos neste episódio e também disponibilizamos o cupom <strong>PRC_Castalio</strong> que
+concede 30% de desconto na compra do ingresso, à partir do segundo lote.</p>
+<p>Já sorteamos 8 ingressos e ainda sortearemos mais 2 e para concorrer basta
+preencher o <a class="reference external" href="http://bit.ly/CastalioRubyConf">formulário</a> e estar inscrito no
+<a class="reference external" href="http://www.youtube.com/c/CastalioPodcast">canal do YouTube</a>.</p>
+<p>Pessoas que já foram sorteadas:</p>
+<ul class="simple">
+<li>Carlos HB</li>
+<li>Josué Carvalho Rodrigues</li>
+<li>Marcos André de Souza</li>
+<li>Matheus Pellegrini Fernandes</li>
+<li>Matheus de Oliveira Nunes</li>
+<li>Paulo Henrique Deléo</li>
+<li>Paulo Henrique Rodrigues Pinheiro</li>
+<li>Thiago Lopes</li>
+</ul>
+<p><a class="reference external" href="https://sorteador.com.br/sorteador/resultado/929330">Link do último sorteio</a></p>
+</div>
+<div class="section" id="assista-a-gravacao-deste-episodio">
+<h2>Assista a gravação deste episódio</h2>
+<p>Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no <a class="reference external" href="http://youtube.com/c/CastalioPodcast">Canal do
+YouTube do Castálio Podcast</a> e para ver a gravação deste episódio confira o
+vídeo abaixo:</p>
+
+        <p class="clearfix">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KtaU2w4El6w" allowfullscreen></iframe>
+        </div>
+        </p>
+        <p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a class="reference external" href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio Podcast</a> e
+inscrever-se no o <a class="reference external" href="http://youtube.com/c/CastalioPodcast">Canal do YouTube do Castálio Podcast</a>.</p>
+<p>Até o próximo episódio!</p>
+</div>
+<div class="section" id="contato">
+<h2>Contato</h2>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object img-circle img-thumbnail" src="/images/jefferson-rocha.jpg" alt="Jefferson Rocha" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Jefferson Rocha</h4>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-envelope"></i> <a href="mailto:lrcjefferson@gmail.com">Email</a></li>
+                <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/jeffersonlrcarneiro">Facebook</a></li>
+                <li><i class="fa fa-link"></i> <a href="http://slackjeff.emmilinux.com.br/">Site</a></li>
+                <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/channel/UClz3DneoYlccluy4hBlx86Q">Youtube</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute agora</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-118" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-118/castalio-podcast-118.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-118/castalio-podcast-118.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            <h2>Top 5</h2>
+<h3>Músicas:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.last.fm/music/Ramones">Ramones</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Pet+Cemetery">Pet Cemetery</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Poison+Heart">Poison Heart</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Metallica">Metallica</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Nirvana">Nirvana</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Ratos+De+Por%C3%A3o">Ratos De Porão</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Eminem">Eminem</a>
+    </li>
+    </ol>
+<h3>Livros:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/13496.A_Game_of_Thrones">A Game of Thrones</a>
+    </li>
+    </ol>
+<h3>Filmes:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0944947/">Game of Thrones</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0460681/">Supernatural</a>
+    </li>
+    </ol>
+</div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="http://www.emmilinux.com.br/">Emmi Linux</a></li>
+<li><a class="reference external" href="https://github.com/emmilinux/pi">Pi (Pacote Inteligente)</a></li>
+<li><a class="reference external" href="https://github.com/emmilinux/emmi-instalador">Emmi Instalador</a></li>
+<li><a class="reference external" href="http://colibri.emmilinux.com.br/">Repositório Colibri</a></li>
+<li><a class="reference external" href="https://www.debian.org/">Debian</a></li>
+<li><a class="reference external" href="http://www.slackware.com/">Slackware</a></li>
+<li><a class="reference external" href="https://www.opensuse.org/">openSUSE</a></li>
+<li><a class="reference external" href="https://www.centos.org/">CentOS</a></li>
+<li><a class="reference external" href="https://getfedora.org/">Fedora</a></li>
+<li><a class="reference external" href="http://fishshell.com/">fish shell</a></li>
+<li><a class="reference external" href="https://www.meetup.com/Ansible-Sao-Paulo/events/243212921/">Meetup Ansible São Paulo</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Foresight_Linux">Foresight Linux</a></li>
+<li><a class="reference external" href="https://xfce.org/">Xfce</a></li>
+<li><a class="reference external" href="https://kororaproject.org/">Korora</a></li>
+<li><a class="reference external" href="https://github.com/oh-my-fish/theme-bobthefish">theme-bobthefish</a></li>
+<li><a class="reference external" href="https://www.python.org/">Python</a></li>
+<li><a class="reference external" href="https://www.linuxmint.com/">Linux Mint</a></li>
+<li><a class="reference external" href="https://www.deepin.org/">Deepin</a></li>
+<li><a class="reference external" href="https://www.facebook.com/emmilinux/">Emmi Linux no Facebook</a></li>
+<li><a class="reference external" href="https://github.com/emmilinux">Emmi Linux no Github</a></li>
+<li><a class="reference external" href="https://twitter.com/Emmi_Linux">Emmi Linux no Twitter</a></li>
+<li><a class="reference external" href="https://www.youtube.com/channel/UCFDMd02Nr55xSPwkTJLsFRQ">Emmi Linux no YouTube</a></li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=SFVxMCO2jb8">Shell Script para Acessibilidade (ShellSpeak)</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/emmi-linux.html">emmi linux</a>
+  <a class="label label-primary" href="https://castalio.info/tag/linux.html">linux</a>
+  <a class="label label-primary" href="https://castalio.info/tag/open-source.html">open source</a>
+  <a class="label label-primary" href="https://castalio.info/tag/debian.html">debian</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jefferson-rocha.html">jefferson rocha</a>
+  <a class="label label-primary" href="https://castalio.info/tag/centos.html">centos</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fedora.html">fedora</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fish-shell.html">fish shell</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pi.html">pi</a>
+  <a class="label label-primary" href="https://castalio.info/tag/emmi-instalador.html">emmi instalador</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python-brasil-13.html">python brasil 13</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pybr.html">pybr</a>
+  <a class="label label-primary" href="https://castalio.info/tag/rubyconf.html">rubyconf</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ruby.html">ruby</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ramones.html">ramones</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pet-cemetery.html">pet cemetery</a>
+  <a class="label label-primary" href="https://castalio.info/tag/poiso-heart.html">poiso heart</a>
+  <a class="label label-primary" href="https://castalio.info/tag/metallica.html">metallica</a>
+  <a class="label label-primary" href="https://castalio.info/tag/nirvana.html">nirvana</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ratos-de-porao.html">ratos de porão</a>
+  <a class="label label-primary" href="https://castalio.info/tag/eminem.html">eminem</a>
+  <a class="label label-primary" href="https://castalio.info/tag/game-of-thrones.html">game of thrones</a>
+  <a class="label label-primary" href="https://castalio.info/tag/supernatural.html">supernatural</a>
+  <a class="label label-primary" href="https://castalio.info/tag/slackware.html">slackware</a>
+  <a class="label label-primary" href="https://castalio.info/tag/opensuse.html">opensuse</a>
+  <a class="label label-primary" href="https://castalio.info/tag/foresight.html">foresight</a>
+  <a class="label label-primary" href="https://castalio.info/tag/xfce.html">xfce</a>
+  <a class="label label-primary" href="https://castalio.info/tag/korora.html">korora</a>
+  <a class="label label-primary" href="https://castalio.info/tag/bobthefish.html">bobthefish</a>
+  <a class="label label-primary" href="https://castalio.info/tag/linux-mint.html">linux mint</a>
+  <a class="label label-primary" href="https://castalio.info/tag/deepin.html">deepin</a>
+  <a class="label label-primary" href="https://castalio.info/tag/shell-script.html">shell
+script</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-118-jefferson-rocha-emmi-linux';
+                var disqus_url = 'https://castalio.info/episodio-118-jefferson-rocha-emmi-linux.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-118&callback=set_download_count?output=json"></script>
+</body>
+</html>

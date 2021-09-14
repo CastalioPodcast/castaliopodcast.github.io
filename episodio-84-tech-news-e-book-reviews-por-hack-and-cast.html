@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 84: Tech News e Book Reviews por Hack and Cast - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-84-tech-news-e-book-reviews-por-hack-and-cast.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="book review,novidades da semana,eu sou a lenda,a última pergunta,a última resposta,isaac asimov,richard matheson,kivy,restructured text,markdown,sanic,flask,shellcheck,shell cript,bash,kalliope,mention bot,getcinnamon,toml,yaml,ini,config" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! No episódio de hoje temos como convidados Magnum, Jorge e Ricardo do Hack and Cast que fizeram os reviews dos livros Eu Sou a Lenda de Richard Matheson, A Última Pergunta e A Última resposta de Issac Asimov …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 84: Tech News e Book Reviews por Hack and Cast"/>
+        <meta property="og:url" content="https://castalio.info/episodio-84-tech-news-e-book-reviews-por-hack-and-cast.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! No episódio de hoje temos como convidados Magnum, Jorge e Ricardo do Hack and Cast que fizeram os reviews dos livros Eu Sou a Lenda de Richard Matheson, A Última Pergunta e A Última resposta de Issac Asimov …"/>
+        <meta property="article:published_time" content="2017-01-22" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="book review" />
+            <meta property="article:tag" content="novidades da semana" />
+            <meta property="article:tag" content="eu sou a lenda" />
+            <meta property="article:tag" content="a última pergunta" />
+            <meta property="article:tag" content="a última resposta" />
+            <meta property="article:tag" content="isaac asimov" />
+            <meta property="article:tag" content="richard matheson" />
+            <meta property="article:tag" content="kivy" />
+            <meta property="article:tag" content="restructured text" />
+            <meta property="article:tag" content="markdown" />
+            <meta property="article:tag" content="sanic" />
+            <meta property="article:tag" content="flask" />
+            <meta property="article:tag" content="shellcheck" />
+            <meta property="article:tag" content="shell cript" />
+            <meta property="article:tag" content="bash" />
+            <meta property="article:tag" content="kalliope" />
+            <meta property="article:tag" content="mention bot" />
+            <meta property="article:tag" content="getcinnamon" />
+            <meta property="article:tag" content="toml" />
+            <meta property="article:tag" content="yaml" />
+            <meta property="article:tag" content="ini" />
+            <meta property="article:tag" content="config" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-84-tech-news-e-book-reviews-por-hack-and-cast.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 84: Tech News e Book Reviews por Hack and Cast">
+                        Episódio 84: Tech News e Book Reviews por Hack and Cast
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2017-01-22T00:00:00-05:00">Sun 22 January 2017</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-84-tech-news-e-book-reviews-por-hack-and-cast.html#disqus_thread" data-disqus-identifier="episodio-84-tech-news-e-book-reviews-por-hack-and-cast">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Isaac Asimov" src="/images/books-84.jpg"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje temos como convidados Magnum, Jorge e Ricardo do <a class="reference external" href="http://hackncast.org/">Hack and Cast</a>
+que fizeram os reviews dos livros <strong>Eu Sou a Lenda</strong> de Richard Matheson, <strong>A Última Pergunta</strong> e
+<strong>A Última resposta</strong> de Issac Asimov.</p>
+<p>A dica de Python da semana é sobre o framework <a class="reference external" href="http://kivy.org">Kivy</a>, e a sugestão foi do nosso
+ouvinte <strong>Hell Barba</strong>. O <strong>Kivy</strong> é um framework para desenvolvimento de interfaces
+orientadas a <strong>multi-touch</strong> especialmente voltado a tablets e dispositivos móveis, mas
+que também serve para desenvolver <strong>Desktop GUI</strong> para aplicativos Python de maneira bastante
+similar ao <strong>Tkinter</strong> que citamos no epiśodio 82.</p>
+
+<div class="section" id="escute-agora-enquanto-le-os-show-notes">
+<h2>Escute agora enquanto lê os show notes</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-84" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-84/castalio-podcast-84.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-84/castalio-podcast-84.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <br /><p>Estão disponíveis no YouTube vários videos a respeito do Kivy, e inclusive esta
+série de tutoriais chamada <a class="reference external" href="https://www.youtube.com/playlist?list=SPdNh1e1kmiPP4YApJm8ENK2yMlwF1_edq">Kivy Crash Course</a>.</p>
+<p>Para criar um <strong>Hello World</strong> no Kivy é bastante fácil, veja o seguinte exemplo</p>
+<div class="figure">
+<img alt="Kivy Hello World" src="https://castalio.info/images/kivy.jpg" />
+</div>
+<p>Outra coisa interessante é que é possível utilizar uma linguagem de template bem
+parecida com XML para separar a parte de design de interface do código de lógica
+do seu aplicativo.</p>
+</div>
+<div class="section" id="projetos-e-pacotes">
+<h2>Projetos e Pacotes</h2>
+<ul>
+<li><p class="first"><strong>Restructured Text e Markdown</strong></p>
+<p>Para quem escreve README files e documentação de software, markdown e reST
+são linguagens essenciais e estes editores online ajudam bastante na hora
+de escrever com elas:</p>
+<ul class="simple">
+<li>Online reStructuredText editor: <a class="reference external" href="http://rst.ninjs.org/">http://rst.ninjs.org/</a></li>
+<li>StackEdit (editor de markdown): <a class="reference external" href="https://stackedit.io/editor">https://stackedit.io/editor</a></li>
+<li>MarkDown Table Generator: <a class="reference external" href="http://www.tablesgenerator.com/markdown_tables">http://www.tablesgenerator.com/markdown_tables</a></li>
+</ul>
+<p>E também tem opção para instalar no Desktop:</p>
+<ul class="simple">
+<li>ReText: <a class="reference external" href="https://github.com/retext-project/retext">https://github.com/retext-project/retext</a></li>
+</ul>
+<p>Mencionamos também que o Aaron Swartz foi um dos maiores contribuidores
+na especificação da <a class="reference external" href="https://daringfireball.net/projects/markdown/">linguagem Markdown</a> e o documentário
+<a class="reference external" href="https://www.youtube.com/watch?v=sTt2n6wBUQg">The Internet's Owns Boy</a>
+está disponível no YouTube e conta a história do Aaron. Vale a pena assitir!</p>
+</li>
+<li><p class="first"><strong>Sanic</strong></p>
+<p>O <a class="reference external" href="https://github.com/channelcat/sanic">Sanic</a> é um &quot;clone&quot; do Flask compatível apenas com Python 3.5+ e isso
+significa que as views do Sanic são todas assincronas utilizando o <cite>async def</cite>
+do Python 3.5+ e mantendo a mesma API de roteamendo e métodos do Flask.</p>
+<p>Veja um exemplo:</p>
+<pre class="literal-block">
+from sanic import Sanic
+from sanic.response import json
+
+app = Sanic()
+
+&#64;app.route(&quot;/&quot;)
+async def test(request):
+    return json({&quot;hello&quot;: &quot;world&quot;})
+
+if __name__ == &quot;__main__&quot;:
+    app.run(host=&quot;0.0.0.0&quot;, port=8000)
+</pre>
+</li>
+<li><p class="first"><strong>Shell Check</strong></p>
+<p>É uma ferramenta que permite verificar a sintaxe de código
+shell script, e além de poder ser utilizado online ainda oferece extensões
+para alguns editores e também pode ser integrado ao Travis CI.</p>
+<p>Para a verificação online basta acessar o <a class="reference external" href="http://www.shellcheck.net">site do projeto</a>
+e colar seu código para ser validado.</p>
+<p>Para instalar no fedora:</p>
+<pre class="literal-block">
+dnf install ShellCheck
+</pre>
+<p>Para instalar no Mac:</p>
+<pre class="literal-block">
+brew install shellcheck
+</pre>
+<p>Para instalar em outros sistemas veja a <a class="reference external" href="https://github.com/koalaman/shellcheck#installing">documentacao</a>.</p>
+<p>As sugestões são baseadas em boas práticas do Bash e possuem links para o wiki
+do projeto com mais informacões sobre o porque seguir a recomendacao sugerida.
+Por exemplo:</p>
+<pre class="literal-block">
+SC2086 Double quote to prevent globbing and word splitting
+https://github.com/koalaman/shellcheck/wiki/SC2086.
+</pre>
+<p>Além disso possui uma galeria de <a class="reference external" href="https://github.com/koalaman/shellcheck#gallery-of-bad-code">“bad code”</a></p>
+<p>Ele integra automaticamente com o <a class="reference external" href="https://github.com/vim-syntastic/syntastic">syntastic</a> no Vim caso instalado .
+No Emacs com o <a class="reference external" href="https://github.com/flycheck/flycheck">FlyCheck</a>, entre outros editores como Atom, Sublime, e PyCharm.</p>
+</li>
+<li><p class="first"><strong>Kalliope</strong></p>
+<p>O <a class="reference external" href="https://github.com/kalliope-project">Kalliope Project</a> é assistente
+pessoal com reconhecimento de voz projetado para automação residencial e
+que podem também ser usado para automatizar a execução de programas através
+de comandos de voz.</p>
+<p>Os comandos do Kalliope são programados através de plugins chamados <strong>Neurons</strong>
+e seu código é escrito em Python e a configuração feita com YAML, veja o exemplo
+da chamada a uma função chamda <cite>say</cite> recebendo o argumento <cite>message</cite> sempre
+que o Kalliope identificar <strong>say hello</strong> sendo falado no microfone:</p>
+<pre class="literal-block">
+- name: &quot;Hello-world&quot;
+  signals:
+    - order: &quot;say hello&quot;
+  neurons:
+    - say:
+        message: &quot;Hello world!&quot;
+</pre>
+</li>
+<li><p class="first"><strong>Mention Bot</strong></p>
+<p>O <a class="reference external" href="https://github.com/facebook/mention-bot">Mention Bot</a> é um bot
+desenvolvido pelo Facebook que via github web hooks é disparado toda vez
+que um novo Pull Request é enviado no seu repositório, então o Mention Bot
+analisa as linhas de código do PR e sugere os melhores contribuidores para
+serem os reviewers daquele PR.</p>
+</li>
+<li><p class="first"><strong>Cinnamon</strong></p>
+<p>O <a class="reference external" href="https://www.getcinnamon.io/">Cinnamon</a> segue a mesma linha do Mention Bot,
+mas o foco dele são as issues, cada vez que alguém abre uma nova issue no seu
+repositório o Cinnabot analisa o conteúdo daquela issue e então analisa todo
+o histórico de issues do repositório e inclui um comentário citando as issues
+relacionadas e sugerindo o nome de um colaborador que possa ser o responsável
+por aquela issue. Este projeto é desenvolvido por nossos amigos da
+<a class="reference external" href="http://www.vinta.com.br/">Vinta Software</a> em Recife - Brasil, e é um projeto
+bastante útil e muito promissor!</p>
+</li>
+<li><p class="first"><strong>TOML</strong></p>
+<p>Configurações de software em arquivos <strong>.ini</strong> são fáceis de ler em Python
+usando a biblioteca ConfigParser, porém as vezes o formato não oferece
+os tipos de dados mais complexos como listas e dicionários.</p>
+<p>Neste caso a resposta mais fácil parece ser o uso de YAML porém sabemos que
+o parsing de YAML pode ter um overhead desnecessário quando as configurações
+são simples.</p>
+<p>Para isso existe a  <a class="reference external" href="https://github.com/toml-lang/toml">Tom's Obvious, Minimal Language</a>
+que mantém a simplicidade e performance do <strong>.ini</strong> mas oferece alguns tipos de
+dados mais complexos.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="book-review">
+<h2>Book Review</h2>
+<p>Para este episódio trouxemos como convidados o Magnum, o Jorge e o Ricardo do
+<a class="reference external" href="http://hackncast.org/">Hack and Cast</a> que trouxeram reviews de 3 livros.</p>
+<p>O Magnum falou um pouco sobre <a class="reference external" href="https://www.goodreads.com/book/show/30192639-eu-sou-a-lenda">Eu Sou A lenda</a> um livro que é uma mistura de
+ficção científica com horror e o Magnum ressalta que o livro é muito melhor
+que a adaptação para o cinema.</p>
+<p>O Jorge falou sobre o conto <a class="reference external" href="https://www.goodreads.com/book/show/4808763-the-last-question">A Última Pergunta</a> de Issav Asimov, ele explicou
+que este é um conto bastante curto que se passa em várias linhas temporais
+comentando sobre a evolução da humanidade desde 1960, e aborda assuntos como
+por exemplo a captação de energia solar e o salto evolutivo da
+humanidade a partir disso e a questão cientifico-filosófica da
+entropia termodinâmica.</p>
+<p>E o Ricardo falou sobre o livro <a class="reference external" href="https://www.goodreads.com/book/show/15755066-the-last-answer">A Última Resposta</a> que é também um conto do
+Isaac Asimov bem curto, que não está diretamente relacionado com o anterior,
+e que conta a história de um cientista que morre logo no inicio do conto
+e que apesar de ser um cientista cético e ateu começa a analisar a situação
+da morte e de forma bastante sarcástica questiona o momento da morte
+conversando com a &quot;Voz&quot; que seria a figura do criador e este diálogo traz
+reflexões cientificas, filosóficas e religiosas.</p>
+<p>Ouça os book reviews no final deste episódio para saber mais detalhes!</p>
+</div>
+<div class="section" id="ainda-nao-ouviu-escute-agora">
+<h2>Ainda não ouviu? escute agora!</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-84" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-84/castalio-podcast-84.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-84/castalio-podcast-84.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/book-review.html">book review</a>
+  <a class="label label-primary" href="https://castalio.info/tag/novidades-da-semana.html">novidades da semana</a>
+  <a class="label label-primary" href="https://castalio.info/tag/eu-sou-a-lenda.html">eu sou a lenda</a>
+  <a class="label label-primary" href="https://castalio.info/tag/a-ultima-pergunta.html">a última pergunta</a>
+  <a class="label label-primary" href="https://castalio.info/tag/a-ultima-resposta.html">a última resposta</a>
+  <a class="label label-primary" href="https://castalio.info/tag/isaac-asimov.html">isaac asimov</a>
+  <a class="label label-primary" href="https://castalio.info/tag/richard-matheson.html">richard matheson</a>
+  <a class="label label-primary" href="https://castalio.info/tag/kivy.html">kivy</a>
+  <a class="label label-primary" href="https://castalio.info/tag/restructured-text.html">restructured text</a>
+  <a class="label label-primary" href="https://castalio.info/tag/markdown.html">markdown</a>
+  <a class="label label-primary" href="https://castalio.info/tag/sanic.html">sanic</a>
+  <a class="label label-primary" href="https://castalio.info/tag/flask.html">flask</a>
+  <a class="label label-primary" href="https://castalio.info/tag/shellcheck.html">shellcheck</a>
+  <a class="label label-primary" href="https://castalio.info/tag/shell-cript.html">shell cript</a>
+  <a class="label label-primary" href="https://castalio.info/tag/bash.html">bash</a>
+  <a class="label label-primary" href="https://castalio.info/tag/kalliope.html">kalliope</a>
+  <a class="label label-primary" href="https://castalio.info/tag/mention-bot.html">mention bot</a>
+  <a class="label label-primary" href="https://castalio.info/tag/getcinnamon.html">getcinnamon</a>
+  <a class="label label-primary" href="https://castalio.info/tag/toml.html">toml</a>
+  <a class="label label-primary" href="https://castalio.info/tag/yaml.html">yaml</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ini.html">ini</a>
+  <a class="label label-primary" href="https://castalio.info/tag/config.html">config</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-84-tech-news-e-book-reviews-por-hack-and-cast';
+                var disqus_url = 'https://castalio.info/episodio-84-tech-news-e-book-reviews-por-hack-and-cast.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-84&callback=set_download_count?output=json"></script>
+</body>
+</html>

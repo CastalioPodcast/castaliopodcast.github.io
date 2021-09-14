@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 66: Thiago Perrotta - Leitura e Tecnologia - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="thiago perrotta,leitura,tecnologia,goodreads,thinking,fast and slow,ready player one,harry potter,o guia do mochileiro das galáxias,percy jackson,coldplay,maroon 5,foo fighters,linkin park,bullet for my valentine,eminem,taylor swift,star wars,x-men,lord of the rings,the inglorious basterds,fight club,à procura da felicidade,basement coders,everyday linux,hack'n'cast,castálio podcast,papo acessível,dan brown,the da vince code,emacs,haskell,jono bacon,kindle,ocamel,ogre 3d,openbsd,org mode,scala,the art of community,vim" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nós sabemos que ficamos um tempo sem publicar um episódio, mas como você já deve saber, não conseguimos devido ao trabalho e, também, por alguns desencontros de agenda com as pessoas que gostaríamos de conversar. Felizmente hoje vamos …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 66: Thiago Perrotta - Leitura e Tecnologia"/>
+        <meta property="og:url" content="https://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nós sabemos que ficamos um tempo sem publicar um episódio, mas como você já deve saber, não conseguimos devido ao trabalho e, também, por alguns desencontros de agenda com as pessoas que gostaríamos de conversar. Felizmente hoje vamos …"/>
+        <meta property="article:published_time" content="2015-05-31" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="thiago perrotta" />
+            <meta property="article:tag" content="leitura" />
+            <meta property="article:tag" content="tecnologia" />
+            <meta property="article:tag" content="goodreads" />
+            <meta property="article:tag" content="thinking" />
+            <meta property="article:tag" content="fast and slow" />
+            <meta property="article:tag" content="ready player one" />
+            <meta property="article:tag" content="harry potter" />
+            <meta property="article:tag" content="o guia do mochileiro das galáxias" />
+            <meta property="article:tag" content="percy jackson" />
+            <meta property="article:tag" content="coldplay" />
+            <meta property="article:tag" content="maroon 5" />
+            <meta property="article:tag" content="foo fighters" />
+            <meta property="article:tag" content="linkin park" />
+            <meta property="article:tag" content="bullet for my valentine" />
+            <meta property="article:tag" content="eminem" />
+            <meta property="article:tag" content="taylor swift" />
+            <meta property="article:tag" content="star wars" />
+            <meta property="article:tag" content="x-men" />
+            <meta property="article:tag" content="lord of the rings" />
+            <meta property="article:tag" content="the inglorious basterds" />
+            <meta property="article:tag" content="fight club" />
+            <meta property="article:tag" content="à procura da felicidade" />
+            <meta property="article:tag" content="basement coders" />
+            <meta property="article:tag" content="everyday linux" />
+            <meta property="article:tag" content="hack'n'cast" />
+            <meta property="article:tag" content="castálio podcast" />
+            <meta property="article:tag" content="papo acessível" />
+            <meta property="article:tag" content="dan brown" />
+            <meta property="article:tag" content="the da vince code" />
+            <meta property="article:tag" content="emacs" />
+            <meta property="article:tag" content="haskell" />
+            <meta property="article:tag" content="jono bacon" />
+            <meta property="article:tag" content="kindle" />
+            <meta property="article:tag" content="ocamel" />
+            <meta property="article:tag" content="ogre 3d" />
+            <meta property="article:tag" content="openbsd" />
+            <meta property="article:tag" content="org mode" />
+            <meta property="article:tag" content="scala" />
+            <meta property="article:tag" content="the art of community" />
+            <meta property="article:tag" content="vim" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 66: Thiago Perrotta - Leitura e Tecnologia">
+                        Episódio 66: Thiago Perrotta - Leitura e Tecnologia
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2015-05-31T00:00:00-04:00">Sun 31 May 2015</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html#disqus_thread" data-disqus-identifier="episodio-66-thiago-perrotta-leitura-e-tecnologia">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Thiago Perrotta - Leitura e Tecnologia" src="/images/thiagoperrotta.png"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nós sabemos que ficamos um tempo sem publicar um episódio, mas como você já deve saber, não conseguimos devido ao trabalho e, também, por alguns desencontros de agenda com as pessoas que gostaríamos de conversar. Felizmente hoje vamos quebrar este gelo!</p>
+<p>Mas antes, durante este período, foi publicado dois artigos com sugestões e comentários sobre livros. Se você perdeu, dá uma olhada nos artigos <a class="reference external" href="http://castalio.info/livros-marco-de-2015.html">Livros - Março de 2015</a> e <a class="reference external" href="http://castalio.info/livros-abril-de-2015.html">Livros - Abril de 2015</a> e anota os livros que deseja ler.</p>
+<p>Não deixe a sua lista de livros para ler de lado, pois, no episódio de hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros. Se você é como o Elyézer, que está buscando novamente ler todos os dias, você irá curtir a conversa e as dicas.</p>
+<p>Além das dicas, falamos sobre o <a class="reference external" href="https://www.goodreads.com/">GoodReads</a> que ajuda a guardar os livros que você já leu e pretende ler. Você também pode atualizar o seu progresso a medida que está lendo um ou mais livros. Todos nós temos um perfil, e a vantagem é que assim podemos ver o que os outros estão lendo e encontrar livros interessantes.</p>
+
+<p>Para não perder o costume, conversamos sobre tecnologia. E como o assunto é sobre leitura, o Thiago deu algumas dicas de como ler livros técnicos.</p>
+<p>Ao fim da conversa, contamos com o Top 5 e hoje você irá encontrar um Top 5 de Podcasts além do de Livros, Filmes e Música. As indicações do Thiago são muito interessantes. Não perca mais tempo, vai lá ouvir o episódio :).</p>
+<div class="section" id="contato">
+<h2>Contato</h2>
+<ul class="simple">
+<li><strong>Blog</strong>: <a class="reference external" href="https://thiagowfx.github.io/">https://thiagowfx.github.io/</a></li>
+<li><strong>Facebook</strong>: <a class="reference external" href="http://facebook.com/thiagoperrotta">http://facebook.com/thiagoperrotta</a></li>
+<li><strong>Github</strong>: <a class="reference external" href="https://github.com/thiagowfx">https://github.com/thiagowfx</a></li>
+<li><strong>GoodReads</strong>: <a class="reference external" href="https://www.goodreads.com/user/show/7873832-thiago">https://www.goodreads.com/user/show/7873832-thiago</a></li>
+<li><strong>Vimeo</strong>: <a class="reference external" href="https://vimeo.com/thiagowfx">https://vimeo.com/thiagowfx</a></li>
+</ul>
+</div>
+<div class="section" id="escute-agora">
+<h2>Escute Agora</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-66" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-66/castalio-podcast-66.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <h2>Top 5</h2>
+<h3>Livros:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow">Thinking, Fast and Slow</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/9969571-ready-player-one">Ready Player One</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone">Harry Potter</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/10052680-o-guia-do-mochileiro-das-gal-xias">O Guia do Mochileiro das Galáxias</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/28187.The_Lightning_Thief">Percy Jackson</a>
+    </li>
+    </ol>
+<h3>Músicas:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.last.fm/music/Coldplay">Coldplay</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Maroon+5">Maroon 5</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Foo+Fighters">Foo Fighters</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Linkin+Park">Linkin Park</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Bullet+for+My+Valentine">Bullet for My Valentine</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Eminem">Eminem</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Taylor+Swift">Taylor Swift</a>
+    </li>
+    </ol>
+<h3>Filmes:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0241527/">Harry Potter e a Pedra Filosofal</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0120915/">Star Wars</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0120903/">X-Men</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0120737/">Lord of the Rings</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0361748/">Inglourious Basterds</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0137523/">Fight Club</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0454921/">À Procura da Felicidade</a>
+    </li>
+    </ol>
+<h3>Podcasts:</h3><ol>
+<li>
+    <a class="reference external" href="http://www.badvoltage.org/">Bad Voltage</a>
+    </li>
+    <li>
+    <a class="reference external" href="http://elementopie.com/everyday-linux-episodes">Everyday Linux</a>
+    </li>
+    <li>
+    <a class="reference external" href="http://hackncast.org/">Hack'n'Cast</a>
+    </li>
+    <li>
+    <a class="reference external" href="http://castalio.info/">Castálio Podcast</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://papoacessivel.com.br/">Papo Acessível</a>
+    </li>
+    </ol>
+</div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="https://www.goodreads.com/author/show/630.Dan_Brown">Dan Brown</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/book/show/968.The_Da_Vinci_Code">The Da Vince Code</a></li>
+<li><a class="reference external" href="https://www.gnu.org/software/emacs/">Emacs</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/">GoodReads</a></li>
+<li><a class="reference external" href="https://www.haskell.org/">Haskell</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/author/show/22746.Jono_Bacon">Jono Bacon</a></li>
+<li><a class="reference external" href="https://kindle.amazon.com/">Kindle</a></li>
+<li><a class="reference external" href="http://ocaml.org/">OCaml</a></li>
+<li><a class="reference external" href="http://www.ogre3d.org/">Ogre 3D</a></li>
+<li><a class="reference external" href="http://www.openbsd.org/">OpenBSD</a></li>
+<li><a class="reference external" href="http://orgmode.org/">Org Mode</a></li>
+<li><a class="reference external" href="http://www.scala-lang.org/">SCALA</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/book/show/6389228-the-art-of-community">The Art of Community</a></li>
+<li>Vídeo sobre como postar no blog utilizando o Org Mode <a class="reference external" href="https://vimeo.com/108656001">How do I blog with org2blog</a></li>
+<li><a class="reference external" href="http://www.vim.org/">Vim</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Música</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/thiago-perrotta.html">thiago perrotta</a>
+  <a class="label label-primary" href="https://castalio.info/tag/leitura.html">leitura</a>
+  <a class="label label-primary" href="https://castalio.info/tag/tecnologia.html">tecnologia</a>
+  <a class="label label-primary" href="https://castalio.info/tag/goodreads.html">goodreads</a>
+  <a class="label label-primary" href="https://castalio.info/tag/thinking.html">thinking</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fast-and-slow.html">fast and slow</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ready-player-one.html">ready player one</a>
+  <a class="label label-primary" href="https://castalio.info/tag/harry-potter.html">harry potter</a>
+  <a class="label label-primary" href="https://castalio.info/tag/o-guia-do-mochileiro-das-galaxias.html">o guia do mochileiro das galáxias</a>
+  <a class="label label-primary" href="https://castalio.info/tag/percy-jackson.html">percy jackson</a>
+  <a class="label label-primary" href="https://castalio.info/tag/coldplay.html">coldplay</a>
+  <a class="label label-primary" href="https://castalio.info/tag/maroon-5.html">maroon 5</a>
+  <a class="label label-primary" href="https://castalio.info/tag/foo-fighters.html">foo fighters</a>
+  <a class="label label-primary" href="https://castalio.info/tag/linkin-park.html">linkin park</a>
+  <a class="label label-primary" href="https://castalio.info/tag/bullet-for-my-valentine.html">bullet for my valentine</a>
+  <a class="label label-primary" href="https://castalio.info/tag/eminem.html">eminem</a>
+  <a class="label label-primary" href="https://castalio.info/tag/taylor-swift.html">taylor swift</a>
+  <a class="label label-primary" href="https://castalio.info/tag/star-wars.html">star wars</a>
+  <a class="label label-primary" href="https://castalio.info/tag/x-men.html">x-men</a>
+  <a class="label label-primary" href="https://castalio.info/tag/lord-of-the-rings.html">lord of the rings</a>
+  <a class="label label-primary" href="https://castalio.info/tag/the-inglorious-basterds.html">the inglorious basterds</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fight-club.html">fight club</a>
+  <a class="label label-primary" href="https://castalio.info/tag/a-procura-da-felicidade.html">à procura da felicidade</a>
+  <a class="label label-primary" href="https://castalio.info/tag/basement-coders.html">basement coders</a>
+  <a class="label label-primary" href="https://castalio.info/tag/everyday-linux.html">everyday linux</a>
+  <a class="label label-primary" href="https://castalio.info/tag/hackncast.html">hack'n'cast</a>
+  <a class="label label-primary" href="https://castalio.info/tag/castalio-podcast.html">castálio podcast</a>
+  <a class="label label-primary" href="https://castalio.info/tag/papo-acessivel.html">papo acessível</a>
+  <a class="label label-primary" href="https://castalio.info/tag/dan-brown.html">dan brown</a>
+  <a class="label label-primary" href="https://castalio.info/tag/the-da-vince-code.html">the da vince code</a>
+  <a class="label label-primary" href="https://castalio.info/tag/emacs.html">emacs</a>
+  <a class="label label-primary" href="https://castalio.info/tag/haskell.html">haskell</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jono-bacon.html">jono bacon</a>
+  <a class="label label-primary" href="https://castalio.info/tag/kindle.html">kindle</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ocamel.html">ocamel</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ogre-3d.html">ogre 3d</a>
+  <a class="label label-primary" href="https://castalio.info/tag/openbsd.html">openbsd</a>
+  <a class="label label-primary" href="https://castalio.info/tag/org-mode.html">org mode</a>
+  <a class="label label-primary" href="https://castalio.info/tag/scala.html">scala</a>
+  <a class="label label-primary" href="https://castalio.info/tag/the-art-of-community.html">the art of community</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vim.html">vim</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-66-thiago-perrotta-leitura-e-tecnologia';
+                var disqus_url = 'https://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-66&callback=set_download_count?output=json"></script>
+</body>
+</html>

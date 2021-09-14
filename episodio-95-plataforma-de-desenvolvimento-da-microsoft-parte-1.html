@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 95: Plataforma de Desenvolvimento da Microsoft - Parte 1 - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="c#,.net,asp,sqlserver,sharepoint,xamarin,azure,microsoft,linux,open source,lambda3,giovanni bassi,visual basic,stackoverflow developer survey,sublime text,visual studio code,docker,aws,jetbrains rider,vim,mono,gtk,pycharm,python,markdown,rst,restructuredtext,atom,vim fugitive,tim pope,python bytes,talk python to me,podcast,imasters" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! No episódio de hoje falaremos sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Escute enquanto lê o show notes MP3 OGG Recentemente a empresa decidiu …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 95: Plataforma de Desenvolvimento da Microsoft - Parte 1"/>
+        <meta property="og:url" content="https://castalio.info/episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! No episódio de hoje falaremos sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Escute enquanto lê o show notes MP3 OGG Recentemente a empresa decidiu …"/>
+        <meta property="article:published_time" content="2017-04-10" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="c#" />
+            <meta property="article:tag" content=".net" />
+            <meta property="article:tag" content="asp" />
+            <meta property="article:tag" content="sqlserver" />
+            <meta property="article:tag" content="sharepoint" />
+            <meta property="article:tag" content="xamarin" />
+            <meta property="article:tag" content="azure" />
+            <meta property="article:tag" content="microsoft" />
+            <meta property="article:tag" content="linux" />
+            <meta property="article:tag" content="open source" />
+            <meta property="article:tag" content="lambda3" />
+            <meta property="article:tag" content="giovanni bassi" />
+            <meta property="article:tag" content="visual basic" />
+            <meta property="article:tag" content="stackoverflow
+developer survey" />
+            <meta property="article:tag" content="sublime text" />
+            <meta property="article:tag" content="visual studio code" />
+            <meta property="article:tag" content="docker" />
+            <meta property="article:tag" content="aws" />
+            <meta property="article:tag" content="jetbrains rider" />
+            <meta property="article:tag" content="vim" />
+            <meta property="article:tag" content="mono" />
+            <meta property="article:tag" content="gtk" />
+            <meta property="article:tag" content="pycharm" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="markdown" />
+            <meta property="article:tag" content="rst" />
+            <meta property="article:tag" content="restructuredtext" />
+            <meta property="article:tag" content="atom" />
+            <meta property="article:tag" content="vim fugitive" />
+            <meta property="article:tag" content="tim pope" />
+            <meta property="article:tag" content="python bytes" />
+            <meta property="article:tag" content="talk
+python to me" />
+            <meta property="article:tag" content="podcast" />
+            <meta property="article:tag" content="imasters" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 95: Plataforma de Desenvolvimento da Microsoft - Parte 1">
+                        Episódio 95: Plataforma de Desenvolvimento da Microsoft - Parte 1
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2017-04-10T00:00:00-04:00">Mon 10 April 2017</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1.html#disqus_thread" data-disqus-identifier="episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Plataforma de Desenvolvimento da Microsoft" src="/images/episode-95.png"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje falaremos sobre a plataforma de desenvolvimento da
+Microsoft que inclui ferramentas largamente utilizadas como C#, <a class="reference external" href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a>, ASP,
+SQLServer, Sharepoint, Xamarin e <a class="reference external" href="https://azure.microsoft.com">Azure</a>.</p>
+
+<div class="section" id="escute-enquanto-le-o-show-notes">
+<h2>Escute enquanto lê o show notes</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-95" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <br /><p>Recentemente a empresa decidiu abraçar o Open Source juntando-se a Linux
+Foundation, possibilitando o intercâmbio de softwares com os sistemas
+operacionais Linux. A Microsoft também abriu o código fonte de alguns de seus
+produtos e até lançou ferramentas direcionadas a comunidade open source.</p>
+<p>Para nos ajudar a ficar sabendo das novidades da plataforma e entender os
+motivos que estão levando a MS para essa nova estratégia trouxemos um convidado
+que é MVP (Most Valuable Professional), trabalha com .NET desde que foi
+lançado, tem tanta certificação Microsoft que levaria o episódio inteiro para
+citar uma por uma, é sócio fundador da Lambda3 e também podcaster no Podcast da
+Lambda3. <a class="reference external" href="https://twitter.com/giovannibassi">Giovanni Bassi</a>, seja bem vindo
+ao Castálio Podcast.</p>
+<p>Neste episódio abordamos os seguintes tópicos:</p>
+<ul class="simple">
+<li>Como o Giovanni começou a trabalhar com TI e como e por quê entrou de cabeça
+nas tecnologias da Microsoft?</li>
+<li>Qual o perfil do consumidor de tecnologias Microsoft? Qual o investimento
+necessário? Quais os tipos de empresas tem adotado essas tecnologias:
+empresas grandes ou empresas pequenas e startups?</li>
+<li>Comentários sobre editores de textos e IDEs e os recursos que essas
+ferramentas oferecem.</li>
+<li>Quais os projetos estão open source: apenas .NET ou o C# e VisualBasic
+também?</li>
+<li>Em 2010 o Giovanni foi entrevistado pelo iMasters e naquela época ele
+recomendou o desenvolvimento de um aplicativo Desktop para um intranet. 7
+anos depois, qual a visão do Giovanni a respeito se as tecnologias Microsoft
+tem convergido para Web e APIs ou se a Microsoft continua investindo em
+Desktop?</li>
+</ul>
+</div>
+<div class="section" id="contato">
+<h2>Contato</h2>
+<ul class="simple">
+<li><strong>Site</strong>: <a class="reference external" href="http://www.lambda3.com.br/blog">http://www.lambda3.com.br/blog</a></li>
+<li><strong>Twitter</strong>: <a class="reference external" href="https://twitter.com/giovannibassi">https://twitter.com/giovannibassi</a></li>
+<li><strong>Github</strong>: <a class="reference external" href="https://github.com/giggio">https://github.com/giggio</a></li>
+</ul>
+</div>
+<div class="section" id="links">
+<h2>Links</h2>
+<p>Segue a lista de links que comentamos no episódio:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a></li>
+<li><a class="reference external" href="http://www.lambda3.com.br/">Lambda3</a></li>
+<li><a class="reference external" href="http://www.lambda3.com.br/lambda3-podcast/">Podcast da Lambda3</a></li>
+<li><a class="reference external" href="http://devnaestrada.com.br/">Podcast DevNaEstrada</a></li>
+<li><a class="reference external" href="http://devnaestrada.com.br/2016/05/27/entrevista-giovanni-bassi.html">DNE 55 - Entrevista Giovanni Bassi</a></li>
+<li><a class="reference external" href="https://stackoverflow.com/insights/survey/2017">StackOverflow Developer Survey</a></li>
+<li><a class="reference external" href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a class="reference external" href="http://www.sublimetext.com/">Sublime Text</a></li>
+<li><a class="reference external" href="http://www.lambda3.com.br/2016/10/como-usar-net-core-em-produo-hoje-com-aplicaes-web-mongodb/">Como usar .NET Core em produção HOJE com aplicações Web: MongoDB</a></li>
+<li><a class="reference external" href="https://azure.microsoft.com">Azure</a></li>
+<li><a class="reference external" href="https://www.docker.com/">Docker</a></li>
+<li><a class="reference external" href="https://aws.amazon.com/">Amazon AWS</a></li>
+<li><a class="reference external" href="https://cloud.google.com/">Google Cloud Platform</a></li>
+<li><a class="reference external" href="https://www.jetbrains.com/rider/">JetBrains Rider</a></li>
+<li><a class="reference external" href="http://www.vim.org/">Vim</a></li>
+<li><a class="reference external" href="http://www.mono-project.com/">Mono</a></li>
+<li><a class="reference external" href="https://www.gtk.org/">GTK</a></li>
+<li><a class="reference external" href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+<li><a class="reference external" href="https://www.python.org/">Python</a></li>
+<li><a class="reference external" href="http://daringfireball.net/projects/markdown/">Markdown</a></li>
+<li><a class="reference external" href="http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html">reStructuredText (RST)</a></li>
+<li><a class="reference external" href="https://atom.io/">Atom</a></li>
+<li><a class="reference external" href="https://github.com/tpope/vim-fugitive">Vim Fugitive</a></li>
+<li><a class="reference external" href="https://github.com/tpope">Tim Pope</a></li>
+<li><a class="reference external" href="https://github.com/pprice/vscode-better-merge">VSCode Better Merge</a></li>
+<li><a class="reference external" href="https://github.com/VSCodeVim/Vim">VSCode Vim</a></li>
+<li><a class="reference external" href="http://pythonbytes.fm/">Python Bytes</a></li>
+<li><a class="reference external" href="https://talkpython.fm">Talk Python To Me</a></li>
+<li><a class="reference external" href="https://talkpython.fm/episodes/show/101/adding-a-full-featured-python-environment-to-visual-studio-code">Episode #101: Adding a full featured Python environment to Visual Studio Code</a></li>
+<li><a class="reference external" href="https://imasters.com.br/artigo/15704/dotnet/entrevista-com-giovanni-bassi/">iMasters: Entrevista com Giovanni Bassi</a></li>
+</ul>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+</div>
+<div class="section" id="ainda-nao-ouviu-escute-agora">
+<h2>Ainda não ouviu? escute agora!</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-95" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/c.html">c#</a>
+  <a class="label label-primary" href="https://castalio.info/tag/net.html">.net</a>
+  <a class="label label-primary" href="https://castalio.info/tag/asp.html">asp</a>
+  <a class="label label-primary" href="https://castalio.info/tag/sqlserver.html">sqlserver</a>
+  <a class="label label-primary" href="https://castalio.info/tag/sharepoint.html">sharepoint</a>
+  <a class="label label-primary" href="https://castalio.info/tag/xamarin.html">xamarin</a>
+  <a class="label label-primary" href="https://castalio.info/tag/azure.html">azure</a>
+  <a class="label label-primary" href="https://castalio.info/tag/microsoft.html">microsoft</a>
+  <a class="label label-primary" href="https://castalio.info/tag/linux.html">linux</a>
+  <a class="label label-primary" href="https://castalio.info/tag/open-source.html">open source</a>
+  <a class="label label-primary" href="https://castalio.info/tag/lambda3.html">lambda3</a>
+  <a class="label label-primary" href="https://castalio.info/tag/giovanni-bassi.html">giovanni bassi</a>
+  <a class="label label-primary" href="https://castalio.info/tag/visual-basic.html">visual basic</a>
+  <a class="label label-primary" href="https://castalio.info/tag/stackoverflow-developer-survey.html">stackoverflow
+developer survey</a>
+  <a class="label label-primary" href="https://castalio.info/tag/sublime-text.html">sublime text</a>
+  <a class="label label-primary" href="https://castalio.info/tag/visual-studio-code.html">visual studio code</a>
+  <a class="label label-primary" href="https://castalio.info/tag/docker.html">docker</a>
+  <a class="label label-primary" href="https://castalio.info/tag/aws.html">aws</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jetbrains-rider.html">jetbrains rider</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vim.html">vim</a>
+  <a class="label label-primary" href="https://castalio.info/tag/mono.html">mono</a>
+  <a class="label label-primary" href="https://castalio.info/tag/gtk.html">gtk</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pycharm.html">pycharm</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/markdown.html">markdown</a>
+  <a class="label label-primary" href="https://castalio.info/tag/rst.html">rst</a>
+  <a class="label label-primary" href="https://castalio.info/tag/restructuredtext.html">restructuredtext</a>
+  <a class="label label-primary" href="https://castalio.info/tag/atom.html">atom</a>
+  <a class="label label-primary" href="https://castalio.info/tag/vim-fugitive.html">vim fugitive</a>
+  <a class="label label-primary" href="https://castalio.info/tag/tim-pope.html">tim pope</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python-bytes.html">python bytes</a>
+  <a class="label label-primary" href="https://castalio.info/tag/talk-python-to-me.html">talk
+python to me</a>
+  <a class="label label-primary" href="https://castalio.info/tag/podcast.html">podcast</a>
+  <a class="label label-primary" href="https://castalio.info/tag/imasters.html">imasters</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1';
+                var disqus_url = 'https://castalio.info/episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-95&callback=set_download_count?output=json"></script>
+</body>
+</html>

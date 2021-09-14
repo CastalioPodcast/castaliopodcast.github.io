@@ -1,43 +1,45 @@
 <!DOCTYPE html>
-<html lang="pt"
+<html lang="pt_br"
 >
 <head>
-    <title>Inception - Castálio Podcast</title>
+    <title>inception - Castálio Podcast</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
 
 
-    <meta name="author" content="Og Maciel & Eliézer Rezende" />
-    <meta name="keywords" content="Inception" />
+    <meta name="author" content="Castálio Podcast" />
+    <meta name="keywords" content="inception" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="Castálio Podcast" />
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="Castálio Podcast"/>
-        <meta property="og:url" content="https://castaliopodcast.github.io"/>
+        <meta property="og:url" content="https://castalio.info"/>
         <meta property="og:description" content="Castálio Podcast"/>
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="https://castaliopodcast.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="https://castaliopodcast.github.io/theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/style.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
 
-        <link href="https://castaliopodcast.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
               title="Castálio Podcast ATOM Feed"/>
-        <link href="https://castaliopodcast.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
               title="Castálio Podcast RSS Feed"/>
 
 </head>
 <body>
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -46,191 +48,362 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="https://castaliopodcast.github.io/" class="navbar-brand">
-Castálio Podcast            </a>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li><a href="https://castaliopodcast.github.io/pages/sobre.html">
-                             Sobre
-                          </a></li>
-                        <li >
-                            <a href="https://castaliopodcast.github.io/category/noticia.html">Notícia</a>
-                        </li>
-                        <li >
-                            <a href="https://castaliopodcast.github.io/category/podcast.html">Podcast</a>
-                        </li>
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="https://castaliopodcast.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
 </div> <!-- /.navbar -->
 <!-- Banner -->
-<!-- End Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
 <div class="container">
     <div class="row">
-        <div class="col-sm-9">
 
+        <div class="col-lg-12">
             <article>
-                <h2><a href="https://castaliopodcast.github.io/danilo-resende-facebook.html">Danilo Resende: Facebook</a></h2>
-                <div class="summary"><p><img alt="Danilo Resende: Facebook" src="https://castaliopodcast.github.io/images/daniloresende.png" /></p>
-<p>Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez
-com uma novidade: uma participação especial do <strong>Ivan Brasil Fuzzer</strong>,
-criador e mantenedor do web site de dicas e tutoriais
- <a href="http://www.ubuntero.com.br" title="http://www.ubuntero.com.br">Ubuntero</a>!
-Com uma conexão <strong>Carolina do Norte</strong> - <strong>Rio Grande do Sul</strong> -
-<strong>Califórnia</strong>, batemos um papo muito legal ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/danilo-resende-facebook.html">more ...</a>
+                <div class="post-image">
+                    <img src="/images/regis-santos.jpg" alt="Regis Santos" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-127-regis-santos-grupy-sp.html">Episódio 127: Regis Santos - Grupy-SP</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2018-02-19T00:00:00-05:00">Mon 19 February 2018</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-127-regis-santos-grupy-sp.html#disqus_thread" data-disqus-identifier="episodio-127-regis-santos-grupy-sp">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>O nosso convidado de hoje é formado em matemática pela Universidade Federal do
+Mato Grosso e também estudou Análise e Desenvolvimento de Sistemas no SENAC.
+Atualmente trabalha como desenvolvedor web na JobConvo. Ele é um dos principais
+organizadores …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-127-regis-santos-grupy-sp.html">Leia mais...</a>
+                    </div>
                 </div>
             </article>
-            <hr/>
             <article>
-                <h2><a href="https://castaliopodcast.github.io/felipe-ribeiro-spotify.html">Felipe Ribeiro: Spotify</a></h2>
-                <div class="summary"><p><img alt="Felipe Ribeiro: Spotify" src="https://castaliopodcast.github.io/images/feliperibeiro.jpg" /></p>
-<p>Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para
-comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há
-tempo para comprar o meu
-<a href="http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1" title="http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1">presente</a>
-hehehe) tive a chance de conversar com o <strong>Felipe Ribeiro</strong>, o único
-Brasileiro que trabalha na companhia ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/felipe-ribeiro-spotify.html">more ...</a>
+                <div class="post-image">
+                    <img src="/images/john-roa.jpg" alt="John Roa" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-126-john-roa-pycon-colombia.html">Episódio 126: John Roa - PyCon Colombia</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2018-01-29T00:00:00-05:00">Mon 29 January 2018</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-126-john-roa-pycon-colombia.html#disqus_thread" data-disqus-identifier="episodio-126-john-roa-pycon-colombia">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Our guest for today’s episode is a passionate self taught team lead and
+software developer. Cyclist that loves speed. Director of Engineering at
+LendingFront and <a class="reference external" href="https://www.pycon.co/">PyCon Colombia</a> chief organizer. Our guest today is John Roa
+and we …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-126-john-roa-pycon-colombia.html">Leia mais...</a>
+                    </div>
                 </div>
             </article>
-            <hr/>
             <article>
-                <h2><a href="https://castaliopodcast.github.io/ivan-brasil-fuzzer-ubuntero.html">Ivan Brasil Fuzzer: Ubuntero</a></h2>
-                <div class="summary"><p><img alt="Ivan Brasil Fuzzer: Ubuntero" src="https://castaliopodcast.github.io/images/ivanfuzzer.jpg" /></p>
-<p>Olá pessoal e sejam bem-vindos ao segundo episódio de 2012! Esta última
+                <div class="post-image">
+                    <img src="/images/daniloresende.png" alt="Danilo Resende: Facebook" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/danilo-resende-facebook.html">Danilo Resende: Facebook</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2012-07-09T02:52:00-04:00">Mon 09 July 2012</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/danilo-resende-facebook.html#disqus_thread" data-disqus-identifier="danilo-resende-facebook">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez com uma
+novidade: uma participação especial do&nbsp;<strong>Ivan Brasil Fuzzer</strong>, criador
+e mantenedor do web site de dicas e tutoriais &nbsp;<a class="reference external" href="http://www.ubuntero.com.br">Ubuntero</a>! Com uma conexão
+<strong>Carolina do Norte</strong> - <strong>Rio Grande do Sul</strong> - <strong>Califórnia</strong>, batemos um papo
+muito legal …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/danilo-resende-facebook.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/feliperibeiro.jpg" alt="Felipe Ribeiro: Spotify" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/felipe-ribeiro-spotify.html">Felipe Ribeiro: Spotify</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2012-06-10T16:43:00-04:00">Sun 10 June 2012</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/felipe-ribeiro-spotify.html#disqus_thread" data-disqus-identifier="felipe-ribeiro-spotify">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para
+comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para
+comprar o meu <a class="reference external" href="http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1">presente</a> hehehe) tive a chance de conversar com o <strong>Felipe
+Ribeiro</strong>, o único Brasileiro que trabalha na companhia …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/felipe-ribeiro-spotify.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/ivanfuzzer.jpg" alt="Ivan Brasil Fuzzer: Ubuntero" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/ivan-brasil-fuzzer-ubuntero.html">Ivan Brasil Fuzzer: Ubuntero</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2012-03-04T15:36:00-05:00">Sun 04 March 2012</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/ivan-brasil-fuzzer-ubuntero.html#disqus_thread" data-disqus-identifier="ivan-brasil-fuzzer-ubuntero">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos ao segundo episódio de 2012! Esta última
 semana tive a oportunidade de conversar com o <strong>Ivan Brasil Fuzzer</strong>,
-criador e mantenedor do web site de dicas e tutoriais  Ubuntero! Junto
+criador e mantenedor do web site de dicas e tutoriais &nbsp;Ubuntero! Junto
 com uma equipe de colaboradores, o Ivan escreve artigos sobre todas as
-áreas relacionadas à ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/ivan-brasil-fuzzer-ubuntero.html">more ...</a>
+áreas relacionadas à …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/ivan-brasil-fuzzer-ubuntero.html">Leia mais...</a>
+                    </div>
                 </div>
             </article>
-            <hr/>
             <article>
-                <h2><a href="https://castaliopodcast.github.io/pete-savage-git-in-the-trenches-gitt.html">Pete Savage: Git In The Trenches (GITT)</a></h2>
-                <div class="summary"><p><img alt="Pete Savage: Git In The Trenches" src="https://castaliopodcast.github.io/images/petesavage.png" /></p>
-<p>First off I'd like to welcome all the new visitors to this podcast's
+                <div class="post-image">
+                    <img src="/images/petesavage.png" alt="Pete Savage: Git In The Trenches" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/pete-savage-git-in-the-trenches-gitt.html">Pete Savage: Git In The Trenches (GITT)</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2011-09-18T21:44:00-04:00">Sun 18 September 2011</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/pete-savage-git-in-the-trenches-gitt.html#disqus_thread" data-disqus-identifier="pete-savage-git-in-the-trenches-gitt">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>First off I'd like to welcome all the new visitors to this podcast's
 <strong>17th episode</strong> and the very <strong>first one</strong> done in <strong>English</strong>! This
 podcast was born out of my curiosity of getting to know a bit more about
-the people I have met, whether in person or ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/pete-savage-git-in-the-trenches-gitt.html">more ...</a>
+the people I have met, whether in person or online, and …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/pete-savage-git-in-the-trenches-gitt.html">Leia mais...</a>
+                    </div>
                 </div>
             </article>
-            <hr/>
             <article>
-                <h2><a href="https://castaliopodcast.github.io/alvaro-turicas-justen-arduino.html">Álvaro "Turicas" Justen - Arduino</a></h2>
-                <div class="summary"><p><img alt="Álvaro &quot;Turicas&quot; Justen - Arduino" src="https://castaliopodcast.github.io/images/alvarojusten.png" /></p>
-<p>No episódio de hoje conversei com o <strong>Álvaro "Turicas" Justen</strong> sobre um
-monte de coisas relacionadas ao <strong>Arduino</strong>, e como usá-lo junto com
-vários outros adaptadores (<strong>shields</strong>) para fazer um monte de coisas
-bacanas, como <strong>controlar a cor de um abajour pelo seu telefone
-Android</strong> e usar uma <strong>guitarra para ...</strong></p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/alvaro-turicas-justen-arduino.html">more ...</a>
+                <div class="post-image">
+                    <img src="/images/alvarojusten.png" alt="Álvaro "Turicas" Justen - Arduino" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/alvaro-turicas-justen-arduino.html">Álvaro &quot;Turicas&quot; Justen - Arduino</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2011-09-05T03:26:00-04:00">Mon 05 September 2011</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/alvaro-turicas-justen-arduino.html#disqus_thread" data-disqus-identifier="alvaro-turicas-justen-arduino">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>No episódio de hoje conversei com o <strong>Álvaro &quot;Turicas&quot; Justen</strong> sobre um monte
+de coisas relacionadas ao <strong>Arduino</strong>, e como usá-lo junto com vários outros
+adaptadores (<strong>shields</strong>) para fazer um monte de coisas bacanas, como
+<strong>controlar a cor de um abajour pelo seu telefone Android</strong> e usar uma
+<strong>guitarra para …</strong></p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/alvaro-turicas-justen-arduino.html">Leia mais...</a>
+                    </div>
                 </div>
             </article>
-            <hr/>
 
-        </div>
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-
-<section class="well well-sm">
-    <ul class="list-group list-group-flush">
-            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
-              <ul class="list-group" id="social">
-                <li class="list-group-item"><a href="https://twitter.com/castaliopod"><i class="fa fa-@castaliopod-square fa-lg"></i> @castaliopod</a></li>
-              </ul>
-            </li>
-
-
-
-            <li class="list-group-item"><a href="https://castaliopodcast.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
-                <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">
-                            Ubuntu Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/github.html">
-                            Github
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/python.html">
-                            python
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/c.html">
-                            C++
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/slackware-linux.html">
-                            Slackware Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/wordpress.html">
-                            WordPress
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/debian-linux.html">
-                            Debian Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/gnome.html">
-                            GNOME
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/netflix.html">
-                            Netflix
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/canonical.html">
-                            Canonical
-                        </a>
-                    </li>
-                </ul>
-            </li>
-    </ul>
-</section>
-            </aside>
         </div>
     </div>
 </div>
-<footer>
+<footer id="footer">
    <div class="container">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy; 2012 Og Maciel & Eliézer Rezende
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2018 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
       </div>
    </div>
 </footer>
-<script src="https://castaliopodcast.github.io/theme/js/jquery.min.js"></script>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="https://castaliopodcast.github.io/theme/js/bootstrap.min.js"></script>
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="https://castaliopodcast.github.io/theme/js/respond.min.js"></script>
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
 
-    <script src="https://castaliopodcast.github.io/theme/js/bodypadding.js"></script>
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
     <!-- Disqus -->
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -246,6 +419,23 @@ Android</strong> e usar uma <strong>guitarra para ...</strong></p>
         }());
     </script>
     <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
 
 </body>
 </html>

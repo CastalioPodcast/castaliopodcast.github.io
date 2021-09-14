@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 86: Linguagem de Programação Go - Parte 1 - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-86-linguagem-de-programacao-go-parte-1.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="go,linguagem de programação,thiago avelino,cesar gimenes" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! No episódio de hoje trazemos um formato novo de episódio, escolheremos um tema específico e nos concentraremos nele. Mas calma, não para por aí! Além disso, poderemos ter alguns convidados que vão nos ajudar com o assunto, respondendo …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 86: Linguagem de Programação Go - Parte 1"/>
+        <meta property="og:url" content="https://castalio.info/episodio-86-linguagem-de-programacao-go-parte-1.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! No episódio de hoje trazemos um formato novo de episódio, escolheremos um tema específico e nos concentraremos nele. Mas calma, não para por aí! Além disso, poderemos ter alguns convidados que vão nos ajudar com o assunto, respondendo …"/>
+        <meta property="article:published_time" content="2017-02-06" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="go" />
+            <meta property="article:tag" content="linguagem de programação" />
+            <meta property="article:tag" content="thiago avelino" />
+            <meta property="article:tag" content="cesar gimenes" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-86-linguagem-de-programacao-go-parte-1.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 86: Linguagem de Programação Go - Parte 1">
+                        Episódio 86: Linguagem de Programação Go - Parte 1
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2017-02-06T00:00:00-05:00">Mon 06 February 2017</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-86-linguagem-de-programacao-go-parte-1.html#disqus_thread" data-disqus-identifier="episodio-86-linguagem-de-programacao-go-parte-1">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Go Lang" src="/images/go-lang.png"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje trazemos um formato novo de episódio, escolheremos um tema
+específico e nos concentraremos nele. Mas calma, não para por aí! Além disso,
+poderemos ter alguns convidados que vão nos ajudar com o assunto, respondendo
+algumas dúvidas e falando mais sobre ele.</p>
+
+<div class="section" id="escute-enquanto-le-os-show-notes">
+<h2>Escute enquanto lê os show notes</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-86" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <br /><p>Começamos falando sobre a linguagem de programação <a class="reference external" href="https://golang.org">Go</a>. Ela foi foi criada pelo
+pessoal da Google e lançada como código livre em 2009. É uma linguagem
+compilada e otimizada para programação concorrente e tem entre os seus
+criadores o Ken Thompson, que é um dos criadores do Unix e que junto com Dennis
+Ritchie ajudou nas primeiras especificações da linguagem C.</p>
+<p>Outro dado interessante é que foram o Ken Thompson e o Rob Pike (um dos
+criadores da linguagem Go) que também criaram o padrão UTF-8, e só com essas
+informações já dá para imaginar o poder dessa linguagem</p>
+<p>Para deixar o bate-papo ainda mais interessante hoje teremos dois convidados:</p>
+<p>Thiago Avelino, que já foi entrevistado aqui no Castálio, é matemático,
+programador, palestrante, mantenedor e colaborador de diversos projetos open
+source, empreendedor em várias áreas de negócio e atualmente utiliza a
+linguagem Go em um desses empreendimentos.</p>
+<p>Cesar Gimenes é um experiente programador que já atuou na área de educação,
+trabalhou com games, aplicativos móveis e sistemas embarcados, ativo
+participante da comunidade de Go no Brasil e organizador do grupo de estudos de
+Go, trabalha atualmente com Go na Nuveo SmartCloud.</p>
+<p>Nessa primeira parte abordamos os seguintes pontos:</p>
+<ul class="simple">
+<li>Por que Go?</li>
+<li>Onde é recomendado utilizar o Go?</li>
+<li>Qual a diferença entre concorrência e paralelismo?</li>
+<li>Ecossistema de frameworks, bibliotecas e a biblioteca nativa do Go.</li>
+<li>Softwares e empresas conhecidas que estão utilizando Go: Mercado Livre,
+Magazine Luiza, Dropbox, Docker, YouTube.</li>
+<li>Como o Mercado Livre diminuiu o número de equipamentos utilizados ao migrar
+de Grails para Go. Mais informações no post <a class="reference external" href="http://imasters.com.br/linguagens/o-ceu-e-o-limite-na-utilizacao-de-golang">O céu é o limite na utilização
+de Golang</a></li>
+<li>O que o Thiago e o Cesar tem feito com o Go?</li>
+</ul>
+</div>
+<div class="section" id="links">
+<h2>Links</h2>
+<p>Como não poderíamos deixar faltar, segue a lista de links que comentamos no
+episódio:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://golang.org">Go</a>, sita oficial da linguagem de programação Go.</li>
+<li><a class="reference external" href="http://imasters.com.br/linguagens/o-ceu-e-o-limite-na-utilizacao-de-golang">O céu é o limite na utilização de Golang</a>, informações sobre a redução do
+número de máquinas que o Mercado Livre teve ao migrar para Go.</li>
+<li><a class="reference external" href="https://github.com/dropbox/pyston">Pyston</a>, Python otimizado escrito pelo pessoal do Dropbox.</li>
+<li><a class="reference external" href="https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/">Pyston 0.6.1 released, and future plans</a>, nota sobre a última versão do
+Pyston.</li>
+<li><a class="reference external" href="https://github.com/nuveo/prest">pREST</a> e <a class="reference external" href="https://github.com/nuveo/gofn">gof(n)</a>, softwares escritos em Go que o Avelino e o Cesar
+comentaram.</li>
+<li><a class="reference external" href="http://www.seleniumhq.org/">Selenium</a>, automatização de browsers.</li>
+<li><a class="reference external" href="http://phantomjs.org/">PhantomJS</a>, browser sem interface utilizado para automatização de
+interações em páginas web.</li>
+<li><a class="reference external" href="https://saucelabs.com/">Sauce Labs</a>, serviço que oferece vários browsers para teste utilizando o
+Selenium.</li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Pdftotext">pdftotext</a>, conversor de PDF para texto em linha de comando.</li>
+</ul>
+<p>Com isso terminamos a primeira parte sobre a linguagem de programação Go.</p>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+</div>
+<div class="section" id="ainda-nao-ouviu-escute-agora">
+<h2>Ainda não ouviu? escute agora!</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-86" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/go.html">go</a>
+  <a class="label label-primary" href="https://castalio.info/tag/linguagem-de-programacao.html">linguagem de programação</a>
+  <a class="label label-primary" href="https://castalio.info/tag/thiago-avelino.html">thiago avelino</a>
+  <a class="label label-primary" href="https://castalio.info/tag/cesar-gimenes.html">cesar gimenes</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-86-linguagem-de-programacao-go-parte-1';
+                var disqus_url = 'https://castalio.info/episodio-86-linguagem-de-programacao-go-parte-1.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-86&callback=set_download_count?output=json"></script>
+</body>
+</html>

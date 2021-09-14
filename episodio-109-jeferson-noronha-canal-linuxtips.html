@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 109: Jeferson Noronha - Canal LinuxTips - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-109-jeferson-noronha-canal-linuxtips.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="jeferson noronha,linuxtips,devops,descomplicando o docker,semana devops,lpi,cerveja,ratos de porão,muqueca de rato,the xx,the xx - intro,rincon sapiência,mr. robot,stranger things,a espera de um milagre,scarface,o poderoso chefão,os guardiões da galáxia,house of cards,sapiens,the phoenix project,adobe premiere,tubebyddy,codeops,cfengine,ruby,git,gitlab,chef,rundeck,puppet,python,jenkins,ansible,go,gocd,consul,docker,docker swarm,kubernetes,openshift,powershell,slack,microservices,continuous integration,continuous delivery,docker compose,trillium brewing,osprogramadores,tdc,python brasil" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Hoje nosso convidado está por trás do Canal LinuxTips no Youtube, é especialista em DevOps, autor do livro Descomplicando o Docker e, assim como o Elyézer, um grande apreciador de cervejas. É com grande prazer que nós recebemos …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 109: Jeferson Noronha - Canal LinuxTips"/>
+        <meta property="og:url" content="https://castalio.info/episodio-109-jeferson-noronha-canal-linuxtips.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Hoje nosso convidado está por trás do Canal LinuxTips no Youtube, é especialista em DevOps, autor do livro Descomplicando o Docker e, assim como o Elyézer, um grande apreciador de cervejas. É com grande prazer que nós recebemos …"/>
+        <meta property="article:published_time" content="2017-07-17" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="jeferson noronha" />
+            <meta property="article:tag" content="linuxtips" />
+            <meta property="article:tag" content="devops" />
+            <meta property="article:tag" content="descomplicando o docker" />
+            <meta property="article:tag" content="semana
+devops" />
+            <meta property="article:tag" content="lpi" />
+            <meta property="article:tag" content="cerveja" />
+            <meta property="article:tag" content="ratos de porão" />
+            <meta property="article:tag" content="muqueca de rato" />
+            <meta property="article:tag" content="the xx" />
+            <meta property="article:tag" content="the xx -
+intro" />
+            <meta property="article:tag" content="rincon sapiência" />
+            <meta property="article:tag" content="mr. robot" />
+            <meta property="article:tag" content="stranger things" />
+            <meta property="article:tag" content="a espera de um
+milagre" />
+            <meta property="article:tag" content="scarface" />
+            <meta property="article:tag" content="o poderoso chefão" />
+            <meta property="article:tag" content="os guardiões da galáxia" />
+            <meta property="article:tag" content="house of
+cards" />
+            <meta property="article:tag" content="sapiens" />
+            <meta property="article:tag" content="the phoenix project" />
+            <meta property="article:tag" content="adobe premiere" />
+            <meta property="article:tag" content="tubebyddy" />
+            <meta property="article:tag" content="codeops" />
+            <meta property="article:tag" content="cfengine" />
+            <meta property="article:tag" content="ruby" />
+            <meta property="article:tag" content="git" />
+            <meta property="article:tag" content="gitlab" />
+            <meta property="article:tag" content="chef" />
+            <meta property="article:tag" content="rundeck" />
+            <meta property="article:tag" content="puppet" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="jenkins" />
+            <meta property="article:tag" content="ansible" />
+            <meta property="article:tag" content="go" />
+            <meta property="article:tag" content="gocd" />
+            <meta property="article:tag" content="consul" />
+            <meta property="article:tag" content="docker" />
+            <meta property="article:tag" content="docker swarm" />
+            <meta property="article:tag" content="kubernetes" />
+            <meta property="article:tag" content="openshift" />
+            <meta property="article:tag" content="powershell" />
+            <meta property="article:tag" content="slack" />
+            <meta property="article:tag" content="microservices" />
+            <meta property="article:tag" content="continuous integration" />
+            <meta property="article:tag" content="continuous
+delivery" />
+            <meta property="article:tag" content="docker compose" />
+            <meta property="article:tag" content="trillium brewing" />
+            <meta property="article:tag" content="osprogramadores" />
+            <meta property="article:tag" content="tdc" />
+            <meta property="article:tag" content="python
+brasil" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-109-jeferson-noronha-canal-linuxtips.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 109: Jeferson Noronha - Canal LinuxTips">
+                        Episódio 109: Jeferson Noronha - Canal LinuxTips
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2017-07-17T00:00:00-04:00">Mon 17 July 2017</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-109-jeferson-noronha-canal-linuxtips.html#disqus_thread" data-disqus-identifier="episodio-109-jeferson-noronha-canal-linuxtips">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Jeferson Noronha" src="/images/jeferson-noronha.jpg"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje nosso convidado está por trás do <a class="reference external" href="https://www.youtube.com/linuxtips">Canal LinuxTips</a> no Youtube, é
+especialista em DevOps, autor do livro <a class="reference external" href="https://www.goodreads.com/book/show/33146316-descomplicando-o-docker">Descomplicando o Docker</a> e, assim como
+o Elyézer, um grande apreciador de cervejas.  É com grande prazer que nós
+recebemos nosso convidado, Jeferson Noronha.</p>
+
+<p>Abordamos os seguintes tópicos:</p>
+<ul class="simple">
+<li>Como começou o <a class="reference external" href="https://www.youtube.com/linuxtips">Canal LinuxTips</a>?</li>
+<li>Quanto tempo é dedicado para produzir o conteúdo e editar? É o Jeferson que
+edita?</li>
+<li>A identidade própria do LinuxTips (modo de edição e jeito de falar) foi algo
+criado, planejado ou surgiu naturalmente? O LinuxTips inspirado em algum
+outro canal?</li>
+<li>O que é a Semana DevOps?</li>
+<li>Com mais de 12000 inscritos, é possível ganhar algum dinheiro com o
+LinuxTips?</li>
+<li>Quando e como será o <a class="reference external" href="https://www.meetup.com/LINUXtips/">Meetup do LinuxTips</a> que acontecerá em São Paulo?</li>
+<li>O que é DevOps?</li>
+<li>Como está o mercado de trabalho de DevOps atualmente? E o quê um profissional
+de DevOps precisa conhecer?</li>
+<li>Por quê o Docker é importante para o DevOps?</li>
+<li>O que o Jeferson acha da proposta da LPI criar a certificação DevOps? Como
+uma certificação ajuda um profissional?</li>
+<li>Como é a política de testes de um DevOps? Como são feitos os testes dos
+scripts e deploys?</li>
+<li>O Jeferson é um especialista (sommelier) de cerveja? Qual a melhor cerveja
+que ele já tomou?</li>
+<li>No início do Canal LinuxTips o Jeferson recebeu algumas críticas por
+&quot;incentivar&quot; o consumo de álcool por profissionais de TI, isso ainda
+acontece?</li>
+<li>Nos vídeos do LinuxTips o Jeferson inicia abrindo uma cerveja e fazendo uma
+certa propaganda, existe algum patrocínio para isso? Já pensou nessa ideia?
+Quantas cervejas já foram consumidas fazendo os vídeos?</li>
+</ul>
+<div class="clearfix"></div><p>Confira a gravação deste episódio no vídeo abaixo:</p>
+
+        <p class="clearfix">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6eETLbi9gKQ" allowfullscreen></iframe>
+        </div>
+        </p>
+        <p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a class="reference external" href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio Podcast</a> e
+assinar nosso <a class="reference external" href="http://www.youtube.com/c/CastalioPodcast">canal do YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<div class="section" id="contato">
+<h2>Contato</h2>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object img-circle img-thumbnail" src="/images/jeferson-noronha.jpg" alt="Jeferson Noronha" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Jeferson Noronha</h4>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/linuxtips">YouTube - Canal LinuxTips</a></li>
+                <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/badtux_">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div></div>
+<div class="section" id="escute-agora">
+<h2>Escute Agora</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-109" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-109/castalio-podcast-109.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-109/castalio-podcast-109.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <h2>Top 5</h2>
+<h3>Músicas:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.last.fm/music/Ratos+De+Por%C3%A3o">Ratos De Porão</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Muqueca+de+Rato">Muqueca de Rato</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/The+xx/_/Intro">The xx - Intro</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Rincon+Sapi%C3%AAncia">Rincon Sapiência</a>
+    </li>
+    </ol>
+<h3>Filmes:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.imdb.com/title/tt4158110/">Mr. Robot</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt4574334/">Stranger Things</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0120689/">A Espera de um Milagre</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0086250/">Scarface</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0068646/">O Poderoso Chefão</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt3896198/">Os Guardiões da Galáxia</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt1856010/">House of cards</a>
+    </li>
+    </ol>
+<h3>Livros:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/23692271-sapiens">Sapiens</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/17255186-the-phoenix-project">The Phoenix Project</a>
+    </li>
+    </ol>
+</div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="https://www.youtube.com/linuxtips">Canal LinuxTips</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/book/show/33146316-descomplicando-o-docker">Descomplicando o Docker</a></li>
+<li><a class="reference external" href="https://www.adobe.com/br/products/premiere.html">Adobe Premiere</a></li>
+<li><a class="reference external" href="https://www.tubebuddy.com/">TubeBuddy</a></li>
+<li><a class="reference external" href="https://www.youtube.com/playlist?list=PLf-O3X2-mxDlCKz9uE1Z_4RfJX1-Z6z6R">Playlist da Primeira Semana DevOps</a></li>
+<li><a class="reference external" href="https://www.youtube.com/playlist?list=PLf-O3X2-mxDnqO3B6j7AC2ZDjt3BU8Gw-">Playlist da Segunda Semana DevOps</a></li>
+<li><a class="reference external" href="http://www.codeops.com.br/">CodeOps</a></li>
+<li><a class="reference external" href="https://cfengine.com/">CFEngine</a></li>
+<li><a class="reference external" href="https://www.ruby-lang.org/">Ruby</a></li>
+<li><a class="reference external" href="https://git-scm.com/">Git</a></li>
+<li><a class="reference external" href="https://about.gitlab.com/">Gitlab</a></li>
+<li><a class="reference external" href="https://www.chef.io/">Chef</a></li>
+<li><a class="reference external" href="http://rundeck.org/">Rundeck</a></li>
+<li><a class="reference external" href="https://puppet.com/">Puppet</a></li>
+<li><a class="reference external" href="https://www.python.org/">Python</a></li>
+<li><a class="reference external" href="https://jenkins.io/">Jenkins</a></li>
+<li><a class="reference external" href="https://www.ansible.com/">Ansible</a></li>
+<li><a class="reference external" href="https://golang.org/">Go</a></li>
+<li><a class="reference external" href="https://www.gocd.org/">GoCD</a></li>
+<li><a class="reference external" href="https://www.consul.io/">Consul</a></li>
+<li><a class="reference external" href="https://www.meetup.com/LINUXtips/">Meetup do LinuxTips</a></li>
+<li><a class="reference external" href="https://www.docker.com/">Docker</a></li>
+<li><a class="reference external" href="https://docs.docker.com/engine/swarm/">Docker Swarm</a></li>
+<li><a class="reference external" href="https://kubernetes.io/">Kubernetes</a></li>
+<li><a class="reference external" href="https://www.openshift.com/">OpenShift</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/PowerShell">PowerShell</a></li>
+<li><a class="reference external" href="https://slack.com/">Slack</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Microservices">Microservices</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Continuous_integration">Continuous integration</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Continuous_delivery">Continuous delivery</a></li>
+<li><a class="reference external" href="https://docs.docker.com/compose/">Docker Compose</a></li>
+<li><a class="reference external" href="http://www.lpi.org/blog/2017/06/20/what-devops-or-why-another-devops-certification">What is DevOps? or: Why Another DevOps Certification?</a></li>
+<li><a class="reference external" href="http://www.trilliumbrewing.com/">Trillium Brewing</a></li>
+<li><a class="reference external" href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q">Canal do MPJ (Mattias Petter Johansson)</a></li>
+<li><a class="reference external" href="https://osprogramadores.com/">OsProgramadores</a></li>
+<li><a class="reference external" href="http://www.thedevelopersconference.com.br">TDC (The Developer's Conference)</a></li>
+<li><a class="reference external" href="http://2017.pythonbrasil.org.br/">Python Brasil 2017</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/jeferson-noronha.html">jeferson noronha</a>
+  <a class="label label-primary" href="https://castalio.info/tag/linuxtips.html">linuxtips</a>
+  <a class="label label-primary" href="https://castalio.info/tag/devops.html">devops</a>
+  <a class="label label-primary" href="https://castalio.info/tag/descomplicando-o-docker.html">descomplicando o docker</a>
+  <a class="label label-primary" href="https://castalio.info/tag/semana-devops.html">semana
+devops</a>
+  <a class="label label-primary" href="https://castalio.info/tag/lpi.html">lpi</a>
+  <a class="label label-primary" href="https://castalio.info/tag/cerveja.html">cerveja</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ratos-de-porao.html">ratos de porão</a>
+  <a class="label label-primary" href="https://castalio.info/tag/muqueca-de-rato.html">muqueca de rato</a>
+  <a class="label label-primary" href="https://castalio.info/tag/the-xx.html">the xx</a>
+  <a class="label label-primary" href="https://castalio.info/tag/the-xx-intro.html">the xx -
+intro</a>
+  <a class="label label-primary" href="https://castalio.info/tag/rincon-sapiencia.html">rincon sapiência</a>
+  <a class="label label-primary" href="https://castalio.info/tag/mr-robot.html">mr. robot</a>
+  <a class="label label-primary" href="https://castalio.info/tag/stranger-things.html">stranger things</a>
+  <a class="label label-primary" href="https://castalio.info/tag/a-espera-de-um-milagre.html">a espera de um
+milagre</a>
+  <a class="label label-primary" href="https://castalio.info/tag/scarface.html">scarface</a>
+  <a class="label label-primary" href="https://castalio.info/tag/o-poderoso-chefao.html">o poderoso chefão</a>
+  <a class="label label-primary" href="https://castalio.info/tag/os-guardioes-da-galaxia.html">os guardiões da galáxia</a>
+  <a class="label label-primary" href="https://castalio.info/tag/house-of-cards.html">house of
+cards</a>
+  <a class="label label-primary" href="https://castalio.info/tag/sapiens.html">sapiens</a>
+  <a class="label label-primary" href="https://castalio.info/tag/the-phoenix-project.html">the phoenix project</a>
+  <a class="label label-primary" href="https://castalio.info/tag/adobe-premiere.html">adobe premiere</a>
+  <a class="label label-primary" href="https://castalio.info/tag/tubebyddy.html">tubebyddy</a>
+  <a class="label label-primary" href="https://castalio.info/tag/codeops.html">codeops</a>
+  <a class="label label-primary" href="https://castalio.info/tag/cfengine.html">cfengine</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ruby.html">ruby</a>
+  <a class="label label-primary" href="https://castalio.info/tag/git.html">git</a>
+  <a class="label label-primary" href="https://castalio.info/tag/gitlab.html">gitlab</a>
+  <a class="label label-primary" href="https://castalio.info/tag/chef.html">chef</a>
+  <a class="label label-primary" href="https://castalio.info/tag/rundeck.html">rundeck</a>
+  <a class="label label-primary" href="https://castalio.info/tag/puppet.html">puppet</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jenkins.html">jenkins</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ansible.html">ansible</a>
+  <a class="label label-primary" href="https://castalio.info/tag/go.html">go</a>
+  <a class="label label-primary" href="https://castalio.info/tag/gocd.html">gocd</a>
+  <a class="label label-primary" href="https://castalio.info/tag/consul.html">consul</a>
+  <a class="label label-primary" href="https://castalio.info/tag/docker.html">docker</a>
+  <a class="label label-primary" href="https://castalio.info/tag/docker-swarm.html">docker swarm</a>
+  <a class="label label-primary" href="https://castalio.info/tag/kubernetes.html">kubernetes</a>
+  <a class="label label-primary" href="https://castalio.info/tag/openshift.html">openshift</a>
+  <a class="label label-primary" href="https://castalio.info/tag/powershell.html">powershell</a>
+  <a class="label label-primary" href="https://castalio.info/tag/slack.html">slack</a>
+  <a class="label label-primary" href="https://castalio.info/tag/microservices.html">microservices</a>
+  <a class="label label-primary" href="https://castalio.info/tag/continuous-integration.html">continuous integration</a>
+  <a class="label label-primary" href="https://castalio.info/tag/continuous-delivery.html">continuous
+delivery</a>
+  <a class="label label-primary" href="https://castalio.info/tag/docker-compose.html">docker compose</a>
+  <a class="label label-primary" href="https://castalio.info/tag/trillium-brewing.html">trillium brewing</a>
+  <a class="label label-primary" href="https://castalio.info/tag/osprogramadores.html">osprogramadores</a>
+  <a class="label label-primary" href="https://castalio.info/tag/tdc.html">tdc</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python-brasil.html">python
+brasil</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-109-jeferson-noronha-canal-linuxtips';
+                var disqus_url = 'https://castalio.info/episodio-109-jeferson-noronha-canal-linuxtips.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-109&callback=set_download_count?output=json"></script>
+</body>
+</html>

@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 80: Kenneth Reitz - Python Requests - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-80-kenneth-reitz-python-requests.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="kenneth reitz,python,requests,heroku,english" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nosso convidado de hoje é o criador do Python Requests: HTTP para Humanos, atualmente trabalha no Heroku com um título bem interessante, PythonOverLord, possui uma coleção incrível de fotos no Instagram, e possui seu próprio Import This podcast …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 80: Kenneth Reitz - Python Requests"/>
+        <meta property="og:url" content="https://castalio.info/episodio-80-kenneth-reitz-python-requests.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Nosso convidado de hoje é o criador do Python Requests: HTTP para Humanos, atualmente trabalha no Heroku com um título bem interessante, PythonOverLord, possui uma coleção incrível de fotos no Instagram, e possui seu próprio Import This podcast …"/>
+        <meta property="article:published_time" content="2016-12-24" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="kenneth reitz" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="requests" />
+            <meta property="article:tag" content="heroku" />
+            <meta property="article:tag" content="english" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-80-kenneth-reitz-python-requests.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 80: Kenneth Reitz - Python Requests">
+                        Episódio 80: Kenneth Reitz - Python Requests
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2016-12-24T00:00:00-05:00">Sat 24 December 2016</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-80-kenneth-reitz-python-requests.html#disqus_thread" data-disqus-identifier="episodio-80-kenneth-reitz-python-requests">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Kenneth Reitz - Python Requests" src="/images/kennethreitz.jpg"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é o criador do Python Requests: HTTP para Humanos,
+atualmente trabalha no Heroku com um título bem interessante, PythonOverLord,
+possui uma coleção incrível de fotos no Instagram, e possui seu próprio Import
+This podcast. Ele também escreveu o &quot;Hitchhiker's Guide to Python&quot;, um livro de
+boas práticas em Python que foi, coincidentemente publicado pela O'Reilly em
+Setembro e todo o lucro das vendas está sendo doado para a fundação Django
+Girls. Alem disso, possui muito projetos interessantes em sua página no Github.
+É com grande prazer que trazemos uma entrevista, em inglês, com o Kenneth
+Reitz.</p>
+<p>Vamos fazer um post um pouco diferente hoje, fizemos a apresentação em
+português e, de agora em diante, o post será todo em inglês. Por favor,
+deixe-nos comentários sobre o que achou desse formato de post.</p>
+
+<p>Hello everyone and welcome to Castálio Podcast!</p>
+<p>Our guest for today's episode is the creator of Python Requests: HTTP for
+Humans, currently works at Heroku with a pretty cool title, PythonOverLord, has an
+amazing collection of pictures on his Instagram feed, hosts his own Import This
+podcast. He also wrote the &quot;Hitchhiker's Guide to Python&quot;, which is a Python
+Best Practices Guidebook (which coincidentally was just published recently by
+O’Reilly in September and all proceeds from sales are being donated directly to
+the Django Girls Foundation!) and many other interesting projects which can be
+seen by visiting his Github profile page. It is with great pleasure that we
+welcome Kenneth Reitz to our podcast!</p>
+<p>We all know Kenneth from his great programming skills and great Python
+libraries, but maybe not everyone know how he started programming. As you
+can imagine, we had to talk about that. We started talking about how he started
+programming and his first projects. He told us about <a class="reference external" href="http://webpages.charter.net/reitzk/SplashWear.html">SplashWear</a>, which
+was his very first user-facing software. SplashWear features:</p>
+<ul class="simple">
+<li>A glorious splash screen.</li>
+<li>A pc-speaker theme song.</li>
+<li>A colored DOS shell with customizable prompt.</li>
+<li>A glimpse into the matrix.</li>
+<li>Lots of easter eggs.</li>
+</ul>
+<p>The project is available on Github at <a class="reference external" href="https://github.com/kennethreitz/SlashWear">kennethreitz/SlashWear</a> and, thanks for
+the folks over at the Internet Archive, you can <a class="reference external" href="https://archive.org/details/splashwear">run SplashWear in your web
+browser</a></p>
+<p>Next we talked about how he started programming in Python. It was interesting to
+hear that he was in doubt between Computer Science, Photograph and Music. Thankfully,
+to us, he picked Computer Science and decided to do Photograph and Music on the
+side. He had his first Python experience on the Computer Science course. He
+liked everything about Python but Classes, as he got stuck on understanding how
+it works. He continued studying Python and, suddenly, one day, everything made
+sense about Python.</p>
+<p>We then talked about how Kenneth is involved with other communities and
+other programming languages. Basically he is only involved with Python
+community and he stressed that he really cares about Python currently. Then we
+talked about his cool title at Heroku as PythonOverLord (not PythonLord as we
+thought) and what that means as a role. Then he told us how he finds time to
+take pictures and the good news is that he works from home and that helps him
+find time to take those pictures, which makes him relax and be a better worker.</p>
+<p>It could not be an episode with Kenneth if we did not talk about Python
+Requests. We talked about how Python Requests started and how it evolved into
+what it is today. It is worth to mention that Kenneth is really thankful for
+all the love Requests receives and the importance it has to the community. We from
+Castálio Podcast, and we hope our listeners too, are very thankful to Kenneth for
+building it.</p>
+<p>As it was still fresh when we recorded our previous episode, we talked about some polemic
+opinions about Python 3. Kenneth does not like it personally but accepted it as
+the Python future, mostly because he liked how strings worked on Python 2.
+That was not just an opinion since he told us how he thought would be better to
+fix the strings and default encoding issue. Also he thinks that learning Python
+3 is a little bit harder since how bytes type works is a little abstract as a
+computer science project. Finally, in his opinion, if you are starting a
+project today, do it it Python 3.</p>
+<p>We also talked about <a class="reference external" href="https://github.com/pypa/pipfile">pipfile</a> which is a project that he is working with
+<a class="reference external" href="https://caremad.io/about/">Donald Stufft</a>.  The pipfile is under active development (and design) and there is
+no code written so far but the README file shows examples and how it should look like
+when implemented. They are doing the project this way to collect feedback from the
+community to make sure that they get it right!</p>
+<p>The final thing we talked about was <a class="reference external" href="https://www.kennethreitz.org/music/">Kenneth's music</a>, specially his first
+album published, <a class="reference external" href="https://www.kennethreitz.org/unmastered-impulses/">Unmastered Impulses</a>, which &quot;contains tracks inspired by
+esoteric spiritual and philosophical concepts, explorations into the dream
+state, <a class="reference external" href="https://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred">bipolar disorder</a>, and a <a class="reference external" href="https://www.kennethreitz.org/essays/purging-the-unexpected-negative-a-narcissistic-partner">traumatic relationship</a>&quot;. Kenneth talked
+about his passion for music, how he got started and what inspired him to
+create the album. The conversation continued and he also commented about how he
+built the album artwork. To close this conversation, we talked about Kenneth's
+synthesizers and the music live streams he does on Facebook.</p>
+<div class="figure">
+<img alt="Unmastered Impulses by Infinite State - Album Artwork" src="https://castalio.info/images/unmasteredimpulses-artwork.jpg" />
+</div>
+<p>We had a great chat with Kenneth and in the end we sked him for his Top 5
+recommendations for books, music, and movies.</p>
+<p>Before we end this post, we want to thank all the listeners who left
+comments. Feel free to leave any comment below, on our <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> or <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a> page.</p>
+<p>See you all on our next episode!</p>
+<div class="section" id="contact-contato">
+<h2>Contact (Contato)</h2>
+<ul class="simple">
+<li><strong>Site</strong>: <a class="reference external" href="https://www.kennethreitz.org/">https://www.kennethreitz.org/</a></li>
+<li><strong>Twitter</strong>: <a class="reference external" href="https://twitter.com/kennethreitz">https://twitter.com/kennethreitz</a></li>
+<li><strong>Facebook</strong> <a class="reference external" href="http://www.facebook.com/555375131">http://www.facebook.com/555375131</a></li>
+<li><strong>LinkedIn</strong>: <a class="reference external" href="https://www.linkedin.com/in/kennethreitz">https://www.linkedin.com/in/kennethreitz</a></li>
+<li><strong>Github</strong>: <a class="reference external" href="https://github.com/kennethreitz">https://github.com/kennethreitz</a></li>
+<li><strong>Instagram</strong>: <a class="reference external" href="http://instagram.com/kennethreitz">http://instagram.com/kennethreitz</a></li>
+</ul>
+</div>
+<div class="section" id="listen-now-escute-agora">
+<h2>Listen Now (Escute Agora)</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-80" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-80/castalio-podcast-80.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-80/castalio-podcast-80.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        <h2>Top 5</h2>
+<h3>Livros:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/681667.Hermetica">Hermetica</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/123653.The_Book_of_the_Law">The Book of the Law</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/1363427.Kybalion">Kybalion</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/25070646-ashtanga-yoga">Ashtanga Yoga</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/10052680-o-guia-do-mochileiro-das-gal-xias">O Guia do Mochileiro das Galáxias</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.goodreads.com/book/show/14376.Einstein_s_Dreams">Einstein's Dreams</a>
+    </li>
+    </ol>
+<h3>Músicas:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.last.fm/music/Tool/_/Lateralus">Tool - Lateralus</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Kanye+West">Kanye West</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Rage+Against+the+Machine/Rage+Against+the+Machine">Rage Against the Machine album</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/Linkin+Park/Hybrid+Theory">Linkin Park - Hybrid Theory</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.last.fm/music/311">311</a>
+    </li>
+    </ol>
+<h3>Filmes:</h3><ol>
+<li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0133093/">The Matrix</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0118929/">Dark City</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt1211837/">Doctor Strange</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt2543164/">Arrival</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0357413/">Anchorman</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0942385/">Tropic Thunder</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0243017/">Waking Life</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0415306/">Talladega Nights</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0119282/">Hercules</a>
+    </li>
+    <li>
+    <a class="reference external" href="https://www.imdb.com/title/tt0120794/">The Prince of Egypt</a>
+    </li>
+    </ol>
+</div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="http://webpages.charter.net/reitzk/SplashWear.html">SplashWear</a></li>
+<li><a class="reference external" href="https://github.com/kennethreitz/SlashWear">kennethreitz/SlashWear</a></li>
+<li><a class="reference external" href="https://archive.org/details/splashwear">run SplashWear in your web browser</a></li>
+<li><a class="reference external" href="https://github.com/pypa/pipfile">pipfile</a></li>
+<li><a class="reference external" href="https://caremad.io/about/">Donald Stufft</a></li>
+<li><a class="reference external" href="https://www.kennethreitz.org/music/">Kenneth's music</a></li>
+<li><a class="reference external" href="https://www.kennethreitz.org/unmastered-impulses/">Unmastered Impulses</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/kenneth-reitz.html">kenneth reitz</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/requests.html">requests</a>
+  <a class="label label-primary" href="https://castalio.info/tag/heroku.html">heroku</a>
+  <a class="label label-primary" href="https://castalio.info/tag/english.html">english</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-80-kenneth-reitz-python-requests';
+                var disqus_url = 'https://castalio.info/episodio-80-kenneth-reitz-python-requests.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-80&callback=set_download_count?output=json"></script>
+</body>
+</html>

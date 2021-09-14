@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="pt_br"
+>
+<head>
+    <title>Episódio 117: Engenharia de Qualidade 101 - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="https://castalio.info/episodio-117-engenharia-de-qualidade-101.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="engenharia de qualidade,qe,quality engineering,quality engineer,quality assurance,qa,linux,bash,python,awk,cut,grep,requests,selenium,paramiko,plumbum,fabric,py.test,tdd,travis,test driven development,continuous integration,pep8,cantinabox,jenkins,bamboo,docker,ansible,virtualization,puppet" />
+        <meta name="description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Hoje trazemos um episódio temático para falar sobre Engenharia de Qualidade. Pretendemos fazer uma série com vários episódios sobre o assunto. À medida que formos progredindo pretendemos abordar diferentes conceitos e trazer na prática como são implementados. Fiquem …" />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Episódio 117: Engenharia de Qualidade 101"/>
+        <meta property="og:url" content="https://castalio.info/episodio-117-engenharia-de-qualidade-101.html"/>
+        <meta property="og:description" content="Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Hoje trazemos um episódio temático para falar sobre Engenharia de Qualidade. Pretendemos fazer uma série com vários episódios sobre o assunto. À medida que formos progredindo pretendemos abordar diferentes conceitos e trazer na prática como são implementados. Fiquem …"/>
+        <meta property="article:published_time" content="2017-09-11" />
+            <meta property="article:section" content="episodes" />
+            <meta property="article:tag" content="engenharia de qualidade" />
+            <meta property="article:tag" content="qe" />
+            <meta property="article:tag" content="quality engineering" />
+            <meta property="article:tag" content="quality engineer" />
+            <meta property="article:tag" content="quality assurance" />
+            <meta property="article:tag" content="qa" />
+            <meta property="article:tag" content="linux" />
+            <meta property="article:tag" content="bash" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="awk" />
+            <meta property="article:tag" content="cut" />
+            <meta property="article:tag" content="grep" />
+            <meta property="article:tag" content="requests" />
+            <meta property="article:tag" content="selenium" />
+            <meta property="article:tag" content="paramiko" />
+            <meta property="article:tag" content="plumbum" />
+            <meta property="article:tag" content="fabric" />
+            <meta property="article:tag" content="py.test" />
+            <meta property="article:tag" content="tdd" />
+            <meta property="article:tag" content="travis" />
+            <meta property="article:tag" content="test driven
+development" />
+            <meta property="article:tag" content="continuous integration" />
+            <meta property="article:tag" content="pep8" />
+            <meta property="article:tag" content="cantinabox" />
+            <meta property="article:tag" content="jenkins" />
+            <meta property="article:tag" content="bamboo" />
+            <meta property="article:tag" content="docker" />
+            <meta property="article:tag" content="ansible" />
+            <meta property="article:tag" content="virtualization" />
+            <meta property="article:tag" content="puppet" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12">
+    <section id="content">
+        <article>
+            <div class="post-body" style="margin-left: 0px">
+                <h1>
+                    <a href="https://castalio.info/episodio-117-engenharia-de-qualidade-101.html"
+                       rel="bookmark"
+                       title="Permalink to Episódio 117: Engenharia de Qualidade 101">
+                        Episódio 117: Engenharia de Qualidade 101
+                    </a>
+                </h1>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2017-09-11T00:00:00-04:00">Mon 11 September 2017</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/og-maciel.html">Og Maciel</a>,                 <a href="https://castalio.info/author/elyezer-rezende.html">Elyézer Rezende</a>,                 <a href="https://castalio.info/author/bruno-rocha.html">Bruno Rocha</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-117-engenharia-de-qualidade-101.html#disqus_thread" data-disqus-identifier="episodio-117-engenharia-de-qualidade-101">Comentários</a>        </span>
+
+        <span class="podcast-download-count">
+            <i class="fa fa-download" aria-hidden="true"></i>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</div><!-- /.post-info -->                <div class="pull-left clear article-figure figure">
+                    <img alt="Engenharia de Qualidade 101" src="/images/episode-117.png"/>
+                </div>
+                <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje trazemos um episódio temático para falar sobre Engenharia de Qualidade.
+Pretendemos fazer uma série com vários episódios sobre o assunto. À medida que
+formos progredindo pretendemos abordar diferentes conceitos e trazer na prática
+como são implementados. Fiquem ligados, pois estamos apenas o começo.</p>
+<p>O foco de hoje será a diferença entre os termos Engenheiro de Qualidade
+(<cite>Quality Engineer</cite> ou QE) e <cite>Quality Assurance</cite> (QA) e porque alguém
+interessado em trabalhar na área de qualidade deveria almejar ser um Engenheiro
+de Qualidade. Claro que todo o conteúdo é baseado em nossas experiencias e
+portanto se você tem uma visão diferente, te convidamos a deixar um comentário
+expondo seu ponto de vista.</p>
+
+<div class="clearfix"></div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute enquanto lê os show notes</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-117" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-117/castalio-podcast-117.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-117/castalio-podcast-117.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            <div class="section" id="topicos-abordados">
+<h2>Tópicos Abordados</h2>
+<ul class="simple">
+<li>A conversa sobre a diferença entre QE e QA foi baseada nos slides de uma
+apresentação que o Og Maciel fez recentemente chamada <a class="reference external" href="https://speakerdeck.com/omaciel/just-what-is-a-quality-engineer">Just What Is A
+Quality Engineer</a>.</li>
+<li>O que um profissional que trabalha com Engenharia de Qualidade precisa saber e
+qual seria a formação básica desse engenheiro.</li>
+<li>Qual o material recomendado para alguém que está querendo iniciar na área.</li>
+<li>O que é um Tester e qual seria a relação dele com um QE.</li>
+<li>Qual a diferença de papéis entre o Desenvolvedor do produto e o Engenheiro de
+Qualidade considerando escolher um ou outro para buscar como profissão.</li>
+</ul>
+</div>
+<div class="section" id="sorteio-de-ingressos-para-a-rubyconf">
+<h2>Sorteio de Ingressos para a RubyConf</h2>
+<p>A <a class="reference external" href="http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/">RubyConf</a>,
+maior conferência brasileira de Ruby acontecerá na Fecomercio
+em São Paulo nos dias 17 e 18 de Novembro, os ingressos já estão à venda e
+nós sorteamos 2 ingressos neste episódio e também disponibilizamos o cupom
+<strong>PRC_Castalio</strong> que concede 30% de desconto na compra do ingresso, à partir
+do segundo lote.</p>
+<p>Já sorteamos 6 ingressos e ainda sortearemos mais 4 e para concorrer basta
+preencher o <a class="reference external" href="http://bit.ly/CastalioRubyConf">formulário</a> e estar inscrito no
+<a class="reference external" href="http://www.youtube.com/c/CastalioPodcast">canal do YouTube</a>.</p>
+<p>Pessoas que já foram sorteadas:</p>
+<ul class="simple">
+<li>Carlos HB</li>
+<li>Matheus Pellegrini Fernandes</li>
+<li>Marcos André de Souza</li>
+<li>Josué Carvalho Rodrigues</li>
+<li>Paulo Henrique Pinheiro</li>
+<li>Thiago Lopes</li>
+</ul>
+<p><a class="reference external" href="https://sorteador.com.br/sorteador/resultado/916689">Link do último sorteio</a></p>
+</div>
+<div class="section" id="assista-a-gravacao-deste-episodio">
+<h2>Assista a gravação deste episódio</h2>
+<p>Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no
+<a class="reference external" href="http://youtube.com/c/CastalioPodcast">Canal do YouTube do Castálio Podcast</a> e para ver a gravação deste episódio confira o vídeo abaixo:</p>
+
+        <p class="clearfix">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3CUMngQQQt4" allowfullscreen></iframe>
+        </div>
+        </p>
+        <p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a class="reference external" href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a class="reference external" href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio Podcast</a> e
+inscrever-se no o <a class="reference external" href="http://youtube.com/c/CastalioPodcast">Canal do YouTube do Castálio Podcast</a>.</p>
+<p>Até o próximo episódio!</p>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute agora</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-117" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-117/castalio-podcast-117.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-117/castalio-podcast-117.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        
+                </div>
+            </div>
+            </div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="http://youtube.com/c/CastalioPodcast">Canal do YouTube do Castálio Podcast</a></li>
+<li><a class="reference external" href="https://speakerdeck.com/omaciel/just-what-is-a-quality-engineer">Just What Is A Quality Engineer</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Linux">Linux</a></li>
+<li><a class="reference external" href="https://www.linux.org/docs/man1/bash.html">bash</a></li>
+<li><a class="reference external" href="http://www.tldp.org/LDP/abs/html/index.html">Advanced Bash-Scripting Guide</a></li>
+<li><a class="reference external" href="https://www.python.org/">Python</a></li>
+<li><a class="reference external" href="https://www.linux.org/docs/man1/awk.html">awk</a></li>
+<li><a class="reference external" href="https://www.linux.org/docs/man1/cut.html">cut</a></li>
+<li><a class="reference external" href="https://www.linux.org/docs/man1/grep.html">grep</a></li>
+<li><a class="reference external" href="http://docs.python-requests.org/">Requests</a></li>
+<li><a class="reference external" href="http://selenium-python.readthedocs.io/">Python Selenium</a></li>
+<li><a class="reference external" href="http://www.paramiko.org/">Paramiko</a></li>
+<li><a class="reference external" href="https://plumbum.readthedocs.io">Plumbum</a></li>
+<li><a class="reference external" href="http://www.fabfile.org/">Fabric</a></li>
+<li><a class="reference external" href="https://docs.pytest.org/en/latest/">py.test</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Test-driven_development">TDD (Test Driven Development)</a></li>
+<li><a class="reference external" href="https://travis-ci.org/">Travis</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Continuous_integration">Continuous Integration</a></li>
+<li><a class="reference external" href="http://pep8.org/">PEP8</a></li>
+<li><a class="reference external" href="https://github.com/keeppythonweird/catinabox">catinabox - Intro to Testing and Test Automation in Python</a></li>
+<li><a class="reference external" href="https://realpython.com/blog/python/test-driven-development-of-a-django-restful-api/">Test Driven Development of a Django RESTful API</a></li>
+<li><a class="reference external" href="https://jenkins.io/">Jenkins</a></li>
+<li><a class="reference external" href="https://www.atlassian.com/software/bamboo">Bamboo</a></li>
+<li><a class="reference external" href="https://www.docker.com/">Docker</a></li>
+<li><a class="reference external" href="https://docs.ansible.com/">Ansible</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Virtualization">Virtualization</a></li>
+<li><a class="reference external" href="https://puppet.com/">Puppet</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Music (Música)</strong>: <a class="reference external" href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+<!-- Mentioned -->
+<!-- Footer -->
+</div>
+
+<div id="article-tags">
+  <h2>Tags</h2>
+  <a class="label label-primary" href="https://castalio.info/tag/engenharia-de-qualidade.html">engenharia de qualidade</a>
+  <a class="label label-primary" href="https://castalio.info/tag/qe.html">qe</a>
+  <a class="label label-primary" href="https://castalio.info/tag/quality-engineering.html">quality engineering</a>
+  <a class="label label-primary" href="https://castalio.info/tag/quality-engineer.html">quality engineer</a>
+  <a class="label label-primary" href="https://castalio.info/tag/quality-assurance.html">quality assurance</a>
+  <a class="label label-primary" href="https://castalio.info/tag/qa.html">qa</a>
+  <a class="label label-primary" href="https://castalio.info/tag/linux.html">linux</a>
+  <a class="label label-primary" href="https://castalio.info/tag/bash.html">bash</a>
+  <a class="label label-primary" href="https://castalio.info/tag/python.html">python</a>
+  <a class="label label-primary" href="https://castalio.info/tag/awk.html">awk</a>
+  <a class="label label-primary" href="https://castalio.info/tag/cut.html">cut</a>
+  <a class="label label-primary" href="https://castalio.info/tag/grep.html">grep</a>
+  <a class="label label-primary" href="https://castalio.info/tag/requests.html">requests</a>
+  <a class="label label-primary" href="https://castalio.info/tag/selenium.html">selenium</a>
+  <a class="label label-primary" href="https://castalio.info/tag/paramiko.html">paramiko</a>
+  <a class="label label-primary" href="https://castalio.info/tag/plumbum.html">plumbum</a>
+  <a class="label label-primary" href="https://castalio.info/tag/fabric.html">fabric</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pytest.html">py.test</a>
+  <a class="label label-primary" href="https://castalio.info/tag/tdd.html">tdd</a>
+  <a class="label label-primary" href="https://castalio.info/tag/travis.html">travis</a>
+  <a class="label label-primary" href="https://castalio.info/tag/test-driven-development.html">test driven
+development</a>
+  <a class="label label-primary" href="https://castalio.info/tag/continuous-integration.html">continuous integration</a>
+  <a class="label label-primary" href="https://castalio.info/tag/pep8.html">pep8</a>
+  <a class="label label-primary" href="https://castalio.info/tag/cantinabox.html">cantinabox</a>
+  <a class="label label-primary" href="https://castalio.info/tag/jenkins.html">jenkins</a>
+  <a class="label label-primary" href="https://castalio.info/tag/bamboo.html">bamboo</a>
+  <a class="label label-primary" href="https://castalio.info/tag/docker.html">docker</a>
+  <a class="label label-primary" href="https://castalio.info/tag/ansible.html">ansible</a>
+  <a class="label label-primary" href="https://castalio.info/tag/virtualization.html">virtualization</a>
+  <a class="label label-primary" href="https://castalio.info/tag/puppet.html">puppet</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comentários</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'episodio-117-engenharia-de-qualidade-101';
+                var disqus_url = 'https://castalio.info/episodio-117-engenharia-de-qualidade-101.html';
+
+            var disqus_config = function () {
+                this.language = "pt_br";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+            </div>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2021 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
+
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="https://archive.org/details/castalio-podcast-117&callback=set_download_count?output=json"></script>
+</body>
+</html>

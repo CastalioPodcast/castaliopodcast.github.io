@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt"
+<html lang="pt_br"
 >
 <head>
     <title>python - Castálio Podcast</title>
@@ -9,35 +9,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+    <link href="https://castalio.info/images/favicon.ico" rel="icon">
 
 
-    <meta name="author" content="Og Maciel & Eliézer Rezende" />
+    <meta name="author" content="Castálio Podcast" />
     <meta name="keywords" content="python" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="Castálio Podcast" />
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="Castálio Podcast"/>
-        <meta property="og:url" content="https://castaliopodcast.github.io"/>
+        <meta property="og:url" content="https://castalio.info"/>
         <meta property="og:description" content="Castálio Podcast"/>
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="https://castaliopodcast.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="https://castaliopodcast.github.io/theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://castaliopodcast.github.io/theme/css/style.css" type="text/css"/>
+    <link href="https://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://castalio.info/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://castalio.info/theme/css/style.css" type="text/css"/>
 
-        <link href="https://castaliopodcast.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        <link href="https://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
               title="Castálio Podcast ATOM Feed"/>
-        <link href="https://castaliopodcast.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+        <link href="https://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
               title="Castálio Podcast RSS Feed"/>
 
 </head>
 <body>
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -46,266 +48,487 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="https://castaliopodcast.github.io/" class="navbar-brand">
-Castálio Podcast            </a>
+            <a href="https://castalio.info/" class="navbar-brand">
+<img src="https://castalio.info/images/navbar-logo.png" width="20"/>             </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li><a href="https://castaliopodcast.github.io/pages/sobre.html">
-                             Sobre
-                          </a></li>
-                        <li >
-                            <a href="https://castaliopodcast.github.io/category/noticia.html">Notícia</a>
-                        </li>
-                        <li >
-                            <a href="https://castaliopodcast.github.io/category/podcast.html">Podcast</a>
-                        </li>
+                    <li><a href="/sobre-o-castalio.html">Sobre</a></li>
+                    <li><a href="/agenda.html">Agenda</a></li>
+                    <li><a href="/archives.html">Episódios</a></li>
+                    <li><a href="/tag/english.html">English Episodes</a></li>
+                    <li><a href="/top5.html">Top 5</a></li>
+                    <li><a href="/youtube.html">YouTube</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inscreva-se <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://overcast.fm/itunes446259197/cast-lio-podcast">Overcast</a></li>
+                            <li><a href="http://pca.st/castalio">Pocket Casts</a></li>
+                            <li><a href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn">Spotify</a></li>
+                            <li><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a></li>
+                            <li class="divider"></li>
+                            <li><a href="http://feeds.feedburner.com/CastalioPodcastMP3">FeedBurner (RSS Feed)</a></li>
+                            <li><a href="https://www.youtube.com/castaliopodcast">YouTube</a></li>
+                        </ul>
+                    </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="https://castaliopodcast.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            <form class="navbar-form navbar-left" action="/search.html">
+                <div class="form-group">
+                    <input type="text" id="tipue_search_input"
+                    class="form-control" placeholder="Pesquisar" name="q" required>
+                </div>
+            </form>
+              <li><a href="https://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Arquivos</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
 </div> <!-- /.navbar -->
 <!-- Banner -->
-<!-- End Banner -->
+<style>
+	#banner{
+	    background-color: #fff;
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+        <div class="banner-image">
+          <a href="https://castalio.info"><img class="img-circle" height="" alt="Castálio Podcast" src="https://castalio.info/images/castalio-podcast.png"></a>
+				<p class="intro">Um podcast inspirado prá castálio!</p>
+        </div>
+	</div>
+</div><!-- End Banner -->
 <div class="container">
     <div class="row">
-        <div class="col-sm-9">
 
+        <div class="col-lg-12">
             <article>
-                <h2><a href="https://castaliopodcast.github.io/edicao-de-2-anos-og-maciel-red-hat.html">Edição de 2 Anos - Og Maciel: Red Hat</a></h2>
-                <div class="summary"><p><img alt="Og Maciel: Red Hat" src="https://castaliopodcast.github.io/images/ogmaciel.jpg" /></p>
-<p>Usando um velho cliché, realmente parece que foi somente ôntem que eu e
-o Evandro, um dia batendo papo pelo Skype, resolvemos iniciar um
-programa de podcast para entrevistar as personalidades do mundo de
-software livre brasileiro, e tentar conhecer um pouco mais sobre os
-"bastidores" de suas vidas, seus ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/edicao-de-2-anos-og-maciel-red-hat.html">more ...</a>
+                <div class="post-image">
+                    <img src="/images/spacedevs.jpg" alt="Marcus Pereira" data-adaptive-background="1"/>
                 </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/luciano-ramalho-oficinas-turing.html">Luciano Ramalho: Oficinas Turing</a></h2>
-                <div class="summary"><p><img alt="Luciano Ramalho: Oficinas Turing" src="https://castaliopodcast.github.io/images/lucianoramalho.jpg" /></p>
-<p>Um dias destes eu estava procurando documentação sobre umas coisas da
-linguagem python quando me deparei com uma apresentação do <strong>Luciano
-Ramalho</strong>, o entrevistado deste episódio deste episódio. O que me chamou
-atenção não foi nem tanto a qualidade do material ou a didática do
-mesmo, mas sim o fato ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/luciano-ramalho-oficinas-turing.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1.html">Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1</a></h2>
-                <div class="summary"><p><img alt="Carlos Brando e Rafael Rosa Fu: GrokPodcast" src="https://castaliopodcast.github.io/images/grokpodcast.png" /></p>
-<p>Olá pessoal e sejam muito bem vindos ao primeiro episódio de outubro!
-Desta vez eu tive a oportunidade de conversar pelo <strong>Google Hangout</strong>
-com o <strong>Carlos Brando</strong> e <strong>Rafael Rosa Fu</strong> do
-<a href="http://grokpodcast.com/" title="http://grokpodcast.com/"><strong>GrokPodcast</strong></a>!
-Foi super divertido conversar com eles, e o bate-papo foi tão bom que eu
-decidi dividir a ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/bruno-goncalves-biglinux.html">Bruno Gonçalves: BigLinux</a></h2>
-                <div class="summary"><p><img alt="Bruno Gonçalves: BigLinux" src="https://castaliopodcast.github.io/images/brunogoncalves.jpg" /></p>
-<p>Na semana passada eu tive o grande prazer e honra de participar do
-<a href="http://www.ubuntero.com.br/" title="http://www.ubuntero.com.br/">Opencast</a> em
-um
-<a href="http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/" title="http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/">episódio</a>
-onde discutimos várias coisas relacionadas à distribuições Linux! Por
-coincidência, meu amigo <strong>Vladimir Melo</strong> tinha me recomendando
-entrevistar uma pessoa que por muito tempo tinha criado e mantido uma
-distribuição nacional, e recentemente ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/bruno-goncalves-biglinux.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/caike-souza-envy-labs.html">Caike Souza: Envy Labs</a></h2>
-                <div class="summary"><p><img alt="Caike Souza: Envy Labs" src="https://castaliopodcast.github.io/images/caikesouza.jpg" /></p>
-<p>Nem parece que já passaram duas semanas desde o último episódio, mas
-mais uma vez tive o prazer de entrevistar uma pessoa prá lá de
-interessante e divertida: o <strong>Caike Souza</strong>! Foi durante a minha
-entrevista com o <a href="http://www.castalio.info/henrique-bastos-welcome-to-the-django/" title="http://www.castalio.info/henrique-bastos-welcome-to-the-django/">Henrique
-Bastos</a>
-que eu fiquei sabendo sobre ele, mas foi somente esta ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/caike-souza-envy-labs.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/fabio-kung-e-pedro-belo-heroku.html">Fábio Kung e Pedro Belo: Heroku</a></h2>
-                <div class="summary"><p><img alt="Fábio Kung e Pedro Belo: Heroku" src="https://castaliopodcast.github.io/images/heroku.png" /></p>
-<p>Olá pessoal e sejam bem-vindos à mais um episódio, desta vez com dois
-convidados: <strong>Fábio Kung</strong> e <strong>Pedro Belo</strong>, que atualmente trabalham na
-companhia Californiana <strong>Heroku</strong>! Se você escutou os dois últimos
-episódios, você deve se lembrar que eu mencionei sobre esta companhia
-com o <a href="http://www.castalio.info/henrique-bastos-welcome-to-the-django/" title="http://www.castalio.info/henrique-bastos-welcome-to-the-django/">Henrique
-Bastos</a>
-e <a href="http://www.castalio.info/julio-monteiro-jobscore/" title="http://www.castalio.info/julio-monteiro-jobscore/">Júlio
-Monteiro ...</a></p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/fabio-kung-e-pedro-belo-heroku.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/henrique-bastos-welcome-to-the-django.html">Henrique Bastos: Welcome to the Django</a></h2>
-                <div class="summary"><p><img alt="Henrique Bastos: Welcome to the Django" src="https://castaliopodcast.github.io/images/henriquebastos.png" /></p>
-<p>Há mais ou menos 1 anos e meio atrás eu tinha começado a aprender a
-programar com o framework <strong>Django</strong> e durante minhas pesquisas pela net
-encontrei o projeto do <strong>Henrique Bastos</strong>: <strong>Welcome to the Django</strong>.
-Não demorou muito para ver a qualidade e o potencial que este curso
-oferece ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/henrique-bastos-welcome-to-the-django.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/rodrigo-belem-ubuntu-brasil.html">Rodrigo Belém: Ubuntu Brasil</a></h2>
-                <div class="summary"><p><img alt="Rodrigo Belém: Ubuntu Brasil" src="https://castaliopodcast.github.io/images/rodrigobelem.png" /></p>
-<p>Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo episódio,
-este comemorando nosso <strong>primeiro ano no ar</strong>! Aproveitei a oportunidade
-então para dar o pontapé inicial em uma nova série, desta vez focada na
-criação do Ubuntu Brasil!!! Ame-a ou não, a distribuição <strong>Ubuntu</strong> teve
-uma ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/rodrigo-belem-ubuntu-brasil.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/marcelo-hashimoto-polly-twitter-client.html">Marcelo Hashimoto: Polly Twitter Client</a></h2>
-                <div class="summary"><p><img alt="Marcelo Hashimoto" src="https://castaliopodcast.github.io/images/marcelohashimoto.jpg" /></p>
-<p>Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste
-ano! O convidado de hoje é o <strong>Marcelo Hashimoto</strong>, desenvolvedor do
-cliente de <strong>Twitter</strong> chamado <strong>Polly</strong>! Se você curte programar com
-<strong>Gtk</strong> e <strong>Python</strong>, ou tem interesse em conhecer um aplicativo
-específico para o seu sistem <strong>Linux</strong> para ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/marcelo-hashimoto-polly-twitter-client.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="https://castaliopodcast.github.io/pete-savage-git-in-the-trenches-gitt.html">Pete Savage: Git In The Trenches (GITT)</a></h2>
-                <div class="summary"><p><img alt="Pete Savage: Git In The Trenches" src="https://castaliopodcast.github.io/images/petesavage.png" /></p>
-<p>First off I'd like to welcome all the new visitors to this podcast's
-<strong>17th episode</strong> and the very <strong>first one</strong> done in <strong>English</strong>! This
-podcast was born out of my curiosity of getting to know a bit more about
-the people I have met, whether in person or ...</p>
-                    <a class="btn btn-default btn-xs" href="https://castaliopodcast.github.io/pete-savage-git-in-the-trenches-gitt.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-148-marcus-pereira-spacedevs.html">Episódio 148: Marcus Pereira - Spacedevs</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2020-07-20T00:00:00-04:00">Mon 20 July 2020</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
 
-        <ul class="pagination">
-                <li class="prev disabled"><a href="#">&laquo;</a></li>
-                    <li class="active"><a
-                            href="https://castaliopodcast.github.io/tag/python.html">1</a></li>
-                    <li class=""><a
-                            href="https://castaliopodcast.github.io/tag/python2.html">2</a></li>
-                <li class="next"><a
-                        href="https://castaliopodcast.github.io/tag/python2.html">&raquo;</a></li>
-        </ul>
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-148-marcus-pereira-spacedevs.html#disqus_thread" data-disqus-identifier="episodio-148-marcus-pereira-spacedevs">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje tem um canal no YouTube, um site de treinamentos
+gratuitos e, também, faz lives de live code Twitch. Marcus Pereira seja muito
+bem vindo ao Castálio Podcast.</p>
+
+<div class="clearfix"></div>
+            <div class="panel panel-default">
+                <div class="panel-heading">Escute enquanto lê os show notes!</div>
+                <div class="panel-body">
+                    
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-148" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-148/castalio-podcast-148.mp3"><i class="fa fa-download"></i> MP3 …</a></div></div></div></div>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-148-marcus-pereira-spacedevs.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/pyjamas.png" alt="Pyjamas - Engenharia de Qualidade com Python" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-145-pyjamas-engenharia-de-qualidade-com-python.html">Episódio 145: Pyjamas - Engenharia de Qualidade com Python</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2019-12-31T00:00:00-05:00">Tue 31 December 2019</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-145-pyjamas-engenharia-de-qualidade-com-python.html#disqus_thread" data-disqus-identifier="episodio-145-pyjamas-engenharia-de-qualidade-com-python">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje estamos trazendo um episódio bem diferente! Estamos trazendo um episódio
+que foi gravado ao vivo durante a Pyjamas Conf: um evento de Python e
+tecnologias que aconteceu nos dias 13 e 14 de Dezembro de 2019, das …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-145-pyjamas-engenharia-de-qualidade-com-python.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/osvaldo-santana.jpg" alt="Osvaldo Santana" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-144-osvaldo-santana-o-inicio-da-comunidade-python-brasil.html">Episódio 144: Osvaldo Santana - O Início da Comunidade Python Brasil</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2019-10-28T00:00:00-04:00">Mon 28 October 2019</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-144-osvaldo-santana-o-inicio-da-comunidade-python-brasil.html#disqus_thread" data-disqus-identifier="episodio-144-osvaldo-santana-o-inicio-da-comunidade-python-brasil">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é desenvolvedor Python e empreendedor. Participou
+ativamente na criação e organização da comunidade Python Brasil. Suas
+contribuições para a comunidade Python Brasil foi reconhecida em 2014, na
+Python Brasil 10 realizada em Porto de …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-144-osvaldo-santana-o-inicio-da-comunidade-python-brasil.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/david-kopec.jpg" alt="David Kopec" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episode-142-david-kopec-classic-computer-science-problems-in-python.html">Episode 142: David Kopec - Classic Computer Science Problems in Python</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2019-06-10T00:00:00-04:00">Mon 10 June 2019</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episode-142-david-kopec-classic-computer-science-problems-in-python.html#disqus_thread" data-disqus-identifier="episode-142-david-kopec-classic-computer-science-problems-in-python">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Our guest for today's episode is an assistant professor of Computer Science and
+Innovation at Champlain College in Burlington, Vermont. He is the author of
+<a class="reference external" href="https://www.apress.com/us/book/9781430264811">Dart for Absolute Beginners</a> (Apress, 2014), <a class="reference external" href="https://www.manning.com/books/classic-computer-science-problems-in-swift">Classic Computer Science
+Problems in Swift</a> (Manning …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episode-142-david-kopec-classic-computer-science-problems-in-python.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/eduardo-mendes.png" alt="Eduardo Mendes" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-140-eduardo-mendes-live-de-python.html">Episódio 140: Eduardo Mendes - Live de Python</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2019-04-29T00:00:00-04:00">Mon 29 April 2019</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-140-eduardo-mendes-live-de-python.html#disqus_thread" data-disqus-identifier="episodio-140-eduardo-mendes-live-de-python">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é apto fazedor de lambdas, apaixonado por software
+livre e ciência. Tem um canal no YouTube com mais de 5 mil inscritos e 130 mil
+visualizações e é responsável pela Live de Python. Eduardo …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-140-eduardo-mendes-live-de-python.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/elcio-ferreira.jpg" alt="Elcio Ferreira" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-139-elcio-ferreira-padroes-e-desenvolvimento-web.html">Episódio 139: Elcio Ferreira - Padrões e Desenvolvimento Web</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2019-03-25T00:00:00-04:00">Mon 25 March 2019</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-139-elcio-ferreira-padroes-e-desenvolvimento-web.html#disqus_thread" data-disqus-identifier="episodio-139-elcio-ferreira-padroes-e-desenvolvimento-web">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é sócio fundador da Visie Padrões Web. Pioneiro no uso
+e divulgação dos padrões do W3C no Brasil, ele já treinou equipes de dezenas de
+empresas como Globo.com, Terra, Petrobras, iG e Locaweb …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-139-elcio-ferreira-padroes-e-desenvolvimento-web.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/ana-paula-gomes.jpg" alt="Ana Paula Gomes" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-138-ana-paula-gomes-qualidade-de-software.html">Episódio 138: Ana Paula Gomes - Qualidade de Software</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2018-12-17T00:00:00-05:00">Mon 17 December 2018</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-138-ana-paula-gomes-qualidade-de-software.html#disqus_thread" data-disqus-identifier="episodio-138-ana-paula-gomes-qualidade-de-software">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nossa convidada de hoje é baiana com muito orgulho e desenvolvedora backend na
+Thermondo. Mestre em Ciência da Computação pela UFMG. Adora viajar, boas
+conversas e cervejas de cor avermelhada. Já foi perna de pau titular do time …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-138-ana-paula-gomes-qualidade-de-software.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/vicente-marcal.jpg" alt="Vicente Marçal" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-137-vicente-marcal-filosofia-com-python.html">Episódio 137: Vicente Marçal - Filosofia com Python</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2018-11-27T00:00:00-05:00">Tue 27 November 2018</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-137-vicente-marcal-filosofia-com-python.html#disqus_thread" data-disqus-identifier="episodio-137-vicente-marcal-filosofia-com-python">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é professor adjunto do Departamento de Filosofia da
+UNIR - Universidade Federal de Rondônia. Doutorando em Psicologia Social e do
+Trabalho pelo IP-USP - Instituto de Psicologia da Universidade de São Paulo.
+Mestre em Filosofia pela …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-137-vicente-marcal-filosofia-com-python.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/pizza-de-dados.jpg" alt="Pizza de Dados" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-136-pizza-de-dados.html">Episódio 136: Pizza de Dados</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2018-11-12T00:00:00-05:00">Mon 12 November 2018</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-136-pizza-de-dados.html#disqus_thread" data-disqus-identifier="episodio-136-pizza-de-dados">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nossos convidados de hoje são de um podcast amigo nosso o <a class="reference external" href="http://pizzadedados.com/">Pizza de Dados</a>.
+Hoje vamos conhecer um pouco mais sobre o podcast e seus participantes. Gustavo
+Coelho, Jessica Temporal e Leticia Portella sejam bem-vindos ao Castálio
+Podcast …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-136-pizza-de-dados.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+            <article>
+                <div class="post-image">
+                    <img src="/images/fernando-masanori.jpg" alt="Fernando Masanori" data-adaptive-background="1"/>
+                </div>
+                <div class="post-body">
+                    <h2><a href="https://castalio.info/episodio-135-fernando-masanori-ensino-de-python-ao-redor-do-mundo.html">Episódio 135: Fernando Masanori - Ensino de Python ao Redor do Mundo</a></h2>
+<div class="post-meta">
+    <span class="published">
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        <time datetime="2018-10-22T00:00:00-04:00">Mon 22 October 2018</time>
+    </span>
+        <span class="authors">
+            <i class="fa fa-user" aria-hidden="true"></i>
+                <a href="https://castalio.info/author/castalio-podcast.html">Castálio Podcast</a>        </span>
+
+
+
+        <span class="comments-count">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+<a href="https://castalio.info/episodio-135-fernando-masanori-ensino-de-python-ao-redor-do-mundo.html#disqus_thread" data-disqus-identifier="episodio-135-fernando-masanori-ensino-de-python-ao-redor-do-mundo">Comentários</a>        </span>
+
+
+
+    
+</div><!-- /.post-info -->                    <div class="summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é professor na <a class="reference external" href="http://fatecsjc-prd.azurewebsites.net/">FATEC - São José dos Campos</a>, ama
+ensinar e já viajou para vários lugares do mundo para falar e ensinar
+<a class="reference external" href="https://www.python.org/">Python</a>, é o autor de um dos maiores cursos do Brasil sobre …</p>
+                        <a class="btn btn-default btn-xs" href="https://castalio.info/episodio-135-fernando-masanori-ensino-de-python-ao-redor-do-mundo.html">Leia mais...</a>
+                    </div>
+                </div>
+            </article>
+
+        <div class="text-center">
+          <ul class="pagination">
+                  <li class="prev disabled"><a href="#">&laquo;</a></li>
+                      <li class="active"><a
+                              href="https://castalio.info/tag/python.html">1</a></li>
+                      <li class=""><a
+                              href="https://castalio.info/tag/python2.html">2</a></li>
+                      <li class=""><a
+                              href="https://castalio.info/tag/python3.html">3</a></li>
+                      <li class=""><a
+                              href="https://castalio.info/tag/python4.html">4</a></li>
+                      <li class=""><a
+                              href="https://castalio.info/tag/python5.html">5</a></li>
+                      <li class=""><a
+                              href="https://castalio.info/tag/python6.html">6</a></li>
+                  <li class="next"><a
+                          href="https://castalio.info/tag/python2.html">&raquo;</a></li>
+          </ul>
         </div>
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-
-<section class="well well-sm">
-    <ul class="list-group list-group-flush">
-            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
-              <ul class="list-group" id="social">
-                <li class="list-group-item"><a href="https://twitter.com/castaliopod"><i class="fa fa-@castaliopod-square fa-lg"></i> @castaliopod</a></li>
-              </ul>
-            </li>
-
-
-
-            <li class="list-group-item"><a href="https://castaliopodcast.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
-                <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/ubuntu-linux.html">
-                            Ubuntu Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/github.html">
-                            Github
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://castaliopodcast.github.io/tag/python.html">
-                            python
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/c.html">
-                            C++
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/slackware-linux.html">
-                            Slackware Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/wordpress.html">
-                            WordPress
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/debian-linux.html">
-                            Debian Linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/gnome.html">
-                            GNOME
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/netflix.html">
-                            Netflix
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://castaliopodcast.github.io/tag/canonical.html">
-                            Canonical
-                        </a>
-                    </li>
-                </ul>
-            </li>
-    </ul>
-</section>
-            </aside>
         </div>
     </div>
 </div>
-<footer>
+<footer id="footer">
    <div class="container">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy; 2013 Og Maciel & Eliézer Rezende
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><a href="#"><i class="fa fa-arrow-up"></i> Voltar para o inicio</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+                   <li><a title="Spotify" href="https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"><i class="fa fa-spotify fa-lg"></i> Spotify</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="YouTube" href="http://youtube.com/castaliopodcast"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="Elyézer Rezende" href="http://elyezer.com">Elyézer Rezende</a></li>
+                   <li><a title="Bruno Rocha" href="http://brunorocha.org">Bruno Rocha</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2020 Castálio Podcast
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
       </div>
    </div>
 </footer>
-<script src="https://castaliopodcast.github.io/theme/js/jquery.min.js"></script>
+<script src="https://castalio.info/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="https://castaliopodcast.github.io/theme/js/bootstrap.min.js"></script>
+<script src="https://castalio.info/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="https://castaliopodcast.github.io/theme/js/respond.min.js"></script>
+<script src="https://castalio.info/theme/js/respond.min.js"></script>
 
-    <script src="https://castaliopodcast.github.io/theme/js/bodypadding.js"></script>
+    <script src="https://castalio.info/theme/js/bodypadding.js"></script>
     <!-- Disqus -->
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -321,6 +544,23 @@ the people I have met, whether in person or ...</p>
         }());
     </script>
     <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
 
 </body>
 </html>

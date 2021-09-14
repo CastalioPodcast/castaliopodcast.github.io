@@ -1,0 +1,11 @@
+User-agent: *
+
+Sitemap: http://castalio.info/sitemap.xml
+
+Disallow: /archives.html
+Disallow: /author/*
+Disallow: /category/*
+Disallow: /feeds/*
+Disallow: /images/*
+Disallow: /tag/*
+Disallow: /theme/
