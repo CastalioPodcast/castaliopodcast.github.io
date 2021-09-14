@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castalio.info/index.html</loc>
-<lastmod>2021-09-14T20:38:47-00:00</lastmod>
+<lastmod>2021-09-14T20:47:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://castalio.info/archives.html</loc>
-<lastmod>2021-09-14T20:38:47-00:00</lastmod>
+<lastmod>2021-09-14T20:47:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://castalio.info/categories.html</loc>
-<lastmod>2021-09-14T20:38:47-00:00</lastmod>
+<lastmod>2021-09-14T20:47:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castalio.info/top5.html</loc>
-<lastmod>2021-09-14T20:38:47-00:00</lastmod>
+<lastmod>2021-09-14T20:47:22-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
