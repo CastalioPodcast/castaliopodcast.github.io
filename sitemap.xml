@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castalio.info/index.html</loc>
-<lastmod>2021-09-14T20:47:22-00:00</lastmod>
+<lastmod>2021-10-05T21:35:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://castalio.info/archives.html</loc>
-<lastmod>2021-09-14T20:47:22-00:00</lastmod>
+<lastmod>2021-10-05T21:35:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://castalio.info/categories.html</loc>
-<lastmod>2021-09-14T20:47:22-00:00</lastmod>
+<lastmod>2021-10-05T21:35:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castalio.info/top5.html</loc>
-<lastmod>2021-09-14T20:47:22-00:00</lastmod>
+<lastmod>2021-10-05T21:35:53-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -48,6 +48,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://castalio.info/youtube.html</loc>
 <lastmod>2017-07-07T16:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://castalio.info/episodio-155-alynne-ferreira-izabela-cristina-e-juliana-barros-python-brasil-2021.html</loc>
+<lastmod>2021-10-05T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1216,7 +1223,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castalio.info/category/episodes.html</loc>
-<lastmod>2021-09-06T00:00:00-04:56</lastmod>
+<lastmod>2021-10-05T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1231,6 +1238,41 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://castalio.info/category/podcast.html</loc>
 <lastmod>2017-08-28T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://castalio.info/tag/alynne-ferreira.html</loc>
+<lastmod>2021-10-05T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://castalio.info/tag/izabela-cristina.html</loc>
+<lastmod>2021-10-05T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://castalio.info/tag/juliana-barros.html</loc>
+<lastmod>2021-10-05T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://castalio.info/tag/python-brasil.html</loc>
+<lastmod>2021-10-05T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://castalio.info/tag/python-brasil-2021.html</loc>
+<lastmod>2021-10-05T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1300,13 +1342,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castalio.info/tag/loyanne-cristine.html</loc>
-<lastmod>2020-11-30T00:00:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://castalio.info/tag/python-brasil.html</loc>
 <lastmod>2020-11-30T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -17267,7 +17302,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://castalio.info/author/castalio-podcast.html</loc>
-<lastmod>2021-09-06T00:00:00-04:56</lastmod>
+<lastmod>2021-10-05T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
