@@ -103,6 +103,16 @@ beer:
   Old Speckled Hen:
     url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
 book:
+  Miss Davis:
+    url: https://www.goodreads.com/book/show/50370906-miss-davis
+  Neuromancer:
+    url: https://www.goodreads.com/book/show/6088007-neuromancer
+  Morte Matada:
+    url: https://www.goodreads.com/book/show/50535053-morte-matada
+  Forever Someone Else:
+    url: https://www.goodreads.com/book/show/18207007-forever-someone-else
+  Noites Brancas:
+    url: https://www.goodreads.com/book/show/13500004-noites-brancas
   Principles of Marketing:
     url: https://www.goodreads.com/book/show/50384359-principles-of-marketing
   Bold:
@@ -970,6 +980,18 @@ game:
   World of Warcraft:
     url: https://en.wikipedia.org/wiki/World_of_Warcraft
 movie:
+  'Evangelion: 3.0+1.01 - A Esperança':
+    url: https://www.imdb.com/title/tt1695360/
+  Lovecraft Country:
+    url: https://www.imdb.com/title/tt6905686/
+  'Demon Slayer: Kimetsu no Yaiba':
+    url: https://www.imdb.com/title/tt9335498/
+  Ritmo Quente:
+    url: https://www.imdb.com/title/tt0092890/
+  Avatar - A Lenda de Aang:
+    url: https://www.imdb.com/title/tt0417299/
+  Avatar - A Lenda de Korra:
+    url: https://www.imdb.com/title/tt1695360/
   Contato:
     url: https://www.imdb.com/title/tt0118884/
   O Sexto Sentido:
@@ -1643,6 +1665,16 @@ movie:
   United States of Tara:
     url: https://www.imdb.com/title/tt1001482/
 music:
+  DUDA BEAT - Nem Um Pouquinho (feat. Trevo):
+    url: https://www.last.fm/music/DUDA+BEAT/_/Nem+Um+Pouquinho+(feat.+Trevo)
+  CL - SPICY:
+    url: https://www.last.fm/music/CL/_/SPICY
+  Forrozão Tropykalia - Planeta de Cores:
+    url: https://www.last.fm/music/Forroz%C3%A3o+Tropykalia/_/Planeta+de+cores
+  Gloria Groove - A Tua Voz:
+    url: https://www.last.fm/music/Gloria+Groove/_/A+Tua+Voz
+  Bela Maria - O Que Tu Faz Comigo:
+    url: https://www.last.fm/music/BELA+MARIA/_/O+Que+Tu+Faz+Comigo
   Goldfish:
     url: https://www.last.fm/music/Goldfish
   Alok:
