@@ -1,13 +1,22 @@
-Episódio 69: Renzo Nucciteli - Python Brasil
-############################################
-:date: 2015-11-08
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-69/castalio-podcast-69.mp3
-:tags: aurelio jargas, funções zz, moneylog, miguxeitor
-:description: Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.
-:image: images/renzonucciteli.png
-:image-alt: Renzo Nucciteli - Python Brasil
+---
+title: "Episódio 69: Renzo Nucciteli - Python Brasil"
+aliases:
+- /episodio-69-renzo-nucciteli-python-brasil.html
+date: 2015-11-08
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-69/castalio-podcast-69.mp3"
+tags:
+- aurelio jargas
+- funções zz
+- moneylog
+- miguxeitor
+description: Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.
+image: /images/renzonucciteli.png
+image-alt: Renzo Nucciteli - Python Brasil
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -30,31 +39,31 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-69
+{{< podcast castalio-podcast-69 >}}
 
-.. top5::
-
-    :movie:
-        * Sonho de Liberdade
-        * Coração Valente
-        * Tropa de Elite
-        * Interestelar
-        * O Ilusionista
-        * O Grande Truque
-    :music:
-        * Pearl Jam
-        * Legião Urbana
-        * Raimundos
-        * Mamonas Assassinas
-        * Rastapé
-        * Falamansa
-    :book:
-        * Python Fluente
-        * Programming in Lua
-        * Dive into Python
-        * Python Cookbook
-        * The Incredible Secret Money Machine
-        * Como Fazer Amigos e Influenciar Pessoas
+{{< top5 >}}
+movie:
+    * Sonho de Liberdade
+    * Coração Valente
+    * Tropa de Elite
+    * Interestelar
+    * O Ilusionista
+    * O Grande Truque
+music:
+    * Pearl Jam
+    * Legião Urbana
+    * Raimundos
+    * Mamonas Assassinas
+    * Rastapé
+    * Falamansa
+book:
+    * Python Fluente
+    * Programming in Lua
+    * Dive into Python
+    * Python Cookbook
+    * The Incredible Secret Money Machine
+    * Como Fazer Amigos e Influenciar Pessoas
+{{< /top5 >}}
 
 
 Links
@@ -66,7 +75,7 @@ Links
 * `Python Birds`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

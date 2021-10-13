@@ -1,17 +1,39 @@
-=============================================
-Episódio 121: Eduardo Cuducos - Linguagem Elm
-=============================================
-
-:date: 2017-10-09
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-121/castalio-podcast-121.mp3
-:tags: eduardo cuducos, elm, elm lang, operação serenata de amor, expedição
-       liberdade, mútuo, internet sem limites, node.js, vue.js, react, redux,
-       elm guide, elm in action, vamos aprender elm, ellie, demo, bob dylan -
-       hurricane, dançando no escuro, big fish, a vida é bela, musashi, alan
-       watts
-:image: images/eduardo-cuducos.jpg
-:image-alt: Eduardo Cuducos - Linguagem Elm
+---
+title: "Episódio 121: Eduardo Cuducos - Linguagem Elm"
+aliases:
+- /episodio-121-eduardo-cuducos-linguagem-elm.html
+date: 2017-10-09
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-121/castalio-podcast-121.mp3"
+tags:
+- eduardo cuducos
+- elm
+- elm lang
+- operação serenata de amor
+- expedição liberdade
+- mútuo
+- internet sem limites
+- node.js
+- vue.js
+- react
+- redux
+- elm guide
+- elm in action
+- vamos aprender elm
+- ellie
+- demo
+- bob dylan - hurricane
+- dançando no escuro
+- big fish
+- a vida é bela
+- musashi
+- alan watts
+image: /images/eduardo-cuducos.jpg
+image-alt: Eduardo Cuducos - Linguagem Elm
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -28,8 +50,7 @@ Eduardo Cuducos, seja bem vindo ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-121
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-121" heading="Escute enquanto lê os show notes!" >}}
 
 
 Recados
@@ -65,7 +86,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: rq37oZvUuNw
+{{< youtube rq37oZvUuNw >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -87,15 +108,15 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/eduardo-cuducos.jpg" alt="Eduardo Cuducos" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/eduardo-cuducos.jpg" alt="Eduardo Cuducos" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Eduardo Cuducos</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/cuducos">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://cuducos.me/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/cuducos/">Twitter</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/user/cuducos">YouTube</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/cuducos">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://cuducos.me/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/cuducos/">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/user/cuducos">YouTube</a></li>
                 </ul>
             </div>
             </div>
@@ -103,21 +124,20 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-121
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-121" heading="Escute Agora" >}}
 
-.. top5::
-
-    :music:
-        * Bob Dylan - Hurricane
-        * The Quantic Soul Orchestra - Stampede
-    :movie:
-        * Dançando no Escuro
-        * Big Fish
-        * A Vida é Bela
-    :book:
-        * Musashi
-        * Alan Watts
+{{< top5 >}}
+music:
+    * Bob Dylan - Hurricane
+    * The Quantic Soul Orchestra - Stampede
+movie:
+    * Dançando no Escuro
+    * Big Fish
+    * A Vida é Bela
+book:
+    * Musashi
+    * Alan Watts
+{{< /top5 >}}
 
 Links
 =====
@@ -138,7 +158,7 @@ Links
 * `Ellie`_
 * `Código fonte do demo`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

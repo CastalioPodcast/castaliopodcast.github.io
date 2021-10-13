@@ -1,6 +1,1 @@
-*.pyc
-/*.pid
-/.DS_Store
-/content/.DS_Store
-cache/
-output/
+/public

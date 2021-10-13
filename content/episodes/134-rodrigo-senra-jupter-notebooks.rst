@@ -1,19 +1,56 @@
-===============================================
-Episódio 134: Rodrigo Senra - Jupyter Notebooks
-===============================================
-
-:date: 2018-10-15
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-134/castalio-podcast-134.mp3
-:tags: alexandre oliva, anaconda, apache zeppelin, associação python brasil, azure notebooks,
-       beakerx, binder, c++, closure, colaboratory, donald knuth, fernando
-       pérez, fortran, graphql, guido van rossum, ipython, java, javascript,
-       json, jupyter kenels, jupyter notebooks, jupyter notebooks, jupyterhub,
-       jupyterlab, jupyterlab, latex, lisp, literate programming, lua, matlab,
-       perl, cinerdia, prêmio dorneles tremea, python, r, rodrigo senra, scala,
-       spark notebook, tcl, typescript, zope
-:image: images/rodrigo-senra.jpg
-:image-alt: Rodrigo Senra
+---
+title: "Episódio 134: Rodrigo Senra - Jupyter Notebooks"
+aliases:
+- /episodio-134-rodrigo-senra-jupyter-notebooks.html
+date: 2018-10-15
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-134/castalio-podcast-134.mp3"
+tags:
+- alexandre oliva
+- anaconda
+- apache zeppelin
+- associação python brasil
+- azure notebooks
+- beakerx
+- binder
+- c++
+- closure
+- colaboratory
+- donald knuth
+- fernando pérez
+- fortran
+- graphql
+- guido van rossum
+- ipython
+- java
+- javascript
+- json
+- jupyter kenels
+- jupyter notebooks
+- jupyter notebooks
+- jupyterhub
+- jupyterlab
+- jupyterlab
+- latex
+- lisp
+- literate programming
+- lua
+- matlab
+- perl
+- cinerdia
+- prêmio dorneles tremea
+- python
+- r
+- rodrigo senra
+- scala
+- spark notebook
+- tcl
+- typescript
+- zope
+image: /images/rodrigo-senra.jpg
+image-alt: Rodrigo Senra
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -28,8 +65,7 @@ Tremea`_ por contribuições para a comunidade Python Brasil.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-134
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-134" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -52,38 +88,38 @@ Tópicos abordados neste episódio
 * O que é `Binder`_?
 
 
-.. top5::
-
-    :music:
-      * Jack Johnson
-      * Adele
-      * Kings of Convenience
-      * Claude Debussy - Clair de lune
-      * Carl Orff - Carmina Burana: O Fortuna
-      * The Beatles
-      * Sting
-    :movie:
-      * Festim Diabólico
-      * The Party
-      * Star Wars Episode V - O Império Contra Ataca
-      * Dune
-      * Clue
-      * Dead Poets Society
-      * Una Pura Formalitá
-      * The Matrix
-      * Primer
-      * Jodorowsky's Dune
-    :book:
-      * The Monte Cristo Cover-Up
-      * Ender’s Game
-      * Dear and Glorious Physician
-      * Shōgun
-      * Musashi
-      * Gödel, Escher, Bach
-      * The Turning Point
-      * Surely You're Joking, Mr. Feynman!
-      * Code
-      * The Decision Book
+{{< top5 >}}
+music:
+  * Jack Johnson
+  * Adele
+  * Kings of Convenience
+  * Claude Debussy - Clair de lune
+  * Carl Orff - Carmina Burana: O Fortuna
+  * The Beatles
+  * Sting
+movie:
+  * Festim Diabólico
+  * The Party
+  * Star Wars Episode V - O Império Contra Ataca
+  * Dune
+  * Clue
+  * Dead Poets Society
+  * Una Pura Formalitá
+  * The Matrix
+  * Primer
+  * Jodorowsky's Dune
+book:
+  * The Monte Cristo Cover-Up
+  * Ender’s Game
+  * Dear and Glorious Physician
+  * Shōgun
+  * Musashi
+  * Gödel, Escher, Bach
+  * The Turning Point
+  * Surely You're Joking, Mr. Feynman!
+  * Code
+  * The Decision Book
+{{< /top5 >}}
 
 Assista a gravação deste episódio
 =================================
@@ -92,7 +128,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: nvHbLPLVLiA
+{{< youtube nvHbLPLVLiA >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -114,16 +150,16 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/rodrigo-senra.jpg" alt="Rodrigo Senra" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/rodrigo-senra.jpg" alt="Rodrigo Senra" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Rodrigo Senra</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/rodsenra">Github</a></li>
-                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/rodsenra">LinkedIn</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://www.cinerdia.com.br">Podcast</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://rodrigo.senra.nom.br">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/rodsenra">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/rodsenra">Github</a></li>
+                    <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/rodsenra">LinkedIn</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://www.cinerdia.com.br">Podcast</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://rodrigo.senra.nom.br">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/rodsenra">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -131,8 +167,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-134
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-134" heading="Escute Agora" >}}
 
 
 Links
@@ -185,7 +220,7 @@ Links
 * `iPython`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

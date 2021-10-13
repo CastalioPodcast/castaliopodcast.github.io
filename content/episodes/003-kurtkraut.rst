@@ -1,11 +1,15 @@
-Episódio 2: KurtKraut
-#####################
-:date: 2011-03-21 12:24
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-03/castalio-podcast-03.mp3
-:image: images/kurtkraut.png
-:image-alt: KurtKraut
+---
+title: "Episódio 2: KurtKraut"
+aliases:
+- /episodio-2-kurtkraut.html
+date: "2011-03-21T12:24:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-03/castalio-podcast-03.mp3"
+image: /images/kurtkraut.png
+image-alt: KurtKraut
+---
 
 Neste episódio tivemos a grande honra de entrevistar nosso amigo
 **KurtKraut**, usuario de **BBS** e **IRC** desde 1994, autodidata nas
@@ -26,17 +30,17 @@ sociedades e orientadores sobre cursos formais na area de TI.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-03
+{{< podcast castalio-podcast-03 >}}
 
-.. top5::
-
-    :book:
-        * Rework
-        * The Origin of Species
-    :movie:
-        * Koyaanisqatsi
-        * Powaqqatsi
-        * Naqoyqatsi
+{{< top5 >}}
+book:
+    * Rework
+    * The Origin of Species
+movie:
+    * Koyaanisqatsi
+    * Powaqqatsi
+    * Naqoyqatsi
+{{< /top5 >}}
 
 
 Links

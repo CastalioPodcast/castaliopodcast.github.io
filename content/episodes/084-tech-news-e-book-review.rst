@@ -1,19 +1,44 @@
-Episódio 84: Tech News e Book Reviews por Hack and Cast
-#######################################################
-:date: 2017-01-22
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-84/castalio-podcast-84.mp3
-:tags: book review, novidades da semana, eu sou a lenda, a última pergunta,
-       a última resposta, isaac asimov, richard matheson, kivy, restructured text,
-       markdown, sanic, flask, shellcheck, shell cript, bash, kalliope, mention bot,
-       getcinnamon, toml, yaml, ini, config
-:description: Hoje, trazemos mais um book review com os livros Eu Sou A Lenda,
+---
+title: "Episódio 84: Tech News e Book Reviews por Hack and Cast"
+aliases:
+- /episodio-84-tech-news-e-book-reviews-por-hack-and-cast.html
+date: 2017-01-22
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-84/castalio-podcast-84.mp3"
+tags:
+- book review
+- novidades da semana
+- eu sou a lenda
+- a última pergunta
+- a última resposta
+- isaac asimov
+- richard matheson
+- kivy
+- restructured text
+- markdown
+- sanic
+- flask
+- shellcheck
+- shell cript
+- bash
+- kalliope
+- mention bot
+- getcinnamon
+- toml
+- yaml
+- ini
+- config
+description: Hoje, trazemos mais um book review com os livros Eu Sou A Lenda,
               A Última Pergunta e A Última Resposta feitos pelos nossos amigos
               do Hack and Cast e também trazemos algumas novidades da semana
               com dicas de Documentação, Python e Shell Script.
-:image: images/books-84.jpg
-:image-alt: Isaac Asimov
+image: /images/books-84.jpg
+image-alt: Isaac Asimov
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -33,7 +58,7 @@ similar ao **Tkinter** que citamos no epiśodio 82.
 Escute agora enquanto lê os show notes
 --------------------------------------
 
-.. podcast:: castalio-podcast-84
+{{< podcast castalio-podcast-84 >}}
 
 .. raw:: html
 
@@ -45,7 +70,7 @@ série de tutoriais chamada `Kivy Crash Course`_.
 
 Para criar um **Hello World** no Kivy é bastante fácil, veja o seguinte exemplo
 
-.. figure:: {static}/images/kivy.jpg
+.. figure:: /images/kivy.jpg
    :alt: Kivy Hello World
 
 Outra coisa interessante é que é possível utilizar uma linguagem de template bem
@@ -213,10 +238,10 @@ Ouça os book reviews no final deste episódio para saber mais detalhes!
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-84
+{{< podcast castalio-podcast-84 >}}
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

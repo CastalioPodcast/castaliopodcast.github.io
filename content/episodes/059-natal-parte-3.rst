@@ -1,13 +1,25 @@
-Episódio 59: Episódio de Natal - Parte 3
-########################################
-:date: 2014-12-22
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-59/castalio-podcast-59.mp3
-:tags: grokpodcast, hack 'n' cast, natal, podcast, jekyll, pelican,
-       dreamhost, wordpress
-:image: images/cheers.png
-:image-alt: Episódio de Natal - Parte 3
+---
+title: "Episódio 59: Episódio de Natal - Parte 3"
+aliases:
+- /episodio-59-episodio-de-natal-parte-3.html
+date: 2014-12-22
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-59/castalio-podcast-59.mp3"
+tags:
+- grokpodcast
+- hack 'n' cast
+- natal
+- podcast
+- jekyll
+- pelican
+- dreamhost
+- wordpress
+image: /images/cheers.png
+image-alt: Episódio de Natal - Parte 3
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 
@@ -34,7 +46,7 @@ um feliz natal e ano novo!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-59
+{{< podcast castalio-podcast-59 >}}
 
 Links
 -----
@@ -63,7 +75,7 @@ Links
 * `Especificações de Feed iTunes`_;
 * `Feedburner`_;
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,14 +1,26 @@
-==============================
-Episódio 122: Python Brasil 13
-==============================
-
-:date: 2017-10-16
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-122/castalio-podcast-122.mp3
-:tags: python, python brasil, pybr, pythonbrasil, belo horizonte, pybr13,
-       eventos, conferencia, opodcastedelas
-:image: images/episode-122.jpg
-:image-alt: Python Brasil 13
+---
+title: "Episódio 122: Python Brasil 13"
+aliases:
+- /episodio-122-python-brasil-13.html
+date: 2017-10-16
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-122/castalio-podcast-122.mp3"
+tags:
+- python
+- python brasil
+- pybr
+- pythonbrasil
+- belo horizonte
+- pybr13
+- eventos
+- conferencia
+- opodcastedelas
+image: /images/episode-122.jpg
+image-alt: Python Brasil 13
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -30,8 +42,7 @@ do processo de organização e alguns números bem interessantes!
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-122
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-122" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -75,7 +86,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no video abaixo:
 
-.. youtube:: ZtwkTFa9FXY
+{{< youtube ZtwkTFa9FXY >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -97,12 +108,12 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://pbs.twimg.com/profile_images/760661904876593152/vkgGuN0w_400x400.jpg" alt="Júlia Kastrup" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://pbs.twimg.com/profile_/images/760661904876593152/vkgGuN0w_400x400.jpg" alt="Júlia Kastrup" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Júlia Kastrup</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/kastrupjulia">Twitter</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/kastrupjulia">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -114,12 +125,12 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://pbs.twimg.com/profile_images/866308569515401216/nv40kTI-_400x400.jpg" alt="Igor Santos" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://pbs.twimg.com/profile_/images/866308569515401216/nv40kTI-_400x400.jpg" alt="Igor Santos" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Igor Santos</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/santos_igr">Twitter</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/santos_igr">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -130,12 +141,12 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://avatars3.githubusercontent.com/u/604457?s=460&v=4" alt="Mayck Xavier" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://avatars3.githubusercontent.com/u/604457?s=460&v=4" alt="Mayck Xavier" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Mayck Xavier</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="http://twitter.com/mayckxavier">Twitter</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="http://twitter.com/mayckxavier">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -145,8 +156,7 @@ Contatos
 
     </div>
 
-.. podcast:: castalio-podcast-122
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-122" heading="Escute Agora" >}}
 
 
 Links
@@ -160,7 +170,7 @@ Links
 * `Python Sudeste`_
 * `Pycon Latin America`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

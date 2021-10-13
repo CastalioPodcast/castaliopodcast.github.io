@@ -1,0 +1,45 @@
+[[main]]
+  name = "English Episodes"
+  identifier = "english-episodes"
+  weight = 40
+  url = "/tags/english/"
+[[main]]
+  name = "Inscreva-se"
+  identifier = "subscribe"
+  pre = '<i class="bi bi-caret-down-fill"></i> '
+  weight = 100
+[[main]]
+  id = "itunes"
+  name = "iTunes"
+  url = "https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"
+  parent = "subscribe"
+[[main]]
+  id = "googlepodcasts"
+  name = "Google Podcasts"
+  url = "https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw"
+  parent = "subscribe"
+[[main]]
+  id = "overcast"
+  name = "Overcast"
+  url = "https://overcast.fm/itunes446259197/cast-lio-podcast"
+  parent = "subscribe"
+[[main]]
+  id = "pocketcasts"
+  name = "Pocket Casts"
+  url = "http://pca.st/castalio"
+  parent = "subscribe"
+[[main]]
+  id = "spotify"
+  name = "Spotify"
+  url = "https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn"
+  parent = "subscribe"
+[[main]]
+  id = "youtube"
+  name = "YouTube"
+  url = "https://www.youtube.com/castaliopodcast"
+  parent = "subscribe"
+[[main]]
+  id = "rssfeed"
+  name = "FeedBurner (RSS Feed)"
+  url = "http://feeds.feedburner.com/CastalioPodcastMP3"
+  parent = "subscribe"

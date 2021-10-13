@@ -1,12 +1,22 @@
-Episódio 58: Episódio de Natal - Parte 2
-########################################
-:date: 2014-12-21
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-58/castalio-podcast-58.mp3
-:tags: grokpodcast, hack 'n' cast, natal, podcast, audacity
-:image: images/audacity.png
-:image-alt: Episódio de Natal - Parte 2
+---
+title: "Episódio 58: Episódio de Natal - Parte 2"
+aliases:
+- /episodio-58-episodio-de-natal-parte-2.html
+date: 2014-12-21
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-58/castalio-podcast-58.mp3"
+tags:
+- grokpodcast
+- hack 'n' cast
+- natal
+- podcast
+- audacity
+image: /images/audacity.png
+image-alt: Episódio de Natal - Parte 2
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 
@@ -32,7 +42,7 @@ Espero que vocês gostem!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-58
+{{< podcast castalio-podcast-58 >}}
 
 Links
 -----
@@ -60,7 +70,7 @@ Links
   * `A Soft Murmur`_
   * `Ambient Mixer`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

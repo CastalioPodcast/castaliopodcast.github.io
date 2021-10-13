@@ -1,22 +1,44 @@
-Episódio 102: Marcelo Mello - Red Hat e Home Assistant
-######################################################
-:date: 2017-05-29
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-102/castalio-podcast-102.mp3
-:tags: marcelo mello, red hat, fedora, software livre, open source, home
-       assistant, demo, u2, coldplay, bob marley, redemption song, teixerinha,
-       gaucho de passo fundo, raspberry pi, spacewalk: the red hat satellite
-       project, daredevil, jessica jones, better call saul, 101 dalmatas,
-       python,
-:description: Hoje, conversamos com o Marcelo Mello que é Principal Technical
+---
+title: "Episódio 102: Marcelo Mello - Red Hat e Home Assistant"
+aliases:
+- /episodio-102-marcelo-mello-red-hat-e-home-assistant.html
+date: 2017-05-29
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-102/castalio-podcast-102.mp3"
+tags:
+- marcelo mello
+- red hat
+- fedora
+- software livre
+- open source
+- home assistant
+- demo
+- u2
+- coldplay
+- bob marley
+- redemption song
+- teixerinha
+- gaucho de passo fundo
+- raspberry pi
+- spacewalk: the red hat satellite project
+- daredevil
+- jessica jones
+- better call saul
+- 102 dalmatas
+- python
+description: Hoje, conversamos com o Marcelo Mello que é Principal Technical
               Support Engineer na Red Hat, possui um monte de certificações de
               dar inveja a qualquer um (RHCSA, RHCE, RHCA, RHCSS, RHCDS, RHCVA,
               RHCI) e há alguns anos mora na Carolina do Norte. Ele também é um
               veterano do mundo do software livre e do `Projeto Fedora`_ e,
               atualmente, tem contribuído bastante com o `Home Assistant`_.
-:image: images/marcelo-mello.jpg
-:image-alt: Marcelo Mello - Red Hat e Home Assistant
+image: /images/marcelo-mello.jpg
+image-alt: Marcelo Mello - Red Hat e Home Assistant
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -43,7 +65,7 @@ os projetos de automatização do Home Assistant com `Python`_. Além disso, ele
 uma demonstração do Home Assistant que ele esta utilizando para automatizar a
 sua casa. Para assistir a demonstração, assista a gravação do episodio:
 
-.. youtube:: hZq8ucpzjCs
+{{< youtube hZq8ucpzjCs >}}
 
 Em seguida não podíamos deixar faltar o Top 5, confira as sugestões do Marcelo.
 
@@ -65,25 +87,25 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-102
+{{< podcast castalio-podcast-102 >}}
 
 
-.. top5::
-
-    :music:
-        * U2
-        * Coldplay
-        * Bob Marley - Redemption Song
-        * Teixeirinha - Gaucho de Passo Fundo
-    :book:
-        * Best Karate
-        * Raspberry Pi Cookbook
-        * Spacewalk: The Red Hat Satellite Project
-    :movie:
-        * Daredevil
-        * Jessica Jones
-        * Better Call Saul
-        * 101 Dalmatas
+{{< top5 >}}
+music:
+    * U2
+    * Coldplay
+    * Bob Marley - Redemption Song
+    * Teixeirinha - Gaucho de Passo Fundo
+book:
+    * Best Karate
+    * Raspberry Pi Cookbook
+    * Spacewalk: The Red Hat Satellite Project
+movie:
+    * Daredevil
+    * Jessica Jones
+    * Better Call Saul
+    * 101 Dalmatas
+{{< /top5 >}}
 
 
 Links
@@ -96,7 +118,7 @@ Links
 * `python-arlo`_
 * `python-ring-doorbell`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

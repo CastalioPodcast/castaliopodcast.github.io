@@ -1,0 +1,4 @@
+{{- $mainStyle := resources.Get "css/main.css" -}}
+{{- $style := slice $mainStyle | resources.Concat "css/bundle.css" | resources.Minify | resources.Fingerprint -}}
+<link rel="preload" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" as="style" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous"></noscript>

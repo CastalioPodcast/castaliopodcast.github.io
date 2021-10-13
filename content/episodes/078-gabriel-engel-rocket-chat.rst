@@ -1,15 +1,23 @@
-Episódio 78: Gabriel Engel - Rocket.Chat
-########################################
-:date: 2016-12-11
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-78/castalio-podcast-78.mp3
-:tags: gabriel engel, rocket.chat
-:description: Hoje, conversamos com o Gabriel Engel que nos conta
+---
+title: "Episódio 78: Gabriel Engel - Rocket.Chat"
+aliases:
+- /episodio-78-gabriel-engel-rocketchat.html
+date: 2016-12-11
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-78/castalio-podcast-78.mp3"
+tags:
+- gabriel engel
+- rocket.chat
+description: Hoje, conversamos com o Gabriel Engel que nos conta
               sobre o Rocket.Chat. Ele fala sobre o início do projeto, os
               recursos que ele possui e quais a tecnologias utilizadas.
-:image: images/gabrielengel.jpg
-:image-alt: Gabriel Engel - Rocket.Chat
+image: /images/gabrielengel.jpg
+image-alt: Gabriel Engel - Rocket.Chat
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -74,25 +82,25 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-78
+{{< podcast castalio-podcast-78 >}}
 
-.. top5::
-
-    :music:
-        * Pink Floyd - Dark Side of the Moon
-        * Pink Floyd - Time
-        * Ludwig van Beethoven
-        * Wolfgang Amadeus Mozart
-        * Johann Sebastian Bach
-        * David Guetta
-        * B.B. King
-        * Bebel Gilberto - Céu Distante
-        * Morcheeba
-    :book:
-        * The Happiness Hypothesis
-        * The Lean Startup
-        * Free: The Future of a Radical Price
-        * The Black Swan
+{{< top5 >}}
+music:
+    * Pink Floyd - Dark Side of the Moon
+    * Pink Floyd - Time
+    * Ludwig van Beethoven
+    * Wolfgang Amadeus Mozart
+    * Johann Sebastian Bach
+    * David Guetta
+    * B.B. King
+    * Bebel Gilberto - Céu Distante
+    * Morcheeba
+book:
+    * The Happiness Hypothesis
+    * The Lean Startup
+    * Free: The Future of a Radical Price
+    * The Black Swan
+{{< /top5 >}}
 
 Links
 -----
@@ -105,7 +113,7 @@ Links
 * `Cordova`_
 * `Demo do Rocket.Chat`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

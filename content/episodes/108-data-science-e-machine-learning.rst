@@ -1,24 +1,58 @@
-Episódio 108: Data Science e Machine Learning
-#############################################
-:date: 2017-07-10
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-108/castalio-podcast-108.mp3
-:tags: data science, machine learning, deep learning, eder martins, vinicius
-       mesel, programming collective intelligence, deep learning with python,
-       coursera, c++, java, python, pandas, scala, hadoop, spark, pyspark,
-       serenata de amor, operação serenata de amor, big data, tensorflow, redes
-       neurais, inteligência artificial, isaac asimov, word2vec, gensim,
-       scikit-learn, kaggle, natural language processing with python, nltk,
-       natural language toolkit, uai, zona de dados, grupy sp, grupo python
-       brasil, python brasil
-:description: Hoje continuaremos nossa exploração no mundo da inteligência
+---
+title: "Episódio 108: Data Science e Machine Learning"
+aliases:
+- /episodio-108-data-science-e-machine-learning.html
+date: 2017-07-10
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-108/castalio-podcast-108.mp3"
+tags:
+- data science
+- machine learning
+- deep learning
+- eder martins
+- vinicius mesel
+- programming collective intelligence
+- deep learning with python
+- coursera
+- c++
+- java
+- python
+- pandas
+- scala
+- hadoop
+- spark
+- pyspark
+- serenata de amor
+- operação serenata de amor
+- big data
+- tensorflow
+- redes neurais
+- inteligência artificial
+- isaac asimov
+- word2vec
+- gensim
+- scikit-learn
+- kaggle
+- natural language processing with python
+- nltk
+- natural language toolkit
+- uai
+- zona de dados
+- grupy sp
+- grupo python brasil
+- python brasil
+description: Hoje continuaremos nossa exploração no mundo da inteligência
               artificial falando sobre Data Science e Machine Learning. Para
               nos ajudar com este tema, contamos com a presença do Eder Martins
               que é Data Scientist em um dos maiores Job Boards do Mundo e do
               Vinicius Mesel pesquisador de machine learning na USP.
-:image: images/episodio-108.jpg
-:image-alt: Data Science e Machine Learning
+image: /images/episodio-108.jpg
+image-alt: Data Science e Machine Learning
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -58,7 +92,7 @@ Abordamos os seguintes tópicos:
 
 Confira a gravação deste episódio no vídeo abaixo:
 
-.. youtube:: nUDF4dA5pvs
+{{< youtube nUDF4dA5pvs >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -80,14 +114,14 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/eder-martins.jpg" alt="Eder Martings" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/eder-martins.jpg" alt="Eder Martings" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Eder Martins</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/ederfmartins">Github</a></li>
-                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/ederfmartins/">LinkedIn</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/ederfmartins">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/ederfmartins">Github</a></li>
+                    <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/ederfmartins/">LinkedIn</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/ederfmartins">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -97,14 +131,14 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/vinicius-mesel.jpg" alt="Vinicius Mesel" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/vinicius-mesel.jpg" alt="Vinicius Mesel" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Vinicius Mesel</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/vmesel">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://vmesel.com/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/vmesel">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/vmesel">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://vmesel.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/vmesel">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -115,7 +149,7 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-108
+{{< podcast castalio-podcast-108 >}}
 
 Links
 -----
@@ -150,7 +184,7 @@ Links
 * `Grupy SP`_
 * `Grupo Python Brasil`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

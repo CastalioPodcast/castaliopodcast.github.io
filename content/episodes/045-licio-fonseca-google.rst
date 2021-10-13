@@ -1,12 +1,50 @@
-Licio Fonseca: Google
-#####################
-:date: 2012-09-16 21:45
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3
-:tags: andré vianco, anime, batman, ben alves, bit twiddler, carlos drummond de andrade, charles cafe google, death note, fernando sabino, fernão capelo gaivota, gangnam style, gmail, google, google pounds, hackers and painters, homem de ferro, hugh laurie, lake louise, linked.in, lisbela e o prisioneiro, longe é um lugar que não existe, marvel, mountain view, novela, os vingadores, para gostar de ler, psy, richard bach, rodrigo pereira, starwars, transifex, ubuntu br, ubuntu desktop summit, xbox
-:image: images/liciofonseca.jpg
-:image-alt: Licio Fonseca: Google
+---
+title: "Licio Fonseca: Google"
+aliases:
+- /licio-fonseca-google.html
+date: "2012-09-16T21:45:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3"
+tags:
+- andré vianco
+- anime
+- batman
+- ben alves
+- bit twiddler
+- carlos drummond de andrade
+- charles cafe google
+- death note
+- fernando sabino
+- fernão capelo gaivota
+- gangnam style
+- gmail
+- google
+- google pounds
+- hackers and painters
+- homem de ferro
+- hugh laurie
+- lake louise
+- linked.in
+- lisbela e o prisioneiro
+- longe é um lugar que não existe
+- marvel
+- mountain view
+- novela
+- os vingadores
+- para gostar de ler
+- psy
+- richard bach
+- rodrigo pereira
+- starwars
+- transifex
+- ubuntu br
+- ubuntu desktop summit
+- xbox
+image: /images/liciofonseca.jpg
+image-alt: "Licio Fonseca: Google"
+---
 
 Nesta última quinta-feira tive o prazer em entrevistar o **Licio
 Fonseca** da **Google**! Eu e o Licio nos conhecemos nos saudosos tempos
@@ -32,7 +70,7 @@ visto `aqui`_ (aos 41 minutos)! :)
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-45
+{{< podcast castalio-podcast-45 >}}
 
 Contato
 -------
@@ -61,27 +99,27 @@ Resumo
 -  **Gangnam Style** 37:27
 -  **Conclusão** 39:05
 
-.. top5::
-
-    :music:
-        * Hugh Laurie
-    :movie:
-        * Novela
-        * Lisbela e o Prisioneiro
-        * Homem de Ferro
-        * Batman
-        * Os Vingadores
-    :book:
-        * Longe é um lugar que não existe
-        * Richard Bach
-        * Fernão Capelo Gaivota
-        * Para Gostar de Ler
-        * Carlos Drummond de Andrade
-        * Castro Alves
-        * Rubem Braga
-        * Fernando Sabino
-        * André Vianco
-        * Hackers & Painters
+{{< top5 >}}
+music:
+    * Hugh Laurie
+movie:
+    * Novela
+    * Lisbela e o Prisioneiro
+    * Homem de Ferro
+    * Batman
+    * Os Vingadores
+book:
+    * Longe é um lugar que não existe
+    * Richard Bach
+    * Fernão Capelo Gaivota
+    * Para Gostar de Ler
+    * Carlos Drummond de Andrade
+    * Castro Alves
+    * Rubem Braga
+    * Fernando Sabino
+    * André Vianco
+    * Hackers & Painters
+{{< /top5 >}}
 
 Links
 -----
@@ -106,7 +144,7 @@ Links
 -  `DataCenter - Chile`_
 -  `DataCenter - North Carolina`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

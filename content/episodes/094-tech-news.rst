@@ -1,19 +1,41 @@
-Episódio 94: Tech News
-######################
-:date: 2017-04-03
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-94/castalio-podcast-94.mp3
-:tags: tech news, stack overflow developer survey, closure, android, framework,
-       pydata, python, python 3, php, javascript, perl, opencast, dynaconf,
-       flasgger, mstest, orbot, reusables, better-exceptions
-:description: Neste episódio trazemos noticias e dicas. Além de comentar sobre
+---
+title: "Episódio 94: Tech News"
+aliases:
+- /episodio-94-tech-news.html
+date: 2017-04-03
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-94/castalio-podcast-94.mp3"
+tags:
+- tech news
+- stack overflow developer survey
+- closure
+- android
+- framework
+- pydata
+- python
+- python 3
+- php
+- javascript
+- perl
+- opencast
+- dynaconf
+- flasgger
+- mstest
+- orbot
+- reusables
+- better-exceptions
+description: Neste episódio trazemos noticias e dicas. Além de comentar sobre
               o resultado do 2017 Developer Survey que o Stack Overflow
               realizou. Também trazemos links sobre Closure, um App para
               Android e um framework de teste da Microsoft que teve seu código
               liberado.
-:image: images/tech-news.png
-:image-alt: Tech news
+image: /images/tech-news.png
+image-alt: Tech news
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -35,7 +57,7 @@ assuntos, notícias, dicas, enfim, o que você quiser.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-94
+{{< podcast castalio-podcast-94 >}}
 
 .. raw:: html
 
@@ -128,9 +150,9 @@ Tech News
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-94
+{{< podcast castalio-podcast-94 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,0 +1,8 @@
+baseURL = "https://castalio.info"
+title = "Castálio Podcast"
+copyright = "© 2011-{year} Castálio Podcast"
+defaultContentLanguage = "pt-br"
+enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -1,10 +1,11 @@
-Aviso aos Navegantes
-####################
-:date: 2012-11-12 15:51
-:author: Og Maciel
-:category: Notícia
-:image: http://farm4.staticflickr.com/3240/2772577023_4a3172abb6.jpg
-:image-alt: A New Day
+---
+title: "Aviso aos Navegantes"
+date: "2012-11-12T15:51:00"
+author: Og Maciel
+category: Notícia
+image: http://farm4.staticflickr.com/3240/2772577023_4a3172abb6.jpg
+image-alt: A New Day
+---
 
 Olá pessoal! As últimas semanas foram bem difíceis aqui no podcast
 devido a problemas de família. Há mais ou menos 2 semanas minhas 2

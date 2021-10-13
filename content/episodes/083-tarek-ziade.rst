@@ -1,17 +1,27 @@
-Episódio 83: Tarek Ziadé - Mozilla
-##################################
-:date: 2017-01-15
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-83/castalio-podcast-83.mp3
-:tags: tarek ziade, python, mozilla, english
-:description: Hoje, conversamos com o Tarek Ziadé que é um desenvolvedor Python
+---
+title: "Episódio 83: Tarek Ziadé - Mozilla"
+aliases:
+- /episodio-83-tarek-ziade-mozilla.html
+date: 2017-01-15
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-83/castalio-podcast-83.mp3"
+tags:
+- tarek ziade
+- python
+- mozilla
+- english
+description: Hoje, conversamos com o Tarek Ziadé que é um desenvolvedor Python
               na Mozilla. Em nosso bate-papo conhecemos um pouco mais sobre o
               que ele faz trabalhando na Mozilla, sua paixão quando não está
               desenvolvendo e sobre os livros que escreveu e o que está
               escrevendo atualmente.
-:image: images/tarekziade.jpg
-:image-alt: Tarek Ziadé - Mozilla
+image: /images/tarekziade.jpg
+image-alt: Tarek Ziadé - Mozilla
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -107,24 +117,24 @@ Contact (Contato)
 Listen Now (Escute Agora)
 -------------------------
 
-.. podcast:: castalio-podcast-83
+{{< podcast castalio-podcast-83 >}}
 
-.. top5::
-
-    :music:
-        * Tyler Yarema
-        * Chali 2na
-        * Ghislain Poirier
-        * Chinese Man
-    :book:
-        * Dan Simmons
-        * Terry Pratchett
-        * Warren Ellis
-        * Ed Brubaker
-        * Philip K. Dick
-    :movie:
-        * Free to Run
-        * Summits of My Life: A Fine Line
+{{< top5 >}}
+music:
+    * Tyler Yarema
+    * Chali 2na
+    * Ghislain Poirier
+    * Chinese Man
+book:
+    * Dan Simmons
+    * Terry Pratchett
+    * Warren Ellis
+    * Ed Brubaker
+    * Philip K. Dick
+movie:
+    * Free to Run
+    * Summits of My Life: A Fine Line
+{{< /top5 >}}
 
 Links
 -----
@@ -136,7 +146,7 @@ Links
 * `Python Microservices Development`_
 * `contributions as a Python core committer`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

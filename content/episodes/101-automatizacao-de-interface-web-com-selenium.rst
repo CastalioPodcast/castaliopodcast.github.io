@@ -1,12 +1,24 @@
-Episódio 101: Automatização de Interface Web com Selenium
-#########################################################
-:date: 2017-05-22
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-101/castalio-podcast-101.mp3
-:tags: selenium, python, webdriver, flask, py.test, firefox, selenium ide,
-       selenium webdriver,
-:description: Hoje, trazemos um episódio sobre automatização de interface web
+---
+title: "Episódio 101: Automatização de Interface Web com Selenium"
+aliases:
+- /episodio-101-automatizacao-de-interface-web-com-selenium.html
+date: 2017-05-22
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-101/castalio-podcast-101.mp3"
+tags:
+- selenium
+- python
+- webdriver
+- flask
+- py.test
+- firefox
+- selenium ide
+- selenium webdriver
+description: Hoje, trazemos um episódio sobre automatização de interface web
               com Selenium. Falamos o que é o Selenium e quais as vantagens em
               sua utilização. Para ilustrar, trazemos alguns demos sobre o
               Selenium IDE, como utilizar o Selenium webdriver em uma sessão
@@ -14,8 +26,9 @@ Episódio 101: Automatização de Interface Web com Selenium
               webdriver para testar um formulário em Flask. Este episódio foi
               gravado em uma live no YouTube, você pode assistir à `gravação
               <https://www.youtube.com/watch?v=kVGqZJsbn-Q>`_ e ver os demos.
-:image: images/episodio-101.jpg
-:image-alt: Automatização de Interface Web com Selenium
+image: /images/episodio-101.jpg
+image-alt: Automatização de Interface Web com Selenium
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -31,7 +44,7 @@ acompanha apenas pelo áudio.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-101
+{{< podcast castalio-podcast-101 >}}
 
 .. raw:: html
 
@@ -62,12 +75,12 @@ py.test e Selenium
 
 Segue a gravação que está disponível em nosso `canal do YouTube`_.
 
-.. youtube:: kVGqZJsbn-Q
+{{< youtube kVGqZJsbn-Q >}}
 
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-101
+{{< podcast castalio-podcast-101 >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -78,7 +91,7 @@ assinar nosso `canal do YouTube`_.
 
 Até o próximo episódio!
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

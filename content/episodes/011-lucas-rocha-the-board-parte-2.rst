@@ -1,12 +1,41 @@
-Lucas Rocha - The Board (Parte 2)
-#################################
-:date: 2011-07-04 00:00
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-11/castalio-podcast-11.mp3
-:tags: agatha chistie, beleza americana, cinema paradiso, clutter, coffeescript, donald a. norman, gjs, gstreamer, guadec, ikea, jason fried, john coltrane, john coultrane, jquery, litl, macgyver, martrix, matrix, miles davis, mongodb, node.js, pekka himanen, plasma, the board, tim burton
-:image: images/lucasrocha.jpg
-:image-alt: Lucas Rocha - The Board
+---
+title: "Lucas Rocha - The Board (Parte 2)"
+aliases:
+- /lucas-rocha-the-board-parte-2.html
+date: 2011-07-04
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-11/castalio-podcast-11.mp3"
+tags:
+- agatha chistie
+- beleza americana
+- cinema paradiso
+- clutter
+- coffeescript
+- donald a. norman
+- gjs
+- gstreamer
+- guadec
+- ikea
+- jason fried
+- john coltrane
+- john coultrane
+- jquery
+- litl
+- macgyver
+- martrix
+- matrix
+- miles davis
+- mongodb
+- node.js
+- pekka himanen
+- plasma
+- the board
+- tim burton
+image: /images/lucasrocha.jpg
+image-alt: Lucas Rocha - The Board
+---
 
 Esta é a segunda parte da minha entrevista com o **Lucas Rocha**,
 contribuinte super conhecido do projeto **GNOME**. Desta vez conversamos
@@ -22,7 +51,7 @@ Podcast** pelo `iTunes Store`_!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-11
+{{< podcast castalio-podcast-11 >}}
 
 Contato
 -------
@@ -44,23 +73,23 @@ Resumo
 -  **Conselho**: 48:00
 -  **Despedida**: 50:00
 
-.. top5::
-
-    :music:
-        * Djavan
-        * John Coltrane - A Love Supreme
-        * Miles Davis - Kind of Blue
-    :book:
-        * Agatha Christie
-        * The Hacker Ethic: and the Spirit of the Information Age
-        * The Design of Everyday Things
-        * The Melancholy Death of Oyster Boy and Other Stories
-        * Rework
-    :movie:
-        * MacGyver
-        * The Matrix
-        * Beleza Americana
-        * Cinema Paradiso
+{{< top5 >}}
+music:
+    * Djavan
+    * John Coltrane - A Love Supreme
+    * Miles Davis - Kind of Blue
+book:
+    * Agatha Christie
+    * The Hacker Ethic: and the Spirit of the Information Age
+    * The Design of Everyday Things
+    * The Melancholy Death of Oyster Boy and Other Stories
+    * Rework
+movie:
+    * MacGyver
+    * The Matrix
+    * Beleza Americana
+    * Cinema Paradiso
+{{< /top5 >}}
 
 Links
 -----

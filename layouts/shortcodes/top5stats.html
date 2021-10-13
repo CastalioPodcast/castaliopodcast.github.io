@@ -1,0 +1,22 @@
+{{- range $key, $value := $.Site.Data.top5stats -}}
+  {{- if eq $key "app" -}}<h3>Aplicativos:</h3>{{ end -}}
+  {{- if eq $key "beer" -}}<h3>Cervejas:</h3>{{ end -}}
+  {{- if eq $key "book" -}}<h3>Livros:</h3>{{ end -}}
+  {{- if eq $key "game" -}}<h3>Games:</h3>{{ end -}}
+  {{- if eq $key "movie" -}}<h3>Filmes:</h3>{{ end -}}
+  {{- if eq $key "music" -}}<h3>Músicas:</h3>{{ end -}}
+  {{- if eq $key "pizza" -}}<h3>Pizzas:</h3>{{ end -}}
+  {{- if eq $key "podcast" -}}<h3>Podcasts:</h3>{{ end -}}
+  {{- if eq $key "site" -}}<h3>Sites:</h3>{{ end -}}
+  {{- if eq $key "twitter" -}}<h3>Twitters:</h3>{{ end -}}
+  <ol>
+    {{- range $value -}}
+      {{- $url := .url -}}
+      {{- if $url -}}
+        <li><a href="{{ $url -}}" target="_blank">{{ .name }} ({{ .count }})</a></li>
+      {{- else -}}
+        <li>{{ .name }} ({{ .count }})</li>
+      {{- end -}}
+    {{- end -}}
+  </ol>
+{{- end -}}

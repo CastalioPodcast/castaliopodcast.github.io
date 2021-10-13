@@ -1,12 +1,56 @@
-Álvaro "Turicas" Justen - Arduino
-#################################
-:date: 2011-09-05 03:26
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-16/castalio-podcast-16.mp3
-:tags: android, apollo 13, arduino, bottle, brazuino, david halliday, django, douglas adams, eagle, elua, fisl, flask, frets on fire, getting started with arduino, guitar hero, guns and roses, holoscópio, howard anton, inception, infected mushroom, iron maiden, iron man, júlio neves, making things talk, massimo banzi, matrix, nirvana, o guia do mochileiro das galáxias, pearl jam, potiche, qcad, robert resnick, severino, shell script, tiny os, tom igoe, turiquinhas, uma mente brilhante, web2py, zope
-:image: images/alvarojusten.png
-:image-alt: Álvaro "Turicas" Justen - Arduino
+---
+title: "Álvaro \"Turicas\" Justen - Arduino"
+aliases:
+- /alvaro-turicas-justen-arduino.html
+date: "2011-09-05T03:26:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-16/castalio-podcast-16.mp3"
+tags:
+- android
+- apollo 13
+- arduino
+- bottle
+- brazuino
+- david halliday
+- django
+- douglas adams
+- eagle
+- elua
+- fisl
+- flask
+- frets on fire
+- getting started with arduino
+- guitar hero
+- guns and roses
+- holoscópio
+- howard anton
+- inception
+- infected mushroom
+- iron maiden
+- iron man
+- júlio neves
+- making things talk
+- massimo banzi
+- matrix
+- nirvana
+- o guia do mochileiro das galáxias
+- pearl jam
+- potiche
+- qcad
+- robert resnick
+- severino
+- shell script
+- tiny os
+- tom igoe
+- turiquinhas
+- uma mente brilhante
+- web2py
+- zope
+image: /images/alvarojusten.png
+image-alt: Álvaro "Turicas" Justen - Arduino
+---
 
 No episódio de hoje conversei com o **Álvaro "Turicas" Justen** sobre um monte
 de coisas relacionadas ao **Arduino**, e como usá-lo junto com vários outros
@@ -23,7 +67,7 @@ a lâmpada, e "lâmpada **off**" para desligá-la! Falamos de sua participação
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-16
+{{< podcast castalio-podcast-16 >}}
 
 Contato
 -------
@@ -53,28 +97,28 @@ Resumo
 -  **Top 5**:  46:21
 -  \*\*\*\*Conclusão\*\*\*\*:  50:58
 
-.. top5::
-
-    :music:
-        * Iron Maiden
-        * Guns N' Roses
-        * Nirvana
-        * Pearl Jam
-        * Infected Mushroom
-    :book:
-        * Cálculo
-        * Física
-        * O Guia do Mochileiro das Galáxias
-        * Shell
-        * Making Things Talk
-        * Getting Started with Arduino
-    :movie:
-        * Apollo 13
-        * Uma Mente Brilhante
-        * The Matrix
-        * Inception
-        * Potiche
-        * Iron Man
+{{< top5 >}}
+music:
+    * Iron Maiden
+    * Guns N' Roses
+    * Nirvana
+    * Pearl Jam
+    * Infected Mushroom
+book:
+    * Cálculo
+    * Física
+    * O Guia do Mochileiro das Galáxias
+    * Shell
+    * Making Things Talk
+    * Getting Started with Arduino
+movie:
+    * Apollo 13
+    * Uma Mente Brilhante
+    * The Matrix
+    * Inception
+    * Potiche
+    * Iron Man
+{{< /top5 >}}
 
 Links
 -----

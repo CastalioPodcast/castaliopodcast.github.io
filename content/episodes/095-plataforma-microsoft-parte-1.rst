@@ -1,22 +1,57 @@
-Episódio 95: Plataforma de Desenvolvimento da Microsoft - Parte 1
-#################################################################
-:date: 2017-04-10
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-95/castalio-podcast-95.mp3
-:tags: c#, .net, asp, sqlserver, sharepoint, xamarin, azure, microsoft, linux,
-       open source, lambda3, giovanni bassi, visual basic, stackoverflow
-       developer survey, sublime text, visual studio code, docker, aws,
-       jetbrains rider, vim, mono, gtk, pycharm, python, markdown, rst,
-       restructuredtext, atom, vim fugitive, tim pope, python bytes, talk
-       python to me, podcast, imasters,
-:description: No episódio de hoje vamos falar sobre a plataforma de
+---
+title: "Episódio 95: Plataforma de Desenvolvimento da Microsoft - Parte 1"
+aliases:
+- /episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1.html
+date: 2017-04-10
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-95/castalio-podcast-95.mp3"
+tags:
+- c#
+- .net
+- asp
+- sqlserver
+- sharepoint
+- xamarin
+- azure
+- microsoft
+- linux
+- open source
+- lambda3
+- giovanni bassi
+- visual basic
+- stackoverflow developer survey
+- sublime text
+- visual studio code
+- docker
+- aws
+- jetbrains rider
+- vim
+- mono
+- gtk
+- pycharm
+- python
+- markdown
+- rst
+- restructuredtext
+- atom
+- vim fugitive
+- tim pope
+- python bytes
+- talk python to me
+- podcast
+- imasters
+description: No episódio de hoje vamos falar sobre a plataforma de
               desenvolvimento da Microsoft que inclui ferramentas largamente
               utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e
               Azure. Para nos ajudar a explorar este assunto, temos a presença
               do Giovanni Bassi.
-:image: images/episode-95.png
-:image-alt: Plataforma de Desenvolvimento da Microsoft
+image: /images/episode-95.png
+image-alt: Plataforma de Desenvolvimento da Microsoft
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -29,7 +64,7 @@ SQLServer, Sharepoint, Xamarin e `Azure`_.
 Escute enquanto lê o show notes
 -------------------------------
 
-.. podcast:: castalio-podcast-95
+{{< podcast castalio-podcast-95 >}}
 
 .. raw:: html
 
@@ -117,9 +152,9 @@ Até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-95
+{{< podcast castalio-podcast-95 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

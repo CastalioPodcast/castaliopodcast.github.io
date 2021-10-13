@@ -1,0 +1,16 @@
+{{- if or .PrevInSection .NextInSection -}}
+<div class="post-navs d-flex mb-3 justify-content-evenly">
+  <div class="post-nav post-prev">
+  {{- with .PrevInSection -}}
+    <i class="bi bi-chevron-left"></i>
+    <a href="{{ .Permalink }}">{{ partial "helpers/title" . }}</a>
+  </div>
+  {{- end -}}
+  {{- with .NextInSection -}}
+  <div class="post-nav post-next">
+    <a href="{{ .Permalink }}">{{ partial "helpers/title" . }}</a>
+    <i class="bi bi-chevron-right"></i>
+  </div>
+  {{- end -}}
+</div>
+{{- end -}}

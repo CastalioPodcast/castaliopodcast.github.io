@@ -1,12 +1,21 @@
-Guilherme Salgado: Canonical e Linaro
-#####################################
-:date: 2011-10-30 21:59
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-20/castalio-podcast-20.mp3
-:tags: arm, async, canonical, linaro, ubuntu
-:image: images/guilhermesalgado.jpg
-:image-alt: Guilherme Salgado: Canonical e Linaro
+---
+title: "Guilherme Salgado: Canonical e Linaro"
+aliases:
+- /guilherme-salgado-canonical-e-linaro.html
+date: "2011-10-30T21:59:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-20/castalio-podcast-20.mp3"
+tags:
+- arm
+- async
+- canonical
+- linaro
+- ubuntu
+image: /images/guilhermesalgado.jpg
+image-alt: "Guilherme Salgado: Canonical e Linaro"
+---
 
 O convidado de hoje é o **Guilherme Salgado**. Durante nosso bate-papo,
 conversamos sobre como que ele começou a usar computadores e **Linux**,
@@ -21,7 +30,7 @@ sobre as criticas que a Canonical tem sofrido nos últimos anos!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-20
+{{< podcast castalio-podcast-20 >}}
 
 Contato
 -------
@@ -48,25 +57,25 @@ Resumo
 -  **Halloween na Argentina** 34:00
 -  **Conclusão** 34:45
 
-.. top5::
-
-    :music:
-        * Muse
-        * The Smashing Pumpkins
-        * Fiona Apple
-        * Oasis
-        * Pearl Jam
-        * Nirvana
-    :movie:
-        * Donnie Darko
-        * O Silêncio dos Inocentes
-        * O Segredo dos Seus Olhos
-        * Crash
-    :book:
-        * Dragons of Eden
-        * 1984
-        * Admirável Mundo Novo
-        * Os Miseráveis
+{{< top5 >}}
+music:
+    * Muse
+    * The Smashing Pumpkins
+    * Fiona Apple
+    * Oasis
+    * Pearl Jam
+    * Nirvana
+movie:
+    * Donnie Darko
+    * O Silêncio dos Inocentes
+    * O Segredo dos Seus Olhos
+    * Crash
+book:
+    * Dragons of Eden
+    * 1984
+    * Admirável Mundo Novo
+    * Os Miseráveis
+{{< /top5 >}}
 
 Links
 -----

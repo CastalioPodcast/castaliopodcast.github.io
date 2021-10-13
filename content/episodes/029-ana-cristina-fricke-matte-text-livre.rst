@@ -1,12 +1,58 @@
-Ana Cristina Fricke Matte: Texto Livre
-######################################
-:date: 2012-02-05 22:13
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-29/castalio-podcast-29.mp3
-:tags: amadeus, associação software livre, brasnet, código davince, dexter, evidosol, fapemig, fedora linux, fisl, freenode, gt de educação do fils, inteligência adaptiva, inteligência artificial, kernel, kurt kraut, laboratório de semiótica e tecnologia, madonna, marcelo hashimoto, moodle, ning, polly twitter client, ponto de impacto, portal do professor livre na rede, praat, revista texto livre, slackware linux, software livre educacional, texto livre, ubuntu brasil, ubuntu linux, ufba, ufmg, ulgg, uml, underlinux, unesp, universidade de são paulo, universidade federal de minas gerais, windows, wordpress, xoops, opodcastedelas
-:image: images/anamatte.jpg
-:image-alt: Ana Cristina Fricke Matte
+---
+title: "Ana Cristina Fricke Matte: Texto Livre"
+aliases:
+- /ana-cristina-fricke-matte-texto-livre.html
+date: "2012-02-05T22:13:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-29/castalio-podcast-29.mp3"
+tags:
+- amadeus
+- associação software livre
+- brasnet
+- código davince
+- dexter
+- evidosol
+- fapemig
+- fedora linux
+- fisl
+- freenode
+- gt de educação do fils
+- inteligência adaptiva
+- inteligência artificial
+- kernel
+- kurt kraut
+- laboratório de semiótica e tecnologia
+- madonna
+- marcelo hashimoto
+- moodle
+- ning
+- polly twitter client
+- ponto de impacto
+- portal do professor livre na rede
+- praat
+- revista texto livre
+- slackware linux
+- software livre educacional
+- texto livre
+- ubuntu brasil
+- ubuntu linux
+- ufba
+- ufmg
+- ulgg
+- uml
+- underlinux
+- unesp
+- universidade de são paulo
+- universidade federal de minas gerais
+- windows
+- wordpress
+- xoops
+- opodcastedelas
+image: /images/anamatte.jpg
+image-alt: Ana Cristina Fricke Matte
+---
 
 Olá pessoal! Sejam muito bem-vindos a mais um episódio, que quase não
 saiu devido a problemas técnicos de última hora! Mas felizmente consegui
@@ -25,7 +71,7 @@ um estudante da **UFMG** pode tirar uma nota 10!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-29
+{{< podcast castalio-podcast-29 >}}
 
 Contato
 -------
@@ -49,14 +95,14 @@ Resumo
 -  **Pipoca** 33:52
 -  **Conclusão** 34:18
 
-.. top5::
-
-    :music:
-        Madonna
-    :movie:
-        Dexter
-    :book:
-        Ponto de Impácto
+{{< top5 >}}
+music:
+    * Madonna
+movie:
+    * Dexter
+book:
+    * Ponto de Impácto
+{{< /top5 >}}
 
 Links
 -----
@@ -101,7 +147,7 @@ problemas por causa de incompatibilidade com versões do **Python <
 2.6**, ele já tem o código "portado", que pode ser encontrado
 aqui: https://code.launchpad.net/~conscioususer/polly/python2.6
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 

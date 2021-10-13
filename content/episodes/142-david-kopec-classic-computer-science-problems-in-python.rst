@@ -1,17 +1,41 @@
-======================================================================
-Episode 142: David Kopec - Classic Computer Science Problems in Python
-======================================================================
-
-:date: 2019-06-10
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-142/castalio-podcast-142.mp3
-:tags: david kopec, asciidoc, basic, c#, classic computer science problems in
-       python, classic computer science problems in swift, dart for absolute
-       beginners, dart, data classes, f-strings, flutter, git, go, haskell,
-       hava, kotlin, logo, markdown, pycharm, python, react native, rust,
-       seaturtle, swift, type hints, english
-:image: images/david-kopec.jpg
-:image-alt: David Kopec
+---
+title: "Episode 142: David Kopec - Classic Computer Science Problems in Python"
+aliases:
+- /episode-142-david-kopec-classic-computer-science-problems-in-python.html
+date: 2019-06-10
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-142/castalio-podcast-142.mp3"
+tags:
+- david kopec
+- asciidoc
+- basic
+- c#
+- classic computer science problems in python
+- classic computer science problems in swift
+- dart for absolute beginners
+- dart
+- data classes
+- f-strings
+- flutter
+- git
+- go
+- haskell
+- hava
+- kotlin
+- logo
+- markdown
+- pycharm
+- python
+- react native
+- rust
+- seaturtle
+- swift
+- type hints
+- english
+image: /images/david-kopec.jpg
+image-alt: David Kopec
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -30,8 +54,7 @@ podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-142
-    :heading: Listen while you read the show notes...
+{{< podcast id="castalio-podcast-142" heading="Listen while you read the show notes..." >}}
 
 
 We talked about these topics
@@ -69,25 +92,25 @@ In addition to that, you can use the 40% discount code **podcastalio19** which
 good for all `Manning <https://www.manning.com/>`_ products in all formats.
 
 
-.. top5::
-
-    :book:
-        * The Republic
-        * Creative Selection
-        * Game Over, Press Start to Continue
-        * Algorithms
-        * The Abolition of Antitrust
-    :music:
-        * The Egos
-        * The Rolling Stones
-        * Michael Jackson
-        * Bruno Mars
-        * Elvis Presley
-    :movie:
-        * Forrest Gump
-        * Shark Tank
-        * The Profit
-        * The Curse of Oak Island
+{{< top5 >}}
+book:
+    * The Republic
+    * Creative Selection
+    * Game Over, Press Start to Continue
+    * Algorithms
+    * The Abolition of Antitrust
+music:
+    * The Egos
+    * The Rolling Stones
+    * Michael Jackson
+    * Bruno Mars
+    * Elvis Presley
+movie:
+    * Forrest Gump
+    * Shark Tank
+    * The Profit
+    * The Curse of Oak Island
+{{< /top5 >}}
 
 
 Watch the recording of this episode
@@ -97,7 +120,7 @@ This interview was recorded live on our `channel on YouTube
 <http://youtube.com/castaliopodcast>`_ and to see the recording of this episode
 check out the video below:
 
-.. youtube:: oKDIqrjjlP4
+{{< youtube oKDIqrjjlP4 >}}
 
 We would like to thank everyone who have left comments. If you have something
 to tell us, you can leave your comments here on the site, or `Twitter
@@ -118,13 +141,13 @@ Contact
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/david-kopec.jpg" alt="David Kopec" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/david-kopec.jpg" alt="David Kopec" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">David Kopec</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/davekopec">Twitter</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://classicproblems.com/">Classic Computer Science Problems</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/davekopec">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://classicproblems.com/">Classic Computer Science Problems</a></li>
                 </ul>
             </div>
             </div>
@@ -132,8 +155,7 @@ Contact
         </div>
     </div>
 
-.. podcast:: castalio-podcast-142
-    :heading: Listen now!
+{{< podcast id="castalio-podcast-142" heading="Listen now!" >}}
 
 
 Links
@@ -165,7 +187,7 @@ Links
 * `Type Hints`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

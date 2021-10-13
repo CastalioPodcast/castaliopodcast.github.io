@@ -1,20 +1,56 @@
-Episódio 116: Tech News
-#######################
-:date: 2017-09-04
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-116/castalio-podcast-116.mp3
-:tags: docker, linux tips, rust, rustlang, tmate, setup.py, kenneth reitz,
-       flit, poet, fisl, sady, fisl18, opencast, pexpect, pipenv, pipfile,
-       pip, pypi, pypa, python, python-guide, flask, fs2w, grupy, cursodepython,
-       flask simplelogin, login, canalrustbr, telegram, bot, lua, lualang,
-       mattata, rubyconf
-:description: Hoje, trazemos mais um Tech News com algumas novidades sobre
+---
+title: "Episódio 116: Tech News"
+aliases:
+- /episodio-116-tech-news.html
+date: 2017-09-04
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-116/castalio-podcast-116.mp3"
+tags:
+- docker
+- linux tips
+- rust
+- rustlang
+- tmate
+- setup.py
+- kenneth reitz
+- flit
+- poet
+- fisl
+- sady
+- fisl18
+- opencast
+- pexpect
+- pipenv
+- pipfile
+- pip
+- pypi
+- pypa
+- python
+- python-guide
+- flask
+- fs2w
+- grupy
+- cursodepython
+- flask simplelogin
+- login
+- canalrustbr
+- telegram
+- bot
+- lua
+- lualang
+- mattata
+- rubyconf
+description: Hoje, trazemos mais um Tech News com algumas novidades sobre
               o mundo de desenvolvimento de software e dicas de novas bibliotecas
               para Python e Lua. Este episodio foi gravado ao vivo pelo YouTube,
               aproveitamos e convidamos você para assinar o `Canal do YouTube
               do Castálio Podcast`_.
-:image: images/episode-116.png
-:image-alt: Tech News
+image: /images/episode-116.png
+image-alt: Tech News
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -32,7 +68,7 @@ Python e Lua.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-116
+{{< podcast castalio-podcast-116 >}}
 
 .. raw:: html
 
@@ -128,7 +164,7 @@ Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no
 `Canal do YouTube do Castálio Podcast`_ e para ver a gravação deste episódio confira o vídeo abaixo:
 
 
-.. youtube:: zlkbqSP-X_A
+{{< youtube zlkbqSP-X_A >}}
 
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
@@ -144,7 +180,7 @@ Até o próximo episódio!
 Escute agora
 ------------
 
-.. podcast:: castalio-podcast-116
+{{< podcast castalio-podcast-116 >}}
 
 
 Links
@@ -182,7 +218,7 @@ Links
 * `Mattata`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

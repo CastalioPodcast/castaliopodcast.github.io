@@ -1,0 +1,38 @@
+{{ define "content" }}
+<div class="col-lg-12">
+  <div class="container">
+    <div class="row">
+      <div class="card mb-3">
+        <div class="card-body">
+          <form action="{{ "search" | absURL }}">
+            <input  class="form-control me-2" name="s" type="search" placeholder="Pesquisar"/>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div id="search-results">
+    </div>
+  </div>
+</div>
+<!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
+<script id="search-result-template" type="text/x-js-template">
+  <div class="row">
+    <div class="search-result card mb-3" id="{{ print "{{id}}" }}">
+      <div id="summary-${key}" class="card-body">
+        <h4><a href="${link}">${title}</a></h4>
+        <p>${snippet}</p>
+        ${ isset tags }<p><i class="bi bi-tags"></i> ${tags}</p>${ end }
+        ${ isset categories }<p>Categories: ${categories}</p>${ end }
+      </div>
+    </div>
+  </div>
+</script>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+{{- $search := resources.Get "js/search.js" -}}
+{{- $script := $search | resources.Minify | resources.Fingerprint -}}
+<script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+{{ end }}

@@ -1,19 +1,31 @@
-Episódio 104: Caipyra 2017
-##########################
-:date: 2017-06-12
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-104/castalio-podcast-104.mp3
-:tags: caipyra, jéssica temporal, guilherme tavares, python, ribeirão preto,
-       eventos, opodcastedelas
-:description: Hoje, vamos falar a respeito do `Caipyra`_, o único evento de
+---
+title: "Episódio 104: Caipyra 2017"
+aliases:
+- /episodio-104-caipyra-2017.html
+date: 2017-06-12
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-104/castalio-podcast-104.mp3"
+tags:
+- caipyra
+- jéssica temporal
+- guilherme tavares
+- python
+- ribeirão preto
+- eventos
+- opodcastedelas
+description: Hoje, vamos falar a respeito do `Caipyra`_, o único evento de
               Python com quentão e paçoquinha, que acontece de 23 à 27 de junho
               de 2017 em Ribeirão Preto.  Contamos com a participação da
               `Jéssica Temporal`_ e do `Guilherme Tavares`_ (também conhecido
               como Xexa), dois dos organizadores do evento, para nos contar
               como foi no ano passado e o que esperar do evento este ano.
-:image: images/caipyra.jpg
-:image-alt: Caipyra 2017
+image: /images/caipyra.jpg
+image-alt: Caipyra 2017
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -45,7 +57,7 @@ Abordamos os seguintes tópicos:
 Confira a gravação do episódio no vídeo abaixo e informações sobre um sorteio
 inusitado de uma camiseta que o pessoal do Caipyra irá fazer:
 
-.. youtube:: Fx1xgCjhM5g
+{{< youtube Fx1xgCjhM5g >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -67,14 +79,14 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/jessica-temporal.jpg" alt="Jéssica Temporal" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/jessica-temporal.jpg" alt="Jéssica Temporal" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Jéssica Temporal</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/jtemporal">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://jtemporal.com/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/jesstemporal">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/jtemporal">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://jtemporal.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/jesstemporal">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -84,12 +96,12 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/guilherme-tavares.jpg" alt="Guilherme Tavares (Xexa)" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/guilherme-tavares.jpg" alt="Guilherme Tavares (Xexa)" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Guilherme Tavares (Xexa)</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/guilhermetavares">Github</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/guilhermetavares">Github</a></li>
                 </ul>
             </div>
             </div>
@@ -100,7 +112,7 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-104
+{{< podcast castalio-podcast-104 >}}
 
 Links
 -----
@@ -114,7 +126,7 @@ Links
 * `Fotos do Caipyra 2016 por Maco Rougeth`_
 * `Caipyra 2016 - O encontro de Python do Interior`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,17 +1,34 @@
-Episódio 107: Chat Bots
-#######################
-:date: 2017-07-03
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-107/castalio-podcast-107.mp3
-:tags: caio calado, rafael pacheco, chat bots, c#, javascript, selenium,
-       docker, telegram, slack, micro-moments, rocket.chat, chatbot brasil,
-       bots brasil
-:description: Hoje falaremos sobre os aspectos básicos, filosóficos, o mercado
+---
+title: "Episódio 107: Chat Bots"
+aliases:
+- /episodio-107-chat-bots.html
+date: 2017-07-03
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-107/castalio-podcast-107.mp3"
+tags:
+- caio calado
+- rafael pacheco
+- chat bots
+- c#
+- javascript
+- selenium
+- docker
+- telegram
+- slack
+- micro-moments
+- rocket.chat
+- chatbot brasil
+- bots brasil
+description: Hoje falaremos sobre os aspectos básicos, filosóficos, o mercado
               e usabilidade envolvendo Chat Bots. Para nos ajudar com este
               tema, contamos com a presença do Caio Calado e Rafael Pacheco.
-:image: images/chat-bots.png
-:image-alt: Chat Bots
+image: /images/chat-bots.png
+image-alt: Chat Bots
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -57,7 +74,7 @@ Bader <http://castalio.info/episodio-106-dan-bader.html>`_. Os sorteados foram:
 
 Confira a gravação deste episódio no vídeo abaixo:
 
-.. youtube:: UCToxnuNKQo
+{{< youtube UCToxnuNKQo >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -79,14 +96,14 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/caio-calado.jpg" alt="Caio Calado" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/caio-calado.jpg" alt="Caio Calado" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Caio Calado</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/CaioCalado">Facebook</a></li>
-                    <li><i class="fa fa-medium"></i> <a href="https://medium.com/@caio_caladoo">Medium</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/caio_caladoo">Twitter</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/CaioCalado">Facebook</a></li>
+                    <li><i class="bi bi-medium"></i> <a href="https://medium.com/@caio_caladoo">Medium</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/caio_caladoo">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -96,15 +113,15 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/rafael-pacheco.jpg" alt="Rafael Pacheco" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/rafael-pacheco.jpg" alt="Rafael Pacheco" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Rafael Pacheco</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/ravpacheco">Facebook</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://ravpacheco.com/">Site</a></li>
-                    <li><i class="fa fa-medium"></i> <a href="https://medium.com/@ravpacheco">Medium</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/ravpachecco">Twitter</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/ravpacheco">Facebook</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://ravpacheco.com/">Site</a></li>
+                    <li><i class="bi bi-medium"></i> <a href="https://medium.com/@ravpacheco">Medium</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/ravpachecco">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -115,13 +132,13 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-107
+{{< podcast castalio-podcast-107 >}}
 
 Links
 -----
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

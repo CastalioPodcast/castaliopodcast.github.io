@@ -1,21 +1,64 @@
-====================================================================
-Episódio 144: Osvaldo Santana - O Início da Comunidade Python Brasil
-====================================================================
-
-:date: 2019-10-28
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-144/castalio-podcast-144.mp3
-:tags: osvaldo santana, python, python brasil, rudá moura, waterfall, extreme
-    go horse, revista saber eletrônica, basic, pierluigi piazzi - editora
-    aleph, logo, seymour papert, assembly, z80, c, os/2, slackware, conectiva,
-    maximum rpm, kde, gnome, window maker, wanderlei cavassin, log4j, gustavo
-    niemeyer, python-dateutil, zope, alfredo kojima, control-m, fisl,
-    comunidade python brasil, evento python brasil, lista de discussão
-    python-brasil, plone, moinmoin, rodrigo senra, luciano ramalho, web
-    semântica, erp, crm, kanui, olist, indie hackers, pair programming, code
-    review, collective code ownership, kanban, scrum, entreplanos, clipmyhorse
-:image: images/osvaldo-santana.jpg
-:image-alt: Osvaldo Santana
+---
+title: "Episódio 144: Osvaldo Santana - O Início da Comunidade Python Brasil"
+aliases:
+- /episodio-144-osvaldo-santana-o-inicio-da-comunidade-python-brasil.html
+date: 2019-10-28
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-144/castalio-podcast-144.mp3"
+tags:
+- osvaldo santana
+- python
+- python brasil
+- rudá moura
+- waterfall
+- extreme go horse
+- revista saber eletrônica
+- basic
+- pierluigi piazzi - editora aleph
+- logo
+- seymour papert
+- assembly
+- z80
+- c
+- os/2
+- slackware
+- conectiva
+- maximum rpm
+- kde
+- gnome
+- window maker
+- wanderlei cavassin
+- log4j
+- gustavo niemeyer
+- python-dateutil
+- zope
+- alfredo kojima
+- control-m
+- fisl
+- comunidade python brasil
+- evento python brasil
+- lista de discussão python-brasil
+- plone
+- moinmoin
+- rodrigo senra
+- luciano ramalho
+- web semântica
+- erp
+- crm
+- kanui
+- olist
+- indie hackers
+- pair programming
+- code review
+- collective code ownership
+- kanban
+- scrum
+- entreplanos
+- clipmyhorse
+image: /images/osvaldo-santana.jpg
+image-alt: Osvaldo Santana
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -34,8 +77,7 @@ ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-144
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-144" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -50,31 +92,31 @@ Tópicos abordados neste episódio
   execução para transformar uma ideia em projeto e depois em produto?
 
 
-.. top5::
-
-    :music:
-        * Kraftwerk
-        * New Order
-        * The Cure
-        * Placebo
-        * Daft Punk
-        * Rammstein
-        * Die Ärzte
-    :movie:
-        * Blade Runner
-        * Blade Runner 2049
-        * De Volta Para o Futuro
-        * Breaking Bad
-        * Mad Men
-    :book:
-        * Isaac Asimov
-        * O Marciano
-        * Extreme Programming Explained
-        * Test Driven Development: By Example
-        * The Pragmatic Programmer
-        * Refactoring: Improving the Design of Existing Code
-        * Fundamentos do Desenho Orientado a Objeto Com Uml
-        * Code
+{{< top5 >}}
+music:
+    * Kraftwerk
+    * New Order
+    * The Cure
+    * Placebo
+    * Daft Punk
+    * Rammstein
+    * Die Ärzte
+movie:
+    * Blade Runner
+    * Blade Runner 2049
+    * De Volta Para o Futuro
+    * Breaking Bad
+    * Mad Men
+book:
+    * Isaac Asimov
+    * O Marciano
+    * Extreme Programming Explained
+    * Test Driven Development: By Example
+    * The Pragmatic Programmer
+    * Refactoring: Improving the Design of Existing Code
+    * Fundamentos do Desenho Orientado a Objeto Com Uml
+    * Code
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -84,7 +126,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: uA1o_LwQJws
+{{< youtube uA1o_LwQJws >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -106,13 +148,13 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/osvaldo-santana.jpg" alt="Osvaldo Santana" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/osvaldo-santana.jpg" alt="Osvaldo Santana" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Osvaldo Santana</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-link"></i> <a href="https://osantana.me/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/osantana">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://osantana.me/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/osantana">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -120,8 +162,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-144
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-144" heading="Escute Agora" >}}
 
 
 Links
@@ -175,7 +216,7 @@ Links
 * `ClipMyHorse`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

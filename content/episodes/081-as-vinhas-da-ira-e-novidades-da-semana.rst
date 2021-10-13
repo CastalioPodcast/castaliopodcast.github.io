@@ -1,16 +1,28 @@
-Episódio 81: Book Review: As Vinhas da Ira e Novidades da Semana
-################################################################
-:date: 2017-01-01
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-81/castalio-podcast-81.mp3
-:tags: book review, novidades da semana, john steinbeck, maya, surprise,
-       pytone, q
-:description: Hoje, trazemos mais um book review com o livro As Vinhas da Ira
+---
+title: "Episódio 81: Book Review: As Vinhas da Ira e Novidades da Semana"
+aliases:
+- /episodio-81-book-review-as-vinhas-da-ira-e-novidades-da-semana.html
+date: 2017-01-01
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-81/castalio-podcast-81.mp3"
+tags:
+- book review
+- novidades da semana
+- john steinbeck
+- maya
+- surprise
+- pytone
+- q
+description: Hoje, trazemos mais um book review com o livro As Vinhas da Ira
               por John Steinbeck. Também trazemos algumas novidades da semana
               com notícias, pacotes e projetos interessantes.
-:image: images/as-vinhas-da-ira.jpg
-:image-alt: As Vinhas da Ira por John Steinbeck
+image: /images/as-vinhas-da-ira.jpg
+image-alt: As Vinhas da Ira por John Steinbeck
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -103,7 +115,7 @@ emprego, terra, dignidade e um futuro.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-81
+{{< podcast castalio-podcast-81 >}}
 
 Links
 -----
@@ -118,7 +130,7 @@ Links
 * `Firebug lives on in Firefox DevTools`_
 * `Vinhas da Ira - Filme - 1940`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

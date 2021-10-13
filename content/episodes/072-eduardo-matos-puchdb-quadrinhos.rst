@@ -1,15 +1,24 @@
-Episódio 72: Eduardo Matos - PouchDB e Quadrinhos
-#################################################
-:date: 2016-06-26
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-72/castalio-podcast-72.mp3
-:tags: eduardo matos, offline first, pouchdb, quadrinhos
-:description: Hoje, conversamos com o Eduardo Matos que nos conta o que é
+---
+title: "Episódio 72: Eduardo Matos - PouchDB e Quadrinhos"
+aliases:
+- /episodio-72-eduardo-matos-pouchdb-e-quadrinhos.html
+date: 2016-06-26
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-72/castalio-podcast-72.mp3"
+tags:
+- eduardo matos
+- offline first
+- pouchdb
+- quadrinhos
+description: Hoje, conversamos com o Eduardo Matos que nos conta o que é
               offline first e PouchDB além de falar sobre sua paixão por
               quadrinhos.
-:image: images/eduardomatos.jpg
-:image-alt: Eduardo Matos - PouchDB e Quadrinhos
+image: /images/eduardomatos.jpg
+image-alt: Eduardo Matos - PouchDB e Quadrinhos
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -36,7 +45,7 @@ Eduardo tem por quadrinhos. Você pode ver isso na imagem abaixo onde o Eduardo
 compartilha conosco sua coleção de mais de 1000 quadrinhos. Finalmente falamos
 sobre o Top 5 e como sempre está cheio de indicações interessantes.
 
-.. figure:: {static}/images/eduardomatos-quadrinhos.jpg
+.. figure:: /images/eduardomatos-quadrinhos.jpg
    :alt: Coleção de Quadrinhos do Eduardo Matos
    :figclass: center-block
 
@@ -54,28 +63,28 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-72
+{{< podcast castalio-podcast-72 >}}
 
-.. top5::
-
-    :movie:
-        * A Espera de um Milagre
-        * Clube da Luta
-        * O Poderoso Chefão
-        * Pulp Fiction
-        * Game of Thrones
-        * Silicon Valley
-    :music:
-        * AC/DC
-        * B.B. King
-        * Jimi Hendrix
-        * Stevie Ray
-        * Tenatious D
-    :book:
-        * Hellblazer
-        * Maus
-        * The Sandman
-        * Watchmen
+{{< top5 >}}
+movie:
+    * A Espera de um Milagre
+    * Clube da Luta
+    * O Poderoso Chefão
+    * Pulp Fiction
+    * Game of Thrones
+    * Silicon Valley
+music:
+    * AC/DC
+    * B.B. King
+    * Jimi Hendrix
+    * Stevie Ray
+    * Tenatious D
+book:
+    * Hellblazer
+    * Maus
+    * The Sandman
+    * Watchmen
+{{< /top5 >}}
 
 
 Links
@@ -88,7 +97,7 @@ Links
 * `vimrc do Eduardo`_
 * `webkit2png`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

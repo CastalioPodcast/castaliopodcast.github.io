@@ -1,17 +1,25 @@
-Episódio 65: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment
-#################################################################
-:date: 2015-03-15
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-65/castalio-podcast-65.mp3
-:tags: gustavo barbieri, profusion, enlightenment
-:description: Neste episódio entrevistamos o Gustavo Barbieri,
+---
+title: "Episódio 65: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment"
+aliases:
+- /episodio-65-gustavo-sverzut-barbieri-profusion-e-enlightenment.html
+date: 2015-03-15
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-65/castalio-podcast-65.mp3"
+tags:
+- gustavo barbieri
+- profusion
+- enlightenment
+description: Neste episódio entrevistamos o Gustavo Barbieri,
               conversamos sobre sua empresa ProFUSION que foi
               comprada pela Intel em 2012, além de seu
               envolvimento no projeto Enlightenment, e finalmente
               sobre o seu Top 5.
-:image: images/gustavobarbieri.jpg
-:image-alt: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment
+image: /images/gustavobarbieri.jpg
+image-alt: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 
@@ -42,37 +50,37 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-65
+{{< podcast castalio-podcast-65 >}}
 
-.. top5::
-
-    :music:
-        * AC/DC
-        * Iron Maiden
-        * Metallica
-        * Black Sabbath
-        * Ozzy Osbourne
-        * ZZ Top
-        * Dream Theater
-    :book:
-        * Minu, o Gato Azul
-        * Menino Maluquinho
-        * Garra De Campeão
-        * Turma da Mônica
-    :movie:
-        * Breaking Bad
-        * Prison Break
-        * Star Trek
-        * Star Wars
-        * Jaspion
-        * Jiraiya
+{{< top5 >}}
+music:
+    * AC/DC
+    * Iron Maiden
+    * Metallica
+    * Black Sabbath
+    * Ozzy Osbourne
+    * ZZ Top
+    * Dream Theater
+book:
+    * Minu, o Gato Azul
+    * Menino Maluquinho
+    * Garra De Campeão
+    * Turma da Mônica
+movie:
+    * Breaking Bad
+    * Prison Break
+    * Star Trek
+    * Star Wars
+    * Jaspion
+    * Jiraiya
+{{< /top5 >}}
 
 Links
 -----
 * `ProFUSION`_
 * `Enlightenment`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

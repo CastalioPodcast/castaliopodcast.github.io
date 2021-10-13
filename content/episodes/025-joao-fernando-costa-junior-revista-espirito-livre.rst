@@ -1,12 +1,51 @@
-João Fernando Costa Júnior: Revista Espírito Livre
-##################################################
-:date: 2011-12-12 02:31
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-25/castalio-podcast-25.mp3
-:tags: agentes do destino, angra, apollo 18, bíblia, br-linux, cloud computing, criminal minds, dexter, dream fitter, enya, estadão, folha, ghostscript, gimp, google docs, gtalk, inkscape, john maddog, kitaro, legião urbana, libre office, matrix, mentalist, night wish, o senhor dos anéis, pdf, revista espírito livre, scribus, source code, stratovarious, super 8, v de vingança, with temptation, xfce, xubuntu
-:image: images/joaojunior.jpg
-:image-alt: João Fernando Costa Junior
+---
+title: "João Fernando Costa Júnior: Revista Espírito Livre"
+aliases:
+- /joao-fernando-costa-junior-revista-espirito-livre.html
+date: "2011-12-12T02:31:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-25/castalio-podcast-25.mp3"
+tags:
+- agentes do destino
+- angra
+- apollo 18
+- bíblia
+- br-linux
+- cloud computing
+- criminal minds
+- dexter
+- dream fitter
+- enya
+- estadão
+- folha
+- ghostscript
+- gimp
+- google docs
+- gtalk
+- inkscape
+- john maddog
+- kitaro
+- legião urbana
+- libre office
+- matrix
+- mentalist
+- night wish
+- o senhor dos anéis
+- pdf
+- revista espírito livre
+- scribus
+- source code
+- stratovarious
+- super 8
+- v de vingança
+- with temptation
+- xfce
+- xubuntu
+image: /images/joaojunior.jpg
+image-alt: João Fernando Costa Junior
+---
 
 O entrevistado deste episódio é o **João Fernando Costa Júnior**,
 criador e mantenedor da `Revista Espírito Livre`_, "uma publicação em
@@ -28,7 +67,7 @@ e até mesmo um ovo de páscoa para a próxima edição!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-25
+{{< podcast castalio-podcast-25 >}}
 
 Contato
 -------
@@ -52,34 +91,34 @@ Resumo
 -  **Ovo de Páscoa** 40:45
 -  **Conclusão** 42:07
 
-.. top5::
-
-    :music:
-        * Dream Theater
-        * Angra
-        * Enya
-        * Kitaro
-        * Legião Urbana
-        * Nightwish
-        * Within Temptation
-        * Stratovarius
-    :movie:
-        * O Senhor dos Anéis
-        * The Matrix
-        * V de Vingança
-        * Agentes do Destino
-        * Super 8
-        * Source Code
-        * Apollo 18
-        * Dexter
-        * Criminal Minds
-        * The Mentalist
-    :book:
-        * Bíblia
-        * Folha
-        * Estadão
-    :site:
-        * BR-Linux
+{{< top5 >}}
+music:
+    * Dream Theater
+    * Angra
+    * Enya
+    * Kitaro
+    * Legião Urbana
+    * Nightwish
+    * Within Temptation
+    * Stratovarius
+movie:
+    * O Senhor dos Anéis
+    * The Matrix
+    * V de Vingança
+    * Agentes do Destino
+    * Super 8
+    * Source Code
+    * Apollo 18
+    * Dexter
+    * Criminal Minds
+    * The Mentalist
+book:
+    * Bíblia
+    * Folha
+    * Estadão
+site:
+    * BR-Linux
+{{< /top5 >}}
 
 
 Links
@@ -98,7 +137,7 @@ Links
 -  `PDF`_
 -  `Cloud Computing`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 

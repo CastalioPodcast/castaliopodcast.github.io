@@ -1,12 +1,29 @@
-Episódio Especial: André Gondim - Ubuntu Brasil
-###############################################
-:date: 2011-11-06 23:17
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-21/castalio-podcast-21.mp3
-:tags: andré gondim, andré noel, canonical, fábio nogueira, fisl, fridge, gnome, launchpad, lxde, rafael higino, rosetta, ubuntu, xfce
-:image: images/andregondim.png
-:image-alt: André Gondim - Ubuntu Brasil
+---
+title: "Episódio Especial: André Gondim - Ubuntu Brasil"
+aliases:
+- /episodio-especial-andre-gondim-ubuntu-brasil.html
+date: "2011-11-06T23:17:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-21/castalio-podcast-21.mp3"
+tags:
+- andré gondim
+- andré noel
+- canonical
+- fábio nogueira
+- fisl
+- fridge
+- gnome
+- launchpad
+- lxde
+- rafael higino
+- rosetta
+- ubuntu
+- xfce
+image: /images/andregondim.png
+image-alt: André Gondim - Ubuntu Brasil
+---
 
 Olá pessoal! Foi com um enorme pezar que eu recebi a `notícia`_ sobre
 o falecimento de `André Gondim`_, uma figura do software livre Brasileiro que,
@@ -26,7 +43,7 @@ tradutores das equipes GNOME, etc, etc.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-21
+{{< podcast castalio-podcast-21 >}}
 
 Contato
 -------
@@ -44,7 +61,7 @@ tradutores, assim como o **Rafael Higino**, como uma pessoa que estava
 sempre disposta a ajudar quem quer que fosse, sempre com entusiasmo,
 cordialidade e boa vontade.
 
-.. figure:: {static}/images/irc.png
+.. figure:: /images/irc.png
    :alt: Usuário do André no canal dos tradutores
 
    Usuário do André no canal dos tradutores

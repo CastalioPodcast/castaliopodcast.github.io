@@ -1,13 +1,19 @@
-========================================================
-Episódio 149: Nina Da Hora - Computação da Hora e Ogunhê
-========================================================
-
-:date: 2020-08-31
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-149/castalio-podcast-149.mp3
-:tags: nina da hora, Computação da hora, Ogunhê, Computação sem caô
-:image: images/nina-da-hora.jpg
-:image-alt: Nina Da Hora
+---
+title: "Episódio 149: Nina Da Hora - Computação da Hora e Ogunhê"
+aliases:
+- /episodio-149-nina-da-hora-computacao-da-hora-e-ogunhe.html
+date: 2020-08-31
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-149/castalio-podcast-149.mp3"
+tags:
+- nina da hora
+- Computação da hora
+- Ogunhê
+- Computação sem caô
+image: /images/nina-da-hora.jpg
+image-alt: Nina Da Hora
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -25,8 +31,7 @@ Hora, seja muito bem-vinda ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-149
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-149" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -37,25 +42,25 @@ Tópicos abordados neste episódio
 * Seu podcast o Ogunhê
 * Outros projetos que ela participou como Computação Sem Caô
 
-.. top5::
-
-    :book:
-        * African Mathematics
-        * História da Matemática
-        * As Lendas de Dandara
-        * Hip-Hop and Philosophy
-    :movie:
-        * Spider-Man: Into the Spider-Verse
-        * Pantera Negra
-        * Insecure
-        * Mr. Robot
-        * Um Maluco no Pedaço
-    :music:
-        * Beyoncé - BLACK PARADE
-        * Emicida
-        * Zéca Pagodinho
-        * Panic! at the Disco
-        * Funk
+{{< top5 >}}
+book:
+    * African Mathematics
+    * História da Matemática
+    * As Lendas de Dandara
+    * Hip-Hop and Philosophy
+movie:
+    * Spider-Man: Into the Spider-Verse
+    * Pantera Negra
+    * Insecure
+    * Mr. Robot
+    * Um Maluco no Pedaço
+music:
+    * Beyoncé - BLACK PARADE
+    * Emicida
+    * Zéca Pagodinho
+    * Panic! at the Disco
+    * Funk
+{{< /top5 >}}
 
 
 
@@ -66,7 +71,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: xrfVArUjUKQ
+{{< youtube xrfVArUjUKQ >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -88,15 +93,15 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/nina-da-hora.jpg" alt="Nina Da Hora" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/nina-da-hora.jpg" alt="Nina Da Hora" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Nina Da Hora</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-podcast"></i> <a href="https://anchor.fm/ana-carolina-da-hora">Ogunhê</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://www.ninadahora.dev/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/ninadhora">Twitter</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/channel/UCQ9fpGb7sOBYvbVN9OcVtJQ">Computação da Hora</a></li>
+                    <li><i class="bi bi-podcast"></i> <a href="https://anchor.fm/ana-carolina-da-hora">Ogunhê</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://www.ninadahora.dev/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/ninadhora">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/channel/UCQ9fpGb7sOBYvbVN9OcVtJQ">Computação da Hora</a></li>
                 </ul>
             </div>
             </div>
@@ -104,11 +109,10 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-149
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-149" heading="Escute Agora" >}}
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

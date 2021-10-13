@@ -1,21 +1,71 @@
-Episódio 115: Multimedia no Linux - Parte 3
-###########################################
-:date: 2017-08-28
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-115/castalio-podcast-115.mp3
-:tags: adobe premiere, sony vegas, ubuntu , openshot, kdenlive, movie maker, lightworks,
-       davinci resolve, imovie, avid, media composer, fosloks﻿, ​blender, flowblade, natron,
-       mlt, fusion, nuke, frei0r-plugins, arch linux, aur (arch linux), after effects,
-       photoshop, gimp, inkscape, corel draw, hit filme express, time, pink floyd, ripple,
-       grateful dead, homecoming, green day, baba o'riley, the who, highway to hell, ac/dc,
-       breve história de quase tudo, bill bryson, breve história do tempo, stephen hawking,
-       comédias da vida privada, luis fernando verissimo, o gato sou eu, fernando sabino,
-       invocadores do mal, cheryl a. wicks, matrix, de volta para o futuro, psicose,
-       interestelar, independence day
-:description: Nossa entrevista com Dionatan Simioni sobre edição de videos no Linux.
-:image: images/dionatan-simioni.png
-:image-alt: Dionatan Simioni
+---
+title: "Episódio 115: Multimedia no Linux - Parte 3"
+aliases:
+- /episodio-115-multimedia-no-linux-parte-3.html
+date: 2017-08-28
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-115/castalio-podcast-115.mp3"
+tags:
+- adobe premiere
+- sony vegas
+- ubuntu
+- openshot
+- kdenlive
+- movie maker
+- lightworks
+- davinci resolve
+- imovie
+- avid
+- media composer
+- fosloks﻿
+- ​blender
+- flowblade
+- natron
+- mlt
+- fusion
+- nuke
+- frei0r-plugins
+- arch linux
+- aur (arch linux)
+- after effects
+- photoshop
+- gimp
+- inkscape
+- corel draw
+- hit filme express
+- time
+- pink floyd
+- ripple
+- grateful dead
+- homecoming
+- green day
+- baba o'riley
+- the who
+- highway to hell
+- ac/dc
+- breve história de quase tudo
+- bill bryson
+- breve história do tempo
+- stephen hawking
+- comédias da vida privada
+- luis fernando verissimo
+- o gato sou eu
+- fernando sabino
+- invocadores do mal
+- cheryl a. wicks
+- matrix
+- de volta para o futuro
+- psicose
+- interestelar
+- independence day
+description: Nossa entrevista com Dionatan Simioni sobre edição de videos no Linux.
+image: /images/dionatan-simioni.png
+image-alt: Dionatan Simioni
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -51,7 +101,7 @@ Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no `YouTube`_ e
 gravação deste episódio confira o vídeo abaixo:
 
 
-.. youtube:: EUZdHI0EolI
+{{< youtube EUZdHI0EolI >}}
 
 
 A `RubyConf <http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/>`_
@@ -82,16 +132,16 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/dionatan-simioni.png" alt="Dionatan Simioni" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/dionatan-simioni.png" alt="Dionatan Simioni" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Dionatan Simioni</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/user/Diolinux">Youtube</a></li>
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/blogdiolinux">Facebook</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://www.diolinux.com.br/search">Site</a></li>
-                    <li><i class="fa fa-book"></i> <a href="http://ebook.diolinux.com.br/">E-Book</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/blogdiolinux">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/user/Diolinux">Youtube</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/blogdiolinux">Facebook</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://www.diolinux.com.br/search">Site</a></li>
+                    <li><i class="bi bi-book"></i> <a href="http://ebook.diolinux.com.br/">E-Book</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/blogdiolinux">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -102,29 +152,29 @@ Contato
 Listen Now
 ----------
 
-.. podcast:: castalio-podcast-115
+{{< podcast castalio-podcast-115 >}}
 
 
-.. top5::
-
-    :music:
-        * Pink Floyd - Time
-        * Grateful Dead - Ripple
-        * Green Day - Homecoming
-        * The Who - Baba O'Riley
-        * AC/DC - Highway to Hell
-    :book:
-        * Breve História de Quase Tudo
-        * Uma Breve História do Tempo
-        * Comédias da Vida Privada
-        * O Gato Sou Eu
-        * Invocadores do Mal
-    :movie:
-        * The Matrix
-        * De Volta Para o Futuro
-        * Psicose
-        * Interestelar
-        * Independence Day
+{{< top5 >}}
+music:
+    * Pink Floyd - Time
+    * Grateful Dead - Ripple
+    * Green Day - Homecoming
+    * The Who - Baba O'Riley
+    * AC/DC - Highway to Hell
+book:
+    * Breve História de Quase Tudo
+    * Uma Breve História do Tempo
+    * Comédias da Vida Privada
+    * O Gato Sou Eu
+    * Invocadores do Mal
+movie:
+    * The Matrix
+    * De Volta Para o Futuro
+    * Psicose
+    * Interestelar
+    * Independence Day
+{{< /top5 >}}
 
 
 Links
@@ -158,7 +208,7 @@ Links
 * `HitFilme Express`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

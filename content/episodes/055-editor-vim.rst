@@ -1,12 +1,19 @@
-Episódio 55: Editor Vim
-#######################
-:date: 2014-11-23 18:44
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3
-:tags: github, vim
-:image: images/episodio-55-vim.png
-:image-alt: Editor Vim
+---
+title: "Episódio 55: Editor Vim"
+aliases:
+- /episodio-55-editor-vim.html
+date: "2014-11-23T18:44:00"
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3"
+tags:
+- github
+- vim
+image: /images/episodio-55-vim.png
+image-alt: Editor Vim
+---
 
 Depois de um longo e tenebroso inverno, estamos de volta ao ar, desta
 vez para ficar e com algumas novidades.Mas primeiramente, uma explicação
@@ -86,7 +93,7 @@ algo para o seu editor ou aplicativo favorito!!!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-55
+{{< podcast castalio-podcast-55 >}}
 
 Links
 -----
@@ -132,7 +139,7 @@ realizar a seleção caracter por caracter. "Shift+v" ("V") para entrar no
 modo visual, mas selecionando linhas. Ao realizar uma seleção utilize
 "y" para copiar e, no modo normal, "p" para colar.
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

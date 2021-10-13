@@ -1,12 +1,22 @@
-Igor Pires Soares - Projeto Fedora
-##################################
-:date: 2011-07-11 00:00
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-12/castalio-podcast-12.mp3
-:tags: fedora, fudcon, rem, smolt, transifex, u2
-:image: images/igorsoares.png
-:image-alt: Igor Soares - Projeto Fedora
+---
+title: "Igor Pires Soares - Projeto Fedora"
+aliases:
+- /igor-pires-soares-projeto-fedora.html
+date: 2011-07-11
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-12/castalio-podcast-12.mp3"
+tags:
+- fedora
+- fudcon
+- rem
+- smolt
+- transifex
+- u2
+image: /images/igorsoares.png
+image-alt: Igor Soares - Projeto Fedora
+---
 
 **UPDATE**:  Peço desculpas pelo problema de áudio que o último
 episódio teve... isso que dá editar a entrevista tarde da noite! :)
@@ -35,7 +45,7 @@ cantando música do **Pixinguinha**!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-12
+{{< podcast castalio-podcast-12 >}}
 
 Contato
 -------
@@ -55,23 +65,23 @@ Resumo
 -  **Top 5**: 38:00
 -  **Fechamento**: 47:00
 
-.. top5::
-
-    :music:
-        * U2
-        * R.E.M.
-        * Radiohead
-        * Norah Jones
-        * Los Hermanos
-        * Pato Fu
-    :movie:
-        * Forrest Gump
-        * Crash
-        * À Procura da Felicidade
-        * Sete Vidas
-        * Toy Story
-    :book:
-        * José Saramago
+{{< top5 >}}
+music:
+    * U2
+    * R.E.M.
+    * Radiohead
+    * Norah Jones
+    * Los Hermanos
+    * Pato Fu
+movie:
+    * Forrest Gump
+    * Crash
+    * À Procura da Felicidade
+    * Sete Vidas
+    * Toy Story
+book:
+    * José Saramago
+{{< /top5 >}}
 
 Links
 -----

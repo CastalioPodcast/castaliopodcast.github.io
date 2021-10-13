@@ -1,16 +1,29 @@
-Episódio 73: Python Brasil 12 - Parte 1
-#######################################
-:date: 2016-11-06
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-73/castalio-podcast-73.mp3
-:tags: python brasil, python, mário sergio, naomi ceder, pybr12, english, opodcastedelas
-:description: Hoje, trazemos um episódio diferente com duas entrevistas
+---
+title: "Episódio 73: Python Brasil 12 - Parte 1"
+aliases:
+- /episodio-73-python-brasil-12-parte-1.html
+date: 2016-11-06
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-73/castalio-podcast-73.mp3"
+tags:
+- python brasil
+- python
+- mário sergio
+- naomi ceder
+- pybr12
+- english
+- opodcastedelas
+description: Hoje, trazemos um episódio diferente com duas entrevistas
               gravadas ao vivo durante o evento Python Brasil 12 com o
               organizador do evento, Mário Sergio, e uma entrevista em inglês
               com Naomi Ceder da Python Software Foundation.
-:image: images/pybr-logo.png
-:image-alt: Python Brasil
+image: /images/pybr-logo.png
+image-alt: Python Brasil
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -34,7 +47,7 @@ também sobre algo que deseja muito fazer quando não está desenvolvendo.
 
     <div class="clearfix"></div>
 
-.. figure:: {static}/images/pybr12-mario-sergio.jpg
+.. figure:: /images/pybr12-mario-sergio.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando o Mário Sergio
    :figclass: clear clearfix center-block
 
@@ -48,7 +61,7 @@ eventos de Python ao redor do mundo. Também conversamos sobre o trabalho da
 Naomi e terceira edição do seu livro, `The Quick Python Book`_, que está quase
 saindo.
 
-.. figure:: {static}/images/pybr12-naomi-ceder.jpg
+.. figure:: /images/pybr12-naomi-ceder.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando a Naomi Ceder
    :figclass: center-block
 
@@ -79,24 +92,24 @@ Contato Naomi Ceder
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-73
+{{< podcast castalio-podcast-73 >}}
 
-.. top5:: Top 1 Mário Sergio
+{{< top5 "Top 1 Mário Sergio" >}}
+movie:
+    * A Espera de um Milagre
+music:
+    * Legião Urbana
+book:
+    * O Caçador de Pipas
+{{< /top5 >}}
 
-    :movie:
-        * A Espera de um Milagre
-    :music:
-        * Legião Urbana
-    :book:
-        * O Caçador de Pipas
 
-
-.. top5:: Top 1 Naomi Ceder
-
-    :music:
-        * Florence + the Machine
-    :book:
-        * Confessions of a Necromancer
+{{< top5 "Top 1 Naomi Ceder" >}}
+music:
+    * Florence + the Machine
+book:
+    * Confessions of a Necromancer
+{{< /top5 >}}
 
 
 Links
@@ -106,7 +119,7 @@ Links
 * `The Quick Python Book`_
 * `Um Protocolo para morrer - por Pieter Hintjens`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

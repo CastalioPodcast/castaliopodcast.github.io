@@ -1,17 +1,53 @@
-Episódio 113: Multimedia no Linux - Parte 2
-###########################################
-:date: 2017-08-14
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-113/castalio-podcast-113.mp3
-:tags: danilo j. s. bellini, audiolazy, ardour, audacity, avix, reaper, adobe audition,
-       lmms, hydrogen, fruit loops, pro tools, sox, ffmpeg, csound, pure data, faust,
-       supercollider, war eternal, arch enemy, sacred power of raging winds, rhapsody,
-       aces high, iron maiden, erotomania, dream theater, the call of the mountains,
-       eluveitie, wikipedia, game of thrones, vikings, one piece, shōnen, seinen, dexter
-:description: Produção e edição de áudio no Linux com Danilo J. S. Bellini
-:image: images/episode-113.png
-:image-alt: Multimedia no Linux - Parte 2
+---
+title: "Episódio 113: Multimedia no Linux - Parte 2"
+aliases:
+- /episodio-113-multimedia-no-linux-parte-2.html
+date: 2017-08-14
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-113/castalio-podcast-113.mp3"
+tags:
+- danilo j. s. bellini
+- audiolazy
+- ardour
+- audacity
+- avix
+- reaper
+- adobe audition
+- lmms
+- hydrogen
+- fruit loops
+- pro tools
+- sox
+- ffmpeg
+- csound
+- pure data
+- faust
+- supercollider
+- war eternal
+- arch enemy
+- sacred power of raging winds
+- rhapsody
+- aces high
+- iron maiden
+- erotomania
+- dream theater
+- the call of the mountains
+- eluveitie
+- wikipedia
+- game of thrones
+- vikings
+- one piece
+- shōnen
+- seinen
+- dexter
+description: Produção e edição de áudio no Linux com Danilo J. S. Bellini
+image: /images/episode-113.png
+image-alt: Multimedia no Linux - Parte 2
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -47,7 +83,7 @@ Abordamos os seguintes tópicos:
 Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no `YouTube`_ e para ver a
 gravação deste episódio confira o vídeo abaixo:
 
-.. youtube:: 57f3G0A6cnM
+{{< youtube 57f3G0A6cnM >}}
 
 A `RubyConf <http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/>`_
 em parceria com o Castálio Podcast disponibilizou 10 ingressos para sortear
@@ -77,17 +113,17 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/danilo-bellini.jpg" alt="Danilo J. S. Bellini" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/danilo-bellini.jpg" alt="Danilo J. S. Bellini" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Danilo J. S. Bellini</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-bitbucket"></i> <a href="https://bitbucket.org/danilobellini/">BitBucket</a></li>
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/djsbellini">Facebook</a></li>
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/danilobellini">Github</a></li>
-                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/danilo-j-s-bellini-66a96310/">LinkedIn</a></li>
-                    <li><i class="fa fa-slideshare"></i> <a href="http://slideshare.net/djsbellini/">SlideShare</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/danilobellini">Twitter</a></li>
+                    <li><i class="bi bi-bitbucket"></i> <a href="https://bitbucket.org/danilobellini/">BitBucket</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/djsbellini">Facebook</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/danilobellini">Github</a></li>
+                    <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/danilo-j-s-bellini-66a96310/">LinkedIn</a></li>
+                    <li><i class="bi bi-slideshare"></i> <a href="http://slideshare.net/djsbellini/">SlideShare</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/danilobellini">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -98,28 +134,28 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-113
+{{< podcast castalio-podcast-113 >}}
 
 
-.. top5::
-
-    :music:
-        * Arch Enemy - War Eternal
-        * Rhapsody - Sacred Power of Raging Winds
-        * Iron Maiden - Aces High
-        * Dream Theater - Erotomania
-        * Eluveitie - The Call of the Mountains
-    :book:
-        * Wikipedia
-        * Wiki do Arch Linux
-        * Artigo sobre o descriminante linear
-    :movie:
-        * Game of Thrones
-        * Vikings
-        * One Piece
-        * Shōnen
-        * Seinen
-        * Dexter
+{{< top5 >}}
+music:
+    * Arch Enemy - War Eternal
+    * Rhapsody - Sacred Power of Raging Winds
+    * Iron Maiden - Aces High
+    * Dream Theater - Erotomania
+    * Eluveitie - The Call of the Mountains
+book:
+    * Wikipedia
+    * Wiki do Arch Linux
+    * Artigo sobre o descriminante linear
+movie:
+    * Game of Thrones
+    * Vikings
+    * One Piece
+    * Shōnen
+    * Seinen
+    * Dexter
+{{< /top5 >}}
 
 Links
 -----
@@ -138,7 +174,7 @@ Links
 * `Faust <http://faust.grame.fr/>`_
 * `SuperCollider <https://supercollider.github.io/>`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,12 +1,25 @@
-Livros - Março de 2015
-######################
-:date: 2015-03-29
-:authors: Og Maciel
-:category: Notícia
-:tags: Anthony Burgess, Chuck Palahniuk, Douglas Adams, Erich Maria Remarque, Ernest Hemingway, F. Scott Fitzgerald, Frank Herbert, J    ohn Steinbeck, Ken Kesey, Nick Hornby, Pamela Paul, Pearl S. Buck
-:description: Pessoal, infelizmente devido ao excesso de trabalho nestas últimas semanas, não foi possível agendar nenhuma entrevista para o episódio de hoje. Para não passar em branco, decidi indicar aqui quais os livros que eu ando lendo, li, e comprei neste mês de março.
-:image: images/livros.jpg
-:image-alt: Livros - Março de 2015
+---
+title: "Livros - Março de 2015"
+date: 2015-03-29
+authors: Og Maciel
+category: Notícia
+tags:
+- Anthony Burgess
+- Chuck Palahniuk
+- Douglas Adams
+- Erich Maria Remarque
+- Ernest Hemingway
+- F. Scott Fitzgerald
+- Frank Herbert
+- John Steinbeck
+- Ken Kesey
+- Nick Hornby
+- Pamela Paul
+- Pearl S. Buck
+description: Pessoal, infelizmente devido ao excesso de trabalho nestas últimas semanas, não foi possível agendar nenhuma entrevista para o episódio de hoje. Para não passar em branco, decidi indicar aqui quais os livros que eu ando lendo, li, e comprei neste mês de março.
+image: images/livros.jpg
+image-alt: Livros - Março de 2015
+---
 
 Pessoal, infelizmente devido ao excesso de trabalho nestas últimas semanas, não foi possível agendar nenhuma entrevista para o episódio de hoje. Para não passar em branco, decidi indicar aqui quais os livros que eu ando lendo, li, e comprei neste mês de março com a intenção de quem sabe receber de vocês algum feedback ou indicação de algum livro que eu deveria olhar, e talvez também indicar para vocês algumas obras que chamaram a minha atenção. Aproveito para convidar a vocês me acompanharem pelo `GoodReads`_. Este ano planejo ler 70 livros e seria muito bacana receber alguma indicaçaão de vocês.
 

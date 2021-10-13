@@ -1,12 +1,21 @@
-Episódio 57: Episódio de Natal - Parte 1
-########################################
-:date: 2014-12-20
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-57/castalio-podcast-57.mp3
-:tags: grokpodcast, hack 'n' cast, natal, podcast
-:image: images/natal.jpg
-:image-alt: Episódio de Natal - Parte 1
+---
+title: "Episódio 57: Episódio de Natal - Parte 1"
+aliases:
+- /episodio-57-episodio-de-natal-parte-1.html
+date: 2014-12-20
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-57/castalio-podcast-57.mp3"
+tags:
+- grokpodcast
+- hack 'n' cast
+- natal
+- podcast
+image: /images/natal.jpg
+image-alt: Episódio de Natal - Parte 1
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 
@@ -35,7 +44,7 @@ Espero que vocês gostem!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-57
+{{< podcast castalio-podcast-57 >}}
 
 Links
 -----
@@ -56,7 +65,7 @@ Links
 * `Kurt Kraut`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

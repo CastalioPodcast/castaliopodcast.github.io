@@ -1,0 +1,24 @@
+{{ define "content" }}
+<div class="col-lg-12">
+  <div class="container">
+    {{- partial "post" . -}}
+  </div>
+</div>
+{{ end }}
+
+{{ define "scripts" }}
+{{ if .Params.podcast }}
+<span class="podcast-download-count">
+    <i class="bi bi-download" aria-hidden="true"></i>
+    <span id="download-count">-</span>
+</span>
+<script type="text/javascript">
+    function set_download_count(data) {
+            $("#download-count").text(data.item.downloads);
+    }
+</script>
+
+<!-- archive meta -->
+<script type="text/javascript" src="{{ printf "https://archive.org/details/%s&callback=set_download_count?output=json" ( split .Params.podcast "/" ) }}"></script>
+{{ end }}
+{{ end }}

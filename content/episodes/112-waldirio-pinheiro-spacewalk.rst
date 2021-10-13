@@ -1,13 +1,20 @@
-Episódio 112: Waldirio Manhães Pinheiro - Spacewalk
-###################################################
-:date: 2017-08-07
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-112/castalio-podcast-112.mp3
-:tags:
-:description:
-:image: images/waldirio-pinheiro.jpg
-:image-alt: Waldirio Manhães Pinheiro - Spacewalk
+---
+title: "Episódio 112: Waldirio Manhães Pinheiro - Spacewalk"
+aliases:
+- /episodio-112-waldirio-manhaes-pinheiro-spacewalk.html
+date: 2017-08-07
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-112/castalio-podcast-112.mp3"
+tags:
+
+description:
+image: /images/waldirio-pinheiro.jpg
+image-alt: Waldirio Manhães Pinheiro - Spacewalk
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -45,7 +52,7 @@ Abordamos os seguintes tópicos:
 O Waldirio fez um demo mostrando o Spacewalk e comentando sobre alguns de seus
 recursos. Para ver o demo e a gravação deste episódio confira o vídeo abaixo:
 
-.. youtube:: U8V6_7ZotwI
+{{< youtube U8V6_7ZotwI >}}
 
 A `RubyConf <http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/>`_
 em parceria com o Castálio Podcast disponibilizou 10 ingressos para sortear
@@ -75,15 +82,15 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/waldirio-pinheiro.jpg" alt="Waldirio Manhães Pinheiro" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/waldirio-pinheiro.jpg" alt="Waldirio Manhães Pinheiro" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Waldirio Manhães Pinheiro</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/waldirio">Github</a></li>
-                    <li><i class="fa fa-globe"></i> <a href="http://www.waldirio.com.br/">Blog</a></li>
-                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/waldirio/">LinkeIn</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/_ZoC">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/waldirio">Github</a></li>
+                    <li><i class="bi bi-globe"></i> <a href="http://www.waldirio.com.br/">Blog</a></li>
+                    <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/waldirio/">LinkeIn</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/_ZoC">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -94,23 +101,23 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-112
+{{< podcast castalio-podcast-112 >}}
 
 
-.. top5::
-
-    :music:
-        * Metallica
-        * Bruno Mars
-        * Jason Mraz - I'm Yours
-    :book:
-        * Use a Cabeça! Rails
-        * Use a Cabeça! Ruby
-    :movie:
-        * Ben 10
-        * Prison Break
-        * Stranger Things
-        * The Circle
+{{< top5 >}}
+music:
+    * Metallica
+    * Bruno Mars
+    * Jason Mraz - I'm Yours
+book:
+    * Use a Cabeça! Rails
+    * Use a Cabeça! Ruby
+movie:
+    * Ben 10
+    * Prison Break
+    * Stranger Things
+    * The Circle
+{{< /top5 >}}
 
 Links
 -----
@@ -134,7 +141,7 @@ Links
 * `OpenSCAP`_
 * `Pluralsight`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

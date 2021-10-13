@@ -1,11 +1,14 @@
-Próximo Episódio: Carlos Ribeiro - RadioTray
-############################################
-:date: 2011-08-09 14:32
-:author: Og Maciel
-:category: Notícia
-:tags: carlos ribeiro, radiotray
-:image: images/radiotray.png
-:image-alt: RadioTray
+---
+title: "Próximo Episódio: Carlos Ribeiro - RadioTray"
+date: "2011-08-09T14:32:00"
+author: Og Maciel
+category: Notícia
+tags:
+- carlos ribeiro
+- radiotray
+image: images/radiotray.png
+image-alt: RadioTray
+---
 
 Olá pessoal! Só queria avisar que o meu próximo convidado será o **Carlos
 Ribeiro** do projeto `RadioTray`_! O Carlos vai estar falando direto de

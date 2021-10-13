@@ -1,14 +1,23 @@
-==================================================================
-Episódio 129: Cybelle Oliveira - Codamos Club, Cryptorave, Mozilla
-==================================================================
-
-:date: 2018-03-19
-:authors: Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-129/castalio-podcast-129.mp3
-:tags: castalio, podcast, cybelle oliveira, cryptorave, codamos club, mozilla,
-       opodcastedelas
-:image: images/cybelle_oliveira.jpg
-:image-alt: Cybelle Oliveira
+---
+title: "Episódio 129: Cybelle Oliveira - Codamos Club, Cryptorave, Mozilla"
+aliases:
+- /episodio-129-cybelle-oliveira-codamos-club-cryptorave-mozilla.html
+date: 2018-03-19
+authors:
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-129/castalio-podcast-129.mp3"
+tags:
+- castalio
+- podcast
+- cybelle oliveira
+- cryptorave
+- codamos club
+- mozilla
+- opodcastedelas
+image: /images/cybelle_oliveira.jpg
+image-alt: Cybelle Oliveira
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -34,8 +43,7 @@ colabora com algumas comunidades como o `Codamos Club`_, a `Cryptorave`_,
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-129
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-129" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -67,25 +75,25 @@ Tópicos abordados neste episódio
     * O que está aprendendo agora?
     * O que faz nas horas vagas quando não está fazendo tudo isso que já falamos?
 
-.. top5::
-
-    :book:
-        * Edgar Allan Poe
-        * Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World
-        * Fortaleza Digital
-    :music:
-        * Tiger Army - Incorporeal
-        * Reverend Horton Heat - Mad, Mad Heart
-        * Gorilla Biscuits - Things We Say
-        * The Vandals - My Girlfriend's Dead
-        * Voodoo Glow Skulls - Cielito lindo
-        * Ska
-    :movie:
-        * Brilho Eterno de uma Mente sem Lembranças
-        * Trainspotting
-        * Cry Baby
-        * Vikings
-        * Mr. Robot
+{{< top5 >}}
+book:
+    * Edgar Allan Poe
+    * Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World
+    * Fortaleza Digital
+music:
+    * Tiger Army - Incorporeal
+    * Reverend Horton Heat - Mad, Mad Heart
+    * Gorilla Biscuits - Things We Say
+    * The Vandals - My Girlfriend's Dead
+    * Voodoo Glow Skulls - Cielito lindo
+    * Ska
+movie:
+    * Brilho Eterno de uma Mente sem Lembranças
+    * Trainspotting
+    * Cry Baby
+    * Vikings
+    * Mr. Robot
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -95,7 +103,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: 1FIEvZ4y6lE
+{{< youtube 1FIEvZ4y6lE >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -117,14 +125,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://avatars2.githubusercontent.com/u/19938761?s=460&v=4" alt="Cybelle Oliveira" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://avatars2.githubusercontent.com/u/19938761?s=460&v=4" alt="Cybelle Oliveira" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Cybelle Oliveira</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/cybelle.oliveira">Facebook</a></li>
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/cyb3113">Github</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/cyb3113">Twitter</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/cybelle.oliveira">Facebook</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/cyb3113">Github</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/cyb3113">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -132,8 +140,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-129
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-129" heading="Escute Agora" >}}
 
 
 Links
@@ -149,7 +156,7 @@ Links
 * `Javascript`_
 * `ser vegetariana`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

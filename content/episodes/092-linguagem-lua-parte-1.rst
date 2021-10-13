@@ -1,18 +1,48 @@
-Episódio 92: Linguagem Lua - Parte 1
-####################################
-:date: 2017-03-20
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-92/castalio-podcast-92.mp3
-:tags: lua, etiene dalcol, adobe photoshop, corona sdk, elastic search,
-       playstation home, angry birds, civilization, far cry, ragnarok, world of
-       warcraft, luaconf, lua devroom, luaspace, sailor, lua ladies, defold,
-       löve 2d, pico-8, irc, stackoverflow, programming in lua, programando em
-       lua, moonscript, lapis, nginx, luajit, opodcastedelas
-:description: No episódio de hoje vamos falar sobre a linguagem de programação
+---
+title: "Episódio 92: Linguagem Lua - Parte 1"
+aliases:
+- /episodio-92-linguagem-lua-parte-1.html
+date: 2017-03-20
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-92/castalio-podcast-92.mp3"
+tags:
+- lua
+- etiene dalcol
+- adobe photoshop
+- corona sdk
+- elastic search
+- playstation home
+- angry birds
+- civilization
+- far cry
+- ragnarok
+- world of warcraft
+- luaconf
+- lua devroom
+- luaspace
+- sailor
+- lua ladies
+- defold
+- löve 2d
+- pico-8
+- irc
+- stackoverflow
+- programming in lua
+- programando em lua
+- moonscript
+- lapis
+- nginx
+- luajit
+- opodcastedelas
+description: No episódio de hoje vamos falar sobre a linguagem de programação
               Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.
+---
 
-:image: images/lua.png
+:image: /images/lua.png
 :image-alt: Linguagem Lua
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
@@ -30,7 +60,7 @@ sob a licença MIT.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-92
+{{< podcast castalio-podcast-92 >}}
 
 .. raw:: html
 
@@ -117,9 +147,9 @@ Até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-92
+{{< podcast castalio-podcast-92 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

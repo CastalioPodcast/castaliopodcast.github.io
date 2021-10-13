@@ -1,14 +1,23 @@
-Episódio 77: Book Review: Practical Vim e Novidades da Semana
-#############################################################
-:date: 2016-12-04
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-77/castalio-podcast-77.mp3
-:tags: book review, python, novidades da semana,
-:description: No episódio de hoje trazemos book review técnico sobre o
+---
+title: "Episódio 77: Book Review: Practical Vim e Novidades da Semana"
+aliases:
+- /episodio-77-book-review-practical-vim-e-novidades-da-semana.html
+date: 2016-12-04
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-77/castalio-podcast-77.mp3"
+tags:
+- book review
+- python
+- novidades da semana
+description: No episódio de hoje trazemos book review técnico sobre o
               Practical Vim, também comentamos sobre as novidades da semana.
-:image: images/practical-vim.jpg
-:image-alt: Practical Vim - Edit Text at the Speed of Thought
+image: /images/practical-vim.jpg
+image-alt: Practical Vim - Edit Text at the Speed of Thought
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -141,7 +150,7 @@ mais sobre o Vim.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-77
+{{< podcast castalio-podcast-77 >}}
 
 Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
 ou no `Twitter <https://twitter.com/castaliopod>`_ ou `Facebook
@@ -169,7 +178,7 @@ Links
 * `Drew Neil`_
 * `Vim Casts`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

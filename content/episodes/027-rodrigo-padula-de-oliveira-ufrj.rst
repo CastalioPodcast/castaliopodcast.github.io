@@ -1,12 +1,63 @@
-Rodrigo Padula de Oliveira: UFRJ
-################################
-:date: 2012-01-08 17:11
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-27/castalio-podcast-27.mp3
-:tags: 2001 uma odisséia no espaço, a arte da guerra, a profecia, ac/dc, aristóteles, beatles, canonical, compiz, conectiva linux, engenheiros do hawai, fedora linux, formato odf, forrest gump, gnome board of directors, gnome shell, hugo cisneiro, ira, iron maiden, izabel valverde, jack johnson, jonh wendell, karen sandler, libre office, linked.in, linux plus magazine, microsoft academic alliance, microsoft office, microsoft windows, navegador firefox, navegador internet explorer, netflix, netscape, o exorcista, o senhor dos anéis, platão, projeto fedora, projeto gnome, projeto kde, projeto mozilla, raul seixas, red hat linux, sistemas operacionais modernos, slackware linux, starfish and the spider, stormy peters, ufrj, utopia
-:image: images/rodrigopadula.png
-:image-alt: Rodrigo Padula
+---
+title: "Rodrigo Padula de Oliveira: UFRJ"
+aliases:
+- /rodrigo-padula-de-oliveira-ufrj.html
+date: "2012-01-08T17:11:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-27/castalio-podcast-27.mp3"
+tags:
+- 2001 uma odisséia no espaço
+- a arte da guerra
+- a profecia
+- ac/dc
+- aristóteles
+- beatles
+- canonical
+- compiz
+- conectiva linux
+- engenheiros do hawai
+- fedora linux
+- formato odf
+- forrest gump
+- gnome board of directors
+- gnome shell
+- hugo cisneiro
+- ira
+- iron maiden
+- izabel valverde
+- jack johnson
+- jonh wendell
+- karen sandler
+- libre office
+- linked.in
+- linux plus magazine
+- microsoft academic alliance
+- microsoft office
+- microsoft windows
+- navegador firefox
+- navegador internet explorer
+- netflix
+- netscape
+- o exorcista
+- o senhor dos anéis
+- platão
+- projeto fedora
+- projeto gnome
+- projeto kde
+- projeto mozilla
+- raul seixas
+- red hat linux
+- sistemas operacionais modernos
+- slackware linux
+- starfish and the spider
+- stormy peters
+- ufrj
+- utopia
+image: /images/rodrigopadula.png
+image-alt: Rodrigo Padula
+---
 
 Olá pessoal e sejam muito bem-vindos ao **primeiro episódio de 2012**!
 Desta vez entrevistei o **Rodrigo Padula**, amigo de algum tempo pela
@@ -30,7 +81,7 @@ faz **Jiu-Jitsu**, planos para 2012, e seu **Top 5**!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-27
+{{< podcast castalio-podcast-27 >}}
 
 Contato
 -------
@@ -55,30 +106,30 @@ Resumo
 -  **Top 5** 33:00
 -  **Conclusão** 37:52
 
-.. top5::
-
-    :music:
-        * The Beatles
-        * Raul Seixas
-        * AC/DC
-        * Ira!
-        * Engenheiros do Hawaii
-        * Jack Johnson
-        * Iron Maiden
-    :movie:
-        * O Exorcista
-        * Forrest Gump
-        * A Profecia
-        * O Senhor dos Anéis
-        * 2001 Uma Odisséia no Espaço
-    :book:
-        * The Starfish and the Spider
-        * Utopia
-        * A Arte da Guerra
-        * O Senhor dos Anéis
-        * Sistemas Operacionais Modernos
-        * Aristóteles
-        * Platão
+{{< top5 >}}
+music:
+    * The Beatles
+    * Raul Seixas
+    * AC/DC
+    * Ira!
+    * Engenheiros do Hawaii
+    * Jack Johnson
+    * Iron Maiden
+movie:
+    * O Exorcista
+    * Forrest Gump
+    * A Profecia
+    * O Senhor dos Anéis
+    * 2001 Uma Odisséia no Espaço
+book:
+    * The Starfish and the Spider
+    * Utopia
+    * A Arte da Guerra
+    * O Senhor dos Anéis
+    * Sistemas Operacionais Modernos
+    * Aristóteles
+    * Platão
+{{< /top5 >}}
 
 Links
 -----
@@ -112,7 +163,7 @@ Links
 -  `Netscape`_
 -  `Netflix`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 

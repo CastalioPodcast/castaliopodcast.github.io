@@ -1,21 +1,59 @@
-Episódio 98: Rodolpho Eckhardt - YouTube, Google e SRE
-######################################################
-:date: 2017-05-01
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-98/castalio-podcast-98.mp3
-:tags: rodolpho eckhardt, site reliability engineering, python, go, c++, java,
-       lisp, prometheus, suíça, grupy, google, python brasil, youtube, caipyra,
-       helio loureiro, unixloadon, arrival, primer, oldboy, se7en, jodorowsky's
-       dune, björk, all is full of love, craig cardiff, love is louder, nina
-       simone, sinnerman, sigur rós, fjögur píanó, lera lynn, it only takes one
-       shot, the bhagavad gita, o processo, gödel, escher, bach, 1984, o fim da
-       infância
-:description: Hoje, conversamos com o Rodolpho Eckhardt que é Engenheiro de
+---
+title: "Episódio 98: Rodolpho Eckhardt - YouTube, Google e SRE"
+aliases:
+- /episodio-98-rodolpho-eckhardt-youtube-google-e-sre.html
+date: 2017-05-01
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-98/castalio-podcast-98.mp3"
+tags:
+- rodolpho eckhardt
+- site reliability engineering
+- python
+- go
+- c++
+- java
+- lisp
+- prometheus
+- suíça
+- grupy
+- google
+- python brasil
+- youtube
+- caipyra
+- helio loureiro
+- unixloadon
+- arrival
+- primer
+- oldboy
+- se7en
+- jodorowsky's dune
+- björk
+- all is full of love
+- craig cardiff
+- love is louder
+- nina simone
+- sinnerman
+- sigur rós
+- fjögur píanó
+- lera lynn
+- it only takes one shot
+- the bhagavad gita
+- o processo
+- gödel
+- escher
+- bach
+- 1984
+- o fim da infância
+description: Hoje, conversamos com o Rodolpho Eckhardt que é Engenheiro de
               Confiabilidade de Sistemas no Google, participante ativo na
               comunidade Python no Brasil e atualmente mora na Suíça.
-:image: images/rodolpho-eckhardt.jpg
-:image-alt: Rodolpho Eckhardt - YouTube, Google e SRE
+image: /images/rodolpho-eckhardt.jpg
+image-alt: Rodolpho Eckhardt - YouTube, Google e SRE
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -88,28 +126,28 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-98
+{{< podcast castalio-podcast-98 >}}
 
-.. top5::
-
-    :movie:
-        * Arrival
-        * Primer
-        * Oldboy
-        * Se7en
-        * Jodorowsky's Dune
-    :music:
-        * Björk - All Is Full of Love
-        * Craig Cardiff - Love Is Louder
-        * Nina Simone - Sinnerman
-        * Sigur Rós - Fjögur píanó
-        * Lera Lynn - It Only Takes One Shot
-    :book:
-        * The Bhagavad Gita
-        * O Processo
-        * Gödel, Escher, Bach
-        * 1984
-        * O Fim da Infância
+{{< top5 >}}
+movie:
+    * Arrival
+    * Primer
+    * Oldboy
+    * Se7en
+    * Jodorowsky's Dune
+music:
+    * Björk - All Is Full of Love
+    * Craig Cardiff - Love Is Louder
+    * Nina Simone - Sinnerman
+    * Sigur Rós - Fjögur píanó
+    * Lera Lynn - It Only Takes One Shot
+book:
+    * The Bhagavad Gita
+    * O Processo
+    * Gödel, Escher, Bach
+    * 1984
+    * O Fim da Infância
+{{< /top5 >}}
 
 Links
 -----
@@ -128,7 +166,7 @@ Links
 * `Python`_
 * `Go`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

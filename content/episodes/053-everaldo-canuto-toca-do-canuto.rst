@@ -1,12 +1,71 @@
-Everaldo Canuto: Toca do Canuto
-###############################
-:date: 2013-03-18 02:54
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-53/castalio-podcast-53.mp3
-:tags: .net, andréia gaita, apache web server, asp.net, css3, dbase iii plus, delphi, deus um delírio, dotgnu, ecma, editor gedit, editor kate, engenheiros do hawaii, git, google hangout, gtmeter, guadec, html 5, ilhas canárias, intel, java, legião urbana, loadimpact, markdown, microsoft, miguel de icaza, moblin, mono, moonlight, nat friedman, novell, o código davinci, o hobbit, o homem da areia, openssh, pandora, php, pink floyd, power shell, processador atom, projeto gnome, projeto ximian, richard stallman, silverlight, sir arthur conan doyle, spotify, sun corporation, suse linux, suse studio, titãs, toca do canuto, windows forms, xamarin, xen, youtube
-:image: images/everaldocanuto.png
-:image-alt: Everaldo Canuto: Toca do Canuto
+---
+title: "Everaldo Canuto: Toca do Canuto"
+aliases:
+- /everaldo-canuto-toca-do-canuto.html
+date: "2013-03-18T02:54:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-53/castalio-podcast-53.mp3"
+tags:
+- .net
+- andréia gaita
+- apache web server
+- asp.net
+- css3
+- dbase iii plus
+- delphi
+- deus um delírio
+- dotgnu
+- ecma
+- editor gedit
+- editor kate
+- engenheiros do hawaii
+- git
+- google hangout
+- gtmeter
+- guadec
+- html 5
+- ilhas canárias
+- intel
+- java
+- legião urbana
+- loadimpact
+- markdown
+- microsoft
+- miguel de icaza
+- moblin
+- mono
+- moonlight
+- nat friedman
+- novell
+- o código davinci
+- o hobbit
+- o homem da areia
+- openssh
+- pandora
+- php
+- pink floyd
+- power shell
+- processador atom
+- projeto gnome
+- projeto ximian
+- richard stallman
+- silverlight
+- sir arthur conan doyle
+- spotify
+- sun corporation
+- suse linux
+- suse studio
+- titãs
+- toca do canuto
+- windows forms
+- xamarin
+- xen
+- youtube
+image: /images/everaldocanuto.png
+image-alt: "Everaldo Canuto: Toca do Canuto"
+---
 
 Eu conheci o **Everaldo** em uma tarde super calorenta durante a
 abertura do evento **GUADEC** nas **Ilhas Canárias**. O mais
@@ -36,7 +95,7 @@ edição e escutar algumas coisas que não foram incluídas no podcast.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-53
+{{< podcast castalio-podcast-53 >}}
 
 Contato
 -------
@@ -45,27 +104,27 @@ Contato
 -  **Github**:  https://github.com/ecanuto
 -  **Facebook**:  https://www.facebook.com/tocacanuto?fref=ts
 
-.. top5::
-
-    :music:
-        * Titãs
-        * Legião Urbana
-        * Engenheiros do Hawaii
-        * Pink Floyd
-    :book:
-        * O Homem da Areia
-        * Arthur Conan Doyle
-        * Deus, Um Delírio
-        * O Hobbit
-        * O Código Da Vinci
-    :app:
-        * OpenSSH
-        * Git
-        * Markdown
-        * Google Hangouts
-        * YouTube
-        * HTML5
-        * CSS3
+{{< top5 >}}
+music:
+    * Titãs
+    * Legião Urbana
+    * Engenheiros do Hawaii
+    * Pink Floyd
+book:
+    * O Homem da Areia
+    * Arthur Conan Doyle
+    * Deus, Um Delírio
+    * O Hobbit
+    * O Código Da Vinci
+app:
+    * OpenSSH
+    * Git
+    * Markdown
+    * Google Hangouts
+    * YouTube
+    * HTML5
+    * CSS3
+{{< /top5 >}}
 
 Links
 -----
@@ -109,7 +168,7 @@ Links
 -  `Spotify`_
 -  `Pandora`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,14 +1,30 @@
-==========================================
-Episode 119: Carol Nichols - Rust Language
-==========================================
-
-:date: 2017-09-25
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-119/castalio-podcast-119.mp3
-:tags: english, rust, rustlang, rust language, language, programming, mozilla
-       systems, cpp, c, d, go, carol nichols, opodcastedelas
-:image: images/carol-nichols.jpg
-:image-alt: Carol Nichols - Rust
+---
+title: "Episode 119: Carol Nichols - Rust Language"
+aliases:
+- /episode-119-carol-nichols-rust-language.html
+date: 2017-09-25
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-119/castalio-podcast-119.mp3"
+tags:
+- english
+- rust
+- rustlang
+- rust language
+- language
+- programming
+- mozilla systems
+- cpp
+- c
+- d
+- go
+- carol nichols
+- opodcastedelas
+image: /images/carol-nichols.jpg
+image-alt: Carol Nichols - Rust
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -26,8 +42,7 @@ also a multi-paradigm and multi-purpose language. And we'll learn more about
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-119
-    :heading: Listen while you read the show notes
+{{< podcast id="castalio-podcast-119" heading="Listen while you read the show notes" >}}
 
 
 Discussed topics
@@ -78,7 +93,7 @@ This interview was recorded live on our `channel on
 YouTube <http://youtube.com/castaliopodcast>`_  and to see the recording of
 this episode check out the video below:
 
-.. youtube:: n32Bzxv1oFc
+{{< youtube n32Bzxv1oFc >}}
 
 We would like to thank everyone who have left comments. If you have something
 to tell us, you can leave your comments here on the site, or
@@ -99,14 +114,14 @@ Contact
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/carol-nichols.jpg" alt="Carol Nichols" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/carol-nichols.jpg" alt="Carol Nichols" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Carol Nichols</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://www.twitter.com/carols10cents">Twitter</a></li>
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/carols10cents">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://carol-nichols.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://www.twitter.com/carols10cents">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/carols10cents">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://carol-nichols.com/">Site</a></li>
                 </ul>
             </div>
             </div>
@@ -114,19 +129,18 @@ Contact
         </div>
     </div>
 
-.. podcast:: castalio-podcast-119
-    :heading: Listen now
+{{< podcast id="castalio-podcast-119" heading="Listen now" >}}
 
 
-.. top5::
-
-    :music:
-        * Hanson
-    :book:
-        * Difficult Women
-        * Station Eleven
-    :movie:
-        * BoJack Horseman
+{{< top5 >}}
+music:
+    * Hanson
+book:
+    * Difficult Women
+    * Station Eleven
+movie:
+    * BoJack Horseman
+{{< /top5 >}}
 
 
 Links
@@ -155,7 +169,7 @@ Links
 * `into_rust`_
 * `Rust Playground`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,12 +1,19 @@
-Episódio 61: Humberto Augusto Piovesana Zanetti - Smart Braille
-###############################################################
-:date: 2015-01-18
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-61/castalio-podcast-61.mp3
-:tags: humberto augusto piovesana zanetti, smart braille
-:image: images/humbertozanetti.jpg
-:image-alt: Humberto Zanetti - Smart Braille
+---
+title: "Episódio 61: Humberto Augusto Piovesana Zanetti - Smart Braille"
+aliases:
+- /episodio-61-humberto-augusto-piovesana-zanetti-smart-braille.html
+date: 2015-01-18
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-61/castalio-podcast-61.mp3"
+tags:
+- humberto augusto piovesana zanetti
+- smart braille
+image: /images/humbertozanetti.jpg
+image-alt: Humberto Zanetti - Smart Braille
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 
@@ -40,28 +47,28 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-61
+{{< podcast castalio-podcast-61 >}}
 
-.. top5::
-
-    :book:
-        * Admirável Mundo Novo
-        * O Guia do Mochileiro das Galáxias
-        * Operação Cavalo de Troia
-        * A Revolução dos Bichos
-        * O Código Da Vinci
-    :music:
-        * AC/DC - Highway to Hell
-        * Metallica - For Whom the Bell Tolls
-        * Red Hot Chili Peppers - Suck My Kiss
-        * Led Zeppelin - Stairway to Heaven
-        * Live - Turn My Head
-    :movie:
-        * Coração Valente
-        * 2001 Uma Odisséia no Espaço
-        * The Matrix
-        * Star Wars Episódio VI: O Retorno de Jedi
-        * Pulp Fiction
+{{< top5 >}}
+book:
+    * Admirável Mundo Novo
+    * O Guia do Mochileiro das Galáxias
+    * Operação Cavalo de Troia
+    * A Revolução dos Bichos
+    * O Código Da Vinci
+music:
+    * AC/DC - Highway to Hell
+    * Metallica - For Whom the Bell Tolls
+    * Red Hot Chili Peppers - Suck My Kiss
+    * Led Zeppelin - Stairway to Heaven
+    * Live - Turn My Head
+movie:
+    * Coração Valente
+    * 2001 Uma Odisséia no Espaço
+    * The Matrix
+    * Star Wars Episódio VI: O Retorno de Jedi
+    * Pulp Fiction
+{{< /top5 >}}
 
 Links
 -----
@@ -107,7 +114,7 @@ Links
 * `Filme O Código Da Vinci`_
 * `Filme Snatch`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,16 +1,37 @@
-Episódio 93: Linguagem Lua - Parte 2
-####################################
-:date: 2017-03-27
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-93/castalio-podcast-93.mp3
-:tags: lua, etiene dalcol, luaconf, sailor, programming in lua, programando em
-       lua, moonscript, lapis, nginx, luajit, luarocks, open resty, django,
-       rails, torch, codecombat, opodcastedelas
-:description: No episódio de hoje vamos falar sobre a linguagem de programação
+---
+title: "Episódio 93: Linguagem Lua - Parte 2"
+aliases:
+- /episodio-93-linguagem-lua-parte-2.html
+date: 2017-03-27
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-93/castalio-podcast-93.mp3"
+tags:
+- lua
+- etiene dalcol
+- luaconf
+- sailor
+- programming in lua
+- programando em lua
+- moonscript
+- lapis
+- nginx
+- luajit
+- luarocks
+- open resty
+- django
+- rails
+- torch
+- codecombat
+- opodcastedelas
+description: No episódio de hoje vamos falar sobre a linguagem de programação
               Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.
-:image: images/lua.png
-:image-alt: Linguagem Lua
+image: /images/lua.png
+image-alt: Linguagem Lua
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -26,7 +47,7 @@ temos o Top 5 de links para aprender `Lua`_.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-93
+{{< podcast castalio-podcast-93 >}}
 
 .. raw:: html
 
@@ -68,15 +89,15 @@ Segue a lista de links que comentamos no episódio:
 Top 5
 -----
 
-.. top5::
-
-    :book:
-        * Programando em Lua
-        * Programming in Lua
-    :site:
-        * CodeCombat
-        * Lua BR (lista de email pt_BR)
-        * Lua-l (lista de email en_US)
+{{< top5 >}}
+book:
+    * Programando em Lua
+    * Programming in Lua
+site:
+    * CodeCombat
+    * Lua BR (lista de email pt_BR)
+    * Lua-l (lista de email en_US)
+{{< /top5 >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
@@ -88,9 +109,9 @@ Até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-93
+{{< podcast castalio-podcast-93 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

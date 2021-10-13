@@ -1,14 +1,26 @@
-============================
-Episódio 136: Pizza de Dados
-============================
-
-:date: 2018-11-12
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-136/castalio-podcast-136.mp3
-:tags: gustavo coelho, jessica temporal, leticia portella, pizza de dados, data
-       science, python, r, julia, matlab, jekyl, audacity
-:image: images/pizza-de-dados.jpg
-:image-alt: Pizza de Dados
+---
+title: "Episódio 136: Pizza de Dados"
+aliases:
+- /episodio-136-pizza-de-dados.html
+date: 2018-11-12
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-136/castalio-podcast-136.mp3"
+tags:
+- gustavo coelho
+- jessica temporal
+- leticia portella
+- pizza de dados
+- data science
+- python
+- r
+- julia
+- matlab
+- jekyl
+- audacity
+image: /images/pizza-de-dados.jpg
+image-alt: Pizza de Dados
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -23,8 +35,7 @@ Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-136
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-136" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -41,46 +52,46 @@ Tópicos abordados neste episódio
 * Quais as recomendações para aprender mais sobre `data science`_?
 
 
-.. top5:: Top 3 - Gustavo Coelho
+{{< top5 "Top 3 - Gustavo Coelho" >}}
+book:
+    * The Art of Strategy
+    * Weapons of Math Destruction
+    * Nas Montanhas da Loucura
+music:
+    * Queens of Stone Age - Go With the Glow
+    * The Black Keys
+    * Chaos Chaos
+movie:
+    * Memento
+    * Ressaca de Amor
+    * O Iluminado
+    * A Morte do Demônio
+    * Rick and Morty
+pizza:
+    * Catuperoni
+    * Aliche
+    * Frango com Catupiry
+{{< /top5 >}}
 
-    :book:
-        * The Art of Strategy
-        * Weapons of Math Destruction
-        * Nas Montanhas da Loucura
-    :music:
-        * Queens of Stone Age - Go With the Glow
-        * The Black Keys
-        * Chaos Chaos
-    :movie:
-        * Memento
-        * Ressaca de Amor
-        * O Iluminado
-        * A Morte do Demônio
-        * Rick and Morty
-    :pizza:
-        * Catuperoni
-        * Aliche
-        * Frango com Catupiry
 
-
-.. top5:: Top 3 - Letícia Portella
-
-    :book:
-        * Shōgun
-        * As Crónicas de Gelo e Fogo
-        * How to Lie with Statistics
-    :music:
-        * Michael Jackson - Thriller
-        * Jason Myles Goss - Hospital Shirt
-        * B.B. King & Eric Clapton - Riding With the King
-    :movie:
-        * A Morte no Funeral
-        * O Incrível Exército Brancaleone
-        * RRRrrrr!!!
-    :pizza:
-        * Marguerita
-        * Peperoni
-        * Escarola com Bacon
+{{< top5 "Top 3 - Letícia Portella" >}}
+book:
+    * Shōgun
+    * As Crónicas de Gelo e Fogo
+    * How to Lie with Statistics
+music:
+    * Michael Jackson - Thriller
+    * Jason Myles Goss - Hospital Shirt
+    * B.B. King & Eric Clapton - Riding With the King
+movie:
+    * A Morte no Funeral
+    * O Incrível Exército Brancaleone
+    * RRRrrrr!!!
+pizza:
+    * Marguerita
+    * Peperoni
+    * Escarola com Bacon
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -90,7 +101,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: HxrEUBNnz2Q
+{{< youtube HxrEUBNnz2Q >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -112,14 +123,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/gustavo-coelho.jpg" alt="Gustavo Coelho" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/gustavo-coelho.jpg" alt="Gustavo Coelho" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Gustavo Coelho</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/gusrabbit">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://gusrabbit.com/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/gusrabbit">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/gusrabbit">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://gusrabbit.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/gusrabbit">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -129,14 +140,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/jessica-temporal.jpg" alt="Jessica Temporal" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/jessica-temporal.jpg" alt="Jessica Temporal" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Jessica Temporal</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/jtemporal">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://jtemporal.com/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/jesstemporal">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/jtemporal">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://jtemporal.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/jesstemporal">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -146,14 +157,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/leticia-portella.jpg" alt="Leticia Portella" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/leticia-portella.jpg" alt="Leticia Portella" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Letícia Portella</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/leportella/">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://leportella.com/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/leleportella">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/leportella/">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://leportella.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/leleportella">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -163,18 +174,18 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/pizza-de-dados.jpg" alt="Pizza de Dados" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/pizza-de-dados.jpg" alt="Pizza de Dados" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Pizza de Dados</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/pizzadedados">Facebook</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://pizzadedados.com/">Site</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://apoia.se/pizzadedados">Apoia-se</a></li>
-                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/company/pizzadedados/">LinkedIn</a></li>
-                    <li><i class="fa fa-medium"></i> <a href="https://medium.com/pizzadedados">Medium</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/pizzadedados">Twitter</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/c/pizzadedados">YouTube</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/pizzadedados">Facebook</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://pizzadedados.com/">Site</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://apoia.se/pizzadedados">Apoia-se</a></li>
+                    <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/company/pizzadedados/">LinkedIn</a></li>
+                    <li><i class="bi bi-medium"></i> <a href="https://medium.com/pizzadedados">Medium</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/pizzadedados">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/c/pizzadedados">YouTube</a></li>
                 </ul>
             </div>
             </div>
@@ -182,8 +193,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-136
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-136" heading="Escute Agora" >}}
 
 
 Links
@@ -203,7 +213,7 @@ Links
 * `R`_
 * `data science`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

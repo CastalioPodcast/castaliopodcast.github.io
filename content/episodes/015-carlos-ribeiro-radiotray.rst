@@ -1,12 +1,48 @@
-Carlos Ribeiro - RadioTray
-##########################
-:date: 2011-08-21 21:03
-:author: Og Maciel
-:category: Podcast
-:tags: amélie, carlos ribeiro, célia cruz, cold play, dan brown, dilbert, dzone, edgar allan poe, eminem, foresight linux, fs daily, google alerts, h. g.  wells, indiana jones, j.r.r. tolkien, java, john williams, latex, matrix, multicert, portugal, pulp fiction, python, radiotray, senhor dos anéis, software livre, star wars, the code book, the h, u2, vila nova de gaia, war of the worlds
-:podcast: https://archive.org/download/castalio-podcast-15/castalio-podcast-15.mp3
-:image: images/carlosribeiro.jpg
-:image-alt: Carlos Ribeiro - RadioTray
+---
+title: "Carlos Ribeiro - RadioTray"
+aliases:
+- /carlos-ribeiro-radiotray.html
+date: "2011-08-21T21:03:00"
+authors:
+- Og Maciel
+category: Podcast
+tags:
+- amélie
+- carlos ribeiro
+- célia cruz
+- cold play
+- dan brown
+- dilbert
+- dzone
+- edgar allan poe
+- eminem
+- foresight linux
+- fs daily
+- google alerts
+- h. g.  wells
+- indiana jones
+- j.r.r. tolkien
+- java
+- john williams
+- latex
+- matrix
+- multicert
+- portugal
+- pulp fiction
+- python
+- radiotray
+- senhor dos anéis
+- software livre
+- star wars
+- the code book
+- the h
+- u2
+- vila nova de gaia
+- war of the worlds
+podcast: "https://archive.org/download/castalio-podcast-15/castalio-podcast-15.mp3"
+image: /images/carlosribeiro.jpg
+image-alt: Carlos Ribeiro - RadioTray
+---
 
 O entrevistado de hoje é o português **Carlos Ribeiro**, desenvolvedor
 do projeto **RadioTray**, um programa bem leve e simples para escutar
@@ -22,7 +58,7 @@ sobre **Arduino**! E não se esqueçam de nos acompanhar pelo
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-15
+{{< podcast castalio-podcast-15 >}}
 
 Contato
 -------
@@ -54,28 +90,28 @@ Resumo
 -  **Livros Técnicos em Português no Brasil. Falta em Portugal**:  44:00
 -  **Conclusão**:  46:00
 
-.. top5::
-
-    :music:
-        * U2
-        * Coldplay
-        * Célia Cruz
-        * John Williams
-        * Eminem
-    :book:
-        * Edgar Allan Poe
-        * The War of the Worlds
-        * J.R.R. Tolkien
-        * The Code Book: The Secret History of Codes and Code-Breaking
-        * The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
-        * Dan Brown
-    :movie:
-        * Amélie
-        * The Matrix
-        * Pulp Fiction
-        * Senhor dos Anéis
-        * Indiana Jones
-        * Star Wars
+{{< top5 >}}
+music:
+    * U2
+    * Coldplay
+    * Célia Cruz
+    * John Williams
+    * Eminem
+book:
+    * Edgar Allan Poe
+    * The War of the Worlds
+    * J.R.R. Tolkien
+    * The Code Book: The Secret History of Codes and Code-Breaking
+    * The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
+    * Dan Brown
+movie:
+    * Amélie
+    * The Matrix
+    * Pulp Fiction
+    * Senhor dos Anéis
+    * Indiana Jones
+    * Star Wars
+{{< /top5 >}}
 
 Links
 -----

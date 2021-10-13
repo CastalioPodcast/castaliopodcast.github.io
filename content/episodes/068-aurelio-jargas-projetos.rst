@@ -1,16 +1,25 @@
-Episódio 68: Aurelio Jargas - Projetos
-######################################
-:date: 2015-09-13
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-68/castalio-podcast-68.mp3
-:tags: aurelio jargas, funções zz, moneylog, miguxeitor
-:description: Hoje, continuamos nossa conversa com o Aurelio Jargas.
+---
+title: "Episódio 68: Aurelio Jargas - Projetos"
+aliases:
+- /episodio-68-aurelio-jargas-projetos.html
+date: 2015-09-13
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-68/castalio-podcast-68.mp3"
+tags:
+- aurelio jargas
+- funções zz
+- moneylog
+- miguxeitor
+description: Hoje, continuamos nossa conversa com o Aurelio Jargas.
               Conversamos sobre alguns projetos que ele desenvolveu, uma
               ferramenta para testar comandos de linha de comando e o tão
               esperado Top 5.
-:image: images/aureliojargas.jpg
-:image-alt: Aurelio Jargas - Conectiva e Livros
+image: /images/aureliojargas.jpg
+image-alt: Aurelio Jargas - Conectiva e Livros
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -57,49 +66,49 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-68
+{{< podcast castalio-podcast-68 >}}
 
-.. top5::
-
-    :music:
-        * Ramones
-        * Bad Religion
-        * Face To Face
-        * Lagwagon
-        * No Fun At All
-        * NOFX
-        * Ten Foot Pole
-        * The Vandals
-        * Linkin Park
-        * System of a Down
-        * Toy Dolls
-        * Raimundos
-        * Ultraje a Rigor
-        * Matanza
-        * Tequila Baby
-        * Iron Maiden
-        * Attaque 77 (Argentina)
-        * Los Mox (Chile)
-        * Die Ärzte (Alemanha)
-    :movie:
-        * Documentários
-        * Ficção Científica
-        * Terror
-    :site:
-        * BR-Linux
-        * Blog MacMagazine
-        * Android Central
-        * Windows Central
-        * Coding Horror
-        * The Daily WTF
-        * Programming in the 21st Century
-        * QuirksBlog
-    :podcast:
-        * Nerdcast
-        * Stuff You Should Know
-        * Accidental Tech Podcast
-        * Debug
-        * Android Developers Backstage
+{{< top5 >}}
+music:
+    * Ramones
+    * Bad Religion
+    * Face To Face
+    * Lagwagon
+    * No Fun At All
+    * NOFX
+    * Ten Foot Pole
+    * The Vandals
+    * Linkin Park
+    * System of a Down
+    * Toy Dolls
+    * Raimundos
+    * Ultraje a Rigor
+    * Matanza
+    * Tequila Baby
+    * Iron Maiden
+    * Attaque 77 (Argentina)
+    * Los Mox (Chile)
+    * Die Ärzte (Alemanha)
+movie:
+    * Documentários
+    * Ficção Científica
+    * Terror
+site:
+    * BR-Linux
+    * Blog MacMagazine
+    * Android Central
+    * Windows Central
+    * Coding Horror
+    * The Daily WTF
+    * Programming in the 21st Century
+    * QuirksBlog
+podcast:
+    * Nerdcast
+    * Stuff You Should Know
+    * Accidental Tech Podcast
+    * Debug
+    * Android Developers Backstage
+{{< /top5 >}}
 
 A lista de podcast foi enviada por email e não mencionada no episódio. Mas
 resolvemos adicionar assim mesmo para você conferir o que o Aurelio costuma
@@ -110,7 +119,7 @@ Links
 * `MoneyLog`_
 * `MiGuXeiToR`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

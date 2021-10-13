@@ -1,15 +1,25 @@
-Episódio 70: Bruno Rocha - Flask e Veganismo
-############################################
-:date: 2016-05-21
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-70/castalio-podcast-70.mp3
-:tags: bruno rocha, flask, veganismo, django, web2py
-:description: Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o
+---
+title: "Episódio 70: Bruno Rocha - Flask e Veganismo"
+aliases:
+- /episodio-70-bruno-rocha-flask-e-veganismo.html
+date: 2016-05-21
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-70/castalio-podcast-70.mp3"
+tags:
+- bruno rocha
+- flask
+- veganismo
+- django
+- web2py
+description: Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o
               micro-framewrok para a web Flask, assim como outros frameworks
               web escritos em Python. Também nos explica o que é o veganismo.
-:image: images/brunorocha.jpg
-:image-alt: Bruno Rocha - Flask e Veganismo
+image: /images/brunorocha.jpg
+image-alt: Bruno Rocha - Flask e Veganismo
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -48,7 +58,7 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-70
+{{< podcast castalio-podcast-70 >}}
 
 Links
 -----
@@ -58,7 +68,7 @@ Links
 * `web2py`_
 * `Quokka CMS`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

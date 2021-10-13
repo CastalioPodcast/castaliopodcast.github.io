@@ -1,12 +1,91 @@
-Flávio Ribeiro: Globo.com
-#########################
-:date: 2012-05-27 18:01
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-37/castalio-podcast-37.mp3
-:tags: 4clojure, andrews medina, apple, big brother, bolacha, broadway, brooklyn, c/c++, clean code, clojure, code sprints, cooks, domingão do faustão, estátua da liberdade, family guy, fantástico, fedex day, fisl 13, flash media server, flask, flogging molly, fox channel, functional programming, fx channel, gabriel falcão, github, globo tv, hackers and painters, instagram, kindle, land of lisp, linus torvald, manhattan, miguel de icaza, mongodb, mtv, music video awards, netflix, nginx, ny city, ny times, objective oriented programming, os trapalhões, programação lisp, programação python, programming collective intelligence, python brasil, rebel code, rede globo, richard stallman, rise against, roku, ruby, ruby on rails, scrum, scrum master, sdk, silverchair, simpsons, some 451, stewie, streaming media east 2012, streetlight manifesto, system of a down, the clean coder, the cleveland show, the fratellis, the pacific, the strokes, the walking dead, tornado, treze futebol clube, ufc, yipit, youtube
-:image: images/flavioribeiro.png
-:image-alt: Flávio Ribeiro: Globo.com
+---
+title: "Flávio Ribeiro: Globo.com"
+aliases:
+- /flavio-ribeiro-globocom.html
+date: "2012-05-27T18:01:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-37/castalio-podcast-37.mp3"
+tags:
+- 4clojure
+- andrews medina
+- apple
+- big brother
+- bolacha
+- broadway
+- brooklyn
+- c/c++
+- clean code
+- clojure
+- code sprints
+- cooks
+- domingão do faustão
+- estátua da liberdade
+- family guy
+- fantástico
+- fedex day
+- fisl 13
+- flash media server
+- flask
+- flogging molly
+- fox channel
+- functional programming
+- fx channel
+- gabriel falcão
+- github
+- globo tv
+- hackers and painters
+- instagram
+- kindle
+- land of lisp
+- linus torvald
+- manhattan
+- miguel de icaza
+- mongodb
+- mtv
+- music video awards
+- netflix
+- nginx
+- ny city
+- ny times
+- objective oriented programming
+- os trapalhões
+- programação lisp
+- programação python
+- programming collective intelligence
+- python brasil
+- rebel code
+- rede globo
+- richard stallman
+- rise against
+- roku
+- ruby
+- ruby on rails
+- scrum
+- scrum master
+- sdk
+- silverchair
+- simpsons
+- some 451
+- stewie
+- streaming media east 2012
+- streetlight manifesto
+- system of a down
+- the clean coder
+- the cleveland show
+- the fratellis
+- the pacific
+- the strokes
+- the walking dead
+- tornado
+- treze futebol clube
+- ufc
+- yipit
+- youtube
+image: /images/flavioribeiro.png
+image-alt: "Flávio Ribeiro: Globo.com"
+---
 
 Eu gosto muito quando alguém me sugere um livro, filme, música ou pessoa para
 conhecer, e depois de trocar uns e-mails com meu amigo `Yuri Malheiros`_ na
@@ -32,7 +111,7 @@ Janeiro!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-37
+{{< podcast castalio-podcast-37 >}}
 
 Contato
 -------
@@ -59,18 +138,18 @@ Resumo
 -  **Top 5** 26:23
 -  **Conclusão** 34:10
 
-.. top5::
-
-    :music:
-        * The Strokes
-        * Cooks
-        * The Fratellis
-        * Some 451
-        * Streetlight Manifesto
-        * Silverchair
-        * Rise Against
-        * System of a Down
-        * Flogging Molly
+{{< top5 >}}
+music:
+    * The Strokes
+    * Cooks
+    * The Fratellis
+    * Some 451
+    * Streetlight Manifesto
+    * Silverchair
+    * Rise Against
+    * System of a Down
+    * Flogging Molly
+{{< /top5 >}}
 
     :movie:
         * Family Guy
@@ -145,7 +224,7 @@ Links
 -  `Miguel de Icaza`_
 -  `Linus Torvald`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

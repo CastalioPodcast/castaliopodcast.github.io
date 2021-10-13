@@ -1,15 +1,27 @@
-Episódio 75: Python Brasil 12 - Parte 3
-#######################################
-:date: 2016-11-20
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-75/castalio-podcast-75.mp3
-:tags: python brasil, python, oktoberfest, florianopolis, floripa, pybr12
-:description: Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento,
+---
+title: "Episódio 75: Python Brasil 12 - Parte 3"
+aliases:
+- /episodio-75-python-brasil-12-parte-3.html
+date: 2016-11-20
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-75/castalio-podcast-75.mp3"
+tags:
+- python brasil
+- python
+- oktoberfest
+- florianopolis
+- floripa
+- pybr12
+description: Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento,
               quais os tipos de conteúdo que foram abordados, como está a comunidade
               atualmente e o encerramento do evento dentro da Oktoberfest.
-:image: images/pybr-logo.png
-:image-alt: Python Brasil
+image: /images/pybr-logo.png
+image-alt: Python Brasil
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -24,7 +36,7 @@ Neste episódio o Bruno e o Elyézer falaram a respeito da experiência pessoal 
 
     <div class="clearfix"></div>
 
-.. figure:: {static}/images/pybr12-foto-oficial.jpg
+.. figure:: /images/pybr12-foto-oficial.jpg
    :alt: Foto Oficial da Python Brasil 12 em Florianopolis
    :figclass: clear clearfix center-block
 
@@ -36,7 +48,7 @@ Acima a foto oficial com a maior parte dos participantes da PythonBrasil 12, fot
 
     <div class="clearfix"></div>
 
-.. figure:: {static}/images/pybr12-trabalho-remoto.jpg
+.. figure:: /images/pybr12-trabalho-remoto.jpg
    :alt: Elyézer e Bruno na palestra sobre trabalho remoto
    :figclass: pull-left clear article-figure figure
 
@@ -59,7 +71,7 @@ SMS durante uma dessas palestras.
 
     <div class="clearfix"></div>
 
-.. figure:: {static}/images/pybr12-bruno-elyezer-russel.jpg
+.. figure:: /images/pybr12-bruno-elyezer-russel.jpg
    :alt: Bruno, Russel Keith Magee e Elyézer bebendo Marzen Rauch Beer
    :figclass: pull-left clear article-figure figure
 
@@ -77,7 +89,7 @@ difícil de pronunciar.
 
     <div class="clearfix"></div>
 
-.. figure:: {static}/images/pybr12-oktoberfest2.jpg
+.. figure:: /images/pybr12-oktoberfest2.jpg
    :alt: Comunidade, palestrantes, Keynotes, todos comemorando na Oktoberfest
    :figclass: pull-left clear article-figure figure
 
@@ -100,7 +112,7 @@ no próximo ano.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-75
+{{< podcast castalio-podcast-75 >}}
 
 
 Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
@@ -121,7 +133,7 @@ Links
 * `PythonBrasil 13`_
 * `Cervejas de Minas`_ (A Bélgica Brasileira)
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

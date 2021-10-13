@@ -1,14 +1,27 @@
-==============================================
-Episódio 150: Otavio Salvador - Linguagem Rust
-==============================================
-
-:date: 2020-09-14
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-150/castalio-podcast-150.mp3
-:tags: otavio salvador, diesel, rocket, actix, warp, tide, nickel, iron, rust,
-       emacs, git, tmux
-:image: images/otavio-salvador.jpg
-:image-alt: Otavio Salvador
+---
+title: "Episódio 150: Otavio Salvador - Linguagem Rust"
+aliases:
+- /episodio-150-otavio-salvador-linguagem-rust.html
+date: 2020-09-14
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-150/castalio-podcast-150.mp3"
+tags:
+- otavio salvador
+- diesel
+- rocket
+- actix
+- warp
+- tide
+- nickel
+- iron
+- rust
+- emacs
+- git
+- tmux
+image: /images/otavio-salvador.jpg
+image-alt: Otavio Salvador
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -23,15 +36,14 @@ muito bem-vindo ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-150
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-150" heading="Escute enquanto lê os show notes!" >}}
 
 .. raw:: html
 
     <div class="row">
         <div class="col-md-12">
             <a href="https://mng.bz/4B9V" target="_blank">
-                <img class="img-responsive" src="images/rust-conference.jpg" alt="live@manning Rust Conference" />
+                <img class="img-responsive" src="/images/rust-conference.jpg" alt="live@manning Rust Conference" />
             </a>
         </div>
     </div>
@@ -45,30 +57,30 @@ Tópicos abordados neste episódio
 * Onde aprender mais sobre Rust, dicas para quem quer aprender mais
 
 
-.. top5::
-
-    :book:
-        * The Rust Programming Language
-        * Rust in Action
-        * Programação Funcional e Concorrente em Rust
-        * Rust
-        * Step Ahead with Rust: Systems Programming in Rust
-    :movie:
-        * Lucifer
-        * Modern Family
-        * Outlander
-        * Supernatural
-        * Vikings
-    :music:
-        * Dire Straits
-        * Guns N' Roses
-        * Iron Maiden
-        * Pink Floyd
-        * Roxette
-    :app:
-        * Emacs
-        * Git
-        * tmux
+{{< top5 >}}
+book:
+    * The Rust Programming Language
+    * Rust in Action
+    * Programação Funcional e Concorrente em Rust
+    * Rust
+    * Step Ahead with Rust: Systems Programming in Rust
+movie:
+    * Lucifer
+    * Modern Family
+    * Outlander
+    * Supernatural
+    * Vikings
+music:
+    * Dire Straits
+    * Guns N' Roses
+    * Iron Maiden
+    * Pink Floyd
+    * Roxette
+app:
+    * Emacs
+    * Git
+    * tmux
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -78,7 +90,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: h_da7m9E-vo
+{{< youtube h_da7m9E-vo >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -100,12 +112,12 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/otavio-salvador.jpg" alt="Otavio Salvador" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/otavio-salvador.jpg" alt="Otavio Salvador" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Otavio Salvador</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/otaviosalvador">Twitter</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/otaviosalvador">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -113,8 +125,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-150
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-150" heading="Escute Agora" >}}
 
 
 Links
@@ -129,7 +140,7 @@ Links
 * `Iron`_
 * `Rust Analyzer`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

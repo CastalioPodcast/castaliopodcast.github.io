@@ -1,12 +1,50 @@
-Felipe Ribeiro: Spotify
-#######################
-:date: 2012-06-10 16:43
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-38/castalio-podcast-38.mp3
-:tags: ac/dc, back to the future, being geek, caike souza, creedence clearwater revival, ensaio sobre a cegueira, explosions in the sky, facebook, fisl, flávio ribeiro, forrest gump, groove shark, inception, java script, linkedin, memcache, mysql, pandora, pearl jam, php, php conference, programming pearls, rdio, spotify, starman: truth behind the legend of yuri gagarin, the algorithm design manual, the bad and the ugly, the big lebowski, the good, the hichhiker's guide to the galaxy, tuenti, will farrel, wolfmother, youtube
-:image: images/feliperibeiro.jpg
-:image-alt: Felipe Ribeiro: Spotify
+---
+title: "Felipe Ribeiro: Spotify"
+aliases:
+- /felipe-ribeiro-spotify.html
+date: "2012-06-10T16:43:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-38/castalio-podcast-38.mp3"
+tags:
+- ac/dc
+- back to the future
+- being geek
+- caike souza
+- creedence clearwater revival
+- ensaio sobre a cegueira
+- explosions in the sky
+- facebook
+- fisl
+- flávio ribeiro
+- forrest gump
+- groove shark
+- inception
+- java script
+- linkedin
+- memcache
+- mysql
+- pandora
+- pearl jam
+- php
+- php conference
+- programming pearls
+- rdio
+- spotify
+- starman: truth behind the legend of yuri gagarin
+- the algorithm design manual
+- the bad and the ugly
+- the big lebowski
+- the good
+- the hichhiker's guide to the galaxy
+- tuenti
+- will farrel
+- wolfmother
+- youtube
+image: /images/feliperibeiro.jpg
+image-alt: "Felipe Ribeiro: Spotify"
+---
 
 Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para
 comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para
@@ -32,7 +70,7 @@ Top 5!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-38
+{{< podcast castalio-podcast-38 >}}
 
 Contato
 -------
@@ -61,14 +99,14 @@ Resumo
 -  **Perks** 30:12
 -  **Conclusão** 32:22
 
-.. top5::
-
-    :music:
-        * Pearl Jam
-        * Wolfmother
-        * AC/DC
-        * Creedence Clearwater Revival
-        * Explosions in the Sky
+{{< top5 >}}
+music:
+    * Pearl Jam
+    * Wolfmother
+    * AC/DC
+    * Creedence Clearwater Revival
+    * Explosions in the Sky
+{{< /top5 >}}
 
     :movie:
         * Forrest Gump
@@ -105,7 +143,7 @@ Links
 -  `Groove Shark`_
 -  `Will Farrel`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,15 +1,23 @@
-Episódio 63: Thiago Avelino - vim-bootstrap e BeerBlogging
-##########################################################
-:date: 2015-02-15
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-63/castalio-podcast-63.mp3
-:tags: thiago avelino, vim-bootstrap, beerblogging
-:description: O entrevistado de hoje é o **Thiago Avelino**, criador
+---
+title: "Episódio 63: Thiago Avelino - vim-bootstrap e BeerBlogging"
+aliases:
+- /episodio-63-thiago-avelino-vim-bootstrap-e-beerblogging.html
+date: 2015-02-15
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-63/castalio-podcast-63.mp3"
+tags:
+- thiago avelino
+- vim-bootstrap
+- beerblogging
+description: O entrevistado de hoje é o **Thiago Avelino**, criador
               do `vim-bootstrap`_, um projeto que já tinha sido
               mencionado antes no `Episódio 55`_ sobre o editor Vim.
-:image: images/thiagoavelino.png
-:image-alt: Thiago Avelino - vim-bootstrap
+image: /images/thiagoavelino.png
+image-alt: Thiago Avelino - vim-bootstrap
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 
@@ -38,7 +46,7 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-63
+{{< podcast castalio-podcast-63 >}}
 
 Top 5
 -----
@@ -60,7 +68,7 @@ Links
 * `vim-shell`_
 * `vim`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

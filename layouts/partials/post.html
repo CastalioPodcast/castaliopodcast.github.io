@@ -1,0 +1,17 @@
+<article class="post row card mb-4 component">
+  <div class="card-body">
+    <h1 class="card-title my-3">{{ partial "helpers/title" . }}</h1>
+    {{- partial "post/meta" . -}}
+    {{- partial "post/image" . -}}
+    <div class="post-content mb-3">
+      {{- .Content -}}
+    </div>
+    {{- partial "post/taxonomies.html" . -}}
+    {{- if eq .Type "episodes" -}}
+      <hr />
+      {{- partial "post/nav" . -}}
+      {{- partial "post/related-posts" . -}}
+    {{- end -}}
+  </div>
+</article>
+{{- partial "post/comments" . -}}

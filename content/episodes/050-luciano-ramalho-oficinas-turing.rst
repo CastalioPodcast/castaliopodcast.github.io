@@ -1,12 +1,47 @@
-Luciano Ramalho: Oficinas Turing
-################################
-:date: 2013-02-05 03:47
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-50/castalio-podcast-50.mp3
-:tags: arduino, associação python brasil, c++, cms, coding dojo, django, flask, fortran, garoa hacker clube, github, global arrays, hackerspace, henrique bastos, hora extra, ipython, kivy toolkit, petrobras, plone, plone foundation, pycon, pylons, pyramid, python, rasberry pi, slideshare, speakerdeck, turbogears, web2py, zodb, zope, zope brasil
-:image: images/lucianoramalho.jpg
-:image-alt: Luciano Ramalho: Oficinas Turing
+---
+title: "Luciano Ramalho: Oficinas Turing"
+aliases:
+- /luciano-ramalho-oficinas-turing.html
+date: "2013-02-05T03:47:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-50/castalio-podcast-50.mp3"
+tags:
+- arduino
+- associação python brasil
+- c++
+- cms
+- coding dojo
+- django
+- flask
+- fortran
+- garoa hacker clube
+- github
+- global arrays
+- hackerspace
+- henrique bastos
+- hora extra
+- ipython
+- kivy toolkit
+- petrobras
+- plone
+- plone foundation
+- pycon
+- pylons
+- pyramid
+- python
+- rasberry pi
+- slideshare
+- speakerdeck
+- turbogears
+- web2py
+- zodb
+- zope
+- zope brasil
+image: /images/lucianoramalho.jpg
+image-alt: "Luciano Ramalho: Oficinas Turing"
+---
 
 Um dias destes eu estava procurando documentação sobre umas coisas da
 linguagem python quando me deparei com uma apresentação do **Luciano
@@ -51,7 +86,7 @@ discutidos.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-50
+{{< podcast castalio-podcast-50 >}}
 
 Contato
 -------
@@ -61,26 +96,26 @@ Contato
 -  **Speaker Deck**: https://speakerdeck.com/ramalho
 -  **Slideshare**\ *:* http://www.slideshare.net/ramalho
 
-.. top5::
-
-    :music:
-        * Deep Purple
-        * Frank Zappa
-        * Wolfgang Amadeus Mozart
-        * Pink Floyd
-        * Led Zeppelin
-        * Björk
-        * Philip Glass
-    :movie:
-        * Apocalypse Now
-        * Brazil
-        * O Senhor dos Anéis
-        * O Hobbit
-        * O Poderoso Chefão
-    :book:
-        * Império à Deriva
-        * O Hobbit
-        * Estação Carandiru
+{{< top5 >}}
+music:
+    * Deep Purple
+    * Frank Zappa
+    * Wolfgang Amadeus Mozart
+    * Pink Floyd
+    * Led Zeppelin
+    * Björk
+    * Philip Glass
+movie:
+    * Apocalypse Now
+    * Brazil
+    * O Senhor dos Anéis
+    * O Hobbit
+    * O Poderoso Chefão
+book:
+    * Império à Deriva
+    * O Hobbit
+    * Estação Carandiru
+{{< /top5 >}}
 
 Links
 -----
@@ -112,7 +147,7 @@ Links
 -  `Garoa Hacker Clube (DuckDuckGo)`_
 -  `Coding Dojo`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

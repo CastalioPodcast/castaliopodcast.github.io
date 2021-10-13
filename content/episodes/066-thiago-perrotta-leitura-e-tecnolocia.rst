@@ -1,13 +1,60 @@
-Episódio 66: Thiago Perrotta - Leitura e Tecnologia
-###################################################
-:date: 2015-05-31
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3
-:tags: thiago perrotta, leitura, tecnologia, goodreads, thinking, fast and slow, ready player one, harry potter, o guia do mochileiro das galáxias, percy jackson, coldplay, maroon 5, foo fighters, linkin park, bullet for my valentine, eminem, taylor swift, harry potter, star wars, x-men, lord of the rings, the inglorious basterds, fight club, à procura da felicidade, basement coders, everyday linux, hack'n'cast, castálio podcast, papo acessível, dan brown, the da vince code, emacs, haskell, jono bacon, kindle, ocamel, ogre 3d, openbsd, org mode, scala, the art of community, vim
-:description: Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.
-:image: images/thiagoperrotta.png
-:image-alt: Thiago Perrotta - Leitura e Tecnologia
+---
+title: "Episódio 66: Thiago Perrotta - Leitura e Tecnologia"
+aliases:
+- /episodio-66-thiago-perrotta-leitura-e-tecnologia.html
+date: 2015-05-31
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3"
+tags:
+- thiago perrotta
+- leitura
+- tecnologia
+- goodreads
+- thinking
+- fast and slow
+- ready player one
+- harry potter
+- o guia do mochileiro das galáxias
+- percy jackson
+- coldplay
+- maroon 5
+- foo fighters
+- linkin park
+- bullet for my valentine
+- eminem
+- taylor swift
+- harry potter
+- star wars
+- x-men
+- lord of the rings
+- the inglorious basterds
+- fight club
+- à procura da felicidade
+- basement coders
+- everyday linux
+- hack'n'cast
+- castálio podcast
+- papo acessível
+- dan brown
+- the da vince code
+- emacs
+- haskell
+- jono bacon
+- kindle
+- ocamel
+- ogre 3d
+- openbsd
+- org mode
+- scala
+- the art of community
+- vim
+description: Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.
+image: /images/thiagoperrotta.png
+image-alt: Thiago Perrotta - Leitura e Tecnologia
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -37,38 +84,38 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-66
+{{< podcast castalio-podcast-66 >}}
 
-.. top5::
-
-    :book:
-        * Thinking, Fast and Slow
-        * Ready Player One
-        * Harry Potter
-        * O Guia do Mochileiro das Galáxias
-        * Percy Jackson
-    :music:
-        * Coldplay
-        * Maroon 5
-        * Foo Fighters
-        * Linkin Park
-        * Bullet for My Valentine
-        * Eminem
-        * Taylor Swift
-    :movie:
-        * Harry Potter e a Pedra Filosofal
-        * Star Wars
-        * X-Men
-        * Lord of the Rings
-        * Inglourious Basterds
-        * Fight Club
-        * À Procura da Felicidade
-    :podcast:
-        * Bad Voltage
-        * Everyday Linux
-        * Hack'n'Cast
-        * Castálio Podcast
-        * Papo Acessível
+{{< top5 >}}
+book:
+    * Thinking, Fast and Slow
+    * Ready Player One
+    * Harry Potter
+    * O Guia do Mochileiro das Galáxias
+    * Percy Jackson
+music:
+    * Coldplay
+    * Maroon 5
+    * Foo Fighters
+    * Linkin Park
+    * Bullet for My Valentine
+    * Eminem
+    * Taylor Swift
+movie:
+    * Harry Potter e a Pedra Filosofal
+    * Star Wars
+    * X-Men
+    * Lord of the Rings
+    * Inglourious Basterds
+    * Fight Club
+    * À Procura da Felicidade
+podcast:
+    * Bad Voltage
+    * Everyday Linux
+    * Hack'n'Cast
+    * Castálio Podcast
+    * Papo Acessível
+{{< /top5 >}}
 
 Links
 -----
@@ -88,7 +135,7 @@ Links
 * Vídeo sobre como postar no blog utilizando o Org Mode `How do I blog with org2blog`_
 * `Vim`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

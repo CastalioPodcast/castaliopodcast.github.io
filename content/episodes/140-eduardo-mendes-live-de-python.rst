@@ -1,20 +1,56 @@
-=============================================
-Episódio 140: Eduardo Mendes - Live de Python
-=============================================
-
-:date: 2019-04-29
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-140/castalio-podcast-140.mp3
-:tags: eduardo mendes, akitaonrails, ansible, arch linux, behave, caml,
-       coconut, django girls, docker, elixir, fn.py, fun fun functions,
-       functools, functor, garoa hacker clube, gitlab ci, haskel, hy,
-       ignorancia zero, itertools, introdução à programação com python,
-       itertools, java, jenkins, kurumin, luciano ramalho, monoid, pingo,
-       potigol, programação funcional, pyladies, python para desenvolvedores,
-       python para zumbis, python, quickbuild, selenium, slackware, toolz,
-       vagrant, viva o linux, python-funcional
-:image: images/eduardo-mendes.png
-:image-alt: Eduardo Mendes
+---
+title: "Episódio 140: Eduardo Mendes - Live de Python"
+aliases:
+- /episodio-140-eduardo-mendes-live-de-python.html
+date: 2019-04-29
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-140/castalio-podcast-140.mp3"
+tags:
+- eduardo mendes
+- akitaonrails
+- ansible
+- arch linux
+- behave
+- caml
+- coconut
+- django girls
+- docker
+- elixir
+- fn.py
+- fun fun functions
+- functools
+- functor
+- garoa hacker clube
+- gitlab ci
+- haskel
+- hy
+- ignorancia zero
+- itertools
+- introdução à programação com python
+- itertools
+- java
+- jenkins
+- kurumin
+- luciano ramalho
+- monoid
+- pingo
+- potigol
+- programação funcional
+- pyladies
+- python para desenvolvedores
+- python para zumbis
+- python
+- quickbuild
+- selenium
+- slackware
+- toolz
+- vagrant
+- viva o linux
+- python-funcional
+image: /images/eduardo-mendes.png
+image-alt: Eduardo Mendes
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -29,8 +65,7 @@ bem-vindo ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-140
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-140" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -48,25 +83,25 @@ Tópicos abordados neste episódio
   ele a superou?
 
 
-.. top5::
-
-    :book:
-        * O Apanhador no Campo de Centeio
-        * O Mestre e Margarida
-        * Junji Ito
-        * Python Fluente
-        * Functional Programming in Python
-    :music:
-        * Terno Rei - Violeta
-        * Surra
-        * Dance of Days
-        * Daft Punk - Random Access Memory
-        * Deadfish
-    :movie:
-        * Nausicaä of the Valley of the Wind
-        * Black Mirror
-        * Chapolin
-        * Um Maluco no Pedaço
+{{< top5 >}}
+book:
+    * O Apanhador no Campo de Centeio
+    * O Mestre e Margarida
+    * Junji Ito
+    * Python Fluente
+    * Functional Programming in Python
+music:
+    * Terno Rei - Violeta
+    * Surra
+    * Dance of Days
+    * Daft Punk - Random Access Memory
+    * Deadfish
+movie:
+    * Nausicaä of the Valley of the Wind
+    * Black Mirror
+    * Chapolin
+    * Um Maluco no Pedaço
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -76,7 +111,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: 69ViqBRoEwk
+{{< youtube 69ViqBRoEwk >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -98,14 +133,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/eduardo-mendes.png" alt="Eduardo Mendes" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/eduardo-mendes.png" alt="Eduardo Mendes" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Eduardo Mendes</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/dunossauro">Github</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/dunossauro">Twitter</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="http://youtube.com/c/eduardomendes">YouTube</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/dunossauro">Github</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/dunossauro">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="http://youtube.com/c/eduardomendes">YouTube</a></li>
                 </ul>
             </div>
             </div>
@@ -113,8 +148,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-140
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-140" heading="Escute Agora" >}}
 
 
 Links
@@ -164,7 +198,7 @@ Links
 * `python-funcional`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

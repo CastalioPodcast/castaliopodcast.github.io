@@ -1,12 +1,86 @@
-Gabriel Falcão: Yipit
-#####################
-:date: 2012-03-18 20:33
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-32/castalio-podcast-32.mp3
-:tags: bamboo, banco do brasil, banda lettuce, behavior driven development, belo horizonte, bernardo heynemann, big band theory, bolacha, c++, capybara, cucumber, daft punk, dead parrot, debconf, debian linux, desenvolvimento agile, dexter, django, djangocon, github, glib, globo.com, gnome, gnu/linux, groupon, gtk, guake, guy ritchie, hbase, httpretty, integração contínua, jenkins, jogos mortais, kde, lettuce, licença gpl, licença mit, linguagem python, linguagem ruby, little joy, lock, mac os, mgmt, music for programming, new york city, node.js, peixe urbano, pyccuracy, qt, rspec, salad, selenium, servidor apache, sherlock holmes, skink, socket.io, software livre, stock and two smoking barrels, strokes, técnica scrum, teste unitário, tilda, two door cinema club, ubuntu linux, uncle bob, white collar, white stripes, windows, yakauke, yipit
-:image: images/gabrielfalcao.jpg
-:image-alt: Gabriel Falcão: YipIt
+---
+title: "Gabriel Falcão: Yipit"
+aliases:
+- /gabriel-falcao-yipit.html
+date: "2012-03-18T20:33:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-32/castalio-podcast-32.mp3"
+tags:
+- bamboo
+- banco do brasil
+- banda lettuce
+- behavior driven development
+- belo horizonte
+- bernardo heynemann
+- big band theory
+- bolacha
+- c++
+- capybara
+- cucumber
+- daft punk
+- dead parrot
+- debconf
+- debian linux
+- desenvolvimento agile
+- dexter
+- django
+- djangocon
+- github
+- glib
+- globo.com
+- gnome
+- gnu/linux
+- groupon
+- gtk
+- guake
+- guy ritchie
+- hbase
+- httpretty
+- integração contínua
+- jenkins
+- jogos mortais
+- kde
+- lettuce
+- licença gpl
+- licença mit
+- linguagem python
+- linguagem ruby
+- little joy
+- lock
+- mac os
+- mgmt
+- music for programming
+- new york city
+- node.js
+- peixe urbano
+- pyccuracy
+- qt
+- rspec
+- salad
+- selenium
+- servidor apache
+- sherlock holmes
+- skink
+- socket.io
+- software livre
+- stock and two smoking barrels
+- strokes
+- técnica scrum
+- teste unitário
+- tilda
+- two door cinema club
+- ubuntu linux
+- uncle bob
+- white collar
+- white stripes
+- windows
+- yakauke
+- yipit
+image: /images/gabrielfalcao.jpg
+image-alt: "Gabriel Falcão: YipIt"
+---
 
 Olá pessoal e sejam muito bem-vindos ao episódio 32 do Castálio Podcast!
 Desta vez eu tive o enorme prazer de conversar com o **Gabriel Falcão**,
@@ -33,7 +107,7 @@ mini hack-a-ton?
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-32
+{{< podcast castalio-podcast-32 >}}
 
 Contato
 -------
@@ -60,23 +134,24 @@ Resumo
 -  **Top 5** 33:35
 -  **Conclusão** 38:23
 
-. top5::
-    :music:
-        * The Strokes
-        * The White Stripes
-        * MGMT
-        * Two Door Cinema Club
-        * Daft Punk
-    :movie:
-        * White Collar
-        * Big Band Theory
-        * Dexter
-        * Guy Ritchie
-        * Sherlock Holmes
-        * Lock, Stock and Two Smoking Barrels
-        * Jogos Mortais
-    :books:
-        * HBase2
+{{< top5 >}}
+music:
+    * The Strokes
+    * The White Stripes
+    * MGMT
+    * Two Door Cinema Club
+    * Daft Punk
+movie:
+    * White Collar
+    * Big Band Theory
+    * Dexter
+    * Guy Ritchie
+    * Sherlock Holmes
+    * Lock, Stock and Two Smoking Barrels
+    * Jogos Mortais
+book:
+    * HBase
+{{< /top5 >}}
 
 Links
 -----
@@ -135,7 +210,7 @@ Links
 -  `DjangoCon`_
 -  `Music For Programming`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

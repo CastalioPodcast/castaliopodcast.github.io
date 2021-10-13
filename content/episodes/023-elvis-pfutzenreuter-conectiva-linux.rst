@@ -1,10 +1,39 @@
-Elvis Pfutzenreuter: Conectiva Linux
-####################################
-:date: 2011-11-28 03:37
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-23/castalio-podcast-23.mp3
-:tags: android, asia, clara nunes, conectiva linux, debian linux, emperor of the north, enron, erp, facção central, ieee, ios, iphone, jacob do bandolim, linux world expo, madoff, mandrake linux, mandriva linux, o poderoso chefão, racionais mc, red hat linux, revista do linux, runaway train, slackware linux, toccata und fuge, windows
+---
+title: "Elvis Pfutzenreuter: Conectiva Linux"
+aliases:
+- /elvis-pfutzenreuter-conectiva-linux.html
+date: "2011-11-28T03:37:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-23/castalio-podcast-23.mp3"
+tags:
+- android
+- asia
+- clara nunes
+- conectiva linux
+- debian linux
+- emperor of the north
+- enron
+- erp
+- facção central
+- ieee
+- ios
+- iphone
+- jacob do bandolim
+- linux world expo
+- madoff
+- mandrake linux
+- mandriva linux
+- o poderoso chefão
+- racionais mc
+- red hat linux
+- revista do linux
+- runaway train
+- slackware linux
+- toccata und fuge
+- windows
+---
 
 O episódio de hoje marca o início de um mini-projeto que estou
 planejando há algum tempo: conversar com o pessoal que iniciou e
@@ -23,7 +52,7 @@ menos ideologia!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-23
+{{< podcast castalio-podcast-23 >}}
 
 Contato
 -------
@@ -51,25 +80,25 @@ Resumo
 -  **Conclusão** 27:22
 
 
-.. top5::
-
-    :music:
-        * Johann Sebastian Bach - Toccata and Fugue in D Minor, BWV 565
-        * Asia
-        * Racionais Mc's
-        * Facção Central
-        * Clara Nunes
-        * Jacob Do Bandolim
-    :movie:
-        * O Poderoso Chefão
-        * Runaway Train
-        * Emperor of the North
-    :book:
-        * UNIX Network Programming, Volume 1: The Sockets Networking API
-        * The Inverted World
-        * The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron
-        * No One Would Listen
-        * A Ditadura Derrotada
+{{< top5 >}}
+music:
+    * Johann Sebastian Bach - Toccata and Fugue in D Minor, BWV 565
+    * Asia
+    * Racionais Mc's
+    * Facção Central
+    * Clara Nunes
+    * Jacob Do Bandolim
+movie:
+    * O Poderoso Chefão
+    * Runaway Train
+    * Emperor of the North
+book:
+    * UNIX Network Programming, Volume 1: The Sockets Networking API
+    * The Inverted World
+    * The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron
+    * No One Would Listen
+    * A Ditadura Derrotada
+{{< /top5 >}}
 
 
 Links
@@ -96,7 +125,7 @@ Links
 -  `Enron`_
 -  `Madoff`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 

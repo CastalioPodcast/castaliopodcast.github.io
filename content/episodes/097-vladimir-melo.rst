@@ -1,16 +1,29 @@
-Episódio 97: Vladimir Melo - Software Livre e Obesidade Infantil
-################################################################
-:date: 2017-04-24
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-97/castalio-podcast-97.mp3
-:tags: vladimir melo, obesidade infantil, gnome, arch linux, ubuntu, libre
-       office, tradução, software livre
-:description: Hoje, conversamos com o Vladimir Melo que é Psicólogo Clínico,
+---
+title: "Episódio 97: Vladimir Melo - Software Livre e Obesidade Infantil"
+aliases:
+- /episodio-97-vladimir-melo-software-livre-e-obesidade-infantil.html
+date: 2017-04-24
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-97/castalio-podcast-97.mp3"
+tags:
+- vladimir melo
+- obesidade infantil
+- gnome
+- arch linux
+- ubuntu
+- libre office
+- tradução
+- software livre
+description: Hoje, conversamos com o Vladimir Melo que é Psicólogo Clínico,
               publicou um livro sobre obesidade infantil, e, por muito tempo,
               foi membro da equipe de tradutores do projeto GNOME.
-:image: images/vladimir-melo.jpg
-:image-alt: Vladimir Melo - Software Livre e Obesidade Infantil
+image: /images/vladimir-melo.jpg
+image-alt: Vladimir Melo - Software Livre e Obesidade Infantil
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -40,7 +53,7 @@ crianças, seus pais e instrutores.
 
     <div class="clearfix"></div>
 
-.. figure:: {static}/images/vladimir-melo-palestra.jpg
+.. figure:: /images/vladimir-melo-palestra.jpg
    :alt: Vladimir em uma de suas palestras
    :figclass: center-block
 
@@ -68,27 +81,27 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-97
+{{< podcast castalio-podcast-97 >}}
 
-.. top5::
-
-    :movie:
-        * Brilho Eterno de uma Mente sem Lembranças
-        * Vanilla Sky
-        * Quentin Tarantino
-    :book:
-        * J.M. Coetzee
-        * Oliver Sacks
-        * José Saramago
-        * Haruki Murakami
-        * Mario Vargas Llosa
-        * Jorge Luis Borges
-        * Adolfo Bioy Casares
-    :music:
-        * Sigur Rós
-        * Angus Stone
-        * José González
-        * David Bowie
+{{< top5 >}}
+movie:
+    * Brilho Eterno de uma Mente sem Lembranças
+    * Vanilla Sky
+    * Quentin Tarantino
+book:
+    * J.M. Coetzee
+    * Oliver Sacks
+    * José Saramago
+    * Haruki Murakami
+    * Mario Vargas Llosa
+    * Jorge Luis Borges
+    * Adolfo Bioy Casares
+music:
+    * Sigur Rós
+    * Angus Stone
+    * José González
+    * David Bowie
+{{< /top5 >}}
 
 Links
 -----
@@ -99,7 +112,7 @@ Links
 * `Libre Office`_
 * `Muito Além do Peso`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

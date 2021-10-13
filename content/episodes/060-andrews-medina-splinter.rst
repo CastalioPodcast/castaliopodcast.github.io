@@ -1,14 +1,33 @@
-Episódio 60: Andrews Medina - Splinter
-######################################
-:date: 2015-01-04
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-60/castalio-podcast-60.mp3
-:tags: andrews medina, splinter, tsuru, travis, cobra team, spotify,
-       globo.com, selenium, pyccuracy, django, flask, capybara,
-       tornado web server, angularjs, yipit, jquery
-:image: images/andrewsmedina.jpeg
-:image-alt: Andrews Medina - Splinter
+---
+title: "Episódio 60: Andrews Medina - Splinter"
+aliases:
+- /episodio-60-andrews-medina-splinter.html
+date: 2015-01-04
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-60/castalio-podcast-60.mp3"
+tags:
+- andrews medina
+- splinter
+- tsuru
+- travis
+- cobra team
+- spotify
+- globo.com
+- selenium
+- pyccuracy
+- django
+- flask
+- capybara
+- tornado web server
+- angularjs
+- yipit
+- jquery
+image: /images/andrewsmedina.jpeg
+image-alt: Andrews Medina - Splinter
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**, o primeiro de 2015!!!
 
@@ -30,29 +49,29 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-60
+{{< podcast castalio-podcast-60 >}}
 
-.. top5::
-
-    :app:
-        * Git
-        * Vim
-    :book:
-        * O Guia do Mochileiro das Galáxias
-        * O Estilho de Cristal
-        * \R. A. Salvatore
-        * Agile Software Development, Principles, Patterns, and Practices
-        * Uncle Bob
-        * Refactoring: Improving the Design of Existing Code
-        * Martin Fowler
-    :music:
-        * Black Sabbath
-        * Raul Seixas
-    :movie:
-        * Iron Man
-        * Exterminador do Futuro
-        * De Volta Para o Futuro
-        * Cobra
+{{< top5 >}}
+app:
+    * Git
+    * Vim
+book:
+    * O Guia do Mochileiro das Galáxias
+    * O Estilho de Cristal
+    * R. A. Salvatore
+    * Agile Software Development, Principles, Patterns, and Practices
+    * Uncle Bob
+    * Refactoring: Improving the Design of Existing Code
+    * Martin Fowler
+music:
+    * Black Sabbath
+    * Raul Seixas
+movie:
+    * Iron Man
+    * Exterminador do Futuro
+    * De Volta Para o Futuro
+    * Cobra
+{{< /top5 >}}
 
 Links
 -----
@@ -72,7 +91,7 @@ Links
 * `Yipit`_
 * `JQuery`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

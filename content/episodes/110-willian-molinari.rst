@@ -1,20 +1,44 @@
-Episódio 110: Willian Molinari - Desconstruindo a Web
-#####################################################
-:date: 2017-07-24
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-110/castalio-podcast-110.mp3
-:tags: willian molinari, pothix, games, desconstruindo a web, redes, tcp,
-       modelo osi, modelo ozzy, javascript, ruby, guru-sp, python, go, html,
-       html5, pygame, game loop, client side prediction, android, ios
-:description: Hoje nosso convidado é formado em Sistemas de Informação
+---
+title: "Episódio 110: Willian Molinari - Desconstruindo a Web"
+aliases:
+- /episodio-110-willian-molinari-desconstruindo-a-web.html
+date: 2017-07-24
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-110/castalio-podcast-110.mp3"
+tags:
+- willian molinari
+- pothix
+- games
+- desconstruindo a web
+- redes
+- tcp
+- modelo osi
+- modelo ozzy
+- javascript
+- ruby
+- guru-sp
+- python
+- go
+- html
+- html5
+- pygame
+- game loop
+- client side prediction
+- android
+- ios
+description: Hoje nosso convidado é formado em Sistemas de Informação
               e trabalha com desenvolvimento de Software há mais de 10 anos.
               É um dos fundadores do Guru-SP, ele desenvolveu alguns jogos com
               HTML5 e JavaScript. Ele também escreveu o próprio livro chamado
               "Desconstruindo a web" e neste episódio falamos sobre o processo
               de criação deste livro e sobre alguns tópicos abordados no livro.
-:image: images/willian-molinari.jpg
-:image-alt: Willian Molinari
+image: /images/willian-molinari.jpg
+image-alt: Willian Molinari
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -56,7 +80,7 @@ Abordamos os seguintes tópicos:
 
 Confira a gravação deste episódio no vídeo abaixo:
 
-.. youtube:: BW4APvWktBY
+{{< youtube BW4APvWktBY >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -85,13 +109,13 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/willian-molinari.jpg" alt="Willian Molinari" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/willian-molinari.jpg" alt="Willian Molinari" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Willian Molinari</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-globe"></i> <a href="https://www.pothix.com">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/pothix">Twitter</a></li>
+                    <li><i class="bi bi-globe"></i> <a href="https://www.pothix.com">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/pothix">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -102,30 +126,30 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-110
+{{< podcast castalio-podcast-110 >}}
 
 
-.. top5::
-
-    :music:
-        * Pantera - Mouth of War
-        * Black Label Society - Demise of Sanity
-        * Mega Driver
-        * Andy McKee
-        * Jon Gomm
-    :movie:
-        * Mr. Robot
-        * Senhor dos Anéis
-        * Watchmen
-        * Game of Thrones
-        * Sherlock BBC
-        * House of cards
-    :book:
-        * J.R.R Tolkien
-        * Deep Work
-        * Mastery
-        * The Pragmatic Programmer
-        * O Restaurante no fim do universo
+{{< top5 >}}
+music:
+    * Pantera - Mouth of War
+    * Black Label Society - Demise of Sanity
+    * Mega Driver
+    * Andy McKee
+    * Jon Gomm
+movie:
+    * Mr. Robot
+    * Senhor dos Anéis
+    * Watchmen
+    * Game of Thrones
+    * Sherlock BBC
+    * House of cards
+book:
+    * J.R.R Tolkien
+    * Deep Work
+    * Mastery
+    * The Pragmatic Programmer
+    * O Restaurante no fim do universo
+{{< /top5 >}}
 
 Links
 -----
@@ -138,7 +162,7 @@ Links
 * `Pygame`_
 * `Todoist`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

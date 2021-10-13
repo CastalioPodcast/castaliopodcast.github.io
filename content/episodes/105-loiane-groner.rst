@@ -1,16 +1,50 @@
-Episódio 105: Loiane Groner
-###########################
-:date: 2017-06-19
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-105/castalio-podcast-105.mp3
-:tags: loiane groner, javascript, java, ionic, xamarin, cordova, corona,
-       progressive web apps, ecmascript, o senhor dos anéis, star wars,
-       avantasia, angra, nightwish, after forever, within temptation, céline
-       dion, blind guardian, game of thrones, harry potter, o guia do
-       mochileiro das galáxias, crepúsculo, typescript, babel, angularjs,
-       react, jsview, reactivex, jasmine, php, python, android, ios, opodcastedelas
-:description: Nossa convidada de hoje é full-stack developer com mais de 10
+---
+title: "Episódio 105: Loiane Groner"
+aliases:
+- /episodio-105-loiane-groner.html
+date: 2017-06-19
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-105/castalio-podcast-105.mp3"
+tags:
+- loiane groner
+- javascript
+- java
+- ionic
+- xamarin
+- cordova
+- corona
+- progressive web apps
+- ecmascript
+- o senhor dos anéis
+- star wars
+- avantasia
+- angra
+- nightwish
+- after forever
+- within temptation
+- céline dion
+- blind guardian
+- game of thrones
+- harry potter
+- o guia do mochileiro das galáxias
+- crepúsculo
+- typescript
+- babel
+- angularjs
+- react
+- jsview
+- reactivex
+- jasmine
+- php
+- python
+- android
+- ios
+- opodcastedelas
+description: Nossa convidada de hoje é full-stack developer com mais de 10
               anos de experiência, trabalhou com desenvolvimento Java na IBM e
               atualmente é developer no Citibank. É uma das pessoas mais
               influentes na comunidade JavaScript no Brasil, palestrante e
@@ -18,8 +52,9 @@ Episódio 105: Loiane Groner
               também tem um canal no Youtube com cursos online gratuitos de
               Java, Angular, Ionic e Javascript. É com grande prazer que nós
               recebemos nossa convidada, Loiane Groner.
-:image: images/loiane-groner.jpg
-:image-alt: Loiane Groner
+image: /images/loiane-groner.jpg
+image-alt: Loiane Groner
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -78,7 +113,7 @@ Confira as recomendações que a Loiane deixou no Top 5 de hoje.
 
 Confira a gravação do episódio no vídeo abaixo:
 
-.. youtube:: 4t3MlJ64_qs
+{{< youtube 4t3MlJ64_qs >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -100,16 +135,16 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/loiane-groner.jpg" alt="Loiane Groner" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/loiane-groner.jpg" alt="Loiane Groner" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Loiane Groner</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/loiane">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://loiane.com/">Site</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://loiane.training/">Site de cursos</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="http://www.twitter.com/loiane">Twitter</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="https://youtube.com/user/loianeg">YouTube</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/loiane">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://loiane.com/">Site</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://loiane.training/">Site de cursos</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="http://www.twitter.com/loiane">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://youtube.com/user/loianeg">YouTube</a></li>
                 </ul>
             </div>
             </div>
@@ -120,28 +155,28 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-105
+{{< podcast castalio-podcast-105 >}}
 
 
-.. top5::
-
-    :movie:
-        * O Senhor dos Anéis
-        * Star Wars
-    :music:
-        * Avantasia
-        * Angra
-        * Nightwish
-        * After Forever
-        * Within Temptation
-        * Céline Dion
-        * Blind Guardian
-    :book:
-        * O Senhor dos Anéis
-        * A Game of Thrones
-        * Harry Potter
-        * O Guia do Mochileiro das Galáxias
-        * Crepúsculo
+{{< top5 >}}
+movie:
+    * O Senhor dos Anéis
+    * Star Wars
+music:
+    * Avantasia
+    * Angra
+    * Nightwish
+    * After Forever
+    * Within Temptation
+    * Céline Dion
+    * Blind Guardian
+book:
+    * O Senhor dos Anéis
+    * A Game of Thrones
+    * Harry Potter
+    * O Guia do Mochileiro das Galáxias
+    * Crepúsculo
+{{< /top5 >}}
 
 
 Links
@@ -167,7 +202,7 @@ Links
 * `Desenvolvimento nativo para iOS`_
 * `TDC 2017`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

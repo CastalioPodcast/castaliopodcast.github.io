@@ -1,16 +1,36 @@
-===================================================
-Episódio 137: Vicente Marçal - Filosofia com Python
-===================================================
-
-:date: 2018-11-27
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-137/castalio-podcast-137.mp3
-:tags: vicente marçal, bash, beaultiful soup, brasil.io, django,
-       fedora, flask, python, numpy, podprogramar, pycharm, pyladies, python
-       para zumbis, quebradev, rosie, sqlite, serenata de amor, web scraping,
-       matplotlib, scikit-learn, turicas
-:image: images/vicente-marcal.jpg
-:image-alt: Vicente Marçal
+---
+title: "Episódio 137: Vicente Marçal - Filosofia com Python"
+aliases:
+- /episodio-137-vicente-marcal-filosofia-com-python.html
+date: 2018-11-27
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-137/castalio-podcast-137.mp3"
+tags:
+- vicente marçal
+- bash
+- beaultiful soup
+- brasil.io
+- django
+- fedora
+- flask
+- python
+- numpy
+- podprogramar
+- pycharm
+- pyladies
+- python para zumbis
+- quebradev
+- rosie
+- sqlite
+- serenata de amor
+- web scraping
+- matplotlib
+- scikit-learn
+- turicas
+image: /images/vicente-marcal.jpg
+image-alt: Vicente Marçal
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -34,8 +54,7 @@ Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-137
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-137" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -53,27 +72,27 @@ Tópicos abordados neste episódio
   a programação?
 
 
-.. top5::
-
-    :book:
-        * Modelo e Estrutura - Zelia Ramozzi
-        * Em Busca do Sentido da Obra de Jean Piaget - Zelia Ramozzi
-        * Adaptation vitale et psychologie de l'intelligence
-        * Biologia e Conhecimento
-        * A Psicanálise, sua imagem e seu público
-        * O Nascimento da Inteligência na Criança
-    :music:
-        * Iron Maiden - Powerslave
-        * Belphegor - Lucifer Incestus
-        * Ratos De Porão - Conflito Violento
-        * Cólera - Medo
-        * Garotos Podres - Eu não sei o que quero
-    :movie:
-        * Game of Thrones
-        * Grimm
-        * Gotham
-        * Mulher Maravilha
-        * The Dark Knight
+{{< top5 >}}
+book:
+    * Modelo e Estrutura - Zelia Ramozzi
+    * Em Busca do Sentido da Obra de Jean Piaget - Zelia Ramozzi
+    * Adaptation vitale et psychologie de l'intelligence
+    * Biologia e Conhecimento
+    * A Psicanálise, sua imagem e seu público
+    * O Nascimento da Inteligência na Criança
+music:
+    * Iron Maiden - Powerslave
+    * Belphegor - Lucifer Incestus
+    * Ratos De Porão - Conflito Violento
+    * Cólera - Medo
+    * Garotos Podres - Eu não sei o que quero
+movie:
+    * Game of Thrones
+    * Grimm
+    * Gotham
+    * Mulher Maravilha
+    * The Dark Knight
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -83,7 +102,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: hl8qQpijrM4
+{{< youtube hl8qQpijrM4 >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -105,14 +124,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/vicente-marcal.jpg" alt="Vicente Marçal" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/vicente-marcal.jpg" alt="Vicente Marçal" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Vicente Marçal</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-link"></i> <a href="http://lattes.cnpq.br/6291991365858479">Currículo Lattes</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://www.vicentemarcal.com/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/vicentemarcal">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://lattes.cnpq.br/6291991365858479">Currículo Lattes</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://www.vicentemarcal.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/vicentemarcal">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -120,8 +139,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-137
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-137" heading="Escute Agora" >}}
 
 
 Links
@@ -157,7 +175,7 @@ Links
 * `Álvaro Justen (Turicas)`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

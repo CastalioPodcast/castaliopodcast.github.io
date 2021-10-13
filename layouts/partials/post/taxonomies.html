@@ -1,0 +1,13 @@
+{{- range $key, $value := .Site.Taxonomies -}}
+  {{- if eq $key "tags"  -}}
+    {{- $tags := $.GetTerms $key }}
+    {{- if $tags -}}
+      <h2>Tags</h2>
+      <p class="lh-lg">
+      {{- range $tags }}
+      <a class="btn btn-primary btn-sm" href="{{ .Permalink }}">{{ .Name }}</a>
+      {{end -}}
+      </p>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

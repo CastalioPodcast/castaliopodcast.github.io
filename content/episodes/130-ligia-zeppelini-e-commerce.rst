@@ -1,14 +1,23 @@
-================================================
-Episódio 130: Lígia Dutra Zeppelini - E-commerce
-================================================
-
-:date: 2018-03-27
-:authors: Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-130/castalio-podcast-130.mp3
-:tags: castalio, podcast, Lígia Zeppelini, e-commerce, upalupa, bate papo ecommerce,
-       opodcastedelas
-:image: images/ligia_dutra_zeppelini.jpg
-:image-alt: Lígia Zeppelini
+---
+title: "Episódio 130: Lígia Dutra Zeppelini - E-commerce"
+aliases:
+- /episodio-130-ligia-dutra-zeppelini-e-commerce.html
+date: 2018-03-27
+authors:
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-130/castalio-podcast-130.mp3"
+tags:
+- castalio
+- podcast
+- Lígia Zeppelini
+- e-commerce
+- upalupa
+- bate papo ecommerce
+- opodcastedelas
+image: /images/ligia_dutra_zeppelini.jpg
+image-alt: Lígia Zeppelini
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -33,8 +42,7 @@ em projetos de startups de `e-commerce`_.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-130
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-130" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -56,19 +64,19 @@ Tópicos abordados neste episódio
     * Vale a pena usar gateways conhecidos ou investir em checkout transparente?
 
 
-.. top5::
-
-    :music:
-        * Apocalyptica
-        * Annita
-    :movie:
-        * Greys Anatomy
-        * Demolidor
-        * À Procura da Felicidade
-    :book:
-        * O Livro de Mirdad
-        * Macro Wikinomics
-        * O mais completo guia sobre e-commerce
+{{< top5 >}}
+music:
+    * Apocalyptica
+    * Annita
+movie:
+    * Greys Anatomy
+    * Demolidor
+    * À Procura da Felicidade
+book:
+    * O Livro de Mirdad
+    * Macro Wikinomics
+    * O mais completo guia sobre e-commerce
+{{< /top5 >}}
 
 Assista a gravação deste episódio
 =================================
@@ -77,7 +85,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: 7pnzgBrd9hE
+{{< youtube 7pnzgBrd9hE >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -99,13 +107,13 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/ligia_dutra_zeppelini.jpg" alt="Lígia Zeppelini" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/ligia_dutra_zeppelini.jpg" alt="Lígia Zeppelini" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Lígia Zeppelini</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/ligiazeppelini/">Facebook</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/ligiazeppelini">Twitter</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/ligiazeppelini/">Facebook</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/ligiazeppelini">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -113,8 +121,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-130
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-130" heading="Escute Agora" >}}
 
 
 Links
@@ -131,7 +138,7 @@ Links
 * `e-commerce`_
 * `Olist`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

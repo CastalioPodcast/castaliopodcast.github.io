@@ -1,18 +1,50 @@
-==========================================
-Episódio 118: Jefferson Rocha - Emmi Linux
-==========================================
-
-:date: 2017-09-18
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-118/castalio-podcast-118.mp3
-:tags: emmi linux, linux, open source, debian, jefferson rocha, centos, fedora,
-       fish shell, pi, emmi instalador, python, python brasil 13, pybr,
-       rubyconf, ruby, ramones, pet cemetery, poiso heart, metallica, nirvana,
-       ratos de porão, eminem, game of thrones, supernatural, slackware,
-       opensuse, foresight, xfce, korora, bobthefish, linux mint, deepin, shell
-       script
-:image: images/jefferson-rocha.jpg
-:image-alt: Jefferson Rocha - Emmi Linux
+---
+title: "Episódio 118: Jefferson Rocha - Emmi Linux"
+aliases:
+- /episodio-118-jefferson-rocha-emmi-linux.html
+date: 2017-09-18
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-118/castalio-podcast-118.mp3"
+tags:
+- emmi linux
+- linux
+- open source
+- debian
+- jefferson rocha
+- centos
+- fedora
+- fish shell
+- pi
+- emmi instalador
+- python
+- python brasil 13
+- pybr
+- rubyconf
+- ruby
+- ramones
+- pet cemetery
+- poiso heart
+- metallica
+- nirvana
+- ratos de porão
+- eminem
+- game of thrones
+- supernatural
+- slackware
+- opensuse
+- foresight
+- xfce
+- korora
+- bobthefish
+- linux mint
+- deepin
+- shell script
+image: /images/jefferson-rocha.jpg
+image-alt: Jefferson Rocha - Emmi Linux
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -29,8 +61,7 @@ recebemos nosso convidado, Jefferson Rocha.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-118
-    :heading: Escute enquanto lê os show notes
+{{< podcast id="castalio-podcast-118" heading="Escute enquanto lê os show notes" >}}
 
 Tópicos Abordados
 =================
@@ -113,7 +144,7 @@ Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no `Canal do
 YouTube do Castálio Podcast`_ e para ver a gravação deste episódio confira o
 vídeo abaixo:
 
-.. youtube:: KtaU2w4El6w
+{{< youtube KtaU2w4El6w >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -135,15 +166,15 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/jefferson-rocha.jpg" alt="Jefferson Rocha" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/jefferson-rocha.jpg" alt="Jefferson Rocha" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Jefferson Rocha</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-envelope"></i> <a href="mailto:lrcjefferson@gmail.com">Email</a></li>
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/jeffersonlrcarneiro">Facebook</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://slackjeff.emmilinux.com.br/">Site</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/channel/UClz3DneoYlccluy4hBlx86Q">Youtube</a></li>
+                    <li><i class="bi bi-envelope"></i> <a href="mailto:lrcjefferson@gmail.com">Email</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/jeffersonlrcarneiro">Facebook</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://slackjeff.emmilinux.com.br/">Site</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/channel/UClz3DneoYlccluy4hBlx86Q">Youtube</a></li>
                 </ul>
             </div>
             </div>
@@ -151,25 +182,24 @@ Contato
         </div>
     </div>
 
-.. podcast:: castalio-podcast-118
-    :heading: Escute agora
+{{< podcast id="castalio-podcast-118" heading="Escute agora" >}}
 
 
-.. top5::
-
-    :music:
-        * Ramones
-        * Pet Cemetery
-        * Poison Heart
-        * Metallica
-        * Nirvana
-        * Ratos De Porão
-        * Eminem
-    :book:
-        * A Game of Thrones
-    :movie:
-        * Game of Thrones
-        * Supernatural
+{{< top5 >}}
+music:
+    * Ramones
+    * Pet Cemetery
+    * Poison Heart
+    * Metallica
+    * Nirvana
+    * Ratos De Porão
+    * Eminem
+book:
+    * A Game of Thrones
+movie:
+    * Game of Thrones
+    * Supernatural
+{{< /top5 >}}
 
 
 Links
@@ -199,7 +229,7 @@ Links
 * `Emmi Linux no YouTube`_
 * `Shell Script para Acessibilidade (ShellSpeak)`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

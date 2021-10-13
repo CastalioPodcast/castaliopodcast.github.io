@@ -1,0 +1,149 @@
+app:
+- count: 4
+  name: Git
+  url: https://git-scm.com/
+- count: 2
+  name: Emacs
+  url: https://www.gnu.org/software/emacs/
+- count: 2
+  name: Vim
+  url: https://www.vim.org/
+- count: 2
+  name: Visual Studio
+  url: https://visualstudio.microsoft.com/
+- count: 1
+  name: Calibre
+  url: https://calibre-ebook.com/
+beer:
+- count: 1
+  name: Eisenbahn Dunkel
+  url: https://untappd.com/b/cervejaria-eisenbahn-dunkel/14372
+- count: 1
+  name: Guinness
+  url: https://untappd.com/Guinness
+- count: 1
+  name: Old Speckled Hen
+  url: https://untappd.com/b/greene-king-morland-old-speckled-hen/3121
+book:
+- count: 11
+  name: "O Guia do Mochileiro das Gal\xE1xias"
+  url: https://www.goodreads.com/book/show/10052680-o-guia-do-mochileiro-das-gal-xias
+- count: 6
+  name: "O Senhor dos An\xE9is"
+  url: https://www.goodreads.com/book/show/7829280-o-senhor-dos-an-is
+- count: 6
+  name: Python Fluente
+  url: https://www.goodreads.com/book/show/36361456-python-fluente
+- count: 4
+  name: A Game of Thrones
+  url: https://www.goodreads.com/book/show/13496.A_Game_of_Thrones
+- count: 4
+  name: "Admir\xE1vel Mundo Novo"
+  url: https://www.goodreads.com/book/show/6184133-admir-vel-mundo-novo
+game:
+- count: 1
+  name: Worms
+  url: https://en.wikipedia.org/wiki/Worms_(series)
+- count: 1
+  name: Dark Souls
+  url: https://en.wikipedia.org/wiki/Dark_Souls
+- count: 1
+  name: Fallout 4
+  url: https://en.wikipedia.org/wiki/Fallout_4
+- count: 1
+  name: Half-Life 2
+  url: https://en.wikipedia.org/wiki/Half-Life_2
+- count: 1
+  name: Just Cause 2
+  url: https://en.wikipedia.org/wiki/Just_Cause_2
+movie:
+- count: 19
+  name: The Matrix
+  url: https://www.imdb.com/title/tt0133093/
+- count: 10
+  name: "O Poderoso Chef\xE3o"
+  url: https://www.imdb.com/title/tt0068646/
+- count: 9
+  name: Game of Thrones
+  url: https://www.imdb.com/title/tt0944947/
+- count: 9
+  name: Pulp Fiction
+  url: https://www.imdb.com/title/tt0110912/
+- count: 7
+  name: Blade Runner
+  url: https://www.imdb.com/title/tt0083658/
+music:
+- count: 10
+  name: Metallica
+  url: https://www.last.fm/music/Metallica
+- count: 9
+  name: Iron Maiden
+  url: https://www.last.fm/music/Iron+Maiden
+- count: 8
+  name: Pink Floyd
+  url: https://www.last.fm/music/Pink+Floyd
+- count: 7
+  name: Black Sabbath
+  url: https://www.last.fm/music/Black+Sabbath
+- count: 7
+  name: "Legi\xE3o Urbana"
+  url: https://www.last.fm/music/Legi%C3%A3o+Urbana
+pizza:
+- count: 1
+  name: Aliche
+- count: 1
+  name: Catuperoni
+- count: 1
+  name: Escarola com Bacon
+- count: 1
+  name: Frango com Catupiry
+- count: 1
+  name: Marguerita
+podcast:
+- count: 2
+  name: Nerdcast
+  url: http://jovemnerd.com.br/categoria/nerdcast/
+- count: 1
+  name: "Escriba Caf\xE9"
+  url: http://www.escribacafe.com/
+- count: 1
+  name: Grok Podcast
+  url: http://grokpodcast.com/
+- count: 1
+  name: Accidental Tech Podcast
+  url: http://atp.fm/
+- count: 1
+  name: Android Developers Backstage
+  url: http://androidbackstage.blogspot.com/
+site:
+- count: 3
+  name: BR-Linux
+  url: http://br-linux.org/
+- count: 2
+  name: Hacker News
+  url: https://news.ycombinator.com/
+- count: 1
+  name: "F\xF3rum BigLinux"
+  url: https://www.biglinux.com.br/forum/
+- count: 1
+  name: "F\xF3rum Ubuntu BR"
+  url: https://ubuntuforum-br.org/
+- count: 1
+  name: "F\xF3rum Outer Space"
+  url: https://forum.outerspace.com.br/
+twitter:
+- count: 1
+  name: '@henriquebastos'
+  url: https://twitter.com/henriquebastos
+- count: 1
+  name: '@rafaelp'
+  url: https://twitter.com/rafaelp
+- count: 1
+  name: '@ramonpage'
+  url: https://twitter.com/ramonpage
+- count: 1
+  name: '@smergulhao'
+  url: https://twitter.com/smergulhao
+- count: 1
+  name: '@tapajos'
+  url: https://twitter.com/tapajos

@@ -1,14 +1,31 @@
-=============================================
-Episódio 124: Serverless com Moacir Moda Neto
-=============================================
-
-:date: 2017-10-31
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-124/castalio-podcast-124.mp3
-:tags: serverless, arquitetura, software, paas, faas, amazon, aws, lambda,
-       cloud, azure, microservice, service, openshift, zappa
-:image: images/episode-124.jpg
-:image-alt: Serverless com Moacir Moda Neto
+---
+title: "Episódio 124: Serverless com Moacir Moda Neto"
+aliases:
+- /episodio-124-serverless-com-moacir-moda-neto.html
+date: 2017-10-31
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-124/castalio-podcast-124.mp3"
+tags:
+- serverless
+- arquitetura
+- software
+- paas
+- faas
+- amazon
+- aws
+- lambda
+- cloud
+- azure
+- microservice
+- service
+- openshift
+- zappa
+image: /images/episode-124.jpg
+image-alt: Serverless com Moacir Moda Neto
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -30,8 +47,7 @@ palestras que convidamos ele para falar sobre `ServerLess`_.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-124
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-124" heading="Escute enquanto lê os show notes!" >}}
 
 
 Recados
@@ -62,19 +78,19 @@ Tópicos abordados neste episódio
 * Segurança
 * Testes e Debug
 
-.. top5::
-
-    :music:
-        * Chiclete Com Banana - Selva Branca
-    :movie:
-        * O Poderoso Chefão
-        * Scarface
-        * Onze Homens e Um Segredo
-    :book:
-        * Total Recall: My Unbelievably True Life Story
-        * Pai Rico, Pai Pobre
-        * Abílio Diniz Caminhos E Escolhas
-        * Tudo ou Nada: Eike Batista e a Verdadeira História do Grupo X
+{{< top5 >}}
+music:
+    * Chiclete Com Banana - Selva Branca
+movie:
+    * O Poderoso Chefão
+    * Scarface
+    * Onze Homens e Um Segredo
+book:
+    * Total Recall: My Unbelievably True Life Story
+    * Pai Rico, Pai Pobre
+    * Abílio Diniz Caminhos E Escolhas
+    * Tudo ou Nada: Eike Batista e a Verdadeira História do Grupo X
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -84,7 +100,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no video abaixo:
 
-.. youtube:: ofhEPBQnGvU
+{{< youtube ofhEPBQnGvU >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -106,14 +122,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/549428?s=460&v=4" alt="Moacir Moda" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/549428?s=460&v=4" alt="Moacir Moda" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Moacir Moda</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/moamoda">Twitter</a></li>
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/moacirmoda">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://moacirmoda.com">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/moamoda">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/moacirmoda">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://moacirmoda.com">Site</a></li>
                 </ul>
             </div>
             </div>
@@ -121,8 +137,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-124
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-124" heading="Escute Agora" >}}
 
 
 Links
@@ -151,7 +166,7 @@ Links
 * `Lambda-Local`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

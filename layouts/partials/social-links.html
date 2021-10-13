@@ -1,0 +1,20 @@
+{{- $facebook := dict "facebook" (dict "url" "https://facebook.com/%s") -}}
+{{- $github := dict "github" (dict "url" "https://github.com/%s" "title" "GitHub") -}}
+{{- $instagram := dict "instagram" (dict "url" "https://www.instagram.com/%s") -}}
+{{- $twitter := dict "twitter" (dict "url" "https://twitter.com/%s") -}}
+{{- $youtube := dict "youtube" (dict "url" "https://www.youtube.com/%s") -}}
+{{- $items := merge $facebook $github $instagram $twitter $youtube -}}
+<nav class="social-links nav my-2 justify-content-center">
+{{- range $key, $user := .Site.Social -}}
+  {{- with index $items $key -}}
+    <a class="nav-link social-link" target="_blank" href="{{ printf .url $user }}" title="{{ default (title $key) .title }}" rel="noopener noreferrer">
+      <i class="bi {{ default ( printf "bi-%s" $key ) .icon }}"></i>
+    </a>
+  {{- end -}}
+{{- end -}}
+  {{- with .OutputFormats.Get "rss" -}}
+    <a class="nav-link social-link" target="_blank" href="{{ .Permalink }}" title="RSS" rel="noopener noreferrer">
+      <i class="bi bi-rss"></i>
+    </a>
+  {{- end -}}
+</nav>
