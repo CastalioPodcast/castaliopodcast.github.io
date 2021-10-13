@@ -1,15 +1,24 @@
-Episódio 79: Paula Grangeiro - Pyladies
-#######################################
-:date: 2016-12-18
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-79/castalio-podcast-79.mp3
-:tags: paula grangeiro, pyladies, opodcastedelas
-:description: Hoje, conversamos com a Paula Grangeiro que nos contou
+---
+title: "Episódio 79: Paula Grangeiro - Pyladies"
+aliases:
+- /episodio-79-paula-grangeiro-pyladies.html
+date: 2016-12-18
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-79/castalio-podcast-79.mp3"
+tags:
+- paula grangeiro
+- pyladies
+- opodcastedelas
+description: Hoje, conversamos com a Paula Grangeiro que nos contou
               sobre sua tragetória com programação, meios de pagamento
               plataformas Microsoft e Python e é claro Pyladies.
-:image: images/paula-grangeiro.jpg
-:image-alt: Paula Grangeiro - Pyladies
+image: /images/paula-grangeiro.jpg
+image-alt: Paula Grangeiro - Pyladies
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -31,7 +40,7 @@ A Paula ainda nos contou sobre a emoção de ser ganhadora do prêmio Dorneles
 Tremea representando todas as meninas das Pyladies e Django Girls e sobre seu
 lado artístico como ilustradora.
 
-.. figure:: {static}/images/paula-ilustracao.jpg
+.. figure:: /images/paula-ilustracao.jpg
    :alt: Paula Grangeiro - Pyladies
    :figclass: pull-right clear article-figure
 
@@ -58,24 +67,24 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-79
+{{< podcast castalio-podcast-79 >}}
 
-.. top5::
-
-    :music:
-        * Korn
-        * Black Sabbath
-        * Foo Fighters
-        * Slipknot
-        * Jimmy Hendrix
-    :book:
-        * O Senhor dos Anéis
-        * O Hobbit
-        * Princípios, Padrões e Práticas Ágeis em C#
-        * Clean Code
-    :movie:
-        * O Quinto Elemento
-        * Sessão da Tarde
+{{< top5 >}}
+music:
+    * Korn
+    * Black Sabbath
+    * Foo Fighters
+    * Slipknot
+    * Jimmy Hendrix
+book:
+    * O Senhor dos Anéis
+    * O Hobbit
+    * Princípios, Padrões e Práticas Ágeis em C#
+    * Clean Code
+movie:
+    * O Quinto Elemento
+    * Sessão da Tarde
+{{< /top5 >}}
 
 Links
 -----
@@ -85,7 +94,7 @@ Links
 * `CaiPyra`_
 * `Python Brasil`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

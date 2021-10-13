@@ -1,18 +1,34 @@
-Episódio 90: Empreender e Programar - Parte 1
-#############################################
-:date: 2017-03-06
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-90/castalio-podcast-90.mp3
-:tags: empreender, empreendedorismo, programar, programação, python, python
-       brasil, tapioca wrapper, porto digital, manguezal, filipe ximenes,
-       flávio juvenal, renato oliveira
-:description: Hoje, trazemos mais um episódio temático, desta vez vamos bater
+---
+title: "Episódio 90: Empreender e Programar - Parte 1"
+aliases:
+- /episodio-90-empreender-e-programar-parte-1.html
+date: 2017-03-06
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-90/castalio-podcast-90.mp3"
+tags:
+- empreender
+- empreendedorismo
+- programar
+- programação
+- python
+- python brasil
+- tapioca wrapper
+- porto digital
+- manguezal
+- filipe ximenes
+- flávio juvenal
+- renato oliveira
+description: Hoje, trazemos mais um episódio temático, desta vez vamos bater
               um papo e ver se é possível empreender e programar. Para nos
               ajudar, contamos com a presença do Filipe Ximenes, Flávio Juvenal
               e Renato Oliveira, todos são empreendedores e programadores.
-:image: images/empreender-e-programar.png
-:image-alt: Empreender e Programar
+image: /images/empreender-e-programar.png
+image-alt: Empreender e Programar
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -29,7 +45,7 @@ empreender em um produto ou empresa.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-90
+{{< podcast castalio-podcast-90 >}}
 
 .. raw:: html
 
@@ -93,9 +109,9 @@ Até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-90
+{{< podcast castalio-podcast-90 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

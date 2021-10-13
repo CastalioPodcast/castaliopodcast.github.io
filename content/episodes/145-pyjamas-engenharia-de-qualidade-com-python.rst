@@ -1,13 +1,20 @@
-==========================================================
-Episódio 145: Pyjamas - Engenharia de Qualidade com Python
-==========================================================
-
-:date: 2019-12-31
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-145/castalio-podcast-145.mp3
-:tags: pyjamas, python, og maciel, elyézer rezende, engenharia de qualidade
-:image: images/pyjamas.png
-:image-alt: Pyjamas - Engenharia de Qualidade com Python
+---
+title: "Episódio 145: Pyjamas - Engenharia de Qualidade com Python"
+aliases:
+- /episodio-145-pyjamas-engenharia-de-qualidade-com-python.html
+date: 2019-12-31
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-145/castalio-podcast-145.mp3"
+tags:
+- pyjamas
+- python
+- og maciel
+- elyézer rezende
+- engenharia de qualidade
+image: /images/pyjamas.png
+image-alt: Pyjamas - Engenharia de Qualidade com Python
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -31,8 +38,7 @@ podcast por vários anos. Og Maciel, seja bem vindo ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-145
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-145" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -55,7 +61,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: WiRCxvZfzEY
+{{< youtube WiRCxvZfzEY >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -77,13 +83,13 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/elyezer.jpg" alt="Elyézer Rezende" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/elyezer.jpg" alt="Elyézer Rezende" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Elyézer Rezende</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="http://github.com/elyezer">Github</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/elyezer">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="http://github.com/elyezer">Github</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/elyezer">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -93,13 +99,13 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/53362?v=3&s=240" alt="Og Maciel" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/53362?v=3&s=240" alt="Og Maciel" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Og Maciel</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="http://github.com/omaciel">Github</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/OgMaciel">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="http://github.com/omaciel">Github</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/OgMaciel">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -107,8 +113,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-145
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-145" heading="Escute Agora" >}}
 
 
 Links
@@ -146,7 +151,7 @@ Links
 * `Test and Code Podcast`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,15 +1,26 @@
-Episódio 80: Kenneth Reitz - Python Requests
-############################################
-:date: 2016-12-24
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-80/castalio-podcast-80.mp3
-:tags: kenneth reitz, python, requests, heroku, english
-:description: Hoje, conversamos com o Kenneth Reitz criador do Python Requests.
+---
+title: "Episódio 80: Kenneth Reitz - Python Requests"
+aliases:
+- /episodio-80-kenneth-reitz-python-requests.html
+date: 2016-12-24
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-80/castalio-podcast-80.mp3"
+tags:
+- kenneth reitz
+- python
+- requests
+- heroku
+- english
+description: Hoje, conversamos com o Kenneth Reitz criador do Python Requests.
     Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou
     a programar ate os dias de hoje.
-:image: images/kennethreitz.jpg
-:image-alt: Kenneth Reitz - Python Requests
+image: /images/kennethreitz.jpg
+image-alt: Kenneth Reitz - Python Requests
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -104,7 +115,7 @@ create the album. The conversation continued and he also commented about how he
 built the album artwork. To close this conversation, we talked about Kenneth's
 synthesizers and the music live streams he does on Facebook.
 
-.. figure:: {static}/images/unmasteredimpulses-artwork.jpg
+.. figure:: /images/unmasteredimpulses-artwork.jpg
    :alt: Unmastered Impulses by Infinite State - Album Artwork
 
 We had a great chat with Kenneth and in the end we sked him for his Top 5
@@ -129,34 +140,34 @@ Contact (Contato)
 Listen Now (Escute Agora)
 -------------------------
 
-.. podcast:: castalio-podcast-80
+{{< podcast castalio-podcast-80 >}}
 
-.. top5::
-
-    :book:
-        * Hermetica
-        * The Book of the Law
-        * Kybalion
-        * Ashtanga Yoga
-        * O Guia do Mochileiro das Galáxias
-        * Einstein's Dreams
-    :music:
-        * Tool - Lateralus
-        * Kanye West
-        * Rage Against the Machine album
-        * Linkin Park - Hybrid Theory
-        * 311
-    :movie:
-        * The Matrix
-        * Dark City
-        * Doctor Strange
-        * Arrival
-        * Anchorman
-        * Tropic Thunder
-        * Waking Life
-        * Talladega Nights
-        * Hercules
-        * The Prince of Egypt
+{{< top5 >}}
+book:
+    * Hermetica
+    * The Book of the Law
+    * Kybalion
+    * Ashtanga Yoga
+    * O Guia do Mochileiro das Galáxias
+    * Einstein's Dreams
+music:
+    * Tool - Lateralus
+    * Kanye West
+    * Rage Against the Machine album
+    * Linkin Park - Hybrid Theory
+    * 311
+movie:
+    * The Matrix
+    * Dark City
+    * Doctor Strange
+    * Arrival
+    * Anchorman
+    * Tropic Thunder
+    * Waking Life
+    * Talladega Nights
+    * Hercules
+    * The Prince of Egypt
+{{< /top5 >}}
 
 Links
 -----
@@ -168,7 +179,7 @@ Links
 * `Kenneth's music`_
 * `Unmastered Impulses`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

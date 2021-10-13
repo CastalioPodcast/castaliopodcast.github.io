@@ -1,15 +1,32 @@
-Episódio 89: Tech News e Review do livro Ready Player One
-#########################################################
-:date: 2017-02-27
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3
-:tags: python 3, NASA, namedtuples, namespace, fuzzy, console, book review,
-       django, ernest cline, og maciel, bruno rocha, elyezer rezende
-:description: Neste episódio trazemos as novidades sobre Python e Linux e
+---
+title: "Episódio 89: Tech News e Review do livro Ready Player One"
+aliases:
+- /episodio-89-tech-news-e-review-do-livro-ready-player-one.html
+date: 2017-02-27
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3"
+tags:
+- python 3
+- NASA
+- namedtuples
+- namespace
+- fuzzy
+- console
+- book review
+- django
+- ernest cline
+- og maciel
+- bruno rocha
+- elyezer rezende
+description: Neste episódio trazemos as novidades sobre Python e Linux e
               também um review do livro Ready Player One de Ernest Cline.
-:image: images/episodio-89.png
-:image-alt: Tech news e book review...
+image: /images/episodio-89.png
+image-alt: Tech news e book review...
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -29,7 +46,7 @@ o terminal Linux e no final do episódio um excelente Book Review!
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-89
+{{< podcast castalio-podcast-89 >}}
 
 .. raw:: html
 
@@ -141,7 +158,7 @@ Novidades e Dicas de Python
   interessante que é um sistema de **grid** bastante parecido com os sistemas
   de grid dos frameworks **css**.
 
-  .. figure:: {static}/images/appjar-grid.png
+  .. figure:: /images/appjar-grid.png
    :alt: AppJar Grid
    :figclass: pull-left clear article-figure
 
@@ -207,9 +224,9 @@ tem mais acesso a cultura e informações.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-89
+{{< podcast castalio-podcast-89 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

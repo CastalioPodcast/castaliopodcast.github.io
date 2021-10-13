@@ -1,12 +1,66 @@
-Bruno Gonçalves: BigLinux
-#########################
-:date: 2012-09-03 16:42
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3
-:tags: bigbashview, biglinux, br-linux, bruno gonçalves, canonical, carlos morimoto, chapolin, chavez, chuck berry, compiz, conectiva linux, debian linux, distrowatch, elvis presley, fórum biglinux, fórum hard science, fórum outer space, fórum ubuntu br, fluxbox, forum nix, frejat, gimp, gnome, gnumeric, icewm, icq, ivan brasil fuzzer, kalango linux, kde, kurumin linux, mark shuttleworth, metisse, mint linux, nvidia, o grande dragão branco, opencast, openoffice, opensuse linux, planet hemp, planet kde, python, qt webkit, raul seixas, red hat, rocky, scarface, ubuntu linux, ultrage a rigor, união livre, vladimir melo
-:image: images/brunogoncalves.jpg
-:image-alt: Bruno Gonçalves: BigLinux
+---
+title: "Bruno Gonçalves: BigLinux"
+aliases:
+- /bruno-goncalves-biglinux.html
+date: "2012-09-03T16:42:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3"
+tags:
+- bigbashview
+- biglinux
+- br-linux
+- bruno gonçalves
+- canonical
+- carlos morimoto
+- chapolin
+- chavez
+- chuck berry
+- compiz
+- conectiva linux
+- debian linux
+- distrowatch
+- elvis presley
+- fórum biglinux
+- fórum hard science
+- fórum outer space
+- fórum ubuntu br
+- fluxbox
+- forum nix
+- frejat
+- gimp
+- gnome
+- gnumeric
+- icewm
+- icq
+- ivan brasil fuzzer
+- kalango linux
+- kde
+- kurumin linux
+- mark shuttleworth
+- metisse
+- mint linux
+- nvidia
+- o grande dragão branco
+- opencast
+- openoffice
+- opensuse linux
+- planet hemp
+- planet kde
+- python
+- qt webkit
+- raul seixas
+- red hat
+- rocky
+- scarface
+- ubuntu linux
+- ultrage a rigor
+- união livre
+- vladimir melo
+image: /images/brunogoncalves.jpg
+image-alt: "Bruno Gonçalves: BigLinux"
+---
 
 Na semana passada eu tive o grande prazer e honra de participar do `Opencast`_
 em um `episódio`_ onde discutimos várias coisas relacionadas à distribuições
@@ -41,7 +95,7 @@ Ah e não se esqueca de assistir o `vídeo`_ da entrevista!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-44
+{{< podcast castalio-podcast-44 >}}
 
 Contato
 -------
@@ -67,29 +121,29 @@ Resumo
 -  **Top 5** 38:50
 -  **Conclusão** 41:00
 
-.. top5::
-
-    :music:
-        * Raul Seixas
-        * Ultraje a Rigor
-        * Chuck Berry
-        * Elvis Presley
-        * Planet Hemp
-        * Frejat
-    :movie:
-        * Rocky
-        * Scarface
-        * Chaves
-        * Chapolin
-        * O Grande Dragão Branco
-    :site:
-        * Fórum BigLinux
-        * Fórum Ubuntu BR
-        * Fórum Outer Space
-        * Fórum Hard Science
-        * BR-Linux
-        * Forum nix
-        * Planet KDE
+{{< top5 >}}
+music:
+    * Raul Seixas
+    * Ultraje a Rigor
+    * Chuck Berry
+    * Elvis Presley
+    * Planet Hemp
+    * Frejat
+movie:
+    * Rocky
+    * Scarface
+    * Chaves
+    * Chapolin
+    * O Grande Dragão Branco
+site:
+    * Fórum BigLinux
+    * Fórum Ubuntu BR
+    * Fórum Outer Space
+    * Fórum Hard Science
+    * BR-Linux
+    * Forum nix
+    * Planet KDE
+{{< /top5 >}}
 
 Links
 -----
@@ -126,7 +180,7 @@ Links
 -  `Canonical`_
 -  `Mint Linux`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

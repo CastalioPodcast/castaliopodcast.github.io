@@ -1,10 +1,11 @@
-Prêmio FRIDA/IGF 2011
-#####################
-:date: 2011-07-20 20:18
-:author: Og Maciel
-:category: Notícia
-:image: images/premiofrida.png
-:image-alt: Prêmio Frida
+---
+title: "Prêmio FRIDA/IGF 2011"
+date: "2011-07-20T20:18:00"
+author: Og Maciel
+category: Notícia
+image: images/premiofrida.png
+image-alt: Prêmio Frida
+---
 
 O **Castálio Podcast** está concorrendo ao `Prêmio FRIDA/IGF 2011`_ no tema
 "Acesso". O Prêmio FRIDA pretende reconhecer projetos e iniciativas que

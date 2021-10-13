@@ -1,12 +1,41 @@
-Pete Savage: Git In The Trenches (GITT)
-#######################################
-:date: 2011-09-18 21:44
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-17/castalio-podcast-17.mp3
-:tags: alchemy reigns, edubuntu, emblem divide, ethestra, geekdeck, git, git in the trenches, glade, green day, gtk, inception, j-pop, j-rock, kamikaze girls, lagwagon, mike oldfield, night watch, progbox, python, sergei lukyanenko, slashdot, tamagoyaki, the prestige, ubuntu, english
-:image: images/petesavage.png
-:image-alt: Pete Savage: Git In The Trenches
+---
+title: "Pete Savage: Git In The Trenches (GITT)"
+aliases:
+- /pete-savage-git-in-the-trenches-gitt.html
+date: "2011-09-18T21:44:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-17/castalio-podcast-17.mp3"
+tags:
+- alchemy reigns
+- edubuntu
+- emblem divide
+- ethestra
+- geekdeck
+- git
+- git in the trenches
+- glade
+- green day
+- gtk
+- inception
+- j-pop
+- j-rock
+- kamikaze girls
+- lagwagon
+- mike oldfield
+- night watch
+- progbox
+- python
+- sergei lukyanenko
+- slashdot
+- tamagoyaki
+- the prestige
+- ubuntu
+- english
+image: /images/petesavage.png
+image-alt: "Pete Savage: Git In The Trenches"
+---
 
 First off I'd like to welcome all the new visitors to this podcast's
 **17th episode** and the very **first one** done in **English**! This
@@ -41,7 +70,7 @@ learning a bit more about him through this episode!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-17
+{{< podcast castalio-podcast-17 >}}
 
 Contato
 -------
@@ -65,20 +94,20 @@ Summary
 -  **Top 5**  49:15
 -  **Conclusion**  54:45
 
-.. top5::
-
-    :music:
-        * Lagwagon
-        * Green Day
-        * Mike Oldfield
-        * J-Rock
-        * J-Pop
-    :book:
-        * The Night Watch
-    :movie:
-        * Kamikaze Girls
-        * Inception
-        * The Prestige
+{{< top5 >}}
+music:
+    * Lagwagon
+    * Green Day
+    * Mike Oldfield
+    * J-Rock
+    * J-Pop
+book:
+    * The Night Watch
+movie:
+    * Kamikaze Girls
+    * Inception
+    * The Prestige
+{{< /top5 >}}
 
 Links
 -----

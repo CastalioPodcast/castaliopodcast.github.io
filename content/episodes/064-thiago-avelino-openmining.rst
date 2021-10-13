@@ -1,17 +1,25 @@
-Episódio 64: Thiago Avelino - OpenMining e SambaPorno
-#####################################################
-:date: 2015-03-01
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-64/castalio-podcast-64.mp3
-:tags: thiago avelino, openmining, sambaporno
-:description: Neste episódio concluímos nossa entrevista com o Thiago
+---
+title: "Episódio 64: Thiago Avelino - OpenMining e SambaPorno"
+aliases:
+- /episodio-64-thiago-avelino-openmining-e-sambaporno.html
+date: 2015-03-01
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-64/castalio-podcast-64.mp3"
+tags:
+- thiago avelino
+- openmining
+- sambaporno
+description: Neste episódio concluímos nossa entrevista com o Thiago
               Avelino, desta vez conversando sobre seu projeto
               OpenMining, fazendo dinheiro com o SambaPorno, sua
               experiência vendendo uma "startup" em New Jersey, e
               finalmente sobre o seu Top 5!
-:image: images/thiagoavelino.png
-:image-alt: Thiago Avelino - vim-bootstrap
+image: /images/thiagoavelino.png
+image-alt: Thiago Avelino - vim-bootstrap
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 
@@ -35,33 +43,33 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-64
+{{< podcast castalio-podcast-64 >}}
 
-.. top5::
-
-    :music:
-        * System of a Down
-        * The Offspring
-        * Korn
-        * Charlie Brown JR.
-        * Los Hermanos
-        * Matisyahu
-        * Radiohead
-    :book:
-        * O Guia do Mochileiro das Galáxias
-        * Operação Cavalo de Troia
-        * Refactoring
-        * The Lean Startup
-        * Viagem ao Centro da Terra
-        * O Monge e o Executivo
-    :movie:
-        * De Volta Para o Futuro
-        * Caça Fantasmas
-        * The Matrix
-        * Star Wars
-        * Os Vingadores
-        * Homem de Ferro
-        * Tron
+{{< top5 >}}
+music:
+    * System of a Down
+    * The Offspring
+    * Korn
+    * Charlie Brown JR.
+    * Los Hermanos
+    * Matisyahu
+    * Radiohead
+book:
+    * O Guia do Mochileiro das Galáxias
+    * Operação Cavalo de Troia
+    * Refactoring
+    * The Lean Startup
+    * Viagem ao Centro da Terra
+    * O Monge e o Executivo
+movie:
+    * De Volta Para o Futuro
+    * Caça Fantasmas
+    * The Matrix
+    * Star Wars
+    * Os Vingadores
+    * Homem de Ferro
+    * Tron
+{{< /top5 >}}
 
 Links
 -----
@@ -75,7 +83,7 @@ Links
 * `Django`_
 * `Github Developer Program`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,12 +1,79 @@
-Rodrigo Belém: Ubuntu Brasil
-############################
-:date: 2012-02-20 00:02
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-30/castalio-podcast-30.mp3
-:tags: amazonas, antônio pereira, arch linux, arm, bash, battlestar gallactica, benjamin mako hill, carlos "segfault" santiviago, cavalo de tróia, debconf, debian amazonas, debian linux, dexter, doctor who, emerson soares, encontro marcado, fábio nogueira, file sharing, geraldo azevedo, gnome, guia do muchileiro das galáxias, ian lawrence, indp, intel, jonathan riddell, kde, kubuntu, lício fonseca, licença gpl, licença mit, linaro, macos, marcelo mendes, mark shuttleworth, mário meyer, monty python, natural language processing with python, netflix, oswaldo montenegro, perl, plasma, porto alegre, postology, professional ubuntu mobile development, python, python nltk, rafel proença, roberto mello, rodrigo belém, shiptit, slackware linux, supernatural, the advantage, tom venuto, ubuntu, ubuntu brasil, ubuntu business remix, ubuntu linux, ubuntu mobile, ubuntu summit, umeguide.net, unity, windows
-:image: images/rodrigobelem.png
-:image-alt: Rodrigo Belém: Ubuntu Brasil
+---
+title: "Rodrigo Belém: Ubuntu Brasil"
+aliases:
+- /rodrigo-belem-ubuntu-brasil.html
+date: "2012-02-20T00:02:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-30/castalio-podcast-30.mp3"
+tags:
+- amazonas
+- antônio pereira
+- arch linux
+- arm
+- bash
+- battlestar gallactica
+- benjamin mako hill
+- carlos "segfault" santiviago
+- cavalo de tróia
+- debconf
+- debian amazonas
+- debian linux
+- dexter
+- doctor who
+- emerson soares
+- encontro marcado
+- fábio nogueira
+- file sharing
+- geraldo azevedo
+- gnome
+- guia do muchileiro das galáxias
+- ian lawrence
+- indp
+- intel
+- jonathan riddell
+- kde
+- kubuntu
+- lício fonseca
+- licença gpl
+- licença mit
+- linaro
+- macos
+- marcelo mendes
+- mark shuttleworth
+- mário meyer
+- monty python
+- natural language processing with python
+- netflix
+- oswaldo montenegro
+- perl
+- plasma
+- porto alegre
+- postology
+- professional ubuntu mobile development
+- python
+- python nltk
+- rafel proença
+- roberto mello
+- rodrigo belém
+- shiptit
+- slackware linux
+- supernatural
+- the advantage
+- tom venuto
+- ubuntu
+- ubuntu brasil
+- ubuntu business remix
+- ubuntu linux
+- ubuntu mobile
+- ubuntu summit
+- umeguide.net
+- unity
+- windows
+image: /images/rodrigobelem.png
+image-alt: "Rodrigo Belém: Ubuntu Brasil"
+---
 
 Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo
 episódio, este comemorando nosso **primeiro ano no ar**! Aproveitei a
@@ -31,7 +98,7 @@ comunidade Ubuntu Brasil!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-30
+{{< podcast castalio-podcast-30 >}}
 
 Contato
 -------
@@ -59,25 +126,25 @@ Resumo
 -  **Top 5** 28:30
 -  **Conclusão** 33:38
 
-.. top5::
-
-    :music:
-        * The Advantage
-        * Antônio Pereira
-        * Geraldo Azevedo
-        * Oswaldo Montenegro
-    :movie:
-        * Encontro Marcado
-        * Supernatural
-        * Dexter
-        * Battlestar Galactica
-        * Doctor Who
-        * Monty Python's Flying Circus
-    :book:
-        * Natural Language Processing with Python
-        * O Guia do Mochileiro das Galáxias
-        * Operação Cavalo de Troia
-        * Tom Venuto
+{{< top5 >}}
+music:
+    * The Advantage
+    * Antônio Pereira
+    * Geraldo Azevedo
+    * Oswaldo Montenegro
+movie:
+    * Encontro Marcado
+    * Supernatural
+    * Dexter
+    * Battlestar Galactica
+    * Doctor Who
+    * Monty Python's Flying Circus
+book:
+    * Natural Language Processing with Python
+    * O Guia do Mochileiro das Galáxias
+    * Operação Cavalo de Troia
+    * Tom Venuto
+{{< /top5 >}}
 
 Links
 -----
@@ -126,7 +193,7 @@ Links
 -  `Jonathan Riddell`_
 -  `Netflix`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 

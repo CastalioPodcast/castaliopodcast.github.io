@@ -1,0 +1,14 @@
+{{- $count := default 5 .Site.Params.relatedPostCount -}}
+{{- $relatedPosts := where (.Site.RegularPages.Related .) "Type" "episodes" -}}
+{{- if and $count $relatedPosts -}}
+  {{- with (.Site.RegularPages.Related . | first $count) -}}
+  <section class="related-posts-wrapper">
+    <h3>Episódios Relacionados</h3>
+    <ul class="related-posts">
+      {{- range . -}}
+      <li><a href="{{ .Permalink }}">{{ partial "helpers/title" . }}</a></li>
+      {{- end -}}
+    </ul>
+  </section>
+  {{- end -}}
+{{- end -}}

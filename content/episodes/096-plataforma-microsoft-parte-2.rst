@@ -1,21 +1,55 @@
-Episódio 96: Plataforma de Desenvolvimento da Microsoft - Parte 2
-#################################################################
-:date: 2017-04-17
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-96/castalio-podcast-96.mp3
-:tags: c#, .net, asp, sqlserver, sharepoint, xamarin, azure, microsoft, linux,
-       open source, lambda3, giovanni bassi, visual basic, visual studio code,
-       mono, python, podcast, top 5, android, windows phone, ios, partial apps,
-       mysql, postgresql, visual studio community, flask, django, roslyn, git,
-       windows, ionic, react native
-:description: No episódio de hoje continuamos com a segunda parte sobre a
+---
+title: "Episódio 96: Plataforma de Desenvolvimento da Microsoft - Parte 2"
+aliases:
+- /episodio-96-plataforma-de-desenvolvimento-da-microsoft-parte-2.html
+date: 2017-04-17
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-96/castalio-podcast-96.mp3"
+tags:
+- c#
+- .net
+- asp
+- sqlserver
+- sharepoint
+- xamarin
+- azure
+- microsoft
+- linux
+- open source
+- lambda3
+- giovanni bassi
+- visual basic
+- visual studio code
+- mono
+- python
+- podcast
+- top 5
+- android
+- windows phone
+- ios
+- partial apps
+- mysql
+- postgresql
+- visual studio community
+- flask
+- django
+- roslyn
+- git
+- windows
+- ionic
+- react native
+description: No episódio de hoje continuamos com a segunda parte sobre a
               plataforma de desenvolvimento da Microsoft que inclui ferramentas
               largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint,
               Xamarin e Azure. Continuamos com a presença do Giovanni Bassi
               para nos ajudar a responder algumas perguntas.
-:image: images/episode-95.png
-:image-alt: Plataforma de Desenvolvimento da Microsoft
+image: /images/episode-95.png
+image-alt: Plataforma de Desenvolvimento da Microsoft
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -28,7 +62,7 @@ C#, `.NET`_, ASP, SQLServer, Sharepoint, Xamarin e `Azure`_.
 Escute enquanto lê o show notes
 -------------------------------
 
-.. podcast:: castalio-podcast-96
+{{< podcast castalio-podcast-96 >}}
 
 .. raw:: html
 
@@ -97,17 +131,17 @@ Segue a lista de links que comentamos no episódio:
 * `React Native`_
 * `The Open Organization`_
 
-.. top5::
-
-    :book:
-        * Domain-Driven Design
-        * The End of Management and the Rise of Organizational Democracy
-    :movie:
-        * Pulp Fiction
-        * The Matrix
-    :music:
-        * Metallica
-        * Ramones
+{{< top5 >}}
+book:
+    * Domain-Driven Design
+    * The End of Management and the Rise of Organizational Democracy
+movie:
+    * Pulp Fiction
+    * The Matrix
+music:
+    * Metallica
+    * Ramones
+{{< /top5 >}}
 
 Top 5 - Sobre a plataforma de desenvolvimento da Microsoft
 ----------------------------------------------------------
@@ -128,9 +162,9 @@ Até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-96
+{{< podcast castalio-podcast-96 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,12 +1,51 @@
-Fábio Nogueira: Ubuntu Brasil
-#############################
-:date: 2012-07-22 22:52
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-41/castalio-podcast-41.mp3
-:tags: alexandre silva, andré gondim, andré noel, ayrton araújo, bee gees, black sabath, canonical, círculo de fogo, chave gpg, coringão, de volta para o futuro, deep purple, duda nogueira, elvis presley, emerson soares, fábio nogueira, ian laurence, johnny cash, jonh wendell, jorge amado, kalango linux, lício fonseca, mário meyer, paulino michelazzo, planeta ubuntu brasil, portões de fogo, projeto gnome, raphael higino, ricardo cropalato, rodrigo belém, stalingrado cerco fatal, thiago hillebrandt, ubuntu bahía, ubuntu brasil, ubuntu linux
-:image: images/fabionogueira.jpg
-:image-alt: Fábio Nogueira: Ubuntu Brasil
+---
+title: "Fábio Nogueira: Ubuntu Brasil"
+aliases:
+- /fabio-nogueira-ubuntu-brasil.html
+date: "2012-07-22T22:52:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-41/castalio-podcast-41.mp3"
+tags:
+- alexandre silva
+- andré gondim
+- andré noel
+- ayrton araújo
+- bee gees
+- black sabath
+- canonical
+- círculo de fogo
+- chave gpg
+- coringão
+- de volta para o futuro
+- deep purple
+- duda nogueira
+- elvis presley
+- emerson soares
+- fábio nogueira
+- ian laurence
+- johnny cash
+- jonh wendell
+- jorge amado
+- kalango linux
+- lício fonseca
+- mário meyer
+- paulino michelazzo
+- planeta ubuntu brasil
+- portões de fogo
+- projeto gnome
+- raphael higino
+- ricardo cropalato
+- rodrigo belém
+- stalingrado cerco fatal
+- thiago hillebrandt
+- ubuntu bahía
+- ubuntu brasil
+- ubuntu linux
+image: /images/fabionogueira.jpg
+image-alt: "Fábio Nogueira: Ubuntu Brasil"
+---
 
 **Atualização**: Faltou o link do `vídeo`_ da entrevista! :)
 
@@ -47,7 +86,7 @@ uma distribuição GNU/Linux no Brasil!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-41
+{{< podcast castalio-podcast-41 >}}
 
 Contato
 -------
@@ -74,21 +113,21 @@ Resumo
 -  **Palavras finais** 36:26
 -  **Conclusão** 42:38
 
-.. top5::
-
-    :music:
-        * Elvis Presley
-        * Johnny Cash
-        * Bee Gees
-        * Black Sabbath
-        * Deep Purple
-    :movie:
-        * De Volta para o Futuro
-        * Círculo de Fogo
-    :book:
-        * Stalingrado - O Cerco Fatal
-        * Portões de Fogo
-        * Jorge Amado
+{{< top5 >}}
+music:
+    * Elvis Presley
+    * Johnny Cash
+    * Bee Gees
+    * Black Sabbath
+    * Deep Purple
+movie:
+    * De Volta para o Futuro
+    * Círculo de Fogo
+book:
+    * Stalingrado - O Cerco Fatal
+    * Portões de Fogo
+    * Jorge Amado
+{{< /top5 >}}
 
 
 Links
@@ -119,7 +158,7 @@ Links
 -  `Elvis Presley (DuckDuckGo)`_
 -  `Coringão`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

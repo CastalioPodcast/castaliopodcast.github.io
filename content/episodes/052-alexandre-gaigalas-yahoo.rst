@@ -1,12 +1,88 @@
-Alexandre Gaigalas: Yahoo
-#########################
-:date: 2013-03-03 21:48
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3
-:tags: android, breaking bad, cakephp, css, cygwin, daniel lima, dependency injection, deus, dexter, django framework, dom inspector, editor nano, editor vim, firebug, firefox, firefox web browser, formato atom, formato json, github, google maps, google search, grok podcast, house of cards, html, http, infoq, internet explorer, java script, mad men, mamonas assassinas, marissa mayer, marissa meyer, megadeth, metodologia ágil, netflix, nodejs, os jogos da vida, php, php documenter, php engine, programação extrema explicada, rafael rosa fu, rails framework, rdf, respect config, respect doc, respect project, respect rest, restful, rfc1626, richard dawkins, safary web browser, selenium, shadow gallery, sublime text, tableless, the lean startup, top gear, ubuntu linux, um delírio, vinícius magalhães peres, visual studio 2012, web semântica, web socket, william sanders, windows 8, windows poer shell, xml schema, yahoo, yahoo mail, yahoo memo, yahoo profile
-:image: images/alexandregaigalas.jpg
-:image-alt: Alexandre Gaigalas: Yahoo
+---
+title: "Alexandre Gaigalas: Yahoo"
+aliases:
+- /alexandre-gaigalas-yahoo.html
+date: "2013-03-03T21:48:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3"
+tags:
+- android
+- breaking bad
+- cakephp
+- css
+- cygwin
+- daniel lima
+- dependency injection
+- deus
+- dexter
+- django framework
+- dom inspector
+- editor nano
+- editor vim
+- firebug
+- firefox
+- firefox web browser
+- formato atom
+- formato json
+- github
+- google maps
+- google search
+- grok podcast
+- house of cards
+- html
+- http
+- infoq
+- internet explorer
+- java script
+- mad men
+- mamonas assassinas
+- marissa mayer
+- marissa meyer
+- megadeth
+- metodologia ágil
+- netflix
+- nodejs
+- os jogos da vida
+- php
+- php documenter
+- php engine
+- programação extrema explicada
+- rafael rosa fu
+- rails framework
+- rdf
+- respect config
+- respect doc
+- respect project
+- respect rest
+- restful
+- rfc1626
+- richard dawkins
+- safary web browser
+- selenium
+- shadow gallery
+- sublime text
+- tableless
+- the lean startup
+- top gear
+- ubuntu linux
+- um delírio
+- vinícius magalhães peres
+- visual studio 2012
+- web semântica
+- web socket
+- william sanders
+- windows 8
+- windows poer shell
+- xml schema
+- yahoo
+- yahoo mail
+- yahoo memo
+- yahoo profile
+image: /images/alexandregaigalas.jpg
+image-alt: "Alexandre Gaigalas: Yahoo"
+---
 
 Seja bem-vindo à mais um episódio, desta vez com o `Alexandre Gaigalas`_ que
 trabalha como **engenheiro de software** da **Yahoo** no Brasil! Durante nosso
@@ -47,33 +123,33 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-52
+{{< podcast castalio-podcast-52 >}}
 
-.. top5::
-
-    :music:
-        * Mamonas Assassinas
-        * Megadeth
-        * Shadow Gallery
-        * Unisonic
-    :movie:
-        * Breaking Bad
-        * Dexter
-        * Top Gear
-        * Mad Men
-    :book:
-        * The Lean Startup
-        * Programação Extrema (XP) Explicada
-        * Extreme Programming
-        * Deus, Um Delírio
-        * Richard Dawkins
-        * Jogos Da Vida
-    :app:
-        * Sublime Text
-        * Ubuntu
-        * Firefox
-        * Visual Studio
-        * PowerShell
+{{< top5 >}}
+music:
+    * Mamonas Assassinas
+    * Megadeth
+    * Shadow Gallery
+    * Unisonic
+movie:
+    * Breaking Bad
+    * Dexter
+    * Top Gear
+    * Mad Men
+book:
+    * The Lean Startup
+    * Programação Extrema (XP) Explicada
+    * Extreme Programming
+    * Deus, Um Delírio
+    * Richard Dawkins
+    * Jogos Da Vida
+app:
+    * Sublime Text
+    * Ubuntu
+    * Firefox
+    * Visual Studio
+    * PowerShell
+{{< /top5 >}}
 
 Links
 -----
@@ -130,7 +206,7 @@ Links
 -  `Metodologia Ágil`_
 -  `William Sanders`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

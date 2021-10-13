@@ -1,12 +1,49 @@
-Danilo Resende: Facebook
-########################
-:date: 2012-07-09 02:52
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-40/castalio-podcast-40.mp3
-:tags: a rede social, amélie, api, ben harper, dominguinhos, facebook, flávio ribeiro, hackathon, inception, introdução a algorítimos, jack johnson, javascript, mark zuckerberg, martinho da vila, netflix, non disclosure agreement, o clube da luta, o homem que desafiou o diabo, o poderoso chefão i, o poderoso chefão ii, pelejas de ojuara, programming perl, samba, sistema de controle de versão, skype, the art of motocycle repair, the visual display of quantitative information, ubuntero, universidade federal de campinas grande, vale do silício, yamandu costa, youtube, zen
-:image: images/daniloresende.png
-:image-alt: Danilo Resende: Facebook
+---
+title: "Danilo Resende: Facebook"
+aliases:
+- /danilo-resende-facebook.html
+date: "2012-07-09T02:52:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-40/castalio-podcast-40.mp3"
+tags:
+- a rede social
+- amélie
+- api
+- ben harper
+- dominguinhos
+- facebook
+- flávio ribeiro
+- hackathon
+- inception
+- introdução a algorítimos
+- jack johnson
+- javascript
+- mark zuckerberg
+- martinho da vila
+- netflix
+- non disclosure agreement
+- o clube da luta
+- o homem que desafiou o diabo
+- o poderoso chefão i
+- o poderoso chefão ii
+- pelejas de ojuara
+- programming perl
+- samba
+- sistema de controle de versão
+- skype
+- the art of motocycle repair
+- the visual display of quantitative information
+- ubuntero
+- universidade federal de campinas grande
+- vale do silício
+- yamandu costa
+- youtube
+- zen
+image: /images/daniloresende.png
+image-alt: "Danilo Resende: Facebook"
+---
 
 Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez com uma
 novidade: uma participação especial do **Ivan Brasil Fuzzer**, criador
@@ -31,7 +68,7 @@ episódio
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-40
+{{< podcast castalio-podcast-40 >}}
 
 Contato
 -------
@@ -53,15 +90,15 @@ Resumo
 -  **Comunicando com o pessoal no Brasil** 28:40
 -  **Conclusão** 29:33
 
-.. top5::
-
-    :music:
-        * Samba
-        * Martinho Da Vila
-        * Dominguinhos
-        * Jack Johnson
-        * Ben Harper
-        * Yamandu Costa
+{{< top5 >}}
+music:
+    * Samba
+    * Martinho Da Vila
+    * Dominguinhos
+    * Jack Johnson
+    * Ben Harper
+    * Yamandu Costa
+{{< /top5 >}}
 
     :movie:
         * O Poderoso Chefão
@@ -95,7 +132,7 @@ Links
 -  `Mark Zuckerberg`_
 -  `Skype`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

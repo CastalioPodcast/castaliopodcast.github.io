@@ -1,12 +1,80 @@
-Fábio Kung e Pedro Belo: Heroku
-###############################
-:date: 2012-04-29 13:03
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-35/castalio-podcast-35.mp3
-:tags: activerecord, adaptation, amazon cloud, being john malkovich, brainfuck, bruce eckel, certificado ssl, cloud foundry, clube da luta, cold play, dotcloud, dreamhost, drinkup, effective c++, emulador de nes, erlang, framework django, fringe, game of thrones, git, github, google, google appengine, hacker news, heroku, hybernate, jabberd, java, júlio monteiro, json, kenneth reitz, kindle, man pages, meetup, mozilla, nginx, node.js, o senhor dos anéis, php, pj harvey, platform as a service, python, python requests, queens of the stone age, radio head, railsconf, red hat, rpath, ruby, ruby on rails, spring mvc, supernatural, survival, tempwatch, the atomic bitchwax, the big bang theory, the black keys, the girl with the dragon tatoo, vale do silício, vampire diaries, whitespace, wikipedia, windows azzure, yukihiro matsumoto
-:image: images/heroku.png
-:image-alt: Fábio Kung e Pedro Belo: Heroku
+---
+title: "Fábio Kung e Pedro Belo: Heroku"
+aliases:
+- /fabio-kung-e-pedro-belo-heroku.html
+date: "2012-04-29T13:03:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-35/castalio-podcast-35.mp3"
+tags:
+- activerecord
+- adaptation
+- amazon cloud
+- being john malkovich
+- brainfuck
+- bruce eckel
+- certificado ssl
+- cloud foundry
+- clube da luta
+- cold play
+- dotcloud
+- dreamhost
+- drinkup
+- effective c++
+- emulador de nes
+- erlang
+- framework django
+- fringe
+- game of thrones
+- git
+- github
+- google
+- google appengine
+- hacker news
+- heroku
+- hybernate
+- jabberd
+- java
+- júlio monteiro
+- json
+- kenneth reitz
+- kindle
+- man pages
+- meetup
+- mozilla
+- nginx
+- node.js
+- o senhor dos anéis
+- php
+- pj harvey
+- platform as a service
+- python
+- python requests
+- queens of the stone age
+- radio head
+- railsconf
+- red hat
+- rpath
+- ruby
+- ruby on rails
+- spring mvc
+- supernatural
+- survival
+- tempwatch
+- the atomic bitchwax
+- the big bang theory
+- the black keys
+- the girl with the dragon tatoo
+- vale do silício
+- vampire diaries
+- whitespace
+- wikipedia
+- windows azzure
+- yukihiro matsumoto
+image: /images/heroku.png
+image-alt: "Fábio Kung e Pedro Belo: Heroku"
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio, desta vez com dois
 convidados: **Fábio Kung** e **Pedro Belo**, que atualmente trabalham na
@@ -37,7 +105,7 @@ adicional ou um add-on:
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-35
+{{< podcast castalio-podcast-35 >}}
 
 Contato
 -------
@@ -68,32 +136,32 @@ Resumo
 -  **Top 5** 33:29
 -  **Conclusão** 43:06
 
-.. top5::
-
-    :music:
-        * Radio Head
-        * PJ Harvey
-        * The Black Keys
-        * Queens of the Stone Age
-        * The Atomic BitchWax
-        * Coldplay
-    :movie:
-        * The Girl with the Dragon Tatoo
-        * O Senhor dos Anéis
-        * Fringe
-        * Vampire Diaries
-        * Supernatural
-        * The Big Bang Theory
-        * Game of Thrones
-        * Adaptation
-        * Being John Malkovich
-    :book:
-        * Clube da Luta
-        * Survivor
-        * Effective C++
-    :site:
-        * Wikipedia
-        * Hacker News
+{{< top5 >}}
+music:
+    * Radio Head
+    * PJ Harvey
+    * The Black Keys
+    * Queens of the Stone Age
+    * The Atomic BitchWax
+    * Coldplay
+movie:
+    * The Girl with the Dragon Tatoo
+    * O Senhor dos Anéis
+    * Fringe
+    * Vampire Diaries
+    * Supernatural
+    * The Big Bang Theory
+    * Game of Thrones
+    * Adaptation
+    * Being John Malkovich
+book:
+    * Clube da Luta
+    * Survivor
+    * Effective C++
+site:
+    * Wikipedia
+    * Hacker News
+{{< /top5 >}}
 
 Links
 -----
@@ -142,7 +210,7 @@ Links
 -  `ActiveRecord`_
 -  `Kindle`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

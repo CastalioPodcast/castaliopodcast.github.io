@@ -1,16 +1,36 @@
-============================================
-Episódio 141: George Guimarães - Code Review
-============================================
-
-:date: 2019-05-28
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-141/castalio-podcast-141.mp3
-:tags: george guimarães, circleci, credo, docker, sourcelevel, ecto, editorconfig,
-       elixir, live de python, peek, phabricator, phoenix, plataformatec,
-       postgresql, pylint, rake, reek, rubocop, ruby on rails, ruby,
-       pycodestyle
-:image: images/george-guimaraes.jpg
-:image-alt: George Guimarães
+---
+title: "Episódio 141: George Guimarães - Code Review"
+aliases:
+- /episodio-141-george-guimaraes-code-review.html
+date: 2019-05-28
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-141/castalio-podcast-141.mp3"
+tags:
+- george guimarães
+- circleci
+- credo
+- docker
+- sourcelevel
+- ecto
+- editorconfig
+- elixir
+- live de python
+- peek
+- phabricator
+- phoenix
+- plataformatec
+- postgresql
+- pylint
+- rake
+- reek
+- rubocop
+- ruby on rails
+- ruby
+- pycodestyle
+image: /images/george-guimaraes.jpg
+image-alt: George Guimarães
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -28,8 +48,7 @@ Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-141
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-141" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -58,21 +77,21 @@ Tópicos abordados neste episódio
   equipe não tem pessoas experientes?
 
 
-.. top5::
-
-    :book:
-        * The Messy Middle
-        * The Startup Owner's Manual
-        * O Guia do Mochileiro das Galáxias
-        * Dirk Gently's Holistic Detective Agency
-    :music:
-        * Avantasia
-        * Gamma Ray
-        * Halloween
-        * Kissing Dynamite
-    :movie:
-        * Dracula Morto, mas Feliz
-        * O que Fazemos nas Sombras
+{{< top5 >}}
+book:
+    * The Messy Middle
+    * The Startup Owner's Manual
+    * O Guia do Mochileiro das Galáxias
+    * Dirk Gently's Holistic Detective Agency
+music:
+    * Avantasia
+    * Gamma Ray
+    * Halloween
+    * Kissing Dynamite
+movie:
+    * Dracula Morto, mas Feliz
+    * O que Fazemos nas Sombras
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -82,7 +101,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: mvLL5QS34No
+{{< youtube mvLL5QS34No >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -104,12 +123,12 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/george-guimaraes.jpg" alt="George Guimarães" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/george-guimaraes.jpg" alt="George Guimarães" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">George Guimarães</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/georgeguimaraes">Twitter</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/georgeguimaraes">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -117,8 +136,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-141
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-141" heading="Escute Agora" >}}
 
 
 Links
@@ -148,7 +166,7 @@ Links
 * `pycodestyle (pep8)`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

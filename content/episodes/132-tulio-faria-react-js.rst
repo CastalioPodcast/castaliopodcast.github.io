@@ -1,13 +1,20 @@
-====================================
-Episódio 132: Túlio Faria - React JS
-====================================
-
-:date: 2018-04-26
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-132/castalio-podcast-132.mp3
-:tags: react, devpleno, Tulio Faria, front-end, javascript
-:image: images/tulio-faria.jpg
-:image-alt: Túlio Faria
+---
+title: "Episódio 132: Túlio Faria - React JS"
+aliases:
+- /episodio-132-tulio-faria-react-js.html
+date: 2018-04-26
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-132/castalio-podcast-132.mp3"
+tags:
+- react
+- devpleno
+- Tulio Faria
+- front-end
+- javascript
+image: /images/tulio-faria.jpg
+image-alt: Túlio Faria
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -23,8 +30,7 @@ perguntas sobre o `React JS`_.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-132
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-132" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -61,24 +67,24 @@ Tópicos abordados neste episódio
     testes como a gente gostaria...
 
 
-.. top5::
-
-    :music:
-      * Angra
-      * Black Sabbath
-      * King Diamond
-      * Megadeth
-      * Mr. Big
-      * Paul Gilbert
-    :movie:
-      * 1000 Ways to Die
-      * Ash vs Evil Dead
-      * Breaking Bad
-      * Cosmos: A Spacetime Odyssey
-      * Suits
-    :book:
-      * Escola da Vida
-      * Os Quatro Compromissos
+{{< top5 >}}
+music:
+  * Angra
+  * Black Sabbath
+  * King Diamond
+  * Megadeth
+  * Mr. Big
+  * Paul Gilbert
+movie:
+  * 1000 Ways to Die
+  * Ash vs Evil Dead
+  * Breaking Bad
+  * Cosmos: A Spacetime Odyssey
+  * Suits
+book:
+  * Escola da Vida
+  * Os Quatro Compromissos
+{{< /top5 >}}
 
 Assista a gravação deste episódio
 =================================
@@ -87,7 +93,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: 3yIj6sB1umI
+{{< youtube 3yIj6sB1umI >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -109,14 +115,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/tulio-faria.jpg" alt="Túlio Faria" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/tulio-faria.jpg" alt="Túlio Faria" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Túlio Faria</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/tuliofaria">Twitter</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://www.devpleno.com/">DevPleno</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://www.tuliofaria.net/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/tuliofaria">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://www.devpleno.com/">DevPleno</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://www.tuliofaria.net/">Site</a></li>
                 </ul>
             </div>
             </div>
@@ -124,8 +130,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-132
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-132" heading="Escute Agora" >}}
 
 
 Links
@@ -159,7 +164,7 @@ Links
 * `Canal Curso de Python e Flask`_
 * `Dose Extra`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

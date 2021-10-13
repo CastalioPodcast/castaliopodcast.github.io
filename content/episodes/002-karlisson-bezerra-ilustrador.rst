@@ -1,11 +1,15 @@
-Episódio 1: Karlisson Bezerra, Ilustrador
-#########################################
-:date: 2011-03-07 00:00
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-02/castalio-podcast-02.mp3
-:image: images/karlissonbezerra.jpg
-:image-alt: Sr. Tartaruga
+---
+title: "Episódio 1: Karlisson Bezerra, Ilustrador"
+aliases:
+- /episodio-1-karlisson-bezerra-ilustrador.html
+date: 2011-03-07
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-02/castalio-podcast-02.mp3"
+image: /images/karlissonbezerra.jpg
+image-alt: Sr. Tartaruga
+---
 
 Em um sábado ensolarado (aqui em North Carolina pelo menos, não sei em Natal ou
 São Paulo) tivemos o prazer de conversar com o **Karlisson Bezerra**,
@@ -20,7 +24,7 @@ tempinho aí  e baixa o episódio logo, **castálio**!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-02
+{{< podcast castalio-podcast-02 >}}
 
 Links
 -----

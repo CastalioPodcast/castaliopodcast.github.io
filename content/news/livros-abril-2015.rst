@@ -1,12 +1,44 @@
-Livros - Abril de 2015
-######################
-:date: 2015-04-30
-:authors: Og Maciel
-:category: Notícia
-:tags: Alexandr Sergeyevitch Pushkin, Anton Chekhov, Arthur Conan Doyle, Charlotte Brontë, Christopher Morley, Clifford D. Simak, Dave Hoover, Elizabeth Gaskell, Ernest Hemingway, F. Scott Fitzgerald, Flann O'Brien, Flannery O'Connor, George Orwell, Herman Melville, Jackson J. Benson, John Steinbeck, John Williams, Jorge Luis Borge, Maya Angelou, Neal Gaiman, Nick Hornby, Nikolai Gogol, O. Henry, Pamela Paul, Pearl S. Buck, Phillip K. Dick, Ray Bradbury, Robert A. Heinlein, Robert Galbraith, Steve Martin, Sydney Padula
-:description: Mais um post sobre os livros que ando lendo.
-:image: images/livros.jpg
-:image-alt: Livros - Março de 2015
+---
+title: "Livros - Abril de 2015"
+date: 2015-04-30
+authors: Og Maciel
+category: Notícia
+tags:
+- Alexandr Sergeyevitch Pushkin
+- Anton Chekhov
+- Arthur Conan Doyle
+- Charlotte Brontë
+- Christopher Morley
+- Clifford D. Simak
+- Dave Hoover
+- Elizabeth Gaskell
+- Ernest Hemingway
+- F. Scott Fitzgerald
+- Flann O'Brien
+- Flannery O'Connor
+- George Orwell
+- Herman Melville
+- Jackson J. Benson
+- John Steinbeck
+- John Williams
+- Jorge Luis Borge
+- Maya Angelou
+- Neal Gaiman
+- Nick Hornby
+- Nikolai Gogol
+- O. Henry
+- Pamela Paul
+- Pearl S. Buck
+- Phillip K. Dick
+- Ray Bradbury
+- Robert A. Heinlein
+- Robert Galbraith
+- Steve Martin
+- Sydney Padula
+description: Mais um post sobre os livros que ando lendo.
+image: images/livros.jpg
+image-alt: Livros - Março de 2015
+---
 
 Mais um mês passou e muitos foram os livros que passaram pelas minha mãos. Desta vez, a "culpa" foi uma feira de livros usados feito pela biblioteca pública da minha cidade, e eu acabei voltando para casa com uma caixa enorme de livros! Alguns dos livros eu comprei por serem "hard cover" e melhores do que a cópia que eu já tinha... outros foram para experimentar um novo escritor mesmo.
 

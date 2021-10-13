@@ -1,0 +1,9 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range .Site.RegularPages -}}
+    {{- $tags := "" }}
+    {{- $categories := "" }}
+    {{- if .Params.tags -}} {{- $tags = (delimit .Params.tags ", ")}} {{- end -}}
+    {{- if .Params.categories -}}{{- $categories = (delimit (default .Params.categories "") ", ") -}}{{ end }}
+    {{- $.Scratch.Add "index" (dict "title" .Title "tags" $tags "categories" $categories "contents" .Plain "permalink" .Permalink) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

@@ -1,12 +1,58 @@
-Cristiano Costa: Hora do Mac
-############################
-:date: 2012-08-06 14:35
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-42/castalio-podcast-42.mp3
-:tags: acqua, airton ortiz, albert einstein, amazon prime, amyr klink, breaking bad, carla bruni, computadores apple, david baldacci, dead kennedys, fisl, game of thrones, gnu/linux, google hangout, hora do mac, house, iphone, itunes, jeffrey archer, john sandford, jorge ben, kit inicial de podcasts, leo laporte, mac os, macbreak weekly, madeleine peyroux, michael connelly, netflix, norah jones, plataforma android, plataforma ios, r.e.m., rdio, sex pistols, skype, steve jobs, the beatles, two and a half man, u2, unix, windows 8, wordpress
-:image: images/cristianocosta.jpg
-:image-alt: Cristiano Costa: Hora do Mac
+---
+title: "Cristiano Costa: Hora do Mac"
+aliases:
+- /cristiano-costa-hora-do-mac.html
+date: "2012-08-06T14:35:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-42/castalio-podcast-42.mp3"
+tags:
+- acqua
+- airton ortiz
+- albert einstein
+- amazon prime
+- amyr klink
+- breaking bad
+- carla bruni
+- computadores apple
+- david baldacci
+- dead kennedys
+- fisl
+- game of thrones
+- gnu/linux
+- google hangout
+- hora do mac
+- house
+- iphone
+- itunes
+- jeffrey archer
+- john sandford
+- jorge ben
+- kit inicial de podcasts
+- leo laporte
+- mac os
+- macbreak weekly
+- madeleine peyroux
+- michael connelly
+- netflix
+- norah jones
+- plataforma android
+- plataforma ios
+- r.e.m.
+- rdio
+- sex pistols
+- skype
+- steve jobs
+- the beatles
+- two and a half man
+- u2
+- unix
+- windows 8
+- wordpress
+image: /images/cristianocosta.jpg
+image-alt: "Cristiano Costa: Hora do Mac"
+---
 
 **Atualização**: Me esqueci novamente de colocar o link para o vídeo da
 entrevista: `Youtube`_
@@ -35,7 +81,7 @@ gastronomia e vários outros assuntos!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-42
+{{< podcast castalio-podcast-42 >}}
 
 Contato
 -------
@@ -62,31 +108,31 @@ Resumo
 -  **Top 5** 37:00
 -  **Conclusão** 42:38
 
-.. top5::
-
-    :music:
-        * Sex Pistols
-        * Dead Kennedys
-        * U2
-        * R.E.M.
-        * Norah Jones
-        * Madeleine Peyroux
-        * Carla Bruni
-        * Jorge Ben
-        * The Beatles
-    :movie:
-        * House M.D.
-        * Breaking Bad
-        * Two and a Half Men
-        * Game of Thrones
-    :book:
-        * John Sandford
-        * Michael Connelly
-        * David Baldacci
-        * Steve Jobs
-        * Albert Einstein
-        * Jeffrey Archer
-        * Airton Ortiz
+{{< top5 >}}
+music:
+    * Sex Pistols
+    * Dead Kennedys
+    * U2
+    * R.E.M.
+    * Norah Jones
+    * Madeleine Peyroux
+    * Carla Bruni
+    * Jorge Ben
+    * The Beatles
+movie:
+    * House M.D.
+    * Breaking Bad
+    * Two and a Half Men
+    * Game of Thrones
+book:
+    * John Sandford
+    * Michael Connelly
+    * David Baldacci
+    * Steve Jobs
+    * Albert Einstein
+    * Jeffrey Archer
+    * Airton Ortiz
+{{< /top5 >}}
 
 Links
 -----
@@ -111,7 +157,7 @@ Links
 -  `Netflix`_
 -  `Amyr Klink`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,21 +1,60 @@
-Episódio 114: Mariatta Wijaya - CPython
-#######################################
-:date: 2017-08-21
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-114/castalio-podcast-114.mp3
-:tags: english, mariatta wijaya, python, cpython, pycascades, pyladies, python
-       core developer, pep, python enhancement proposal, zen of python,
-       f-strings, setuptools, tic_tac_taco_pizza, taken by the sea, darren
-       hayes, would would have thought?, toni braxton, depeche mode, duran
-       duran, a-ha, resident evil, now you see me, the good wife, agatha
-       christie, the hollow man, john dickson carr, black jack, the lost
-       symbol, dan brown, two scoops of django, oracle database, pep 1, pep
-       498, pep 517, pep 401, flit, cherry-picker, psf, python software
-       foundation, django, opodcastedelas
-:description: CPython, Python Docs, PEPs and PyCascades with Mariatta Wijaya
-:image: images/mariatta-wijaya.jpg
-:image-alt: Mariatta Wijaya
+---
+title: "Episódio 114: Mariatta Wijaya - CPython"
+aliases:
+- /episodio-114-mariatta-wijaya-cpython.html
+date: 2017-08-21
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-114/castalio-podcast-114.mp3"
+tags:
+- english
+- mariatta wijaya
+- python
+- cpython
+- pycascades
+- pyladies
+- python core developer
+- pep
+- python enhancement proposal
+- zen of python
+- f-strings
+- setuptools
+- tic_tac_taco_pizza
+- taken by the sea
+- darren hayes
+- would would have thought?
+- toni braxton
+- depeche mode
+- duran duran
+- a-ha
+- resident evil
+- now you see me
+- the good wife
+- agatha christie
+- the hollow man
+- john dickson carr
+- black jack
+- the lost symbol
+- dan brown
+- two scoops of django
+- oracle database
+- pep 1
+- pep 498
+- pep 517
+- pep 401
+- flit
+- cherry-picker
+- psf
+- python software foundation
+- django
+- opodcastedelas
+description: CPython, Python Docs, PEPs and PyCascades with Mariatta Wijaya
+image: /images/mariatta-wijaya.jpg
+image-alt: Mariatta Wijaya
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -62,7 +101,7 @@ During this interview we covered the following topics:
 Check the video below for the recording of this episode and the
 tic_tac_taco_pizza demo:
 
-.. youtube:: nUcwMUf5ru8
+{{< youtube nUcwMUf5ru8 >}}
 
 Before finishing the post, we would like to thank everyone who left comments.
 If you have something to say, leave your comments here on the website, or our
@@ -84,16 +123,16 @@ Contact
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/mariatta-wijaya.jpg" alt="Mariatta Wijaya" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/mariatta-wijaya.jpg" alt="Mariatta Wijaya" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Mariatta Wijaya</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/mariatta">Github</a></li>
-                    <li><i class="fa fa-imdb"></i> <a href="http://www.imdb.com/name/nm7641957/">IMDb</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://mariatta.ca/">Site</a></li>
-                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/mariatta">LinkedIn</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/mariatta">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/mariatta">Github</a></li>
+                    <li><i class="bi bi-imdb"></i> <a href="http://www.imdb.com/name/nm7641957/">IMDb</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://mariatta.ca/">Site</a></li>
+                    <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/mariatta">LinkedIn</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/mariatta">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -104,28 +143,28 @@ Contact
 Listen Now
 ----------
 
-.. podcast:: castalio-podcast-114
+{{< podcast castalio-podcast-114 >}}
 
 
-.. top5::
-
-    :music:
-        * Darren Hayes - Taken By the Sea
-        * Darren Hayes - Who Would Have Thought?
-        * Toni Braxton
-        * Depeche Mode
-        * Duran Duran
-        * a-ha
-    :movie:
-        * Resident Evil
-        * Now You See Me
-        * The Good Wife
-    :book:
-        * Agatha Christie
-        * The Hollow Man
-        * Black Jack
-        * The Lost Symbol
-        * Two Scoops of Django 1.11
+{{< top5 >}}
+music:
+    * Darren Hayes - Taken By the Sea
+    * Darren Hayes - Who Would Have Thought?
+    * Toni Braxton
+    * Depeche Mode
+    * Duran Duran
+    * a-ha
+movie:
+    * Resident Evil
+    * Now You See Me
+    * The Good Wife
+book:
+    * Agatha Christie
+    * The Hollow Man
+    * Black Jack
+    * The Lost Symbol
+    * Two Scoops of Django 1.11
+{{< /top5 >}}
 
 
 Links
@@ -157,7 +196,7 @@ Links
 * `core-workflow`_
 * `Python Documentation`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

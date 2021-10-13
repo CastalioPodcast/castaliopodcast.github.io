@@ -1,12 +1,20 @@
-Murilo Queiroz - Em Busca dos Tesouros
-######################################
-:date: 2011-04-16 16:46
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-05/castalio-podcast-05.mp3
-:tags: atari, pitfall, tk-85, zx-81
-:image: images/muriloqueiroz.png
-:image-alt: Em Busca dos Tesouros
+---
+title: "Murilo Queiroz - Em Busca dos Tesouros"
+aliases:
+- /murilo-queiroz-em-busca-dos-tesouros.html
+date: "2011-04-16T16:46:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-05/castalio-podcast-05.mp3"
+tags:
+- atari
+- pitfall
+- tk-85
+- zx-81
+image: /images/muriloqueiroz.png
+image-alt: Em Busca dos Tesouros
+---
 
 Neste último episódio tive um bate-papo super divertido com o **Murilo
 Queiroz**, sobre "**Em Busca dos Tesouros**\ ", um joguinho de
@@ -18,25 +26,25 @@ ZX-81** e open source nos anos 80!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-05
+{{< podcast castalio-podcast-05 >}}
 
 Contato
 -------
 -  **Blog**: `http://muriloq.com/blog`_ e http://www.tecnologiainteligente.com.br/
 -  **Twitter**: http://twitter.com/#!/muriloq
 
-.. top5::
-
-    :movie:
-        * Black Swan
-        * Perfect Blue
-    :book:
-        * A Game of Thrones
-        * Neil Gaiman
-        * Freedom™
-        * You Are Not a Gadget
-        * World Autism Awareness Day
-        * Revista Espirito Livre
+{{< top5 >}}
+movie:
+    * Black Swan
+    * Perfect Blue
+book:
+    * A Game of Thrones
+    * Neil Gaiman
+    * Freedom™
+    * You Are Not a Gadget
+    * World Autism Awareness Day
+    * Revista Espirito Livre
+{{< /top5 >}}
 
 
 Links

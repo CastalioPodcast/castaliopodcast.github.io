@@ -1,14 +1,24 @@
-Episódio 87: Linguagem de Programação Go - Parte 2
-##################################################
-:date: 2017-02-13
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-87/castalio-podcast-87.mp3
-:tags: go, linguagem de programação, thiago avelino, cesar gimenes
-:description: Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem
+---
+title: "Episódio 87: Linguagem de Programação Go - Parte 2"
+aliases:
+- /episodio-87-linguagem-de-programacao-go-parte-2.html
+date: 2017-02-13
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-87/castalio-podcast-87.mp3"
+tags:
+- go
+- linguagem de programação
+- thiago avelino
+- cesar gimenes
+description: Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem
               de programação Go com o Thiago Avelino e o Cesar Gimenes.
-:image: images/go-lang.png
-:image-alt: Go Lang
+image: /images/go-lang.png
+image-alt: Go Lang
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -23,7 +33,7 @@ Go poderão começar e buscar mais informações.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-87
+{{< podcast castalio-podcast-87 >}}
 
 .. raw:: html
 
@@ -63,20 +73,20 @@ Segue a lista de links que comentamos no episódio:
 * `gof(n)`_
 
 
-.. top5::
-
-    :book:
-        * `Programando em Go`_
-        * `Go in Action`_
-        * `Go Web Programming`_
-        * `The Go Programming Language`_
-    :site:
-        * `Documentação do Go`_
-        * `Go Hands On`_
-        * `Awesome Go`_
-        * `Go by Example`_
-        * `Go Programming (video de introdução a linguagem)`_
-        * `Full Stack Development With Go`_
+{{< top5 >}}
+book:
+    * Programando em Go
+    * Go in Action
+    * Go Web Programming
+    * The Go Programming Language
+site:
+    * Documentação do Go
+    * Go Hands On
+    * Awesome Go
+    * Go by Example
+    * Go Programming (video de introdução a linguagem)
+    * Full Stack Development With Go
+{{< /top5 >}}
 
 Chegamos a final dessa série sobre a linguagem de programação Go, esperamos que
 tenha gostado. Se tem algo para compartilhar deixe aqui nos comentário ou em
@@ -92,9 +102,9 @@ Até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-87
+{{< podcast castalio-podcast-87 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

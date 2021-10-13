@@ -1,17 +1,47 @@
-=========================================
-Episódio 117: Engenharia de Qualidade 101
-=========================================
-
-:date: 2017-09-11
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-117/castalio-podcast-117.mp3
-:tags: engenharia de qualidade, qe, quality engineering, quality engineer,
-       quality assurance, qa, linux, bash, python, awk, cut, grep, requests,
-       selenium, paramiko, plumbum, fabric, py.test, tdd, travis, test driven
-       development, continuous integration, pep8, cantinabox, jenkins, bamboo,
-       docker, ansible, virtualization, puppet
-:image: images/episode-117.png
-:image-alt: Engenharia de Qualidade 101
+---
+title: "Episódio 117: Engenharia de Qualidade 101"
+aliases:
+- /episodio-117-engenharia-de-qualidade-101.html
+date: 2017-09-11
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-117/castalio-podcast-117.mp3"
+tags:
+- engenharia de qualidade
+- qe
+- quality engineering
+- quality engineer
+- quality assurance
+- qa
+- linux
+- bash
+- python
+- awk
+- cut
+- grep
+- requests
+- selenium
+- paramiko
+- plumbum
+- fabric
+- py.test
+- tdd
+- travis
+- test driven development
+- continuous integration
+- pep8
+- cantinabox
+- jenkins
+- bamboo
+- docker
+- ansible
+- virtualization
+- puppet
+image: /images/episode-117.png
+image-alt: Engenharia de Qualidade 101
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -33,8 +63,7 @@ expondo seu ponto de vista.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-117
-    :heading: Escute enquanto lê os show notes
+{{< podcast id="castalio-podcast-117" heading="Escute enquanto lê os show notes" >}}
 
 Tópicos Abordados
 =================
@@ -82,7 +111,7 @@ Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no
 `Canal do YouTube do Castálio Podcast`_ e para ver a gravação deste episódio confira o vídeo abaixo:
 
 
-.. youtube:: 3CUMngQQQt4
+{{< youtube 3CUMngQQQt4 >}}
 
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
@@ -95,8 +124,7 @@ inscrever-se no o `Canal do YouTube do Castálio Podcast`_.
 
 Até o próximo episódio!
 
-.. podcast:: castalio-podcast-117
-    :heading: Escute agora
+{{< podcast id="castalio-podcast-117" heading="Escute agora" >}}
 
 Links
 =====
@@ -129,7 +157,7 @@ Links
 * `Virtualization`_
 * `Puppet`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

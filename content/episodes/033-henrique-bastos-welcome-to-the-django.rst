@@ -1,12 +1,84 @@
-Henrique Bastos: Welcome to the Django
-######################################
-:date: 2012-04-01 16:18
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-33/castalio-podcast-33.mp3
-:tags: .net, a origem do capitalism, adobe connect, adobe flash, amazon ec2, bernardo fontes, c++, caike, código morse, charles petzold, code, code review, coding dojo, coding sprint, controle de versão distribuído, datak7, de volta para o futuro, dekode, desenvolvimento ágil, django, ellen wood, fisl 2009, gabriel falcão, garr reynolds, genial, git, github, globo.com, go to pc, google, guake, guilherme chapievsky, guns and roses, henrique bastos, heroku, hoverboard, hugo doria, illustrator, jacob kaplan-moss, java, jeff patton, joomla, megadeth, metallica, metapix, o conselheiro, o poderoso chefão, photoshop, php rio, platform as a service (paas), porto alegre, presentation zen, pycon 2010, python, python brasil, revista input, rise against the machine, ryan ozimek, small acts, star gate, the matrix, tiago garcia, tk-85, vb.net, vimeo, webex, welcome to the django, zx spectrum
-:image: images/henriquebastos.png
-:image-alt: Henrique Bastos: Welcome to the Django
+---
+title: "Henrique Bastos: Welcome to the Django"
+aliases:
+- /henrique-bastos-welcome-to-the-django.html
+date: "2012-04-01T16:18:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-33/castalio-podcast-33.mp3"
+tags:
+- .net
+- a origem do capitalism
+- adobe connect
+- adobe flash
+- amazon ec2
+- bernardo fontes
+- c++
+- caike
+- código morse
+- charles petzold
+- code
+- code review
+- coding dojo
+- coding sprint
+- controle de versão distribuído
+- datak7
+- de volta para o futuro
+- dekode
+- desenvolvimento ágil
+- django
+- ellen wood
+- fisl 2009
+- gabriel falcão
+- garr reynolds
+- genial
+- git
+- github
+- globo.com
+- go to pc
+- google
+- guake
+- guilherme chapievsky
+- guns and roses
+- henrique bastos
+- heroku
+- hoverboard
+- hugo doria
+- illustrator
+- jacob kaplan-moss
+- java
+- jeff patton
+- joomla
+- megadeth
+- metallica
+- metapix
+- o conselheiro
+- o poderoso chefão
+- photoshop
+- php rio
+- platform as a service (paas)
+- porto alegre
+- presentation zen
+- pycon 2010
+- python
+- python brasil
+- revista input
+- rise against the machine
+- ryan ozimek
+- small acts
+- star gate
+- the matrix
+- tiago garcia
+- tk-85
+- vb.net
+- vimeo
+- webex
+- welcome to the django
+- zx spectrum
+image: /images/henriquebastos.png
+image-alt: "Henrique Bastos: Welcome to the Django"
+---
 
 Há mais ou menos 1 anos e meio atrás eu tinha começado a aprender a
 programar com o framework **Django** e durante minhas pesquisas pela net
@@ -39,7 +111,7 @@ monte coisas bacanas!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-33
+{{< podcast castalio-podcast-33 >}}
 
 Contato
 -------
@@ -67,23 +139,23 @@ Resumo
 -  **Top 5** 38:15
 -  **Conclusão** 47:50
 
-.. top5::
-
-    :music:
-        * Metallica
-        * Megadeth
-        * Rage Against the Machine
-    :movie:
-        * The Matrix
-        * O Poderoso Chefão
-        * De Volta para o Futuro
-        * Star Gate
-    :book:
-        * Revista INPUT
-        * Presentation Zen
-        * Code
-        * O Conselheiro
-        * A Origem do Capitalismo
+{{< top5 >}}
+music:
+    * Metallica
+    * Megadeth
+    * Rage Against the Machine
+movie:
+    * The Matrix
+    * O Poderoso Chefão
+    * De Volta para o Futuro
+    * Star Gate
+book:
+    * Revista INPUT
+    * Presentation Zen
+    * Code
+    * O Conselheiro
+    * A Origem do Capitalismo
+{{< /top5 >}}
 
 Links
 -----
@@ -140,7 +212,7 @@ Links
 -  `Ellen Wood`_
 -  `Hugo Doria`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

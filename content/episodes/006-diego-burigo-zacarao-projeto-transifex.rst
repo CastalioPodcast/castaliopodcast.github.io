@@ -1,11 +1,15 @@
-Diego Búrigo Zacarão - Projeto Transifex
-########################################
-:date: 2011-04-30 15:29
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-06/castalio-podcast-06.mp3
-:image: images/transifex.png
-:image-alt: Transifex
+---
+title: "Diego Búrigo Zacarão - Projeto Transifex"
+aliases:
+- /diego-burigo-zacarao-projeto-transifex.html
+date: "2011-04-30T15:29:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-06/castalio-podcast-06.mp3"
+image: /images/transifex.png
+image-alt: Transifex
+---
 
 Neste episódio, depois de semanas de muito suor, sangue e lágrimas (todas
 minhas, te garanto), consegui finalmente raptar o `Diego Búrigo Zacarão`_,
@@ -30,12 +34,12 @@ palestrando!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-06
+{{< podcast castalio-podcast-06 >}}
 
-.. top5::
-
-    :book:
-        * Fortaleza Digital
+{{< top5 >}}
+book:
+    * Fortaleza Digital
+{{< /top5 >}}
 
 Contato
 -------

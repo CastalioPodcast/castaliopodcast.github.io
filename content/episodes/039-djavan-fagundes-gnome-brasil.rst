@@ -1,12 +1,55 @@
-Djavan Fagundes: GNOME Brasil
-#############################
-:date: 2012-06-25 01:22
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-39/castalio-podcast-39.mp3
-:tags: ambiente gnome, ambiente kde, ambiente openbox, ambiente xfce, belo horizonte, breaking bad, casa 21, chaves, cidades ilustradas, constantine, creedence clearwater revival, distribuição arch linux, distribuição debian linux, distribuição fedora linux, distribuição foresight linux, djavan fagundes, gandhi: a magia dos gestos poéticos, gnome 3, gnome brasil, gnome-tweak-tool, google hangout, google maps, hell boy, hora do mac, jonh wendell, led zeppelin, linus torvalds, mapping party, openstreet map, oscar wilde, pedro almodóvar, raul seixas, rubem alves, sin city, the big bang theory, the it crowd, the picture of dorian gray, the raincoats, youtube
-:image: images/djavanfagundes.png
-:image-alt: Djavan Fagundes: GNOME Brasil
+---
+title: "Djavan Fagundes: GNOME Brasil"
+aliases:
+- /djavan-fagundes-gnome-brasil.html
+date: "2012-06-25T01:22:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-39/castalio-podcast-39.mp3"
+tags:
+- ambiente gnome
+- ambiente kde
+- ambiente openbox
+- ambiente xfce
+- belo horizonte
+- breaking bad
+- casa 21
+- chaves
+- cidades ilustradas
+- constantine
+- creedence clearwater revival
+- distribuição arch linux
+- distribuição debian linux
+- distribuição fedora linux
+- distribuição foresight linux
+- djavan fagundes
+- gandhi: a magia dos gestos poéticos
+- gnome 3
+- gnome brasil
+- gnome-tweak-tool
+- google hangout
+- google maps
+- hell boy
+- hora do mac
+- jonh wendell
+- led zeppelin
+- linus torvalds
+- mapping party
+- openstreet map
+- oscar wilde
+- pedro almodóvar
+- raul seixas
+- rubem alves
+- sin city
+- the big bang theory
+- the it crowd
+- the picture of dorian gray
+- the raincoats
+- youtube
+image: /images/djavanfagundes.png
+image-alt: "Djavan Fagundes: GNOME Brasil"
+---
 
 Olá pessoal e sejam muito bem-vindos à mais um episódio, desta vez com uma
 novidade: vídeo com os bastidores e a prórpria entrevista pelo **Youtube**!
@@ -36,7 +79,7 @@ quantidade de mapas desta cidade (morei em BH em 1981-1982)!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-39
+{{< podcast castalio-podcast-39 >}}
 
 Contato
 -------
@@ -60,13 +103,13 @@ Resumo
 -  **Top 5** 25:00
 -  **Conclusão** 33:50
 
-.. top5::
-
-    :music:
-        * Creedence Clearwater Revival
-        * Led Zeppelin
-        * Raul Seixas
-        * The Raincoats
+{{< top5 >}}
+music:
+    * Creedence Clearwater Revival
+    * Led Zeppelin
+    * Raul Seixas
+    * The Raincoats
+{{< /top5 >}}
 
     :movie:
         * Chaves
@@ -106,7 +149,7 @@ Links
 -  `Google Maps`_
 -  `The Big Bang Theory`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

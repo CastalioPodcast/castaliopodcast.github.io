@@ -1,13 +1,22 @@
-==================================
-Episode 131: Justin Keyes - Neovim
-==================================
-
-:date: 2018-04-10
-:authors: Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-131/castalio-podcast-131.mp3
-:tags: justin keyes, vim, neovim, text editor, code editor, english
-:image: images/justin_keyes.jpg
-:image-alt: Justin Keyes
+---
+title: "Episode 131: Justin Keyes - Neovim"
+aliases:
+- /episode-131-justin-keyes-neovim.html
+date: 2018-04-10
+authors:
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-131/castalio-podcast-131.mp3"
+tags:
+- justin keyes
+- vim
+- neovim
+- text editor
+- code editor
+- english
+image: /images/justin_keyes.jpg
+image-alt: Justin Keyes
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -21,8 +30,7 @@ to our podcast
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-131
-    :heading: Listen while you read the show notes!
+{{< podcast id="castalio-podcast-131" heading="Listen while you read the show notes!" >}}
 
 
 We talked about these topics
@@ -42,23 +50,23 @@ We talked about these topics
 * Books and tutorial recommendations for beginners
 
 
-.. top5::
-
-    :music:
-        * Lamb of God
-        * Arch Enemy
-        * Caji
-        * Megadeth
-        * Arcade Fire
-        * Iron Maiden
-    :movie:
-        * Blade Runner
-        * Apocalypse
-        * Total Recall
-    :book:
-        * Hacker News
-        * 1984
-        * The Godfather
+{{< top5 >}}
+music:
+    * Lamb of God
+    * Arch Enemy
+    * Caji
+    * Megadeth
+    * Arcade Fire
+    * Iron Maiden
+movie:
+    * Blade Runner
+    * Apocalypse
+    * Total Recall
+book:
+    * Hacker News
+    * 1984
+    * The Godfather
+{{< /top5 >}}
 
 Watch the recording of this episode
 ===================================
@@ -67,7 +75,7 @@ This interview was recorded live on our `channel on YouTube
 <http://youtube.com/castaliopodcast>`_  and to see the recording of this
 episode check out the video below:
 
-.. youtube:: 682mnDVEsp0
+{{< youtube 682mnDVEsp0 >}}
 
 We would like to thank everyone who have left comments. If you have something
 to tell us, you can leave your comments here on the site, or `Twitter
@@ -88,13 +96,13 @@ Contact
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/justin_keyes.jpg" alt="Justin Keyes" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/justin_keyes.jpg" alt="Justin Keyes" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Justin Keyes</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://github.com/justinmk">Github</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/justinmk">Twitter</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://github.com/justinmk">Github</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/justinmk">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -102,8 +110,7 @@ Contact
         </div>
     </div>
 
-.. podcast:: castalio-podcast-131
-    :heading: Listen now!
+{{< podcast id="castalio-podcast-131" heading="Listen now!" >}}
 
 Links
 =====
@@ -126,7 +133,7 @@ Links
 * `Vim Bootstrap`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

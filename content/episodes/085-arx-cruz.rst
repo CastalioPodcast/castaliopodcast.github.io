@@ -1,16 +1,26 @@
-Episódio 85: Arx Cruz - OpenStack (Red Hat)
-###########################################
-:date: 2017-01-30
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-85/castalio-podcast-85.mp3
-:tags: arx cruz, python, openstack, red hat
-:description: Hoje, conversamos com o Arx Cruz que é Engenheiro de Qualidade no
+---
+title: "Episódio 85: Arx Cruz - OpenStack (Red Hat)"
+aliases:
+- /episodio-85-arx-cruz-openstack-red-hat.html
+date: 2017-01-30
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-85/castalio-podcast-85.mp3"
+tags:
+- arx cruz
+- python
+- openstack
+- red hat
+description: Hoje, conversamos com o Arx Cruz que é Engenheiro de Qualidade no
               OpenStack, trabalha na Red Hat, mora em Berlim, joga WoW (World
               of Warcraft) e Overwatch, e já bebeu quase 500 cervejas
               diferentes.
-:image: images/arxcruz.jpg
-:image-alt: Arx Cruz - OpenStack (Red Hat)
+image: /images/arxcruz.jpg
+image-alt: Arx Cruz - OpenStack (Red Hat)
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -68,29 +78,29 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-85
+{{< podcast castalio-podcast-85 >}}
 
-.. top5::
-
-    :book:
-        * Agatha Christie
-        * Os Elefantes Não Esquecem
-        * O Diário de um Mago
-        * Na Margem Do Rio Piedra Eu Sentei e Chorei
-        * Expressões Regulares
-        * Python Fluente
-        * Revistas do Batman
-    :movie:
-        * Vidas em Jogo
-        * Amor Além da Vida
-        * The Matrix
-        * O Senhor dos Anéis
-    :music:
-        * Queen - Bohemian Rhapsody
-        * Guns N' Roses - November Rain
-        * Bob Dylan - Hurricane
-        * Legião Urbana - Faroeste Caboclo
-        * Antônio Carlos Jobim - Águas de Março
+{{< top5 >}}
+book:
+    * Agatha Christie
+    * Os Elefantes Não Esquecem
+    * O Diário de um Mago
+    * Na Margem Do Rio Piedra Eu Sentei e Chorei
+    * Expressões Regulares
+    * Python Fluente
+    * Revistas do Batman
+movie:
+    * Vidas em Jogo
+    * Amor Além da Vida
+    * The Matrix
+    * O Senhor dos Anéis
+music:
+    * Queen - Bohemian Rhapsody
+    * Guns N' Roses - November Rain
+    * Bob Dylan - Hurricane
+    * Legião Urbana - Faroeste Caboclo
+    * Antônio Carlos Jobim - Águas de Março
+{{< /top5 >}}
 
 Links
 -----
@@ -100,7 +110,7 @@ Links
 * `Zuul`_
 * `Nodepool`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

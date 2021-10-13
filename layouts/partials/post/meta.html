@@ -1,0 +1,20 @@
+<div class="post-meta">
+  {{- if (default .Site.Params.date .Params.date) -}}
+  <span class="post-date" title="Data">
+    <i class="bi bi-calendar-date-fill"></i>
+    {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.dateFormat) }}
+  </span>
+  {{- end -}}
+  {{- if .Params.authors -}}
+  <span class="post-authors" title="Autores">
+    <i class="bi bi-person-fill"></i>
+    {{ delimit .Params.authors ", " }}
+  </span>
+  {{- end -}}
+  {{- if and (default true (default .Site.Params.readingTime .Params.readingTime)) -}}
+  <span class="post-reading-time" title="Tempo de Leitura">
+    <i class="bi bi-clock-fill"></i>
+    {{ .ReadingTime }} minutos
+  </span>
+  {{- end -}}
+</div>

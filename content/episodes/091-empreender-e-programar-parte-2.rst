@@ -1,21 +1,52 @@
-Episódio 91: Empreender e Programar - Parte 2
-#############################################
-:date: 2017-03-13
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-91/castalio-podcast-91.mp3
-:tags: empreender, empreendedorismo, programar, programação, python, filipe
-       ximenes, flávio juvenal, renato oliveira, fix my django, bullet journal,
-       evernote, simplenote, wunderlist, slack, vinta lessons learned, ruby,
-       javascript, django knowledge share, agile, scrum, kanban, lean,
-       continuous integration, continuous delivery, pair programming, trello,
-       jira, pivotal, modern agile, hacker news
-:description: Hoje, continuamos com o episódio temático sobre empreender e
+---
+title: "Episódio 91: Empreender e Programar - Parte 2"
+aliases:
+- /episodio-91-empreender-e-programar-parte-2.html
+date: 2017-03-13
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-91/castalio-podcast-91.mp3"
+tags:
+- empreender
+- empreendedorismo
+- programar
+- programação
+- python
+- filipe ximenes
+- flávio juvenal
+- renato oliveira
+- fix my django
+- bullet journal
+- evernote
+- simplenote
+- wunderlist
+- slack
+- vinta lessons learned
+- ruby
+- javascript
+- django knowledge share
+- agile
+- scrum
+- kanban
+- lean
+- continuous integration
+- continuous delivery
+- pair programming
+- trello
+- jira
+- pivotal
+- modern agile
+- hacker news
+description: Hoje, continuamos com o episódio temático sobre empreender e
               programar. Mais uma vez contamos com a presença  do Filipe
               Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que  todos
               são empreendedores e programadores.
-:image: images/empreender-e-programar.png
-:image-alt: Emprender e Programar
+image: /images/empreender-e-programar.png
+image-alt: Emprender e Programar
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -32,7 +63,7 @@ deixam um Top 5 de referencias para quem quer empreender.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-91
+{{< podcast castalio-podcast-91 >}}
 
 .. raw:: html
 
@@ -79,12 +110,12 @@ Segue a lista de links que comentamos no episódio:
 * `Modern Agile`_
 
 
-.. top5::
-
-    :book:
-        * Rework
-    :site:
-        * Hacker News
+{{< top5 >}}
+book:
+    * Rework
+site:
+    * Hacker News
+{{< /top5 >}}
 
 Top 5 Extra
 -----------
@@ -107,9 +138,9 @@ Até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-91
+{{< podcast castalio-podcast-91 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

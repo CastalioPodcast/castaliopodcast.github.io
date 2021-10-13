@@ -1,15 +1,27 @@
-===============================================
-Episódio 143: Victor Dias - Universo Programado
-===============================================
-
-:date: 2019-09-30
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-143/castalio-podcast-143.mp3
-:tags: victor dias, universo programado, c, c++, inteligencia artificial,
-       backpropagation, deep learning, deepfake, genetic algorithm, machine
-       learning, sdl, technological singularity
-:image: images/victor-dias.png
-:image-alt: Victor Dias
+---
+title: "Episódio 143: Victor Dias - Universo Programado"
+aliases:
+- /episodio-143-victor-dias-universo-programado.html
+date: 2019-09-30
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-143/castalio-podcast-143.mp3"
+tags:
+- victor dias
+- universo programado
+- c
+- c++
+- inteligencia artificial
+- backpropagation
+- deep learning
+- deepfake
+- genetic algorithm
+- machine learning
+- sdl
+- technological singularity
+image: /images/victor-dias.png
+image-alt: Victor Dias
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -23,8 +35,7 @@ Universo Programado. Victor Dias seja bem vindo ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-143
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-143" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -43,24 +54,24 @@ Tópicos abordados neste episódio
   inteligência artificial?
 
 
-.. top5::
-
-    :book:
-        * Homo Deus
-        * O Guia do Mochileiro das Galáxias
-        * Sapiens
-        * Stephen Hawking
-    :music:
-        * Charlie Brown JR.
-        * John Frusciante
-        * John Mayer
-        * Red Hot Chili Peppers
-        * Two Steps from Hell
-    :movie:
-        * Ex Machina
-        * Fonte da Vida
-        * One Strange Rock
-        * The Imitation Game
+{{< top5 >}}
+book:
+    * Homo Deus
+    * O Guia do Mochileiro das Galáxias
+    * Sapiens
+    * Stephen Hawking
+music:
+    * Charlie Brown JR.
+    * John Frusciante
+    * John Mayer
+    * Red Hot Chili Peppers
+    * Two Steps from Hell
+movie:
+    * Ex Machina
+    * Fonte da Vida
+    * One Strange Rock
+    * The Imitation Game
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -70,7 +81,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: hJiIGjTvrMM
+{{< youtube hJiIGjTvrMM >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -92,13 +103,13 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/victor-dias.png" alt="Victor Dias" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/victor-dias.png" alt="Victor Dias" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Victor Dias</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-instagram"></i> <a href="https://www.instagram.com/universoprogramado/">Instagram</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/c/UniversoProgramado">YouTube</a></li>
+                    <li><i class="bi bi-instagram"></i> <a href="https://www.instagram.com/universoprogramado/">Instagram</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/c/UniversoProgramado">YouTube</a></li>
                 </ul>
             </div>
             </div>
@@ -106,8 +117,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-143
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-143" heading="Escute Agora" >}}
 
 
 Links
@@ -122,7 +132,7 @@ Links
 * `Technological singularity`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

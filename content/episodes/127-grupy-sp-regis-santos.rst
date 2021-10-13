@@ -1,20 +1,49 @@
-=====================================
-Episódio 127: Regis Santos - Grupy-SP
-=====================================
-
-:date: 2018-02-19
-:authors: Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-127/castalio-podcast-127.mp3
-:tags: regis santos, grupy-sp, fs2w, python, eduardo mendes, python para
-       zumbis, python sudeste, python club, django, flask, jquery, git, css,
-       html, json, pythonpro, caipyra, pep8, let me be your fantasy, do it
-       again, the bay - erol alkan's extended rework, lose yourself to dance,
-       love can't turn around, the matrix, star wars: episode vi - return of
-       the jedi, inception, fullmetal alchemist, mr. robot, primeiras estórias,
-       álgebra linear e aplicações, the art of computer programming, fluent
-       python, two scoops of django
-:image: images/regis-santos.jpg
-:image-alt: Regis Santos
+---
+title: "Episódio 127: Regis Santos - Grupy-SP"
+aliases:
+- /episodio-127-regis-santos-grupy-sp.html
+date: 2018-02-19
+authors:
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-127/castalio-podcast-127.mp3"
+tags:
+- regis santos
+- grupy-sp
+- fs2w
+- python
+- eduardo mendes
+- python para zumbis
+- python sudeste
+- python club
+- django
+- flask
+- jquery
+- git
+- css
+- html
+- json
+- pythonpro
+- caipyra
+- pep8
+- let me be your fantasy
+- do it again
+- the bay - erol alkan's extended rework
+- lose yourself to dance
+- love can't turn around
+- the matrix
+- star wars: episode vi - return of the jedi
+- inception
+- fullmetal alchemist
+- mr. robot
+- primeiras estórias
+- álgebra linear e aplicações
+- the art of computer programming
+- fluent python
+- two scoops of django
+image: /images/regis-santos.jpg
+image-alt: Regis Santos
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -31,8 +60,7 @@ Santos seja bem vindo ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-127
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-127" heading="Escute enquanto lê os show notes!" >}}
 
 Tópicos abordados neste episódio
 ================================
@@ -73,7 +101,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: TCklITCQ9P8
+{{< youtube TCklITCQ9P8 >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -95,14 +123,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/regis-santos.jpg" alt="Regis Santos" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/regis-santos.jpg" alt="Regis Santos" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Regis Santos</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/rg3915">Facebook</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://rg3915.github.io/">Github</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/rg3915">Twitter</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/rg3915">Facebook</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://rg3915.github.io/">Github</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/rg3915">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -110,8 +138,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-127
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-127" heading="Escute Agora" >}}
 
 
 Links
@@ -149,7 +176,7 @@ Links
 * `Design Patterns em Python`_
 * `PEP8`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

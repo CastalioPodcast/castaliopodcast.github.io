@@ -1,11 +1,15 @@
-Lucas Rocha - The Board (Parte 1)
-#################################
-:date: 2011-06-26 22:15
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-10/castalio-podcast-10.mp3
-:image: images/lucasrocha.jpg
-:image-alt: Lucas Rocha - The Board
+---
+title: "Lucas Rocha - The Board (Parte 1)"
+aliases:
+- /lucas-rocha-the-board-parte-1.html
+date: "2011-06-26T22:15:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-10/castalio-podcast-10.mp3"
+image: /images/lucasrocha.jpg
+image-alt: Lucas Rocha - The Board
+---
 
 Neste episódio tive o prazer de conversar (por um bom tempo) com o
 **Lucas Rocha**, contribuinte super conhecido do projeto **GNOME**.
@@ -22,7 +26,7 @@ parte na semana que vem**! Divirtam-se!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-10
+{{< podcast castalio-podcast-10 >}}
 
 Contato
 -------

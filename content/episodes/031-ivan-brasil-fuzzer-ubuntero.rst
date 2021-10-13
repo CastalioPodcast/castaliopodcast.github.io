@@ -1,12 +1,60 @@
-Ivan Brasil Fuzzer: Ubuntero
-############################
-:date: 2012-03-04 15:36
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-31/castalio-podcast-31.mp3
-:tags: ac/dc, animatrix, assembly, audacity, a batalha do apocalipse, br-linux, c++, capital inicial, cesar oliveira, cidadão quem, cinelera, cobol, debian linux, delphi, eduardo spohr, filhos do éden, grupo caudílho livre, gtkrecordmydesktop, inception, iron maiden, java, kdenlive, list, ludwig van beethoven, mettalica, mozilla thunderbird, neto fagundes, opencast, openshot, piresca greco, rogério melo, shell script, skype, skype call recorder, the matrix, the walking dead, twitter, ubuntero, ubuntu linux, ubuntu unity, vim, virtual box, w32 codecs, youtube
-:image: images/ivanfuzzer.jpg
-:image-alt: Ivan Brasil Fuzzer: Ubuntero
+---
+title: "Ivan Brasil Fuzzer: Ubuntero"
+aliases:
+- /ivan-brasil-fuzzer-ubuntero.html
+date: "2012-03-04T15:36:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-31/castalio-podcast-31.mp3"
+tags:
+- ac/dc
+- animatrix
+- assembly
+- audacity
+- a batalha do apocalipse
+- br-linux
+- c++
+- capital inicial
+- cesar oliveira
+- cidadão quem
+- cinelera
+- cobol
+- debian linux
+- delphi
+- eduardo spohr
+- filhos do éden
+- grupo caudílho livre
+- gtkrecordmydesktop
+- inception
+- iron maiden
+- java
+- kdenlive
+- list
+- ludwig van beethoven
+- mettalica
+- mozilla thunderbird
+- neto fagundes
+- opencast
+- openshot
+- piresca greco
+- rogério melo
+- shell script
+- skype
+- skype call recorder
+- the matrix
+- the walking dead
+- twitter
+- ubuntero
+- ubuntu linux
+- ubuntu unity
+- vim
+- virtual box
+- w32 codecs
+- youtube
+image: /images/ivanfuzzer.jpg
+image-alt: "Ivan Brasil Fuzzer: Ubuntero"
+---
 
 Olá pessoal e sejam bem-vindos ao segundo episódio de 2012! Esta última
 semana tive a oportunidade de conversar com o **Ivan Brasil Fuzzer**,
@@ -39,7 +87,7 @@ pedido do meu amigo `Reinaldo Bispo`_! :)
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-31
+{{< podcast castalio-podcast-31 >}}
 
 Contato
 -------
@@ -62,27 +110,27 @@ Resumo
 -  **Previsão para o Ubuntu em 2012** 32:50
 -  **Conclusão** 34:14
 
-.. top5::
-
-    :music:
-        * Cesar Oliveira
-        * Rogério Melo
-        * Neto Fagundes
-        * Piresca Greco
-        * Iron Maiden
-        * AC/DC
-        * Metallica
-        * Ludwig van Beethoven
-        * Cidadão Quem
-        * Capital Inicial
-    :movie:
-        * The Walking Dead
-        * Inception
-        * The Matrix
-        * Animatrix
-    :book:
-        * Filhos do Éden
-        * A Batalha do Apocalipse
+{{< top5 >}}
+music:
+    * Cesar Oliveira
+    * Rogério Melo
+    * Neto Fagundes
+    * Piresca Greco
+    * Iron Maiden
+    * AC/DC
+    * Metallica
+    * Ludwig van Beethoven
+    * Cidadão Quem
+    * Capital Inicial
+movie:
+    * The Walking Dead
+    * Inception
+    * The Matrix
+    * Animatrix
+book:
+    * Filhos do Éden
+    * A Batalha do Apocalipse
+{{< /top5 >}}
 
 Links
 -----
@@ -114,7 +162,7 @@ Links
 -  `Virtual Box`_
 -  `Ubuntu Unity`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

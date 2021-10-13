@@ -1,8 +1,0 @@
-{% if article.tags %}
-<div id="article-tags">
-  <h2>Tags</h2>
-  {% for tag in article.tags %}
-  <a class="label label-primary" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-  {% endfor %}
-</div>
-{% endif %}

@@ -1,12 +1,48 @@
-Edição de 2 Anos - Og Maciel: Red Hat
-#####################################
-:date: 2013-02-18 16:15
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-51/castalio-podcast-51.mp3
-:tags: .net, bitbucket, fabiano fidêncio, fedora linux, fernando collor de mello, foresight linux, gentoo linux, github, gnome, google reader, google summer of code, irc, kurtkraut, lxde, miguel de icaza, og mandino, openbox, oracle, pl/sql, python, red hat, richard stallman, rpath, scrum, selenium, slackware linux, twitter, ubuntu brasil, ubuntu linux, ubuntu uds, visual basic, xfce
-:image: images/ogmaciel.jpg
-:image-alt: Og Maciel: Red Hat
+---
+title: "Edição de 2 Anos - Og Maciel: Red Hat"
+aliases:
+- /edicao-de-2-anos-og-maciel-red-hat.html
+date: "2013-02-18T16:15:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-51/castalio-podcast-51.mp3"
+tags:
+- .net
+- bitbucket
+- fabiano fidêncio
+- fedora linux
+- fernando collor de mello
+- foresight linux
+- gentoo linux
+- github
+- gnome
+- google reader
+- google summer of code
+- irc
+- kurtkraut
+- lxde
+- miguel de icaza
+- og mandino
+- openbox
+- oracle
+- pl/sql
+- python
+- red hat
+- richard stallman
+- rpath
+- scrum
+- selenium
+- slackware linux
+- twitter
+- ubuntu brasil
+- ubuntu linux
+- ubuntu uds
+- visual basic
+- xfce
+image: /images/ogmaciel.jpg
+image-alt: "Og Maciel: Red Hat"
+---
 
 Usando um velho cliché, realmente parece que foi somente ôntem que eu e
 o Evandro, um dia batendo papo pelo Skype, resolvemos iniciar um
@@ -51,7 +87,7 @@ pelo Skype usando outro sistema! :)
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-51
+{{< podcast castalio-podcast-51 >}}
 
 Contato
 -------
@@ -66,54 +102,54 @@ Contato
 -  **LinkedIn**: http://www.linkedin.com/pub/og-maciel/7/425/257/
 -  **GoodReads**: http://www.goodreads.com/user/show/12048315-og-maciel
 
-.. top5::
-
-    :music:
-        * Legião Urbana
-        * Os Paralamas do Sucesso
-        * Ultraje a Rigor
-        * Titãs
-        * Barão Vermelho
-        * Capital Inicial
-        * Dire Straits
-        * Pink Floyd
-        * Led Zeppelin
-        * The Doors
-        * The Cure
-    :movie:
-        * Blade Runner
-        * The Good, The Bad and The Ugly
-        * Beau Geste
-        * Sessão da Tarde
-        * Os Trapalhões
-        * Pulp Fiction
-        * Snatch
-        * Syriana
-        * The Ides of March
-    :book:
-        * Maria José Dupré
-        * O Cachorrinho Samba
-        * A Mina de Ouro
-        * A Montanha Encantada
-        * Monteiro Lobato
-        * Série Vaga-lume
-        * O Sítio do Picapau Amarelo
-        * Isaac Asimov
-        * Jules Verne
-        * Homero
-        * A Odisseia
-        * Mark Twain
-        * The Adventures of Tom Sawyer
-        * Edgar Allan Poe
-        * Kit Carson
-    :app:
-        * Vim
-        * Emacs
-        * Openbox
-        * i3
-        * iPython
-        * Terminator
-        * Git
+{{< top5 >}}
+music:
+    * Legião Urbana
+    * Os Paralamas do Sucesso
+    * Ultraje a Rigor
+    * Titãs
+    * Barão Vermelho
+    * Capital Inicial
+    * Dire Straits
+    * Pink Floyd
+    * Led Zeppelin
+    * The Doors
+    * The Cure
+movie:
+    * Blade Runner
+    * The Good, The Bad and The Ugly
+    * Beau Geste
+    * Sessão da Tarde
+    * Os Trapalhões
+    * Pulp Fiction
+    * Snatch
+    * Syriana
+    * The Ides of March
+book:
+    * Maria José Dupré
+    * O Cachorrinho Samba
+    * A Mina de Ouro
+    * A Montanha Encantada
+    * Monteiro Lobato
+    * Série Vaga-lume
+    * O Sítio do Picapau Amarelo
+    * Isaac Asimov
+    * Jules Verne
+    * Homero
+    * A Odisseia
+    * Mark Twain
+    * The Adventures of Tom Sawyer
+    * Edgar Allan Poe
+    * Kit Carson
+app:
+    * Vim
+    * Emacs
+    * Openbox
+    * i3
+    * iPython
+    * Terminator
+    * Git
+{{< /top5 >}}
 
 Links
 -----
@@ -149,7 +185,7 @@ Links
 -  `Selenium`_
 -  `SCRUM`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

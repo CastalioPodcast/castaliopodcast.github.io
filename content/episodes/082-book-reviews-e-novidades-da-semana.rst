@@ -1,17 +1,34 @@
-Episódio 82: Book Review: 36 Books That Changed the World e The Martian Chronicles
-##################################################################################
-:date: 2017-01-08
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-82/castalio-podcast-82.mp3
-:tags: book review, novidades da semana, 36 books that changed the world,
-       the martian chronicles, python 3.6, typing, kite, grumpy, golang,
-       mocket, coloredlogs, tkinter, tcl
-:description: Hoje, trazemos mais um book review com os livros The Martian Chronicles
+---
+title: "Episódio 82: Book Review: 36 Books That Changed the World e The Martian Chronicles"
+aliases:
+- /episodio-82-book-review-36-books-that-changed-the-world-e-the-martian-chronicles.html
+date: 2017-01-08
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-82/castalio-podcast-82.mp3"
+tags:
+- book review
+- novidades da semana
+- 36 books that changed the world
+- the martian chronicles
+- python 3.6
+- typing
+- kite
+- grumpy
+- golang
+- mocket
+- coloredlogs
+- tkinter
+- tcl
+description: Hoje, trazemos mais um book review com os livros The Martian Chronicles
               e 36 books that changed the world. Também trazemos algumas novidades da
               semana com dica, pacotes e projetos interessantes.
-:image: images/books-82.jpg
-:image-alt: 36 books that changed the world
+image: /images/books-82.jpg
+image-alt: 36 books that changed the world
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -119,12 +136,12 @@ O `Rafael Rosa Fu`_ é o nosso convidado neste episódio falando sobre estes
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-82
+{{< podcast castalio-podcast-82 >}}
 
 Sorteio da Caneca do Castálio
 +++++++++++++++++++++++++++++
 
-.. figure:: {static}/images/caneca.png
+.. figure:: /images/caneca.png
    :alt: Caneca do Castálio
    :figclass: clear
 
@@ -144,7 +161,7 @@ Escute nossos próximos episódios para saber como adquirir (ou quem sabe ganhar
 canecas do Castálio!
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

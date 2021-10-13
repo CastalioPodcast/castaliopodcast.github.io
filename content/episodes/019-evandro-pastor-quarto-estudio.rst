@@ -1,12 +1,34 @@
-Evandro Pastor: Quarto Estudio
-##############################
-:date: 2011-10-17 12:37
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-19/castalio-podcast-19.mp3
-:tags: ana white, código livre cast, chrome, conectiva linux, dreamweaver, firefox, foresight linux, gimp, illustrator, inkscape, itunes, photoshop, quarto estudio, safari, text expander, textmate, textwrangler, wordpress
-:image: images/evandropastor.png
-:image-alt: Evandro Pastor
+---
+title: "Evandro Pastor: Quarto Estudio"
+aliases:
+- /evandro-pastor-quarto-estudio.html
+date: "2011-10-17T12:37:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-19/castalio-podcast-19.mp3"
+tags:
+- ana white
+- código livre cast
+- chrome
+- conectiva linux
+- dreamweaver
+- firefox
+- foresight linux
+- gimp
+- illustrator
+- inkscape
+- itunes
+- photoshop
+- quarto estudio
+- safari
+- text expander
+- textmate
+- textwrangler
+- wordpress
+image: /images/evandropastor.png
+image-alt: Evandro Pastor
+---
 
 No episódio de hoje vocês vão ter a oportunidade de conhecer um pouco
 melhor o **Evandro Pastor**, co-fundador deste podcast e amigo de guerra
@@ -28,7 +50,7 @@ rolar de rir e eu realmente espero que vocês gostem deste episódio!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-19
+{{< podcast castalio-podcast-19 >}}
 
 Contato
 -------
@@ -57,23 +79,23 @@ Resumo
 -  **Comendo o Pão que o Evandro Amassou (dica para o Rodrigo Padula)**:  55:21
 -  **Conclusão**:  58:00
 
-.. top5::
-
-    :movie:
-        * O Corvo
-        * Blade Runner
-        * Snatch
-        * O Fabuloso Destino de Amelie Polan
-        * Fogo Contra Fogo
-    :music:
-        * The Prodigy
-        * Maria Rita
-        * Oasis
-        * Iron Maiden
-        * Genival Lacerda
-        * The Smiths
-        * 2 Brothers on the 4th Floor
-        * 2 Unlimited
+{{< top5 >}}
+movie:
+    * O Corvo
+    * Blade Runner
+    * Snatch
+    * O Fabuloso Destino de Amelie Polan
+    * Fogo Contra Fogo
+music:
+    * The Prodigy
+    * Maria Rita
+    * Oasis
+    * Iron Maiden
+    * Genival Lacerda
+    * The Smiths
+    * 2 Brothers on the 4th Floor
+    * 2 Unlimited
+{{< /top5 >}}
 
 Links
 -----

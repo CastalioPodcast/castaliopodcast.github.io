@@ -1,20 +1,42 @@
-Episódio 62: Diego Rodrigo Santos - SobreCervejas
-#################################################
-:date: 2015-02-01
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-62/castalio-podcast-62.mp3
-:tags: diego rodrigo santos, sobrecervejas, instagram, guinness, old
-       speckled hen, eisenbahn dunkel, high, lighthouse family, a
-       message, coldplay, imagine, john lennon, elvis presley, cake,
-       the strokes, skank, american beauty, coração valente, the
-       matrix, the animatrix, family guy, the simpsons, cqc, steve
-       jobs
-:description: O assunto do episódio de hoje é um pouco diferente dos
-              episódios antigos, mas na minha opinião não deixa de ser
-              super interessante: Cervejas!!!
-:image: images/diegorodrigosantos.jpg
-:image-alt: Diego Rodrigo Santos - SobreCervejas
+---
+title: "Episódio 62: Diego Rodrigo Santos - SobreCervejas"
+aliases:
+- /episodio-62-diego-rodrigo-santos-sobrecervejas.html
+date: 2015-02-01
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-62/castalio-podcast-62.mp3"
+tags:
+- diego rodrigo santos
+- sobrecervejas
+- instagram
+- guinness
+- old speckled hen
+- eisenbahn dunkel
+- high
+- lighthouse family
+- a message
+- coldplay
+- imagine
+- john lennon
+- elvis presley
+- cake
+- the strokes
+- skank
+- american beauty
+- coração valente
+- the matrix
+- the animatrix
+- family guy
+- the simpsons
+- cqc
+- steve jobs
+description: "O assunto do episódio de hoje é um pouco diferente dos episódios antigos, mas na minha opinião não deixa de ser super interessante: Cervejas!!!"
+image: /images/diegorodrigosantos.jpg
+image-alt: Diego Rodrigo Santos - SobreCervejas
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do **Castálio Podcast**!
 
@@ -41,39 +63,39 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-62
+{{< podcast castalio-podcast-62 >}}
 
-.. top5::
-
-    :beer:
-        * Guinness
-        * Old Speckled Hen
-        * Eisenbahn Dunkel
-    :music:
-        * Lighthouse Family - High
-        * Coldplay - A Message
-        * John Lennon - Imagine
-        * Elvis Presley
-        * Cake
-        * The Strokes
-        * Skank
-    :movie:
-        * American Beauty
-        * Coração Valente
-        * The Matrix
-        * The Animatrix
-        * Family Guy
-        * The Simpsons
-        * CQC: Custe o Que Custar
-    :book:
-        * Steve Jobs
+{{< top5 >}}
+beer:
+    * Guinness
+    * Old Speckled Hen
+    * Eisenbahn Dunkel
+music:
+    * Lighthouse Family - High
+    * Coldplay - A Message
+    * John Lennon - Imagine
+    * Elvis Presley
+    * Cake
+    * The Strokes
+    * Skank
+movie:
+    * American Beauty
+    * Coração Valente
+    * The Matrix
+    * The Animatrix
+    * Family Guy
+    * The Simpsons
+    * CQC: Custe o Que Custar
+book:
+    * Steve Jobs
+{{< /top5 >}}
 
 Links
 -----
 * `SobreCervejas`_
 * `BeerAdvocate`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

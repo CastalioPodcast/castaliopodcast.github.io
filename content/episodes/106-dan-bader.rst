@@ -1,25 +1,60 @@
-Episódio 106: Dan Bader
-###########################
-:date: 2017-06-26
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-106/castalio-podcast-106.mp3
-:tags: dan bader, python, python tricks, pythonistacafe, pep8, pandoc,
-       markdown, makefile, leanpub, ulysses, gumroad, screenflow, camtasia,
-       obs, quicktime, pyladies, rendezvous with rama, the sand, on writing,
-       permutation city, cat's cradle, clean code, the clean coder, the
-       simpsons, star trek, spinal tap, jiro dreams of sushi, ex machina,
-       radiohead, radiohead - amnesiac, pink floyd, pink floyd - animals, the
-       beatles, the beatles - past master volume two, english
-:description: Nosso convidado de hoje se intitula “a complete python nut”,
+---
+title: "Episódio 106: Dan Bader"
+aliases:
+- /episodio-106-dan-bader.html
+date: 2017-06-26
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-106/castalio-podcast-106.mp3"
+tags:
+- dan bader
+- python
+- python tricks
+- pythonistacafe
+- pep8
+- pandoc
+- markdown
+- makefile
+- leanpub
+- ulysses
+- gumroad
+- screenflow
+- camtasia
+- obs
+- quicktime
+- pyladies
+- rendezvous with rama
+- the sand
+- on writing
+- permutation city
+- cat's cradle
+- clean code
+- the clean coder
+- the simpsons
+- star trek
+- spinal tap
+- jiro dreams of sushi
+- ex machina
+- radiohead
+- radiohead - amnesiac
+- pink floyd
+- pink floyd - animals
+- the beatles
+- the beatles - past master volume two
+- english
+description: Nosso convidado de hoje se intitula “a complete python nut”,
               gosta de cozinhar comida vegetariana, é o autor do livro `Python
               Tricks`_, recentemente se tornou o mantenedor do site
               http://pep8.org, publicou vários vídeos excelentes no YouTube, e,
               se não fosse o bastante, ele iniciou um projeto chamado
               `PythonistaCafe`_! É com grande prazer que nos recebemos nosso
               convidado, `Dan Bader`_.
-:image: images/dan-bader.jpg
-:image-alt: Dan Bader
+image: /images/dan-bader.jpg
+image-alt: Dan Bader
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -77,7 +112,7 @@ tuned for the next episode, we will announce the winners.
 
 Check the video below for the recording of this episode:
 
-.. youtube:: uZ-IrwCKGFg
+{{< youtube uZ-IrwCKGFg >}}
 
 Before finishing the post, we would like to thank everyone who left comments.
 If you have something to say, leave your comments here on the website, or our
@@ -99,14 +134,14 @@ Contact
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/dan-bader.jpg" alt="Dan Bader" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/dan-bader.jpg" alt="Dan Bader" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Dan Bader</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-link"></i> <a href="https://dbader.org/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/dbader_org">Twitter</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA">YouTube</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://dbader.org/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/dbader_org">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA">YouTube</a></li>
                 </ul>
             </div>
             </div>
@@ -117,29 +152,29 @@ Contact
 Listen Now
 ----------
 
-.. podcast:: castalio-podcast-106
+{{< podcast castalio-podcast-106 >}}
 
 
-.. top5::
-
-    :book:
-        * Rendezvous with Rama
-        * The Stand
-        * On Writing
-        * Permutation City
-        * Cat's Cradle
-        * Clean Code
-        * The Clean Coder
-    :movie:
-        * The Simpsons
-        * Star Trek
-        * Spinal Tap
-        * Jiro Dreams of Sushi
-        * Ex Machina
-    :music:
-        * Radiohead - Amnesiac
-        * Pink Floyd - Animals
-        * The Beatles - Past Master Volume Two
+{{< top5 >}}
+book:
+    * Rendezvous with Rama
+    * The Stand
+    * On Writing
+    * Permutation City
+    * Cat's Cradle
+    * Clean Code
+    * The Clean Coder
+movie:
+    * The Simpsons
+    * Star Trek
+    * Spinal Tap
+    * Jiro Dreams of Sushi
+    * Ex Machina
+music:
+    * Radiohead - Amnesiac
+    * Pink Floyd - Animals
+    * The Beatles - Past Master Volume Two
+{{< /top5 >}}
 
 
 Links
@@ -162,7 +197,7 @@ Links
 * `Why Learn Python?`_
 * `PyLadies`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

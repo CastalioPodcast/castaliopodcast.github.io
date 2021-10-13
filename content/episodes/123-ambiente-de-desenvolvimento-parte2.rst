@@ -1,16 +1,40 @@
-===================================================
-Episódio 123: Ambiente de Desenvolvimento - Parte 2
-===================================================
-
-:date: 2017-10-23
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:podcast: https://archive.org/download/castalio-podcast-123/castalio-podcast-123.mp3
-:tags: ambiente de desenvolvimento, editor, ide, programação, python, shell,
-       vim, vscode, emacs, direnv, git, magit, orgmode, vim-gitgutter,
-       vim-fugitive, vim-ctrlp, geany, pycharm, visual studio code, nano,
-       dotfiles, vimrc, emacs.d
-:image: images/episode-123.png
-:image-alt: Ambiente de Desenvolvimento - Parte 2
+---
+title: "Episódio 123: Ambiente de Desenvolvimento - Parte 2"
+aliases:
+- /episodio-123-ambiente-de-desenvolvimento-parte-2.html
+date: 2017-10-23
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-123/castalio-podcast-123.mp3"
+tags:
+- ambiente de desenvolvimento
+- editor
+- ide
+- programação
+- python
+- shell
+- vim
+- vscode
+- emacs
+- direnv
+- git
+- magit
+- orgmode
+- vim-gitgutter
+- vim-fugitive
+- vim-ctrlp
+- geany
+- pycharm
+- visual studio code
+- nano
+- dotfiles
+- vimrc
+- emacs.d
+image: /images/episode-123.png
+image-alt: Ambiente de Desenvolvimento - Parte 2
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -30,8 +54,7 @@ usuário e senha e também alguns atalhos úteis para quem utiliza o terminal.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-123
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-123" heading="Escute enquanto lê os show notes!" >}}
 
 
 Recados
@@ -80,7 +103,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no video abaixo:
 
-.. youtube:: 4m_6Q8wQmm8
+{{< youtube 4m_6Q8wQmm8 >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -102,14 +125,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://avatars1.githubusercontent.com/u/458654?v=3&s=240" alt="Bruno Rocha" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://avatars1.githubusercontent.com/u/458654?v=3&s=240" alt="Bruno Rocha" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Bruno Rocha</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://www.twitter.com/rochacbruno">Twitter</a></li>
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/rochacbruno">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://brunorocha.org">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://www.twitter.com/rochacbruno">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/rochacbruno">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://brunorocha.org">Site</a></li>
                 </ul>
             </div>
             </div>
@@ -120,14 +143,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://avatars2.githubusercontent.com/u/48132?v=3&s=240" alt="Elyézer Rezende" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://avatars2.githubusercontent.com/u/48132?v=3&s=240" alt="Elyézer Rezende" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Elyézer Rezende</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://www.twitter.com/elyezer">Twitter</a></li>
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/elyezer">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="http://elyezer.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://www.twitter.com/elyezer">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/elyezer">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://elyezer.com/">Site</a></li>
                 </ul>
             </div>
             </div>
@@ -138,14 +161,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/53362?s=400&v=4" alt="Og Maciel" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/53362?s=400&v=4" alt="Og Maciel" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Og Maciel</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/ogmaciel">Twitter</a></li>
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/omaciel">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://omaciel.github.io/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/ogmaciel">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/omaciel">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://omaciel.github.io/">Site</a></li>
                 </ul>
             </div>
             </div>
@@ -153,8 +176,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-123
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-123" heading="Escute Agora" >}}
 
 
 Links
@@ -177,7 +199,7 @@ Links
 * `dotfiles do Og`_
 * `emacs.d do Og`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

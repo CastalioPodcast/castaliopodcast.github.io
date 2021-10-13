@@ -1,12 +1,62 @@
-Marcelo Hashimoto: Polly Twitter Client
-#######################################
-:date: 2012-01-22 17:53
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-28/castalio-podcast-28.mp3
-:tags: a revolução dos bichos, annihilator, augusto dos anjos, billreminder, c++, carlos drummond de andrade, debian linux, facebook, foresight linux, gnome hig, google plus, gtk, gtk3, gwibber, halloween, hotot, identi.ca, launchpad, libcv, linguagem python, linux, livraria cultura, marcelo hashimoto, megadeath, metallica, monty python, o parque dos dinossáuros, omg ubuntu, opencv, os miseráveis, penny arcade, pinot, piratas do caribe, polly, polly twitter client, python, python socks, savatage, schizobird, twitter, ubuntero br, ubuntu dicas, ubuntu linux, victor hugo, visão computacional, william blake
-:image: images/marcelohashimoto.jpg
-:image-alt: Marcelo Hashimoto
+---
+title: "Marcelo Hashimoto: Polly Twitter Client"
+aliases:
+- /marcelo-hashimoto-polly-twitter-client.html
+date: "2012-01-22T17:53:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-28/castalio-podcast-28.mp3"
+tags:
+- a revolução dos bichos
+- annihilator
+- augusto dos anjos
+- billreminder
+- c++
+- carlos drummond de andrade
+- debian linux
+- facebook
+- foresight linux
+- gnome hig
+- google plus
+- gtk
+- gtk3
+- gwibber
+- halloween
+- hotot
+- identi.ca
+- launchpad
+- libcv
+- linguagem python
+- linux
+- livraria cultura
+- marcelo hashimoto
+- megadeath
+- metallica
+- monty python
+- o parque dos dinossáuros
+- omg ubuntu
+- opencv
+- os miseráveis
+- penny arcade
+- pinot
+- piratas do caribe
+- polly
+- polly twitter client
+- python
+- python socks
+- savatage
+- schizobird
+- twitter
+- ubuntero br
+- ubuntu dicas
+- ubuntu linux
+- victor hugo
+- visão computacional
+- william blake
+image: /images/marcelohashimoto.jpg
+image-alt: Marcelo Hashimoto
+---
 
 Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano!
 O convidado de hoje é o **Marcelo Hashimoto**, desenvolvedor do cliente de
@@ -24,7 +74,7 @@ doutorado, e o seu Top 5!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-28
+{{< podcast castalio-podcast-28 >}}
 
 Contato
 -------
@@ -50,25 +100,25 @@ Resumo
 -  **Onde aprendeu inglês** 32:28
 -  **Conclusão** 33:32
 
-.. top5::
-
-    :music:
-        * Halloween
-        * Savatage
-        * Metallica
-        * Megadeth
-        * Annihilator
-    :movie:
-        * Piratas do Caribe
-    :book:
-        * Victor Hugo
-        * Os Miseráveis
-        * A Revolução dos Bichos
-        * O Parque dos Dinossauros
-        * Augusto dos Anjos
-        * Carlos Drummond de Andrade
-        * William Blake
-        * Charles Baudelaire
+{{< top5 >}}
+music:
+    * Halloween
+    * Savatage
+    * Metallica
+    * Megadeth
+    * Annihilator
+movie:
+    * Piratas do Caribe
+book:
+    * Victor Hugo
+    * Os Miseráveis
+    * A Revolução dos Bichos
+    * O Parque dos Dinossauros
+    * Augusto dos Anjos
+    * Carlos Drummond de Andrade
+    * William Blake
+    * Charles Baudelaire
+{{< /top5 >}}
 
 Links
 -----
@@ -103,7 +153,7 @@ Links
 -  `Enquete para o novo nome do aplicativo`_
 -  `Monty Python - Polly o papagaio`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 

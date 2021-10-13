@@ -1,13 +1,20 @@
-================================================
-Episódio 151: Natalia Raythz - DevOps e Mentoria
-================================================
-
-:date: 2020-10-05
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-151/castalio-podcast-151.mp3
-:tags: natalia raythz, devops, mentoria, red hat, tech&&beer
-:image: images/natalia-raythz.jpg
-:image-alt: Natalia Raythz
+---
+title: "Episódio 151: Natalia Raythz - DevOps e Mentoria"
+aliases:
+- /episodio-151-natalia-raythz-devops-e-mentoria.html
+date: 2020-10-05
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-151/castalio-podcast-151.mp3"
+tags:
+- natalia raythz
+- devops
+- mentoria
+- red hat
+- tech&&beer
+image: /images/natalia-raythz.jpg
+image-alt: Natalia Raythz
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -27,15 +34,14 @@ ela mesma diz. Natalia Raythz, seja muito bem-vinda ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-151
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-151" heading="Escute enquanto lê os show notes!" >}}
 
 .. raw:: html
 
     <div class="row">
         <div class="col-md-12">
             <a href="http://mng.bz/Qxnj" target="_blank">
-                <img class="img-responsive" src="images/women-in-tech-conference.jpg" alt="live@manning Women in Technology" />
+                <img class="img-responsive" src="/images/women-in-tech-conference.jpg" alt="live@manning Women in Technology" />
             </a>
         </div>
     </div>
@@ -50,34 +56,34 @@ Tópicos abordados neste episódio
 * Como foi começar a trabalhar na Red Hat
 
 
-.. top5::
-
-    :book:
-        * O andar do bêbado
-        * O Senhor dos Anéis
-        * Angela Y. Davis
-        * Software Quality Engineering
-    :music:
-        * Stevie Wonder
-        * Tina Turner
-        * Racionais Mc's
-        * Sabotage
-        * BK
-        * DJONGA
-        * Raça Negra
-        * Art Popular
-    :movie:
-        * Estrelas Além do Tempo
-        * Pantera Negra
-        * Hayao Miyazaki
-        * Get Organized with the Home Edit
-    :app:
-        * Focus To-Do
-        * Notion
-        * Calendário
-        * Pokémon Go
-        * Apple Podcasts
-        * Calendly
+{{< top5 >}}
+book:
+    * O andar do bêbado
+    * O Senhor dos Anéis
+    * Angela Y. Davis
+    * Software Quality Engineering
+music:
+    * Stevie Wonder
+    * Tina Turner
+    * Racionais Mc's
+    * Sabotage
+    * BK
+    * DJONGA
+    * Raça Negra
+    * Art Popular
+movie:
+    * Estrelas Além do Tempo
+    * Pantera Negra
+    * Hayao Miyazaki
+    * Get Organized with the Home Edit
+app:
+    * Focus To-Do
+    * Notion
+    * Calendário
+    * Pokémon Go
+    * Apple Podcasts
+    * Calendly
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -87,7 +93,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: 5zXyNU3PJlA
+{{< youtube 5zXyNU3PJlA >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -109,13 +115,13 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/natalia-raythz.jpg" alt="Natalia Raythz" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/natalia-raythz.jpg" alt="Natalia Raythz" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Natalia Raythz</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-link"></i> <a href="https://shebangbash.dev/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/shebangbash">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://shebangbash.dev/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/shebangbash">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -123,11 +129,10 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-151
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-151" heading="Escute Agora" >}}
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

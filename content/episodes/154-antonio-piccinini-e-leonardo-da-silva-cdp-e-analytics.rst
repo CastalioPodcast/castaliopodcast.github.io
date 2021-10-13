@@ -1,13 +1,20 @@
-=====================================================================
-Episódio 154: Antonio Piccinini e Leonardo da Silva - CDP e Analytics
-=====================================================================
-
-:date: 2021-09-06
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-154/castalio-podcast-154.mp3
-:tags: antonio piccinini, leonardo da silva, cdp, analytics, acquia
-:image: images/episode-154.png
-:image-alt: Antonio Piccinini e Leonardo da Silva - CDP e Analytics
+---
+title: "Episódio 154: Antonio Piccinini e Leonardo da Silva - CDP e Analytics"
+aliases:
+- /episodio-154-antonio-piccinini-e-leonardo-da-silva-cdp-e-analytics.html
+date: 2021-09-06
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-154/castalio-podcast-154.mp3"
+tags:
+- antonio piccinini
+- leonardo da silva
+- cdp
+- analytics
+- acquia
+image: /images/episode-154.png
+image-alt: Antonio Piccinini e Leonardo da Silva - CDP e Analytics
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -35,8 +42,7 @@ Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-154
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-154" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -46,31 +52,31 @@ Tópicos abordados neste episódio
 * Quais a preocupações e boas praticas para implementar?
 * Quais tecnologias aprender para trabalhar com CDP e Analytics?
 
-.. top5:: Top 5 - Antonio Piccinini
+{{< top5 "Top 5 - Antonio Piccinini" >}}
+book:
+    * Principles of Marketing
+    * Bold
+    * Plataforma: a Revolução da Estratégia
+music:
+    * Dire Straits
+    * Alok
+    * Goldfish
+movie:
+    * O Poderoso Chefão
+{{< /top5 >}}
 
-    :book:
-        * Principles of Marketing
-        * Bold
-        * Plataforma: a Revolução da Estratégia
-    :music:
-        * Dire Straits
-        * Alok
-        * Goldfish
-    :movie:
-        * O Poderoso Chefão
-
-.. top5:: Top 5 - Leonardo da Silva
-
-    :book:
-        * Cem Dias Entre Céu e Mar
-        * Open
-        * No Teto do Mundo
-    :music:
-        * Natiruts
-    :movie:
-        * Interestelar
-        * A Origem
-        * Contato
+{{< top5 "Top 5 - Leonardo da Silva" >}}
+book:
+    * Cem Dias Entre Céu e Mar
+    * Open
+    * No Teto do Mundo
+music:
+    * Natiruts
+movie:
+    * Interestelar
+    * A Origem
+    * Contato
+{{< /top5 >}}
 
 Assista a gravação deste episódio
 =================================
@@ -79,7 +85,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: IEcbZDSXv6U
+{{< youtube IEcbZDSXv6U >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -101,12 +107,12 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/antonio-piccinini.png" alt="Antonio Piccinini" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/antonio-piccinini.png" alt="Antonio Piccinini" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Antonio Piccinini</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/antoniopiccinini/">LinkedIn</a></li>
+                    <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/antoniopiccinini/">LinkedIn</a></li>
                 </ul>
             </div>
             </div>
@@ -116,12 +122,12 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/leonardo-da-silva.png" alt="Leonardo da Silva" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/leonardo-da-silva.png" alt="Leonardo da Silva" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Leonardo da Silva</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/dasilvaleonardo/">LinkedIn</a></li>
+                    <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/dasilvaleonardo/">LinkedIn</a></li>
                 </ul>
             </div>
             </div>
@@ -129,8 +135,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-154
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-154" heading="Escute Agora" >}}
 
 
 Links
@@ -141,7 +146,7 @@ Links
 * `Site da Acquia`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

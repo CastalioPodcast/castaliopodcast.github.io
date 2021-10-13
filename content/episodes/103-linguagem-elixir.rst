@@ -1,21 +1,50 @@
-Episódio 103: Linguagem de Programação Elixir
-#############################################
-:date: 2017-06-05
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-103/castalio-podcast-103.mp3
-:tags: elixir, josé valim, erlang, guilherme nogueira, renan (milhouse)
-       renelli, phoenix, django, ruby on rails, go, rust, ruby, maru, ecto,
-       plug, dialyxir, mix, otp, hex, spacemacs, alchemist, emacs, vim,
-       mongodb, exunit, elixirconf, demo
-:description: Hoje, vamos falar a respeito da linguagem de programação
+---
+title: "Episódio 103: Linguagem de Programação Elixir"
+aliases:
+- /episodio-103-linguagem-de-programacao-elixir.html
+date: 2017-06-05
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-103/castalio-podcast-103.mp3"
+tags:
+- elixir
+- josé valim
+- erlang
+- guilherme nogueira
+- renan (milhouse) renelli
+- phoenix
+- django
+- ruby on rails
+- go
+- rust
+- ruby
+- maru
+- ecto
+- plug
+- dialyxir
+- mix
+- otp
+- hex
+- spacemacs
+- alchemist
+- emacs
+- vim
+- mongodb
+- exunit
+- elixirconf
+- demo
+description: Hoje, vamos falar a respeito da linguagem de programação
               `Elixir`_, uma linguagem dinâmica baseada no paradigma funcional,
               criada pelo brasileiro `José Valim`_ e que roda na maquina
               virtual da `Erlang`_. Para nos ajudar contamos com a participação
               de dois especialistas na linguagem o `Guilherme Nogueira`_ e o
               `Renan (milhouse) Ranelli`_.
-:image: images/episodio-103.jpg
-:image-alt: Linguagem de Programação Elixir
+image: /images/episodio-103.jpg
+image-alt: Linguagem de Programação Elixir
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -49,7 +78,7 @@ Abordamos os seguintes tópicos:
 
 Confira a gravação do episódio no vídeo abaixo e confira o demo:
 
-.. youtube:: YSQmIciT0xE
+{{< youtube YSQmIciT0xE >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -71,13 +100,13 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/guilherme-nogueira.jpg" alt="Guilherme Nogueira" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/guilherme-nogueira.jpg" alt="Guilherme Nogueira" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Guilherme Nogueira</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-link"></i> <a href="http://www.nirev.org/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/nirev">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://www.nirev.org/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/nirev">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -87,13 +116,13 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/renan-ranelli.jpg" alt="Renan (milhouse) Ranelli" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/renan-ranelli.jpg" alt="Renan (milhouse) Ranelli" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Renan (milhouse) Ranelli</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-link"></i> <a href="http://milhouseonsoftware.com/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/renanranelli">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="http://milhouseonsoftware.com/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/renanranelli">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -104,7 +133,7 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-103
+{{< podcast castalio-podcast-103 >}}
 
 Links
 -----
@@ -142,7 +171,7 @@ Links
 * `EEFL Buenos Aires`_
 * `Elixir User Group SP`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

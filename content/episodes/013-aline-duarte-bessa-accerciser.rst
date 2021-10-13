@@ -1,12 +1,36 @@
-Aline Duarte Bessa - Accerciser
-###############################
-:date: 2011-07-25 00:00
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-13/castalio-podcast-13.mp3
-:tags: accerciser, bloody valentine, colivre, david bowie, fernando de castro ferro, fiction press, gabriel garcia marquez, hacktoons, john hughes, juliana cunha, julio cortazar, krzysztof kieslowski, orca, rails, smiths, television, velvet underground, virginia wolfe, xkcd, opodcastedelas
-:image: images/alinebessa.jpg
-:image-alt: Aline Duarte Bessa - Accerciser
+---
+title: "Aline Duarte Bessa - Accerciser"
+aliases:
+- /aline-duarte-bessa-accerciser.html
+date: "2011-07-25T00:00:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-13/castalio-podcast-13.mp3"
+tags:
+- accerciser
+- bloody valentine
+- colivre
+- david bowie
+- fernando de castro ferro
+- fiction press
+- gabriel garcia marquez
+- hacktoons
+- john hughes
+- juliana cunha
+- julio cortazar
+- krzysztof kieslowski
+- orca
+- rails
+- smiths
+- television
+- velvet underground
+- virginia wolfe
+- xkcd
+- opodcastedelas
+image: /images/alinebessa.jpg
+image-alt: Aline Duarte Bessa - Accerciser
+---
 
 Neste episódio bato um papo com a **Aline Duarte Bessa**, mais uma
 Brasileira que está participando do `GNOME Women Outreach Program`_
@@ -25,7 +49,7 @@ o que o Accerciser é:
     framework simples de plug-ins que você pode utilizar para criar
     visualizações personalizadas de informações de acessibilidade."
 
-.. figure:: {static}/images/accerciser.png
+.. figure:: /images/accerciser.png
    :alt: Accerciser
 
    Accerciser
@@ -36,7 +60,7 @@ Top 5, e o significado do quanto difícil é "**fazer uma jaca**!!!"
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-13
+{{< podcast castalio-podcast-13 >}}
 
 Contato
 -------
@@ -60,27 +84,27 @@ Resumo
 -  **Pense... Difícil é Fazer Uma Jaca**:  42:30
 -  **Conclusão**:  43:30
 
-.. top5::
-
-    :music:
-        * Television
-        * The Smiths
-        * My Bloody Valentine
-        * The Velvet Underground
-        * David Bowie
-    :book:
-        * On the Road
-        * The Corrections
-        * Freedom
-        * Cem Anos de Solidão
-        * O Jogo da Amarelinha
-        * Light House
-    :movie:
-        * A Dupla Vida de Véronique
-        * O Poderoso Chefão
-        * The Matrix
-        * De Volta Para o Futuro
-        * Curtindo a Vida Adoidado
+{{< top5 >}}
+music:
+    * Television
+    * The Smiths
+    * My Bloody Valentine
+    * The Velvet Underground
+    * David Bowie
+book:
+    * On the Road
+    * The Corrections
+    * Freedom
+    * Cem Anos de Solidão
+    * O Jogo da Amarelinha
+    * Light House
+movie:
+    * A Dupla Vida de Véronique
+    * O Poderoso Chefão
+    * The Matrix
+    * De Volta Para o Futuro
+    * Curtindo a Vida Adoidado
+{{< /top5 >}}
 
 Links
 -----

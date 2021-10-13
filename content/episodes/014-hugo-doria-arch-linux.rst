@@ -1,12 +1,39 @@
-Hugo Dória - Arch Linux
-#######################
-:date: 2011-08-08 02:15
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-14/castalio-podcast-14.mp3
-:tags: admirável mundo novo, arch linux, arch sheriff, black sabath, br-linux, br-mac, cavaleiros do zodíaco, de volta para o futuro, deep purple, game of thrones, ghost in the shell, hntool, iron maiden, led zeppelin, matrix, metallica, nirvana, pacupdate, pink floyd, popcode, samurai x, senhor dos anéis, steppenwolf
-:image: images/hugodoria.png
-:image-alt: Hugo Dória - Arch Linux
+---
+title: "Hugo Dória - Arch Linux"
+aliases:
+- /hugo-doria-arch-linux.html
+date: "2011-08-08T02:15:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-14/castalio-podcast-14.mp3"
+tags:
+- admirável mundo novo
+- arch linux
+- arch sheriff
+- black sabath
+- br-linux
+- br-mac
+- cavaleiros do zodíaco
+- de volta para o futuro
+- deep purple
+- game of thrones
+- ghost in the shell
+- hntool
+- iron maiden
+- led zeppelin
+- matrix
+- metallica
+- nirvana
+- pacupdate
+- pink floyd
+- popcode
+- samurai x
+- senhor dos anéis
+- steppenwolf
+image: /images/hugodoria.png
+image-alt: Hugo Dória - Arch Linux
+---
 
 O meu entrevistado de hoje é o `Hugo Dória`_, que para mim foi por muito tempo
 sinônimo do `Arch Linux`_ no Brasil. Durante nosso bate-papo conversamos sobre
@@ -21,7 +48,7 @@ Roll Racing**, e é claro seu **Top 5**!!!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-14
+{{< podcast castalio-podcast-14 >}}
 
 
 Contato
@@ -48,29 +75,29 @@ Resumo
 -  **Top 5**:  50:40
 -  **Conclusão**:  01:02:00
 
-.. top5::
-
-    :music:
-        * Black Sabbath
-        * Deep Purple
-        * Steppenwolf
-        * Nirvana
-        * Metallica
-        * Iron Maiden
-        * Pink Floyd
-        * Led Zeppelin
-    :book:
-        * O Senhor dos Anéis
-        * Admirável Mundo Novo
-        * O Guia do Mochileiro das Galáxias
-        * A Game of Thrones
-    :movie:
-        * De Volta Para o Futuro
-        * The Matrix
-        * Ghost in the Shell
-        * Samurai X: Trust and Betrayal
-        * Dragon Ball Z
-        * Os Cavaleiros do Zodíaco
+{{< top5 >}}
+music:
+    * Black Sabbath
+    * Deep Purple
+    * Steppenwolf
+    * Nirvana
+    * Metallica
+    * Iron Maiden
+    * Pink Floyd
+    * Led Zeppelin
+book:
+    * O Senhor dos Anéis
+    * Admirável Mundo Novo
+    * O Guia do Mochileiro das Galáxias
+    * A Game of Thrones
+movie:
+    * De Volta Para o Futuro
+    * The Matrix
+    * Ghost in the Shell
+    * Samurai X: Trust and Betrayal
+    * Dragon Ball Z
+    * Os Cavaleiros do Zodíaco
+{{< /top5 >}}
 
 Links
 -----

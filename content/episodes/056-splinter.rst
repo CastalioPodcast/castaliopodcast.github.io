@@ -1,12 +1,23 @@
-Episódio 56: Splinter
-#####################
-:date: 2014-12-07
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3
-:tags: splinter, selenium, automatização, splinter, selenium, python
-:image: images/castalio5FkGWm.png
-:image-alt: Editor Vim
+---
+title: "Episódio 56: Splinter"
+aliases:
+- /episodio-56-splinter.html
+date: 2014-12-07
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3"
+tags:
+- splinter
+- selenium
+- automatização
+- splinter
+- selenium
+- python
+image: /images/castalio5FkGWm.png
+image-alt: Editor Vim
+---
 
 No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o
 **Splinter**, uma ferramente muito interessante para quem trabalha com a
@@ -133,7 +144,7 @@ seu futuro... mas isso vai ficar para um próximo episódio!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-56
+{{< podcast castalio-podcast-56 >}}
 
 Links
 -----
@@ -144,7 +155,7 @@ Links
 -  `Selenium WebDriver`_
 -  `Satellite 6`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,14 +1,22 @@
-Episódio 76: Book Review e Python Packages
-##########################################
-:date: 2016-11-27
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-76/castalio-podcast-76.mp3
-:tags: book review, python,
-:description: No episódio de hoje trazemos nosso primeiro book review, também
+---
+title: "Episódio 76: Book Review e Python Packages"
+aliases:
+- /episodio-76-book-review-e-python-packages.html
+date: 2016-11-27
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-76/castalio-podcast-76.mp3"
+tags:
+- book review
+- python
+description: No episódio de hoje trazemos nosso primeiro book review, também
               comentamos sobre as novidades da semana no mundo Python.
-:image: images/h-p-lovecraft-s-book-of-the-supernatural.jpg
-:image-alt: H.P. Lovecraft's Book of the Supernatural
+image: /images/h-p-lovecraft-s-book-of-the-supernatural.jpg
+image-alt: H.P. Lovecraft's Book of the Supernatural
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -101,7 +109,7 @@ site com vários "guias de referência" para vários pacotes e recursos do Pytho
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-76
+{{< podcast castalio-podcast-76 >}}
 
 
 Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
@@ -130,7 +138,7 @@ Links
 * `tipagem estática`_
 * `Python Sheets`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

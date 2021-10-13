@@ -1,12 +1,51 @@
-Rudá Moura: Conectiva Linux
-###########################
-:date: 2011-12-04 17:05
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-24/castalio-podcast-24.mp3
-:tags: 7 anos no tibet, art of computer program, avahi, blade runner, cammel book, canonical, conectiva linux, debian linux, delillo, fedora linux, gcc, gnome, haxent, kde, knuth, kraftwerk, larry wall, matrix, mutantes, new order, novel, opensuse linux, portal terra, qt, red hat linux, revista linux, ruído branco, saramago, slackware linux, sociedade dos poetas mortos, tequila baby, ubuntu linux, winmodem, x.org, yo la tengo
-:image: images/rudamoura.png
-:image-alt: Rudá Moura: Conectiva Linux
+---
+title: "Rudá Moura: Conectiva Linux"
+aliases:
+- /ruda-moura-conectiva-linux.html
+date: "2011-12-04T17:05:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-24/castalio-podcast-24.mp3"
+tags:
+- 7 anos no tibet
+- art of computer program
+- avahi
+- blade runner
+- cammel book
+- canonical
+- conectiva linux
+- debian linux
+- delillo
+- fedora linux
+- gcc
+- gnome
+- haxent
+- kde
+- knuth
+- kraftwerk
+- larry wall
+- matrix
+- mutantes
+- new order
+- novel
+- opensuse linux
+- portal terra
+- qt
+- red hat linux
+- revista linux
+- ruído branco
+- saramago
+- slackware linux
+- sociedade dos poetas mortos
+- tequila baby
+- ubuntu linux
+- winmodem
+- x.org
+- yo la tengo
+image: /images/rudamoura.png
+image-alt: "Rudá Moura: Conectiva Linux"
+---
 
 Dando continuidade ao plano de trazer mais uma entrevista com um membro
 do Conectiva Linux, desta vez conversei com o **Rudá Moura** que
@@ -22,7 +61,7 @@ manobristas de garagem** e, é claro, o seu **Top 5**!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-24
+{{< podcast castalio-podcast-24 >}}
 
 Contato
 -------
@@ -49,23 +88,23 @@ Resumo
 -  **Conclusão** 32:26
 
 
-.. top5::
-
-    :music:
-        * Yo La Tengo
-        * Os Mutantes
-        * New Order
-        * Kraftwerk
-    :movie:
-        * Blade Runner
-        * The Matrix
-        * Sociedade dos Poetas Mortos
-        * Sete Anos no Tibet
-    :book:
-        * Ruído Branco
-        * José Saramago
-        * The Art of Computer Programming
-        * Programming Perl
+{{< top5 >}}
+music:
+    * Yo La Tengo
+    * Os Mutantes
+    * New Order
+    * Kraftwerk
+movie:
+    * Blade Runner
+    * The Matrix
+    * Sociedade dos Poetas Mortos
+    * Sete Anos no Tibet
+book:
+    * Ruído Branco
+    * José Saramago
+    * The Art of Computer Programming
+    * Programming Perl
+{{< /top5 >}}
 
 Links
 -----
@@ -90,7 +129,7 @@ Links
 -  `Haxent`_
 -  `Portal Terra`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 

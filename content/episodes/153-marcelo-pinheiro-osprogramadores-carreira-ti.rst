@@ -1,13 +1,18 @@
-=============================================================================
-Episódio 153: Marcelo Pinheiro - Podcast OsProgramadores e sua carreira em TI
-=============================================================================
-
-:date: 2021-01-19
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-153/castalio-podcast-153.mp3
-:tags: marcelo pinheiro, podcast osprogramadores, osprogramadores
-:image: images/marcelo-pinheiro.png
-:image-alt: Marcelo Pinheiro
+---
+title: "Episódio 153: Marcelo Pinheiro - Podcast OsProgramadores e sua carreira em TI"
+aliases:
+- /episodio-153-marcelo-pinheiro-podcast-osprogramadores-e-sua-carreira-em-ti.html
+date: 2021-01-19
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-153/castalio-podcast-153.mp3"
+tags:
+- marcelo pinheiro
+- podcast osprogramadores
+- osprogramadores
+image: /images/marcelo-pinheiro.png
+image-alt: Marcelo Pinheiro
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -24,8 +29,7 @@ Marcelo Pinheiro, seja muito bem-vindo ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-153
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-153" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -38,26 +42,26 @@ Tópicos abordados neste episódio
 * Site e Podcast OsProgramadores
 
 
-.. top5::
-
-    :book:
-        * Trilogia A Fundação
-        * Guerra do Velho
-        * Pandora's Star
-        * A Noite dos Tempos
-        * I, Woz
-    :music:
-        * The Tragically Hip
-        * Milton Nascimento
-        * Legião Urbana
-        * Cazuza
-        * Sigur Rós
-    :movie:
-        * The Expanse
-        * Ministério do Tempo
-        * Dark
-        * Perdidos no Espaço
-        * Battlestar Galactica
+{{< top5 >}}
+book:
+    * Trilogia A Fundação
+    * Guerra do Velho
+    * Pandora's Star
+    * A Noite dos Tempos
+    * I, Woz
+music:
+    * The Tragically Hip
+    * Milton Nascimento
+    * Legião Urbana
+    * Cazuza
+    * Sigur Rós
+movie:
+    * The Expanse
+    * Ministério do Tempo
+    * Dark
+    * Perdidos no Espaço
+    * Battlestar Galactica
+{{< /top5 >}}
 
 Assista a gravação deste episódio
 =================================
@@ -66,7 +70,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: bqLKRQVa-pM
+{{< youtube bqLKRQVa-pM >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -88,15 +92,15 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/marcelo-pinheiro.png" alt="Marcelo Pinheiro" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/marcelo-pinheiro.png" alt="Marcelo Pinheiro" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Marcelo Pinheiro</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-link"></i> <a href="https://osprogramadores.com/">Site OsProgramadores</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://t.me/osprogramadores">Grupo @osprogramadores no Telegram</a></li>
-                    <li><i class="fa fa-podcast"></i> <a href="https://anchor.fm/osprogramadores/">Podcast OsProgramadores</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/mpinheir">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://osprogramadores.com/">Site OsProgramadores</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://t.me/osprogramadores">Grupo @osprogramadores no Telegram</a></li>
+                    <li><i class="bi bi-podcast"></i> <a href="https://anchor.fm/osprogramadores/">Podcast OsProgramadores</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/mpinheir">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -104,8 +108,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-153
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-153" heading="Escute Agora" >}}
 
 
 Links
@@ -117,7 +120,7 @@ Links
 * `Site OsProgramadores`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

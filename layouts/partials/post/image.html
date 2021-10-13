@@ -1,0 +1,3 @@
+{{ if .Params.image }}
+<img class="float-start img-thumbnail post-image" src="{{ .Params.image }}"{{ if .Params.image_alt }} alt="{{ .Params.image_alt }}"{{ end }}/>
+{{ end }}

@@ -1,24 +1,69 @@
-Episódio 99: Tech News e Book Review
-####################################
-:date: 2017-05-08
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3
-:tags: tech news, book review, complô contra a américa, philip roth, red hat,
-       satellite 6, ansible, fauxfactory, pyup, openshift.io, bpython, tarek
-       ziade, ipython, python, dan bader, faas, mstream, what the flask,
-       pythonclub, tdd, api, rest, restful, django, django apps checklist,
-       localstack, facebook, dev na estrada, hack'n'cast, opencast, priscila
-       mayumi, caipyra, python brasil 13, python brasil, renzo nuccitelli,
-       bruno rocha, og maciel, elyézer rezende, docker, prometheus, empreender
-       e programar, flask, jupyter notebooks, py.test, travis, codecov
-:description: Hoje, trazemos mais um Tech News e para quebrar o gelo um Book
+---
+title: "Episódio 99: Tech News e Book Review"
+aliases:
+- /episodio-99-tech-news-e-book-review.html
+date: 2017-05-08
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3"
+tags:
+- tech news
+- book review
+- complô contra a américa
+- philip roth
+- red hat
+- satellite 6
+- ansible
+- fauxfactory
+- pyup
+- openshift.io
+- bpython
+- tarek ziade
+- ipython
+- python
+- dan bader
+- faas
+- mstream
+- what the flask
+- pythonclub
+- tdd
+- api
+- rest
+- restful
+- django
+- django apps checklist
+- localstack
+- facebook
+- dev na estrada
+- hack'n'cast
+- opencast
+- priscila mayumi
+- caipyra
+- python brasil 13
+- python brasil
+- renzo nuccitelli
+- bruno rocha
+- og maciel
+- elyézer rezende
+- docker
+- prometheus
+- empreender e programar
+- flask
+- jupyter notebooks
+- py.test
+- travis
+- codecov
+description: Hoje, trazemos mais um Tech News e para quebrar o gelo um Book
               Review sobre o livro Complô Contra a América de Philip Roth.
               Este episodio foi gravado ao vivo pelo YouTube, aproveitamos e
               convidamos você para assinar o `Canal do YouTube do Castálio
               Podcast`_.
-:image: images/tech-news.png
-:image-alt: Tech News e Book Review
+image: /images/tech-news.png
+image-alt: Tech News e Book Review
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -34,7 +79,7 @@ gravações ao vivo e outros conteúdos que estaremos publicando por lá, assine
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-99
+{{< podcast castalio-podcast-99 >}}
 
 .. raw:: html
 
@@ -128,7 +173,7 @@ Tech News
 
 Assista a gravação do episódio:
 
-.. youtube:: F30Jp73PKXo
+{{< youtube F30Jp73PKXo >}}
 
 Book Review
 -----------
@@ -193,7 +238,7 @@ O livro possui adaptações para o cinema:
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-99
+{{< podcast castalio-podcast-99 >}}
 
 Comunicados e eventos
 ---------------------
@@ -242,7 +287,7 @@ seguir a `Playlist do Castálio Podcast
 Até o próximo episódio!
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

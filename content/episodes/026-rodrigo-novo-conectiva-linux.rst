@@ -1,12 +1,57 @@
-Rodrigo Novo: Conectiva Linux
-#############################
-:date: 2011-12-26 18:16
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-26/castalio-podcast-26.mp3
-:tags: anaconda installer, arnaldo "pacman", aurélio "verde" jargas, caldera graphical installer, caldera linux, canonical, conectiva linux, cvs, dos, edubuntu, frank sinatra, gcc, googleplex, imdb.com, indt, jeff hwang, kde, linux br, livraria saraiva, mandrake linux, mandriva linux, marcelo tosatti, midnight commander, minilinux, mountain view, nfs, nina simone, open linux, parolin linux, pot-limit omaha poker, qt, red hat linux, rpm, silicon valley, slackware linux, texas holden poker, tftp, the shawshank redemption, ubuntu developers summit, universidade federal de santa catarina, venture capital
-:image: images/rodrigonovo.png
-:image-alt: Rodrigo Novo
+---
+title: "Rodrigo Novo: Conectiva Linux"
+aliases:
+- /rodrigo-novo-conectiva-linux.html
+date: "2011-12-26T18:16:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-26/castalio-podcast-26.mp3"
+tags:
+- anaconda installer
+- arnaldo "pacman"
+- aurélio "verde" jargas
+- caldera graphical installer
+- caldera linux
+- canonical
+- conectiva linux
+- cvs
+- dos
+- edubuntu
+- frank sinatra
+- gcc
+- googleplex
+- imdb.com
+- indt
+- jeff hwang
+- kde
+- linux br
+- livraria saraiva
+- mandrake linux
+- mandriva linux
+- marcelo tosatti
+- midnight commander
+- minilinux
+- mountain view
+- nfs
+- nina simone
+- open linux
+- parolin linux
+- pot-limit omaha poker
+- qt
+- red hat linux
+- rpm
+- silicon valley
+- slackware linux
+- texas holden poker
+- tftp
+- the shawshank redemption
+- ubuntu developers summit
+- universidade federal de santa catarina
+- venture capital
+image: /images/rodrigonovo.png
+image-alt: Rodrigo Novo
+---
 
 Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último
 de 2011)! Dando continuidade à proposta de trazer mais uma entrevista
@@ -22,7 +67,7 @@ seu interesse por **poker** e **filmes clássicos**!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-26
+{{< podcast castalio-podcast-26 >}}
 
 Contato
 -------
@@ -43,16 +88,16 @@ Resumo
 -  **Top 5** 34:12
 -  **Conclusão** 42:07
 
-.. top5::
-
-    :music:
-        * Nina Simone
-        * Frank Sinatra
-    :movie:
-        * The Shawshank Redemption
-    :book:
-        * Pot-Limit Omaha Poker
-        * Advanced Pot-limit Omaha: Small Ball and Short-Handed Play
+{{< top5 >}}
+music:
+    * Nina Simone
+    * Frank Sinatra
+movie:
+    * The Shawshank Redemption
+book:
+    * Pot-Limit Omaha Poker
+    * Advanced Pot-limit Omaha: Small Ball and Short-Handed Play
+{{< /top5 >}}
 
 Links
 -----
@@ -92,7 +137,7 @@ Links
 -  `Texas Holden Poker`_
 -  `Jeff Hwang`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Sunday Night Learning`_ por `Clebert Suconic`_.*
 .. _Conectiva Linux: https://duckduckgo.com/?q=Conectiva+Linux

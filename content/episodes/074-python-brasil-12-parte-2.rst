@@ -1,15 +1,26 @@
-Episódio 74: Python Brasil 12 - Parte 2
-#######################################
-:date: 2016-11-12
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3
-:tags: python brasil, python, turicas, serenata de amor, pybr12
-:description: Como prometido segue a continuação das entrevistas na Python Brasil 12
+---
+title: "Episódio 74: Python Brasil 12 - Parte 2"
+aliases:
+- /episodio-74-python-brasil-12-parte-2.html
+date: 2016-11-12
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3"
+tags:
+- python brasil
+- python
+- turicas
+- serenata de amor
+- pybr12
+description: Como prometido segue a continuação das entrevistas na Python Brasil 12
               com alguns integrantes do projeto Serenata de Amor, e também uma
               entrevista sobre um assunto bastante interessante com o Turicas.
-:image: images/pybr-logo.png
-:image-alt: Python Brasil
+image: /images/pybr-logo.png
+image-alt: Python Brasil
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -28,7 +39,7 @@ O pessoal da `Operação Serenata de Amor`_ nos contou um pouco sobre a proposta
 
     <div class="clearfix"></div>
 
-.. figure:: {static}/images/pybr12-serenata-de-amor.jpg
+.. figure:: /images/pybr12-serenata-de-amor.jpg
    :alt: Elyézer e Bruno Rocha entrevistando a equipe da Operação Serenata de Amor
    :figclass: clear clearfix center-block
 
@@ -37,7 +48,7 @@ O pessoal da `Operação Serenata de Amor`_ nos contou um pouco sobre a proposta
 Em seguida falamos com o `Turicas`_ (também conhecido como Álvaro Justen) que nos falou
 sobre o projeto que ele apresentou em sua palestra na conferência que é a biblioteca `rows`_ que é bastante útil para tratamento de informações tabulares como arquivos csv, tabelas HTML e também planilhas xls. Além disso ele nos contou sobre uma das novidades que ele trouxe para os corredores da Python Brasil e que chamou atenção de todo mundo durante o evento!
 
-.. figure:: {static}/images/pybr12-turicas.jpg
+.. figure:: /images/pybr12-turicas.jpg
    :alt: Bruno Rocha e Elyézer Rezende entrevistando Álvaro Justen, o Turicas.
    :figclass: center-block
 
@@ -82,7 +93,7 @@ Contato Turicas (Álvaro Justen)
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-74
+{{< podcast castalio-podcast-74 >}}
 
 Top 1 Felipe Linhares
 ---------------------
@@ -119,7 +130,7 @@ Links
 * `rows`_
 * `turicas`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

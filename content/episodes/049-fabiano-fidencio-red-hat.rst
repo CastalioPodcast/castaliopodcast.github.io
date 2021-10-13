@@ -1,12 +1,23 @@
-Fabiano Fidêncio: Red Hat
-#########################
-:date: 2013-01-21 02:04
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3
-:tags: gnome, gnome boxes, google summer of code, libosinfo, profusion, red hat, red hat linux
-:image: images/fabianofidencio.jpg
-:image-alt: Fabiano Fidêncio: Red Hat
+---
+title: "Fabiano Fidêncio: Red Hat"
+aliases:
+- /fabiano-fidencio-red-hat.html
+date: "2013-01-21T02:04:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3"
+tags:
+- gnome
+- gnome boxes
+- google summer of code
+- libosinfo
+- profusion
+- red hat
+- red hat linux
+image: /images/fabianofidencio.jpg
+image-alt: "Fabiano Fidêncio: Red Hat"
+---
 
 Para o primeiro episódio de 2013 eu tive o prazer de entrevistar o **Fabiano
 Fidêncio**, recém contratado pela **Red Hat**! Durante nosso bate-papo
@@ -31,7 +42,7 @@ preparando para se mudar para a europa!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-49
+{{< podcast castalio-podcast-49 >}}
 
 Contato
 -------
@@ -40,27 +51,27 @@ Contato
 -  `Facebook`_
 -  `Twitter`_
 
-.. top5::
-
-    :music:
-        * Tim Maia
-        * Criolo
-        * Arnaldo Baptista
-        * Os Mutantes
-        * Taquinho Noronha
-        * The Name
-        * Club America
-        * Schoolbell
-        * Bonde do Rolê
-        * Pink Floyd
-        * Led Zeppelin
-        * Pantera
-        * Miles Davis
-    :movie:
-        * House M.D.
-        * Dexter
-        * El Chavo
-        * Quentin Tarantino
+{{< top5 >}}
+music:
+    * Tim Maia
+    * Criolo
+    * Arnaldo Baptista
+    * Os Mutantes
+    * Taquinho Noronha
+    * The Name
+    * Club America
+    * Schoolbell
+    * Bonde do Rolê
+    * Pink Floyd
+    * Led Zeppelin
+    * Pantera
+    * Miles Davis
+movie:
+    * House M.D.
+    * Dexter
+    * El Chavo
+    * Quentin Tarantino
+{{< /top5 >}}
 
 Links
 -----
@@ -85,7 +96,7 @@ Links
 -  `Brno`_
 -  `South by SouthWest`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

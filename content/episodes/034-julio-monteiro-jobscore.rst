@@ -1,12 +1,72 @@
-Júlio Monteiro: JobScore
-########################
-:date: 2012-04-15 20:40
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-34/castalio-podcast-34.mp3
-:tags: blink, cadê?, companhia startup, continuous integration, daft punk, daniel h.  pink, django, drive, fábio kung, fisl 2004, flipboard, four tet, game of thrones, github, github drinkup, gotan project, hacker news, hayao miyazaki, henrique bastos, heroku, howl's moving castle, html, instapaper, ipad, javascript, júlio monteiro, job board, jobscore, justice, kraftwerk, linux, malcolm gladwell, mato grosso, meetups, mongodb, outliers, pat metheny group, pedro belo, penguin cafe orchestra, professor marco andré, programação php, programação python, programação ruby, qa, rails br, royksopp, ruby on rails, symphony, tanghetto, the big bang theory, the it crowd, the tipping poing, turbogears, ubuntu brasil, walking dead, windows
-:image: images/juliomonteiro.png
-:image-alt: Júlio Monteiro: JobScore
+---
+title: "Júlio Monteiro: JobScore"
+aliases:
+- /julio-monteiro-jobscore.html
+date: "2012-04-15T20:40:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-34/castalio-podcast-34.mp3"
+tags:
+- blink
+- cadê?
+- companhia startup
+- continuous integration
+- daft punk
+- daniel h.  pink
+- django
+- drive
+- fábio kung
+- fisl 2004
+- flipboard
+- four tet
+- game of thrones
+- github
+- github drinkup
+- gotan project
+- hacker news
+- hayao miyazaki
+- henrique bastos
+- heroku
+- howl's moving castle
+- html
+- instapaper
+- ipad
+- javascript
+- júlio monteiro
+- job board
+- jobscore
+- justice
+- kraftwerk
+- linux
+- malcolm gladwell
+- mato grosso
+- meetups
+- mongodb
+- outliers
+- pat metheny group
+- pedro belo
+- penguin cafe orchestra
+- professor marco andré
+- programação php
+- programação python
+- programação ruby
+- qa
+- rails br
+- royksopp
+- ruby on rails
+- symphony
+- tanghetto
+- the big bang theory
+- the it crowd
+- the tipping poing
+- turbogears
+- ubuntu brasil
+- walking dead
+- windows
+image: /images/juliomonteiro.png
+image-alt: "Júlio Monteiro: JobScore"
+---
 
 Depois de ter falado um pouco com pessoas que usam **Python** ou
 **Django** no seu dia-a-dia, eu decidi entrevistar alguém que trabalha
@@ -34,7 +94,7 @@ companhias por lá dão mais valor aos empregados, e o seu Top 5!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-34
+{{< podcast castalio-podcast-34 >}}
 
 Contato
 -------
@@ -57,33 +117,33 @@ Resumo
 -  **Top 5** 34:00
 -  **Conclusão** 42:10
 
-.. top5::
-
-    :music:
-        * Daft Punk
-        * Four Tet
-        * Justice
-        * Kraftwerk
-        * Pat Metheny Group
-        * Royksopp
-        * Penguin Cafe Orchestra
-        * Gotan Project
-        * Tanghetto
-    :podcast:
-        * Grok Podcast
-        * Nerdcast
-        * Escriba Café
-    :movie:
-        * Howl's Moving Castle
-        * Game of Thrones
-        * The Big Bang Theory
-        * The IT Crowd
-        * The Walking Dead
-    :book:
-        * The Tipping Poing
-        * Blink
-        * Outliers
-        * Drive
+{{< top5 >}}
+music:
+    * Daft Punk
+    * Four Tet
+    * Justice
+    * Kraftwerk
+    * Pat Metheny Group
+    * Royksopp
+    * Penguin Cafe Orchestra
+    * Gotan Project
+    * Tanghetto
+podcast:
+    * Grok Podcast
+    * Nerdcast
+    * Escriba Café
+movie:
+    * Howl's Moving Castle
+    * Game of Thrones
+    * The Big Bang Theory
+    * The IT Crowd
+    * The Walking Dead
+book:
+    * The Tipping Poing
+    * Blink
+    * Outliers
+    * Drive
+{{< /top5 >}}
 
 Links
 -----
@@ -122,7 +182,7 @@ Links
 -  `HackerNews`_
 -  `HackerNews Monthly`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

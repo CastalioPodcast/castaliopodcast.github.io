@@ -1,12 +1,52 @@
-Augusto Campos: BR-Linux, BR-Mac, Efetividade
-#############################################
-:date: 2011-10-02 16:43
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-18/castalio-podcast-18.mp3
-:tags: android, augusto campos, awk, bbedit, br-linux, br-mac, centos linux, cobol, ebook, efetividade, estrella roja, evandro pastor, ferris bueller's day off, flipboard, gtalk show, ipad, istoé, karlisson, kate, keith richards, kindle, livraria saraiva, lobão, mac os, marcelo tosatti, mysql, pascal, punk rock, ramones, red hat linux, scp, ssh, star trek, star wars, the clash, wordpress
-:image: images/augustocampos.jpg
-:image-alt: Augusto Campos: BR-Linux, BR-Mac, Efetividades
+---
+title: "Augusto Campos: BR-Linux, BR-Mac, Efetividade"
+aliases:
+- /augusto-campos-br-linux-br-mac-efetividade.html
+date: "2011-10-02T16:43:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-18/castalio-podcast-18.mp3"
+tags:
+- android
+- augusto campos
+- awk
+- bbedit
+- br-linux
+- br-mac
+- centos linux
+- cobol
+- ebook
+- efetividade
+- estrella roja
+- evandro pastor
+- ferris bueller's day off
+- flipboard
+- gtalk show
+- ipad
+- istoé
+- karlisson
+- kate
+- keith richards
+- kindle
+- livraria saraiva
+- lobão
+- mac os
+- marcelo tosatti
+- mysql
+- pascal
+- punk rock
+- ramones
+- red hat linux
+- scp
+- ssh
+- star trek
+- star wars
+- the clash
+- wordpress
+image: /images/augustocampos.jpg
+image-alt: "Augusto Campos: BR-Linux, BR-Mac, Efetividades"
+---
 
 Em um dia de muita chuva em Florianópolis, SC finalmente consegui bater um bom
 papo com o **Augusto Campos**, fundador dos super populares sites **BR-Linux**,
@@ -24,7 +64,7 @@ episódio?
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-18
+{{< podcast castalio-podcast-18 >}}
 
 Contato
 -------
@@ -52,20 +92,20 @@ Resumo
 -  **Top 5**:  24:19
 -  \*\*\*\*Conclusão\*\*\*\*:  32:16
 
-.. top5::
-
-    :music:
-        * The Clash
-        * Ramones
-    :book:
-        * Life
-        * 50 Anos a Mil
-    :movie:
-        * Star Wars
-        * Star Wars - The Empire Strikes Back
-        * Star Wars Episódio VI: O Retorno de Jedi
-        * Ferris Bueller's Day Off
-        * Star Trek
+{{< top5 >}}
+music:
+    * The Clash
+    * Ramones
+book:
+    * Life
+    * 50 Anos a Mil
+movie:
+    * Star Wars
+    * Star Wars - The Empire Strikes Back
+    * Star Wars Episódio VI: O Retorno de Jedi
+    * Ferris Bueller's Day Off
+    * Star Trek
+{{< /top5 >}}
 
 Links
 -----

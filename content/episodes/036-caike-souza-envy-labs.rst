@@ -1,12 +1,79 @@
-Caike Souza: Envy Labs
-######################
-:date: 2012-05-13 23:03
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-36/castalio-podcast-36.mp3
-:tags: activerecord, backbone, banco de dados, blink 182, breaking bad, caike souza, capitão américa, code school, code tv, coffee script, crash, css, envy labs, flórida, gold finger, gunslinger, henrique bastos, heroes will fall, horaextra, html 5, hulk, ibm, in flames, interfaces, javascript, jquery, livingsocial, massive attack, mötley crüe, metallica, nasa, netflix, new york times, node.js, orlando, pantera, pendulum, postal service, python, rails for zombies, rails testing for zombies, railsconf, railsconf 2012, ramones, rancid, responsive web, ruby, ruby for zombies, ruby on rails, screencast, sepultura, small acts manifesto, speaker deck, swarm inteligence, tá safo conf 2012, the avengers, thor, topworks, tryruby.org, united states of terror, weeds, welcome to the django, wordpress
-:image: images/caikesouza.jpg
-:image-alt: Caike Souza: Envy Labs
+---
+title: "Caike Souza: Envy Labs"
+aliases:
+- /caike-souza-envy-labs.html
+date: "2012-05-13T23:03:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-36/castalio-podcast-36.mp3"
+tags:
+- activerecord
+- backbone
+- banco de dados
+- blink 182
+- breaking bad
+- caike souza
+- capitão américa
+- code school
+- code tv
+- coffee script
+- crash
+- css
+- envy labs
+- flórida
+- gold finger
+- gunslinger
+- henrique bastos
+- heroes will fall
+- horaextra
+- html 5
+- hulk
+- ibm
+- in flames
+- interfaces
+- javascript
+- jquery
+- livingsocial
+- massive attack
+- mötley crüe
+- metallica
+- nasa
+- netflix
+- new york times
+- node.js
+- orlando
+- pantera
+- pendulum
+- postal service
+- python
+- rails for zombies
+- rails testing for zombies
+- railsconf
+- railsconf 2012
+- ramones
+- rancid
+- responsive web
+- ruby
+- ruby for zombies
+- ruby on rails
+- screencast
+- sepultura
+- small acts manifesto
+- speaker deck
+- swarm inteligence
+- tá safo conf 2012
+- the avengers
+- thor
+- topworks
+- tryruby.org
+- united states of terror
+- weeds
+- welcome to the django
+- wordpress
+image: /images/caikesouza.jpg
+image-alt: "Caike Souza: Envy Labs"
+---
 
 Nem parece que já passaram duas semanas desde o último episódio, mas mais uma
 vez tive o prazer de entrevistar uma pessoa prá lá de interessante e divertida:
@@ -39,7 +106,7 @@ mais sobre esta pessoa super interessante que é o Caike!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-36
+{{< podcast castalio-podcast-36 >}}
 
 Contato
 -------
@@ -69,41 +136,41 @@ Resumo
 -  **Small Acts Manifesto** 38:20
 -  **Conclusão** 41:42
 
-.. top5::
-
-    :music:
-        * In Flames
-        * Metallica
-        * Pantera
-        * Sepultura
-        * Pendulum
-        * Massive Attack
-        * The Postal Service
-        * blink-182
-        * Gold Finger
-        * Rancid
-    :movie:
-        * Crash
-        * The Avengers
-        * Breaking Bad
-        * United States of Tara
-    :book:
-        * The Gunslinger
-        * Ramones: An American Band
-        * Relentless - Thirty Years of Sepultura
-        * Mötley Crüe: A Visual History, 1983-2005
-    :twitter:
-        * @henriquebastos
-        * @rafaelp
-        * @ramonpage
-        * @smergulhao
-        * @tapajos
-        * @viniciusteles
-        * @pellegrino
-        * @alegomes
-        * @avdi
-        * @envylabs
-        * @codeschool
+{{< top5 >}}
+music:
+    * In Flames
+    * Metallica
+    * Pantera
+    * Sepultura
+    * Pendulum
+    * Massive Attack
+    * The Postal Service
+    * blink-182
+    * Gold Finger
+    * Rancid
+movie:
+    * Crash
+    * The Avengers
+    * Breaking Bad
+    * United States of Tara
+book:
+    * The Gunslinger
+    * Ramones: An American Band
+    * Relentless - Thirty Years of Sepultura
+    * Mötley Crüe: A Visual History, 1983-2005
+twitter:
+    * @henriquebastos
+    * @rafaelp
+    * @ramonpage
+    * @smergulhao
+    * @tapajos
+    * @viniciusteles
+    * @pellegrino
+    * @alegomes
+    * @avdi
+    * @envylabs
+    * @codeschool
+{{< /top5 >}}
 
 Links
 -----
@@ -148,7 +215,7 @@ Links
 -  `Swarm Inteligence`_
 -  `Small Acts Manifesto`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

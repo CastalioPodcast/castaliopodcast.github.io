@@ -1,12 +1,67 @@
-Felipe Borges: Google Summer of Code
-####################################
-:date: 2012-08-19 22:49
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3
-:tags: a coruña, amazon, batalha do apocalipse, biblioteca libevince, big bang theory, bob marley, bugzilla, cavalera conspiracy, chavez, cidade do sol, cosimo cecchi, criolo, design for hackers, djavan fagundes, eduardo galeano, eduardo spohr, euclydes da cunha, evince, felipe borges, fisl, formato epub, formato mobi, fundação gnome, fundação mozilla, gio, github, glib, gnome documents, google summer of code, guadec, homeland, immortal technique, itunes, javascript, khaled hossein, lowkey, microsoft skydrive, nokia, os sertões, pablo neruda, planet gnome, prison break, programação em c, programação em python, projeto gnome, red hat, sepultura, the it crowd, tracker, universidade federal de pelotas, walt disney
-:image: images/felipeborges.jpeg
-:image-alt: Felipe Borges
+---
+title: "Felipe Borges: Google Summer of Code"
+aliases:
+- /felipe-borges-google-summer-of-code.html
+date: "2012-08-19T22:49:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3"
+tags:
+- a coruña
+- amazon
+- batalha do apocalipse
+- biblioteca libevince
+- big bang theory
+- bob marley
+- bugzilla
+- cavalera conspiracy
+- chavez
+- cidade do sol
+- cosimo cecchi
+- criolo
+- design for hackers
+- djavan fagundes
+- eduardo galeano
+- eduardo spohr
+- euclydes da cunha
+- evince
+- felipe borges
+- fisl
+- formato epub
+- formato mobi
+- fundação gnome
+- fundação mozilla
+- gio
+- github
+- glib
+- gnome documents
+- google summer of code
+- guadec
+- homeland
+- immortal technique
+- itunes
+- javascript
+- khaled hossein
+- lowkey
+- microsoft skydrive
+- nokia
+- os sertões
+- pablo neruda
+- planet gnome
+- prison break
+- programação em c
+- programação em python
+- projeto gnome
+- red hat
+- sepultura
+- the it crowd
+- tracker
+- universidade federal de pelotas
+- walt disney
+image: /images/felipeborges.jpeg
+image-alt: Felipe Borges
+---
 
 Finalzinho do verão americano e no ar já se sente um pouco a vinda do outono
 e a volta às aulas. Nada melhor então que bater um papo com o **Felipe Borges**
@@ -35,7 +90,7 @@ assistir a entrevista, veja este `vídeo`_.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-43
+{{< podcast castalio-podcast-43 >}}
 
 Contato
 -------
@@ -62,30 +117,30 @@ Resumo
 -  **Top 5** 28:23
 -  **Conclusão** 43:27
 
-.. top5::
-
-    :music:
-        * Immortal Technique
-        * Criolo
-        * Bob Marley
-        * Cavalera Conspiracy
-        * Lowkey
-    :movie:
-        * Prison Break
-        * The Big Bang Theory
-        * The IT Crowd
-        * Chaves
-        * Homeland
-    :book:
-        * Pablo Neruda
-        * A Cidade do Sol
-        * Khaled Hosseini
-        * Os Sertões
-        * Euclides da Cunha
-        * A Batalha do Apocalipse
-        * Eduardo Spohr
-        * Design for Hackers
-        * Eduardo Galeano
+{{< top5 >}}
+music:
+    * Immortal Technique
+    * Criolo
+    * Bob Marley
+    * Cavalera Conspiracy
+    * Lowkey
+movie:
+    * Prison Break
+    * The Big Bang Theory
+    * The IT Crowd
+    * Chaves
+    * Homeland
+book:
+    * Pablo Neruda
+    * A Cidade do Sol
+    * Khaled Hosseini
+    * Os Sertões
+    * Euclides da Cunha
+    * A Batalha do Apocalipse
+    * Eduardo Spohr
+    * Design for Hackers
+    * Eduardo Galeano
+{{< /top5 >}}
 
 Links
 -----
@@ -119,7 +174,7 @@ Links
 -  `Djavan Fagundes`_
 -  `iTunes`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

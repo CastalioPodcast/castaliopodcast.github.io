@@ -1,17 +1,29 @@
-Episódio 88: Episódio Especial de 6 Anos
-########################################
-:date: 2017-02-20
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-88/castalio-podcast-88.mp3
-:tags: castalio, aniversario, og maciel, bruno rocha, elyezer rezende, top 5
-:description: Hoje, trazemos um episodio muito especial, no dia 16 de fevereiro
+---
+title: "Episódio 88: Episódio Especial de 6 Anos"
+aliases:
+- /episodio-88-episodio-especial-de-6-anos.html
+date: 2017-02-20
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-88/castalio-podcast-88.mp3"
+tags:
+- castalio
+- aniversario
+- og maciel
+- bruno rocha
+- elyezer rezende
+- top 5
+description: Hoje, trazemos um episodio muito especial, no dia 16 de fevereiro
               de 2017 o Castálio Podcast completou 6 anos. Não poderíamos
               deixar essa data importante passar em branco e por isso decidimos
               fazer um episodio comemorativo com a participação dos nossos
               ouvintes.
-:image: images/castalio-6-anos.png
-:image-alt: 6 anos de Castálio Podcast e contando...
+image: /images/castalio-6-anos.png
+image-alt: 6 anos de Castálio Podcast e contando...
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -26,7 +38,7 @@ spoiler: respondemos todas elas.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-88
+{{< podcast castalio-podcast-88 >}}
 
 .. raw:: html
 
@@ -98,109 +110,109 @@ Como o Castálio não seria o Castálio se não fosse pelo Top 5, não poderíam
 deixar ele de lado. Aliás, podemos considerar que foi um Top 15, já que o Bruno
 Rocha, o Elyézer Rezende e o Og Maciel fizeram seu Top 5.
 
-.. top5:: Top 5 Bruno Rocha
-
-    :book:
-        * De Alma para Alma
-        * O Triste Fim de Policarpo Quaresma
-        * The Paradox of Choice
-        * A Politica Sexual Da Carne
-        * Programming in Lua
-        * Python Essential Reference
-    :music:
-        * Anathema
-        * Jethro Tull
-        * Black Sabbath
-        * Kreator
-        * Nicola Arigliano
-    :movie:
-        * O Poderoso Chefão
-        * Scarface
-        * Cinema Paradiso
-        * The Office
-        * Derek
-        * Charlie Chaplin - O Grande Ditador
-
-
-.. top5:: Top 5 Elyézer Rezende
-
-    :book:
-        * O Monge e o Executivo
-        * O Conselheiro
-        * Dive into Python
-        * Aprendendo Python
-        * Practical Vim
-        * Python Fluente
-        * Expressões Regulares
-    :music:
-        * Linkin Park
-        * Fort Minor
-        * Hardwell
-        * Nicky Romero
-        * W&W
-        * Queen
-        * Scorpions
-        * Michael Jackson
-        * 2Cellos
-    :movie:
-        * The Avengers
-        * A Espera de um Milagre
-        * A Onda
-        * O Menino do Pijama Listrado
-        * The Matrix
-        * Batman
-        * Vikings
-        * The Flash
-        * Arrow
-        * Luke Cage
-        * Demolidor
-        * Van Helsing
-        * Dragon Ball Z
-        * Os Cavaleiros do Zodíaco
-        * Charlie Chaplin - Tempos Modernos
+{{< top5 "Top 5 Bruno Rocha" >}}
+book:
+    * De Alma para Alma
+    * O Triste Fim de Policarpo Quaresma
+    * The Paradox of Choice
+    * A Politica Sexual Da Carne
+    * Programming in Lua
+    * Python Essential Reference
+music:
+    * Anathema
+    * Jethro Tull
+    * Black Sabbath
+    * Kreator
+    * Nicola Arigliano
+movie:
+    * O Poderoso Chefão
+    * Scarface
+    * Cinema Paradiso
+    * The Office
+    * Derek
+    * Charlie Chaplin - O Grande Ditador
+{{< /top5 >}}
 
 
-.. top5:: Top 5 Og Maciel
+{{< top5 "Top 5 Elyézer Rezende" >}}
+book:
+    * O Monge e o Executivo
+    * O Conselheiro
+    * Dive into Python
+    * Aprendendo Python
+    * Practical Vim
+    * Python Fluente
+    * Expressões Regulares
+music:
+    * Linkin Park
+    * Fort Minor
+    * Hardwell
+    * Nicky Romero
+    * W&W
+    * Queen
+    * Scorpions
+    * Michael Jackson
+    * 2Cellos
+movie:
+    * The Avengers
+    * A Espera de um Milagre
+    * A Onda
+    * O Menino do Pijama Listrado
+    * The Matrix
+    * Batman
+    * Vikings
+    * The Flash
+    * Arrow
+    * Luke Cage
+    * Demolidor
+    * Van Helsing
+    * Dragon Ball Z
+    * Os Cavaleiros do Zodíaco
+    * Charlie Chaplin - Tempos Modernos
+{{< /top5 >}}
 
-    :book:
-        * Os Meninos da Rua Paulo
-        * Dandelion Wine
-        * As Vinhas da Ira
-        * Dom Casmurro
-        * Capitães da Areia
-        * Maria José Dupré
-        * Monteiro Lobato
-        * Série Vaga-lume
-        * Série Vaga-lume
-        * Turma da Mônica
-        * Tio Patinhas
-        * Tex
-        * Ken Parker
-        * Zagor
-        * Jules Verne
-        * Isaac Asimov
-    :music:
-        * Legião Urbana
-        * Dire Straits
-        * Engenheiros do Hawaii
-        * Os Paralamas do Sucesso
-        * Pink Floyd
-        * Led Zeppelin
-        * Nirvana
-        * Ella Fitzgerald
-        * Etta James
-    :movie:
-        * Blade Runner
-        * Pulp Fiction
-        * Snatch
-        * The Big Lebowski
-        * O Brother, Where Art Thou?
-        * The Good, The Bad and The Ugly
-        * Beau Geste
-        * Caverna do Dragão
-        * Sessão da Tarde
-        * Sítio do Pica-Pau Amarelo
-        * Os Trapalhões
+
+{{< top5 "Top 5 Og Maciel" >}}
+book:
+    * Os Meninos da Rua Paulo
+    * Dandelion Wine
+    * As Vinhas da Ira
+    * Dom Casmurro
+    * Capitães da Areia
+    * Maria José Dupré
+    * Monteiro Lobato
+    * Série Vaga-lume
+    * Série Vaga-lume
+    * Turma da Mônica
+    * Tio Patinhas
+    * Tex
+    * Ken Parker
+    * Zagor
+    * Jules Verne
+    * Isaac Asimov
+music:
+    * Legião Urbana
+    * Dire Straits
+    * Engenheiros do Hawaii
+    * Os Paralamas do Sucesso
+    * Pink Floyd
+    * Led Zeppelin
+    * Nirvana
+    * Ella Fitzgerald
+    * Etta James
+movie:
+    * Blade Runner
+    * Pulp Fiction
+    * Snatch
+    * The Big Lebowski
+    * O Brother, Where Art Thou?
+    * The Good, The Bad and The Ugly
+    * Beau Geste
+    * Caverna do Dragão
+    * Sessão da Tarde
+    * Sítio do Pica-Pau Amarelo
+    * Os Trapalhões
+{{< /top5 >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que de
 alguma forma fizeram parte do Castálio Podcast nesses 6 anos. Não deixe de
@@ -214,9 +226,9 @@ Que venham muito mais anos, até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-88
+{{< podcast castalio-podcast-88 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

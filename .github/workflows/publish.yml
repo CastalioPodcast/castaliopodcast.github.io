@@ -16,11 +16,6 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Install language-pack-pt
-        run: |
-          sudo apt-get update
-          sudo apt-get install language-pack-pt
-
       - name: Set up Python 3.6
         uses: actions/setup-python@v2
         with:
@@ -31,12 +26,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
       - name: Build
-        run: make publish
+        run: hugo --minify
 
       - name: Publish
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
+          publish_dir: ./public

@@ -1,17 +1,27 @@
-Episódio 67: Aurelio Jargas - Conectiva e Livros
-################################################
-:date: 2015-09-05
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-67/castalio-podcast-67.mp3
-:tags: aurelio jargas, conectiva, fotógrafo de surfe, expressões regulares, shell script
-:description: Hoje, conversamos com o Aurelio Jargas. Ele nos conta como foi as
+---
+title: "Episódio 67: Aurelio Jargas - Conectiva e Livros"
+aliases:
+- /episodio-67-aurelio-jargas-conectiva-e-livros.html
+date: 2015-09-05
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-67/castalio-podcast-67.mp3"
+tags:
+- aurelio jargas
+- conectiva
+- fotógrafo de surfe
+- expressões regulares
+- shell script
+description: Hoje, conversamos com o Aurelio Jargas. Ele nos conta como foi as
               diversas fases de sua vida profissional, começando pela
               Conectiva, passando um tempo "desempregado" e como iniciou sua
               carreira como escritor. Foi uma conversa muito interessante e
               divertida.
-:image: images/aureliojargas.jpg
-:image-alt: Aurelio Jargas - Conectiva e Livros
+image: /images/aureliojargas.jpg
+image-alt: Aurelio Jargas - Conectiva e Livros
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -50,7 +60,7 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-67
+{{< podcast castalio-podcast-67 >}}
 
 Links
 -----
@@ -61,7 +71,7 @@ Links
 * `Expressões Regulares – Guia de Consulta Rápida`_ (agora faz parte do livro
   de expressões regulares. Acesse o `Guia de Consulta Rápida`)
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

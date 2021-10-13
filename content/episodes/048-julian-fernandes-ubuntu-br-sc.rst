@@ -1,12 +1,17 @@
-Julian Fernandes: Ubuntu BR SC
-##############################
-:date: 2012-12-03 14:21
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3
-:tags: ubuntu br sc
-:image: images/julianfernandes.png
-:image-alt: Julian Fernandes: Ubuntu BR SC
+---
+title: "Julian Fernandes: Ubuntu BR SC"
+aliases:
+- /julian-fernandes-ubuntu-br-sc.html
+date: "2012-12-03T14:21:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3"
+tags:
+- ubuntu br sc
+image: /images/julianfernandes.png
+image-alt: "Julian Fernandes: Ubuntu BR SC"
+---
 
 Demorou mais chegou!!! Devido a `problemas pessoais`_ eu infelizmente fiquei
 um pouco sem tempo para agendar as minhas entrevistas, mas te garanto que foi
@@ -45,7 +50,7 @@ a web cam, vocês só vão me ver (e minha barba de 1 mês) :)
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-48
+{{< podcast castalio-podcast-48 >}}
 
 Contato
 -------
@@ -55,7 +60,7 @@ Contato
 -  **Facebook**:  https://www.facebook.com/pages/Julian-Fernandes/514117681932235
 -  **Google Plus**:  https://plus.google.com/103732078940971226082
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

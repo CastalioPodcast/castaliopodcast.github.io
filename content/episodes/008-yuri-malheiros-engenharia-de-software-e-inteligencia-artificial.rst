@@ -1,11 +1,15 @@
-Yuri Malheiros - Engenharia de Software e Inteligência Artificial
-#################################################################
-:date: 2011-05-30 01:48
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-08/castalio-podcast-08.mp3
-:image: images/yurimalheiros.jpg
-:image-alt: Yuri Malheiros - Engenharia de Software e Inteligência Artificial
+---
+title: "Yuri Malheiros - Engenharia de Software e Inteligência Artificial"
+aliases:
+- /yuri-malheiros-engenharia-de-software-e-inteligencia-artificial.html
+date: "2011-05-30T01:48:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-08/castalio-podcast-08.mp3"
+image: /images/yurimalheiros.jpg
+image-alt: Yuri Malheiros - Engenharia de Software e Inteligência Artificial
+---
 
 Desta vez o convidado deste episódio não é de Belo Horizonte! :) Durante
 uma quinta-feira nublada em North Carolina, tive uma chance de conversar
@@ -16,24 +20,24 @@ vários projetos feitos com software livre.
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-08
+{{< podcast castalio-podcast-08 >}}
 
 Contato
 -------
 -  **Blog**: http://yurimalheiros.com/
 -  **Twitter**: http://twitter.com/yurimalheiros
 
-.. top5::
-
-    :music:
-        * blink-182
-        * Radiohead
-        * NOFX
-        * Avenged Sevenfold
-    :movie:
-        * Os Cavaleiros do Zodíaco
-    :book:
-        * Isaac Asimov
+{{< top5 >}}
+music:
+    * blink-182
+    * Radiohead
+    * NOFX
+    * Avenged Sevenfold
+movie:
+    * Os Cavaleiros do Zodíaco
+book:
+    * Isaac Asimov
+{{< /top5 >}}
 
 Links
 -----

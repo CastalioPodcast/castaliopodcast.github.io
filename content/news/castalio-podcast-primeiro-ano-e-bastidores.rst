@@ -1,11 +1,14 @@
-Castálio Podcast: Primeiro Ano e Bastidores
-###########################################
-:date: 2012-02-16 04:07
-:author: Og Maciel
-:category: Notícia
-:tags: aniversário, bastidores
-:image: http://farm8.staticflickr.com/7014/6768863505_0bf59f76a3_m_d.jpg
-:image-alt: Happy Birthday
+---
+title: "Castálio Podcast: Primeiro Ano e Bastidores"
+date: "2012-02-16T04:07:00"
+author: Og Maciel
+category: Notícia
+tags:
+- aniversário
+- bastidores
+image: http://farm8.staticflickr.com/7014/6768863505_0bf59f76a3_m_d.jpg
+image-alt: Happy Birthday
+---
 
 No dia 16 de fevereiro de 2011, de forma simples e despretenciosa, foi
 publicado o primeiro episódio do `Castálio Podcast`_! Veterano de alguns

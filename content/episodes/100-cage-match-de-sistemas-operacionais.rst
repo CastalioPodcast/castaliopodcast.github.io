@@ -1,13 +1,33 @@
-Episódio 100: Cage Match de Sistemas Operacionais
-#################################################
-:date: 2017-05-15
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-100/castalio-podcast-100.mp3
-:tags: sistemas operacionais, linux, mac os, windows, dev na estrada, hack 'n'
-       cast, mayogax, priscila mayumi, fellipe azambuja, ramon sanches, ricardo
-       highlander, mesa redonda, cage match, sysadmin, hacker, maker, iot
-:description: Hoje, comemoramos 100 episódios do Castálio Podcast com um
+---
+title: "Episódio 100: Cage Match de Sistemas Operacionais"
+aliases:
+- /episodio-100-cage-match-de-sistemas-operacionais.html
+date: 2017-05-15
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-100/castalio-podcast-100.mp3"
+tags:
+- sistemas operacionais
+- linux
+- mac os
+- windows
+- dev na estrada
+- hack 'n' cast
+- mayogax
+- priscila mayumi
+- fellipe azambuja
+- ramon sanches
+- ricardo highlander
+- mesa redonda
+- cage match
+- sysadmin
+- hacker
+- maker
+- iot
+description: Hoje, comemoramos 100 episódios do Castálio Podcast com um
               episódio bastante especial. Gravamos ao vivo pelo `Canal do
               YouTube do Castálio Podcast`_ (claro que você já assinou né?) um
               Cage Match ou uma mesa redonda onde colocamos a prova Windows,
@@ -21,8 +41,9 @@ Episódio 100: Cage Match de Sistemas Operacionais
               formulário que publicamos durante a gravação. Venha celebrar
               conosco esse marco tão importante e especial para o Castálio
               Podcast, que venham muito mais 100 episódios.
-:image: images/episodio-100.jpg
-:image-alt: Cage Match de Sistemas Operacionais
+image: /images/episodio-100.jpg
+image-alt: Cage Match de Sistemas Operacionais
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -39,7 +60,7 @@ achou deste episódio e dos outros que já ouviu até agora.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-100
+{{< podcast castalio-podcast-100 >}}
 
 .. raw:: html
 
@@ -147,12 +168,12 @@ convidamos você para segui-los nas redes sociais e conferir seus trabalhos:
 
 Assista a gravação do episódio:
 
-.. youtube:: 8n1QB_FPxjE
+{{< youtube 8n1QB_FPxjE >}}
 
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-100
+{{< podcast castalio-podcast-100 >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -165,7 +186,7 @@ assinar nosso `Canal do YouTube`_.
 Até o próximo episódio!
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,26 +1,74 @@
-Episódio 109: Jeferson Noronha - Canal LinuxTips
-################################################
-:date: 2017-07-17
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-109/castalio-podcast-109.mp3
-:tags: jeferson noronha, linuxtips, devops, descomplicando o docker, semana
-       devops, lpi, cerveja, ratos de porão, muqueca de rato, the xx, the xx -
-       intro, rincon sapiência, mr. robot, stranger things, a espera de um
-       milagre, scarface, o poderoso chefão, os guardiões da galáxia, house of
-       cards, sapiens, the phoenix project, adobe premiere, tubebyddy, codeops,
-       cfengine, ruby, git, gitlab, chef, rundeck, puppet, python, jenkins,
-       ansible, go, gocd, consul, docker, docker swarm, kubernetes, openshift,
-       powershell, slack, microservices, continuous integration, continuous
-       delivery, docker compose, trillium brewing, osprogramadores, tdc, python
-       brasil
-:description: Hoje nosso convidado está por trás do `Canal LinuxTips`_ no
+---
+title: "Episódio 109: Jeferson Noronha - Canal LinuxTips"
+aliases:
+- /episodio-109-jeferson-noronha-canal-linuxtips.html
+date: 2017-07-17
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-109/castalio-podcast-109.mp3"
+tags:
+- jeferson noronha
+- linuxtips
+- devops
+- descomplicando o docker
+- semana devops
+- lpi
+- cerveja
+- ratos de porão
+- muqueca de rato
+- the xx
+- the xx - intro
+- rincon sapiência
+- mr. robot
+- stranger things
+- a espera de um milagre
+- scarface
+- o poderoso chefão
+- os guardiões da galáxia
+- house of cards
+- sapiens
+- the phoenix project
+- adobe premiere
+- tubebyddy
+- codeops
+- cfengine
+- ruby
+- git
+- gitlab
+- chef
+- rundeck
+- puppet
+- python
+- jenkins
+- ansible
+- go
+- gocd
+- consul
+- docker
+- docker swarm
+- kubernetes
+- openshift
+- powershell
+- slack
+- microservices
+- continuous integration
+- continuous delivery
+- docker compose
+- trillium brewing
+- osprogramadores
+- tdc
+- python brasil
+description: Hoje nosso convidado está por trás do `Canal LinuxTips`_ no
               Youtube, é especialista em DevOps, autor do livro `Descomplicando
               o Docker`_ e, assim como o Elyézer, um grande apreciador de
               cervejas.  É com grande prazer que nós recebemos nosso convidado,
               Jeferson Noronha.
-:image: images/jeferson-noronha.jpg
-:image-alt: Jeferson Noronha
+image: /images/jeferson-noronha.jpg
+image-alt: Jeferson Noronha
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -66,7 +114,7 @@ Abordamos os seguintes tópicos:
 
 Confira a gravação deste episódio no vídeo abaixo:
 
-.. youtube:: 6eETLbi9gKQ
+{{< youtube 6eETLbi9gKQ >}}
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
@@ -88,13 +136,13 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/jeferson-noronha.jpg" alt="Jeferson Noronha" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/jeferson-noronha.jpg" alt="Jeferson Noronha" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Jeferson Noronha</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/linuxtips">YouTube - Canal LinuxTips</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/badtux_">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/linuxtips">YouTube - Canal LinuxTips</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/badtux_">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -105,27 +153,27 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-109
+{{< podcast castalio-podcast-109 >}}
 
 
-.. top5::
-
-    :music:
-        * Ratos De Porão
-        * Muqueca de Rato
-        * The xx - Intro
-        * Rincon Sapiência
-    :movie:
-        * Mr. Robot
-        * Stranger Things
-        * A Espera de um Milagre
-        * Scarface
-        * O Poderoso Chefão
-        * Os Guardiões da Galáxia
-        * House of cards
-    :book:
-        * Sapiens
-        * The Phoenix Project
+{{< top5 >}}
+music:
+    * Ratos De Porão
+    * Muqueca de Rato
+    * The xx - Intro
+    * Rincon Sapiência
+movie:
+    * Mr. Robot
+    * Stranger Things
+    * A Espera de um Milagre
+    * Scarface
+    * O Poderoso Chefão
+    * Os Guardiões da Galáxia
+    * House of cards
+book:
+    * Sapiens
+    * The Phoenix Project
+{{< /top5 >}}
 
 
 Links
@@ -169,7 +217,7 @@ Links
 * `TDC (The Developer's Conference)`_
 * `Python Brasil 2017`_
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

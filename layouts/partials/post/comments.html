@@ -1,0 +1,7 @@
+{{- if and (default true .Site.Params.comment) (default true .Params.comment) -}}
+<div class="post-comments card row component">
+  <div class="card-body">
+    {{- template "_internal/disqus.html" . -}}
+  </div>
+</div>
+{{- end -}}

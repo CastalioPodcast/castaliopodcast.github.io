@@ -1,11 +1,15 @@
-Alexandre Coster: Asobo Studio
-##############################
-:date: 2011-11-14 02:33
-:author: Og Maciel
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-22/castalio-podcast-22.mp3
-:image: images/alexandrecoster.jpg
-:image-alt: Alexandre Coster - Asobo Studio
+---
+title: "Alexandre Coster: Asobo Studio"
+aliases:
+- /alexandre-coster-asobo-studio.html
+date: "2011-11-14T02:33:00"
+authors:
+- Og Maciel
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-22/castalio-podcast-22.mp3"
+image: /images/alexandrecoster.jpg
+image-alt: Alexandre Coster - Asobo Studio
+---
 
 No episódio de hoje conversei com o **Alexandre Coster**, um \ **Game
 Programmer** trabalhando para a **Asobo Studio** em **Bordeaux**, na
@@ -20,7 +24,7 @@ muito mais!
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-22
+{{< podcast castalio-podcast-22 >}}
 
 Contato
 -------
@@ -52,29 +56,29 @@ Resumo
 -  **Conclusão** 01:06:00
 
 
-.. top5::
-
-    :music:
-        * Jethro Tull
-        * Pink Floyd
-        * Queens of the Stone Age
-        * Ween
-        * Júpiter Maçã
-        * Os Paralamas do Sucesso
-        * Engenheiros do Hawaii
-    :movie:
-        * The Pacific
-        * Monty Python's Flying Circus
-        * Snatch
-        * Pulp Fiction
-        * Inglourious Basterds
-        * Futurama
-        * Life on Mars
-    :game:
-        * Portal 2
-        * Half-Life 2
-        * Scribblenauts
-        * Just Cause 2
+{{< top5 >}}
+music:
+    * Jethro Tull
+    * Pink Floyd
+    * Queens of the Stone Age
+    * Ween
+    * Júpiter Maçã
+    * Os Paralamas do Sucesso
+    * Engenheiros do Hawaii
+movie:
+    * The Pacific
+    * Monty Python's Flying Circus
+    * Snatch
+    * Pulp Fiction
+    * Inglourious Basterds
+    * Futurama
+    * Life on Mars
+game:
+    * Portal 2
+    * Half-Life 2
+    * Scribblenauts
+    * Just Cause 2
+{{< /top5 >}}
 
 Links
 -----

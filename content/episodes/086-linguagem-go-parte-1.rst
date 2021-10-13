@@ -1,17 +1,27 @@
-Episódio 86: Linguagem de Programação Go - Parte 1
-##################################################
-:date: 2017-02-06
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-86/castalio-podcast-86.mp3
-:tags: go, linguagem de programação, thiago avelino, cesar gimenes
-:description: Hoje, trazemos um episódio num formato novo, vamos bater um papo
+---
+title: "Episódio 86: Linguagem de Programação Go - Parte 1"
+aliases:
+- /episodio-86-linguagem-de-programacao-go-parte-1.html
+date: 2017-02-06
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-86/castalio-podcast-86.mp3"
+tags:
+- go
+- linguagem de programação
+- thiago avelino
+- cesar gimenes
+description: Hoje, trazemos um episódio num formato novo, vamos bater um papo
               sobre um assunto específico e conhecer mais sobre ele. O assunto
               escolhido para esse episódio é a linguagem de programação Go, e
               para tornar a conversa ainda mais interessante, teremos dois
               convidados o Thiago Avelino e o Cesar Gimenes.
-:image: images/go-lang.png
-:image-alt: Go Lang
+image: /images/go-lang.png
+image-alt: Go Lang
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -25,7 +35,7 @@ algumas dúvidas e falando mais sobre ele.
 Escute enquanto lê os show notes
 --------------------------------
 
-.. podcast:: castalio-podcast-86
+{{< podcast castalio-podcast-86 >}}
 
 .. raw:: html
 
@@ -99,9 +109,9 @@ Até o próximo episódio.
 Ainda não ouviu? escute agora!
 ------------------------------
 
-.. podcast:: castalio-podcast-86
+{{< podcast castalio-podcast-86 >}}
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

@@ -1,15 +1,31 @@
-=====================================================
-Episódio 138: Ana Paula Gomes - Qualidade de Software
-=====================================================
-
-:date: 2018-12-17
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-138/castalio-podcast-138.mp3
-:tags: ana paula gomes, pytest-picked, pytest, python, go, relint, lambda lint,
-       flake8, code style, qualidade de software, tdd, unit tests, python
-       black, python bandit, isort, orientação a objetos
-:image: images/ana-paula-gomes.jpg
-:image-alt: Ana Paula Gomes
+---
+title: "Episódio 138: Ana Paula Gomes - Qualidade de Software"
+aliases:
+- /episodio-138-ana-paula-gomes-qualidade-de-software.html
+date: 2018-12-17
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-138/castalio-podcast-138.mp3"
+tags:
+- ana paula gomes
+- pytest-picked
+- pytest
+- python
+- go
+- relint
+- lambda lint
+- flake8
+- code style
+- qualidade de software
+- tdd
+- unit tests
+- python black
+- python bandit
+- isort
+- orientação a objetos
+image: /images/ana-paula-gomes.jpg
+image-alt: Ana Paula Gomes
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -26,8 +42,7 @@ Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-138
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-138" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -47,27 +62,27 @@ Tópicos abordados neste episódio
   de software.
 
 
-.. top5::
-
-    :book:
-        * Why Nations Fail
-        * How to Be Successful without Hurting Men's Feelings
-        * Admirável Mundo Novo
-        * Python Fluente
-    :music:
-        * Luedji Luna
-        * O Rappa
-        * Johnny Hooker
-        * Nina Simone
-        * Baiana System
-    :movie:
-        * The Handmaid's Tale
-        * The Marvelous Mrs. Maisel
-        * BlacKkKlansman
-        * A Onda
-        * Bohemian Rhapsody
-    :podcast:
-        * Um Milkshake Chamado Wanda
+{{< top5 >}}
+book:
+    * Why Nations Fail
+    * How to Be Successful without Hurting Men's Feelings
+    * Admirável Mundo Novo
+    * Python Fluente
+music:
+    * Luedji Luna
+    * O Rappa
+    * Johnny Hooker
+    * Nina Simone
+    * Baiana System
+movie:
+    * The Handmaid's Tale
+    * The Marvelous Mrs. Maisel
+    * BlacKkKlansman
+    * A Onda
+    * Bohemian Rhapsody
+podcast:
+    * Um Milkshake Chamado Wanda
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -77,7 +92,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: 1O2Q6YbWpnM
+{{< youtube 1O2Q6YbWpnM >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -99,14 +114,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/ana-paula-gomes.jpg" alt="Ana Paula Gomes" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/ana-paula-gomes.jpg" alt="Ana Paula Gomes" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Ana Paula Gomes</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="https://github.com/anapaulagomes">Github</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://www.anapaulagomes.me/">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/AnaPaulaGomess">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="https://github.com/anapaulagomes">Github</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://www.anapaulagomes.me/">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/AnaPaulaGomess">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -114,8 +129,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-138
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-138" heading="Escute Agora" >}}
 
 
 Links
@@ -146,7 +160,7 @@ Links
 * `relint`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

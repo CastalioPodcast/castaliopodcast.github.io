@@ -1,13 +1,20 @@
-===============================================================
-Episódio 146: Especial de 9 anos com Evandro Pastor e Og Maciel
-===============================================================
-
-:date: 2020-02-29
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-146/castalio-podcast-146.mp3
-:tags: evandro pastor, og maciel, audacity, reaper, powerpress
-:image: images/castalio-9-anos.png
-:image-alt: Especial de 9 anos com Evandro Pastor e Og Maciel
+---
+title: "Episódio 146: Especial de 9 anos com Evandro Pastor e Og Maciel"
+aliases:
+- /episodio-146-especial-de-9-anos-com-evandro-pastor-e-og-maciel.html
+date: 2020-02-29
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-146/castalio-podcast-146.mp3"
+tags:
+- evandro pastor
+- og maciel
+- audacity
+- reaper
+- powerpress
+image: /images/castalio-9-anos.png
+image-alt: Especial de 9 anos com Evandro Pastor e Og Maciel
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -26,8 +33,7 @@ muito o presente, obrigado.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-146
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-146" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -46,7 +52,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: OXiam1y6Gwk
+{{< youtube OXiam1y6Gwk >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -68,14 +74,14 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/evandro-pastor.jpg" alt="Evandro Pastor" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/evandro-pastor.jpg" alt="Evandro Pastor" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Evandro Pastor</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-link"></i> <a href="https://quartoestudio.com/">QuartoEstudio.com</a></li>
-                    <li><i class="fa fa-link"></i> <a href="https://sernotavel.com.br/sernotavelfm/">Ser Notável FM</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/evandropastor">Twitter</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://quartoestudio.com/">QuartoEstudio.com</a></li>
+                    <li><i class="bi bi-link"></i> <a href="https://sernotavel.com.br/sernotavelfm/">Ser Notável FM</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/evandropastor">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -85,13 +91,13 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/53362?v=3&s=240" alt="Og Maciel" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="https://avatars0.githubusercontent.com/u/53362?v=3&s=240" alt="Og Maciel" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Og Maciel</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-github"></i> <a href="http://github.com/omaciel">Github</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/OgMaciel">Twitter</a></li>
+                    <li><i class="bi bi-github"></i> <a href="http://github.com/omaciel">Github</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/OgMaciel">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -99,8 +105,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-146
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-146" heading="Escute Agora" >}}
 
 
 Links
@@ -114,7 +119,7 @@ Links
 * `Software Quality Engineering`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

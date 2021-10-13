@@ -1,12 +1,40 @@
-Livros - Junho de 2015
-######################
-:date: 2015-07-03
-:authors: Og Maciel
-:category: Notícia
-:tags: Anton Chekhov, Arthur Conan Doyle, Camus, Edgar Rice Burroughs, Flannery O'Connor, Fyodor Dostoyevsky, Graciliano Ramos, Henry David Thoreau, Herman Melville, Howard Mittelmark, Isaac Asimov, J. J. Abrams, Jack London, Jim Whitehurst, John Cheever, John Steinbeck, Jorge Amado, Luciano Ramalho, Machado de Assis, Marcel Proust, Michael Kelahan, Neal Stephenson, Nick Hornby, Ray Bradbudy, Ray Bradbury, Robert M. Pirsig, Sophocles
-:description: Mais um post sobre os livros que ando lendo.
-:image: images/livros.jpg
-:image-alt: Livros - Junho de 2015
+---
+title: Livros - Junho de 2015
+date: 2015-07-03
+authors: Og Maciel
+category: Notícia
+tags:
+- Anton Chekhov
+- Arthur Conan Doyle
+- Camus
+- Edgar Rice Burroughs
+- Flannery O'Connor
+- Fyodor Dostoyevsky
+- Graciliano Ramos
+- Henry David Thoreau
+- Herman Melville
+- Howard Mittelmark
+- Isaac Asimov
+- J. J. Abrams
+- Jack London
+- Jim Whitehurst
+- John Cheever
+- John Steinbeck
+- Jorge Amado
+- Luciano Ramalho
+- Machado de Assis
+- Marcel Proust
+- Michael Kelahan
+- Neal Stephenson
+- Nick Hornby
+- Ray Bradbudy
+- Ray Bradbury
+- Robert M. Pirsig
+- Sophocles
+description: Mais um post sobre os livros que ando lendo.
+image: images/livros.jpg
+image-alt: Livros - Junho de 2015
+---
 
 Como eu tinha mencionado no `artigo`_ do mês passado, no mês de junho o número de livros comprados e que ganhei devido ao meu aniversário foi bem alto! Infelizmente nem todos vieram do meu `Wish List`_ no **Amazon**, mas quem ainda me quizer fazer feliz, fica a dica bem descarada aqui :)
 

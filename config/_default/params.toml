@@ -1,0 +1,17 @@
+mainSections = ["episodes", "news"]
+comment = false
+logo = "images/navbar-logo.png?width=30px&height=30px"
+breadcrumb = false
+titleCase = true
+
+[feed]
+  copyright = "© 2011-{year} Castálio Podcast"
+  explicit = "no"
+  itunes_author = "Castálio Podcast"
+  itunes_image = "images/castalio-podcast.png"
+  itunes_owner_email = "castalio.podcast@gmail.com"
+  itunes_owner_name = "Castálio Podcast"
+  itunes_top_category = "Technology"
+  itunes_subtitle = "Um podcast inspirado para Castálio!"
+  itunes_summary = "O Castálio é um podcast publicado mensalmente com o objetivo de entrevistar, e ao mesmo tempo apresentar pessoas e projetos que sejam fonte de inspiração para os ouvintes. A maioria dos episódios são em português mas eventualmente trazemos alguns em inglês."
+  language = "pt-br"

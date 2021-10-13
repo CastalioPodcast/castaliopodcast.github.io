@@ -1,14 +1,23 @@
-======================================================
-Episódio 147: Licio Fonseca - Viagens, YouTube e Redes
-======================================================
-
-:date: 2020-05-29
-:author: Castálio Podcast
-:podcast: https://archive.org/download/castalio-podcast-147/castalio-podcast-147.mp3
-:tags: licio fonseca, youtube, viagens, mochilas, redes metropolitanas,
-       peeringdb, redes, comunidade ubuntu brasil
-:image: images/licio-fonseca.jpg
-:image-alt: Licio Fonseca
+---
+title: "Episódio 147: Licio Fonseca - Viagens, YouTube e Redes"
+aliases:
+- /episodio-147-licio-fonseca-viagens-youtube-e-redes.html
+date: 2020-05-29
+authors:
+- Castálio Podcast
+podcast: "https://archive.org/download/castalio-podcast-147/castalio-podcast-147.mp3"
+tags:
+- licio fonseca
+- youtube
+- viagens
+- mochilas
+- redes metropolitanas
+- peeringdb
+- redes
+- comunidade ubuntu brasil
+image: /images/licio-fonseca.jpg
+image-alt: Licio Fonseca
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -24,8 +33,7 @@ vindo ao Castálio Podcast.
 
     <div class="clearfix"></div>
 
-.. podcast:: castalio-podcast-147
-    :heading: Escute enquanto lê os show notes!
+{{< podcast id="castalio-podcast-147" heading="Escute enquanto lê os show notes!" >}}
 
 
 Tópicos abordados neste episódio
@@ -38,25 +46,25 @@ Tópicos abordados neste episódio
 * Dicas de mochilas e malas
 * Comunidade Ubuntu Brasil
 
-.. top5::
-
-    :book:
-        * 10% Mais Feliz
-        * O Livro de Jô: uma Autobiografia Desautorizada
-    :movie:
-        * How I Met Your Mother
-        * Battlestar Galactica
-        * Fringe
-        * Game of Thrones
-        * Chicago Fire
-        * Dark
-        * Os Infiltrados
-        * Lisbela e o Prisioneiro
-    :music:
-        * Trip hop
-        * Massive Attack
-        * Moby
-        * Jazz
+{{< top5 >}}
+book:
+    * 10% Mais Feliz
+    * O Livro de Jô: uma Autobiografia Desautorizada
+movie:
+    * How I Met Your Mother
+    * Battlestar Galactica
+    * Fringe
+    * Game of Thrones
+    * Chicago Fire
+    * Dark
+    * Os Infiltrados
+    * Lisbela e o Prisioneiro
+music:
+    * Trip hop
+    * Massive Attack
+    * Moby
+    * Jazz
+{{< /top5 >}}
 
 
 Assista a gravação deste episódio
@@ -66,7 +74,7 @@ Este episódio foi gravado ao vivo em nosso `canal no YouTube
 <http://youtube.com/castaliopodcast>`_ e você pode assistir a gravação e os
 demos no vídeo abaixo:
 
-.. youtube:: JwlPt2eYya8
+{{< youtube JwlPt2eYya8 >}}
 
 Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
@@ -88,13 +96,13 @@ Contatos
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="images/licio-fonseca.jpg" alt="Licio Fonseca" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/licio-fonseca.jpg" alt="Licio Fonseca" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Licio Fonseca</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/licio">Twitter</a></li>
-                    <li><i class="fa fa-youtube"></i> <a href="https://www.youtube.com/channel/UCKSOjD6GoWIYq6fCMGwgtlA">YouTube</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/licio">Twitter</a></li>
+                    <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/channel/UCKSOjD6GoWIYq6fCMGwgtlA">YouTube</a></li>
                 </ul>
             </div>
             </div>
@@ -102,8 +110,7 @@ Contatos
         </div>
     </div>
 
-.. podcast:: castalio-podcast-147
-    :heading: Escute Agora
+{{< podcast id="castalio-podcast-147" heading="Escute Agora" >}}
 
 
 Links
@@ -119,7 +126,7 @@ Links
 * `Rede de área metropolitana`_
 
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Edição**: `Geysler Niclevicz <https://twitter.com/geyslern>`_.
 

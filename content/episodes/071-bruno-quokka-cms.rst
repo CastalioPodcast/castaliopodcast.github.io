@@ -1,15 +1,25 @@
-Episódio 71: Bruno Rocha - Quokka CMS
-#####################################
-:date: 2016-06-03
-:authors: Og Maciel, Elyézer Rezende
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-71/castalio-podcast-71.mp3
-:tags: bruno rocha, flask, quokka, cms, quokkacms
-:description: Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele
+---
+title: "Episódio 71: Bruno Rocha - Quokka CMS"
+aliases:
+- /episodio-71-bruno-rocha-quokka-cms.html
+date: 2016-06-03
+authors:
+- Og Maciel
+- Elyézer Rezende
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-71/castalio-podcast-71.mp3"
+tags:
+- bruno rocha
+- flask
+- quokka
+- cms
+- quokkacms
+description: Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele
               comenta sobre o Quokka CMS e outros projetos pessoais. Além
               disso, ao final do episódio, temos o tão aguardado Top 5.
-:image: images/brunorocha.jpg
-:image-alt: Bruno Rocha - Quokka CMS
+image: /images/brunorocha.jpg
+image-alt: Bruno Rocha - Quokka CMS
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -33,7 +43,7 @@ para testar o Quokka, então acesse o demo do projeto. Além disso, ele ressalta
 que o projeto deixa a desejar um pouco na documentação mas que é algo que está
 na lista para ser melhorado.
 
-.. figure:: {static}/images/quokka.jpg
+.. figure:: /images/quokka.jpg
    :alt: Quokka
    :figclass: center-block
 
@@ -48,7 +58,7 @@ Antes de irmos para o Top 5, o Bruno comenta sobre o `What the Flask`_, uma
 série de artigos sobre o `Flask`_, e na possibilidade de isso virar um livro no
 futuro.
 
-.. figure:: {static}/images/bruno_rocha_ozzy_tattoo.jpg
+.. figure:: /images/bruno_rocha_ozzy_tattoo.jpg
    :alt: Bruno Rocha - Ozzy Tatoo
    :figclass: center-block
 
@@ -62,45 +72,45 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-71
+{{< podcast castalio-podcast-71 >}}
 
-.. top5::
-
-    :book:
-        * Série Vaga-lume
-        * De Alma para Alma
-        * O Zoo Humano
-        * O Macaco Nu
-        * The Pragmatic Programmer
-        * Programming in Lua
-        * Python Essential Reference
-    :music:
-        * Ozzy Osbourne
-        * Jethro Tull
-        * Yes
-        * Alan Parsons
-        * Anathema
-        * Pain of Salvation
-        * Dream Theater
-        * Morcheeba
-        * Lambchop
-        * Massive Attack
-        * Belchior
-        * Clube da Esquina
-        * Milton Nascimento
-        * Kleiton e Kledir
-    :movie:
-        * Earthlings (Terráqueos)
-        * O Poderoso Chefão
-        * Scarface
-        * Ladrões de Bicicleta
-        * Tempos Modernos
-        * O Grande Hotel Budapeste
-        * Derek
-        * The Borgias
-        * The Office (America)
-        * The IT Crowd
-        * Mr. Robot
+{{< top5 >}}
+book:
+    * Série Vaga-lume
+    * De Alma para Alma
+    * O Zoo Humano
+    * O Macaco Nu
+    * The Pragmatic Programmer
+    * Programming in Lua
+    * Python Essential Reference
+music:
+    * Ozzy Osbourne
+    * Jethro Tull
+    * Yes
+    * Alan Parsons
+    * Anathema
+    * Pain of Salvation
+    * Dream Theater
+    * Morcheeba
+    * Lambchop
+    * Massive Attack
+    * Belchior
+    * Clube da Esquina
+    * Milton Nascimento
+    * Kleiton e Kledir
+movie:
+    * Earthlings (Terráqueos)
+    * O Poderoso Chefão
+    * Scarface
+    * Ladrões de Bicicleta
+    * Tempos Modernos
+    * O Grande Hotel Budapeste
+    * Derek
+    * The Borgias
+    * The Office (America)
+    * The IT Crowd
+    * Mr. Robot
+{{< /top5 >}}
 
 Links
 -----
@@ -119,7 +129,7 @@ Links
 * `Fantastic Mister Fox`_
 * Treinamento Full Stack Python Developer (em breve)
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
         **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 

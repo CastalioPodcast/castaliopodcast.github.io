@@ -1,22 +1,51 @@
-Episódio 111: Multimedia no Linux - Parte 1
-###########################################
-:date: 2017-07-31
-:authors: Og Maciel, Elyézer Rezende, Bruno Rocha
-:category: Podcast
-:podcast: https://archive.org/download/castalio-podcast-111/castalio-podcast-111.mp3
-:tags: linux, joão bueno, barbara tostes, gimp, inkscape, open source, glabels,
-       python, william molinari, descontruindo a web, darktable, fedora design
-       suite, pulp, gnugraf, graphic design stack exchange, gobject, scheme,
-       perl, ruby, gegl, gnome, g'mic, svg, design, opodcastedelas
-:description: No episódio de hoje vamos falar sobre produção e edição gráfica
-              no Linux. Para nos ajudar a aprender um pouco mais sobre esta
-              área, nós trouxemos duas feras que manjam muito deste assunto:
-              João Bueno nos contará sobre sua experiência usando e
-              contribuindo com o desenvolvimento do `GIMP`_ e Barbara Tostes
-              sobre sua experiência usando o `Inkscape`_ em uma gráfica
-              profissional.
-:image: images/episode-111.jpg
-:image-alt: Multimedia no Linux - Parte 1
+---
+title: "Episódio 111: Multimedia no Linux - Parte 1"
+aliases:
+- /episodio-111-multimedia-no-linux-parte-1.html
+date: 2017-07-31
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+category: Podcast
+podcast: "https://archive.org/download/castalio-podcast-111/castalio-podcast-111.mp3"
+tags:
+- linux
+- joão bueno
+- barbara tostes
+- gimp
+- inkscape
+- open source
+- glabels
+- python
+- william molinari
+- descontruindo a web
+- darktable
+- fedora design suite
+- pulp
+- gnugraf
+- graphic design stack exchange
+- gobject
+- scheme
+- perl
+- ruby
+- gegl
+- gnome
+- g'mic
+- svg
+- design
+- opodcastedelas
+description: >
+    No episódio de hoje vamos falar sobre produção e edição gráfica
+    no Linux. Para nos ajudar a aprender um pouco mais sobre esta
+    área, nós trouxemos duas feras que manjam muito deste assunto:
+    João Bueno nos contará sobre sua experiência usando e
+    contribuindo com o desenvolvimento do `GIMP`_ e Barbara Tostes
+    sobre sua experiência usando o `Inkscape`_ em uma gráfica
+    profissional.
+image: /images/episode-111.jpg
+image-alt: Multimedia no Linux - Parte 1
+---
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
@@ -54,7 +83,7 @@ automática para corte de impressões. A Barbara também mostrou o `gLabels`_ qu
 faz mala direta no Inkscape. Para ver os demos e a gravação deste episódio
 confira o vídeo abaixo:
 
-.. youtube:: HzwWFJgBAMU
+{{< youtube HzwWFJgBAMU >}}
 
 Fizemos o `sorteio <https://sorteador.com.br/sorteador/resultado/878388>`_ (ao
 vivo na gravação) do livro Desconstruindo a Web do William Molinari e o
@@ -83,14 +112,14 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/barbara-tostes.jpg" alt="Barbara Tostes" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/barbara-tostes.jpg" alt="Barbara Tostes" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">Barbara Tostes</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/barbaratostes">Facebook</a></li>
-                    <li><i class="fa fa-globe"></i> <a href="http://www.barbara.blog.br">Site</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/creuzetica">Twitter</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/barbaratostes">Facebook</a></li>
+                    <li><i class="bi bi-globe"></i> <a href="http://www.barbara.blog.br">Site</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/creuzetica">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -100,13 +129,13 @@ Contato
             <p>
             <div class="media">
             <div class="media-left">
-                <img class="media-object img-circle img-thumbnail" src="/images/joao-bueno.jpg" alt="João Bueno" width="200px">
+                <img class="media-object rounded-circle img-thumbnail" src="/images/joao-bueno.jpg" alt="João Bueno" width="200px">
             </div>
             <div class="media-body">
                 <h4 class="media-heading">João Bueno</h4>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/jsbueno">Facebook</a></li>
-                    <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/gwidion">Twitter</a></li>
+                    <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/jsbueno">Facebook</a></li>
+                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/gwidion">Twitter</a></li>
                 </ul>
             </div>
             </div>
@@ -117,7 +146,7 @@ Contato
 Escute Agora
 ------------
 
-.. podcast:: castalio-podcast-111
+{{< podcast castalio-podcast-111 >}}
 
 Links
 -----
@@ -151,7 +180,7 @@ Links
 * Livro Computação Gráfica - Segredos & Soluções (não foi possível achar um
   link)
 
-.. class:: panel-body bg-info
+.. class:: alert alert-info
 
     **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
 
