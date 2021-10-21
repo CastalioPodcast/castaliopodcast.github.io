@@ -1,5 +1,6 @@
 ---
 title: "Episódio 87: Linguagem de Programação Go - Parte 2"
+slug: episodio-87-linguagem-de-programacao-go-parte-2
 aliases:
 - /episodio-87-linguagem-de-programacao-go-parte-2.html
 date: 2017-02-13

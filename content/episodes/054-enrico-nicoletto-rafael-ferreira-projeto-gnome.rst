@@ -1,5 +1,6 @@
 ---
 title: "Enrico Nicoletto e Rafael Ferreira: Projeto GNOME"
+slug: enrico-nicoletto-e-rafael-ferreira-projeto-gnome
 aliases:
 - /enrico-nicoletto-e-rafael-ferreira-projeto-gnome.html
 date: "2013-09-03T01:11:00"

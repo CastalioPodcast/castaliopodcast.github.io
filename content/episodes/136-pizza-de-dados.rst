@@ -1,5 +1,6 @@
 ---
 title: "Episódio 136: Pizza de Dados"
+slug: episodio-136-pizza-de-dados
 aliases:
 - /episodio-136-pizza-de-dados.html
 date: 2018-11-12

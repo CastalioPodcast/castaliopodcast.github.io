@@ -1,5 +1,6 @@
 ---
 title: "Episódio 91: Empreender e Programar - Parte 2"
+slug: episodio-91-empreender-e-programar-parte-2
 aliases:
 - /episodio-91-empreender-e-programar-parte-2.html
 date: 2017-03-13

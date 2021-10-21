@@ -1,5 +1,6 @@
 ---
 title: "Luciana Fujii Pontelo - GNOME Women Outreach Program"
+slug: luciana-fujii-pontelo-gnome-women-outreach-progra
 aliases:
 - /luciana-fujii-pontelo-gnome-women-outreach-program.html
 date: "2011-04-03T23:55:00"

@@ -1,5 +1,6 @@
 ---
 title: "Episódio 72: Eduardo Matos - PouchDB e Quadrinhos"
+slug: episodio-72-eduardo-matos-pouchdb-e-quadrinhos
 aliases:
 - /episodio-72-eduardo-matos-pouchdb-e-quadrinhos.html
 date: 2016-06-26

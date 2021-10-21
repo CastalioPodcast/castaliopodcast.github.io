@@ -1,5 +1,6 @@
 ---
 title: "Episódio 63: Thiago Avelino - vim-bootstrap e BeerBlogging"
+slug: episodio-63-thiago-avelino-vim-bootstrap-e-beerblogging
 aliases:
 - /episodio-63-thiago-avelino-vim-bootstrap-e-beerblogging.html
 date: 2015-02-15

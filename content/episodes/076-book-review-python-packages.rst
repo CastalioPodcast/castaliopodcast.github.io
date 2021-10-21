@@ -1,5 +1,6 @@
 ---
 title: "Episódio 76: Book Review e Python Packages"
+slug: episodio-76-book-review-e-python-packages
 aliases:
 - /episodio-76-book-review-e-python-packages.html
 date: 2016-11-27

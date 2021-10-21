@@ -1,5 +1,6 @@
 ---
 title: "Yuri Malheiros - Engenharia de Software e Inteligência Artificial"
+slug: yuri-malheiros-engenharia-de-software-e-inteligencia-artificia
 aliases:
 - /yuri-malheiros-engenharia-de-software-e-inteligencia-artificial.html
 date: "2011-05-30T01:48:00"

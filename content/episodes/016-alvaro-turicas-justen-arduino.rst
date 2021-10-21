@@ -1,5 +1,6 @@
 ---
 title: "Álvaro \"Turicas\" Justen - Arduino"
+slug: alvaro-turicas-justen-arduino
 aliases:
 - /alvaro-turicas-justen-arduino.html
 date: "2011-09-05T03:26:00"

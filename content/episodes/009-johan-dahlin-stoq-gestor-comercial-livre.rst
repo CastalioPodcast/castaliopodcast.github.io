@@ -1,5 +1,6 @@
 ---
 title: "Johan Dahlin - Stoq: Gestor Comercial Livre"
+slug: johan-dahlin-stoq-gestor-comercial-livre
 aliases:
 - /johan-dahlin-stoq-gestor-comercial-livre.html
 date: "2011-06-12T21:31:00"

@@ -1,5 +1,6 @@
 ---
 title: "Episódio 89: Tech News e Review do livro Ready Player One"
+slug: episodio-89-tech-news-e-review-do-livro-ready-player-one
 aliases:
 - /episodio-89-tech-news-e-review-do-livro-ready-player-one.html
 date: 2017-02-27

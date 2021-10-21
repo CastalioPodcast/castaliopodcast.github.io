@@ -1,5 +1,6 @@
 ---
 title: "Episódio 130: Lígia Dutra Zeppelini - E-commerce"
+slug: episodio-130-ligia-dutra-zeppelini-e-commerce
 aliases:
 - /episodio-130-ligia-dutra-zeppelini-e-commerce.html
 date: 2018-03-27

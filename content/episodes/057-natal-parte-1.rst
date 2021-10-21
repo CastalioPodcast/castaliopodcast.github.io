@@ -1,5 +1,6 @@
 ---
 title: "Episódio 57: Episódio de Natal - Parte 1"
+slug: episodio-57-episodio-de-natal-parte-1
 aliases:
 - /episodio-57-episodio-de-natal-parte-1.html
 date: 2014-12-20

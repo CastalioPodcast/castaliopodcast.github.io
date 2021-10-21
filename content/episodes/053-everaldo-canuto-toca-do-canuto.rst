@@ -1,5 +1,6 @@
 ---
 title: "Everaldo Canuto: Toca do Canuto"
+slug: everaldo-canuto-toca-do-canuto
 aliases:
 - /everaldo-canuto-toca-do-canuto.html
 date: "2013-03-18T02:54:00"

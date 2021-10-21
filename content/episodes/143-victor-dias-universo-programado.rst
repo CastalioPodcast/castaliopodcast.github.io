@@ -1,5 +1,6 @@
 ---
 title: "Episódio 143: Victor Dias - Universo Programado"
+slug: episodio-143-victor-dias-universo-programado
 aliases:
 - /episodio-143-victor-dias-universo-programado.html
 date: 2019-09-30

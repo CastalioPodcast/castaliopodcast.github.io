@@ -1,5 +1,6 @@
 ---
 title: "Episódio 85: Arx Cruz - OpenStack (Red Hat)"
+slug: episodio-85-arx-cruz-openstack-red-ha
 aliases:
 - /episodio-85-arx-cruz-openstack-red-hat.html
 date: 2017-01-30

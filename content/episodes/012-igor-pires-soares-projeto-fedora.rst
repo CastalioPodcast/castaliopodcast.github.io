@@ -1,5 +1,6 @@
 ---
 title: "Igor Pires Soares - Projeto Fedora"
+slug: igor-pires-soares-projeto-fedora
 aliases:
 - /igor-pires-soares-projeto-fedora.html
 date: 2011-07-11

@@ -1,5 +1,6 @@
 ---
 title: "Episode 142: David Kopec - Classic Computer Science Problems in Python"
+slug: episode-142-david-kopec-classic-computer-science-problems-in-python
 aliases:
 - /episode-142-david-kopec-classic-computer-science-problems-in-python.html
 date: 2019-06-10

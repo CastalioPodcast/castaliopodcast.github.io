@@ -1,5 +1,6 @@
 ---
 title: "Episódio 144: Osvaldo Santana - O Início da Comunidade Python Brasil"
+slug: episodio-144-osvaldo-santana-o-inicio-da-comunidade-python-brasi
 aliases:
 - /episodio-144-osvaldo-santana-o-inicio-da-comunidade-python-brasil.html
 date: 2019-10-28

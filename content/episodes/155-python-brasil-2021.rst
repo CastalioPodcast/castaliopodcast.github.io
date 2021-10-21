@@ -1,5 +1,6 @@
 ---
 title: "Episódio 155: Alynne Ferreira, Izabela Cristina e Juliana Barros - Python Brasil 2021"
+slug: episodio-155-alynne-ferreira-izabela-cristina-e-juliana-barros-python-brasil-2021
 aliases:
 - /episodio-155-alynne-ferreira-izabela-cristina-e-juliana-barros-python-brasil-2021.html
 date: 2021-10-05

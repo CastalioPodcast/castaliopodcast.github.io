@@ -1,5 +1,6 @@
 ---
 title: "Episódio 123: Ambiente de Desenvolvimento - Parte 2"
+slug: episodio-123-ambiente-de-desenvolvimento-parte-2
 aliases:
 - /episodio-123-ambiente-de-desenvolvimento-parte-2.html
 date: 2017-10-23

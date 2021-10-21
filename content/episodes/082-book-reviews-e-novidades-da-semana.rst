@@ -1,5 +1,6 @@
 ---
 title: "Episódio 82: Book Review: 36 Books That Changed the World e The Martian Chronicles"
+slug: episodio-82-book-review-36-books-that-changed-the-world-e-the-martian-chronicles
 aliases:
 - /episodio-82-book-review-36-books-that-changed-the-world-e-the-martian-chronicles.html
 date: 2017-01-08

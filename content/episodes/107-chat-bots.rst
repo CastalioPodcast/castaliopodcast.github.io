@@ -1,5 +1,6 @@
 ---
 title: "Episódio 107: Chat Bots"
+slug: episodio-107-chat-bots
 aliases:
 - /episodio-107-chat-bots.html
 date: 2017-07-03

@@ -1,5 +1,6 @@
 ---
 title: "Luciano Ramalho: Oficinas Turing"
+slug: luciano-ramalho-oficinas-turing
 aliases:
 - /luciano-ramalho-oficinas-turing.html
 date: "2013-02-05T03:47:00"

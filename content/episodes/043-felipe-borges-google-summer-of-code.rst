@@ -1,5 +1,6 @@
 ---
 title: "Felipe Borges: Google Summer of Code"
+slug: felipe-borges-google-summer-of-code
 aliases:
 - /felipe-borges-google-summer-of-code.html
 date: "2012-08-19T22:49:00"

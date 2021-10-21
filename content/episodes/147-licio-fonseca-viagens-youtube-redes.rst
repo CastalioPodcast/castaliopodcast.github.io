@@ -1,5 +1,6 @@
 ---
 title: "Episódio 147: Licio Fonseca - Viagens, YouTube e Redes"
+slug: episodio-147-licio-fonseca-viagens-youtube-e-redes
 aliases:
 - /episodio-147-licio-fonseca-viagens-youtube-e-redes.html
 date: 2020-05-29

@@ -1,5 +1,6 @@
 ---
 title: "Episódio 135: Fernando Masanori - Ensino de Python ao Redor do Mundo"
+slug: episodio-135-fernando-masanori-ensino-de-python-ao-redor-do-mundo
 aliases:
 - /episodio-135-fernando-masanori-ensino-de-python-ao-redor-do-mundo.html
 date: 2018-10-22

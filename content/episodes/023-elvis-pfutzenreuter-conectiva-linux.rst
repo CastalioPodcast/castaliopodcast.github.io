@@ -1,5 +1,6 @@
 ---
 title: "Elvis Pfutzenreuter: Conectiva Linux"
+slug: elvis-pfutzenreuter-conectiva-linux
 aliases:
 - /elvis-pfutzenreuter-conectiva-linux.html
 date: "2011-11-28T03:37:00"

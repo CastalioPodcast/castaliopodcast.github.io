@@ -1,5 +1,6 @@
 ---
 title: "Alexandre Coster: Asobo Studio"
+slug: alexandre-coster-asobo-studio
 aliases:
 - /alexandre-coster-asobo-studio.html
 date: "2011-11-14T02:33:00"

@@ -1,5 +1,6 @@
 ---
 title: "Djavan Fagundes: GNOME Brasil"
+slug: djavan-fagundes-gnome-brasi
 aliases:
 - /djavan-fagundes-gnome-brasil.html
 date: "2012-06-25T01:22:00"

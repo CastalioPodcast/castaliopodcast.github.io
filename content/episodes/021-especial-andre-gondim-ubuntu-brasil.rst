@@ -1,5 +1,6 @@
 ---
 title: "Episódio Especial: André Gondim - Ubuntu Brasil"
+slug: episodio-especial-andre-gondim-ubuntu-brasi
 aliases:
 - /episodio-especial-andre-gondim-ubuntu-brasil.html
 date: "2011-11-06T23:17:00"

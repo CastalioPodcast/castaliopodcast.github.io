@@ -1,5 +1,6 @@
 ---
 title: "Gabriel Falcão: Yipit"
+slug: gabriel-falcao-yipi
 aliases:
 - /gabriel-falcao-yipit.html
 date: "2012-03-18T20:33:00"

@@ -1,5 +1,6 @@
 ---
 title: "Episódio 129: Cybelle Oliveira - Codamos Club, Cryptorave, Mozilla"
+slug: episodio-129-cybelle-oliveira-codamos-club-cryptorave-mozilla
 aliases:
 - /episodio-129-cybelle-oliveira-codamos-club-cryptorave-mozilla.html
 date: 2018-03-19

@@ -1,5 +1,6 @@
 ---
 title: "Henrique Bastos: Welcome to the Django"
+slug: henrique-bastos-welcome-to-the-django
 aliases:
 - /henrique-bastos-welcome-to-the-django.html
 date: "2012-04-01T16:18:00"

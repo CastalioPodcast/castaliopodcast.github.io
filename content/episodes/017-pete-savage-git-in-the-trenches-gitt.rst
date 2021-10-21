@@ -1,5 +1,6 @@
 ---
 title: "Pete Savage: Git In The Trenches (GITT)"
+slug: pete-savage-git-in-the-trenches-gi
 aliases:
 - /pete-savage-git-in-the-trenches-gitt.html
 date: "2011-09-18T21:44:00"

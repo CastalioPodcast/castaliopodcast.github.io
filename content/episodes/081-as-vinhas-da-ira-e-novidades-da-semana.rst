@@ -1,5 +1,6 @@
 ---
 title: "Episódio 81: Book Review: As Vinhas da Ira e Novidades da Semana"
+slug: episodio-81-book-review-as-vinhas-da-ira-e-novidades-da-semana
 aliases:
 - /episodio-81-book-review-as-vinhas-da-ira-e-novidades-da-semana.html
 date: 2017-01-01

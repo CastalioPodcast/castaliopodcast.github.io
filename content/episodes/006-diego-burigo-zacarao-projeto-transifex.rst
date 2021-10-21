@@ -1,5 +1,6 @@
 ---
 title: "Diego Búrigo Zacarão - Projeto Transifex"
+slug: diego-burigo-zacarao-projeto-transifex
 aliases:
 - /diego-burigo-zacarao-projeto-transifex.html
 date: "2011-04-30T15:29:00"

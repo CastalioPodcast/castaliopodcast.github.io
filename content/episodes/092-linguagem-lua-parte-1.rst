@@ -1,5 +1,6 @@
 ---
 title: "Episódio 92: Linguagem Lua - Parte 1"
+slug: episodio-92-linguagem-lua-parte-1
 aliases:
 - /episodio-92-linguagem-lua-parte-1.html
 date: 2017-03-20

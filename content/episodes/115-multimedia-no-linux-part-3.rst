@@ -1,5 +1,6 @@
 ---
 title: "Episódio 115: Multimedia no Linux - Parte 3"
+slug: episodio-115-multimedia-no-linux-parte-3
 aliases:
 - /episodio-115-multimedia-no-linux-parte-3.html
 date: 2017-08-28

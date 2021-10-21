@@ -1,5 +1,6 @@
 ---
 title: "Episódio 2: KurtKraut"
+slug: episodio-2-kurtkrau
 aliases:
 - /episodio-2-kurtkraut.html
 date: "2011-03-21T12:24:00"

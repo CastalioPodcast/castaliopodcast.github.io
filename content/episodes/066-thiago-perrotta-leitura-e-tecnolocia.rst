@@ -1,5 +1,6 @@
 ---
 title: "Episódio 66: Thiago Perrotta - Leitura e Tecnologia"
+slug: episodio-66-thiago-perrotta-leitura-e-tecnologia
 aliases:
 - /episodio-66-thiago-perrotta-leitura-e-tecnologia.html
 date: 2015-05-31

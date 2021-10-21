@@ -1,5 +1,6 @@
 ---
 title: "Episódio 110: Willian Molinari - Desconstruindo a Web"
+slug: episodio-110-willian-molinari-desconstruindo-a-web
 aliases:
 - /episodio-110-willian-molinari-desconstruindo-a-web.html
 date: 2017-07-24

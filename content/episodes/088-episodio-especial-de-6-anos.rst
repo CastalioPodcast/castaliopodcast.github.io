@@ -1,5 +1,6 @@
 ---
 title: "Episódio 88: Episódio Especial de 6 Anos"
+slug: episodio-88-episodio-especial-de-6-anos
 aliases:
 - /episodio-88-episodio-especial-de-6-anos.html
 date: 2017-02-20

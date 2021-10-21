@@ -1,5 +1,6 @@
 ---
 title: "Flávio Ribeiro: Globo.com"
+slug: flavio-ribeiro-globoco
 aliases:
 - /flavio-ribeiro-globocom.html
 date: "2012-05-27T18:01:00"

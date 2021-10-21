@@ -1,5 +1,6 @@
 ---
 title: "Episódio 100: Cage Match de Sistemas Operacionais"
+slug: episodio-100-cage-match-de-sistemas-operacionais
 aliases:
 - /episodio-100-cage-match-de-sistemas-operacionais.html
 date: 2017-05-15

@@ -1,5 +1,6 @@
 ---
 title: "Episódio 124: Serverless com Moacir Moda Neto"
+slug: episodio-124-serverless-com-moacir-moda-neto
 aliases:
 - /episodio-124-serverless-com-moacir-moda-neto.html
 date: 2017-10-31

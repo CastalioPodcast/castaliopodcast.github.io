@@ -1,5 +1,6 @@
 ---
 title: "Rodrigo Belém: Ubuntu Brasil"
+slug: rodrigo-belem-ubuntu-brasi
 aliases:
 - /rodrigo-belem-ubuntu-brasil.html
 date: "2012-02-20T00:02:00"

@@ -1,5 +1,6 @@
 ---
 title: "Episódio 75: Python Brasil 12 - Parte 3"
+slug: episodio-75-python-brasil-12-parte-3
 aliases:
 - /episodio-75-python-brasil-12-parte-3.html
 date: 2016-11-20

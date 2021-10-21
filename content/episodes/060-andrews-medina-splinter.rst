@@ -1,5 +1,6 @@
 ---
 title: "Episódio 60: Andrews Medina - Splinter"
+slug: episodio-60-andrews-medina-splinter
 aliases:
 - /episodio-60-andrews-medina-splinter.html
 date: 2015-01-04

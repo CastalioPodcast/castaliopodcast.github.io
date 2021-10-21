@@ -1,5 +1,6 @@
 ---
 title: "Episódio 58: Episódio de Natal - Parte 2"
+slug: episodio-58-episodio-de-natal-parte-2
 aliases:
 - /episodio-58-episodio-de-natal-parte-2.html
 date: 2014-12-21

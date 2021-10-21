@@ -1,5 +1,6 @@
 ---
 title: "Episódio 64: Thiago Avelino - OpenMining e SambaPorno"
+slug: episodio-64-thiago-avelino-openmining-e-sambaporno
 aliases:
 - /episodio-64-thiago-avelino-openmining-e-sambaporno.html
 date: 2015-03-01

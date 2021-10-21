@@ -1,5 +1,6 @@
 ---
 title: "Lucas Rocha - The Board (Parte 2)"
+slug: lucas-rocha-the-board-parte-2
 aliases:
 - /lucas-rocha-the-board-parte-2.html
 date: 2011-07-04

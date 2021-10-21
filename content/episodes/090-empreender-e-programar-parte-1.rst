@@ -1,5 +1,6 @@
 ---
 title: "Episódio 90: Empreender e Programar - Parte 1"
+slug: episodio-90-empreender-e-programar-parte-1
 aliases:
 - /episodio-90-empreender-e-programar-parte-1.html
 date: 2017-03-06

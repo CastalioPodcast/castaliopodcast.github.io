@@ -1,5 +1,6 @@
 ---
 title: "Episódio 127: Regis Santos - Grupy-SP"
+slug: episodio-127-regis-santos-grupy-sp
 aliases:
 - /episodio-127-regis-santos-grupy-sp.html
 date: 2018-02-19

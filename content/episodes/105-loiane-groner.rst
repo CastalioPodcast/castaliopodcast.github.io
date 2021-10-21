@@ -1,5 +1,6 @@
 ---
 title: "Episódio 105: Loiane Groner"
+slug: episodio-105-loiane-groner
 aliases:
 - /episodio-105-loiane-groner.html
 date: 2017-06-19

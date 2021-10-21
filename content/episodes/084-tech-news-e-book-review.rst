@@ -1,5 +1,6 @@
 ---
 title: "Episódio 84: Tech News e Book Reviews por Hack and Cast"
+slug: episodio-84-tech-news-e-book-reviews-por-hack-and-cas
 aliases:
 - /episodio-84-tech-news-e-book-reviews-por-hack-and-cast.html
 date: 2017-01-22

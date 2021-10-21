@@ -1,5 +1,6 @@
 ---
 title: "Episódio 99: Tech News e Book Review"
+slug: episodio-99-tech-news-e-book-review
 aliases:
 - /episodio-99-tech-news-e-book-review.html
 date: 2017-05-08

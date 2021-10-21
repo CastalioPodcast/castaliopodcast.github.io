@@ -1,5 +1,6 @@
 ---
 title: "Episódio 77: Book Review: Practical Vim e Novidades da Semana"
+slug: episodio-77-book-review-practical-vim-e-novidades-da-semana
 aliases:
 - /episodio-77-book-review-practical-vim-e-novidades-da-semana.html
 date: 2016-12-04

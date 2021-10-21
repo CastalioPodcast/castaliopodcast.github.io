@@ -1,5 +1,6 @@
 ---
 title: "Episódio 69: Renzo Nucciteli - Python Brasil"
+slug: episodio-69-renzo-nucciteli-python-brasi
 aliases:
 - /episodio-69-renzo-nucciteli-python-brasil.html
 date: 2015-11-08

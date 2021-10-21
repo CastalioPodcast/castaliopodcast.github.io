@@ -1,5 +1,6 @@
 ---
 title: "Episódio 101: Automatização de Interface Web com Selenium"
+slug: episodio-101-automatizacao-de-interface-web-com-seleniu
 aliases:
 - /episodio-101-automatizacao-de-interface-web-com-selenium.html
 date: 2017-05-22

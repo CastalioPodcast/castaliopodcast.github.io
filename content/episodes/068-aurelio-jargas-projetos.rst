@@ -1,5 +1,6 @@
 ---
 title: "Episódio 68: Aurelio Jargas - Projetos"
+slug: episodio-68-aurelio-jargas-projetos
 aliases:
 - /episodio-68-aurelio-jargas-projetos.html
 date: 2015-09-13

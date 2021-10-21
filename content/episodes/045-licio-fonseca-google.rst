@@ -1,5 +1,6 @@
 ---
 title: "Licio Fonseca: Google"
+slug: licio-fonseca-google
 aliases:
 - /licio-fonseca-google.html
 date: "2012-09-16T21:45:00"

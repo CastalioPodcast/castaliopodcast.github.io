@@ -1,5 +1,6 @@
 ---
 title: "Edição de 2 Anos - Og Maciel: Red Hat"
+slug: edicao-de-2-anos-og-maciel-red-ha
 aliases:
 - /edicao-de-2-anos-og-maciel-red-hat.html
 date: "2013-02-18T16:15:00"

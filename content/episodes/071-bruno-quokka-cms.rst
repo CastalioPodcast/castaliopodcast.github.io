@@ -1,5 +1,6 @@
 ---
 title: "Episódio 71: Bruno Rocha - Quokka CMS"
+slug: episodio-71-bruno-rocha-quokka-cms
 aliases:
 - /episodio-71-bruno-rocha-quokka-cms.html
 date: 2016-06-03

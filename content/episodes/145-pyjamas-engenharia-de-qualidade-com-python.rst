@@ -1,5 +1,6 @@
 ---
 title: "Episódio 145: Pyjamas - Engenharia de Qualidade com Python"
+slug: episodio-145-pyjamas-engenharia-de-qualidade-com-python
 aliases:
 - /episodio-145-pyjamas-engenharia-de-qualidade-com-python.html
 date: 2019-12-31

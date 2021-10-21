@@ -1,5 +1,6 @@
 ---
 title: "Episódio 112: Waldirio Manhães Pinheiro - Spacewalk"
+slug: episodio-112-waldirio-manhaes-pinheiro-spacewalk
 aliases:
 - /episodio-112-waldirio-manhaes-pinheiro-spacewalk.html
 date: 2017-08-07

@@ -1,5 +1,6 @@
 ---
 title: "Hugo Dória - Arch Linux"
+slug: hugo-doria-arch-linux
 aliases:
 - /hugo-doria-arch-linux.html
 date: "2011-08-08T02:15:00"

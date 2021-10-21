@@ -1,5 +1,6 @@
 ---
 title: "Episódio 118: Jefferson Rocha - Emmi Linux"
+slug: episodio-118-jefferson-rocha-emmi-linux
 aliases:
 - /episodio-118-jefferson-rocha-emmi-linux.html
 date: 2017-09-18

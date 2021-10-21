@@ -1,5 +1,6 @@
 ---
 title: "João Fernando Costa Júnior: Revista Espírito Livre"
+slug: joao-fernando-costa-junior-revista-espirito-livre
 aliases:
 - /joao-fernando-costa-junior-revista-espirito-livre.html
 date: "2011-12-12T02:31:00"

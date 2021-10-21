@@ -1,5 +1,6 @@
 ---
 title: "Episódio 137: Vicente Marçal - Filosofia com Python"
+slug: episodio-137-vicente-marcal-filosofia-com-python
 aliases:
 - /episodio-137-vicente-marcal-filosofia-com-python.html
 date: 2018-11-27

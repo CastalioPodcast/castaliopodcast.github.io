@@ -1,5 +1,6 @@
 ---
 title: "Guilherme Salgado: Canonical e Linaro"
+slug: guilherme-salgado-canonical-e-linaro
 aliases:
 - /guilherme-salgado-canonical-e-linaro.html
 date: "2011-10-30T21:59:00"

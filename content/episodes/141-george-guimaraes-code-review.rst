@@ -1,5 +1,6 @@
 ---
 title: "Episódio 141: George Guimarães - Code Review"
+slug: episodio-141-george-guimaraes-code-review
 aliases:
 - /episodio-141-george-guimaraes-code-review.html
 date: 2019-05-28

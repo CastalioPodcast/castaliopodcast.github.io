@@ -1,5 +1,6 @@
 ---
 title: "Episódio 83: Tarek Ziadé - Mozilla"
+slug: episodio-83-tarek-ziade-mozilla
 aliases:
 - /episodio-83-tarek-ziade-mozilla.html
 date: 2017-01-15

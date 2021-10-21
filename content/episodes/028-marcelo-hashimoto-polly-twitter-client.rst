@@ -1,5 +1,6 @@
 ---
 title: "Marcelo Hashimoto: Polly Twitter Client"
+slug: marcelo-hashimoto-polly-twitter-clien
 aliases:
 - /marcelo-hashimoto-polly-twitter-client.html
 date: "2012-01-22T17:53:00"

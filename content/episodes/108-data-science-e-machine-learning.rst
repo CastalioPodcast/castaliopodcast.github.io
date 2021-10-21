@@ -1,5 +1,6 @@
 ---
 title: "Episódio 108: Data Science e Machine Learning"
+slug: episodio-108-data-science-e-machine-learning
 aliases:
 - /episodio-108-data-science-e-machine-learning.html
 date: 2017-07-10
