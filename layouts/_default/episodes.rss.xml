@@ -68,7 +68,7 @@
         {{"]]></itunes:subtitle>" | safeHTML}}
         <itunes:summary>{{ .Description | plainify }}</itunes:summary>
         <description>{{ .Description  | plainify  }}</description>
-        {{ "<content:encoded><![CDATA[" | safeHTML }}{{ .Content | safeHTML }}{{"]]></content:encoded>" | safeHTML}}
+        {{ "<content:encoded><![CDATA[" | safeHTML }}{{ (index (split .Content "<!-- more -->") 0) | safeHTML }}{{"]]></content:encoded>" | safeHTML}}
           {{- with .Params.image -}}
           <itunes:image href="{{ . | absURL }}"></itunes:image>
           {{- end -}}
