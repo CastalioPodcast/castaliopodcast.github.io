@@ -1,0 +1,315 @@
+<!doctype html><html lang=en><head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link href=/images/favicon.ico rel=icon>
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
+<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
+<title>Hello, world!</title>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast
+</a>
+<button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
+<ul class="navbar-nav ms-auto"><li class=nav-item>
+<a class=nav-link href=https://castalio.info/sobre/>
+Sobre
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/agenda/>
+Agenda
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/episodes/>
+Episódios
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/tags/english/>
+English Episodes
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/top5/>
+Top 5
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/youtube/>
+Youtube
+</a>
+</li><li class="nav-item dropdown">
+<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
+<i class="bi bi-caret-down-fill"></i> Inscreva-se
+</a>
+<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
+<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
+FeedBurner (RSS Feed)
+</a>
+</li><li>
+<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
+Google Podcasts
+</a>
+</li><li>
+<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
+iTunes
+</a>
+</li><li>
+<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
+Overcast
+</a>
+</li><li>
+<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
+Pocket Casts
+</a>
+</li><li>
+<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
+Spotify
+</a>
+</li><li>
+<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
+YouTube
+</a>
+</li></ul>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/archives/>
+<i class="bi bi-archive"></i> Arquivos
+</a>
+</li></ul>
+<form class=d-flex action=https://castalio.info/search>
+<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
+</form>
+</div>
+</div>
+</nav>
+<div id=hero class="px-4 py-5 my-5 text-center">
+<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
+<div class="col-lg-6 mx-auto">
+<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
+<div class=fs-1>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+</div>
+</div>
+<main role=main class=container>
+<div class="row content">
+<div class=col-lg-12>
+<div class=container><article class="post row card mb-4 component">
+<div class=card-body>
+<h1 class="card-title my-3">Episódio 88: Episódio Especial De 6 Anos
+</h1><div class=post-meta><span class=post-date title=Data>
+<i class="bi bi-calendar-date-fill"></i>
+Feb 20, 2017
+</span><span class=post-authors title=Autores>
+<i class="bi bi-person-fill"></i>
+Og Maciel, Elyézer Rezende, Bruno Rocha
+</span><span class=post-reading-time title="Tempo de Leitura">
+<i class="bi bi-clock-fill"></i>
+5 minutos
+</span></div>
+<img class="float-start img-thumbnail post-image" src=/images/castalio-6-anos.png>
+<div class="post-content mb-3"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje trazemos um episodio para comemorar os 6 anos de Castálio
+Podcast. Para deixar ainda mais especial, gravamos o episódio no dia exato em
+que o Castálio fez aniversário, dia 16 de fevereiro de 2017. Além disso,
+tivemos a participação de nossos ouvintes que nos enviaram doze perguntas,
+spoiler: respondemos todas elas.</p>
+<div class=section id=escute-enquanto-le-os-show-notes>
+<h2>Escute enquanto lê os show notes</h2>
+<div class=card>
+<div class=card-body>
+<div class="card-text podcast text-center">
+<iframe src=https://archive.org/embed/castalio-podcast-88 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
+</div>
+<div class="podcast-download text-center">
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-88/castalio-podcast-88.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-88/castalio-podcast-88.ogg><i class="bi bi-download"></i> OGG</a>
+</div>
+</div>
+</div>
+<br><p>Começamos falando sobre a historia do Castálio desde o primeiro o episódio até
+o último lançado no momento da gravação, o episodio 87. Como não poderia
+faltar, falamos como o nome do podcast foi escolhido.</p>
+<p>Em clima de comemoração, fizemos o sorteio de mais uma caneca do Castálio,
+entre os ouvintes que nos enviaram as perguntas. Se você nos enviou uma
+pergunta e quer saber se ganhou, acesse o <a class="reference external" href=http://sorteador.com.br/embaralhador/resultado/416>link do resultado</a> mas não deixe de escutar
+o episódio :).</p>
+<p>Em seguida, falamos sobre algumas estatísticas: número de episódios publicados,
+qual o tempo para produzir um episódio e a estimativa de quanto tempo gasto
+para produzir todos, o episódio mais escutado, custos para manter o podcast e
+quais foram as pessoas que participaram como hosts até hoje.</p>
+<p>Depois abrimos as doze perguntas que recebemos dos nossos ouvintes e
+respondemos uma a uma. Tivemos todo o tipo de pergunta e esperamos que vocês
+curtam as respostas. Segue a lista de ouvintes e suas perguntas:</p>
+<ul class=simple>
+<li>Diego Tumelero: "Pergunta para o OG: Qual a origem do nome do podcast?"</li>
+<li><a class="reference external" href=https://eduardoklosowski.wordpress.com/>Eduardo Klosowski</a>: "No Castálio,
+além das perguntas aos convidados sobre tecnologia, sempre tem algumas
+perguntas que fogem do tema, como livros, estilo de vida e afins. Qual desses
+temas vocês mais se surpreenderam e gostaram de conhecer? Chegaram a mudar
+alguma coisa nas suas vidas depois que passaram a conhecer mais sobre esse
+tema? Algum tema que se não fosse pelos convidados, nunca teria imaginado que
+seria tão interessante?"</li>
+<li><a class="reference external" href=https://twitter.com/elyssonmr>Élysson Mendes Rezende</a>: "Qual a diferenca
+entre linguagens fortemente tipadas e linguagens fracamente tipadas? Quais
+linguagens se encaixam em cada categoria"</li>
+<li>Gleydson: "A pergunta é pra todos. Como vocês reagiram com a pressão por
+manter um sistema em uma empresa? Digo a pressão de não poder errar e da
+cobrança, principalmente no início das carreiras de vocês. "</li>
+<li>Grão Malique Izhaq: "Og: quanto voce gastou para tocar o Castalio do inicio
+ate hoje? Por gentileza responda com unidades de bala juquinha e gol1000"</li>
+<li><a class="reference external" href=https://twitter.com/JFCostta>Jorge Costa</a>: "Manter um podcast por tanto
+tempo é desafiador. O que lhes faz continuar produzindo e editando um
+programa técnico e com pouco apelo comercial em relação aos casts de
+variedades ou cultura pop/geek?"</li>
+<li><a class="reference external" href=https://twitter.com/KurtKraut>Kurt Kraut</a>: "Gostaria de saber os
+softwares utilizados na gravação, edição e distribuição do Castálio e
+perguntar de forma despretenciosa, que tipo de coisa foi dita pelo
+entrevistado que não podia ir para o ar de modo algum? Contem o milagre sem
+dizer o nome do santo :D"</li>
+<li>Luiz Fernando: "Quais o planos para o futuro?"</li>
+<li><a class="reference external" href=https://www.facebook.com/tolentek>Sebastião S.M. Júnior</a>: "Poderiam fazer
+um episódio sobre compiladores Python, por exemplo Pypy, Nuitka, etc."</li>
+<li>Tarcísio Ferraz: "Qual recomendação do top 5 te surpreendeu muito? Qual
+tecnologia/conceito você aprendeu com o convidado que se provo útil depois?
+Qual episódio você geralmente recomenda para novos ouvintes? Quais pessoas
+você deseja muito entrevistar? Para os convidados também: Qual tecnologia
+está na sua lista para aprender? o que pode ajudar o open source no Brasil
+crescer ainda mais?"</li>
+<li><a class="reference external" href=https://twitter.com/thiagowfx>Thiago Perrotta</a>: "Em quase todos os
+episódios, ouvimos o top 5 dos convidados (filmes / séries / livros / música
+/ podcasts...me esqueci de alguma coisa?). Mas, depois de vários episódios de
+Castálio, ainda não sei qual é o top 5 dos hosts! Bruno, Elyézer e Og, qual o
+top 5 de vocês nessas categorias?"</li>
+<li>Wallysson de Lima Silva: "Quais as principais linguagens de programação e
+tecnologias vocês acham que devem ser aprendidas pensando no mercado de
+trabalho brasileiro?"</li>
+</ul>
+<p>Como o Castálio não seria o Castálio se não fosse pelo Top 5, não poderíamos
+deixar ele de lado. Aliás, podemos considerar que foi um Top 15, já que o Bruno
+Rocha, o Elyézer Rezende e o Og Maciel fizeram seu Top 5.</p>
+<h2>Top 5 Bruno Rocha</h2><h3>Livros:</h3><ol><li><a href="https://duckduckgo.com/?q=De+Alma+para+Alma+Huberto+Rohden" target=_blank>De Alma para Alma</a></li><li><a href=https://www.goodreads.com/book/show/830875.O_Triste_Fim_de_Policarpo_Quaresma target=_blank>O Triste Fim de Policarpo Quaresma</a></li><li><a href=https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice target=_blank>The Paradox of Choice</a></li><li><a href=https://www.goodreads.com/book/show/24263517-a-politica-sexual-da-carne target=_blank>A Politica Sexual Da Carne</a></li><li><a href=https://www.goodreads.com/book/show/1332383.Programming_in_Lua target=_blank>Programming in Lua</a></li><li><a href=https://www.goodreads.com/book/show/80444.Python_Essential_Reference target=_blank>Python Essential Reference</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt0068646/ target=_blank>O Poderoso Chefão</a></li><li><a href=https://www.imdb.com/title/tt0086250/ target=_blank>Scarface</a></li><li><a href=https://www.imdb.com/title/tt0095765/ target=_blank>Cinema Paradiso</a></li><li><a href=https://www.imdb.com/title/tt0386676/ target=_blank>The Office</a></li><li><a href=https://www.imdb.com/title/tt2616280/ target=_blank>Derek</a></li><li><a href=https://www.imdb.com/title/tt0032553/ target=_blank>Charlie Chaplin - O Grande Ditador</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Anathema target=_blank>Anathema</a></li><li><a href=https://www.last.fm/music/Jethro+Tull target=_blank>Jethro Tull</a></li><li><a href=https://www.last.fm/music/Black+Sabbath target=_blank>Black Sabbath</a></li><li><a href=https://www.last.fm/music/Kreator target=_blank>Kreator</a></li><li><a href=https://www.last.fm/music/Nicola+Arigliano target=_blank>Nicola Arigliano</a></li></ol>
+<h2>Top 5 Elyézer Rezende</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/book/show/3159713-o-monge-e-o-executivo target=_blank>O Monge e o Executivo</a></li><li><a href=https://www.goodreads.com/book/show/1873060.The_Go_Giver target=_blank>O Conselheiro</a></li><li><a href=https://www.goodreads.com/book/show/24038.Dive_Into_Python target=_blank>Dive into Python</a></li><li><a href=https://www.goodreads.com/book/show/25834332-aprendendo-python target=_blank>Aprendendo Python</a></li><li><a href=https://www.goodreads.com/book/show/13607232-practical-vim target=_blank>Practical Vim</a></li><li><a href=https://www.goodreads.com/book/show/36361456-python-fluente target=_blank>Python Fluente</a></li><li><a href=https://www.goodreads.com/book/show/9633168-express-es-regulares target=_blank>Expressões Regulares</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt0848228/ target=_blank>The Avengers</a></li><li><a href=https://www.imdb.com/title/tt0120689/ target=_blank>A Espera de um Milagre</a></li><li><a href=https://www.imdb.com/title/tt1063669/ target=_blank>A Onda</a></li><li><a href=https://www.imdb.com/title/tt0914798/ target=_blank>O Menino do Pijama Listrado</a></li><li><a href=https://www.imdb.com/title/tt0133093/ target=_blank>The Matrix</a></li><li><a href=https://www.imdb.com/title/tt0372784/ target=_blank>Batman</a></li><li><a href=https://www.imdb.com/title/tt2306299/ target=_blank>Vikings</a></li><li><a href=https://www.imdb.com/title/tt3107288/ target=_blank>The Flash</a></li><li><a href=https://www.imdb.com/title/tt2193021/ target=_blank>Arrow</a></li><li><a href=https://www.imdb.com/title/tt3322314/ target=_blank>Luke Cage</a></li><li><a href=https://www.imdb.com/title/tt3322312/ target=_blank>Demolidor</a></li><li><a href=https://www.imdb.com/title/tt5197820/ target=_blank>Van Helsing</a></li><li><a href=https://www.imdb.com/title/tt0121220/ target=_blank>Dragon Ball Z</a></li><li><a href=https://www.imdb.com/title/tt0161952/ target=_blank>Os Cavaleiros do Zodíaco</a></li><li><a href=https://www.imdb.com/title/tt0027977/ target=_blank>Charlie Chaplin - Tempos Modernos</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Linkin+Park target=_blank>Linkin Park</a></li><li><a href=https://www.last.fm/music/Fort+Minor target=_blank>Fort Minor</a></li><li><a href=https://www.last.fm/music/Hardwell target=_blank>Hardwell</a></li><li><a href=https://www.last.fm/music/Nicky+Romero target=_blank>Nicky Romero</a></li><li><a href=https://www.last.fm/music/W&W target=_blank>W&W</a></li><li><a href=https://www.last.fm/music/Queen target=_blank>Queen</a></li><li><a href=https://www.last.fm/music/Scorpions target=_blank>Scorpions</a></li><li><a href=https://www.last.fm/music/Michael+Jackson target=_blank>Michael Jackson</a></li><li><a href=https://www.last.fm/music/2cellos target=_blank>2Cellos</a></li></ol>
+<h2>Top 5 Og Maciel</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/book/show/6250312-os-meninos-da-rua-paulo target=_blank>Os Meninos da Rua Paulo</a></li><li><a href=https://www.goodreads.com/book/show/50033.Dandelion_Wine target=_blank>Dandelion Wine</a></li><li><a href=https://www.goodreads.com/book/show/6294159-as-vinhas-da-ira target=_blank>As Vinhas da Ira</a></li><li><a href=https://www.goodreads.com/book/show/82888.Dom_Casmurro target=_blank>Dom Casmurro</a></li><li><a href=https://www.goodreads.com/book/show/723456.Capit_es_da_Areia target=_blank>Capitães da Areia</a></li><li><a href=https://www.goodreads.com/author/show/1357307.Maria_Jos_Dupr_ target=_blank>Maria José Dupré</a></li><li><a href=https://www.goodreads.com/author/show/2450573.Monteiro_Lobato target=_blank>Monteiro Lobato</a></li><li><a href=https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume target=_blank>Série Vaga-lume</a></li><li><a href=https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume target=_blank>Série Vaga-lume</a></li><li><a href=https://www.goodreads.com/book/show/3620538-as-tiras-cl-ssicas-da-turma-da-m-nica target=_blank>Turma da Mônica</a></li><li><a href=https://www.goodreads.com/book/show/23293716-tio-patinhas target=_blank>Tio Patinhas</a></li><li><a href=https://www.goodreads.com/book/show/30309481-tex-graphic-novel-1 target=_blank>Tex</a></li><li><a href=https://www.goodreads.com/book/show/13558175-ken-parker target=_blank>Ken Parker</a></li><li><a href=https://www.goodreads.com/book/show/6600147-zagor-n-1 target=_blank>Zagor</a></li><li><a href=https://www.goodreads.com/author/show/696805.Jules_Verne target=_blank>Jules Verne</a></li><li><a href=https://www.goodreads.com/author/show/16667.Isaac_Asimov target=_blank>Isaac Asimov</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt0083658/ target=_blank>Blade Runner</a></li><li><a href=https://www.imdb.com/title/tt0110912/ target=_blank>Pulp Fiction</a></li><li><a href=https://www.imdb.com/title/tt0208092/ target=_blank>Snatch</a></li><li><a href=https://www.imdb.com/title/tt0118715/ target=_blank>The Big Lebowski</a></li><li><a href=https://www.imdb.com/title/tt0190590/ target=_blank>O Brother, Where Art Thou?</a></li><li><a href=https://www.imdb.com/title/tt0060196/ target=_blank>The Good, The Bad and The Ugly</a></li><li><a href=https://www.imdb.com/title/tt0060155/ target=_blank>Beau Geste</a></li><li><a href=https://www.imdb.com/title/tt0085011/ target=_blank>Caverna do Dragão</a></li><li><a href=https://pt.wikipedia.org/wiki/Sess%C3%A3o_da_Tarde target=_blank>Sessão da Tarde</a></li><li><a href=https://www.imdb.com/title/tt0149528/ target=_blank>Sítio do Pica-Pau Amarelo</a></li><li><a href=https://www.imdb.com/title/tt0143073/ target=_blank>Os Trapalhões</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Legi%C3%A3o+Urbana target=_blank>Legião Urbana</a></li><li><a href=https://www.last.fm/music/Dire+Straits target=_blank>Dire Straits</a></li><li><a href=https://www.last.fm/music/Engenheiros+Do+Hawaii target=_blank>Engenheiros do Hawaii</a></li><li><a href=https://www.last.fm/music/Os+Paralamas+Do+Sucesso target=_blank>Os Paralamas do Sucesso</a></li><li><a href=https://www.last.fm/music/Pink+Floyd target=_blank>Pink Floyd</a></li><li><a href=https://www.last.fm/music/Led+Zeppelin target=_blank>Led Zeppelin</a></li><li><a href=https://www.last.fm/music/Nirvana target=_blank>Nirvana</a></li><li><a href=https://www.last.fm/music/Ella+Fitzgerald target=_blank>Ella Fitzgerald</a></li><li><a href=https://www.last.fm/music/Etta+James target=_blank>Etta James</a></li></ol>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que de
+alguma forma fizeram parte do Castálio Podcast nesses 6 anos. Não deixe de
+deixar seu comentário, pois ele tem um valor muito grande e nos dá forca para
+continuar. Deixe seus comentários aqui no site, ou no <a class="reference external" href=https://twitter.com/castaliopod>Twitter</a> ou no <a class="reference external" href=https://www.facebook.com/castaliopod>Facebook</a>.</p>
+<p>Que venham muito mais anos, até o próximo episódio.</p>
+</div>
+<div class=section id=ainda-nao-ouviu-escute-agora>
+<h2>Ainda não ouviu? escute agora!</h2>
+<div class=card>
+<div class=card-body>
+<div class="card-text podcast text-center">
+<iframe src=https://archive.org/embed/castalio-podcast-88 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
+</div>
+<div class="podcast-download text-center">
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-88/castalio-podcast-88.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-88/castalio-podcast-88.ogg><i class="bi bi-download"></i> OGG</a>
+</div>
+</div>
+</div>
+<p class="alert alert-info"><strong>Music (Música)</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+</div>
+</div></div><h2>Tags</h2>
+<p class=lh-lg>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/castalio/>castalio</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/aniversario/>aniversario</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/og-maciel/>og maciel</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/bruno-rocha/>bruno rocha</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/elyezer-rezende/>elyezer rezende</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/top-5/>top 5</a>
+</p><hr><div class="post-navs d-flex mb-3 justify-content-evenly">
+<div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
+<a href=https://castalio.info/episodes/087-linguagem-go-parte-2/>Episódio 87: Linguagem De Programação Go - Parte 2
+</a>
+</div><div class="post-nav post-next">
+<a href=https://castalio.info/episodes/089-tech-news-e-book-review/>Episódio 89: Tech News E Review Do Livro Ready Player One
+</a>
+<i class="bi bi-chevron-right"></i>
+</div></div><section class=related-posts-wrapper>
+<h3>Episódios Relacionados</h3>
+<ul class=related-posts><li><a href=https://castalio.info/episodes/071-bruno-quokka-cms/>Episódio 71: Bruno Rocha - Quokka CMS
+</a></li><li><a href=https://castalio.info/episodes/070-bruno-rocha-flask-veganismo/>Episódio 70: Bruno Rocha - Flask E Veganismo
+</a></li></ul>
+</section></div>
+</article><div class="post-comments card row component">
+<div class=card-body><div id=disqus_thread></div>
+<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
+<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
+<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
+</div></div>
+</div>
+</div>
+</main><footer id=footer>
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-md-3>
+<h4>Sobre</h4>
+<p>
+O Castálio Podcast é fruto da imaginação e curiosidade
+incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+Caso você tenha alguma sugestão para o nosso próximo convidado,
+nos envie sua idéia para o nosso e-mail.
+</p>
+<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
+<i class="bi bi-info-circle"></i> Saiba mais </a>
+</div>
+<div class=col-md-3>
+<h4>Social</h4>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+<div class=col-md-3>
+<h4>Sites Amigos</h4>
+<ul id=footer-social class=list-unstyled>
+<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
+<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
+<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
+<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
+</ul>
+</div>
+</div>
+<div class="row justify-content-center">
+<p class=text-center>
+<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+</p>
+</div>
+</div>
+</footer>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
+<span class=podcast-download-count>
+<i class="bi bi-download" aria-hidden=true></i>
+<span id=download-count>-</span>
+</span>
+<script type=text/javascript>function set_download_count(a){$("#download-count").text(a.item.downloads)}</script>
+<script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-88%20castalio-podcast-88.mp3]&callback=set_download_count?output=json"></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
+<script async src=https://www.google-analytics.com/analytics.js></script>
+</body>
+</html>

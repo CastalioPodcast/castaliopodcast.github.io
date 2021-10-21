@@ -1,0 +1,339 @@
+<!doctype html><html lang=en><head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link href=/images/favicon.ico rel=icon>
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
+<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
+<title>Hello, world!</title>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast
+</a>
+<button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
+<ul class="navbar-nav ms-auto"><li class=nav-item>
+<a class=nav-link href=https://castalio.info/sobre/>
+Sobre
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/agenda/>
+Agenda
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/episodes/>
+Episódios
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/tags/english/>
+English Episodes
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/top5/>
+Top 5
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/youtube/>
+Youtube
+</a>
+</li><li class="nav-item dropdown">
+<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
+<i class="bi bi-caret-down-fill"></i> Inscreva-se
+</a>
+<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
+<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
+FeedBurner (RSS Feed)
+</a>
+</li><li>
+<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
+Google Podcasts
+</a>
+</li><li>
+<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
+iTunes
+</a>
+</li><li>
+<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
+Overcast
+</a>
+</li><li>
+<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
+Pocket Casts
+</a>
+</li><li>
+<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
+Spotify
+</a>
+</li><li>
+<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
+YouTube
+</a>
+</li></ul>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/archives/>
+<i class="bi bi-archive"></i> Arquivos
+</a>
+</li></ul>
+<form class=d-flex action=https://castalio.info/search>
+<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
+</form>
+</div>
+</div>
+</nav>
+<div id=hero class="px-4 py-5 my-5 text-center">
+<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
+<div class="col-lg-6 mx-auto">
+<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
+<div class=fs-1>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+</div>
+</div>
+<main role=main class=container>
+<div class="row content">
+<div class=col-lg-12>
+<div class=container><article class="post row card mb-4 component">
+<div class=card-body>
+<h1 class="card-title my-3">Episódio 113: Multimedia No Linux - Parte 2
+</h1><div class=post-meta><span class=post-date title=Data>
+<i class="bi bi-calendar-date-fill"></i>
+Aug 14, 2017
+</span><span class=post-authors title=Autores>
+<i class="bi bi-person-fill"></i>
+Og Maciel, Elyézer Rezende, Bruno Rocha
+</span><span class=post-reading-time title="Tempo de Leitura">
+<i class="bi bi-clock-fill"></i>
+3 minutos
+</span></div>
+<img class="float-start img-thumbnail post-image" src=/images/episode-113.png>
+<div class="post-content mb-3"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No Episódio de hoje daremos continuidade a nossa série sobre produção multimídia no
+Linux. Já falamos um pouco sobre <a class="reference external" href=http://castalio.info/episodio-111-multimedia-no-linux-parte-1.html>GIMP e Inkscape</a>, e teremos ainda mais episódios
+sobre produção gráfica, 3D com Blender e edição de vídeo. Mas hoje a nossa atenção
+estará voltada para um tema pouco falado e que é muito importante também para produção
+de vídeo, produção musical e é claro para edição de podcasts.</p>
+<p>Para falar sobre produção e edição de áudio no Linux hoje trouxemos o Danilo J. S.
+Bellini que é engenheiro eletricista, bacharel em música e mestre em ciência da computação
+pela USP. Ele é também o criador do <a class="reference external" href=https://github.com/danilobellini/audiolazy>AudioLazy</a>, uma biblioteca expressiva em Python para
+Processamento Digital de Sinais (DSP) em tempo real.</p>
+<div class=clearfix></div><p>Abordamos os seguintes tópicos:</p>
+<ul class=simple>
+<li>Como que surgiu seu interesse por áudio e como foi que ele começou a mexer com edição
+e produção de áudio</li>
+<li>Quais foram os tipos de projetos e trabalhos de áudio que ele já executou e os principais
+softwares de áudio que ele já utilizou no Linux</li>
+<li>Uma comparação entre <a class="reference external" href=https://ardour.org/>Ardour</a> e <a class="reference external" href=http://www.audacityteam.org/>Audacity</a></li>
+<li>Sobre a <a class="reference external" href=http://chuck.cs.princeton.edu>Linguagem ChucK</a></li>
+<li>Quais são as vantagens (e desvantagens) no trabalho com áudio no Linux</li>
+<li>O que precisa para ligar uma mesa de som no Linux</li>
+<li>Sobre a biblioteca escrita em Python chamada AudioLazy</li>
+</ul>
+<p>Como sempre, nossa entrevista foi gravada ao vivo no nossa canal no <a class="reference external" href=https://www.youtube.com/c/CastalioPodcast>YouTube</a> e para ver a
+gravação deste episódio confira o vídeo abaixo:</p>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden>
+<iframe src=https://www.youtube.com/embed/57f3G0A6cnM style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="YouTube Video"></iframe>
+</div>
+<p>A <a class="reference external" href=http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/>RubyConf</a>
+em parceria com o Castálio Podcast disponibilizou 10 ingressos para sortear
+para nossos ouvintes e também o cupom <strong>PRC_Castalio</strong> que concede 30% de
+desconto na compra do ingresso, à partir do segundo lote. Serão sorteados dois
+ingressos por episódio e para concorrer basta preencher o <a class="reference external" href=http://bit.ly/CastalioRubyConf>formulário</a> e estar inscrito no <a class="reference external" href=http://www.youtube.com/c/CastalioPodcast>canal do YouTube</a>.</p>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a class="reference external" href=https://twitter.com/castaliopod>Twitter</a> ou
+no <a class="reference external" href=https://www.facebook.com/castaliopod>Facebook</a>. Também não esqueça de
+seguir a <a class="reference external" href=https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg>Playlist do Castálio Podcast</a> e
+assinar nosso <a class="reference external" href=http://www.youtube.com/c/CastalioPodcast>canal do YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<div class=section id=contato>
+<h2>Contato</h2>
+<div class=row>
+<div class=col-md-6>
+<p>
+<div class=media>
+<div class=media-left>
+<img class="media-object rounded-circle img-thumbnail" src=/images/danilo-bellini.jpg alt="Danilo J. S. Bellini" width=200px>
+</div>
+<div class=media-body>
+<h4 class=media-heading>Danilo J. S. Bellini</h4>
+<ul class=list-unstyled>
+<li><i class="bi bi-bitbucket"></i> <a href=https://bitbucket.org/danilobellini/>BitBucket</a></li>
+<li><i class="bi bi-facebook"></i> <a href=https://www.facebook.com/djsbellini>Facebook</a></li>
+<li><i class="bi bi-github"></i> <a href=https://github.com/danilobellini>Github</a></li>
+<li><i class="bi bi-linkedin"></i> <a href=https://www.linkedin.com/in/danilo-j-s-bellini-66a96310/>LinkedIn</a></li>
+<li><i class="bi bi-slideshare"></i> <a href=http://slideshare.net/djsbellini/>SlideShare</a></li>
+<li><i class="bi bi-twitter"></i> <a href=https://twitter.com/danilobellini>Twitter</a></li>
+</ul>
+</div>
+</div>
+</p>
+</div>
+</div></div>
+<div class=section id=escute-agora>
+<h2>Escute Agora</h2>
+<div class=card>
+<div class=card-body>
+<div class="card-text podcast text-center">
+<iframe src=https://archive.org/embed/castalio-podcast-113 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
+</div>
+<div class="podcast-download text-center">
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-113/castalio-podcast-113.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-113/castalio-podcast-113.ogg><i class="bi bi-download"></i> OGG</a>
+</div>
+</div>
+</div>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal target=_blank>Wikipedia</a></li><li><a href=https://wiki.archlinux.org/index.php/Main_page_%28Portugu%C3%AAs%29 target=_blank>Wiki do Arch Linux</a></li><li><a href=https://github.com/danilobellini/scientific-literature/blob/master/1936-Fisher/Fisher_1936.ipynb target=_blank>Artigo sobre o descriminante linear</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt0944947/ target=_blank>Game of Thrones</a></li><li><a href=https://www.imdb.com/title/tt2306299/ target=_blank>Vikings</a></li><li><a href=https://www.imdb.com/title/tt0388629/ target=_blank>One Piece</a></li><li><a href=https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga target=_blank>Shōnen</a></li><li><a href=https://en.wikipedia.org/wiki/Seinen_manga target=_blank>Seinen</a></li><li><a href=https://www.imdb.com/title/tt0773262/ target=_blank>Dexter</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Arch+Enemy/_/War+Eternal target=_blank>Arch Enemy - War Eternal</a></li><li><a href=https://www.last.fm/music/Rhapsody/_/Sacred+Power+of+Raging+Winds target=_blank>Rhapsody - Sacred Power of Raging Winds</a></li><li><a href=https://www.last.fm/music/Iron+Maiden/_/Aces+High target=_blank>Iron Maiden - Aces High</a></li><li><a href=https://www.last.fm/music/Dream+Theater/_/Erotomania target=_blank>Dream Theater - Erotomania</a></li><li><a href=https://www.last.fm/music/Eluveitie/_/The+Call+of+the+Mountains target=_blank>Eluveitie - The Call of the Mountains</a></li></ol>
+</div>
+<div class=section id=links>
+<h2>Links</h2>
+<ul class=simple>
+<li><a class="reference external" href=https://sourceforge.net/projects/avix/>AviX</a></li>
+<li><a class="reference external" href=https://www.reaper.fm/>Reaper</a></li>
+<li><a class="reference external" href=https://www.adobe.com/products/audition.html>Adobe Audition</a></li>
+<li><a class="reference external" href=https://lmms.io/)>LMMS</a></li>
+<li><a class="reference external" href=http://www.hydrogen-music.org>Hydrogen</a></li>
+<li><a class="reference external" href=https://www.image-line.com/flstudio/>Fruit Loops</a></li>
+<li><a class="reference external" href=http://www.avid.com/pro-tools>Pro Tools</a></li>
+<li><a class="reference external" href=http://sox.sourceforge.net/>Sox</a></li>
+<li><a class="reference external" href=https://ffmpeg.org/>ffmpeg</a></li>
+<li><a class="reference external" href=https://csound.github.io/>Csound</a></li>
+<li><a class="reference external" href=http://puredata.info/>Pure Data</a></li>
+<li><a class="reference external" href=http://faust.grame.fr/>Faust</a></li>
+<li><a class="reference external" href=https://supercollider.github.io/>SuperCollider</a></li>
+</ul>
+<p class="alert alert-info"><strong>Music (Música)</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+</div>
+</div></div><h2>Tags</h2>
+<p class=lh-lg>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/danilo-j.-s.-bellini/>danilo j. s. bellini</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/audiolazy/>audiolazy</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ardour/>ardour</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/audacity/>audacity</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/avix/>avix</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/reaper/>reaper</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/adobe-audition/>adobe audition</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/lmms/>lmms</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/hydrogen/>hydrogen</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/fruit-loops/>fruit loops</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/pro-tools/>pro tools</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/sox/>sox</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ffmpeg/>ffmpeg</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/csound/>csound</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/pure-data/>pure data</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/faust/>faust</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/supercollider/>supercollider</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/war-eternal/>war eternal</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/arch-enemy/>arch enemy</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/sacred-power-of-raging-winds/>sacred power of raging winds</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/rhapsody/>rhapsody</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/aces-high/>aces high</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/iron-maiden/>iron maiden</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/erotomania/>erotomania</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/dream-theater/>dream theater</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/the-call-of-the-mountains/>the call of the mountains</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/eluveitie/>eluveitie</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/wikipedia/>wikipedia</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/game-of-thrones/>game of thrones</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/vikings/>vikings</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/one-piece/>one piece</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/sh%C5%8Dnen/>shōnen</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/seinen/>seinen</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/dexter/>dexter</a>
+</p><hr><div class="post-navs d-flex mb-3 justify-content-evenly">
+<div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
+<a href=https://castalio.info/episodes/112-waldirio-pinheiro-spacewalk/>Episódio 112: Waldirio Manhães Pinheiro - Spacewalk
+</a>
+</div><div class="post-nav post-next">
+<a href=https://castalio.info/episodes/114-mariatta-wijaya-cpython/>Episódio 114: Mariatta Wijaya - CPython
+</a>
+<i class="bi bi-chevron-right"></i>
+</div></div><section class=related-posts-wrapper>
+<h3>Episódios Relacionados</h3>
+<ul class=related-posts><li><a href=https://castalio.info/episodes/047-carlos-brando-e-rafael-rosa-fu-grokpodcast-part-2/>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 2
+</a></li><li><a href=https://castalio.info/episodes/046-carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1/>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 1
+</a></li><li><a href=https://castalio.info/episodes/035-fabio-kung-e-pedro-belo-heroku/>Fábio Kung E Pedro Belo: Heroku
+</a></li><li><a href=https://castalio.info/episodes/031-ivan-brasil-fuzzer-ubuntero/>Ivan Brasil Fuzzer: Ubuntero
+</a></li><li><a href=https://castalio.info/episodes/014-hugo-doria-arch-linux/>Hugo Dória - Arch Linux
+</a></li></ul>
+</section></div>
+</article><div class="post-comments card row component">
+<div class=card-body><div id=disqus_thread></div>
+<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
+<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
+<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
+</div></div>
+</div>
+</div>
+</main><footer id=footer>
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-md-3>
+<h4>Sobre</h4>
+<p>
+O Castálio Podcast é fruto da imaginação e curiosidade
+incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+Caso você tenha alguma sugestão para o nosso próximo convidado,
+nos envie sua idéia para o nosso e-mail.
+</p>
+<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
+<i class="bi bi-info-circle"></i> Saiba mais </a>
+</div>
+<div class=col-md-3>
+<h4>Social</h4>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+<div class=col-md-3>
+<h4>Sites Amigos</h4>
+<ul id=footer-social class=list-unstyled>
+<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
+<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
+<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
+<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
+</ul>
+</div>
+</div>
+<div class="row justify-content-center">
+<p class=text-center>
+<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+</p>
+</div>
+</div>
+</footer>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
+<span class=podcast-download-count>
+<i class="bi bi-download" aria-hidden=true></i>
+<span id=download-count>-</span>
+</span>
+<script type=text/javascript>function set_download_count(a){$("#download-count").text(a.item.downloads)}</script>
+<script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-113%20castalio-podcast-113.mp3]&callback=set_download_count?output=json"></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
+<script async src=https://www.google-analytics.com/analytics.js></script>
+</body>
+</html>

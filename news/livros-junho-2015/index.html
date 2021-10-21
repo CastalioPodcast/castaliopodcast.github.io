@@ -1,0 +1,276 @@
+<!doctype html><html lang=en><head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link href=/images/favicon.ico rel=icon>
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
+<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
+<title>Hello, world!</title>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast
+</a>
+<button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
+<ul class="navbar-nav ms-auto"><li class=nav-item>
+<a class=nav-link href=https://castalio.info/sobre/>
+Sobre
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/agenda/>
+Agenda
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/episodes/>
+Episódios
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/tags/english/>
+English Episodes
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/top5/>
+Top 5
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/youtube/>
+Youtube
+</a>
+</li><li class="nav-item dropdown">
+<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
+<i class="bi bi-caret-down-fill"></i> Inscreva-se
+</a>
+<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
+<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
+FeedBurner (RSS Feed)
+</a>
+</li><li>
+<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
+Google Podcasts
+</a>
+</li><li>
+<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
+iTunes
+</a>
+</li><li>
+<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
+Overcast
+</a>
+</li><li>
+<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
+Pocket Casts
+</a>
+</li><li>
+<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
+Spotify
+</a>
+</li><li>
+<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
+YouTube
+</a>
+</li></ul>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/archives/>
+<i class="bi bi-archive"></i> Arquivos
+</a>
+</li></ul>
+<form class=d-flex action=https://castalio.info/search>
+<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
+</form>
+</div>
+</div>
+</nav>
+<div id=hero class="px-4 py-5 my-5 text-center">
+<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
+<div class="col-lg-6 mx-auto">
+<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
+<div class=fs-1>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+</div>
+</div>
+<main role=main class=container>
+<div class="row content">
+<div class=col-lg-12>
+<div class=container><article class="post row card mb-4 component">
+<div class=card-body>
+<h1 class="card-title my-3">Livros - Junho De 2015
+</h1><div class=post-meta><span class=post-date title=Data>
+<i class="bi bi-calendar-date-fill"></i>
+Jul 3, 2015
+</span><span class=post-authors title=Autores>
+<i class="bi bi-person-fill"></i>
+79, 103, 32, 77, 97, 99, 105, 101, 108
+</span><span class=post-reading-time title="Tempo de Leitura">
+<i class="bi bi-clock-fill"></i>
+7 minutos
+</span></div>
+<img class="float-start img-thumbnail post-image" src=images/livros.jpg>
+<div class="post-content mb-3"><div class=document>
+<p>Como eu tinha mencionado no <a class="reference external" href=http://castalio.info/livros-maio-de-2015.html>artigo</a> do mês passado, no mês de junho o número de livros comprados e que ganhei devido ao meu aniversário foi bem alto! Infelizmente nem todos vieram do meu <a class="reference external" href=http://amzn.com/w/32BX7VP2GEFI1>Wish List</a> no <strong>Amazon</strong>, mas quem ainda me quizer fazer feliz, fica a dica bem descarada aqui :)</p>
+<div class=section id=lidos>
+<h2>Lidos</h2>
+<ul class=simple>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Wise+Blood">Wise Blood</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Flannery+O'Connor">Flannery O'Connor</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Open+Organization">The Open Organization</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Jim+Whitehurst">Jim Whitehurst</a></li>
+</ul>
+<p>Parece que eu li bem pouco, comparado com os outros meses, mas não foi bem assim não. Mais para frente você vai ver que eu estou lendo um livro com mais de 900 páginas, e como eu para variar leio vários livros ao mesmo tempo, eu não consegui terminar ele todo este mês... mas estou quase lá :)</p>
+<p>O livro <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Open+Organization">The Open Organization</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Jim+Whitehurst">Jim Whitehurst</a>, o atual CEO da <strong>Red Hat</strong> (companhia para qual eu trabalho desde 2011), eu ganhei quando ele foi lançado e eu resolvi dar uma prioridade a ele, não por ter sido escrito pelo chefe do meu chefe :) mas sim por tratar de assuntos que me interessam, e muito. O livro toca em muitos assuntos que não são necessariamente novos para mim, mas que fazem parte do meu dia à dia e que eu tenho oportunidade de praticar no meu trabalho. O conceito de <strong>meritocracia</strong> faz parte do DNA de todo mundo aqui na <strong>Red Hat</strong> e é bem bacana ler sobre como que tudo isso afetou e moldou o a personalidade e caráter do <strong>Jim Whitehurst</strong> depois que ele saiu da <strong>Delta</strong> e entrou na companhia. O "shock cultural" por qual ele passou foi bem interessante e algo que eu tive a oportunidade de aprender haá alguns anos atrás. Várias das pessoas que ele cita no decorrer do livro são pessoas que eu tenho contato direto, o que fez a experiência da leitura muito mais íntima e relevante para mim.</p>
+<p><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Wise+Blood">Wise Blood</a> da <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Flannery+O'Connor">Flannery O'Connor</a> foi uma recomendação da minha esposa, e como eu já tinha lido outras estórias da <strong>Flannery O'Connor</strong> (e fiquei super impressionado com a primeira delas, <strong>A Good Man is Hard to Find</strong>), decidi ler um pouco mais das coisas que ela escreveu. Como na maioria das coisas dela que eu li antes, existe um tema bem forte sobre religião e como que isso afeta as pessoas, nem sempre de uma forma positiva. Os personagens e cenários também são baseados na região do sul dos Estados Unidos, e é realmente bem surpreendente como ela consegue captar a essência do sul do país! Infelizmente eu senti que o enredo do livro estava maio que desconectado, com eventos que não pareciam adicionar nada à estória principal e personagens que depois de muita participação simplesmente desaparecem sem nenhum rastro ou impacto na conclusão. Foi somente depois que dei uma investigada que descobri que este livro parece ter sido feito por várias outras estórias que a autora escreveu mais cedo em sua carreira, e foram "martelados" juntos para criar um livro só. De qualquer forma, eu recomendo esta escritora caso você ainda não a conheça, e recomendo fortemente o <strong>A Good Man is Hard to Find</strong> por ser bem "dark" e um perfeito exemplo do estilo dela!</p>
+</div>
+<div class=section id=lendo>
+<h2>Lendo</h2>
+<ul class=simple>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Memoirs+of+Sherlock+Holmes">The Memoirs of Sherlock Holmes</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Arthur+Conan+Doyle">Arthur Conan Doyle</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=S">S</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=J.+J.+Abrams">J. J. Abrams</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Fluent+Python">Fluent Python</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Luciano+Ramalho">Luciano Ramalho</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Cryptonomicon">Cryptonomicon</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Neal+Stephenson">Neal Stephenson</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+October+Country">The October Country</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Ray+Bradbudy">Ray Bradbudy</a></li>
+</ul>
+<p>Para falar a verdade, eu quase não toquei no <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Memoirs+of+Sherlock+Holmes">The Memoirs of Sherlock Holmes</a> neste mês, especialmente por que, como eu falei no <a class="reference external" href=http://castalio.info/livros-maio-de-2015.html>artigo</a> anterior, eu não fiquei impressionado com as estórias e achei a grande maioria super maçante. Vamos ver se eu termino ele...</p>
+<p>O <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Fluent+Python">Fluent Python</a> do <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Luciano+Ramalho">Luciano Ramalho</a> foi outro que eu quase não abri, mas por motivos bem mais diferentes. O problema foi encontrar tempo livro para ler um livro técnico, isso depois de passar o mês inteiro resolvendo problemas no trabalho. Todo o meu tempo livre em junho foi passado lendo coisas que me relaxavam e eu fiz um esforço grande para me desconectar de qualquer tema que fosse relacionado a trabalho. Mas o livro é supimpa e eu vou terminar ele sim!</p>
+<p>O <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Cryptonomicon">Cryptonomicon</a> é o livro que eu mencionei antes por ser enorme (910 páginas na edição que tenho) e ter tomado grande parte do meu tempo de leitura. Eu geralmente leio ele à noite, bem antes de dormir. A estória é bem interessante e dar para ver por que muitas pessoas o sugerem para quem gosta de ficção. Misturando um pouco de história da segunda guerra mundial, com personagens da vida real, e tecnologias que fazem parte da nossa vida hoje, eu tenho lido este livro aos poucos, me deliciando com cada capítulo e revelações. Já estou quase na página 600 :)</p>
+<p>O <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=S">S</a> do <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=J.+J.+Abrams">J. J. Abrams</a> tem sido o livro mais difícil de ler! Não por ser chato (como o <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Memoirs+of+Sherlock+Holmes">The Memoirs of Sherlock Holmes</a>) mas por requerer muito tempo e "trabalho" para ler. Deixa eu explicar. O livro tem uma estória bem interessante, sobre uma pessoa que um dia se dá por sí em um local completamente estranho... com sua roupa completamente molhada de água do mar... e com aminésia! Mas durante o livro todo, as margens das páginas estão completamente cheias de comentários e mensagens escritas à mão (com caneta, lápis, etc). Quando você começa a ler estas mensagens, você descobre que duas pessoas completamente desconhecidas (tanto para nós, os leitores, mas também entre eles mesmos) começaram a se comunicar casualmente deixando 'recados' nas margens deste livro, o qual eles pegam e retornam à biblioteca toda vez que querem receber uma resposta do outro. Durante o percorrer deste comentários você então descobre que a estória descrita no livro talvez seja uma mensagem codificada para explicar a estranha vida e eventual desaparecimento de seu autor. A cada 10 páginas você encontra papeis avulsos que supostamente teriam sido deixados pelas duas pessoas que estão se comunicando às margens do livro, cópias de documentos, cartas ou jornais que servem de pistas e provas que foram encontrados pelos mesmos tentando desvendar o mistério. Para cada página que você lê da estória do livro, você passa quase o mesmo tempo lendo os comentários e papeis avulsos. Super bacana mas bem trabalhoso para ler ;)</p>
+</div>
+<div class=section id=presentes>
+<h2>Presentes</h2>
+<ul class=simple>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=John+Carter+of+Mars">John Carter of Mars</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Edgar+Rice+Burroughs">Edgar Rice Burroughs</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Vidas+Secas">Vidas Secas</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Graciliano+Ramos">Graciliano Ramos</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Walden">Walden</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Henry+David+Thoreau">Henry David Thoreau</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Read+This+Next:+500+of+the+Best+Books+You'll+Ever+Read">Read This Next: 500 of the Best Books You'll Ever Read</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Howard+Mittelmark">Howard Mittelmark</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Foundation+Trilogy">The Foundation Trilogy</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Isaac+Asimov">Isaac Asimov</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=John+Cheever:+Complete+Novels">John Cheever: Complete Novels</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=John+Cheever">John Cheever</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Short+Stories+of+John+Steinbeck">The Short Stories of John Steinbeck</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=John+Steinbeck">John Steinbeck</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=A+Morte+e+a+Morte+de+Quincas+Berro+Dágua">A Morte e a Morte de Quincas Berro Dágua</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Jorge+Amado">Jorge Amado</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Cacau">Cacau</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Jorge+Amado">Jorge Amado</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Capitães+da+Areia">Capitães da Areia</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Jorge+Amado">Jorge Amado</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Tenda+dos+Milagres">Tenda dos Milagres</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Jorge+Amado">Jorge Amado</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Classic+American+Short+Stories">Classic American Short Stories</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Michael+Kelahan">Michael Kelahan</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Martian+Chronicles/The+Illustrated+Man/The+Golden+Apples+of+the+Sun">The Martian Chronicles/The Illustrated Man/The Golden Apples of the Sun</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Ray+Bradbury">Ray Bradbury</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+October+Country">The October Country</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Ray+Bradbury">Ray Bradbury</a></li>
+</ul>
+<p>No meu aniversário, como esperado (não, <strong>antecipado</strong>), ganhei um monte de livros, a grande maioria com encadernação de couro e perfeitos para a minha biblioteca pessoal. Até mesmo ganhei alguns do <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Jorge+Amado">Jorge Amado</a>, presente que meus pais trouxeram de sua última viagem ao Brasil!</p>
+</div>
+<div class=section id=comprados>
+<h2>Comprados</h2>
+<ul class=simple>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Portable+Chekhov">The Portable Chekhov</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Anton+Chekhov">Anton Chekhov</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Fall">The Fall</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Camus">Camus</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Notes+From+Underground">Notes From Underground</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Fyodor+Dostoyevsky">Fyodor Dostoyevsky</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Possessed">The Possessed</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Fyodor+Dostoyevsky">Fyodor Dostoyevsky</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Great+Short+Works+of+Herman+Melville">Great Short Works of Herman Melville</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Herman+Melville">Herman Melville</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Novels+and+Stories:+Call+of+the+Wild+/+White+Fang+/+The+Sea-Wolf+/+Klondike+and+Other+Stories">Novels and Stories: Call of the Wild / White Fang / The Sea-Wolf / Klondike and Other Stories</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Jack+London">Jack London</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Dom+Casmurro">Dom Casmurro</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Machado+de+Assis">Machado de Assis</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Complete+Short+Stories+of+Marcel+Proust">The Complete Short Stories of Marcel Proust</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Marcel+Proust">Marcel Proust</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Slam">Slam</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Nick+Hornby">Nick Hornby</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Zen+and+the+Art+of+Motorcycle+Maintenance:+An+Inquiry+Into+Values">Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Robert+M.+Pirsig">Robert M. Pirsig</a></li>
+<li><a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Sophocles+I:+Oedipus+the+King,+Oedipus+at+Colonus,+Antigone">Sophocles I: Oedipus the King, Oedipus at Colonus, Antigone</a> por <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Sophocles">Sophocles</a></li>
+</ul>
+<p>Já dentre os livros que eu comprei, todos usados, eu fiquei super feliz por ter encontrado o <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Dom+Casmurro">Dom Casmurro</a> do <a class="reference external" href="https://www.goodreads.com/search?utf8=%E2%9C%93&query=Machado+de+Assis">Machado de Assis</a>, só que em inglês! A próxima vez que eu for ao Brasil (acho que em outubro vou à São Paulo) vou levar uma mala a mais só para trazer uma tonelada de livros brasileiros!</p>
+<p>Bem, mais uma vez eu espero que vocês tenham curtido este relatório mensal e, mais uma vez eu pergunto: o que você tem lido de interessante ultimamente? :)</p>
+</div>
+</div></div><h2>Tags</h2>
+<p class=lh-lg>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/anton-chekhov/>Anton Chekhov</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/arthur-conan-doyle/>Arthur Conan Doyle</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/camus/>Camus</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/edgar-rice-burroughs/>Edgar Rice Burroughs</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/flannery-oconnor/>Flannery O'Connor</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/fyodor-dostoyevsky/>Fyodor Dostoyevsky</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/graciliano-ramos/>Graciliano Ramos</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/henry-david-thoreau/>Henry David Thoreau</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/herman-melville/>Herman Melville</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/howard-mittelmark/>Howard Mittelmark</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/isaac-asimov/>isaac asimov</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/j.-j.-abrams/>J. J. Abrams</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/jack-london/>Jack London</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/jim-whitehurst/>Jim Whitehurst</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/john-cheever/>John Cheever</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/john-steinbeck/>john steinbeck</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/jorge-amado/>jorge amado</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/luciano-ramalho/>luciano ramalho</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/machado-de-assis/>Machado de Assis</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/marcel-proust/>Marcel Proust</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/michael-kelahan/>Michael Kelahan</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/neal-stephenson/>Neal Stephenson</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/nick-hornby/>Nick Hornby</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ray-bradbudy/>Ray Bradbudy</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ray-bradbury/>Ray Bradbury</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/robert-m.-pirsig/>Robert M. Pirsig</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/sophocles/>Sophocles</a>
+</p></div>
+</article><div class="post-comments card row component">
+<div class=card-body><div id=disqus_thread></div>
+<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
+<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
+<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
+</div></div>
+</div>
+</div>
+</main><footer id=footer>
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-md-3>
+<h4>Sobre</h4>
+<p>
+O Castálio Podcast é fruto da imaginação e curiosidade
+incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+Caso você tenha alguma sugestão para o nosso próximo convidado,
+nos envie sua idéia para o nosso e-mail.
+</p>
+<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
+<i class="bi bi-info-circle"></i> Saiba mais </a>
+</div>
+<div class=col-md-3>
+<h4>Social</h4>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+<div class=col-md-3>
+<h4>Sites Amigos</h4>
+<ul id=footer-social class=list-unstyled>
+<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
+<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
+<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
+<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
+</ul>
+</div>
+</div>
+<div class="row justify-content-center">
+<p class=text-center>
+<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+</p>
+</div>
+</div>
+</footer>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
+<script async src=https://www.google-analytics.com/analytics.js></script>
+</body>
+</html>

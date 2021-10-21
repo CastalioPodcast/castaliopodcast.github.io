@@ -1,0 +1,617 @@
+<!doctype html><html lang=en><head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link href=/images/favicon.ico rel=icon>
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
+<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
+<title>Hello, world!</title>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast
+</a>
+<button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
+<ul class="navbar-nav ms-auto"><li class=nav-item>
+<a class=nav-link href=https://castalio.info/sobre/>
+Sobre
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/agenda/>
+Agenda
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/episodes/>
+Episódios
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/tags/english/>
+English Episodes
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/top5/>
+Top 5
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/youtube/>
+Youtube
+</a>
+</li><li class="nav-item dropdown">
+<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
+<i class="bi bi-caret-down-fill"></i> Inscreva-se
+</a>
+<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
+<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
+FeedBurner (RSS Feed)
+</a>
+</li><li>
+<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
+Google Podcasts
+</a>
+</li><li>
+<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
+iTunes
+</a>
+</li><li>
+<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
+Overcast
+</a>
+</li><li>
+<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
+Pocket Casts
+</a>
+</li><li>
+<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
+Spotify
+</a>
+</li><li>
+<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
+YouTube
+</a>
+</li></ul>
+</li><li class=nav-item>
+<a class="nav-link active" href=https://castalio.info/archives/>
+<i class="bi bi-archive"></i> Arquivos
+</a>
+</li></ul>
+<form class=d-flex action=https://castalio.info/search>
+<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
+</form>
+</div>
+</div>
+</nav>
+<div id=hero class="px-4 py-5 my-5 text-center">
+<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
+<div class="col-lg-6 mx-auto">
+<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
+<div class=fs-1>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a><a class="nav-link social-link" target=_blank href=https://castalio.info/archives/index.xml title=RSS rel="noopener noreferrer">
+<i class="bi bi-rss"></i>
+</a></nav>
+</div>
+</div>
+</div>
+<main role=main class=container>
+<div class="row content"><div class="container archives col-12 mb-4">
+<div class=container><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2021</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/155-python-brasil-2021/>Episódio 155: Alynne Ferreira, Izabela Cristina E Juliana Barros - Python Brasil 2021
+</a>
+<span class="float-end post-date">Oct 5</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/154-antonio-piccinini-e-leonardo-da-silva-cdp-e-analytics/>Episódio 154: Antonio Piccinini E Leonardo Da Silva - CDP E Analytics
+</a>
+<span class="float-end post-date">Sep 6</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/153-marcelo-pinheiro-osprogramadores-carreira-ti/>Episódio 153: Marcelo Pinheiro - Podcast OsProgramadores E Sua Carreira Em TI
+</a>
+<span class="float-end post-date">Jan 19</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2020</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/152-ana-dulce-loyanne-cristine-python-brasil-2020/>Episódio 152: Ana Dulce E Loyanne Cristine - Python Brasil 2020
+</a>
+<span class="float-end post-date">Nov 30</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/151-natalia-raythz-devops-mentoria/>Episódio 151: Natalia Raythz - DevOps E Mentoria
+</a>
+<span class="float-end post-date">Oct 5</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/150-otavio-salvador-linguagem-rust/>Episódio 150: Otavio Salvador - Linguagem Rust
+</a>
+<span class="float-end post-date">Sep 14</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/149-nina-da-hora-computacao-da-hora-ogunhe/>Episódio 149: Nina Da Hora - Computação Da Hora E Ogunhê
+</a>
+<span class="float-end post-date">Aug 31</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/148-marcus-pereira-spacedevs/>Episódio 148: Marcus Pereira - Spacedevs
+</a>
+<span class="float-end post-date">Jul 20</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/147-licio-fonseca-viagens-youtube-redes/>Episódio 147: Licio Fonseca - Viagens, YouTube E Redes
+</a>
+<span class="float-end post-date">May 29</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/146-9-anos-evandro-pastor-e-og-maciel/>Episódio 146: Especial De 9 Anos Com Evandro Pastor E Og Maciel
+</a>
+<span class="float-end post-date">Feb 29</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2019</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/145-pyjamas-engenharia-de-qualidade-com-python/>Episódio 145: Pyjamas - Engenharia De Qualidade Com Python
+</a>
+<span class="float-end post-date">Dec 31</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/144-osvaldo-santana-o-inicio-da-comunidade-python-brasil/>Episódio 144: Osvaldo Santana - O Início Da Comunidade Python Brasil
+</a>
+<span class="float-end post-date">Oct 28</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/143-victor-dias-universo-programado/>Episódio 143: Victor Dias - Universo Programado
+</a>
+<span class="float-end post-date">Sep 30</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/142-david-kopec-classic-computer-science-problems-in-python/>Episode 142: David Kopec - Classic Computer Science Problems in Python
+</a>
+<span class="float-end post-date">Jun 10</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/141-george-guimaraes-code-review/>Episódio 141: George Guimarães - Code Review
+</a>
+<span class="float-end post-date">May 28</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/140-eduardo-mendes-live-de-python/>Episódio 140: Eduardo Mendes - Live De Python
+</a>
+<span class="float-end post-date">Apr 29</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/139-elcio-ferreira-padroes-e-desenvolvimento-web/>Episódio 139: Elcio Ferreira - Padrões E Desenvolvimento Web
+</a>
+<span class="float-end post-date">Mar 25</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2018</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/138-ana-paula-gomes-qualidade-de-software/>Episódio 138: Ana Paula Gomes - Qualidade De Software
+</a>
+<span class="float-end post-date">Dec 17</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/137-vicente-marcal-filosofia-com-python/>Episódio 137: Vicente Marçal - Filosofia Com Python
+</a>
+<span class="float-end post-date">Nov 27</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/136-pizza-de-dados/>Episódio 136: Pizza De Dados
+</a>
+<span class="float-end post-date">Nov 12</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/135-fernando-masanori-ensino-de-python-ao-redor-do-mundo/>Episódio 135: Fernando Masanori - Ensino De Python Ao Redor Do Mundo
+</a>
+<span class="float-end post-date">Oct 22</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/134-rodrigo-senra-jupter-notebooks/>Episódio 134: Rodrigo Senra - Jupyter Notebooks
+</a>
+<span class="float-end post-date">Oct 15</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/133-everton-melo-criptomoedas/>Episódio 133: Everton Melo - Criptomoeadas
+</a>
+<span class="float-end post-date">Jun 8</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/132-tulio-faria-react-js/>Episódio 132: Túlio Faria - React JS
+</a>
+<span class="float-end post-date">Apr 26</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/131-justin-keyes-neovim/>Episode 131: Justin Keyes - Neovim
+</a>
+<span class="float-end post-date">Apr 10</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/130-ligia-zeppelini-e-commerce/>Episódio 130: Lígia Dutra Zeppelini - E-Commerce
+</a>
+<span class="float-end post-date">Mar 27</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/129-cybelle-oliveira/>Episódio 129: Cybelle Oliveira - Codamos Club, Cryptorave, Mozilla
+</a>
+<span class="float-end post-date">Mar 19</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/128-7-anos-og-maciel/>Episódio 128: Especial De 7 Anos De Podcast Com Og Maciel
+</a>
+<span class="float-end post-date">Mar 5</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/127-grupy-sp-regis-santos/>Episódio 127: Regis Santos - Grupy-SP
+</a>
+<span class="float-end post-date">Feb 19</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/126-john-roa-pycon-colombia/>Episódio 126: John Roa - PyCon Colombia
+</a>
+<span class="float-end post-date">Jan 29</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/125-pytest/>Episódio 125: Bruno Oliveira - Pytest
+</a>
+<span class="float-end post-date">Jan 15</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2017</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/124-serverless/>Episódio 124: Serverless Com Moacir Moda Neto
+</a>
+<span class="float-end post-date">Oct 31</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/123-ambiente-de-desenvolvimento-parte2/>Episódio 123: Ambiente De Desenvolvimento - Parte 2
+</a>
+<span class="float-end post-date">Oct 23</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/122-python-brasil-13/>Episódio 122: Python Brasil 13
+</a>
+<span class="float-end post-date">Oct 16</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/121-eduardo-cuducos-linguagem-elm/>Episódio 121: Eduardo Cuducos - Linguagem Elm
+</a>
+<span class="float-end post-date">Oct 9</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/120-ambiente-de-desenvolvimento-parte1/>Episódio 120: Ambiente De Desenvolvimento - Parte 1
+</a>
+<span class="float-end post-date">Oct 2</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/119-rust-language-with-carol-nichols/>Episode 119: Carol Nichols - Rust Language
+</a>
+<span class="float-end post-date">Sep 25</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/118-jefferson-rocha-emmi-linux/>Episódio 118: Jefferson Rocha - Emmi Linux
+</a>
+<span class="float-end post-date">Sep 18</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/117-engenharia-de-qualidade-101/>Episódio 117: Engenharia De Qualidade 101
+</a>
+<span class="float-end post-date">Sep 11</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/116-tech-news/>Episódio 116: Tech News
+</a>
+<span class="float-end post-date">Sep 4</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/115-multimedia-no-linux-part-3/>Episódio 115: Multimedia No Linux - Parte 3
+</a>
+<span class="float-end post-date">Aug 28</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/114-mariatta-wijaya-cpython/>Episódio 114: Mariatta Wijaya - CPython
+</a>
+<span class="float-end post-date">Aug 21</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/113-multimedia-no-linux-part-2/>Episódio 113: Multimedia No Linux - Parte 2
+</a>
+<span class="float-end post-date">Aug 14</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/112-waldirio-pinheiro-spacewalk/>Episódio 112: Waldirio Manhães Pinheiro - Spacewalk
+</a>
+<span class="float-end post-date">Aug 7</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/111-multimedia-no-linux-parte-1/>Episódio 111: Multimedia No Linux - Parte 1
+</a>
+<span class="float-end post-date">Jul 31</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/110-willian-molinari/>Episódio 110: Willian Molinari - Desconstruindo a Web
+</a>
+<span class="float-end post-date">Jul 24</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/109-jeferson-noronha/>Episódio 109: Jeferson Noronha - Canal LinuxTips
+</a>
+<span class="float-end post-date">Jul 17</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/108-data-science-e-machine-learning/>Episódio 108: Data Science E Machine Learning
+</a>
+<span class="float-end post-date">Jul 10</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/107-chat-bots/>Episódio 107: Chat Bots
+</a>
+<span class="float-end post-date">Jul 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/106-dan-bader/>Episódio 106: Dan Bader
+</a>
+<span class="float-end post-date">Jun 26</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/105-loiane-groner/>Episódio 105: Loiane Groner
+</a>
+<span class="float-end post-date">Jun 19</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/104-caipyra-2017/>Episódio 104: Caipyra 2017
+</a>
+<span class="float-end post-date">Jun 12</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/103-linguagem-elixir/>Episódio 103: Linguagem De Programação Elixir
+</a>
+<span class="float-end post-date">Jun 5</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/102-marcelo-mello/>Episódio 102: Marcelo Mello - Red Hat E Home Assistant
+</a>
+<span class="float-end post-date">May 29</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/101-automatizacao-de-interface-web-com-selenium/>Episódio 101: Automatização De Interface Web Com Selenium
+</a>
+<span class="float-end post-date">May 22</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/100-cage-match-de-sistemas-operacionais/>Episódio 100: Cage Match De Sistemas Operacionais
+</a>
+<span class="float-end post-date">May 15</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/099-tech-news-e-book-review/>Episódio 99: Tech News E Book Review
+</a>
+<span class="float-end post-date">May 8</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/098-rodolpho-eckhardt/>Episódio 98: Rodolpho Eckhardt - YouTube, Google E SRE
+</a>
+<span class="float-end post-date">May 1</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/097-vladimir-melo/>Episódio 97: Vladimir Melo - Software Livre E Obesidade Infantil
+</a>
+<span class="float-end post-date">Apr 24</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/096-plataforma-microsoft-parte-2/>Episódio 96: Plataforma De Desenvolvimento Da Microsoft - Parte 2
+</a>
+<span class="float-end post-date">Apr 17</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/095-plataforma-microsoft-parte-1/>Episódio 95: Plataforma De Desenvolvimento Da Microsoft - Parte 1
+</a>
+<span class="float-end post-date">Apr 10</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/094-tech-news/>Episódio 94: Tech News
+</a>
+<span class="float-end post-date">Apr 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/093-linguagem-lua-parte-2/>Episódio 93: Linguagem Lua - Parte 2
+</a>
+<span class="float-end post-date">Mar 27</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/092-linguagem-lua-parte-1/>Episódio 92: Linguagem Lua - Parte 1
+</a>
+<span class="float-end post-date">Mar 20</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/091-empreender-e-programar-parte-2/>Episódio 91: Empreender E Programar - Parte 2
+</a>
+<span class="float-end post-date">Mar 13</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/090-empreender-e-programar-parte-1/>Episódio 90: Empreender E Programar - Parte 1
+</a>
+<span class="float-end post-date">Mar 6</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/089-tech-news-e-book-review/>Episódio 89: Tech News E Review Do Livro Ready Player One
+</a>
+<span class="float-end post-date">Feb 27</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/088-episodio-especial-de-6-anos/>Episódio 88: Episódio Especial De 6 Anos
+</a>
+<span class="float-end post-date">Feb 20</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/087-linguagem-go-parte-2/>Episódio 87: Linguagem De Programação Go - Parte 2
+</a>
+<span class="float-end post-date">Feb 13</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/086-linguagem-go-parte-1/>Episódio 86: Linguagem De Programação Go - Parte 1
+</a>
+<span class="float-end post-date">Feb 6</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/085-arx-cruz/>Episódio 85: Arx Cruz - OpenStack (Red Hat)
+</a>
+<span class="float-end post-date">Jan 30</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/084-tech-news-e-book-review/>Episódio 84: Tech News E Book Reviews Por Hack and Cast
+</a>
+<span class="float-end post-date">Jan 22</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/083-tarek-ziade/>Episódio 83: Tarek Ziadé - Mozilla
+</a>
+<span class="float-end post-date">Jan 15</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/082-book-reviews-e-novidades-da-semana/>Episódio 82: Book Review: 36 Books That Changed the World E the Martian Chronicles
+</a>
+<span class="float-end post-date">Jan 8</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/081-as-vinhas-da-ira-e-novidades-da-semana/>Episódio 81: Book Review: As Vinhas Da Ira E Novidades Da Semana
+</a>
+<span class="float-end post-date">Jan 1</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2016</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/080-kenneth-reitz/>Episódio 80: Kenneth Reitz - Python Requests
+</a>
+<span class="float-end post-date">Dec 24</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/079-paula-grangeiro/>Episódio 79: Paula Grangeiro - Pyladies
+</a>
+<span class="float-end post-date">Dec 18</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/078-gabriel-engel-rocket-chat/>Episódio 78: Gabriel Engel - Rocket.Chat
+</a>
+<span class="float-end post-date">Dec 11</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/077-practical-vim-e-novidades-da-semana/>Episódio 77: Book Review: Practical Vim E Novidades Da Semana
+</a>
+<span class="float-end post-date">Dec 4</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/076-book-review-python-packages/>Episódio 76: Book Review E Python Packages
+</a>
+<span class="float-end post-date">Nov 27</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/075-python-brasil-12-parte-3/>Episódio 75: Python Brasil 12 - Parte 3
+</a>
+<span class="float-end post-date">Nov 20</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/074-python-brasil-12-parte-2/>Episódio 74: Python Brasil 12 - Parte 2
+</a>
+<span class="float-end post-date">Nov 12</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/073-python-brasil-12-parte-1/>Episódio 73: Python Brasil 12 - Parte 1
+</a>
+<span class="float-end post-date">Nov 6</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/072-eduardo-matos-puchdb-quadrinhos/>Episódio 72: Eduardo Matos - PouchDB E Quadrinhos
+</a>
+<span class="float-end post-date">Jun 26</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/071-bruno-quokka-cms/>Episódio 71: Bruno Rocha - Quokka CMS
+</a>
+<span class="float-end post-date">Jun 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/070-bruno-rocha-flask-veganismo/>Episódio 70: Bruno Rocha - Flask E Veganismo
+</a>
+<span class="float-end post-date">May 21</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2015</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/069-renzo-nucciteli-python-brasil/>Episódio 69: Renzo Nucciteli - Python Brasil
+</a>
+<span class="float-end post-date">Nov 8</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/068-aurelio-jargas-projetos/>Episódio 68: Aurelio Jargas - Projetos
+</a>
+<span class="float-end post-date">Sep 13</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/067-aurelio-jargas-conectiva-livros/>Episódio 67: Aurelio Jargas - Conectiva E Livros
+</a>
+<span class="float-end post-date">Sep 5</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/livros-julho-2015/>Livros - Julho 2015
+</a>
+<span class="float-end post-date">Jul 29</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/livros-junho-2015/>Livros - Junho De 2015
+</a>
+<span class="float-end post-date">Jul 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/livros-maio-2015/>Livros - Maio De 2015
+</a>
+<span class="float-end post-date">Jun 1</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/066-thiago-perrotta-leitura-e-tecnolocia/>Episódio 66: Thiago Perrotta - Leitura E Tecnologia
+</a>
+<span class="float-end post-date">May 31</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/livros-abril-2015/>Livros - Abril De 2015
+</a>
+<span class="float-end post-date">Apr 30</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/livros-marco-2015/>Livros - Março De 2015
+</a>
+<span class="float-end post-date">Mar 29</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/065-gustavo-barbieri-enlightenment-profusion/>Episódio 65: Gustavo Sverzut Barbieri - ProFUSION E Enlightenment
+</a>
+<span class="float-end post-date">Mar 15</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/064-thiago-avelino-openmining/>Episódio 64: Thiago Avelino - OpenMining E SambaPorno
+</a>
+<span class="float-end post-date">Mar 1</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/063-thiago-avelino-vim-bootstrap/>Episódio 63: Thiago Avelino - Vim-Bootstrap E BeerBlogging
+</a>
+<span class="float-end post-date">Feb 15</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/062-diego-rodrigo-santos-sobrecervejas/>Episódio 62: Diego Rodrigo Santos - SobreCervejas
+</a>
+<span class="float-end post-date">Feb 1</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/061-humberto-zanetti-smart-braille/>Episódio 61: Humberto Augusto Piovesana Zanetti - Smart Braille
+</a>
+<span class="float-end post-date">Jan 18</span>
+</li>
+</ul>
+</div>
+</div><div class=row>
+<ul class="pagination pagination-default">
+<li class="page-item disabled">
+<a href=# aria-disabled=true aria-label=First class=page-link role=button tabindex=-1><span aria-hidden=true>&#171;&#171;</span></a>
+</li>
+<li class="page-item disabled">
+<a href=# aria-disabled=true aria-label=Previous class=page-link role=button tabindex=-1><span aria-hidden=true>&#171;</span></a>
+</li>
+<li class="page-item active">
+<a href=# aria-current=page aria-label="Page 1" class=page-link role=button>1</a>
+</li>
+<li class=page-item>
+<a href=/archives/page/2/ aria-label="Page 2" class=page-link role=button>2</a>
+</li>
+<li class=page-item>
+<a href=/archives/page/2/ aria-label=Next class=page-link role=button><span aria-hidden=true>&#187;</span></a>
+</li>
+<li class=page-item>
+<a href=/archives/page/2/ aria-label=Last class=page-link role=button><span aria-hidden=true>&#187;&#187;</span></a>
+</li>
+</ul></div>
+</div>
+</div>
+</div>
+</main><footer id=footer>
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-md-3>
+<h4>Sobre</h4>
+<p>
+O Castálio Podcast é fruto da imaginação e curiosidade
+incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+Caso você tenha alguma sugestão para o nosso próximo convidado,
+nos envie sua idéia para o nosso e-mail.
+</p>
+<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
+<i class="bi bi-info-circle"></i> Saiba mais </a>
+</div>
+<div class=col-md-3>
+<h4>Social</h4>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a><a class="nav-link social-link" target=_blank href=https://castalio.info/archives/index.xml title=RSS rel="noopener noreferrer">
+<i class="bi bi-rss"></i>
+</a></nav>
+</div>
+<div class=col-md-3>
+<h4>Sites Amigos</h4>
+<ul id=footer-social class=list-unstyled>
+<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
+<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
+<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
+<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
+</ul>
+</div>
+</div>
+<div class="row justify-content-center">
+<p class=text-center>
+<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+</p>
+</div>
+</div>
+</footer>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
+<script async src=https://www.google-analytics.com/analytics.js></script>
+</body>
+</html>

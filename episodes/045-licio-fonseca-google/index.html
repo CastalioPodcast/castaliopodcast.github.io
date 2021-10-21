@@ -1,0 +1,330 @@
+<!doctype html><html lang=en><head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link href=/images/favicon.ico rel=icon>
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
+<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
+<title>Hello, world!</title>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast
+</a>
+<button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
+<ul class="navbar-nav ms-auto"><li class=nav-item>
+<a class=nav-link href=https://castalio.info/sobre/>
+Sobre
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/agenda/>
+Agenda
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/episodes/>
+Episódios
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/tags/english/>
+English Episodes
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/top5/>
+Top 5
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/youtube/>
+Youtube
+</a>
+</li><li class="nav-item dropdown">
+<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
+<i class="bi bi-caret-down-fill"></i> Inscreva-se
+</a>
+<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
+<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
+FeedBurner (RSS Feed)
+</a>
+</li><li>
+<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
+Google Podcasts
+</a>
+</li><li>
+<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
+iTunes
+</a>
+</li><li>
+<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
+Overcast
+</a>
+</li><li>
+<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
+Pocket Casts
+</a>
+</li><li>
+<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
+Spotify
+</a>
+</li><li>
+<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
+YouTube
+</a>
+</li></ul>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/archives/>
+<i class="bi bi-archive"></i> Arquivos
+</a>
+</li></ul>
+<form class=d-flex action=https://castalio.info/search>
+<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
+</form>
+</div>
+</div>
+</nav>
+<div id=hero class="px-4 py-5 my-5 text-center">
+<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
+<div class="col-lg-6 mx-auto">
+<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
+<div class=fs-1>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+</div>
+</div>
+<main role=main class=container>
+<div class="row content">
+<div class=col-lg-12>
+<div class=container><article class="post row card mb-4 component">
+<div class=card-body>
+<h1 class="card-title my-3">Licio Fonseca: Google
+</h1><div class=post-meta><span class=post-date title=Data>
+<i class="bi bi-calendar-date-fill"></i>
+Sep 16, 2012
+</span><span class=post-authors title=Autores>
+<i class="bi bi-person-fill"></i>
+Og Maciel
+</span><span class=post-reading-time title="Tempo de Leitura">
+<i class="bi bi-clock-fill"></i>
+2 minutos
+</span></div>
+<img class="float-start img-thumbnail post-image" src=/images/liciofonseca.jpg>
+<div class="post-content mb-3"><div class=document>
+<p>Nesta última quinta-feira tive o prazer em entrevistar o <strong>Licio
+Fonseca</strong> da <strong>Google</strong>! Eu e o Licio nos conhecemos nos saudosos tempos
+do <strong>Ubuntu Brasil</strong>, mas não conversávamos desde 2006 se não me engano.
+Desde então muita coisa aconteceu, e hoje ele trabalha na Google,
+fazendo toda a manutenção e administração da infra estrutura de toda a
+<strong>América do Sul</strong>!</p>
+<p>Durante nosso bate-papo, conversamos sobre o que ele faz por lá, sobre o
+seu dia a dia, como que conseguiu este trabalho, e sobre o processo de
+entrevistas e seleção para trabalhar na Google.</p>
+<p>Também conversamos sobre as modificações que aconteceram na companhia
+desde que ele comçou a trabalhar, as viagens que ele fez à trabalho,
+rumores, sua <strong>época de skatista</strong>, vida de casado e coleção de action
+figures! E para quem acompanhou a gravação ao vivo pelo <strong>Youtube</strong>,
+teve até o Licio dançando a música <a class="reference external" href="https://www.youtube.com/watch?v=9bZkp7q19f0">Gangnam Style</a> do <strong>PSY</strong>!!! Mas
+se você perdeu a gravação, não esquenta a cabeça porque o vídeo pode ser
+visto <a class="reference external" href=http://bit.ly/QTNlg0>aqui</a> (aos 41 minutos)! :)</p>
+<div class=section id=escute-agora>
+<h2>Escute Agora</h2>
+<div class=card>
+<div class=card-body>
+<div class="card-text podcast text-center">
+<iframe src=https://archive.org/embed/castalio-podcast-45 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
+</div>
+<div class="podcast-download text-center">
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-45/castalio-podcast-45.ogg><i class="bi bi-download"></i> OGG</a>
+</div>
+</div>
+</div>
+</div>
+<div class=section id=contato>
+<h2>Contato</h2>
+<ul class=simple>
+<li><strong>Blog</strong>: &nbsp;<a class="reference external" href=http://blog.licio.eti.br/>http://blog.licio.eti.br/</a></li>
+<li><strong>Twitter</strong>: &nbsp;<a class="reference external" href=http://twitter.com/licio>http://twitter.com/licio</a></li>
+<li><strong>Facebook</strong>: &nbsp;<a class="reference external" href=http://www.facebook.com/liciofonseca>http://www.facebook.com/liciofonseca</a></li>
+<li><strong>Google Plus</strong>: &nbsp;<a class="reference external" href=https://plus.google.com/u/1/103327178278111902620/about>https://plus.google.com/u/1/103327178278111902620/about</a></li>
+<li><strong>Linkedin</strong>: &nbsp;<a class="reference external" href=http://br.linkedin.com/in/liciofonseca>http://br.linkedin.com/in/liciofonseca</a></li>
+<li><strong>Github</strong>: &nbsp;<a class="reference external" href=https://github.com/licio>https://github.com/licio</a></li>
+</ul>
+</div>
+<div class=section id=resumo>
+<h2>Resumo</h2>
+<ul class=simple>
+<li><strong>Apresentação</strong> 00:50</li>
+<li><strong>Bit Twiddler na Google</strong> 02:25</li>
+<li><strong>Dia a dia</strong> 05:20</li>
+<li><strong>Como foi parar na Google</strong> 09:00</li>
+<li><strong>Como é o processo de entrevistas de trabalho?</strong> 11:40</li>
+<li><strong>Modificações dentro da Google</strong> 14:40</li>
+<li><strong>Conhecendo outros paises, comida</strong> 16:10</li>
+<li><strong>Rumores</strong> 22:40</li>
+<li><strong>Companhia de skates</strong> 23:17</li>
+<li><strong>Vida de casado</strong> 25:30</li>
+<li><strong>Action Figures</strong> 29:00</li>
+<li><strong>Top 5</strong> 30:30</li>
+<li><strong>Convite para voltar</strong> 36:19</li>
+<li><strong>Gangnam Style</strong> 37:27</li>
+<li><strong>Conclusão</strong> 39:05</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/book/show/6249707-longe-um-lugar-que-n-o-existe target=_blank>Longe é um lugar que não existe</a></li><li><a href=https://www.goodreads.com/author/show/16904.Richard_Bach target=_blank>Richard Bach</a></li><li><a href=https://www.goodreads.com/book/show/6740506-fern-o-capelo-gaivota target=_blank>Fernão Capelo Gaivota</a></li><li><a href=https://www.goodreads.com/series/220780-para-gostar-de-ler target=_blank>Para Gostar de Ler</a></li><li><a href=https://www.goodreads.com/author/show/311800.Carlos_Drummond_de_Andrade target=_blank>Carlos Drummond de Andrade</a></li><li><a href=https://www.goodreads.com/author/show/17732224.Castro_Alves target=_blank>Castro Alves</a></li><li><a href=https://www.goodreads.com/author/show/381467.Rubem_Braga target=_blank>Rubem Braga</a></li><li><a href=https://www.goodreads.com/author/show/52373.Fernando_Sabino target=_blank>Fernando Sabino</a></li><li><a href=https://www.goodreads.com/author/show/1243609.Andr_Vianco target=_blank>André Vianco</a></li><li><a href=https://www.goodreads.com/book/show/41793.Hackers_Painters target=_blank>Hackers & Painters</a></li></ol><h3>Filmes:</h3><ol><li>Novela</li><li><a href=https://www.imdb.com/title/tt0367975/ target=_blank>Lisbela e o Prisioneiro</a></li><li><a href=https://www.imdb.com/title/tt0371746/ target=_blank>Homem de Ferro</a></li><li><a href=https://www.imdb.com/title/tt0372784/ target=_blank>Batman</a></li><li><a href=https://www.imdb.com/title/tt0848228/ target=_blank>Os Vingadores</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Hugh+Laurie target=_blank>Hugh Laurie</a></li></ol>
+</div>
+<div class=section id=links>
+<h2>Links</h2>
+<ul class=simple>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Google">Google</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Linked.in">Linked.in</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Bit+Twiddler">Bit Twiddler</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=GMail">GMail</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Ubuntu+BR">Ubuntu BR</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Rodrigo+Pereira">Rodrigo Pereira</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Lake+Louise">Lake Louise</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Google+Pounds">Google Pounds</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Mountain+View">Mountain View</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Ubuntu+Desktop+Summit">Ubuntu Desktop Summit</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Charles+Cafe+Google">Charles Cafe Google</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=XBox">XBox</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=StarWars">StarWars</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Marvel">Marvel</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Anime">Anime</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Death+Note">Death Note</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Gangnam+Style">Gangnam Style (DuckDuckGo)</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Transifex">Transifex</a></li>
+<li><a class="reference external" href=http://www.google.com/about/datacenters/locations/quilicura/>DataCenter - Chile</a></li>
+<li><a class="reference external" href=http://www.google.com/about/datacenters/locations/lenoir/>DataCenter - North Carolina</a></li>
+</ul>
+<p class="alert alert-info"><strong>Música</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+</div>
+</div></div><h2>Tags</h2>
+<p class=lh-lg>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/andr%C3%A9-vianco/>andré vianco</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/anime/>anime</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/batman/>batman</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ben-alves/>ben alves</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/bit-twiddler/>bit twiddler</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/carlos-drummond-de-andrade/>carlos drummond de andrade</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/charles-cafe-google/>charles cafe google</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/death-note/>death note</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/fernando-sabino/>fernando sabino</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/fern%C3%A3o-capelo-gaivota/>fernão capelo gaivota</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/gangnam-style/>gangnam style</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/gmail/>gmail</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/google/>google</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/google-pounds/>google pounds</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/hackers-and-painters/>hackers and painters</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/homem-de-ferro/>homem de ferro</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/hugh-laurie/>hugh laurie</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/lake-louise/>lake louise</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/linked.in/>linked.in</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/lisbela-e-o-prisioneiro/>lisbela e o prisioneiro</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/longe-%C3%A9-um-lugar-que-n%C3%A3o-existe/>longe é um lugar que não existe</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/marvel/>marvel</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/mountain-view/>mountain view</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/novela/>novela</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/os-vingadores/>os vingadores</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/para-gostar-de-ler/>para gostar de ler</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/psy/>psy</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/richard-bach/>richard bach</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/rodrigo-pereira/>rodrigo pereira</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/starwars/>starwars</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/transifex/>transifex</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ubuntu-br/>ubuntu br</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ubuntu-desktop-summit/>ubuntu desktop summit</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/xbox/>xbox</a>
+</p><hr><div class="post-navs d-flex mb-3 justify-content-evenly">
+<div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
+<a href=https://castalio.info/episodes/044-bruno-goncalves-biglinux/>Bruno Gonçalves: BigLinux
+</a>
+</div><div class="post-nav post-next">
+<a href=https://castalio.info/episodes/046-carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1/>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 1
+</a>
+<i class="bi bi-chevron-right"></i>
+</div></div><section class=related-posts-wrapper>
+<h3>Episódios Relacionados</h3>
+<ul class=related-posts><li><a href=https://castalio.info/episodes/037-flavio-ribeiro-globo-com/>Flávio Ribeiro: Globo.com
+</a></li><li><a href=https://castalio.info/episodes/035-fabio-kung-e-pedro-belo-heroku/>Fábio Kung E Pedro Belo: Heroku
+</a></li><li><a href=https://castalio.info/episodes/033-henrique-bastos-welcome-to-the-django/>Henrique Bastos: Welcome to the Django
+</a></li><li><a href=https://castalio.info/episodes/028-marcelo-hashimoto-polly-twitter-client/>Marcelo Hashimoto: Polly Twitter Client
+</a></li><li><a href=https://castalio.info/episodes/027-rodrigo-padula-de-oliveira-ufrj/>Rodrigo Padula De Oliveira: UFRJ
+</a></li></ul>
+</section></div>
+</article><div class="post-comments card row component">
+<div class=card-body><div id=disqus_thread></div>
+<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
+<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
+<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
+</div></div>
+</div>
+</div>
+</main><footer id=footer>
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-md-3>
+<h4>Sobre</h4>
+<p>
+O Castálio Podcast é fruto da imaginação e curiosidade
+incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+Caso você tenha alguma sugestão para o nosso próximo convidado,
+nos envie sua idéia para o nosso e-mail.
+</p>
+<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
+<i class="bi bi-info-circle"></i> Saiba mais </a>
+</div>
+<div class=col-md-3>
+<h4>Social</h4>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+<div class=col-md-3>
+<h4>Sites Amigos</h4>
+<ul id=footer-social class=list-unstyled>
+<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
+<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
+<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
+<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
+</ul>
+</div>
+</div>
+<div class="row justify-content-center">
+<p class=text-center>
+<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+</p>
+</div>
+</div>
+</footer>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
+<span class=podcast-download-count>
+<i class="bi bi-download" aria-hidden=true></i>
+<span id=download-count>-</span>
+</span>
+<script type=text/javascript>function set_download_count(a){$("#download-count").text(a.item.downloads)}</script>
+<script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-45%20castalio-podcast-45.mp3]&callback=set_download_count?output=json"></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
+<script async src=https://www.google-analytics.com/analytics.js></script>
+</body>
+</html>

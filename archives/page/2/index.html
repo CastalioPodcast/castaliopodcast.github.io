@@ -1,0 +1,477 @@
+<!doctype html><html lang=en><head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link href=/images/favicon.ico rel=icon>
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
+<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
+<title>Hello, world!</title>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast
+</a>
+<button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
+<ul class="navbar-nav ms-auto"><li class=nav-item>
+<a class=nav-link href=https://castalio.info/sobre/>
+Sobre
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/agenda/>
+Agenda
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/episodes/>
+Episódios
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/tags/english/>
+English Episodes
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/top5/>
+Top 5
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/youtube/>
+Youtube
+</a>
+</li><li class="nav-item dropdown">
+<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
+<i class="bi bi-caret-down-fill"></i> Inscreva-se
+</a>
+<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
+<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
+FeedBurner (RSS Feed)
+</a>
+</li><li>
+<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
+Google Podcasts
+</a>
+</li><li>
+<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
+iTunes
+</a>
+</li><li>
+<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
+Overcast
+</a>
+</li><li>
+<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
+Pocket Casts
+</a>
+</li><li>
+<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
+Spotify
+</a>
+</li><li>
+<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
+YouTube
+</a>
+</li></ul>
+</li><li class=nav-item>
+<a class="nav-link active" href=https://castalio.info/archives/>
+<i class="bi bi-archive"></i> Arquivos
+</a>
+</li></ul>
+<form class=d-flex action=https://castalio.info/search>
+<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
+</form>
+</div>
+</div>
+</nav>
+<div id=hero class="px-4 py-5 my-5 text-center">
+<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
+<div class="col-lg-6 mx-auto">
+<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
+<div class=fs-1>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a><a class="nav-link social-link" target=_blank href=https://castalio.info/archives/index.xml title=RSS rel="noopener noreferrer">
+<i class="bi bi-rss"></i>
+</a></nav>
+</div>
+</div>
+</div>
+<main role=main class=container>
+<div class="row content"><div class="container archives col-12 mb-4">
+<div class=container><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2015</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/060-andrews-medina-splinter/>Episódio 60: Andrews Medina - Splinter
+</a>
+<span class="float-end post-date">Jan 4</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2014</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/059-natal-parte-3/>Episódio 59: Episódio De Natal - Parte 3
+</a>
+<span class="float-end post-date">Dec 22</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/058-natal-parte-2/>Episódio 58: Episódio De Natal - Parte 2
+</a>
+<span class="float-end post-date">Dec 21</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/057-natal-parte-1/>Episódio 57: Episódio De Natal - Parte 1
+</a>
+<span class="float-end post-date">Dec 20</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/056-splinter/>Episódio 56: Splinter
+</a>
+<span class="float-end post-date">Dec 7</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/055-editor-vim/>Episódio 55: Editor Vim
+</a>
+<span class="float-end post-date">Nov 23</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2013</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/054-enrico-nicoletto-rafael-ferreira-projeto-gnome/>Enrico Nicoletto E Rafael Ferreira: Projeto GNOME
+</a>
+<span class="float-end post-date">Sep 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/053-everaldo-canuto-toca-do-canuto/>Everaldo Canuto: Toca Do Canuto
+</a>
+<span class="float-end post-date">Mar 18</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/052-alexandre-gaigalas-yahoo/>Alexandre Gaigalas: Yahoo
+</a>
+<span class="float-end post-date">Mar 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/051-edicao-de-2-anos-og-maciel-red-hat/>Edição De 2 Anos - Og Maciel: Red Hat
+</a>
+<span class="float-end post-date">Feb 18</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/050-luciano-ramalho-oficinas-turing/>Luciano Ramalho: Oficinas Turing
+</a>
+<span class="float-end post-date">Feb 5</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/049-fabiano-fidencio-red-hat/>Fabiano Fidêncio: Red Hat
+</a>
+<span class="float-end post-date">Jan 21</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2012</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/048-julian-fernandes-ubuntu-br-sc/>Julian Fernandes: Ubuntu BR SC
+</a>
+<span class="float-end post-date">Dec 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/aviso-aos-navegantes/>Aviso Aos Navegantes
+</a>
+<span class="float-end post-date">Nov 12</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/047-carlos-brando-e-rafael-rosa-fu-grokpodcast-part-2/>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 2
+</a>
+<span class="float-end post-date">Oct 14</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/046-carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1/>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 1
+</a>
+<span class="float-end post-date">Sep 30</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/045-licio-fonseca-google/>Licio Fonseca: Google
+</a>
+<span class="float-end post-date">Sep 16</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/044-bruno-goncalves-biglinux/>Bruno Gonçalves: BigLinux
+</a>
+<span class="float-end post-date">Sep 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/043-felipe-borges-google-summer-of-code/>Felipe Borges: Google Summer of Code
+</a>
+<span class="float-end post-date">Aug 19</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/042-cristiano-costa-hora-do-mac/>Cristiano Costa: Hora Do Mac
+</a>
+<span class="float-end post-date">Aug 6</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/041-fabio-nogueira-ubuntu-brasil/>Fábio Nogueira: Ubuntu Brasil
+</a>
+<span class="float-end post-date">Jul 22</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/040-danilo-resende-facebook/>Danilo Resende: Facebook
+</a>
+<span class="float-end post-date">Jul 9</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/039-djavan-fagundes-gnome-brasil/>Djavan Fagundes: GNOME Brasil
+</a>
+<span class="float-end post-date">Jun 25</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/038-felipe-ribeiro-spotify/>Felipe Ribeiro: Spotify
+</a>
+<span class="float-end post-date">Jun 10</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/037-flavio-ribeiro-globo-com/>Flávio Ribeiro: Globo.com
+</a>
+<span class="float-end post-date">May 27</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/036-caike-souza-envy-labs/>Caike Souza: Envy Labs
+</a>
+<span class="float-end post-date">May 13</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/035-fabio-kung-e-pedro-belo-heroku/>Fábio Kung E Pedro Belo: Heroku
+</a>
+<span class="float-end post-date">Apr 29</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/034-julio-monteiro-jobscore/>Júlio Monteiro: JobScore
+</a>
+<span class="float-end post-date">Apr 15</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/033-henrique-bastos-welcome-to-the-django/>Henrique Bastos: Welcome to the Django
+</a>
+<span class="float-end post-date">Apr 1</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/032-gabriel-falcao-yipit/>Gabriel Falcão: Yipit
+</a>
+<span class="float-end post-date">Mar 18</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/031-ivan-brasil-fuzzer-ubuntero/>Ivan Brasil Fuzzer: Ubuntero
+</a>
+<span class="float-end post-date">Mar 4</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/um-ano-de-dados/>Um Ano De Dados
+</a>
+<span class="float-end post-date">Feb 22</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/030-rodrigo-belem-ubuntu-brasil/>Rodrigo Belém: Ubuntu Brasil
+</a>
+<span class="float-end post-date">Feb 20</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/castalio-podcast-primeiro-ano-e-bastidores/>Castálio Podcast: Primeiro Ano E Bastidores
+</a>
+<span class="float-end post-date">Feb 16</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/029-ana-cristina-fricke-matte-text-livre/>Ana Cristina Fricke Matte: Texto Livre
+</a>
+<span class="float-end post-date">Feb 5</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/028-marcelo-hashimoto-polly-twitter-client/>Marcelo Hashimoto: Polly Twitter Client
+</a>
+<span class="float-end post-date">Jan 22</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/027-rodrigo-padula-de-oliveira-ufrj/>Rodrigo Padula De Oliveira: UFRJ
+</a>
+<span class="float-end post-date">Jan 8</span>
+</li>
+</ul></div></div><div class="archive card row mb-3">
+<div class=card-body>
+<h3 class="archive-title card-title">2011</h3>
+<ul class=archive-posts><li>
+<a class=post-title href=https://castalio.info/episodes/026-rodrigo-novo-conectiva-linux/>Rodrigo Novo: Conectiva Linux
+</a>
+<span class="float-end post-date">Dec 26</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/025-joao-fernando-costa-junior-revista-espirito-livre/>João Fernando Costa Júnior: Revista Espírito Livre
+</a>
+<span class="float-end post-date">Dec 12</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/024-ruda-moura-conectiva-linux/>Rudá Moura: Conectiva Linux
+</a>
+<span class="float-end post-date">Dec 4</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/023-elvis-pfutzenreuter-conectiva-linux/>Elvis Pfutzenreuter: Conectiva Linux
+</a>
+<span class="float-end post-date">Nov 28</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/em-memoria-de-andre-gondim/>Em Memória De André Gondim
+</a>
+<span class="float-end post-date">Nov 23</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/022-alexandre-coster-asobo-studio/>Alexandre Coster: Asobo Studio
+</a>
+<span class="float-end post-date">Nov 14</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/021-especial-andre-gondim-ubuntu-brasil/>Episódio Especial: André Gondim - Ubuntu Brasil
+</a>
+<span class="float-end post-date">Nov 6</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/020-guilherme-salgado-canonical-e-linaro/>Guilherme Salgado: Canonical E Linaro
+</a>
+<span class="float-end post-date">Oct 30</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/019-evandro-pastor-quarto-estudio/>Evandro Pastor: Quarto Estudio
+</a>
+<span class="float-end post-date">Oct 17</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/018-augusto-campos-br-linux-br-mac-efetividade/>Augusto Campos: BR-Linux, BR-Mac, Efetividade
+</a>
+<span class="float-end post-date">Oct 2</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/017-pete-savage-git-in-the-trenches-gitt/>Pete Savage: Git in the Trenches (GITT)
+</a>
+<span class="float-end post-date">Sep 18</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/convidado-para-o-episodio-19/>Convidado Para O Episódio 19!
+</a>
+<span class="float-end post-date">Sep 7</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/016-alvaro-turicas-justen-arduino/>Álvaro "Turicas" Justen - Arduino
+</a>
+<span class="float-end post-date">Sep 5</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/015-carlos-ribeiro-radiotray/>Carlos Ribeiro - RadioTray
+</a>
+<span class="float-end post-date">Aug 21</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/proximo-episodio-carlos-ribeiro-radiotray/>Próximo Episódio: Carlos Ribeiro - RadioTray
+</a>
+<span class="float-end post-date">Aug 9</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/014-hugo-doria-arch-linux/>Hugo Dória - Arch Linux
+</a>
+<span class="float-end post-date">Aug 8</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/013-aline-duarte-bessa-accerciser/>Aline Duarte Bessa - Accerciser
+</a>
+<span class="float-end post-date">Jul 25</span>
+</li><li>
+<a class=post-title href=https://castalio.info/news/premio-fridaigf-2011/>Prêmio FRIDA/IGF 2011
+</a>
+<span class="float-end post-date">Jul 20</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/012-igor-pires-soares-projeto-fedora/>Igor Pires Soares - Projeto Fedora
+</a>
+<span class="float-end post-date">Jul 11</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/011-lucas-rocha-the-board-parte-2/>Lucas Rocha - The Board (Parte 2)
+</a>
+<span class="float-end post-date">Jul 4</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/010-lucas-rocha-the-board-parte-1/>Lucas Rocha - The Board (Parte 1)
+</a>
+<span class="float-end post-date">Jun 26</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/009-johan-dahlin-stoq-gestor-comercial-livre/>Johan Dahlin - Stoq: Gestor Comercial Livre
+</a>
+<span class="float-end post-date">Jun 12</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/008-yuri-malheiros-engenharia-de-software-e-inteligencia-artificial/>Yuri Malheiros - Engenharia De Software E Inteligência Artificial
+</a>
+<span class="float-end post-date">May 30</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/007-frederico-goncalves-guimaraes-software-livre-educacional/>Frederico Gonçalves Guimaraes - Software Livre Educacional
+</a>
+<span class="float-end post-date">May 12</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/006-diego-burigo-zacarao-projeto-transifex/>Diego Búrigo Zacarão - Projeto Transifex
+</a>
+<span class="float-end post-date">Apr 30</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/005-murilo-queiroz-em-busca-dos-tesouros/>Murilo Queiroz - Em Busca Dos Tesouros
+</a>
+<span class="float-end post-date">Apr 16</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/004-luciana-fujii-pontelo-gnome-women-outreach-program/>Luciana Fujii Pontelo - GNOME Women Outreach Program
+</a>
+<span class="float-end post-date">Apr 3</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/003-kurtkraut/>Episódio 2: KurtKraut
+</a>
+<span class="float-end post-date">Mar 21</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/002-karlisson-bezerra-ilustrador/>Episódio 1: Karlisson Bezerra, Ilustrador
+</a>
+<span class="float-end post-date">Mar 7</span>
+</li><li>
+<a class=post-title href=https://castalio.info/episodes/001-og-maciel/>Episódio Zero: Og Maciel
+</a>
+<span class="float-end post-date">Feb 16</span>
+</li>
+</ul>
+</div>
+</div><div class=row>
+<ul class="pagination pagination-default">
+<li class=page-item>
+<a href=/archives/ aria-label=First class=page-link role=button><span aria-hidden=true>&#171;&#171;</span></a>
+</li>
+<li class=page-item>
+<a href=/archives/ aria-label=Previous class=page-link role=button><span aria-hidden=true>&#171;</span></a>
+</li>
+<li class=page-item>
+<a href=/archives/ aria-label="Page 1" class=page-link role=button>1</a>
+</li>
+<li class="page-item active">
+<a href=# aria-current=page aria-label="Page 2" class=page-link role=button>2</a>
+</li>
+<li class="page-item disabled">
+<a href=# aria-disabled=true aria-label=Next class=page-link role=button tabindex=-1><span aria-hidden=true>&#187;</span></a>
+</li>
+<li class="page-item disabled">
+<a href=# aria-disabled=true aria-label=Last class=page-link role=button tabindex=-1><span aria-hidden=true>&#187;&#187;</span></a>
+</li>
+</ul></div>
+</div>
+</div>
+</div>
+</main><footer id=footer>
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-md-3>
+<h4>Sobre</h4>
+<p>
+O Castálio Podcast é fruto da imaginação e curiosidade
+incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+Caso você tenha alguma sugestão para o nosso próximo convidado,
+nos envie sua idéia para o nosso e-mail.
+</p>
+<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
+<i class="bi bi-info-circle"></i> Saiba mais </a>
+</div>
+<div class=col-md-3>
+<h4>Social</h4>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a><a class="nav-link social-link" target=_blank href=https://castalio.info/archives/index.xml title=RSS rel="noopener noreferrer">
+<i class="bi bi-rss"></i>
+</a></nav>
+</div>
+<div class=col-md-3>
+<h4>Sites Amigos</h4>
+<ul id=footer-social class=list-unstyled>
+<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
+<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
+<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
+<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
+</ul>
+</div>
+</div>
+<div class="row justify-content-center">
+<p class=text-center>
+<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+</p>
+</div>
+</div>
+</footer>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
+<script async src=https://www.google-analytics.com/analytics.js></script>
+</body>
+</html>

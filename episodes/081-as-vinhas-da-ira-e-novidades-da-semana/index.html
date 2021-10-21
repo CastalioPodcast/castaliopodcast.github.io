@@ -1,0 +1,308 @@
+<!doctype html><html lang=en><head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link href=/images/favicon.ico rel=icon>
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
+<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
+<title>Hello, world!</title>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast
+</a>
+<button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
+<ul class="navbar-nav ms-auto"><li class=nav-item>
+<a class=nav-link href=https://castalio.info/sobre/>
+Sobre
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/agenda/>
+Agenda
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/episodes/>
+Episódios
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/tags/english/>
+English Episodes
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/top5/>
+Top 5
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/youtube/>
+Youtube
+</a>
+</li><li class="nav-item dropdown">
+<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
+<i class="bi bi-caret-down-fill"></i> Inscreva-se
+</a>
+<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
+<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
+FeedBurner (RSS Feed)
+</a>
+</li><li>
+<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
+Google Podcasts
+</a>
+</li><li>
+<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
+iTunes
+</a>
+</li><li>
+<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
+Overcast
+</a>
+</li><li>
+<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
+Pocket Casts
+</a>
+</li><li>
+<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
+Spotify
+</a>
+</li><li>
+<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
+YouTube
+</a>
+</li></ul>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/archives/>
+<i class="bi bi-archive"></i> Arquivos
+</a>
+</li></ul>
+<form class=d-flex action=https://castalio.info/search>
+<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
+</form>
+</div>
+</div>
+</nav>
+<div id=hero class="px-4 py-5 my-5 text-center">
+<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
+<div class="col-lg-6 mx-auto">
+<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
+<div class=fs-1>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+</div>
+</div>
+<main role=main class=container>
+<div class="row content">
+<div class=col-lg-12>
+<div class=container><article class="post row card mb-4 component">
+<div class=card-body>
+<h1 class="card-title my-3">Episódio 81: Book Review: As Vinhas Da Ira E Novidades Da Semana
+</h1><div class=post-meta><span class=post-date title=Data>
+<i class="bi bi-calendar-date-fill"></i>
+Jan 1, 2017
+</span><span class=post-authors title=Autores>
+<i class="bi bi-person-fill"></i>
+Og Maciel, Elyézer Rezende, Bruno Rocha
+</span><span class=post-reading-time title="Tempo de Leitura">
+<i class="bi bi-clock-fill"></i>
+4 minutos
+</span></div>
+<img class="float-start img-thumbnail post-image" src=/images/as-vinhas-da-ira.jpg>
+<div class="post-content mb-3"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje o Og nos traz um book review do livro As Vinhas da Ira por
+John Steinbeck. Também trazemos algumas notícias, pacotes e projetos que valem
+a pena comentar e compartilhar.</p>
+<p>Antes de começar, gostaríamos de desejar um feliz e próspero ano novo para
+todos os nossos amigos e ouvintes. Obrigado por todos os comentários e
+indicações, o Castálio é feito por todos nós e por isso a sua participação é
+muito importante para o podcast. Que em 2017 agente consiga ter ainda mais
+entrevistas, book reviews e novidades da semana inspiradoras.</p>
+<p>Começamos hoje com uma pequena dica de Python, ou melhor, pip. Você pode criar
+um cache local de pacotes utilizando a opção <tt class="docutils literal"><span class=pre>--download</span></tt> do pip, com isso
+você pode ter seu backup de pacotes. Para salvar os pacotes em um diretório
+especifico você pode executar:</p>
+<pre class=literal-block>
+pip install --download=/caminho/do/diretorio -r requirements.txt
+</pre>
+<p>Depois quando quiser usar o seu cache local, basta rodar:</p>
+<pre class=literal-block>
+pip install --no-index --find-links=/caminho/do/diretorio -r requirements.txt
+</pre>
+<p>Com isso o pip não irá fazer nenhum download e usará os pacotes salvos no
+diretório.</p>
+<p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p>
+<p><strong>Maya</strong></p>
+<p><a class="reference external" href=https://github.com/kennethreitz/maya>Maya</a> é um projeto escrito em Python pelo Kenneth Reitz (nosso entrevistado da
+semana passada). Ele facilita trabalhar com datetimes pois o Maya faz todo o
+trabalho pesado de lidar com timezones e permite que você foque no que
+realmente importa: importar ou exportar dados de datetime nos formatos para
+humanos e máquinas. O Kenneth fez um post com uma <a class="reference external" href=https://www.kennethreitz.org/essays/introducing-maya-datetimes-for-humans>introdução ao Maya</a>.</p>
+<p><strong>Surprise</strong></p>
+<p><a class="reference external" href=http://surpriselib.com/>Surprise</a> é uma biblioteca em Python para análise preditiva para sistemas
+de recomendação.</p>
+<p><strong>PyTone</strong></p>
+<p><a class="reference external" href=https://www.luga.de/pytone/>PyTone</a> é um jokebox com interface baseada em ncurses (terminal). Ele oferece
+vários recursos entre eles crossfading, seleção de música simples, playlist
+editável, mostra informações sobre a música atual (lê os metadados), seleção de
+músicas aleatórias e inteligente (que leva em consideração a avaliação e a
+última vez que a música foi tocada) entre outros.</p>
+<p>O projeto é um pouco antigo (Python 2.5) mas é bem interessante a proposta.</p>
+<p><strong>q : Quick-and-dirty debugging output for tired programmers</strong></p>
+<p><a class="reference external" href="http://pyvideo.org/video/1858/sunday-evening-lightning-talks#t=25m15s">q</a> é uma biblioteca que auxilia na geração de mensagens de debug rápidas. As
+mensagens são escritas em arquivos (<tt class="docutils literal">$TEMPDIR/q</tt>) e basta apenas incluir a
+seguinte linha para adicionar uma mensagem: <tt class="docutils literal">import q; <span class=pre>q("mensagem")</span></tt>.</p>
+<p>A biblioteca também permite fazer o trace de funções (informações de argumentos
+e valor de retorno) utilizando o decorator <cite>@q</cite> antes da definição da função.
+Também permite iniciar uma seção interativa no ponto em que a linha <tt class="docutils literal">import q;
+q.d()</tt> for adicionada no código.</p>
+<p>Para uma demonstração em vídeo, assista ao <a class="reference external" href=https://github.com/zestyping/q>lightning talk sobreo q</a></p>
+<p><strong>Novidades</strong></p>
+<p>Vamos deixar algumas novidades e links interessantes:</p>
+<ul class=simple>
+<li><a class="reference external" href=https://github.com/rg3915/fs2w>Full Stack Web Workshop GruPy-SP</a>: Tutoriais gratuitos do Grupy-SP em 2017</li>
+<li><a class="reference external" href=https://github.com/255kb/stack-on-a-budget>Stack on a budget</a>: Lista colaborativa de serviços cloud que oferecem
+períodos grátis para developers</li>
+<li><a class="reference external" href=https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/>Firebug lives on in Firefox DevTools</a>: Firebug foi descontinuado como um
+add-on do Firefox pois agora ele será incorporado ao Mozilla DevTools</li>
+</ul>
+<p><strong>Book Review: As Vinhas da Ira</strong></p>
+<p>Fechamos o episódio com o book review feito pelo Og. O Og tem uma identidade
+com a história apresentada no livro pois ele passou por momentos similares aos
+apresentados no livro quando se mudou para os Estados Unidos.</p>
+<p>A história do livro se passou durante a grande depressão e conta a história de
+uma família pobre que foi expulsa de sua propriedade devido a mudanças na
+atividade agrícola, a seca, dificuldades econômicas e execução de dívidas pelos
+bancos. Por isso a família partiu de Oklahoma para a Califórnia em busca de
+emprego, terra, dignidade e um futuro.</p>
+<div class=section id=escute-agora>
+<h2>Escute Agora</h2>
+<div class=card>
+<div class=card-body>
+<div class="card-text podcast text-center">
+<iframe src=https://archive.org/embed/castalio-podcast-81 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
+</div>
+<div class="podcast-download text-center">
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-81/castalio-podcast-81.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-81/castalio-podcast-81.ogg><i class="bi bi-download"></i> OGG</a>
+</div>
+</div>
+</div>
+</div>
+<div class=section id=links>
+<h2>Links</h2>
+<ul class=simple>
+<li><a class="reference external" href=https://github.com/kennethreitz/maya>Maya</a></li>
+<li><a class="reference external" href=https://www.kennethreitz.org/essays/introducing-maya-datetimes-for-humans>introdução ao Maya</a></li>
+<li><a class="reference external" href=http://surpriselib.com/>Surprise</a></li>
+<li><a class="reference external" href=https://www.luga.de/pytone/>PyTone</a></li>
+<li><a class="reference external" href=https://github.com/zestyping/q>lightning talk sobreo q</a></li>
+<li><a class="reference external" href="http://pyvideo.org/video/1858/sunday-evening-lightning-talks#t=25m15s">q</a></li>
+<li><a class="reference external" href=https://github.com/rg3915/fs2w>Full Stack Web Workshop GruPy-SP</a></li>
+<li><a class="reference external" href=https://github.com/255kb/stack-on-a-budget>Stack on a budget</a></li>
+<li><a class="reference external" href=https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/>Firebug lives on in Firefox DevTools</a></li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=BjPUQ4Apfhk">Vinhas da Ira - Filme - 1940</a></li>
+</ul>
+<p class="alert alert-info"><strong>Music (Música)</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+</div>
+</div></div><h2>Tags</h2>
+<p class=lh-lg>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/book-review/>book review</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/novidades-da-semana/>novidades da semana</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/john-steinbeck/>john steinbeck</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/maya/>maya</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/surprise/>surprise</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/pytone/>pytone</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/q/>q</a>
+</p><hr><div class="post-navs d-flex mb-3 justify-content-evenly">
+<div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
+<a href=https://castalio.info/episodes/080-kenneth-reitz/>Episódio 80: Kenneth Reitz - Python Requests
+</a>
+</div><div class="post-nav post-next">
+<a href=https://castalio.info/episodes/082-book-reviews-e-novidades-da-semana/>Episódio 82: Book Review: 36 Books That Changed the World E the Martian Chronicles
+</a>
+<i class="bi bi-chevron-right"></i>
+</div></div><section class=related-posts-wrapper>
+<h3>Episódios Relacionados</h3>
+<ul class=related-posts><li><a href=https://castalio.info/episodes/077-practical-vim-e-novidades-da-semana/>Episódio 77: Book Review: Practical Vim E Novidades Da Semana
+</a></li><li><a href=https://castalio.info/episodes/076-book-review-python-packages/>Episódio 76: Book Review E Python Packages
+</a></li></ul>
+</section></div>
+</article><div class="post-comments card row component">
+<div class=card-body><div id=disqus_thread></div>
+<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
+<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
+<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
+</div></div>
+</div>
+</div>
+</main><footer id=footer>
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-md-3>
+<h4>Sobre</h4>
+<p>
+O Castálio Podcast é fruto da imaginação e curiosidade
+incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+Caso você tenha alguma sugestão para o nosso próximo convidado,
+nos envie sua idéia para o nosso e-mail.
+</p>
+<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
+<i class="bi bi-info-circle"></i> Saiba mais </a>
+</div>
+<div class=col-md-3>
+<h4>Social</h4>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+<div class=col-md-3>
+<h4>Sites Amigos</h4>
+<ul id=footer-social class=list-unstyled>
+<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
+<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
+<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
+<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
+</ul>
+</div>
+</div>
+<div class="row justify-content-center">
+<p class=text-center>
+<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+</p>
+</div>
+</div>
+</footer>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
+<span class=podcast-download-count>
+<i class="bi bi-download" aria-hidden=true></i>
+<span id=download-count>-</span>
+</span>
+<script type=text/javascript>function set_download_count(a){$("#download-count").text(a.item.downloads)}</script>
+<script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-81%20castalio-podcast-81.mp3]&callback=set_download_count?output=json"></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
+<script async src=https://www.google-analytics.com/analytics.js></script>
+</body>
+</html>
