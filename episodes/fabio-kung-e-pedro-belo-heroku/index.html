@@ -1,0 +1,390 @@
+<!doctype html><html lang=en><head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link href=/images/favicon.ico rel=icon>
+<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
+<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
+<title>Hello, world!</title>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast
+</a>
+<button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span>
+</button>
+<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
+<ul class="navbar-nav ms-auto"><li class=nav-item>
+<a class=nav-link href=https://castalio.info/sobre/>
+Sobre
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/agenda/>
+Agenda
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/episodes/>
+Episódios
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/tags/english/>
+English Episodes
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/top5/>
+Top 5
+</a>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/youtube/>
+Youtube
+</a>
+</li><li class="nav-item dropdown">
+<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
+<i class="bi bi-caret-down-fill"></i> Inscreva-se
+</a>
+<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
+<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
+FeedBurner (RSS Feed)
+</a>
+</li><li>
+<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
+Google Podcasts
+</a>
+</li><li>
+<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
+iTunes
+</a>
+</li><li>
+<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
+Overcast
+</a>
+</li><li>
+<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
+Pocket Casts
+</a>
+</li><li>
+<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
+Spotify
+</a>
+</li><li>
+<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
+YouTube
+</a>
+</li></ul>
+</li><li class=nav-item>
+<a class=nav-link href=https://castalio.info/archives/>
+<i class="bi bi-archive"></i> Arquivos
+</a>
+</li></ul>
+<form class=d-flex action=https://castalio.info/search>
+<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
+</form>
+</div>
+</div>
+</nav>
+<div id=hero class="px-4 py-5 my-5 text-center">
+<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
+<div class="col-lg-6 mx-auto">
+<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
+<div class=fs-1>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+</div>
+</div>
+<main role=main class=container>
+<div class="row content">
+<div class=col-lg-12>
+<div class=container><article class="post row card mb-4 component">
+<div class=card-body>
+<h1 class="card-title my-3">Fábio Kung E Pedro Belo: Heroku
+</h1><div class=post-meta><span class=post-date title=Data>
+<i class="bi bi-calendar-date-fill"></i>
+Apr 29, 2012
+</span><span class=post-authors title=Autores>
+<i class="bi bi-person-fill"></i>
+Og Maciel
+</span><span class=post-reading-time title="Tempo de Leitura">
+<i class="bi bi-clock-fill"></i>
+2 minutos
+</span></div>
+<img class="float-start img-thumbnail post-image" src=/images/heroku.png>
+<div class="post-content mb-3"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio, desta vez com dois
+convidados: <strong>Fábio Kung</strong> e <strong>Pedro Belo</strong>, que atualmente trabalham na
+companhia Californiana <strong>Heroku</strong>! Se você escutou os dois últimos episódios,
+você deve se lembrar que eu mencionei sobre esta companhia com o <a class="reference external" href=http://www.castalio.info/henrique-bastos-welcome-to-the-django/>Henrique
+Bastos</a> e <a class="reference external" href=http://www.castalio.info/julio-monteiro-jobscore/>Júlio Monteiro</a>, e como que eu tenho usado os serviços que eles
+oferecem para hospedar e rodar alguns dos meus projetos. Então quando o Júlio
+se ofereceu para me apresentar ao pessoal da Heroku eu aceitei na mesma hora!</p>
+<p>Nosso bate-papo foi super divertido, e mesmo com os <strong>três fusos de
+horário diferentes</strong> (o Fábio na <strong>California</strong>, Pedro no <strong>Texas</strong> e eu
+na <strong>Carolina do Norte</strong>) conseguimos conversar sobre vários assuntos,
+incluindo uma explicação sobre o que significa Plataforma como Serviço
+(<strong>PaaS</strong>), o que a Heroku tem para oferecer comparado com a competição,
+contratações no mundo do software livre, vida no exterior, caipirinhas,
+bicicletas, ping-pong e mais!</p>
+<p><strong>But wait, there's more</strong>!!! Os três primeiro comentários que forem
+enviados respondendo a seguinte pergunta vão receber um coupon da
+<strong>Heroku</strong> no valor de <strong>US$36.50</strong> para pagar por um dyno/worker
+adicional ou um add-on:</p>
+<blockquote>
+Qual dos meus entrevistados que eu tive o prazer de conhecer <strong>em
+pessoa</strong> (a maioria eu conheço somente online)???</blockquote>
+<div class=section id=escute-agora>
+<h2>Escute Agora</h2>
+<div class=card>
+<div class=card-body>
+<div class="card-text podcast text-center">
+<iframe src=https://archive.org/embed/castalio-podcast-35 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
+</div>
+<div class="podcast-download text-center">
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-35/castalio-podcast-35.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-35/castalio-podcast-35.ogg><i class="bi bi-download"></i> OGG</a>
+</div>
+</div>
+</div>
+</div>
+<div class=section id=contato>
+<h2>Contato</h2>
+<p><strong>Fábio Kung</strong>:</p>
+<ul class=simple>
+<li><strong>Blog</strong>: <a class="reference external" href=http://fabiokung.com/>http://fabiokung.com/</a></li>
+<li><strong>Linked.in</strong>: <a class="reference external" href=http://www.linkedin.com/in/fabiokung>http://www.linkedin.com/in/fabiokung</a></li>
+<li><strong>Twitter</strong>: <a class="reference external" href=https://twitter.com/#!/fabiokung>https://twitter.com/#!/fabiokung</a></li>
+<li><strong>Facebook</strong>: <a class="reference external" href=https://www.facebook.com/fabio.kung>https://www.facebook.com/fabio.kung</a></li>
+<li><strong>Github</strong>: <a class="reference external" href=https://github.com/fabiokung>https://github.com/fabiokung</a></li>
+</ul>
+<p><strong>Pedro Belo</strong>:</p>
+<ul class=simple>
+<li><strong>Blog</strong>: <a class="reference external" href=http://pedro.herokuapp.com/>http://pedro.herokuapp.com/</a></li>
+<li><strong>Twitter</strong>: <a class="reference external" href=https://twitter.com/#!/ped>https://twitter.com/#!/ped</a></li>
+<li><strong>Github</strong>: <a class="reference external" href=https://github.com/pedro>https://github.com/pedro</a></li>
+</ul>
+</div>
+<div class=section id=resumo>
+<h2>Resumo</h2>
+<ul class=simple>
+<li><strong>Apresentação</strong> 01:00</li>
+<li><strong>O que é Heroku?</strong> 01:45</li>
+<li><strong>Contratações no mundo open source</strong> 08:13</li>
+<li><strong>Quem é a competição da Heroku?</strong> 13:50</li>
+<li><strong>Como foram parar na Heroku</strong> 15:35</li>
+<li><strong>Morando no exterior</strong> 18:58</li>
+<li><strong>Caipirinha, videogame, bicicleta e ping</strong> pong</li>
+<li><strong>RailsConf</strong> 28:21</li>
+<li><strong>Top 5</strong> 33:29</li>
+<li><strong>Conclusão</strong> 43:06</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/book/show/13583337-clube-da-luta target=_blank>Clube da Luta</a></li><li><a href=https://www.goodreads.com/book/show/22283.Survivor target=_blank>Survivor</a></li><li><a href=https://www.goodreads.com/book/show/105125.Effective_C_ target=_blank>Effective C++</a></li></ol><h3>Filmes:</h3><ol><li><a href="http://www.imdb.com/find?s=all&q=The+Girl+with+the+Dragon+Tatoo" target=_blank>The Girl with the Dragon Tatoo</a></li><li><a href=https://www.imdb.com/title/tt0120737/ target=_blank>O Senhor dos Anéis</a></li><li><a href=https://www.imdb.com/title/tt1119644/ target=_blank>Fringe</a></li><li><a href="http://www.imdb.com/find?s=all&q=Vampire+Diaries" target=_blank>Vampire Diaries</a></li><li><a href=https://www.imdb.com/title/tt0460681/ target=_blank>Supernatural</a></li><li><a href=https://www.imdb.com/title/tt0898266/ target=_blank>The Big Bang Theory</a></li><li><a href=https://www.imdb.com/title/tt0944947/ target=_blank>Game of Thrones</a></li><li><a href="http://www.imdb.com/find?s=all&q=Adaptation" target=_blank>Adaptation</a></li><li><a href="http://www.imdb.com/find?s=all&q=Being+John+Malkovich" target=_blank>Being John Malkovich</a></li></ol><h3>Músicas:</h3><ol><li><a href="http://www.last.fm/search?q=Radio+Head" target=_blank>Radio Head</a></li><li><a href=https://www.last.fm/music/PJ+Harvey target=_blank>PJ Harvey</a></li><li><a href=https://www.last.fm/music/The+Black+Keys target=_blank>The Black Keys</a></li><li><a href=https://www.last.fm/music/Queens+of+the+Stone+Age target=_blank>Queens of the Stone Age</a></li><li><a href="http://www.last.fm/search?q=The+Atomic+BitchWax" target=_blank>The Atomic BitchWax</a></li><li><a href=https://www.last.fm/music/Coldplay target=_blank>Coldplay</a></li></ol><h3>Sites:</h3><ol><li><a href=https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal target=_blank>Wikipedia</a></li><li><a href=https://news.ycombinator.com/ target=_blank>Hacker News</a></li></ol>
+</div>
+<div class=section id=links>
+<h2>Links</h2>
+<ul class=simple>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Heroku">Heroku</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Platform+as+a+Service">Platform as a Service</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Júlio+Monteiro">Júlio Monteiro (DuckDuckGo)</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Amazon+Cloud">Amazon Cloud</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Dreamhost">Dreamhost</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Framework+Django">Framework Django</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=nginx">nginx</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Certificado+SSL">Certificado SSL</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=PHP">PHP</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Python">Python</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Ruby">Ruby</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Emulador+de+NES">Emulador de NES</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=WhiteSpace">WhiteSpace</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=BrainFuck">BrainFuck</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Ruby+on+Rails">Ruby on Rails</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Node.js">Node.js</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Kenneth+Reitz">Kenneth Reitz</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Python+Requests">Python Requests</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Jabberd">Jabberd</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Erlang">Erlang</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=rPath">rPath</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=tempwatch">tempwatch</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=man+pages">man pages</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Red+Hat">Red Hat</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Mozilla">Mozilla</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Github">Github</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Vale+do+Silício">Vale do Silício</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Bruce+Eckel">Bruce Eckel</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Google">Google</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Yukihiro+Matsumoto">Yukihiro Matsumoto</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Google+AppEngine">Google AppEngine</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Cloud+Foundry">Cloud Foundry</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Windows+Azzure">Windows Azzure</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=DotCloud">DotCloud</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Java">Java</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Spring+MVC">Spring MVC</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Hybernate">Hybernate</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Git">Git</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=DrinkUp">DrinkUp</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=MeetUp">MeetUp</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=RailsConf">RailsConf</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=JSON">JSON</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=ActiveRecord">ActiveRecord</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Kindle">Kindle</a></li>
+</ul>
+<p class="alert alert-info"><strong>Música</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
+</div>
+</div></div><h2>Tags</h2>
+<p class=lh-lg>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/activerecord/>activerecord</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/adaptation/>adaptation</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/amazon-cloud/>amazon cloud</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/being-john-malkovich/>being john malkovich</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/brainfuck/>brainfuck</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/bruce-eckel/>bruce eckel</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/certificado-ssl/>certificado ssl</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/cloud-foundry/>cloud foundry</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/clube-da-luta/>clube da luta</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/cold-play/>cold play</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/dotcloud/>dotcloud</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/dreamhost/>dreamhost</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/drinkup/>drinkup</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/effective-c++/>effective c++</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/emulador-de-nes/>emulador de nes</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/erlang/>erlang</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/framework-django/>framework django</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/fringe/>fringe</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/game-of-thrones/>game of thrones</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/git/>git</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/github/>github</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/google/>google</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/google-appengine/>google appengine</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/hacker-news/>hacker news</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/heroku/>heroku</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/hybernate/>hybernate</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/jabberd/>jabberd</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/java/>java</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/j%C3%BAlio-monteiro/>júlio monteiro</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/json/>json</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/kenneth-reitz/>kenneth reitz</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/kindle/>kindle</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/man-pages/>man pages</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/meetup/>meetup</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/mozilla/>mozilla</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/nginx/>nginx</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/node.js/>node.js</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/o-senhor-dos-an%C3%A9is/>o senhor dos anéis</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/php/>php</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/pj-harvey/>pj harvey</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/platform-as-a-service/>platform as a service</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/python/>python</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/python-requests/>python requests</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/queens-of-the-stone-age/>queens of the stone age</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/radio-head/>radio head</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/railsconf/>railsconf</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/red-hat/>red hat</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/rpath/>rpath</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ruby/>ruby</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/ruby-on-rails/>ruby on rails</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/spring-mvc/>spring mvc</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/supernatural/>supernatural</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/survival/>survival</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/tempwatch/>tempwatch</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/the-atomic-bitchwax/>the atomic bitchwax</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/the-big-bang-theory/>the big bang theory</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/the-black-keys/>the black keys</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/the-girl-with-the-dragon-tatoo/>the girl with the dragon tatoo</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/vale-do-sil%C3%ADcio/>vale do silício</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/vampire-diaries/>vampire diaries</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/whitespace/>whitespace</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/wikipedia/>wikipedia</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/windows-azzure/>windows azzure</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/yukihiro-matsumoto/>yukihiro matsumoto</a>
+</p><hr><div class="post-navs d-flex mb-3 justify-content-evenly">
+<div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
+<a href=https://castalio.info/episodes/julio-monteiro-jobscore/>Júlio Monteiro: JobScore
+</a>
+</div><div class="post-nav post-next">
+<a href=https://castalio.info/episodes/caike-souza-envy-labs/>Caike Souza: Envy Labs
+</a>
+<i class="bi bi-chevron-right"></i>
+</div></div><section class=related-posts-wrapper>
+<h3>Episódios Relacionados</h3>
+<ul class=related-posts><li><a href=https://castalio.info/episodes/julio-monteiro-jobscore/>Júlio Monteiro: JobScore
+</a></li><li><a href=https://castalio.info/episodes/henrique-bastos-welcome-to-the-django/>Henrique Bastos: Welcome to the Django
+</a></li><li><a href=https://castalio.info/episodes/carlos-ribeiro-radiotray/>Carlos Ribeiro - RadioTray
+</a></li><li><a href=https://castalio.info/episodes/gabriel-falcao-yipi/>Gabriel Falcão: Yipit
+</a></li><li><a href=https://castalio.info/episodes/rodrigo-belem-ubuntu-brasi/>Rodrigo Belém: Ubuntu Brasil
+</a></li></ul>
+</section></div>
+</article><div class="post-comments card row component">
+<div class=card-body><div id=disqus_thread></div>
+<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
+<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
+<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
+</div></div>
+</div>
+</div>
+</main><footer id=footer>
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-md-3>
+<h4>Sobre</h4>
+<p>
+O Castálio Podcast é fruto da imaginação e curiosidade
+incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+Caso você tenha alguma sugestão para o nosso próximo convidado,
+nos envie sua idéia para o nosso e-mail.
+</p>
+<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
+<i class="bi bi-info-circle"></i> Saiba mais </a>
+</div>
+<div class=col-md-3>
+<h4>Social</h4>
+<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
+<i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
+<i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
+<i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
+<i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
+<i class="bi bi-youtube"></i>
+</a></nav>
+</div>
+<div class=col-md-3>
+<h4>Sites Amigos</h4>
+<ul id=footer-social class=list-unstyled>
+<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
+<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
+<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
+<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
+</ul>
+</div>
+</div>
+<div class="row justify-content-center">
+<p class=text-center>
+<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+</p>
+</div>
+</div>
+</footer>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
+<span class=podcast-download-count>
+<i class="bi bi-download" aria-hidden=true></i>
+<span id=download-count>-</span>
+</span>
+<script type=text/javascript>function set_download_count(a){$("#download-count").text(a.item.downloads)}</script>
+<script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-35%20castalio-podcast-35.mp3]&callback=set_download_count?output=json"></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
+<script async src=https://www.google-analytics.com/analytics.js></script>
+</body>
+</html>
