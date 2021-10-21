@@ -1,5 +1,6 @@
 ---
 title: "Bruno Gonçalves: BigLinux"
+slug: bruno-goncalves-biglinux
 aliases:
 - /bruno-goncalves-biglinux.html
 date: "2012-09-03T16:42:00"

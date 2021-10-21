@@ -1,5 +1,6 @@
 ---
 title: "Episódio 96: Plataforma de Desenvolvimento da Microsoft - Parte 2"
+slug: episodio-96-plataforma-de-desenvolvimento-da-microsoft-parte-2
 aliases:
 - /episodio-96-plataforma-de-desenvolvimento-da-microsoft-parte-2.html
 date: 2017-04-17

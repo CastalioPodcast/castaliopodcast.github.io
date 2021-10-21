@@ -1,5 +1,6 @@
 ---
 title: "Rodrigo Novo: Conectiva Linux"
+slug: rodrigo-novo-conectiva-linux
 aliases:
 - /rodrigo-novo-conectiva-linux.html
 date: "2011-12-26T18:16:00"

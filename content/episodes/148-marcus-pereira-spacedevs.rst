@@ -1,5 +1,6 @@
 ---
 title: "Episódio 148: Marcus Pereira - Spacedevs"
+slug: episodio-148-marcus-pereira-spacedevs
 aliases:
 - /episodio-148-marcus-pereira-spacedevs.html
 date: 2020-07-20

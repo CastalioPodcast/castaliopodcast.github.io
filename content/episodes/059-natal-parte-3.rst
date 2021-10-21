@@ -1,5 +1,6 @@
 ---
 title: "Episódio 59: Episódio de Natal - Parte 3"
+slug: episodio-59-episodio-de-natal-parte-3
 aliases:
 - /episodio-59-episodio-de-natal-parte-3.html
 date: 2014-12-22

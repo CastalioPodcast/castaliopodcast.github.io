@@ -1,5 +1,6 @@
 ---
 title: "Episódio 67: Aurelio Jargas - Conectiva e Livros"
+slug: episodio-67-aurelio-jargas-conectiva-e-livros
 aliases:
 - /episodio-67-aurelio-jargas-conectiva-e-livros.html
 date: 2015-09-05

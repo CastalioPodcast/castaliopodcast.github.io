@@ -1,5 +1,6 @@
 ---
 title: "Júlio Monteiro: JobScore"
+slug: julio-monteiro-jobscore
 aliases:
 - /julio-monteiro-jobscore.html
 date: "2012-04-15T20:40:00"

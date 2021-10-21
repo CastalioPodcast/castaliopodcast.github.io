@@ -1,5 +1,6 @@
 ---
 title: "Episódio 78: Gabriel Engel - Rocket.Chat"
+slug: episodio-78-gabriel-engel-rocketcha
 aliases:
 - /episodio-78-gabriel-engel-rocketchat.html
 date: 2016-12-11

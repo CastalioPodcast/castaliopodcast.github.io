@@ -1,5 +1,6 @@
 ---
 title: "Alexandre Gaigalas: Yahoo"
+slug: alexandre-gaigalas-yahoo
 aliases:
 - /alexandre-gaigalas-yahoo.html
 date: "2013-03-03T21:48:00"

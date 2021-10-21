@@ -1,5 +1,6 @@
 ---
 title: "Episódio 154: Antonio Piccinini e Leonardo da Silva - CDP e Analytics"
+slug: episodio-154-antonio-piccinini-e-leonardo-da-silva-cdp-e-analytics
 aliases:
 - /episodio-154-antonio-piccinini-e-leonardo-da-silva-cdp-e-analytics.html
 date: 2021-09-06

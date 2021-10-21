@@ -1,5 +1,6 @@
 ---
 title: "Lucas Rocha - The Board (Parte 1)"
+slug: lucas-rocha-the-board-parte-1
 aliases:
 - /lucas-rocha-the-board-parte-1.html
 date: "2011-06-26T22:15:00"

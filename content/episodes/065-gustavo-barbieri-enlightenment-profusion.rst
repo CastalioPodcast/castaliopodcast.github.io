@@ -1,5 +1,6 @@
 ---
 title: "Episódio 65: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment"
+slug: episodio-65-gustavo-sverzut-barbieri-profusion-e-enlightenmen
 aliases:
 - /episodio-65-gustavo-sverzut-barbieri-profusion-e-enlightenment.html
 date: 2015-03-15

@@ -1,5 +1,6 @@
 ---
 title: "Rodrigo Padula de Oliveira: UFRJ"
+slug: rodrigo-padula-de-oliveira-ufrj
 aliases:
 - /rodrigo-padula-de-oliveira-ufrj.html
 date: "2012-01-08T17:11:00"

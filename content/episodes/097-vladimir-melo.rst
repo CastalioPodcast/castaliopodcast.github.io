@@ -1,5 +1,6 @@
 ---
 title: "Episódio 97: Vladimir Melo - Software Livre e Obesidade Infantil"
+slug: episodio-97-vladimir-melo-software-livre-e-obesidade-infanti
 aliases:
 - /episodio-97-vladimir-melo-software-livre-e-obesidade-infantil.html
 date: 2017-04-24

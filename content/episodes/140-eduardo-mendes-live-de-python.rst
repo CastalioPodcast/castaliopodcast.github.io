@@ -1,5 +1,6 @@
 ---
 title: "Episódio 140: Eduardo Mendes - Live de Python"
+slug: episodio-140-eduardo-mendes-live-de-python
 aliases:
 - /episodio-140-eduardo-mendes-live-de-python.html
 date: 2019-04-29

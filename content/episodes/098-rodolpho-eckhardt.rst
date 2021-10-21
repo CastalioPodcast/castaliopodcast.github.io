@@ -1,5 +1,6 @@
 ---
 title: "Episódio 98: Rodolpho Eckhardt - YouTube, Google e SRE"
+slug: episodio-98-rodolpho-eckhardt-youtube-google-e-sre
 aliases:
 - /episodio-98-rodolpho-eckhardt-youtube-google-e-sre.html
 date: 2017-05-01

@@ -1,5 +1,6 @@
 ---
 title: "Rudá Moura: Conectiva Linux"
+slug: ruda-moura-conectiva-linux
 aliases:
 - /ruda-moura-conectiva-linux.html
 date: "2011-12-04T17:05:00"

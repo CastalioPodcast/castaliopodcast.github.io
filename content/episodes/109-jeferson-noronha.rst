@@ -1,5 +1,6 @@
 ---
 title: "Episódio 109: Jeferson Noronha - Canal LinuxTips"
+slug: episodio-109-jeferson-noronha-canal-linuxtips
 aliases:
 - /episodio-109-jeferson-noronha-canal-linuxtips.html
 date: 2017-07-17

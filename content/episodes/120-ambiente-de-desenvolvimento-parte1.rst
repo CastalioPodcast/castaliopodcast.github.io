@@ -1,5 +1,6 @@
 ---
 title: "Episódio 120: Ambiente de Desenvolvimento - Parte 1"
+slug: episodio-120-ambiente-de-desenvolvimento-parte-1
 aliases:
 - /episodio-120-ambiente-de-desenvolvimento-parte-1.html
 date: 2017-10-02

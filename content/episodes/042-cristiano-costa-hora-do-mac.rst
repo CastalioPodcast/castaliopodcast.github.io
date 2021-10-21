@@ -1,5 +1,6 @@
 ---
 title: "Cristiano Costa: Hora do Mac"
+slug: cristiano-costa-hora-do-mac
 aliases:
 - /cristiano-costa-hora-do-mac.html
 date: "2012-08-06T14:35:00"

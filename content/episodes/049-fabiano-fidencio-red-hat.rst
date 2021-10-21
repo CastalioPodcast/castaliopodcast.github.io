@@ -1,5 +1,6 @@
 ---
 title: "Fabiano Fidêncio: Red Hat"
+slug: fabiano-fidencio-red-ha
 aliases:
 - /fabiano-fidencio-red-hat.html
 date: "2013-01-21T02:04:00"

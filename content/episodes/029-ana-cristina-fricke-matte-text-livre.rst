@@ -1,5 +1,6 @@
 ---
 title: "Ana Cristina Fricke Matte: Texto Livre"
+slug: ana-cristina-fricke-matte-texto-livre
 aliases:
 - /ana-cristina-fricke-matte-texto-livre.html
 date: "2012-02-05T22:13:00"

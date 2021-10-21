@@ -1,5 +1,6 @@
 ---
 title: "Episode 131: Justin Keyes - Neovim"
+slug: episode-131-justin-keyes-neovi
 aliases:
 - /episode-131-justin-keyes-neovim.html
 date: 2018-04-10

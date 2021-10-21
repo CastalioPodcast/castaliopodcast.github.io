@@ -1,5 +1,6 @@
 ---
 title: "Episódio 149: Nina Da Hora - Computação da Hora e Ogunhê"
+slug: episodio-149-nina-da-hora-computacao-da-hora-e-ogunhe
 aliases:
 - /episodio-149-nina-da-hora-computacao-da-hora-e-ogunhe.html
 date: 2020-08-31

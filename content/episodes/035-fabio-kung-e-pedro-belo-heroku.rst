@@ -1,5 +1,6 @@
 ---
 title: "Fábio Kung e Pedro Belo: Heroku"
+slug: fabio-kung-e-pedro-belo-heroku
 aliases:
 - /fabio-kung-e-pedro-belo-heroku.html
 date: "2012-04-29T13:03:00"

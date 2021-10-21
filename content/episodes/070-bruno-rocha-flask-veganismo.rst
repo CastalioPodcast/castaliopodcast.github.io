@@ -1,5 +1,6 @@
 ---
 title: "Episódio 70: Bruno Rocha - Flask e Veganismo"
+slug: episodio-70-bruno-rocha-flask-e-veganismo
 aliases:
 - /episodio-70-bruno-rocha-flask-e-veganismo.html
 date: 2016-05-21

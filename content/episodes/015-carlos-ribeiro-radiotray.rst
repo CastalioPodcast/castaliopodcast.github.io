@@ -1,5 +1,6 @@
 ---
 title: "Carlos Ribeiro - RadioTray"
+slug: carlos-ribeiro-radiotray
 aliases:
 - /carlos-ribeiro-radiotray.html
 date: "2011-08-21T21:03:00"

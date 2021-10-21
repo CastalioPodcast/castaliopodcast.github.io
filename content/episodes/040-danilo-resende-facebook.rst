@@ -1,5 +1,6 @@
 ---
 title: "Danilo Resende: Facebook"
+slug: danilo-resende-facebook
 aliases:
 - /danilo-resende-facebook.html
 date: "2012-07-09T02:52:00"

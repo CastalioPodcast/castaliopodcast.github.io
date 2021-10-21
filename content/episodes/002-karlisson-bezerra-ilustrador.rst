@@ -1,5 +1,6 @@
 ---
 title: "Episódio 1: Karlisson Bezerra, Ilustrador"
+slug: episodio-1-karlisson-bezerra-ilustrador
 aliases:
 - /episodio-1-karlisson-bezerra-ilustrador.html
 date: 2011-03-07

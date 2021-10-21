@@ -1,5 +1,6 @@
 ---
 title: "Frederico Gonçalves Guimaraes - Software Livre Educacional"
+slug: frederico-goncalves-guimaraes-software-livre-educaciona
 aliases:
 - /frederico-goncalves-guimaraes-software-livre-educacional.html
 date: "2011-05-12T23:31:00"

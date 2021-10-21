@@ -1,5 +1,6 @@
 ---
 title: "Episódio 80: Kenneth Reitz - Python Requests"
+slug: episodio-80-kenneth-reitz-python-requests
 aliases:
 - /episodio-80-kenneth-reitz-python-requests.html
 date: 2016-12-24

@@ -1,5 +1,6 @@
 ---
 title: "Episódio 79: Paula Grangeiro - Pyladies"
+slug: episodio-79-paula-grangeiro-pyladies
 aliases:
 - /episodio-79-paula-grangeiro-pyladies.html
 date: 2016-12-18

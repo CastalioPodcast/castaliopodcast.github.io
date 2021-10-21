@@ -1,5 +1,6 @@
 ---
 title: "Episódio 103: Linguagem de Programação Elixir"
+slug: episodio-103-linguagem-de-programacao-elixir
 aliases:
 - /episodio-103-linguagem-de-programacao-elixir.html
 date: 2017-06-05

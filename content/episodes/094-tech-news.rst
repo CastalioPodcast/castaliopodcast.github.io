@@ -1,5 +1,6 @@
 ---
 title: "Episódio 94: Tech News"
+slug: episodio-94-tech-news
 aliases:
 - /episodio-94-tech-news.html
 date: 2017-04-03

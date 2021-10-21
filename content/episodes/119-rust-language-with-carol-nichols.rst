@@ -1,5 +1,6 @@
 ---
 title: "Episode 119: Carol Nichols - Rust Language"
+slug: episode-119-carol-nichols-rust-language
 aliases:
 - /episode-119-carol-nichols-rust-language.html
 date: 2017-09-25

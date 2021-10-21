@@ -1,5 +1,6 @@
 ---
 title: "Episódio 122: Python Brasil 13"
+slug: episodio-122-python-brasil-13
 aliases:
 - /episodio-122-python-brasil-13.html
 date: 2017-10-16

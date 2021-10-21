@@ -1,5 +1,6 @@
 ---
 title: "Episódio 102: Marcelo Mello - Red Hat e Home Assistant"
+slug: episodio-102-marcelo-mello-red-hat-e-home-assistan
 aliases:
 - /episodio-102-marcelo-mello-red-hat-e-home-assistant.html
 date: 2017-05-29

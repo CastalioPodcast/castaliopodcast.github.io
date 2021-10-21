@@ -1,5 +1,6 @@
 ---
 title: "Episódio 132: Túlio Faria - React JS"
+slug: episodio-132-tulio-faria-react-js
 aliases:
 - /episodio-132-tulio-faria-react-js.html
 date: 2018-04-26

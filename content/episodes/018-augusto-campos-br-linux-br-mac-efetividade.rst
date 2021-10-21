@@ -1,5 +1,6 @@
 ---
 title: "Augusto Campos: BR-Linux, BR-Mac, Efetividade"
+slug: augusto-campos-br-linux-br-mac-efetividade
 aliases:
 - /augusto-campos-br-linux-br-mac-efetividade.html
 date: "2011-10-02T16:43:00"

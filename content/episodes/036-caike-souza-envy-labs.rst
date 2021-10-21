@@ -1,5 +1,6 @@
 ---
 title: "Caike Souza: Envy Labs"
+slug: caike-souza-envy-labs
 aliases:
 - /caike-souza-envy-labs.html
 date: "2012-05-13T23:03:00"

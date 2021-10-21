@@ -1,5 +1,6 @@
 ---
 title: "Julian Fernandes: Ubuntu BR SC"
+slug: julian-fernandes-ubuntu-br-sc
 aliases:
 - /julian-fernandes-ubuntu-br-sc.html
 date: "2012-12-03T14:21:00"

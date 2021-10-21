@@ -1,5 +1,6 @@
 ---
 title: "Episódio 62: Diego Rodrigo Santos - SobreCervejas"
+slug: episodio-62-diego-rodrigo-santos-sobrecervejas
 aliases:
 - /episodio-62-diego-rodrigo-santos-sobrecervejas.html
 date: 2015-02-01

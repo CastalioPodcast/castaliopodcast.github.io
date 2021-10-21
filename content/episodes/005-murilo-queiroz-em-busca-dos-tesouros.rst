@@ -1,5 +1,6 @@
 ---
 title: "Murilo Queiroz - Em Busca dos Tesouros"
+slug: murilo-queiroz-em-busca-dos-tesouros
 aliases:
 - /murilo-queiroz-em-busca-dos-tesouros.html
 date: "2011-04-16T16:46:00"

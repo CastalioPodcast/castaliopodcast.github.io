@@ -1,5 +1,6 @@
 ---
 title: "Episódio 152: Ana Dulce e Loyanne Cristine - Python Brasil 2020"
+slug: episodio-152-ana-dulce-e-loyanne-cristine-python-brasil-2020
 aliases:
 - /episodio-152-ana-dulce-e-loyanne-cristine-python-brasil-2020.html
 date: 2020-11-30

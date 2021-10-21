@@ -1,5 +1,6 @@
 ---
 title: "Episódio 116: Tech News"
+slug: episodio-116-tech-news
 aliases:
 - /episodio-116-tech-news.html
 date: 2017-09-04

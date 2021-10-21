@@ -1,5 +1,6 @@
 ---
 title: "Episódio 56: Splinter"
+slug: episodio-56-splinter
 aliases:
 - /episodio-56-splinter.html
 date: 2014-12-07

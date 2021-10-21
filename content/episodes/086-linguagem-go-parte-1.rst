@@ -1,5 +1,6 @@
 ---
 title: "Episódio 86: Linguagem de Programação Go - Parte 1"
+slug: episodio-86-linguagem-de-programacao-go-parte-1
 aliases:
 - /episodio-86-linguagem-de-programacao-go-parte-1.html
 date: 2017-02-06

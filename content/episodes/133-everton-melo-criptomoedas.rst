@@ -1,5 +1,6 @@
 ---
 title: "Episódio 133: Everton Melo - Criptomoeadas"
+slug: episodio-133-everton-melo-criptomoeadas
 aliases:
 - /episodio-133-everton-melo-criptomoeadas.html
 date: 2018-06-08

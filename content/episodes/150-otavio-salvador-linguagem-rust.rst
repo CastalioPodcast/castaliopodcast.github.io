@@ -1,5 +1,6 @@
 ---
 title: "Episódio 150: Otavio Salvador - Linguagem Rust"
+slug: episodio-150-otavio-salvador-linguagem-rus
 aliases:
 - /episodio-150-otavio-salvador-linguagem-rust.html
 date: 2020-09-14

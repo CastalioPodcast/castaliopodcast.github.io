@@ -1,5 +1,6 @@
 ---
 title: "Episódio 104: Caipyra 2017"
+slug: episodio-104-caipyra-2017
 aliases:
 - /episodio-104-caipyra-2017.html
 date: 2017-06-12

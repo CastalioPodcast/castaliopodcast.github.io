@@ -1,5 +1,6 @@
 ---
 title: "Episódio 114: Mariatta Wijaya - CPython"
+slug: episodio-114-mariatta-wijaya-cpython
 aliases:
 - /episodio-114-mariatta-wijaya-cpython.html
 date: 2017-08-21

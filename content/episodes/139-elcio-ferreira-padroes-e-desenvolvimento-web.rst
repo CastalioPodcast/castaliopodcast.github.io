@@ -1,5 +1,6 @@
 ---
 title: "Episódio 139: Elcio Ferreira - Padrões e Desenvolvimento Web"
+slug: episodio-139-elcio-ferreira-padroes-e-desenvolvimento-web
 aliases:
 - /episodio-139-elcio-ferreira-padroes-e-desenvolvimento-web.html
 date: 2019-03-25

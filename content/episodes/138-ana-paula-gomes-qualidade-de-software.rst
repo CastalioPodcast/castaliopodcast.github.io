@@ -1,5 +1,6 @@
 ---
 title: "Episódio 138: Ana Paula Gomes - Qualidade de Software"
+slug: episodio-138-ana-paula-gomes-qualidade-de-software
 aliases:
 - /episodio-138-ana-paula-gomes-qualidade-de-software.html
 date: 2018-12-17

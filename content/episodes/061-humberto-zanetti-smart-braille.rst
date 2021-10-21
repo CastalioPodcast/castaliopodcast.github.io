@@ -1,5 +1,6 @@
 ---
 title: "Episódio 61: Humberto Augusto Piovesana Zanetti - Smart Braille"
+slug: episodio-61-humberto-augusto-piovesana-zanetti-smart-braille
 aliases:
 - /episodio-61-humberto-augusto-piovesana-zanetti-smart-braille.html
 date: 2015-01-18

@@ -1,5 +1,6 @@
 ---
 title: "Aline Duarte Bessa - Accerciser"
+slug: aline-duarte-bessa-accerciser
 aliases:
 - /aline-duarte-bessa-accerciser.html
 date: "2011-07-25T00:00:00"

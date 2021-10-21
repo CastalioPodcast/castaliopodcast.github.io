@@ -1,5 +1,6 @@
 ---
 title: "Fábio Nogueira: Ubuntu Brasil"
+slug: fabio-nogueira-ubuntu-brasi
 aliases:
 - /fabio-nogueira-ubuntu-brasil.html
 date: "2012-07-22T22:52:00"

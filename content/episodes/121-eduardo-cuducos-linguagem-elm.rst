@@ -1,5 +1,6 @@
 ---
 title: "Episódio 121: Eduardo Cuducos - Linguagem Elm"
+slug: episodio-121-eduardo-cuducos-linguagem-e
 aliases:
 - /episodio-121-eduardo-cuducos-linguagem-elm.html
 date: 2017-10-09

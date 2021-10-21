@@ -1,5 +1,6 @@
 ---
 title: "Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1"
+slug: carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1
 aliases:
 - /carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1.html
 date: "2012-09-30T18:39:00"

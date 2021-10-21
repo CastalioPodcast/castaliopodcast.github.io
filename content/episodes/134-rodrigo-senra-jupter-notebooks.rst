@@ -1,5 +1,6 @@
 ---
 title: "Episódio 134: Rodrigo Senra - Jupyter Notebooks"
+slug: episodio-134-rodrigo-senra-jupyter-notebooks
 aliases:
 - /episodio-134-rodrigo-senra-jupyter-notebooks.html
 date: 2018-10-15

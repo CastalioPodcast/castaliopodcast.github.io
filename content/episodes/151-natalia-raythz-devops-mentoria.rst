@@ -1,5 +1,6 @@
 ---
 title: "Episódio 151: Natalia Raythz - DevOps e Mentoria"
+slug: episodio-151-natalia-raythz-devops-e-mentoria
 aliases:
 - /episodio-151-natalia-raythz-devops-e-mentoria.html
 date: 2020-10-05

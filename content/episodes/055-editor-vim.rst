@@ -1,5 +1,6 @@
 ---
 title: "Episódio 55: Editor Vim"
+slug: episodio-55-editor-vi
 aliases:
 - /episodio-55-editor-vim.html
 date: "2014-11-23T18:44:00"

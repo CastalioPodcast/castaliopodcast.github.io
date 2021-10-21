@@ -1,5 +1,6 @@
 ---
 title: "Episódio 117: Engenharia de Qualidade 101"
+slug: episodio-117-engenharia-de-qualidade-101
 aliases:
 - /episodio-117-engenharia-de-qualidade-101.html
 date: 2017-09-11

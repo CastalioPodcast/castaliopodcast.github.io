@@ -1,5 +1,6 @@
 ---
 title: "Episódio 153: Marcelo Pinheiro - Podcast OsProgramadores e sua carreira em TI"
+slug: episodio-153-marcelo-pinheiro-podcast-osprogramadores-e-sua-carreira-em-ti
 aliases:
 - /episodio-153-marcelo-pinheiro-podcast-osprogramadores-e-sua-carreira-em-ti.html
 date: 2021-01-19

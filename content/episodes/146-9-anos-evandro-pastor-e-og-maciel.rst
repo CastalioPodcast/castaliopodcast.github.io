@@ -1,5 +1,6 @@
 ---
 title: "Episódio 146: Especial de 9 anos com Evandro Pastor e Og Maciel"
+slug: episodio-146-especial-de-9-anos-com-evandro-pastor-e-og-macie
 aliases:
 - /episodio-146-especial-de-9-anos-com-evandro-pastor-e-og-maciel.html
 date: 2020-02-29

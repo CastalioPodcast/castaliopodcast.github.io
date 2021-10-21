@@ -1,5 +1,6 @@
 ---
 title: "Evandro Pastor: Quarto Estudio"
+slug: evandro-pastor-quarto-estudio
 aliases:
 - /evandro-pastor-quarto-estudio.html
 date: "2011-10-17T12:37:00"

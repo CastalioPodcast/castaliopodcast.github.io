@@ -1,5 +1,6 @@
 ---
 title: "Episódio 106: Dan Bader"
+slug: episodio-106-dan-bader
 aliases:
 - /episodio-106-dan-bader.html
 date: 2017-06-26

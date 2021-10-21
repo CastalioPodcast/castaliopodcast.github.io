@@ -1,5 +1,6 @@
 ---
 title: "Episódio Zero: Og Maciel"
+slug: episodio-zero-og-macie
 aliases:
 - /episodio-zero-og-maciel.html
 date: "2011-02-16T15:07:00"

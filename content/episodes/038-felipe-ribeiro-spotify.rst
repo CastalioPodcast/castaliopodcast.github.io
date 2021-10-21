@@ -1,5 +1,6 @@
 ---
 title: "Felipe Ribeiro: Spotify"
+slug: felipe-ribeiro-spotify
 aliases:
 - /felipe-ribeiro-spotify.html
 date: "2012-06-10T16:43:00"

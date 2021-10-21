@@ -1,5 +1,6 @@
 ---
 title: "Ivan Brasil Fuzzer: Ubuntero"
+slug: ivan-brasil-fuzzer-ubuntero
 aliases:
 - /ivan-brasil-fuzzer-ubuntero.html
 date: "2012-03-04T15:36:00"

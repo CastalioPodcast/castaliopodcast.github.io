@@ -1,5 +1,6 @@
 ---
 title: "Episódio 125: Bruno Oliveira - pytest"
+slug: episodio-125-bruno-oliveira-pytes
 aliases:
 - /episodio-125-bruno-oliveira-pytest.html
 date: 2018-01-15

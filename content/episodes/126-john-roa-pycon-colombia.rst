@@ -1,5 +1,6 @@
 ---
 title: "Episódio 126: John Roa - PyCon Colombia"
+slug: episodio-126-john-roa-pycon-colombia
 aliases:
 - /episodio-126-john-roa-pycon-colombia.html
 date: 2018-01-29
