@@ -1,3 +1,4 @@
 PyYAML
+Pygments
 aiohttp
 docutils
