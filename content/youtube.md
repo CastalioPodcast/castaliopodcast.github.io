@@ -3,6 +3,7 @@ title: Youtube
 slug: youtube
 date: "2017-07-07T16:00:00"
 author: Og Maciel, Elyézer Rezende, Bruno Rocha
+comment: false
 menu:
   main:
     weight: 60

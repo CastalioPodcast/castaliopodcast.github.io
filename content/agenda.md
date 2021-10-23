@@ -5,7 +5,6 @@ aliases:
 slug: agenda
 date: "2017-05-25T08:00:00"
 author: Og Maciel, Elyézer Rezende, Bruno Rocha
-comments: enabled
 menu:
   main:
     weight: 20
