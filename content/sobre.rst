@@ -4,6 +4,7 @@ aliases:
 - sobre-o-castalio
 date: "2011-01-22T16:00:00"
 author: Og Maciel, Elyézer Rezende, Bruno Rocha
+comment: false
 menu:
   main:
     weight: 10
