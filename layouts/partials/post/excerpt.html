@@ -1,9 +1,7 @@
-{{- $key := $.Site.Params.post.excerpt -}}
 {{- $content :=  "" -}}
-{{- if eq $key "description" -}}
-  {{- $content = .Description -}}
+{{- if eq .Type "episodes" -}}
+  {{- $content = (index (split .Content "<!-- more -->") 0) | safeHTML -}}
 {{- else -}}
   {{- $content = .Summary -}}
 {{- end -}}
-{{- $maxLength := default 320 $.Site.Params.post.excerptMaxLength -}}
-{{- $content | truncate $maxLength -}}
+{{- $content -}}
