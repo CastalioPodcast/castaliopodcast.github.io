@@ -124,8 +124,15 @@ Og Maciel, Elyézer Rezende, Bruno Rocha
 <i class="bi bi-clock-fill"></i>
 6 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-Hoje trazemos um Tech News com notícias, sugestões e dicas. Também fazemos um Book Review do livro Complô Contra a América de Philip Roth. Além disso, temos uma novidade, o Castálio agora tem um canal no YouTube e este episódio foi gravado ao vivo …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje trazemos um Tech News com notícias, sugestões e dicas. Também fazemos um
+Book Review do livro Complô Contra a América de Philip Roth. Além disso, temos
+uma novidade, o Castálio agora tem um canal no YouTube e este episódio foi
+gravado ao vivo por lá. Se você quer receber as novidades das próximas
+gravações ao vivo e outros conteúdos que estaremos publicando por lá, assine o
+<a class="reference external" href=http://bit.ly/CanalCastalio>Canal do YouTube do Castálio Podcast</a>.</p>
+</p>
 </div>
 </div>
 </div>
@@ -148,9 +155,17 @@ Og Maciel, Elyézer Rezende, Bruno Rocha
 <i class="bi bi-clock-fill"></i>
 5 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-Se você ainda não migrou os seus projetos para Python 3 é melhor começar agora. Como já mencionamos aqui o Python 2.x está com os dias contados e alguns frameworks importantes como o Django estão começando a remover o suporte ao Python 2.
-Além disso …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Se você ainda não migrou os seus projetos para Python 3 é melhor começar
+agora. Como já mencionamos aqui o Python 2.x está com os dias contados e
+alguns frameworks importantes como o Django estão começando a remover o
+suporte ao Python 2.</p>
+<p>Além disso o Python 3 está trazendo novidades muito interessantes que não
+estarão disponíveis no Python 2, então a hora de migrar é agora!</p>
+<p>Conheça agora algumas notícias, novidades e dicas de softwares e truques para
+o terminal Linux e no final do episódio um excelente Book Review!</p>
+</p>
 </div>
 </div>
 </div>
@@ -173,9 +188,17 @@ Og Maciel, Elyézer Rezende, Bruno Rocha
 <i class="bi bi-clock-fill"></i>
 6 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-No episódio de hoje temos como convidados Magnum, Jorge e Ricardo do Hack and Cast que fizeram os reviews dos livros Eu Sou a Lenda de Richard Matheson, A Última Pergunta e A Última resposta de Issac Asimov.
-A dica de Python da semana é sobre o …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje temos como convidados Magnum, Jorge e Ricardo do <a class="reference external" href=http://hackncast.org/>Hack and Cast</a>
+que fizeram os reviews dos livros <strong>Eu Sou a Lenda</strong> de Richard Matheson, <strong>A Última Pergunta</strong> e
+<strong>A Última resposta</strong> de Issac Asimov.</p>
+<p>A dica de Python da semana é sobre o framework <a class="reference external" href=http://kivy.org>Kivy</a>, e a sugestão foi do nosso
+ouvinte <strong>Hell Barba</strong>. O <strong>Kivy</strong> é um framework para desenvolvimento de interfaces
+orientadas a <strong>multi-touch</strong> especialmente voltado a tablets e dispositivos móveis, mas
+que também serve para desenvolver <strong>Desktop GUI</strong> para aplicativos Python de maneira bastante
+similar ao <strong>Tkinter</strong> que citamos no epiśodio 82.</p>
+</p>
 </div>
 </div>
 </div>
@@ -198,9 +221,34 @@ Og Maciel, Elyézer Rezende, Bruno Rocha
 <i class="bi bi-clock-fill"></i>
 5 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-No episódio de hoje temos um convidado, o Rafael Rosa Fu que aceitou nosso convite e fez 2 book reviews, um falando sobre o livro "36 Books that Changed the World" e outro sobre o "The Martian Chronicles".
-A dica de Python da …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje temos um convidado, o Rafael Rosa Fu que aceitou nosso
+convite e fez 2 book reviews, um falando sobre o livro "36 Books that Changed the World"
+e outro sobre o "The Martian Chronicles".</p>
+<p>A dica de Python da semana é sobre testes, mais especificamente sobre o uso
+do <tt class="docutils literal">subTest</tt> que é um context manager que foi adicionado ao módulo unittest do Python3.4
+e que já estava disponível no 2.7. Usando o unittest e o <tt class="docutils literal">subTest</tt> possibilita que
+em um mesmo test case várias iterações de um loop sejam testadas tendo seu
+resultado acumulado ao invés de sair na primeira falha. O Elyézer preparou o seguinte
+exemplo:</p>
+<pre class=literal-block>
+def par(n):
+    &quot;&quot;&quot;Verifica se o número é par&quot;&quot;&quot;
+    return n % 2 == 0
+
+def test_todos_par(self):
+    &quot;&quot;&quot;Testa se todos os números da lista são pares&quot;&quot;&quot;
+    for n in (0, 2, 3, -2, 4):
+        with self.subTest(n=n):
+            self.assertTrue(par(n))
+</pre>
+<p>Sem o uso do <tt class="docutils literal">subTest</tt> o teste acima iria parar de ser executado na primeira falha, ou seja,
+quando o <tt class="docutils literal">n</tt> recebesse o valor <tt class="docutils literal">3</tt>, mas usando o <tt class="docutils literal">subTest</tt> garantimos que todos os
+números da lista serão testados e o caso de falha será informado apenas ao final quando
+sair do contexto do <tt class="docutils literal">subTest</tt>.</p>
+<p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p>
+</p>
 </div>
 </div>
 </div>
@@ -223,9 +271,31 @@ Og Maciel, Elyézer Rezende, Bruno Rocha
 <i class="bi bi-clock-fill"></i>
 4 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-No episódio de hoje o Og nos traz um book review do livro As Vinhas da Ira por John Steinbeck. Também trazemos algumas notícias, pacotes e projetos que valem a pena comentar e compartilhar.
-Antes de começar, gostaríamos de desejar um feliz e …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje o Og nos traz um book review do livro As Vinhas da Ira por
+John Steinbeck. Também trazemos algumas notícias, pacotes e projetos que valem
+a pena comentar e compartilhar.</p>
+<p>Antes de começar, gostaríamos de desejar um feliz e próspero ano novo para
+todos os nossos amigos e ouvintes. Obrigado por todos os comentários e
+indicações, o Castálio é feito por todos nós e por isso a sua participação é
+muito importante para o podcast. Que em 2017 agente consiga ter ainda mais
+entrevistas, book reviews e novidades da semana inspiradoras.</p>
+<p>Começamos hoje com uma pequena dica de Python, ou melhor, pip. Você pode criar
+um cache local de pacotes utilizando a opção <tt class="docutils literal"><span class=pre>--download</span></tt> do pip, com isso
+você pode ter seu backup de pacotes. Para salvar os pacotes em um diretório
+especifico você pode executar:</p>
+<pre class=literal-block>
+pip install --download=/caminho/do/diretorio -r requirements.txt
+</pre>
+<p>Depois quando quiser usar o seu cache local, basta rodar:</p>
+<pre class=literal-block>
+pip install --no-index --find-links=/caminho/do/diretorio -r requirements.txt
+</pre>
+<p>Com isso o pip não irá fazer nenhum download e usará os pacotes salvos no
+diretório.</p>
+<p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p>
+</p>
 </div>
 </div>
 </div>
@@ -248,9 +318,15 @@ Og Maciel, Elyézer Rezende, Bruno Rocha
 <i class="bi bi-clock-fill"></i>
 5 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-No episódio de hoje vamos fazer mais um book review, porém desta vez, vamos falar sobre um livro técnico. Também trazemos as novidades da semana e a polêmica em torno do Python 3.
-Nas próximas semanas queremos trazer para vocês entrevistas com a …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje vamos fazer mais um book review, porém desta vez, vamos
+falar sobre um livro técnico. Também trazemos as novidades da semana e a
+polêmica em torno do Python 3.</p>
+<p>Nas próximas semanas queremos trazer para vocês entrevistas com a <strong>Paula Granjeiro</strong>,
+<strong>Gabriel Engel</strong> da <strong>Rocket.Chat</strong> e <strong>Kenneth Reitz</strong>, criador do <strong>Python Requests</strong>.
+Aguardem!</p>
+</p>
 </div>
 </div>
 </div>
@@ -273,8 +349,22 @@ Og Maciel, Elyézer Rezende, Bruno Rocha
 <i class="bi bi-clock-fill"></i>
 4 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-Hoje trazemos um episódio num formato diferente: vamos fazer um book review e também falar sobre as novidades da semana no mundo Python. Aproveitamos para agradecer a todos que participaram da nossa enquete no Twitter apoiando a idéia de trazer o …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje trazemos um episódio num formato diferente: vamos fazer um book review e
+também falar sobre as novidades da semana no mundo Python. Aproveitamos para
+agradecer a todos que participaram da nossa <a class="reference external" href=https://twitter.com/castaliopod/status/799596710511181828>enquete no Twitter</a> apoiando a
+idéia de trazer o book review.</p>
+<p>Para dar o pontapé inicial deste novo segmento, <strong>Book Review</strong>, o <strong>Castálio
+Podcast</strong> recomenda o livro <a class="reference external" href=https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural>H.P. Lovecraft's Book of the Supernatural</a>
+editado por <strong>Stephen Jones</strong>. Mas antes de falar sobre o livro, eu preciso
+confessar algo: eu, <strong>Og Maciel</strong>, sempre evitei qualquer livro que falasse
+sobre terror ou qualquer tema macabro! Pronto, falei! Acho que na minha
+infância eu fiquei meio que "overloaded" depois de assistir tudo quanto é filme
+de terror que saiu nas décadas de 1980 e 1990! Sim, eu lí algumas histórias do
+<a class="reference external" href=https://en.wikipedia.org/wiki/Edgar_Allan_Poe>Edgar Allan Poe</a> e <a class="reference external" href=https://en.wikipedia.org/wiki/Stephen_King>Stephen King</a> quando era garoto, mas depois eu
+simplesmente não senti mais vontade de assistir ou ler nada do gênero.</p>
+</p>
 </div>
 </div>
 </div>

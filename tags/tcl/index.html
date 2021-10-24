@@ -124,8 +124,13 @@ Castálio Podcast
 <i class="bi bi-clock-fill"></i>
 3 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-Nosso convidado de hoje é diretor técnico na Work & Co, PhD em Ciências da Computação, já contribuiu com inúmeros projetos open source em Python, ajudou a fundar a Associação Python Brasil e já foi premiado com o Prêmio Dorneles Tremea por …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é diretor técnico na <a class="reference external" href=https://work.co/>Work & Co</a>, PhD em Ciências da
+Computação, já contribuiu com inúmeros projetos open source em Python, ajudou a
+fundar a <a class="reference external" href=http://associacao.python.org.br/>Associação Python Brasil</a> e já foi premiado com o <a class="reference external" href=http://associacao.python.org.br/dorneles-tremea>Prêmio Dorneles
+Tremea</a> por contribuições para a comunidade Python Brasil.</p>
+</p>
 </div>
 </div>
 </div>
@@ -148,9 +153,34 @@ Og Maciel, Elyézer Rezende, Bruno Rocha
 <i class="bi bi-clock-fill"></i>
 5 minutos
 </span></div>
-<p class="card-text post-summary">Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
-No episódio de hoje temos um convidado, o Rafael Rosa Fu que aceitou nosso convite e fez 2 book reviews, um falando sobre o livro "36 Books that Changed the World" e outro sobre o "The Martian Chronicles".
-A dica de Python da …</p>
+<p class="card-text post-summary"><div class=document>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje temos um convidado, o Rafael Rosa Fu que aceitou nosso
+convite e fez 2 book reviews, um falando sobre o livro "36 Books that Changed the World"
+e outro sobre o "The Martian Chronicles".</p>
+<p>A dica de Python da semana é sobre testes, mais especificamente sobre o uso
+do <tt class="docutils literal">subTest</tt> que é um context manager que foi adicionado ao módulo unittest do Python3.4
+e que já estava disponível no 2.7. Usando o unittest e o <tt class="docutils literal">subTest</tt> possibilita que
+em um mesmo test case várias iterações de um loop sejam testadas tendo seu
+resultado acumulado ao invés de sair na primeira falha. O Elyézer preparou o seguinte
+exemplo:</p>
+<pre class=literal-block>
+def par(n):
+    &quot;&quot;&quot;Verifica se o número é par&quot;&quot;&quot;
+    return n % 2 == 0
+
+def test_todos_par(self):
+    &quot;&quot;&quot;Testa se todos os números da lista são pares&quot;&quot;&quot;
+    for n in (0, 2, 3, -2, 4):
+        with self.subTest(n=n):
+            self.assertTrue(par(n))
+</pre>
+<p>Sem o uso do <tt class="docutils literal">subTest</tt> o teste acima iria parar de ser executado na primeira falha, ou seja,
+quando o <tt class="docutils literal">n</tt> recebesse o valor <tt class="docutils literal">3</tt>, mas usando o <tt class="docutils literal">subTest</tt> garantimos que todos os
+números da lista serão testados e o caso de falha será informado apenas ao final quando
+sair do contexto do <tt class="docutils literal">subTest</tt>.</p>
+<p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p>
+</p>
 </div>
 </div>
 </div>
