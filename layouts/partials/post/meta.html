@@ -1,18 +1,18 @@
-<div class="post-meta">
+<div class="post-meta overflow-auto">
   {{- if (default .Site.Params.date .Params.date) -}}
-  <span class="post-date" title="Data">
+  <span class="post-date d-block d-lg-inline" title="Data">
     <i class="bi bi-calendar-date-fill"></i>
     {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.dateFormat) }}
   </span>
   {{- end -}}
   {{- if .Params.authors -}}
-  <span class="post-authors" title="Autores">
+  <span class="post-authors d-block d-lg-inline" title="Autores">
     <i class="bi bi-person-fill"></i>
     {{ delimit .Params.authors ", " }}
   </span>
   {{- end -}}
   {{- if and (default true (default .Site.Params.readingTime .Params.readingTime)) -}}
-  <span class="post-reading-time" title="Tempo de Leitura">
+  <span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura">
     <i class="bi bi-clock-fill"></i>
     {{ .ReadingTime }} minutos
   </span>
