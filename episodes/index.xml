@@ -759,16 +759,7 @@ temos o Top 5 de links para aprender <a class="reference external" href="http://
 Castálio Podcast</itunes:author><itunes:title>Episódio 92: Linguagem Lua - Parte 1</itunes:title><itunes:subtitle>
 No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:subtitle><itunes:summary>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:summary><description>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</description><content:encoded><![CDATA[<div class="document">
 
-<table class="docinfo" frame="void" rules="none">
-<col class="docinfo-name" />
-<col class="docinfo-content" />
-<tbody valign="top">
-<tr class="image field"><th class="docinfo-name">image:</th><td class="field-body">/images/lua.png</td>
-</tr>
-<tr class="image-alt field"><th class="docinfo-name">image-alt:</th><td class="field-body">Linguagem Lua</td>
-</tr>
-</tbody>
-</table>
+
 <p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje falaremos sobre a linguagem de programação Lua, uma
 linguagem multi-plataforma e multi-paradigma, leve e extensível, bastante
@@ -777,7 +768,7 @@ criada no Brasil, na PUC-Rio em 1993, inicialmente para ser utilizada em um
 projeto da Tecgraf na Petrobras. Mas devido a sua eficiência e clareza, passou
 a ser utilizada em outros projetos e então foi disponibilizada para uso geral
 sob a licença MIT.</p>
-]]></content:encoded><enclosure url="https://archive.org/download/castalio-podcast-92/castalio-podcast-92.mp3" length="57054641" type="audio/mpeg"/></item><item><title>Episódio 91: Empreender E Programar - Parte 2</title><link>https://castalio.info/episodes/episodio-91-empreender-e-programar-parte-2/</link><pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-91/castalio-podcast-91.mp3</guid><itunes:author>
+]]></content:encoded><itunes:image href="https://castalio.info/images/lua.png"/><enclosure url="https://archive.org/download/castalio-podcast-92/castalio-podcast-92.mp3" length="57054641" type="audio/mpeg"/></item><item><title>Episódio 91: Empreender E Programar - Parte 2</title><link>https://castalio.info/episodes/episodio-91-empreender-e-programar-parte-2/</link><pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-91/castalio-podcast-91.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 91: Empreender E Programar - Parte 2</itunes:title><itunes:subtitle>
 Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</itunes:subtitle><itunes:summary>Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</itunes:summary><description>Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</description><content:encoded><![CDATA[<div class="document">
 
