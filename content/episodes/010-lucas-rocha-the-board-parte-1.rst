@@ -6,7 +6,6 @@ aliases:
 date: "2011-06-26T22:15:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-10/castalio-podcast-10.mp3"
 image: /images/lucasrocha.jpg
 image-alt: Lucas Rocha - The Board

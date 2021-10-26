@@ -8,7 +8,6 @@ authors:
 - Og Maciel
 - Elyézer Rezende
 - Bruno Rocha
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-85/castalio-podcast-85.mp3"
 tags:
 - arx cruz

@@ -7,7 +7,6 @@ date: 2016-06-26
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-72/castalio-podcast-72.mp3"
 tags:
 - eduardo matos

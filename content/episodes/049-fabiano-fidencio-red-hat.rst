@@ -6,7 +6,6 @@ aliases:
 date: "2013-01-21T02:04:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3"
 tags:
 - gnome

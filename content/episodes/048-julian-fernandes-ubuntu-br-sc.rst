@@ -6,7 +6,6 @@ aliases:
 date: "2012-12-03T14:21:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3"
 tags:
 - ubuntu br sc

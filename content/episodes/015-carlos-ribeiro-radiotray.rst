@@ -6,7 +6,6 @@ aliases:
 date: "2011-08-21T21:03:00"
 authors:
 - Og Maciel
-category: Podcast
 tags:
 - amélie
 - carlos ribeiro

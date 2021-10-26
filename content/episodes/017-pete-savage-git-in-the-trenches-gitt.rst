@@ -6,7 +6,6 @@ aliases:
 date: "2011-09-18T21:44:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-17/castalio-podcast-17.mp3"
 tags:
 - alchemy reigns

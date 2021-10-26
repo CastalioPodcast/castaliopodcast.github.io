@@ -7,7 +7,6 @@ date: 2014-12-20
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-57/castalio-podcast-57.mp3"
 tags:
 - grokpodcast

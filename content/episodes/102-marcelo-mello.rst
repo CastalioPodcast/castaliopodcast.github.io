@@ -8,7 +8,6 @@ authors:
 - Og Maciel
 - Elyézer Rezende
 - Bruno Rocha
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-102/castalio-podcast-102.mp3"
 tags:
 - marcelo mello

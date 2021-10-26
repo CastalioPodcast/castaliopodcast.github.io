@@ -6,7 +6,6 @@ aliases:
 date: "2011-04-30T15:29:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-06/castalio-podcast-06.mp3"
 image: /images/transifex.png
 image-alt: Transifex

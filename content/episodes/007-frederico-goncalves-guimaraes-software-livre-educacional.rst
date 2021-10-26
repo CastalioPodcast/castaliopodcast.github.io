@@ -6,7 +6,6 @@ aliases:
 date: "2011-05-12T23:31:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-07/castalio-podcast-07.mp3"
 image: /images/fredericoguimaraes.jpg
 image-alt: Frederico Gonçalves Guimaraes

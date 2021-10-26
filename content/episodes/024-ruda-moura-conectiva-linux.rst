@@ -6,7 +6,6 @@ aliases:
 date: "2011-12-04T17:05:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-24/castalio-podcast-24.mp3"
 tags:
 - 7 anos no tibet

@@ -6,7 +6,6 @@ aliases:
 date: "2012-06-25T01:22:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-39/castalio-podcast-39.mp3"
 tags:
 - ambiente gnome

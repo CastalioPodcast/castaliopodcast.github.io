@@ -6,7 +6,6 @@ aliases:
 date: "2012-08-19T22:49:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3"
 tags:
 - a coruña

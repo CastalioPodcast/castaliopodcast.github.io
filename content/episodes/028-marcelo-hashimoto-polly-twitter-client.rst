@@ -6,7 +6,6 @@ aliases:
 date: "2012-01-22T17:53:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-28/castalio-podcast-28.mp3"
 tags:
 - a revolução dos bichos

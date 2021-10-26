@@ -6,7 +6,6 @@ aliases:
 date: "2012-06-10T16:43:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-38/castalio-podcast-38.mp3"
 tags:
 - ac/dc

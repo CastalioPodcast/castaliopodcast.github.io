@@ -8,7 +8,6 @@ authors:
 - Og Maciel
 - Elyézer Rezende
 - Bruno Rocha
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-77/castalio-podcast-77.mp3"
 tags:
 - book review

@@ -6,7 +6,6 @@ aliases:
 date: "2012-03-18T20:33:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-32/castalio-podcast-32.mp3"
 tags:
 - bamboo

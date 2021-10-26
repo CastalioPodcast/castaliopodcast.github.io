@@ -6,7 +6,6 @@ aliases:
 date: "2012-04-01T16:18:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-33/castalio-podcast-33.mp3"
 tags:
 - .net

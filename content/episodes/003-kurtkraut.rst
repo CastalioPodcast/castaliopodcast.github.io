@@ -6,7 +6,6 @@ aliases:
 date: "2011-03-21T12:24:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-03/castalio-podcast-03.mp3"
 image: /images/kurtkraut.png
 image-alt: KurtKraut

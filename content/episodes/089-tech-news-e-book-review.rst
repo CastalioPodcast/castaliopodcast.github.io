@@ -8,7 +8,6 @@ authors:
 - Og Maciel
 - Elyézer Rezende
 - Bruno Rocha
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3"
 tags:
 - python 3

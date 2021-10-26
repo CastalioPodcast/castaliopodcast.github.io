@@ -6,7 +6,6 @@ aliases:
 date: "2011-08-08T02:15:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-14/castalio-podcast-14.mp3"
 tags:
 - admirável mundo novo

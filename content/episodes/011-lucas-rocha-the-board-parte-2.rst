@@ -6,7 +6,6 @@ aliases:
 date: 2011-07-04
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-11/castalio-podcast-11.mp3"
 tags:
 - agatha chistie

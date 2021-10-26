@@ -6,7 +6,6 @@ aliases:
 date: "2012-09-03T16:42:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3"
 tags:
 - bigbashview

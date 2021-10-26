@@ -6,7 +6,6 @@ aliases:
 date: "2012-07-22T22:52:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-41/castalio-podcast-41.mp3"
 tags:
 - alexandre silva

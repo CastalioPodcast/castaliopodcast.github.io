@@ -6,7 +6,6 @@ aliases:
 date: "2011-10-30T21:59:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-20/castalio-podcast-20.mp3"
 tags:
 - arm

@@ -6,7 +6,6 @@ aliases:
 date: "2012-01-08T17:11:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-27/castalio-podcast-27.mp3"
 tags:
 - 2001 uma odisséia no espaço

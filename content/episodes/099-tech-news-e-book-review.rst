@@ -8,7 +8,6 @@ authors:
 - Og Maciel
 - Elyézer Rezende
 - Bruno Rocha
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3"
 tags:
 - tech news

@@ -6,7 +6,6 @@ aliases:
 date: "2013-02-05T03:47:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-50/castalio-podcast-50.mp3"
 tags:
 - arduino

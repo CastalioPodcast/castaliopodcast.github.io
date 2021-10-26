@@ -6,7 +6,6 @@ aliases:
 date: "2011-12-26T18:16:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-26/castalio-podcast-26.mp3"
 tags:
 - anaconda installer

@@ -6,7 +6,6 @@ aliases:
 date: "2011-11-14T02:33:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-22/castalio-podcast-22.mp3"
 image: /images/alexandrecoster.jpg
 image-alt: Alexandre Coster - Asobo Studio

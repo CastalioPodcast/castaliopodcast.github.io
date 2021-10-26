@@ -2,7 +2,6 @@
 title: "Livros - Abril de 2015"
 date: 2015-04-30
 authors: Og Maciel
-category: Notícia
 tags:
 - Alexandr Sergeyevitch Pushkin
 - Anton Chekhov

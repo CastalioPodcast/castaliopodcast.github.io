@@ -7,7 +7,6 @@ date: 2015-01-18
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-61/castalio-podcast-61.mp3"
 tags:
 - humberto augusto piovesana zanetti

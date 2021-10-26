@@ -6,7 +6,6 @@ aliases:
 date: "2011-04-03T23:55:00"
 authors:
 - Og Maciel
-category: Podcast
 tags:
 - opodcastedelas
 podcast: "https://archive.org/download/castalio-podcast-04/castalio-podcast-04.mp3"

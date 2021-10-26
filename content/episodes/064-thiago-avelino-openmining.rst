@@ -7,7 +7,6 @@ date: 2015-03-01
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-64/castalio-podcast-64.mp3"
 tags:
 - thiago avelino

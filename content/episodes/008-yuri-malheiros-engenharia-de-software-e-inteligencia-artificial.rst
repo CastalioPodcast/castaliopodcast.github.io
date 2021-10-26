@@ -6,7 +6,6 @@ aliases:
 date: "2011-05-30T01:48:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-08/castalio-podcast-08.mp3"
 image: /images/yurimalheiros.jpg
 image-alt: Yuri Malheiros - Engenharia de Software e Inteligência Artificial

@@ -6,7 +6,6 @@ aliases:
 date: "2011-11-06T23:17:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-21/castalio-podcast-21.mp3"
 tags:
 - andré gondim

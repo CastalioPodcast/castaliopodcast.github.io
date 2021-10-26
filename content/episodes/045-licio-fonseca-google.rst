@@ -6,7 +6,6 @@ aliases:
 date: "2012-09-16T21:45:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3"
 tags:
 - andré vianco

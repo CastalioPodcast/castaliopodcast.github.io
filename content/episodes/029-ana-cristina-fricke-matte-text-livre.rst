@@ -6,7 +6,6 @@ aliases:
 date: "2012-02-05T22:13:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-29/castalio-podcast-29.mp3"
 tags:
 - amadeus

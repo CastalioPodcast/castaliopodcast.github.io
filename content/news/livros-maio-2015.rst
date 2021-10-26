@@ -2,7 +2,6 @@
 title: "Livros - Maio de 2015"
 date: 2015-06-01
 authors: Og Maciel
-category: Notícia
 tags:
 - Arthur Conan Doyle
 - Bill Green

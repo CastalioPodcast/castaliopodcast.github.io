@@ -6,7 +6,6 @@ aliases:
 date: "2011-06-12T21:31:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-09/castalio-podcast-09.mp3"
 tags:
 - async

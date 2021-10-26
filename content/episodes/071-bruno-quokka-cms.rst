@@ -7,7 +7,6 @@ date: 2016-06-03
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-71/castalio-podcast-71.mp3"
 tags:
 - bruno rocha

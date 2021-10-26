@@ -6,7 +6,6 @@ aliases:
 date: 2011-07-11
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-12/castalio-podcast-12.mp3"
 tags:
 - fedora

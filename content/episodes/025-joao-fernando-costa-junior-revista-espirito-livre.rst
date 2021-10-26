@@ -6,7 +6,6 @@ aliases:
 date: "2011-12-12T02:31:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-25/castalio-podcast-25.mp3"
 tags:
 - agentes do destino

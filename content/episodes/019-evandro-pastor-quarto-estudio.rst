@@ -6,7 +6,6 @@ aliases:
 date: "2011-10-17T12:37:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-19/castalio-podcast-19.mp3"
 tags:
 - ana white

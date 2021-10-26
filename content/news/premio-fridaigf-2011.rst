@@ -2,7 +2,6 @@
 title: "Prêmio FRIDA/IGF 2011"
 date: "2011-07-20T20:18:00"
 author: Og Maciel
-category: Notícia
 image: images/premiofrida.png
 image-alt: Prêmio Frida
 ---

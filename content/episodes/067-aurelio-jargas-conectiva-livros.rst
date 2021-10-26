@@ -7,7 +7,6 @@ date: 2015-09-05
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-67/castalio-podcast-67.mp3"
 tags:
 - aurelio jargas

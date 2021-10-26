@@ -7,7 +7,6 @@ date: "2014-11-23T18:44:00"
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3"
 tags:
 - github

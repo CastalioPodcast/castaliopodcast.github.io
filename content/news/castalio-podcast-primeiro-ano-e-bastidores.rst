@@ -2,7 +2,6 @@
 title: "Castálio Podcast: Primeiro Ano e Bastidores"
 date: "2012-02-16T04:07:00"
 author: Og Maciel
-category: Notícia
 tags:
 - aniversário
 - bastidores

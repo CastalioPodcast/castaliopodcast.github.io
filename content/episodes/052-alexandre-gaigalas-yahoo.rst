@@ -6,7 +6,6 @@ aliases:
 date: "2013-03-03T21:48:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3"
 tags:
 - android

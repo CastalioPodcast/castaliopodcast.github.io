@@ -2,7 +2,6 @@
 title: "Livros - Março de 2015"
 date: 2015-03-29
 authors: Og Maciel
-category: Notícia
 tags:
 - Anthony Burgess
 - Chuck Palahniuk

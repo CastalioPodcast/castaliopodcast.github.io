@@ -2,7 +2,6 @@
 title: Livros - Junho de 2015
 date: 2015-07-03
 authors: Og Maciel
-category: Notícia
 tags:
 - Anton Chekhov
 - Arthur Conan Doyle

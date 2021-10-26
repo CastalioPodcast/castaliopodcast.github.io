@@ -6,7 +6,6 @@ aliases:
 date: "2012-04-29T13:03:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-35/castalio-podcast-35.mp3"
 tags:
 - activerecord

@@ -7,7 +7,6 @@ date: 2014-12-07
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3"
 tags:
 - splinter

@@ -2,7 +2,6 @@
 title: "Um Ano De Dados"
 date: "2012-02-22T16:21:00"
 author: Og Maciel
-category: Notícia
 tags:
 - google analytics
 - wordpress

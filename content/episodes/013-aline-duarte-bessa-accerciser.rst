@@ -6,7 +6,6 @@ aliases:
 date: "2011-07-25T00:00:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-13/castalio-podcast-13.mp3"
 tags:
 - accerciser

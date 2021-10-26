@@ -6,7 +6,6 @@ aliases:
 date: "2011-04-16T16:46:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-05/castalio-podcast-05.mp3"
 tags:
 - atari

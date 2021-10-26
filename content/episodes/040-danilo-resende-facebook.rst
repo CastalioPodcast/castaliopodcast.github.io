@@ -6,7 +6,6 @@ aliases:
 date: "2012-07-09T02:52:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-40/castalio-podcast-40.mp3"
 tags:
 - a rede social

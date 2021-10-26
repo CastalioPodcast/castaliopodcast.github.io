@@ -2,7 +2,6 @@
 title: "Próximo Episódio: Carlos Ribeiro - RadioTray"
 date: "2011-08-09T14:32:00"
 author: Og Maciel
-category: Notícia
 tags:
 - carlos ribeiro
 - radiotray

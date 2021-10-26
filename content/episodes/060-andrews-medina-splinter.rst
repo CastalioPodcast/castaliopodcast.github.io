@@ -7,7 +7,6 @@ date: 2015-01-04
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-60/castalio-podcast-60.mp3"
 tags:
 - andrews medina

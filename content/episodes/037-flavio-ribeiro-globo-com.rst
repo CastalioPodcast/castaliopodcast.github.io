@@ -6,7 +6,6 @@ aliases:
 date: "2012-05-27T18:01:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-37/castalio-podcast-37.mp3"
 tags:
 - 4clojure

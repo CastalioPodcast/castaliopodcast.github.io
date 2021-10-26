@@ -6,7 +6,6 @@ aliases:
 date: "2012-02-20T00:02:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-30/castalio-podcast-30.mp3"
 tags:
 - amazonas

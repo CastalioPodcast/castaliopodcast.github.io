@@ -6,7 +6,6 @@ aliases:
 date: "2013-09-03T01:11:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-54/castalio-podcast-54.mp3"
 tags:
 - arcade fire

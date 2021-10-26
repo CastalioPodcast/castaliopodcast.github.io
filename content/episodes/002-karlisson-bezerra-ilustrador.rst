@@ -6,7 +6,6 @@ aliases:
 date: 2011-03-07
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-02/castalio-podcast-02.mp3"
 image: /images/karlissonbezerra.jpg
 image-alt: Sr. Tartaruga

@@ -7,7 +7,6 @@ date: 2015-03-15
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-65/castalio-podcast-65.mp3"
 tags:
 - gustavo barbieri

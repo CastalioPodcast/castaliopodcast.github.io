@@ -7,7 +7,6 @@ date: 2015-05-31
 authors:
 - Og Maciel
 - Elyézer Rezende
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3"
 tags:
 - thiago perrotta

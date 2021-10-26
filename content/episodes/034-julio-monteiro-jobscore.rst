@@ -6,7 +6,6 @@ aliases:
 date: "2012-04-15T20:40:00"
 authors:
 - Og Maciel
-category: Podcast
 podcast: "https://archive.org/download/castalio-podcast-34/castalio-podcast-34.mp3"
 tags:
 - blink

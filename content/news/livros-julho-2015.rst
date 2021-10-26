@@ -2,7 +2,6 @@
 title: "Livros - Julho 2015"
 date: 2015-07-29
 authors: Og Maciel
-category: Notícia
 Tags:
 - Mario Vargas Llosa
 - Junot Díaz
