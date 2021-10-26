@@ -39,6 +39,8 @@ as palavras que continham a palavra **CAST**:
 Depois foram horas de muita risada! Agora, quer saber mais? Escute o
 episódio então... :)
 
+.. more
+
 Escute Agora
 ------------
 

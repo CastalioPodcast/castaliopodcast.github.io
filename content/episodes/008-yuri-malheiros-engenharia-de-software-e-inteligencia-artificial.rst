@@ -17,6 +17,8 @@ com o **Yuri Malheiros**, professor do **IFPB**, pesquisador em
 **engenharia de software** e **inteligência artificial**, e criador de
 vários projetos feitos com software livre.
 
+.. more
+
 Escute Agora
 ------------
 

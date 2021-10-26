@@ -67,6 +67,8 @@ translate it into your native language via `Google Translate`_.
 I had a great time chatting with Pete and I hope you'll also enjoy
 learning a bit more about him through this episode!
 
+.. more
+
 Escute Agora
 ------------
 

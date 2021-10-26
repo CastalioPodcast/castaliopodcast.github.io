@@ -21,6 +21,8 @@ Morrer**, livros, músicas e filmes que serviram de inspiração e quais as
 ferramentas que ele usa para criar suas tirinhas geniais. Arruma um
 tempinho aí  e baixa o episódio logo, **castálio**!
 
+.. more
+
 Escute Agora
 ------------
 

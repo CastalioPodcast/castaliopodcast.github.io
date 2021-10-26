@@ -27,6 +27,8 @@ dispositivos \ **ARM**, sobre **integração contínua**, suas aventuras no
 mundo de **bodyboarding**, nova experiência vivendo na **Argentina** e
 sobre as criticas que a Canonical tem sofrido nos últimos anos!
 
+.. more
+
 Escute Agora
 ------------
 

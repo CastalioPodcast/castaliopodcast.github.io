@@ -64,6 +64,8 @@ Também conversamos sobre a realização do 1º Fórum Espírito Livre que
 aconteceu em Novembro na cidade de Vitória, ES, sobre o "exemplar raro",
 e até mesmo um ovo de páscoa para a próxima edição!
 
+.. more
+
 Escute Agora
 ------------
 

@@ -87,6 +87,8 @@ assuntos diversos... quem sabe no próximo **FISL**?
 Mais uma vez a gravação foi feita ao vivo pelo **Youtube** e se você quizer
 assistir a entrevista, veja este `vídeo`_.
 
+.. more
+
 Escute Agora
 ------------
 

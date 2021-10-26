@@ -23,6 +23,8 @@ durante sua infância. Por ter sido uma conversa muito boa, decidi
 publicar hoje a primera parte desta conversa, e **publicar a segunda
 parte na semana que vem**! Divirtam-se!
 
+.. more
+
 Escute Agora
 ------------
 

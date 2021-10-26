@@ -78,6 +78,8 @@ da nova diretora da **Fundação GNOME**! Por último, conversamos sobre o
 **Laboratório de Open Source** na **UFRJ** onde trabalha, por que ele
 faz **Jiu-Jitsu**, planos para 2012, e seu **Top 5**!
 
+.. more
+
 Escute Agora
 ------------
 

@@ -26,6 +26,8 @@ a adaptação Suécia - Brasil, sua primeira contribuição com software livre,
 vários de seus projetos como o `Stoq`_, um software de gestão comercial livre,
 e é claro que não podia faltar o top 5!
 
+.. more
+
 Escute Agora
 ------------
 

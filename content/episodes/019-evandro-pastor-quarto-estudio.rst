@@ -47,6 +47,8 @@ tive de cortar algumas partes para que não virasse uma maratona para
 vocês. O Evandro é super divertido e é impossível falar com ele sem
 rolar de rir e eu realmente espero que vocês gostem deste episódio!
 
+.. more
+
 Escute Agora
 ------------
 

@@ -27,6 +27,8 @@ sociedades e orientadores sobre cursos formais na area de TI.
     um e-mail, a controlar as finanças e lembrar o dia de pagar as
     contas sem atrasá-las."
 
+.. more
+
 Escute Agora
 ------------
 

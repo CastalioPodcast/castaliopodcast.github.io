@@ -55,6 +55,8 @@ No próximo episódio teremos o **Álvaro "Turicas" Justem** para conversar
 sobre **Arduino**! E não se esqueçam de nos acompanhar pelo
 `Twitter`_!
 
+.. more
+
 Escute Agora
 ------------
 

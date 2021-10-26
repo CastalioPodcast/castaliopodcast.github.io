@@ -42,6 +42,8 @@ cantando música do **Pixinguinha**!
     ter ouvido, somando-se os versos da antiga música em português aos
     versos do clássico recente em inglês. Simplesmente encaixou."
 
+.. more
+
 Escute Agora
 ------------
 

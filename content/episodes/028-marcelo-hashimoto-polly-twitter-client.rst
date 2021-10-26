@@ -71,6 +71,8 @@ do nome do projeto (você sabia que o nome original do projeto era
 **schizobird**?), como lidar com usuários nos forums de pergunta, sobre seu
 doutorado, e o seu Top 5!
 
+.. more
+
 Escute Agora
 ------------
 

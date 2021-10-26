@@ -31,6 +31,8 @@ participar de um projeto de software livre, veio a trabalhar para uma
 companhia grega, e hoje viaja pelo mundo participando de eventos e
 palestrando!
 
+.. more
+
 Escute Agora
 ------------
 

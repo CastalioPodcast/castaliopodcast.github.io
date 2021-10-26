@@ -91,6 +91,8 @@ sobre como ele administrava aulas de Ruby, por que usa Ruby on Rails,
 seu dia-a-dia na JobScore, sua experiência em San Francisco, como que as
 companhias por lá dão mais valor aos empregados, e o seu Top 5!
 
+.. more
+
 Escute Agora
 ------------
 

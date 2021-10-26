@@ -40,6 +40,8 @@ possível sincronizar o trabalho entre as equipes e assim garantir que o Ubuntu
 tivesse uma tradução de qualidade e ao mesmo tempo respeitar o trabalho dos
 tradutores das equipes GNOME, etc, etc.
 
+.. more
+
 Escute Agora
 ------------
 

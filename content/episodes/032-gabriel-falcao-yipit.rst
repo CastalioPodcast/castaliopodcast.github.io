@@ -104,6 +104,8 @@ empolgação dele é super contagiante**! Já combinamos de tomar um café
 este julho quando eu for à NYC visitar meus pais, e quem sabe, fazer um
 mini hack-a-ton?
 
+.. more
+
 Escute Agora
 ------------
 

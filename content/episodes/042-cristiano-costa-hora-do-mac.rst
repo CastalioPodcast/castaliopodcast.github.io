@@ -78,6 +78,8 @@ usuários de **GNU/Linux** são atraídos pelo **Mac OS**, consumismo de
 música, livros e conteúdo digital, sobre o seu blog e gosto pela
 gastronomia e vários outros assuntos!
 
+.. more
+
 Escute Agora
 ------------
 

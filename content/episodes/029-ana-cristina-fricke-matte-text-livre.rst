@@ -68,6 +68,8 @@ que largou **10 computadores usando Windows** por um sistema rodando
 **Fedora Linux**, suas preferências musicais, e a forma mais fácil que
 um estudante da **UFMG** pode tirar uma nota 10!
 
+.. more
+
 Escute Agora
 ------------
 

@@ -48,6 +48,8 @@ seu projeto **The Board**, o fator "cool" do **javascript**,
 Ah, antes que me esqueça, agora você já pode acompanhar o **Castálio
 Podcast** pelo `iTunes Store`_!
 
+.. more
+
 Escute Agora
 ------------
 

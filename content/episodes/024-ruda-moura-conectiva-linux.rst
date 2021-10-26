@@ -58,6 +58,8 @@ o mantra "**Use o X Configurator**\ ", as **críticas** que sofreram dos
 usuários brasileiros, **rock stars**, dia a dia no escritório. **os
 manobristas de garagem** e, é claro, o seu **Top 5**!
 
+.. more
+
 Escute Agora
 ------------
 

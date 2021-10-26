@@ -64,6 +64,8 @@ Twitter! É só mandar uma mensagem "lâmpada **on**" que o arduino liga
 a lâmpada, e "lâmpada **off**" para desligá-la! Falamos de sua participação no
 **FISL 2011**, sobre sua viagem à **Bolivia**, terminando com o seu **Top 5**!
 
+.. more
+
 Escute Agora
 ------------
 

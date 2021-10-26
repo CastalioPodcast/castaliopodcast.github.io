@@ -49,6 +49,8 @@ que ele foi parar na Conectiva, como que era o dia-a-dia no escritório,
 a sua saída prematura, e sobre como o Brasil precisa de mais autoria e
 menos ideologia!
 
+.. more
+
 Escute Agora
 ------------
 

@@ -23,6 +23,8 @@ que mulheres ainda continuam tendo tratamento "especial" no mundo de TI
 e um pouco sobre as coisas que incentivaram a Luciana a ingressar no
 mundo de informática e software livre!
 
+.. more
+
 Escute Agora
 ------------
 

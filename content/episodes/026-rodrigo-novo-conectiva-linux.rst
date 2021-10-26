@@ -64,6 +64,8 @@ distribuição, **KDE 0.11**, a história do "**easter egg**\ " que nunca
 foi publicado, onde será a próxima "**Silicon Valley**\ " brasileira, e
 seu interesse por **poker** e **filmes clássicos**!
 
+.. more
+
 Escute Agora
 ------------
 
