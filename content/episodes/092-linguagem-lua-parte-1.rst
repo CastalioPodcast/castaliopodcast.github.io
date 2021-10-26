@@ -38,12 +38,12 @@ tags:
 - nginx
 - luajit
 - opodcastedelas
-description: No episódio de hoje vamos falar sobre a linguagem de programação
-              Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.
+description: >
+  No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para
+  nos ajudar, contamos com a presença da Etiene Dalcol.
+image: /images/lua.png
+image-alt: Linguagem Lua
 ---
-
-:image: /images/lua.png
-:image-alt: Linguagem Lua
 
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
