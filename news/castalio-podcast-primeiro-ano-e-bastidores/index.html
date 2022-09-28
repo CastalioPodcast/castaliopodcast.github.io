@@ -1,204 +1,75 @@
-<!doctype html><html lang=en><head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<link href=/images/favicon.ico rel=icon>
-<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
-<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
-<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
-<title>Castálio Podcast: Primeiro Ano e Bastidores - Castálio Podcast</title>
-</head>
-<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
-Castálio Podcast
-</a>
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link href=/images/favicon.ico rel=icon><link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload='this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript><title>Castálio Podcast: Primeiro Ano e Bastidores - Castálio Podcast</title></head><body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"><div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast</a>
 <button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
-<span class=navbar-toggler-icon></span>
-</button>
-<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
-<ul class="navbar-nav ms-auto"><li class=nav-item>
-<a class=nav-link href=https://castalio.info/sobre/>
-Sobre
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/agenda/>
-Agenda
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/episodes/>
-Episódios
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/tags/english/>
-English Episodes
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/top5/>
-Top 5
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/youtube/>
-Youtube
-</a>
-</li><li class="nav-item dropdown">
-<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
-<i class="bi bi-caret-down-fill"></i> Inscreva-se
-</a>
-<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
-<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
-FeedBurner (RSS Feed)
-</a>
-</li><li>
-<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
-Google Podcasts
-</a>
-</li><li>
-<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
-iTunes
-</a>
-</li><li>
-<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
-Overcast
-</a>
-</li><li>
-<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
-Pocket Casts
-</a>
-</li><li>
-<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
-Spotify
-</a>
-</li><li>
-<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
-YouTube
-</a>
-</li></ul>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/archives/>
-<i class="bi bi-archive"></i> Arquivos
-</a>
-</li></ul>
-<form class=d-flex action=https://castalio.info/search>
-<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
-</form>
-</div>
-</div>
-</nav>
-<div id=hero class="px-4 py-5 my-5 text-center">
-<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
-<div class="col-lg-6 mx-auto">
-<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
-<div class=fs-1>
-<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
-<i class="bi bi-facebook"></i>
-</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
-<i class="bi bi-github"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
-<i class="bi bi-instagram"></i>
-</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
-<i class="bi bi-twitter"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
-<i class="bi bi-youtube"></i>
-</a></nav>
-</div>
-</div>
-</div>
-<main role=main class=container>
-<div class="row content">
-<div class=col-lg-12>
-<div class=container><article class="post row card mb-4 component">
-<div class=card-body>
-<h1 class="card-title my-3">Castálio Podcast: Primeiro Ano E Bastidores
-</h1><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data>
-<i class="bi bi-calendar-date-fill"></i>
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent><ul class="navbar-nav ms-auto"><li class=nav-item><a class=nav-link href=https://castalio.info/sobre/>Sobre</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/agenda/>Agenda</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/episodes/>Episódios</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/tags/english/>English Episodes</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/top5/>Top 5</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/youtube/>Youtube</a></li><li class="nav-item dropdown"><a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false><i class="bi bi-caret-down-fill"></i> Inscreva-se</a><ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li><a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">FeedBurner (RSS Feed)</a></li><li><a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">Google Podcasts</a></li><li><a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">iTunes</a></li><li><a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">Overcast</a></li><li><a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">Pocket Casts</a></li><li><a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">Spotify</a></li><li><a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">YouTube</a></li></ul></li><li class=nav-item><a class=nav-link href=https://castalio.info/archives/><i class="bi bi-archive"></i> Arquivos</a></li></ul><form class=d-flex action=https://castalio.info/search><input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar></form></div></div></nav><div id=hero class="px-4 py-5 my-5 text-center"><img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px><div class="col-lg-6 mx-auto"><p class="lead mb-4">Um podcast inspirado prá castálio!</p><div class=fs-1><nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer"><i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer"><i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer"><i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer"><i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer"><i class="bi bi-youtube"></i></a></nav></div></div></div><main role=main class=container><div class="row content"><div class=col-lg-12><div class=container><article class="post row card mb-4 component"><div class=card-body><h1 class="card-title my-3">Castálio Podcast: Primeiro Ano E Bastidores</h1><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Feb 16, 2012
-</span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura">
-<i class="bi bi-clock-fill"></i>
-6 minutos
-</span></div>
-<img class="float-start img-thumbnail post-image" src=http://farm8.staticflickr.com/7014/6768863505_0bf59f76a3_m_d.jpg>
-<div class="post-content mb-3"><div class=document>
-<p>No dia 16 de fevereiro de 2011, de forma simples e despretenciosa, foi
+</span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
+6 minutos</span></div><img class="float-start img-thumbnail post-image" src=http://farm8.staticflickr.com/7014/6768863505_0bf59f76a3_m_d.jpg><div class="post-content mb-3"><div class=document><p>No dia 16 de fevereiro de 2011, de forma simples e despretenciosa, foi
 publicado o primeiro episódio do <a class="reference external" href=http://castalio.info>Castálio Podcast</a>! Veterano de alguns
 podcast nos últimos anos (quem ainda se lembra do <strong>Ubuntu Brasil</strong>
 e <a class="reference external" href=http://foocast.wordpress.com/>Foocast</a> podcasts?), foi com um pouco de incerteza que eu decidi
 iniciar este projeto "com o objetivo de entrevistar e ao mesmo tempo
 apresentar pessoas e projetos que sejam
-fonte de inspiração para os ouvintes".</p>
-<blockquote>
-<p>"O Castalio é sensacional e muito bem feito. O Og conduz tudo muito
+fonte de inspiração para os ouvintes".</p><blockquote><p>"O Castalio é sensacional e muito bem feito. O Og conduz tudo muito
 bem e as entrevistas são descontraídas, de uma forma bem natural. Os
 entrevistados também são sempre especiais e interessantes, pois são
-parte da grupo que realmente fazem algo para a comunidade.</p>
-<p>A verdade é que sempre que escuto o Castalio me dá aquela vontade de
+parte da grupo que realmente fazem algo para a comunidade.</p><p>A verdade é que sempre que escuto o Castalio me dá aquela vontade de
 estar em uma mesa de bar com o Og e o entrevistado. Enfim, esse
-podcast é extremamente recomendado.</p>
-<p>Ah! E, por favor, alguém entreviste o Og algum dia." - <a class="reference external" href=http://hdoria.com/>Hugo Doria</a></p>
-</blockquote>
-<p>Invés de juntar com uns amigos e discutir sobre tecnologia e assuntos do
+podcast é extremamente recomendado.</p><p>Ah! E, por favor, alguém entreviste o Og algum dia." - <a class="reference external" href=http://hdoria.com/>Hugo Doria</a></p></blockquote><p>Invés de juntar com uns amigos e discutir sobre tecnologia e assuntos do
 dia, eu queria fazer algo um pouco mais diferente e evitar aquela rotina
 típica, e fazer um programa no estilo entrevistas, igual aos “talk
 shows” que passam tarde da noite na televisão. E foi mais ou menos com
 esta meta que eu iniciei o processo de entrevistar uma pessoa de 15 em
-15 dias, e publicar um episódio da forma mais profissional possível.</p>
-<blockquote>
-"Bate-papo informal com nomes de que você encontra facilmente em
+15 dias, e publicar um episódio da forma mais profissional possível.</p><blockquote>"Bate-papo informal com nomes de que você encontra facilmente em
 listas de discussões na Internet? Castalio podcast é o lugar." -
-<a class="reference external" href=http://diegobz.net/>Diego Búrigo Zacarão</a></blockquote>
-<p>Durante o percurso dos últimos 12 meses eu tive de aprender muitas
+<a class="reference external" href=http://diegobz.net/>Diego Búrigo Zacarão</a></blockquote><p>Durante o percurso dos últimos 12 meses eu tive de aprender muitas
 coisas relacionadas ao processo de edição de áudio, uma coisa que até
 então era "terra incognita" para mim. Dependendo do microfone do
 convidado, da qualidade da internet e do ambiente onde eu, aqui na
 Carolina do Norte, e meu convidado, em algum lugar no Brasil na maioria
 das vezes, eu tinha de aprender um novo truque ou técnica para melhorar
 a qualidade do áudio, remover ruídos, ou até mesmo fazer o bate-papo
-mais fluído sem longas pausas.</p>
-<blockquote>
-"Acompanho o Castálio Podcast há algum tempo e o considero uma
+mais fluído sem longas pausas.</p><blockquote>"Acompanho o Castálio Podcast há algum tempo e o considero uma
 excelente voz para os membros da comunidade livre brasileira.
 Informativo, mas sempre na forma de uma conversa agradável! Além
 disso, também está se tornando um verdadeiro 'portal do tempo' que
 permite aos membros recentes saberem mais sobre os primórdios.
-Parabéns ao Og pela iniciativa e por todo o esforço!" - <a class="reference external" href=https://launchpad.net/polly>Marcelo Hashimoto</a></blockquote>
-<p>Ao mesmo tempo que eu queria publicar um áudio legal, eu também queria
+Parabéns ao Og pela iniciativa e por todo o esforço!" - <a class="reference external" href=https://launchpad.net/polly>Marcelo Hashimoto</a></blockquote><p>Ao mesmo tempo que eu queria publicar um áudio legal, eu também queria
 providenciar mais informações sobre os tópicos discutidos no episódio
 para que o ouvinte pudesse depois buscar mais informações na internet.
 Foi aí que eu comecei a incluir links para todos os termos, assuntos,
 músicas, filmes, e livros que de uma certa forma compoem a vida do
-convidado.</p>
-<p>Entre a composição do post que acompanha todos os episódios, e a edição
+convidado.</p><p>Entre a composição do post que acompanha todos os episódios, e a edição
 do áudio, eu gastava no mínimo umas 4 ou 5 horas. Como isso acontecia de
 2 em 2 semanas, até que não era tão ruim, mas como eu ainda estava
 trabalhando uma média de 60+ horas por semana, e ao mesmo tempo
 desempenhando o papel de pai para duas filhas que querem (e com razão) a
 presença e total atenção de seu pai em casa, eu percebi que eu precisava
-fazer algo para melhorar o meu trabalho.</p>
-<blockquote>
-"O Podcast do OgMaciel é uma contribuição ímpar para as comunidades
+fazer algo para melhorar o meu trabalho.</p><blockquote>"O Podcast do OgMaciel é uma contribuição ímpar para as comunidades
 de Software Livre no Brasil. Sem essas histórias de bastidores, a
 essência das comunidades se perde pois as comunidades são feitas de
 pessoas e suas iniciativas e motivações pessoais. Em suma, esta é a
 verdadeira história do SL no Brasil e você está contando! Parabéns,
-Og!" - <a class="reference external" href=http://softwarelivre.org/acris/blog>acris</a></blockquote>
-<p>Para quem não sabe, profissionalmente eu trabalho na criação de testes e
+Og!" - <a class="reference external" href=http://softwarelivre.org/acris/blog>acris</a></blockquote><p>Para quem não sabe, profissionalmente eu trabalho na criação de testes e
 automatização de máquinas virtuais, e quando não estou lidando com as
 coisas relacionadas do trabalho, estou sempre criando alguns
 programinhas (scripts) para simplificar os processos repetitivos do meu
 dia a dia, por mais insignificantes que elas possam parecer para outros.
 Se existe algo que eu tenho de executar várias vezes por dia, vários
-dias na semana, logo, logo eu tento automatizar.</p>
-<p>Não demorou muito para eu escrever um programa em Python para
+dias na semana, logo, logo eu tento automatizar.</p><p>Não demorou muito para eu escrever um programa em Python para
 automatizar a geração do código HTML que eu uso para escrever o sumário,
 e adicionar links para todos os termos, músicas (pelo Last.FM), filmes
 (pelo IMDB), e livros (pelo Amazon.com). Como eu tomo notas de tudo que
 acontece na entrevista durante a edição do áudio, é só passar estas
-notas para o meu programa, e pronto!</p>
-<blockquote>
-"Participar do Castálio Podcast foi, sem dúvida, uma das
+notas para o meu programa, e pronto!</p><blockquote>"Participar do Castálio Podcast foi, sem dúvida, uma das
 oportunidades mais interessantes que tive na comunidade de código
 aberto. Entretanto, melhor do que isso foi conhecer meus próprios
 amigos e colegas sob uma perspectiva diferente, por meio de
-episódios sempre divertidos e inusitados." - <a class="reference external" href=http://igorsoares.com/>Igor Soares</a></blockquote>
-<p>Uma vez que eu demorava menos tempo compondo o post, eu tive mais tempo
+episódios sempre divertidos e inusitados." - <a class="reference external" href=http://igorsoares.com/>Igor Soares</a></blockquote><p>Uma vez que eu demorava menos tempo compondo o post, eu tive mais tempo
 para me dedicar a pesquisar mais sobre os entrevistados, montar uma
 pauta (se bem que as entrevistas são tão informais que nem precisa de
 uma) e descobrir algumas coisinhas que não são tão conhecidas do
@@ -207,92 +78,34 @@ sonha em conhecer a Austrália, estes tipos de coisas. Foram várias vezes
 que eu peguei alguns convidados de surpresa ao perguntar sobre coisas
 que eles provavelmente pensavam que ninguem sabia. Na minha opinião,
 isso só ajudou a descontrair o bate-papo e mostrar o lado mais "humano"
-da pessoa.</p>
-<p>Bem, hoje então estou celebrando o primeiro ano de vida do podcast!
+da pessoa.</p><p>Bem, hoje então estou celebrando o primeiro ano de vida do podcast!
 Publicando um novo episódio a cada 2 semanas, com direito a episódios
 especias fora de hora (como o episódio em homenagem ao <strong>André Gondim</strong>
 e sobre o <strong>Conectiva Linux</strong>), eu sei que eu não estaria celebrando
 este marco tão importante se não fosse pela paciência, entusiasmo e
 disponibilidade dos meus convidados, e sem o apoio dos amigos e de todos
 vocês que participam com comentários e e-mails desde o primeiro dia de
-vida!</p>
-<blockquote>
-"Feliz aniversário! O Castálio Podcast foi uma das melhores
+vida!</p><blockquote>"Feliz aniversário! O Castálio Podcast foi uma das melhores
 novidades de 2011, e é bom ver ele evoluindo para trazer séries
 (como a que conversou com várias pessoas que fizeram o histórico dos
 tempos áureos da Conectiva, e a próxima série que vai tratar da
 comunidade nacional de outra distribuição) que expõem detalhes que
 mesmo os participantes das comunidades em questão geralmente
 desconhecem, e o fazem de maneira leve e interessante. Continue com
-o sucesso!" - <a class="reference external" href=http://augustocampos.net/>Augusto Campos</a></blockquote>
-<p>Então muitíssimo obrigado a todos vocês que, de uma forma ou outra
+o sucesso!" - <a class="reference external" href=http://augustocampos.net/>Augusto Campos</a></blockquote><p>Então muitíssimo obrigado a todos vocês que, de uma forma ou outra
 participaram do processo deste projeto, e espero poder trazer uma nova
 série de entrevistados e assuntos neste ano de 2012, e poder
 compartilhar com vocês um pouco de destes bate-papos prá lá de
-interessantes e divertidos!</p>
-</div></div><h2>Tags</h2>
-<p class=lh-lg>
-<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/anivers%C3%A1rio/>aniversário</a>
-<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/bastidores/>bastidores</a>
-</p></div>
-</article><div class="post-comments card row component">
-<div class=card-body><div id=disqus_thread></div>
-<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
-<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
-<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
-</div></div>
-</div>
-</div>
-</main><footer id=footer>
-<div class=container>
-<div class="row justify-content-center">
-<div class=col-md-3>
-<h4>Sobre</h4>
-<p>
-O Castálio Podcast é fruto da imaginação e curiosidade
+interessantes e divertidos!</p></div></div><h2>Tags</h2><p class=lh-lg><a class="btn btn-primary btn-sm" href=https://castalio.info/tags/anivers%C3%A1rio/>aniversário</a>
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/bastidores/>bastidores</a></p></div></article><div class="post-comments card row component"><div class=card-body><div id=disqus_thread></div><script type=application/javascript>window.disqus_config=function(){},function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById("disqus_thread").innerHTML="Disqus comments not available by default when the website is previewed locally.";return}var t=document,e=t.createElement("script");e.async=!0,e.src="//castliopodcast.disqus.com/embed.js",e.setAttribute("data-timestamp",+new Date),(t.head||t.body).appendChild(e)}()</script><noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript><a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div></div></div></div></div></main><footer id=footer><div class=container><div class="row justify-content-center"><div class=col-md-3><h4>Sobre</h4><p>O Castálio Podcast é fruto da imaginação e curiosidade
 incansável de Og Maciel, um brasileiro que desde 1991 mora nos
 Estados Unidos mas que nunca deixou de prestigiar suas raizes!
 Caso você tenha alguma sugestão para o nosso próximo convidado,
-nos envie sua idéia para o nosso e-mail.
-</p>
-<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
-<i class="bi bi-info-circle"></i> Saiba mais </a>
-</div>
-<div class=col-md-3>
-<h4>Social</h4>
-<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
-<i class="bi bi-facebook"></i>
-</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
-<i class="bi bi-github"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
-<i class="bi bi-instagram"></i>
-</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
-<i class="bi bi-twitter"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
-<i class="bi bi-youtube"></i>
-</a></nav>
-</div>
-<div class=col-md-3>
-<h4>Sites Amigos</h4>
-<ul id=footer-social class=list-unstyled>
-<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
-<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
-<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
-<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
-</ul>
-</div>
-</div>
-<div class="row justify-content-center">
-<p class=text-center>
-<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
-O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
-</p>
-</div>
-</div>
-</footer>
-<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+nos envie sua idéia para o nosso e-mail.</p><a href=/sobre-o-castalio class="btn btn-primary btn-sm"><i class="bi bi-info-circle"></i> Saiba mais</a></div><div class=col-md-3><h4>Social</h4><nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer"><i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer"><i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer"><i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer"><i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer"><i class="bi bi-youtube"></i></a></nav></div><div class=col-md-3><h4>Sites Amigos</h4><ul id=footer-social class=list-unstyled><li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li><li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li><li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li><li><a title="Hack 'n' Cast" href=http://hackncast.org>Hack 'n' Cast</a></li></ul></div></div><div class="row justify-content-center"><p class=text-center><a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.</p></div></div></footer><script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
 <script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
-<script async src=https://www.google-analytics.com/analytics.js></script>
-</body>
-</html>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-21449168-1","auto"),ga("send","pageview"))</script><script async src=https://www.google-analytics.com/analytics.js></script></body></html>

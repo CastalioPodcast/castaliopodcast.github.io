@@ -1,157 +1,40 @@
-<!doctype html><html lang=en><head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<link href=/images/favicon.ico rel=icon>
-<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
-<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
-<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
-<title>Episódio 98: Rodolpho Eckhardt - YouTube, Google e SRE - Castálio Podcast</title>
-</head>
-<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
-Castálio Podcast
-</a>
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link href=/images/favicon.ico rel=icon><link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload='this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript><title>Episódio 98: Rodolpho Eckhardt - YouTube, Google e SRE - Castálio Podcast</title></head><body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"><div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast</a>
 <button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
-<span class=navbar-toggler-icon></span>
-</button>
-<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
-<ul class="navbar-nav ms-auto"><li class=nav-item>
-<a class=nav-link href=https://castalio.info/sobre/>
-Sobre
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/agenda/>
-Agenda
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/episodes/>
-Episódios
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/tags/english/>
-English Episodes
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/top5/>
-Top 5
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/youtube/>
-Youtube
-</a>
-</li><li class="nav-item dropdown">
-<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
-<i class="bi bi-caret-down-fill"></i> Inscreva-se
-</a>
-<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
-<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
-FeedBurner (RSS Feed)
-</a>
-</li><li>
-<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
-Google Podcasts
-</a>
-</li><li>
-<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
-iTunes
-</a>
-</li><li>
-<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
-Overcast
-</a>
-</li><li>
-<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
-Pocket Casts
-</a>
-</li><li>
-<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
-Spotify
-</a>
-</li><li>
-<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
-YouTube
-</a>
-</li></ul>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/archives/>
-<i class="bi bi-archive"></i> Arquivos
-</a>
-</li></ul>
-<form class=d-flex action=https://castalio.info/search>
-<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
-</form>
-</div>
-</div>
-</nav>
-<div id=hero class="px-4 py-5 my-5 text-center">
-<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
-<div class="col-lg-6 mx-auto">
-<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
-<div class=fs-1>
-<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
-<i class="bi bi-facebook"></i>
-</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
-<i class="bi bi-github"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
-<i class="bi bi-instagram"></i>
-</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
-<i class="bi bi-twitter"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
-<i class="bi bi-youtube"></i>
-</a></nav>
-</div>
-</div>
-</div>
-<main role=main class=container>
-<div class="row content">
-<div class=col-lg-12>
-<div class=container><article class="post row card mb-4 component">
-<div class=card-body>
-<h1 class="card-title my-3">Episódio 98: Rodolpho Eckhardt - YouTube, Google E SRE
-</h1><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data>
-<i class="bi bi-calendar-date-fill"></i>
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent><ul class="navbar-nav ms-auto"><li class=nav-item><a class=nav-link href=https://castalio.info/sobre/>Sobre</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/agenda/>Agenda</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/episodes/>Episódios</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/tags/english/>English Episodes</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/top5/>Top 5</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/youtube/>Youtube</a></li><li class="nav-item dropdown"><a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false><i class="bi bi-caret-down-fill"></i> Inscreva-se</a><ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li><a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">FeedBurner (RSS Feed)</a></li><li><a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">Google Podcasts</a></li><li><a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">iTunes</a></li><li><a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">Overcast</a></li><li><a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">Pocket Casts</a></li><li><a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">Spotify</a></li><li><a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">YouTube</a></li></ul></li><li class=nav-item><a class=nav-link href=https://castalio.info/archives/><i class="bi bi-archive"></i> Arquivos</a></li></ul><form class=d-flex action=https://castalio.info/search><input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar></form></div></div></nav><div id=hero class="px-4 py-5 my-5 text-center"><img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px><div class="col-lg-6 mx-auto"><p class="lead mb-4">Um podcast inspirado prá castálio!</p><div class=fs-1><nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer"><i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer"><i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer"><i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer"><i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer"><i class="bi bi-youtube"></i></a></nav></div></div></div><main role=main class=container><div class="row content"><div class=col-lg-12><div class=container><article class="post row card mb-4 component"><div class=card-body><h1 class="card-title my-3">Episódio 98: Rodolpho Eckhardt - YouTube, Google E SRE</h1><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 May 1, 2017
-</span><span class="post-authors d-block d-lg-inline" title=Autores>
-<i class="bi bi-person-fill"></i>
+</span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
-</span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura">
-<i class="bi bi-clock-fill"></i>
-4 minutos
-</span></div>
-<img class="float-start img-thumbnail post-image" src=/images/rodolpho-eckhardt.jpg>
-<div class="post-content mb-3"><div class=document>
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Nosso convidado de hoje tem uma profissão muito interessante, ele é Engenheiro
+</span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
+4 minutos</span></div><img class="float-start img-thumbnail post-image" src=/images/rodolpho-eckhardt.jpg><div class="post-content mb-3"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>Nosso convidado de hoje tem uma profissão muito interessante, ele é Engenheiro
 de Confiabilidade de Sistemas no Google, ele é o responsável por fazer com que
 os vídeos (e principalmente os anúncios) do YouTube funcionem rapidamente e sem
 gargalos! Ele também é um participante ativo da comunidade Python no Brasil,
 já organizou vários encontros do Grupy quando morava no Brasil e hoje mora e
 trabalha na Suíça. É com grande prazer que nós recebemos nosso convidado de
-hoje, Rodolpho Eckhardt.</p>
-<p>Normalmente nós começamos perguntando como o convidado começou a programar e
+hoje, Rodolpho Eckhardt.</p><p>Normalmente nós começamos perguntando como o convidado começou a programar e
 como se envolveu com computação, mas recentemente o Rodolpho já respondeu isso
 tudo no canal do nosso amigo Avelino. Assista ao vídeo: <a class="reference external" href="https://www.youtube.com/watch?v=WYjrO-b1gU0">Como o Googler
 Rodolpho Eckhardt começou programar?</a> para saber como o Rodolpho começou sua
-carreira.</p>
-<p>Aproveitamos que ganhamos um tempinho ao pular as perguntas sobre como o
+carreira.</p><p>Aproveitamos que ganhamos um tempinho ao pular as perguntas sobre como o
 Rodolpho começou a programar e perguntamos como ele iniciou sua participação na
 comunidade Python no Brasil e também no Grupy. Ele nos conta como foi sua
-participação no surgimento do Grupy e como a comunidade evoluiu desde então.</p>
-<p>Ele também nos conta sobre sua participação no <a class="reference external" href=http://caipyra.python.org.br/>Caipyra</a> em 2016, se voce nao
+participação no surgimento do Grupy e como a comunidade evoluiu desde então.</p><p>Ele também nos conta sobre sua participação no <a class="reference external" href=http://caipyra.python.org.br/>Caipyra</a> em 2016, se voce nao
 pode ir ao evento aproveita que a palestra do Rodolpho está no YouTube: <a class="reference external" href="https://www.youtube.com/watch?v=XI2zUFIsMwg">Site
 Reliability Engineering - Rodolpho Eckhardt</a>. Vale a pena explorar o canal do
-Caipyra e assistir as outras palestras.</p>
-<p>Fechamos o assunto comunidade falando sobre o canal <a class="reference external" href=https://www.youtube.com/UnixLoadOn>UnixLoadOn</a> que o
+Caipyra e assistir as outras palestras.</p><p>Fechamos o assunto comunidade falando sobre o canal <a class="reference external" href=https://www.youtube.com/UnixLoadOn>UnixLoadOn</a> que o
 Rodolpho participa junto com o <a class="reference external" href=http://helio.loureiro.eng.br/>Helio Loureiro</a> e outros participantes. O
 legal do canal e que a pauta está aberta no Github e você pode colaborar e
 adicionar assuntos para serem comentados nos próximos episódios. Confira aqui o
-<a class="reference external" href=https://github.com/helioloureiro/canalunixloadon>Github do canal UnixLoadOn</a>.</p>
-<p>Depois de falarmos sobre comunidade, aproveitamos que o Rodolpho mora fora do
+<a class="reference external" href=https://github.com/helioloureiro/canalunixloadon>Github do canal UnixLoadOn</a>.</p><p>Depois de falarmos sobre comunidade, aproveitamos que o Rodolpho mora fora do
 país e perguntamos sobre os pontos positivos e negativos de se mudar para fora.
 Também perguntamos quais foram os desafios que ele e sua família passaram para
 conseguir se mudarem. Aproveitando que falamos sobre Suíça, o Rodolpho nos
-conta como é a comunidade Python por lá.</p>
-<p>Nosso terceiro e último tópico do episodio foi sobre o trabalho do Rodolpho
+conta como é a comunidade Python por lá.</p><p>Nosso terceiro e último tópico do episodio foi sobre o trabalho do Rodolpho
 como Engenheiro de Confiabilidade de Sistemas (SRE) no Google. Falamos sobre
 quais são as suas responsabilidades e atribuições, qual a diferença entre SRE e
 DevOps, quais a tecnologia que ele e seu time utilizam para resolver os
@@ -159,60 +42,14 @@ problemas. Também perguntamos como esta o mercado de trabalho no Brasil e fora
 para quem quer ser SRE e quais são as skills necessárias para se qualificar
 para uma vaga para essa posição. Fechamos falando sobre como é a participação
 do time de qualidade (QE) numa equipe que possui o time de SRE e a integração
-do time de SRE com testes e release.</p>
-<p>Foi um longo, porém muito interessante, bate-papo e antes de irmos para o Top 5
+do time de SRE com testes e release.</p><p>Foi um longo, porém muito interessante, bate-papo e antes de irmos para o Top 5
 perguntamos se o Rodolpho tem algum hobby. Então chegamos ao Top 5, temos
-certeza que você vai curtir as recomendações do Rodolpho.</p>
-<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+certeza que você vai curtir as recomendações do Rodolpho.</p><p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
 comentários aqui no site, ou no <a class="reference external" href=https://twitter.com/castaliopod>Twitter</a> ou
 no <a class="reference external" href=https://www.facebook.com/castaliopod>Facebook</a>. Também não esqueça de
-seguir a <a class="reference external" href=https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg>Playlist do Castálio Podcast</a>.</p>
-<p>Até o próximo episódio!</p>
-<div class=section id=contato>
-<h2>Contato</h2>
-<ul class=simple>
-<li><strong>Twitter</strong>: <a class="reference external" href=https://mastodon.sdf.org/@sysdharma>https://mastodon.sdf.org/@sysdharma</a></li>
-<li><strong>Site</strong>: <a class="reference external" href=https://rodo.lpho.de/>https://rodo.lpho.de/</a></li>
-</ul>
-</div>
-<div class=section id=escute-agora>
-<h2>Escute Agora</h2>
-<div class=card>
-<div class=card-body>
-<div class="card-text podcast text-center">
-<iframe src=https://archive.org/embed/castalio-podcast-98 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
-</div>
-<div class="podcast-download text-center">
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-98/castalio-podcast-98.mp3><i class="bi bi-download"></i> MP3</a>
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-98/castalio-podcast-98.ogg><i class="bi bi-download"></i> OGG</a>
-</div>
-</div>
-</div>
-<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/book/show/99944.The_Bhagavad_Gita target=_blank>The Bhagavad Gita</a></li><li><a href=https://www.goodreads.com/book/show/6709963-o-processo target=_blank>O Processo</a></li><li><a href=https://www.goodreads.com/book/show/24113.G_del_Escher_Bach target=_blank>Gödel, Escher, Bach</a></li><li><a href=https://www.goodreads.com/book/show/5470.1984 target=_blank>1984</a></li><li><a href=https://www.goodreads.com/book/show/13251514-o-fim-da-inf-ncia target=_blank>O Fim da Infância</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt2543164/ target=_blank>Arrival</a></li><li><a href=https://www.imdb.com/title/tt0390384/ target=_blank>Primer</a></li><li><a href=https://www.imdb.com/title/tt0364569/ target=_blank>Oldboy</a></li><li><a href=https://www.imdb.com/title/tt0114369/ target=_blank>Se7en</a></li><li><a href=https://www.imdb.com/title/tt1935156/ target=_blank>Jodorowsky's Dune</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Bj%C3%B6rk/_/All+Is+Full+of+Love target=_blank>Björk - All Is Full of Love</a></li><li><a href=https://www.last.fm/music/Craig+Cardiff/_/Love+Is+Louder+%28Than+All+This+Noise%29 target=_blank>Craig Cardiff - Love Is Louder</a></li><li><a href=https://www.last.fm/music/Nina+Simone/_/Sinnerman target=_blank>Nina Simone - Sinnerman</a></li><li><a href=https://www.last.fm/music/Sigur+R%C3%B3s/_/Fj%C3%B6gur+p%C3%ADan%C3%B3 target=_blank>Sigur Rós - Fjögur píanó</a></li><li><a href=https://www.last.fm/music/Lera+Lynn/_/It+Only+Takes+One+Shot target=_blank>Lera Lynn - It Only Takes One Shot</a></li></ol>
-</div>
-<div class=section id=links>
-<h2>Links</h2>
-<ul class=simple>
-<li><a class="reference external" href="https://www.youtube.com/watch?v=WYjrO-b1gU0">Como o Googler Rodolpho Eckhardt começou programar?</a></li>
-<li><a class="reference external" href=http://caipyra.python.org.br/>Caipyra</a></li>
-<li><a class="reference external" href="https://www.youtube.com/watch?v=XI2zUFIsMwg">Site Reliability Engineering - Rodolpho Eckhardt</a></li>
-<li><a class="reference external" href=https://www.youtube.com/UnixLoadOn>UnixLoadOn</a></li>
-<li><a class="reference external" href=http://helio.loureiro.eng.br/>Helio Loureiro</a></li>
-<li><a class="reference external" href=https://github.com/helioloureiro/canalunixloadon>Github do canal UnixLoadOn</a></li>
-<li><a class="reference external" href=http://www.python-summit.ch/>Swiss Python Summit</a></li>
-<li><a class="reference external" href=http://www.python-summit.ch/pages/recordings.html>Swiss Python Summit Recordings</a></li>
-<li><a class="reference external" href=https://2017.geopython.net/>GeoPython</a></li>
-<li><a class="reference external" href=https://www.goodreads.com/book/show/27968891-site-reliability-engineering>Livro Site Reliability Engineering</a></li>
-<li><a class="reference external" href=https://prometheus.io/>Prometheus</a></li>
-<li><a class="reference external" href=https://www.python.org/>Python</a></li>
-<li><a class="reference external" href=https://golang.org/>Go</a></li>
-</ul>
-<p class="alert alert-info"><strong>Music (Música)</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
-</div>
-</div></div><h2>Tags</h2>
-<p class=lh-lg>
-<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/rodolpho-eckhardt/>rodolpho eckhardt</a>
+seguir a <a class="reference external" href=https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg>Playlist do Castálio Podcast</a>.</p><p>Até o próximo episódio!</p><div class=section id=contato><h2>Contato</h2><ul class=simple><li><strong>Twitter</strong>: <a class="reference external" href=https://mastodon.sdf.org/@sysdharma>https://mastodon.sdf.org/@sysdharma</a></li><li><strong>Site</strong>: <a class="reference external" href=https://rodo.lpho.de/>https://rodo.lpho.de/</a></li></ul></div><div class=section id=escute-agora><h2>Escute Agora</h2><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-98 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-98/castalio-podcast-98.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-98/castalio-podcast-98.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/book/show/99944.The_Bhagavad_Gita target=_blank>The Bhagavad Gita</a></li><li><a href=https://www.goodreads.com/book/show/6709963-o-processo target=_blank>O Processo</a></li><li><a href=https://www.goodreads.com/book/show/24113.G_del_Escher_Bach target=_blank>Gödel, Escher, Bach</a></li><li><a href=https://www.goodreads.com/book/show/5470.1984 target=_blank>1984</a></li><li><a href=https://www.goodreads.com/book/show/13251514-o-fim-da-inf-ncia target=_blank>O Fim da Infância</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt2543164/ target=_blank>Arrival</a></li><li><a href=https://www.imdb.com/title/tt0390384/ target=_blank>Primer</a></li><li><a href=https://www.imdb.com/title/tt0364569/ target=_blank>Oldboy</a></li><li><a href=https://www.imdb.com/title/tt0114369/ target=_blank>Se7en</a></li><li><a href=https://www.imdb.com/title/tt1935156/ target=_blank>Jodorowsky's Dune</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Bj%C3%B6rk/_/All+Is+Full+of+Love target=_blank>Björk - All Is Full of Love</a></li><li><a href=https://www.last.fm/music/Craig+Cardiff/_/Love+Is+Louder+%28Than+All+This+Noise%29 target=_blank>Craig Cardiff - Love Is Louder</a></li><li><a href=https://www.last.fm/music/Nina+Simone/_/Sinnerman target=_blank>Nina Simone - Sinnerman</a></li><li><a href=https://www.last.fm/music/Sigur+R%C3%B3s/_/Fj%C3%B6gur+p%C3%ADan%C3%B3 target=_blank>Sigur Rós - Fjögur píanó</a></li><li><a href=https://www.last.fm/music/Lera+Lynn/_/It+Only+Takes+One+Shot target=_blank>Lera Lynn - It Only Takes One Shot</a></li></ol></div><div class=section id=links><h2>Links</h2><ul class=simple><li><a class="reference external" href="https://www.youtube.com/watch?v=WYjrO-b1gU0">Como o Googler Rodolpho Eckhardt começou programar?</a></li><li><a class="reference external" href=http://caipyra.python.org.br/>Caipyra</a></li><li><a class="reference external" href="https://www.youtube.com/watch?v=XI2zUFIsMwg">Site Reliability Engineering - Rodolpho Eckhardt</a></li><li><a class="reference external" href=https://www.youtube.com/UnixLoadOn>UnixLoadOn</a></li><li><a class="reference external" href=http://helio.loureiro.eng.br/>Helio Loureiro</a></li><li><a class="reference external" href=https://github.com/helioloureiro/canalunixloadon>Github do canal UnixLoadOn</a></li><li><a class="reference external" href=http://www.python-summit.ch/>Swiss Python Summit</a></li><li><a class="reference external" href=http://www.python-summit.ch/pages/recordings.html>Swiss Python Summit Recordings</a></li><li><a class="reference external" href=https://2017.geopython.net/>GeoPython</a></li><li><a class="reference external" href=https://www.goodreads.com/book/show/27968891-site-reliability-engineering>Livro Site Reliability Engineering</a></li><li><a class="reference external" href=https://prometheus.io/>Prometheus</a></li><li><a class="reference external" href=https://www.python.org/>Python</a></li><li><a class="reference external" href=https://golang.org/>Go</a></li></ul><p class="alert alert-info"><strong>Music (Música)</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p></div></div></div><h2>Tags</h2><p class=lh-lg><a class="btn btn-primary btn-sm" href=https://castalio.info/tags/rodolpho-eckhardt/>rodolpho eckhardt</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/site-reliability-engineering/>site reliability engineering</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/python/>python</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/go/>go</a>
@@ -249,88 +86,20 @@ seguir a <a class="reference external" href=https://open.spotify.com/user/elyeze
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/escher/>escher</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/bach/>bach</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/1984/>1984</a>
-<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/o-fim-da-inf%C3%A2ncia/>o fim da infância</a>
-</p><hr><div class="post-navs d-flex mb-3 justify-content-evenly">
-<div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
-<a href=https://castalio.info/episodes/episodio-97-vladimir-melo-software-livre-e-obesidade-infanti/>Episódio 97: Vladimir Melo - Software Livre E Obesidade Infantil
-</a>
-</div><div class="post-nav post-next">
-<a href=https://castalio.info/episodes/episodio-99-tech-news-e-book-review/>Episódio 99: Tech News E Book Review
-</a>
-<i class="bi bi-chevron-right"></i>
-</div></div><section class=related-posts-wrapper>
-<h3>Episódios Relacionados</h3>
-<ul class=related-posts><li><a href=https://castalio.info/episodes/henrique-bastos-welcome-to-the-django/>Henrique Bastos: Welcome to the Django
-</a></li><li><a href=https://castalio.info/episodes/fabio-kung-e-pedro-belo-heroku/>Fábio Kung E Pedro Belo: Heroku
-</a></li><li><a href=https://castalio.info/episodes/ivan-brasil-fuzzer-ubuntero/>Ivan Brasil Fuzzer: Ubuntero
-</a></li><li><a href=https://castalio.info/episodes/episodio-90-empreender-e-programar-parte-1/>Episódio 90: Empreender E Programar - Parte 1
-</a></li><li><a href=https://castalio.info/episodes/episodio-75-python-brasil-12-parte-3/>Episódio 75: Python Brasil 12 - Parte 3
-</a></li></ul>
-</section></div>
-</article><div class="post-comments card row component">
-<div class=card-body><div id=disqus_thread></div>
-<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
-<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
-<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
-</div></div>
-</div>
-</div>
-</main><footer id=footer>
-<div class=container>
-<div class="row justify-content-center">
-<div class=col-md-3>
-<h4>Sobre</h4>
-<p>
-O Castálio Podcast é fruto da imaginação e curiosidade
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/o-fim-da-inf%C3%A2ncia/>o fim da infância</a></p><hr><div class="post-navs d-flex mb-3 justify-content-evenly"><div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
+<a href=https://castalio.info/episodes/episodio-97-vladimir-melo-software-livre-e-obesidade-infanti/>Episódio 97: Vladimir Melo - Software Livre E Obesidade Infantil</a></div><div class="post-nav post-next"><a href=https://castalio.info/episodes/episodio-99-tech-news-e-book-review/>Episódio 99: Tech News E Book Review</a>
+<i class="bi bi-chevron-right"></i></div></div><section class=related-posts-wrapper><h3>Episódios Relacionados</h3><ul class=related-posts><li><a href=https://castalio.info/episodes/henrique-bastos-welcome-to-the-django/>Henrique Bastos: Welcome to the Django</a></li><li><a href=https://castalio.info/episodes/fabio-kung-e-pedro-belo-heroku/>Fábio Kung E Pedro Belo: Heroku</a></li><li><a href=https://castalio.info/episodes/ivan-brasil-fuzzer-ubuntero/>Ivan Brasil Fuzzer: Ubuntero</a></li><li><a href=https://castalio.info/episodes/episodio-90-empreender-e-programar-parte-1/>Episódio 90: Empreender E Programar - Parte 1</a></li><li><a href=https://castalio.info/episodes/episodio-75-python-brasil-12-parte-3/>Episódio 75: Python Brasil 12 - Parte 3</a></li></ul></section></div></article><div class="post-comments card row component"><div class=card-body><div id=disqus_thread></div><script type=application/javascript>window.disqus_config=function(){},function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById("disqus_thread").innerHTML="Disqus comments not available by default when the website is previewed locally.";return}var t=document,e=t.createElement("script");e.async=!0,e.src="//castliopodcast.disqus.com/embed.js",e.setAttribute("data-timestamp",+new Date),(t.head||t.body).appendChild(e)}()</script><noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript><a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div></div></div></div></div></main><footer id=footer><div class=container><div class="row justify-content-center"><div class=col-md-3><h4>Sobre</h4><p>O Castálio Podcast é fruto da imaginação e curiosidade
 incansável de Og Maciel, um brasileiro que desde 1991 mora nos
 Estados Unidos mas que nunca deixou de prestigiar suas raizes!
 Caso você tenha alguma sugestão para o nosso próximo convidado,
-nos envie sua idéia para o nosso e-mail.
-</p>
-<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
-<i class="bi bi-info-circle"></i> Saiba mais </a>
-</div>
-<div class=col-md-3>
-<h4>Social</h4>
-<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
-<i class="bi bi-facebook"></i>
-</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
-<i class="bi bi-github"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
-<i class="bi bi-instagram"></i>
-</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
-<i class="bi bi-twitter"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
-<i class="bi bi-youtube"></i>
-</a></nav>
-</div>
-<div class=col-md-3>
-<h4>Sites Amigos</h4>
-<ul id=footer-social class=list-unstyled>
-<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
-<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
-<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
-<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
-</ul>
-</div>
-</div>
-<div class="row justify-content-center">
-<p class=text-center>
-<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
-O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
-</p>
-</div>
-</div>
-</footer>
-<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+nos envie sua idéia para o nosso e-mail.</p><a href=/sobre-o-castalio class="btn btn-primary btn-sm"><i class="bi bi-info-circle"></i> Saiba mais</a></div><div class=col-md-3><h4>Social</h4><nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer"><i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer"><i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer"><i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer"><i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer"><i class="bi bi-youtube"></i></a></nav></div><div class=col-md-3><h4>Sites Amigos</h4><ul id=footer-social class=list-unstyled><li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li><li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li><li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li><li><a title="Hack 'n' Cast" href=http://hackncast.org>Hack 'n' Cast</a></li></ul></div></div><div class="row justify-content-center"><p class=text-center><a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.</p></div></div></footer><script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
 <script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
-<span class=podcast-download-count>
-<i class="bi bi-download" aria-hidden=true></i>
-<span id=download-count>-</span>
-</span>
-<script type=text/javascript>function set_download_count(a){$("#download-count").text(a.item.downloads)}</script>
-<script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-98%20castalio-podcast-98.mp3]&callback=set_download_count?output=json"></script>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
-<script async src=https://www.google-analytics.com/analytics.js></script>
-</body>
-</html>
+<span class=podcast-download-count><i class="bi bi-download" aria-hidden=true></i>
+<span id=download-count>-</span></span>
+<script type=text/javascript>function set_download_count(e){$("#download-count").text(e.item.downloads)}</script><script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-98%20castalio-podcast-98.mp3]&callback=set_download_count?output=json"></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-21449168-1","auto"),ga("send","pageview"))</script><script async src=https://www.google-analytics.com/analytics.js></script></body></html>

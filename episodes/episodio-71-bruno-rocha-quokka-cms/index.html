@@ -1,288 +1,53 @@
-<!doctype html><html lang=en><head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<link href=/images/favicon.ico rel=icon>
-<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
-<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
-<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
-<title>Episódio 71: Bruno Rocha - Quokka CMS - Castálio Podcast</title>
-</head>
-<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
-Castálio Podcast
-</a>
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link href=/images/favicon.ico rel=icon><link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload='this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript><title>Episódio 71: Bruno Rocha - Quokka CMS - Castálio Podcast</title></head><body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"><div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast</a>
 <button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
-<span class=navbar-toggler-icon></span>
-</button>
-<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
-<ul class="navbar-nav ms-auto"><li class=nav-item>
-<a class=nav-link href=https://castalio.info/sobre/>
-Sobre
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/agenda/>
-Agenda
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/episodes/>
-Episódios
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/tags/english/>
-English Episodes
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/top5/>
-Top 5
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/youtube/>
-Youtube
-</a>
-</li><li class="nav-item dropdown">
-<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
-<i class="bi bi-caret-down-fill"></i> Inscreva-se
-</a>
-<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
-<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
-FeedBurner (RSS Feed)
-</a>
-</li><li>
-<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
-Google Podcasts
-</a>
-</li><li>
-<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
-iTunes
-</a>
-</li><li>
-<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
-Overcast
-</a>
-</li><li>
-<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
-Pocket Casts
-</a>
-</li><li>
-<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
-Spotify
-</a>
-</li><li>
-<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
-YouTube
-</a>
-</li></ul>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/archives/>
-<i class="bi bi-archive"></i> Arquivos
-</a>
-</li></ul>
-<form class=d-flex action=https://castalio.info/search>
-<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
-</form>
-</div>
-</div>
-</nav>
-<div id=hero class="px-4 py-5 my-5 text-center">
-<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
-<div class="col-lg-6 mx-auto">
-<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
-<div class=fs-1>
-<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
-<i class="bi bi-facebook"></i>
-</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
-<i class="bi bi-github"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
-<i class="bi bi-instagram"></i>
-</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
-<i class="bi bi-twitter"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
-<i class="bi bi-youtube"></i>
-</a></nav>
-</div>
-</div>
-</div>
-<main role=main class=container>
-<div class="row content">
-<div class=col-lg-12>
-<div class=container><article class="post row card mb-4 component">
-<div class=card-body>
-<h1 class="card-title my-3">Episódio 71: Bruno Rocha - Quokka CMS
-</h1><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data>
-<i class="bi bi-calendar-date-fill"></i>
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent><ul class="navbar-nav ms-auto"><li class=nav-item><a class=nav-link href=https://castalio.info/sobre/>Sobre</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/agenda/>Agenda</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/episodes/>Episódios</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/tags/english/>English Episodes</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/top5/>Top 5</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/youtube/>Youtube</a></li><li class="nav-item dropdown"><a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false><i class="bi bi-caret-down-fill"></i> Inscreva-se</a><ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li><a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">FeedBurner (RSS Feed)</a></li><li><a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">Google Podcasts</a></li><li><a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">iTunes</a></li><li><a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">Overcast</a></li><li><a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">Pocket Casts</a></li><li><a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">Spotify</a></li><li><a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">YouTube</a></li></ul></li><li class=nav-item><a class=nav-link href=https://castalio.info/archives/><i class="bi bi-archive"></i> Arquivos</a></li></ul><form class=d-flex action=https://castalio.info/search><input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar></form></div></div></nav><div id=hero class="px-4 py-5 my-5 text-center"><img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px><div class="col-lg-6 mx-auto"><p class="lead mb-4">Um podcast inspirado prá castálio!</p><div class=fs-1><nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer"><i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer"><i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer"><i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer"><i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer"><i class="bi bi-youtube"></i></a></nav></div></div></div><main role=main class=container><div class="row content"><div class=col-lg-12><div class=container><article class="post row card mb-4 component"><div class=card-body><h1 class="card-title my-3">Episódio 71: Bruno Rocha - Quokka CMS</h1><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Jun 3, 2016
-</span><span class="post-authors d-block d-lg-inline" title=Autores>
-<i class="bi bi-person-fill"></i>
+</span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende
-</span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura">
-<i class="bi bi-clock-fill"></i>
-2 minutos
-</span></div>
-<img class="float-start img-thumbnail post-image" src=/images/brunorocha.jpg>
-<div class="post-content mb-3"><div class=document>
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Hoje voltamos novamente com o Bruno Rocha, para continuarmos nosso bate papo,
+</span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
+2 minutos</span></div><img class="float-start img-thumbnail post-image" src=/images/brunorocha.jpg><div class="post-content mb-3"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>Hoje voltamos novamente com o Bruno Rocha, para continuarmos nosso bate papo,
 que como já esperávamos, foi muito bacana. Antes gostaríamos de agradecer a
 todos os comentários sobre o episódio anterior, muito obrigado a todos que
-dedicaram um tempinho para deixar uma mensagem.</p>
-<p>No episódio de hoje, o Bruno nos conta como e por qual motivo o <a class="reference external" href=http://quokkaproject.org/>Quokka CMS</a>
+dedicaram um tempinho para deixar uma mensagem.</p><p>No episódio de hoje, o Bruno nos conta como e por qual motivo o <a class="reference external" href=http://quokkaproject.org/>Quokka CMS</a>
 surgiu, qual foram os desafios que ele encontrou no inicio do projeto, como
 depois de muito trabalho, ele se encontra hoje. O <a class="reference external" href=http://quokkaproject.org/>Quokka CMS</a>, como todo
 projeto Open Source, está aberto a contribuições, por isso o Bruno deixa o
 convite para todos que querem contribuir e também para todos que estão a
-procura de um CMS para entrar em contato.</p>
-<p>Continuando o assunto sobre o Quokka, o Bruno comenta sobre alguns dos plugins
+procura de um CMS para entrar em contato.</p><p>Continuando o assunto sobre o Quokka, o Bruno comenta sobre alguns dos plugins
 e as formas de instalar e experimentar o Quokka. Você já deve estar ansioso
 para testar o Quokka, então acesse o demo do projeto. Além disso, ele ressalta
 que o projeto deixa a desejar um pouco na documentação mas que é algo que está
-na lista para ser melhorado.</p>
-<div class="center-block figure">
-<img alt=Quokka src=/images/quokka.jpg>
-</div>
-<p>Depois de conhecermos tudo sobre o Quokka e para quebrar o mistério deixado no
+na lista para ser melhorado.</p><div class="center-block figure"><img alt=Quokka src=/images/quokka.jpg></div><p>Depois de conhecermos tudo sobre o Quokka e para quebrar o mistério deixado no
 episódio anterior, o Bruno nos conta sobre os demais projetos em que ele está
 trabalhando. É neste momento que ele nos fala sobre o <a class="reference external" href=https://github.com/rochacbruno/flasgger>Flasgger</a> (basedo no
 <a class="reference external" href=http://swagger.io/>Swagger</a>), o <a class="reference external" href=https://github.com/rochacbruno/dynaconf>Dynaconf</a> e sobre o novo curso de <a class="reference external" href=https://www.python.org/>Python</a> que ele pretende
 oferecer. O curso ainda não tem um nome definido, mas seria algo como "Full
-Stack Python Developer Training".</p>
-<p>Antes de irmos para o Top 5, o Bruno comenta sobre o <a class="reference external" href=http://pythonclub.com.br/tag/what-the-flask.html>What the Flask</a>, uma
+Stack Python Developer Training".</p><p>Antes de irmos para o Top 5, o Bruno comenta sobre o <a class="reference external" href=http://pythonclub.com.br/tag/what-the-flask.html>What the Flask</a>, uma
 série de artigos sobre o <a class="reference external" href=http://flask.pocoo.org/>Flask</a>, e na possibilidade de isso virar um livro no
-futuro.</p>
-<div class="center-block figure">
-<img alt="Bruno Rocha - Ozzy Tatoo" src=/images/bruno_rocha_ozzy_tattoo.jpg>
-</div>
-<div class=section id=contato>
-<h2>Contato</h2>
-<ul class=simple>
-<li><strong>Site</strong>: <a class="reference external" href=http://brunorocha.org/>http://brunorocha.org/</a></li>
-<li><strong>Twitter</strong>: <a class="reference external" href=https://twitter.com/rochacbruno>https://twitter.com/rochacbruno</a></li>
-<li><strong>LinkedIn</strong>: <a class="reference external" href=https://www.linkedin.com/in/rochacbruno>https://www.linkedin.com/in/rochacbruno</a></li>
-<li><strong>Github</strong>: <a class="reference external" href=https://github.com/rochacbruno>https://github.com/rochacbruno</a></li>
-</ul>
-</div>
-<div class=section id=escute-agora>
-<h2>Escute Agora</h2>
-<div class=card>
-<div class=card-body>
-<div class="card-text podcast text-center">
-<iframe src=https://archive.org/embed/castalio-podcast-71 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
-</div>
-<div class="podcast-download text-center">
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-71/castalio-podcast-71.mp3><i class="bi bi-download"></i> MP3</a>
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-71/castalio-podcast-71.ogg><i class="bi bi-download"></i> OGG</a>
-</div>
-</div>
-</div>
-<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume target=_blank>Série Vaga-lume</a></li><li><a href="https://duckduckgo.com/?q=De+Alma+para+Alma+Huberto+Rohden" target=_blank>De Alma para Alma</a></li><li><a href=https://www.goodreads.com/book/show/12936088-o-zoo-humano target=_blank>O Zoo Humano</a></li><li><a href=https://www.goodreads.com/book/show/9062565-o-macaco-nu target=_blank>O Macaco Nu</a></li><li><a href=https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer target=_blank>The Pragmatic Programmer</a></li><li><a href=https://www.goodreads.com/book/show/1332383.Programming_in_Lua target=_blank>Programming in Lua</a></li><li><a href=https://www.goodreads.com/book/show/80444.Python_Essential_Reference target=_blank>Python Essential Reference</a></li></ol><h3>Filmes:</h3><ol><li><a href=http://www.terraqueos.org/ target=_blank>Earthlings (Terráqueos)</a></li><li><a href=https://www.imdb.com/title/tt0068646/ target=_blank>O Poderoso Chefão</a></li><li><a href=https://www.imdb.com/title/tt0086250/ target=_blank>Scarface</a></li><li><a href=https://www.imdb.com/title/tt0040522/ target=_blank>Ladrões de Bicicleta</a></li><li><a href=https://www.imdb.com/title/tt0027977/ target=_blank>Tempos Modernos</a></li><li><a href=https://www.imdb.com/title/tt2278388/ target=_blank>O Grande Hotel Budapeste</a></li><li><a href=https://www.imdb.com/title/tt2616280/ target=_blank>Derek</a></li><li><a href=https://www.imdb.com/title/tt1582457/ target=_blank>The Borgias</a></li><li><a href=https://www.imdb.com/title/tt0386676/ target=_blank>The Office (America)</a></li><li><a href=https://www.imdb.com/title/tt0487831/ target=_blank>The IT Crowd</a></li><li><a href=https://www.imdb.com/title/tt4158110/ target=_blank>Mr. Robot</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Ozzy+Osbourne target=_blank>Ozzy Osbourne</a></li><li><a href=https://www.last.fm/music/Jethro+Tull target=_blank>Jethro Tull</a></li><li><a href=https://www.last.fm/music/Yes target=_blank>Yes</a></li><li><a href=https://www.last.fm/music/Alan+Parsons target=_blank>Alan Parsons</a></li><li><a href=https://www.last.fm/music/Anathema target=_blank>Anathema</a></li><li><a href=https://www.last.fm/music/Pain+of+Salvation target=_blank>Pain of Salvation</a></li><li><a href=https://www.last.fm/music/Dream+Theater target=_blank>Dream Theater</a></li><li><a href=https://www.last.fm/music/Morcheeba target=_blank>Morcheeba</a></li><li><a href=https://www.last.fm/music/Lambchop target=_blank>Lambchop</a></li><li><a href=https://www.last.fm/music/Massive+Attack target=_blank>Massive Attack</a></li><li><a href=https://www.last.fm/music/Belchior target=_blank>Belchior</a></li><li><a href=https://www.last.fm/music/Clube+da+Esquina target=_blank>Clube da Esquina</a></li><li><a href=https://www.last.fm/music/Milton+Nascimento target=_blank>Milton Nascimento</a></li><li><a href=https://www.last.fm/music/Kleiton+&+Kledir target=_blank>Kleiton e Kledir</a></li></ol>
-</div>
-<div class=section id=links>
-<h2>Links</h2>
-<ul class=simple>
-<li><a class="reference external" href=https://github.com/rochacbruno/dynaconf>Dynaconf</a></li>
-<li><a class="reference external" href=https://github.com/rochacbruno/flasgger>Flasgger</a></li>
-<li><a class="reference external" href=http://flask.pocoo.org/>Flask</a></li>
-<li><a class="reference external" href=https://github.com/opps/opps>Opps CMS</a></li>
-<li><a class="reference external" href=https://plone.org/>Plone</a></li>
-<li><a class="reference external" href=http://quokkaproject.org/>Quokka CMS</a><ul>
-<li><a class="reference external" href=http://demo.quokkaproject.org/>Demo</a></li>
-<li><a class="reference external" href=https://github.com/rochacbruno/quokka/wiki#demo>Informações de acesso para o Demo</a></li>
-<li><a class="reference external" href=https://github.com/rochacbruno/quokka/wiki>Wiki</a></li>
-<li><a class="reference external" href=https://github.com/rochacbruno/quokka/wiki/installation>Instalação</a></li>
-</ul>
-</li>
-<li><a class="reference external" href=http://www.imdb.com/title/tt0432283/>Fantastic Mister Fox</a></li>
-<li>Treinamento Full Stack Python Developer (em breve)</li>
-</ul>
-<p class="alert alert-info"><strong>Música</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
-</div>
-</div></div><h2>Tags</h2>
-<p class=lh-lg>
-<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/bruno-rocha/>bruno rocha</a>
+futuro.</p><div class="center-block figure"><img alt="Bruno Rocha - Ozzy Tatoo" src=/images/bruno_rocha_ozzy_tattoo.jpg></div><div class=section id=contato><h2>Contato</h2><ul class=simple><li><strong>Site</strong>: <a class="reference external" href=http://brunorocha.org/>http://brunorocha.org/</a></li><li><strong>Twitter</strong>: <a class="reference external" href=https://twitter.com/rochacbruno>https://twitter.com/rochacbruno</a></li><li><strong>LinkedIn</strong>: <a class="reference external" href=https://www.linkedin.com/in/rochacbruno>https://www.linkedin.com/in/rochacbruno</a></li><li><strong>Github</strong>: <a class="reference external" href=https://github.com/rochacbruno>https://github.com/rochacbruno</a></li></ul></div><div class=section id=escute-agora><h2>Escute Agora</h2><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-71 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-71/castalio-podcast-71.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-71/castalio-podcast-71.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume target=_blank>Série Vaga-lume</a></li><li><a href="https://duckduckgo.com/?q=De+Alma+para+Alma+Huberto+Rohden" target=_blank>De Alma para Alma</a></li><li><a href=https://www.goodreads.com/book/show/12936088-o-zoo-humano target=_blank>O Zoo Humano</a></li><li><a href=https://www.goodreads.com/book/show/9062565-o-macaco-nu target=_blank>O Macaco Nu</a></li><li><a href=https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer target=_blank>The Pragmatic Programmer</a></li><li><a href=https://www.goodreads.com/book/show/1332383.Programming_in_Lua target=_blank>Programming in Lua</a></li><li><a href=https://www.goodreads.com/book/show/80444.Python_Essential_Reference target=_blank>Python Essential Reference</a></li></ol><h3>Filmes:</h3><ol><li><a href=http://www.terraqueos.org/ target=_blank>Earthlings (Terráqueos)</a></li><li><a href=https://www.imdb.com/title/tt0068646/ target=_blank>O Poderoso Chefão</a></li><li><a href=https://www.imdb.com/title/tt0086250/ target=_blank>Scarface</a></li><li><a href=https://www.imdb.com/title/tt0040522/ target=_blank>Ladrões de Bicicleta</a></li><li><a href=https://www.imdb.com/title/tt0027977/ target=_blank>Tempos Modernos</a></li><li><a href=https://www.imdb.com/title/tt2278388/ target=_blank>O Grande Hotel Budapeste</a></li><li><a href=https://www.imdb.com/title/tt2616280/ target=_blank>Derek</a></li><li><a href=https://www.imdb.com/title/tt1582457/ target=_blank>The Borgias</a></li><li><a href=https://www.imdb.com/title/tt0386676/ target=_blank>The Office (America)</a></li><li><a href=https://www.imdb.com/title/tt0487831/ target=_blank>The IT Crowd</a></li><li><a href=https://www.imdb.com/title/tt4158110/ target=_blank>Mr. Robot</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Ozzy+Osbourne target=_blank>Ozzy Osbourne</a></li><li><a href=https://www.last.fm/music/Jethro+Tull target=_blank>Jethro Tull</a></li><li><a href=https://www.last.fm/music/Yes target=_blank>Yes</a></li><li><a href=https://www.last.fm/music/Alan+Parsons target=_blank>Alan Parsons</a></li><li><a href=https://www.last.fm/music/Anathema target=_blank>Anathema</a></li><li><a href=https://www.last.fm/music/Pain+of+Salvation target=_blank>Pain of Salvation</a></li><li><a href=https://www.last.fm/music/Dream+Theater target=_blank>Dream Theater</a></li><li><a href=https://www.last.fm/music/Morcheeba target=_blank>Morcheeba</a></li><li><a href=https://www.last.fm/music/Lambchop target=_blank>Lambchop</a></li><li><a href=https://www.last.fm/music/Massive+Attack target=_blank>Massive Attack</a></li><li><a href=https://www.last.fm/music/Belchior target=_blank>Belchior</a></li><li><a href=https://www.last.fm/music/Clube+da+Esquina target=_blank>Clube da Esquina</a></li><li><a href=https://www.last.fm/music/Milton+Nascimento target=_blank>Milton Nascimento</a></li><li><a href=https://www.last.fm/music/Kleiton+&+Kledir target=_blank>Kleiton e Kledir</a></li></ol></div><div class=section id=links><h2>Links</h2><ul class=simple><li><a class="reference external" href=https://github.com/rochacbruno/dynaconf>Dynaconf</a></li><li><a class="reference external" href=https://github.com/rochacbruno/flasgger>Flasgger</a></li><li><a class="reference external" href=http://flask.pocoo.org/>Flask</a></li><li><a class="reference external" href=https://github.com/opps/opps>Opps CMS</a></li><li><a class="reference external" href=https://plone.org/>Plone</a></li><li><a class="reference external" href=http://quokkaproject.org/>Quokka CMS</a><ul><li><a class="reference external" href=http://demo.quokkaproject.org/>Demo</a></li><li><a class="reference external" href=https://github.com/rochacbruno/quokka/wiki#demo>Informações de acesso para o Demo</a></li><li><a class="reference external" href=https://github.com/rochacbruno/quokka/wiki>Wiki</a></li><li><a class="reference external" href=https://github.com/rochacbruno/quokka/wiki/installation>Instalação</a></li></ul></li><li><a class="reference external" href=http://www.imdb.com/title/tt0432283/>Fantastic Mister Fox</a></li><li>Treinamento Full Stack Python Developer (em breve)</li></ul><p class="alert alert-info"><strong>Música</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p></div></div></div><h2>Tags</h2><p class=lh-lg><a class="btn btn-primary btn-sm" href=https://castalio.info/tags/bruno-rocha/>bruno rocha</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/flask/>flask</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/quokka/>quokka</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/cms/>cms</a>
-<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/quokkacms/>quokkacms</a>
-</p><hr><div class="post-navs d-flex mb-3 justify-content-evenly">
-<div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
-<a href=https://castalio.info/episodes/episodio-70-bruno-rocha-flask-e-veganismo/>Episódio 70: Bruno Rocha - Flask E Veganismo
-</a>
-</div><div class="post-nav post-next">
-<a href=https://castalio.info/episodes/episodio-72-eduardo-matos-pouchdb-e-quadrinhos/>Episódio 72: Eduardo Matos - PouchDB E Quadrinhos
-</a>
-<i class="bi bi-chevron-right"></i>
-</div></div><section class=related-posts-wrapper>
-<h3>Episódios Relacionados</h3>
-<ul class=related-posts><li><a href=https://castalio.info/episodes/episodio-70-bruno-rocha-flask-e-veganismo/>Episódio 70: Bruno Rocha - Flask E Veganismo
-</a></li><li><a href=https://castalio.info/episodes/luciano-ramalho-oficinas-turing/>Luciano Ramalho: Oficinas Turing
-</a></li><li><a href=https://castalio.info/episodes/episodio-60-andrews-medina-splinter/>Episódio 60: Andrews Medina - Splinter
-</a></li><li><a href=https://castalio.info/episodes/flavio-ribeiro-globoco/>Flávio Ribeiro: Globo.com
-</a></li><li><a href=https://castalio.info/episodes/alvaro-turicas-justen-arduino/>Álvaro "Turicas" Justen - Arduino
-</a></li></ul>
-</section></div>
-</article><div class="post-comments card row component">
-<div class=card-body><div id=disqus_thread></div>
-<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
-<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
-<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
-</div></div>
-</div>
-</div>
-</main><footer id=footer>
-<div class=container>
-<div class="row justify-content-center">
-<div class=col-md-3>
-<h4>Sobre</h4>
-<p>
-O Castálio Podcast é fruto da imaginação e curiosidade
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/quokkacms/>quokkacms</a></p><hr><div class="post-navs d-flex mb-3 justify-content-evenly"><div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
+<a href=https://castalio.info/episodes/episodio-70-bruno-rocha-flask-e-veganismo/>Episódio 70: Bruno Rocha - Flask E Veganismo</a></div><div class="post-nav post-next"><a href=https://castalio.info/episodes/episodio-72-eduardo-matos-pouchdb-e-quadrinhos/>Episódio 72: Eduardo Matos - PouchDB E Quadrinhos</a>
+<i class="bi bi-chevron-right"></i></div></div><section class=related-posts-wrapper><h3>Episódios Relacionados</h3><ul class=related-posts><li><a href=https://castalio.info/episodes/episodio-70-bruno-rocha-flask-e-veganismo/>Episódio 70: Bruno Rocha - Flask E Veganismo</a></li><li><a href=https://castalio.info/episodes/luciano-ramalho-oficinas-turing/>Luciano Ramalho: Oficinas Turing</a></li><li><a href=https://castalio.info/episodes/episodio-60-andrews-medina-splinter/>Episódio 60: Andrews Medina - Splinter</a></li><li><a href=https://castalio.info/episodes/flavio-ribeiro-globoco/>Flávio Ribeiro: Globo.com</a></li><li><a href=https://castalio.info/episodes/alvaro-turicas-justen-arduino/>Álvaro "Turicas" Justen - Arduino</a></li></ul></section></div></article><div class="post-comments card row component"><div class=card-body><div id=disqus_thread></div><script type=application/javascript>window.disqus_config=function(){},function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById("disqus_thread").innerHTML="Disqus comments not available by default when the website is previewed locally.";return}var t=document,e=t.createElement("script");e.async=!0,e.src="//castliopodcast.disqus.com/embed.js",e.setAttribute("data-timestamp",+new Date),(t.head||t.body).appendChild(e)}()</script><noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript><a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div></div></div></div></div></main><footer id=footer><div class=container><div class="row justify-content-center"><div class=col-md-3><h4>Sobre</h4><p>O Castálio Podcast é fruto da imaginação e curiosidade
 incansável de Og Maciel, um brasileiro que desde 1991 mora nos
 Estados Unidos mas que nunca deixou de prestigiar suas raizes!
 Caso você tenha alguma sugestão para o nosso próximo convidado,
-nos envie sua idéia para o nosso e-mail.
-</p>
-<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
-<i class="bi bi-info-circle"></i> Saiba mais </a>
-</div>
-<div class=col-md-3>
-<h4>Social</h4>
-<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
-<i class="bi bi-facebook"></i>
-</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
-<i class="bi bi-github"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
-<i class="bi bi-instagram"></i>
-</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
-<i class="bi bi-twitter"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
-<i class="bi bi-youtube"></i>
-</a></nav>
-</div>
-<div class=col-md-3>
-<h4>Sites Amigos</h4>
-<ul id=footer-social class=list-unstyled>
-<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
-<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
-<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
-<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
-</ul>
-</div>
-</div>
-<div class="row justify-content-center">
-<p class=text-center>
-<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
-O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
-</p>
-</div>
-</div>
-</footer>
-<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+nos envie sua idéia para o nosso e-mail.</p><a href=/sobre-o-castalio class="btn btn-primary btn-sm"><i class="bi bi-info-circle"></i> Saiba mais</a></div><div class=col-md-3><h4>Social</h4><nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer"><i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer"><i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer"><i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer"><i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer"><i class="bi bi-youtube"></i></a></nav></div><div class=col-md-3><h4>Sites Amigos</h4><ul id=footer-social class=list-unstyled><li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li><li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li><li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li><li><a title="Hack 'n' Cast" href=http://hackncast.org>Hack 'n' Cast</a></li></ul></div></div><div class="row justify-content-center"><p class=text-center><a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.</p></div></div></footer><script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
 <script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
-<span class=podcast-download-count>
-<i class="bi bi-download" aria-hidden=true></i>
-<span id=download-count>-</span>
-</span>
-<script type=text/javascript>function set_download_count(a){$("#download-count").text(a.item.downloads)}</script>
-<script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-71%20castalio-podcast-71.mp3]&callback=set_download_count?output=json"></script>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
-<script async src=https://www.google-analytics.com/analytics.js></script>
-</body>
-</html>
+<span class=podcast-download-count><i class="bi bi-download" aria-hidden=true></i>
+<span id=download-count>-</span></span>
+<script type=text/javascript>function set_download_count(e){$("#download-count").text(e.item.downloads)}</script><script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-71%20castalio-podcast-71.mp3]&callback=set_download_count?output=json"></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-21449168-1","auto"),ga("send","pageview"))</script><script async src=https://www.google-analytics.com/analytics.js></script></body></html>

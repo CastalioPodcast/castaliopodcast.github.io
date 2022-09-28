@@ -1,261 +1,30 @@
-<!doctype html><html lang=en><head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<link href=/images/favicon.ico rel=icon>
-<link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous>
-<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload="this.rel='stylesheet'">
-<noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript>
-<title>Episódio 144: Osvaldo Santana - O Início da Comunidade Python Brasil - Castálio Podcast</title>
-</head>
-<body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-<div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
-Castálio Podcast
-</a>
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link href=/images/favicon.ico rel=icon><link href=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3 crossorigin=anonymous><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css><link rel=preload href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous as=style onload='this.rel="stylesheet"'><noscript><link rel=stylesheet href=https://castalio.info/css/bundle.min.f64b81426faff0964364d16c6c6a93ac7e9c1c2aa6898e68f76e9c84b9c7594f.css integrity="sha256-9kuBQm+v8JZDZNFsbGqTrH6cHCqmiY5o926chLnHWU8=" crossorigin=anonymous></noscript><title>Episódio 144: Osvaldo Santana - O Início da Comunidade Python Brasil - Castálio Podcast</title></head><body><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"><div class=container><a class=navbar-brand href=https://castalio.info><img class="d-inline-block align-text-top" alt=Logo src=https://castalio.info/images/navbar-logo.png loading=lazy width=440 height=440 style=width:30px;height:30px>
+Castálio Podcast</a>
 <button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
-<span class=navbar-toggler-icon></span>
-</button>
-<div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent>
-<ul class="navbar-nav ms-auto"><li class=nav-item>
-<a class=nav-link href=https://castalio.info/sobre/>
-Sobre
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/agenda/>
-Agenda
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/episodes/>
-Episódios
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/tags/english/>
-English Episodes
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/top5/>
-Top 5
-</a>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/youtube/>
-Youtube
-</a>
-</li><li class="nav-item dropdown">
-<a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false>
-<i class="bi bi-caret-down-fill"></i> Inscreva-se
-</a>
-<ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li>
-<a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">
-FeedBurner (RSS Feed)
-</a>
-</li><li>
-<a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">
-Google Podcasts
-</a>
-</li><li>
-<a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">
-iTunes
-</a>
-</li><li>
-<a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">
-Overcast
-</a>
-</li><li>
-<a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">
-Pocket Casts
-</a>
-</li><li>
-<a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">
-Spotify
-</a>
-</li><li>
-<a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">
-YouTube
-</a>
-</li></ul>
-</li><li class=nav-item>
-<a class=nav-link href=https://castalio.info/archives/>
-<i class="bi bi-archive"></i> Arquivos
-</a>
-</li></ul>
-<form class=d-flex action=https://castalio.info/search>
-<input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar>
-</form>
-</div>
-</div>
-</nav>
-<div id=hero class="px-4 py-5 my-5 text-center">
-<img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px>
-<div class="col-lg-6 mx-auto">
-<p class="lead mb-4">Um podcast inspirado prá castálio!</p>
-<div class=fs-1>
-<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
-<i class="bi bi-facebook"></i>
-</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
-<i class="bi bi-github"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
-<i class="bi bi-instagram"></i>
-</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
-<i class="bi bi-twitter"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
-<i class="bi bi-youtube"></i>
-</a></nav>
-</div>
-</div>
-</div>
-<main role=main class=container>
-<div class="row content">
-<div class=col-lg-12>
-<div class=container><article class="post row card mb-4 component">
-<div class=card-body>
-<h1 class="card-title my-3">Episódio 144: Osvaldo Santana - O Início Da Comunidade Python Brasil
-</h1><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data>
-<i class="bi bi-calendar-date-fill"></i>
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" tabindex=-1 id=navbarSupportedContent aria-labelledby=navbarSupportedContent><ul class="navbar-nav ms-auto"><li class=nav-item><a class=nav-link href=https://castalio.info/sobre/>Sobre</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/agenda/>Agenda</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/episodes/>Episódios</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/tags/english/>English Episodes</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/top5/>Top 5</a></li><li class=nav-item><a class=nav-link href=https://castalio.info/youtube/>Youtube</a></li><li class="nav-item dropdown"><a class=nav-link id=navbarDropdown-subscribe role=button data-bs-toggle=dropdown aria-expanded=false><i class="bi bi-caret-down-fill"></i> Inscreva-se</a><ul class=dropdown-menu aria-labelledby=navbarDropdown-subscribe><li><a class=dropdown-item href=http://feeds.feedburner.com/CastalioPodcastMP3 target=_blank rel="noopener noreferrer">FeedBurner (RSS Feed)</a></li><li><a class=dropdown-item href=https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0Nhc3RhbGlvUG9kY2FzdE1QMw target=_blank rel="noopener noreferrer">Google Podcasts</a></li><li><a class=dropdown-item href=https://itunes.apple.com/br/podcast/castalio-podcast/id446259197 target=_blank rel="noopener noreferrer">iTunes</a></li><li><a class=dropdown-item href=https://overcast.fm/itunes446259197/cast-lio-podcast target=_blank rel="noopener noreferrer">Overcast</a></li><li><a class=dropdown-item href=http://pca.st/castalio target=_blank rel="noopener noreferrer">Pocket Casts</a></li><li><a class=dropdown-item href=https://open.spotify.com/show/5wR7497LQwCIDbCsdNhXVn target=_blank rel="noopener noreferrer">Spotify</a></li><li><a class=dropdown-item href=https://www.youtube.com/castaliopodcast target=_blank rel="noopener noreferrer">YouTube</a></li></ul></li><li class=nav-item><a class=nav-link href=https://castalio.info/archives/><i class="bi bi-archive"></i> Arquivos</a></li></ul><form class=d-flex action=https://castalio.info/search><input class="form-control me-2" name=s type=search placeholder=Pesquisar aria-label=Pesquisar></form></div></div></nav><div id=hero class="px-4 py-5 my-5 text-center"><img class="d-block mx-auto mb-4 rounded-circle" alt=Logo src=https://castalio.info/images/castalio-podcast.png loading=lazy width=2000 height=2000 style=width:300px;height:300px><div class="col-lg-6 mx-auto"><p class="lead mb-4">Um podcast inspirado prá castálio!</p><div class=fs-1><nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer"><i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer"><i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer"><i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer"><i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer"><i class="bi bi-youtube"></i></a></nav></div></div></div><main role=main class=container><div class="row content"><div class=col-lg-12><div class=container><article class="post row card mb-4 component"><div class=card-body><h1 class="card-title my-3">Episódio 144: Osvaldo Santana - O Início Da Comunidade Python Brasil</h1><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Oct 28, 2019
-</span><span class="post-authors d-block d-lg-inline" title=Autores>
-<i class="bi bi-person-fill"></i>
+</span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Castálio Podcast
-</span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura">
-<i class="bi bi-clock-fill"></i>
-2 minutos
-</span></div>
-<img class="float-start img-thumbnail post-image" src=/images/osvaldo-santana.jpg>
-<div class="post-content mb-3"><div class=document>
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Nosso convidado de hoje é desenvolvedor Python e empreendedor. Participou
+</span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
+2 minutos</span></div><img class="float-start img-thumbnail post-image" src=/images/osvaldo-santana.jpg><div class="post-content mb-3"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>Nosso convidado de hoje é desenvolvedor Python e empreendedor. Participou
 ativamente na criação e organização da comunidade Python Brasil. Suas
 contribuições para a comunidade Python Brasil foi reconhecida em 2014, na
 Python Brasil 10 realizada em Porto de Galinhas, onde recebeu o Prêmio Dorneles
 Treméa. Nosso convidado já trabalhou na Conectiva, já teve sua própria empresa
 de consultoria Linux, já empreendeu na área de desenvolvimento Python e Django
 e também trabalhou na área de e-commerce. Osvaldo Santana, seja muito bem vindo
-ao Castálio Podcast.</p>
-<div class=clearfix></div>
-<div class=card>
-<div class=card-header>Escute enquanto lê os show notes!</div>
-<div class=card-body>
-<div class="card-text podcast text-center">
-<iframe src=https://archive.org/embed/castalio-podcast-144 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
-</div>
-<div class="podcast-download text-center">
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-144/castalio-podcast-144.mp3><i class="bi bi-download"></i> MP3</a>
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-144/castalio-podcast-144.ogg><i class="bi bi-download"></i> OGG</a>
-</div>
-</div>
-</div>
-<div class=section id=topicos-abordados-neste-episodio>
-<h2>Tópicos abordados neste episódio</h2>
-<ul class=simple>
-<li>Como o Osvaldo entrou no mundo de programação?</li>
-<li>Como ele descobriu o Python?</li>
-<li>Como foi a participação dele no inicio da comunidade Python Brasil?</li>
-<li>Como foi a experiência de trabalhar na Conectiva?</li>
-<li>Sua experiência como empreendedor no Brasil, desafios e conquistas?</li>
-<li>Qual ou quais a metodologias de desenvolvimento de software oferecem a melhor
-execução para transformar uma ideia em projeto e depois em produto?</li>
-</ul>
-<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/author/show/16667.Isaac_Asimov target=_blank>Isaac Asimov</a></li><li><a href=https://www.goodreads.com/book/show/22371139-o-marciano target=_blank>O Marciano</a></li><li><a href=https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained target=_blank>Extreme Programming Explained</a></li><li><a href=https://www.goodreads.com/book/show/387190.Test_Driven_Development target=_blank>Test Driven Development: By Example</a></li><li><a href=https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer target=_blank>The Pragmatic Programmer</a></li><li><a href=https://www.goodreads.com/book/show/44936.Refactoring target=_blank>Refactoring: Improving the Design of Existing Code</a></li><li><a href=https://www.goodreads.com/book/show/179210.Fundamentals_of_Object_Oriented_Design_in_UML target=_blank>Fundamentos do Desenho Orientado a Objeto Com Uml</a></li><li><a href=https://www.goodreads.com/book/show/44882.Code target=_blank>Code</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt0083658/ target=_blank>Blade Runner</a></li><li><a href=https://www.imdb.com/title/tt1856101/ target=_blank>Blade Runner 2049</a></li><li><a href=https://www.imdb.com/title/tt0088763/ target=_blank>De Volta Para o Futuro</a></li><li><a href=https://www.imdb.com/title/tt0903747/ target=_blank>Breaking Bad</a></li><li><a href=https://www.imdb.com/title/tt0804503/ target=_blank>Mad Men</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Kraftwerk target=_blank>Kraftwerk</a></li><li><a href=https://www.last.fm/music/New+Order target=_blank>New Order</a></li><li><a href=https://www.last.fm/music/The+Cure target=_blank>The Cure</a></li><li><a href=https://www.last.fm/music/Placebo target=_blank>Placebo</a></li><li><a href=https://www.last.fm/music/Daft+Punk target=_blank>Daft Punk</a></li><li><a href=https://www.last.fm/music/Rammstein target=_blank>Rammstein</a></li><li><a href=https://www.last.fm/music/Die+%C3%84rzte target=_blank>Die Ärzte</a></li></ol>
-</div>
-<div class=section id=assista-a-gravacao-deste-episodio>
-<h2>Assista a gravação deste episódio</h2>
-<p>Este episódio foi gravado ao vivo em nosso <a class="reference external" href=http://youtube.com/castaliopodcast>canal no YouTube</a> e você pode assistir a gravação e os
-demos no vídeo abaixo:</p>
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden>
-<iframe src=https://www.youtube.com/embed/uA1o_LwQJws style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="YouTube Video"></iframe>
-</div>
-<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+ao Castálio Podcast.</p><div class=clearfix></div><div class=card><div class=card-header>Escute enquanto lê os show notes!</div><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-144 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-144/castalio-podcast-144.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-144/castalio-podcast-144.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><div class=section id=topicos-abordados-neste-episodio><h2>Tópicos abordados neste episódio</h2><ul class=simple><li>Como o Osvaldo entrou no mundo de programação?</li><li>Como ele descobriu o Python?</li><li>Como foi a participação dele no inicio da comunidade Python Brasil?</li><li>Como foi a experiência de trabalhar na Conectiva?</li><li>Sua experiência como empreendedor no Brasil, desafios e conquistas?</li><li>Qual ou quais a metodologias de desenvolvimento de software oferecem a melhor
+execução para transformar uma ideia em projeto e depois em produto?</li></ul><h2>Top 5</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/author/show/16667.Isaac_Asimov target=_blank>Isaac Asimov</a></li><li><a href=https://www.goodreads.com/book/show/22371139-o-marciano target=_blank>O Marciano</a></li><li><a href=https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained target=_blank>Extreme Programming Explained</a></li><li><a href=https://www.goodreads.com/book/show/387190.Test_Driven_Development target=_blank>Test Driven Development: By Example</a></li><li><a href=https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer target=_blank>The Pragmatic Programmer</a></li><li><a href=https://www.goodreads.com/book/show/44936.Refactoring target=_blank>Refactoring: Improving the Design of Existing Code</a></li><li><a href=https://www.goodreads.com/book/show/179210.Fundamentals_of_Object_Oriented_Design_in_UML target=_blank>Fundamentos do Desenho Orientado a Objeto Com Uml</a></li><li><a href=https://www.goodreads.com/book/show/44882.Code target=_blank>Code</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt0083658/ target=_blank>Blade Runner</a></li><li><a href=https://www.imdb.com/title/tt1856101/ target=_blank>Blade Runner 2049</a></li><li><a href=https://www.imdb.com/title/tt0088763/ target=_blank>De Volta Para o Futuro</a></li><li><a href=https://www.imdb.com/title/tt0903747/ target=_blank>Breaking Bad</a></li><li><a href=https://www.imdb.com/title/tt0804503/ target=_blank>Mad Men</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Kraftwerk target=_blank>Kraftwerk</a></li><li><a href=https://www.last.fm/music/New+Order target=_blank>New Order</a></li><li><a href=https://www.last.fm/music/The+Cure target=_blank>The Cure</a></li><li><a href=https://www.last.fm/music/Placebo target=_blank>Placebo</a></li><li><a href=https://www.last.fm/music/Daft+Punk target=_blank>Daft Punk</a></li><li><a href=https://www.last.fm/music/Rammstein target=_blank>Rammstein</a></li><li><a href=https://www.last.fm/music/Die+%C3%84rzte target=_blank>Die Ärzte</a></li></ol></div><div class=section id=assista-a-gravacao-deste-episodio><h2>Assista a gravação deste episódio</h2><p>Este episódio foi gravado ao vivo em nosso <a class="reference external" href=http://youtube.com/castaliopodcast>canal no YouTube</a> e você pode assistir a gravação e os
+demos no vídeo abaixo:</p><div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden><iframe src=https://www.youtube.com/embed/uA1o_LwQJws style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="YouTube Video"></iframe></div><p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
 e se você tem algum comentário ou sugestão por favor comente em nossas redes
 sociais no <a class="reference external" href=https://twitter.com/castaliopod>Twitter</a> ou no <a class="reference external" href=https://www.facebook.com/castaliopod>Facebook</a>. E também siga nossa <a class="reference external" href=https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg>Spotify Playlist</a> e e
-não se esqueça de inscrever-se no <a class="reference external" href=http://youtube.com/castaliopodcast>Canal no YouTube</a>.</p>
-<p>Até o próximo episódio!</p>
-</div>
-<div class=section id=contatos>
-<h2>Contatos</h2>
-<div class=row>
-<div class=col-md-6>
-<p>
-<div class=media>
-<div class=media-left>
-<img class="media-object rounded-circle img-thumbnail" src=/images/osvaldo-santana.jpg alt="Osvaldo Santana" width=200px>
-</div>
-<div class=media-body>
-<h4 class=media-heading>Osvaldo Santana</h4>
-<ul class=list-unstyled>
-<li><i class="bi bi-link"></i> <a href=https://osantana.me/>Site</a></li>
-<li><i class="bi bi-twitter"></i> <a href=https://twitter.com/osantana>Twitter</a></li>
-</ul>
-</div>
-</div>
-</p>
-</div>
-</div>
-<div class=card>
-<div class=card-header>Escute Agora</div>
-<div class=card-body>
-<div class="card-text podcast text-center">
-<iframe src=https://archive.org/embed/castalio-podcast-144 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe>
-</div>
-<div class="podcast-download text-center">
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-144/castalio-podcast-144.mp3><i class="bi bi-download"></i> MP3</a>
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-144/castalio-podcast-144.ogg><i class="bi bi-download"></i> OGG</a>
-</div>
-</div>
-</div>
-</div>
-<div class=section id=links>
-<h2>Links</h2>
-<ul class=simple>
-<li><a class="reference external" href=https://castalio.info/ruda-moura-conectiva-linux.html>Rudá Moura</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Waterfall_model>Waterfall</a></li>
-<li><a class="reference external" href=https://xgohorse.com/>Extreme Go Horse</a></li>
-<li><a class="reference external" href="https://archive.org/search.php?query=creator%3A%22Saber+Eletr%C3%B4nica%22">Revista Saber Eletrônica</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/BASIC>BASIC</a></li>
-<li><a class="reference external" href=https://www.editoraaleph.com.br/autores/pierluigi-piazzi>Pierluigi Piazzi - Editora Aleph</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Logo_(programming_language)>Logo</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Seymour_Papert>Seymour Papert</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Assembly_language>Assembly</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Zilog_Z80>Z80</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/C_(programming_language)>C</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/OS/2>OS/2</a></li>
-<li><a class="reference external" href=http://www.slackware.com/>Slackware</a></li>
-<li><a class="reference external" href=https://pt.wikipedia.org/wiki/Conectiva>Conectiva</a></li>
-<li><a class="reference external" href=https://www.goodreads.com/book/show/5412577-maximum-rpm>Maximum RPM</a></li>
-<li><a class="reference external" href=https://kde.org/>KDE</a></li>
-<li><a class="reference external" href=https://www.gnome.org/>Gnome</a></li>
-<li><a class="reference external" href=http://www.windowmaker.org/>Window Maker</a></li>
-<li><a class="reference external" href=https://www.linkedin.com/in/wanderlei-cavassin-ab82551/>Wanderlei Cavassin</a></li>
-<li><a class="reference external" href=https://logging.apache.org/log4j/2.x/>Log4j</a></li>
-<li><a class="reference external" href=https://github.com/niemeyer>Gustavo Niemeyer</a></li>
-<li><a class="reference external" href=https://dateutil.readthedocs.io/en/stable/>python-dateutil</a></li>
-<li><a class="reference external" href=https://zope.readthedocs.io/en/latest/>Zope</a></li>
-<li><a class="reference external" href=https://communities.bmc.com/community/bmcdn/enterprise_scheduling_workload_automation/pages/start-here>Control-M</a></li>
-<li><a class="reference external" href=https://www.linkedin.com/in/alfredokojima>Alfredo Kojima</a></li>
-<li><a class="reference external" href=http://fisl.softwarelivre.org/>FISL</a></li>
-<li><a class="reference external" href=https://python.org.br/>Comunidade Python Brasil</a></li>
-<li><a class="reference external" href=https://2019.pythonbrasil.org.br/>Evento Python Brasil</a></li>
-<li><a class="reference external" href=https://groups.google.com/forum/#!forum/python-brasil>Lista de discussão python-brasil</a></li>
-<li><a class="reference external" href=https://plone.com/>Plone</a></li>
-<li><a class="reference external" href=http://moinmo.in/>MoinMoin</a></li>
-<li><a class="reference external" href=https://castalio.info/episodio-134-rodrigo-senra-jupyter-notebooks.html>Rodrigo Senra</a></li>
-<li><a class="reference external" href=https://castalio.info/luciano-ramalho-oficinas-turing.html>Luciano Ramalho</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Semantic_Web>Web Semântica</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Enterprise_resource_planning>ERP</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Customer_relationship_management>CRM</a></li>
-<li><a class="reference external" href=https://www.kanui.com.br/>Kanui</a></li>
-<li><a class="reference external" href=https://olist.com/>olist</a></li>
-<li><a class="reference external" href=https://www.indiehackers.com/>Indie Hackers</a></li>
-<li><a class="reference external" href="https://en.wikipedia.org/wiki/Pair_programming<Paste>">Pair Programming</a></li>
-<li><a class="reference external" href=http://localhost:8000/episodio-141-george-guimaraes-code-review.html>Code Review</a></li>
-<li><a class="reference external" href=https://www.agilealliance.org/glossary/collective-ownership/>Collective Code Ownership</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Kanban>Kanban</a></li>
-<li><a class="reference external" href=https://en.wikipedia.org/wiki/Scrum_(software_development)>Scrum</a></li>
-<li><a class="reference external" href=https://www.youtube.com/channel/UCZq_CYXRoRjKqidapMPujaQ>EntrePlanos</a></li>
-<li><a class="reference external" href=https://www.clipmyhorse.tv>ClipMyHorse</a></li>
-</ul>
-<p class="alert alert-info"><strong>Música</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p>
-</div>
-</div></div><h2>Tags</h2>
-<p class=lh-lg>
-<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/osvaldo-santana/>osvaldo santana</a>
+não se esqueça de inscrever-se no <a class="reference external" href=http://youtube.com/castaliopodcast>Canal no YouTube</a>.</p><p>Até o próximo episódio!</p></div><div class=section id=contatos><h2>Contatos</h2><div class=row><div class=col-md-6><p><div class=media><div class=media-left><img class="media-object rounded-circle img-thumbnail" src=/images/osvaldo-santana.jpg alt="Osvaldo Santana" width=200px></div><div class=media-body><h4 class=media-heading>Osvaldo Santana</h4><ul class=list-unstyled><li><i class="bi bi-link"></i> <a href=https://osantana.me/>Site</a></li><li><i class="bi bi-twitter"></i> <a href=https://twitter.com/osantana>Twitter</a></li></ul></div></div></p></div></div><div class=card><div class=card-header>Escute Agora</div><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-144 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-144/castalio-podcast-144.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-144/castalio-podcast-144.ogg><i class="bi bi-download"></i> OGG</a></div></div></div></div><div class=section id=links><h2>Links</h2><ul class=simple><li><a class="reference external" href=https://castalio.info/ruda-moura-conectiva-linux.html>Rudá Moura</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Waterfall_model>Waterfall</a></li><li><a class="reference external" href=https://xgohorse.com/>Extreme Go Horse</a></li><li><a class="reference external" href="https://archive.org/search.php?query=creator%3A%22Saber+Eletr%C3%B4nica%22">Revista Saber Eletrônica</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/BASIC>BASIC</a></li><li><a class="reference external" href=https://www.editoraaleph.com.br/autores/pierluigi-piazzi>Pierluigi Piazzi - Editora Aleph</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Logo_(programming_language)>Logo</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Seymour_Papert>Seymour Papert</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Assembly_language>Assembly</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Zilog_Z80>Z80</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/C_(programming_language)>C</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/OS/2>OS/2</a></li><li><a class="reference external" href=http://www.slackware.com/>Slackware</a></li><li><a class="reference external" href=https://pt.wikipedia.org/wiki/Conectiva>Conectiva</a></li><li><a class="reference external" href=https://www.goodreads.com/book/show/5412577-maximum-rpm>Maximum RPM</a></li><li><a class="reference external" href=https://kde.org/>KDE</a></li><li><a class="reference external" href=https://www.gnome.org/>Gnome</a></li><li><a class="reference external" href=http://www.windowmaker.org/>Window Maker</a></li><li><a class="reference external" href=https://www.linkedin.com/in/wanderlei-cavassin-ab82551/>Wanderlei Cavassin</a></li><li><a class="reference external" href=https://logging.apache.org/log4j/2.x/>Log4j</a></li><li><a class="reference external" href=https://github.com/niemeyer>Gustavo Niemeyer</a></li><li><a class="reference external" href=https://dateutil.readthedocs.io/en/stable/>python-dateutil</a></li><li><a class="reference external" href=https://zope.readthedocs.io/en/latest/>Zope</a></li><li><a class="reference external" href=https://communities.bmc.com/community/bmcdn/enterprise_scheduling_workload_automation/pages/start-here>Control-M</a></li><li><a class="reference external" href=https://www.linkedin.com/in/alfredokojima>Alfredo Kojima</a></li><li><a class="reference external" href=http://fisl.softwarelivre.org/>FISL</a></li><li><a class="reference external" href=https://python.org.br/>Comunidade Python Brasil</a></li><li><a class="reference external" href=https://2019.pythonbrasil.org.br/>Evento Python Brasil</a></li><li><a class="reference external" href=https://groups.google.com/forum/#!forum/python-brasil>Lista de discussão python-brasil</a></li><li><a class="reference external" href=https://plone.com/>Plone</a></li><li><a class="reference external" href=http://moinmo.in/>MoinMoin</a></li><li><a class="reference external" href=https://castalio.info/episodio-134-rodrigo-senra-jupyter-notebooks.html>Rodrigo Senra</a></li><li><a class="reference external" href=https://castalio.info/luciano-ramalho-oficinas-turing.html>Luciano Ramalho</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Semantic_Web>Web Semântica</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Enterprise_resource_planning>ERP</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Customer_relationship_management>CRM</a></li><li><a class="reference external" href=https://www.kanui.com.br/>Kanui</a></li><li><a class="reference external" href=https://olist.com/>olist</a></li><li><a class="reference external" href=https://www.indiehackers.com/>Indie Hackers</a></li><li><a class="reference external" href="https://en.wikipedia.org/wiki/Pair_programming<Paste>">Pair Programming</a></li><li><a class="reference external" href=http://localhost:8000/episodio-141-george-guimaraes-code-review.html>Code Review</a></li><li><a class="reference external" href=https://www.agilealliance.org/glossary/collective-ownership/>Collective Code Ownership</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Kanban>Kanban</a></li><li><a class="reference external" href=https://en.wikipedia.org/wiki/Scrum_(software_development)>Scrum</a></li><li><a class="reference external" href=https://www.youtube.com/channel/UCZq_CYXRoRjKqidapMPujaQ>EntrePlanos</a></li><li><a class="reference external" href=https://www.clipmyhorse.tv>ClipMyHorse</a></li></ul><p class="alert alert-info"><strong>Música</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p></div></div></div><h2>Tags</h2><p class=lh-lg><a class="btn btn-primary btn-sm" href=https://castalio.info/tags/osvaldo-santana/>osvaldo santana</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/python/>python</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/python-brasil/>python brasil</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/rud%C3%A1-moura/>rudá moura</a>
@@ -303,88 +72,20 @@ não se esqueça de inscrever-se no <a class="reference external" href=http://yo
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/kanban/>kanban</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/scrum/>scrum</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/entreplanos/>entreplanos</a>
-<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/clipmyhorse/>clipmyhorse</a>
-</p><hr><div class="post-navs d-flex mb-3 justify-content-evenly">
-<div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
-<a href=https://castalio.info/episodes/episodio-143-victor-dias-universo-programado/>Episódio 143: Victor Dias - Universo Programado
-</a>
-</div><div class="post-nav post-next">
-<a href=https://castalio.info/episodes/episodio-145-pyjamas-engenharia-de-qualidade-com-python/>Episódio 145: Pyjamas - Engenharia De Qualidade Com Python
-</a>
-<i class="bi bi-chevron-right"></i>
-</div></div><section class=related-posts-wrapper>
-<h3>Episódios Relacionados</h3>
-<ul class=related-posts><li><a href=https://castalio.info/episodes/episodio-91-empreender-e-programar-parte-2/>Episódio 91: Empreender E Programar - Parte 2
-</a></li><li><a href=https://castalio.info/episodes/episode-142-david-kopec-classic-computer-science-problems-in-python/>Episode 142: David Kopec - Classic Computer Science Problems in Python
-</a></li><li><a href=https://castalio.info/episodes/episodio-140-eduardo-mendes-live-de-python/>Episódio 140: Eduardo Mendes - Live De Python
-</a></li><li><a href=https://castalio.info/episodes/episodio-134-rodrigo-senra-jupyter-notebooks/>Episódio 134: Rodrigo Senra - Jupyter Notebooks
-</a></li><li><a href=https://castalio.info/episodes/edicao-de-2-anos-og-maciel-red-ha/>Edição De 2 Anos - Og Maciel: Red Hat
-</a></li></ul>
-</section></div>
-</article><div class="post-comments card row component">
-<div class=card-body><div id=disqus_thread></div>
-<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//castliopodcast.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
-<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
-<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div>
-</div></div>
-</div>
-</div>
-</main><footer id=footer>
-<div class=container>
-<div class="row justify-content-center">
-<div class=col-md-3>
-<h4>Sobre</h4>
-<p>
-O Castálio Podcast é fruto da imaginação e curiosidade
+<a class="btn btn-primary btn-sm" href=https://castalio.info/tags/clipmyhorse/>clipmyhorse</a></p><hr><div class="post-navs d-flex mb-3 justify-content-evenly"><div class="post-nav post-prev"><i class="bi bi-chevron-left"></i>
+<a href=https://castalio.info/episodes/episodio-143-victor-dias-universo-programado/>Episódio 143: Victor Dias - Universo Programado</a></div><div class="post-nav post-next"><a href=https://castalio.info/episodes/episodio-145-pyjamas-engenharia-de-qualidade-com-python/>Episódio 145: Pyjamas - Engenharia De Qualidade Com Python</a>
+<i class="bi bi-chevron-right"></i></div></div><section class=related-posts-wrapper><h3>Episódios Relacionados</h3><ul class=related-posts><li><a href=https://castalio.info/episodes/episodio-91-empreender-e-programar-parte-2/>Episódio 91: Empreender E Programar - Parte 2</a></li><li><a href=https://castalio.info/episodes/episode-142-david-kopec-classic-computer-science-problems-in-python/>Episode 142: David Kopec - Classic Computer Science Problems in Python</a></li><li><a href=https://castalio.info/episodes/episodio-140-eduardo-mendes-live-de-python/>Episódio 140: Eduardo Mendes - Live De Python</a></li><li><a href=https://castalio.info/episodes/episodio-134-rodrigo-senra-jupyter-notebooks/>Episódio 134: Rodrigo Senra - Jupyter Notebooks</a></li><li><a href=https://castalio.info/episodes/edicao-de-2-anos-og-maciel-red-ha/>Edição De 2 Anos - Og Maciel: Red Hat</a></li></ul></section></div></article><div class="post-comments card row component"><div class=card-body><div id=disqus_thread></div><script type=application/javascript>window.disqus_config=function(){},function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById("disqus_thread").innerHTML="Disqus comments not available by default when the website is previewed locally.";return}var t=document,e=t.createElement("script");e.async=!0,e.src="//castliopodcast.disqus.com/embed.js",e.setAttribute("data-timestamp",+new Date),(t.head||t.body).appendChild(e)}()</script><noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript><a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div></div></div></div></div></main><footer id=footer><div class=container><div class="row justify-content-center"><div class=col-md-3><h4>Sobre</h4><p>O Castálio Podcast é fruto da imaginação e curiosidade
 incansável de Og Maciel, um brasileiro que desde 1991 mora nos
 Estados Unidos mas que nunca deixou de prestigiar suas raizes!
 Caso você tenha alguma sugestão para o nosso próximo convidado,
-nos envie sua idéia para o nosso e-mail.
-</p>
-<a href=/sobre-o-castalio class="btn btn-primary btn-sm">
-<i class="bi bi-info-circle"></i> Saiba mais </a>
-</div>
-<div class=col-md-3>
-<h4>Social</h4>
-<nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer">
-<i class="bi bi-facebook"></i>
-</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer">
-<i class="bi bi-github"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer">
-<i class="bi bi-instagram"></i>
-</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer">
-<i class="bi bi-twitter"></i>
-</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer">
-<i class="bi bi-youtube"></i>
-</a></nav>
-</div>
-<div class=col-md-3>
-<h4>Sites Amigos</h4>
-<ul id=footer-social class=list-unstyled>
-<li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li>
-<li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li>
-<li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li>
-<li><a title="Hack 'n' Cast" href=http://hackncast.org> Hack 'n' Cast</a></li>
-</ul>
-</div>
-</div>
-<div class="row justify-content-center">
-<p class=text-center>
-<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
-O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
-</p>
-</div>
-</div>
-</footer>
-<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
+nos envie sua idéia para o nosso e-mail.</p><a href=/sobre-o-castalio class="btn btn-primary btn-sm"><i class="bi bi-info-circle"></i> Saiba mais</a></div><div class=col-md-3><h4>Social</h4><nav class="social-links nav my-2 justify-content-center"><a class="nav-link social-link" target=_blank href=https://facebook.com/castaliopod title=Facebook rel="noopener noreferrer"><i class="bi bi-facebook"></i>
+</a><a class="nav-link social-link" target=_blank href=https://github.com/castaliopodcast title=GitHub rel="noopener noreferrer"><i class="bi bi-github"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.instagram.com/castaliopodcast title=Instagram rel="noopener noreferrer"><i class="bi bi-instagram"></i>
+</a><a class="nav-link social-link" target=_blank href=https://twitter.com/castaliopod title=Twitter rel="noopener noreferrer"><i class="bi bi-twitter"></i>
+</a><a class="nav-link social-link" target=_blank href=https://www.youtube.com/castaliopodcast title=Youtube rel="noopener noreferrer"><i class="bi bi-youtube"></i></a></nav></div><div class=col-md-3><h4>Sites Amigos</h4><ul id=footer-social class=list-unstyled><li><a title="Og Maciel" href=http://omaciel.github.io/>Og Maciel</a></li><li><a title="Elyézer Rezende" href=http://elyezer.com>Elyézer Rezende</a></li><li><a title="Bruno Rocha" href=http://brunorocha.org>Bruno Rocha</a></li><li><a title="Hack 'n' Cast" href=http://hackncast.org>Hack 'n' Cast</a></li></ul></div></div><div class="row justify-content-center"><p class=text-center><a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png></a>
+O Castálio Podcast é distribuído sobre a licença <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.</p></div></div></footer><script src=https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js integrity=sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p crossorigin=anonymous></script>
 <script src=https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script>
-<span class=podcast-download-count>
-<i class="bi bi-download" aria-hidden=true></i>
-<span id=download-count>-</span>
-</span>
-<script type=text/javascript>function set_download_count(a){$("#download-count").text(a.item.downloads)}</script>
-<script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-144%20castalio-podcast-144.mp3]&callback=set_download_count?output=json"></script>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-21449168-1','auto'),ga('send','pageview'))</script>
-<script async src=https://www.google-analytics.com/analytics.js></script>
-</body>
-</html>
+<span class=podcast-download-count><i class="bi bi-download" aria-hidden=true></i>
+<span id=download-count>-</span></span>
+<script type=text/javascript>function set_download_count(e){$("#download-count").text(e.item.downloads)}</script><script type=text/javascript src="https://archive.org/details/[https:%20%20archive.org%20download%20castalio-podcast-144%20castalio-podcast-144.mp3]&callback=set_download_count?output=json"></script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-21449168-1","auto"),ga("send","pageview"))</script><script async src=https://www.google-analytics.com/analytics.js></script></body></html>
