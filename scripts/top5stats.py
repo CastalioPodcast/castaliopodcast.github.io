@@ -3,7 +3,7 @@
 
 Requires:
 
-    * Python 3.6+
+    * Python 3.8+
     * pyyaml
 """
 import operator

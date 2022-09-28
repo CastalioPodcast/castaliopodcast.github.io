@@ -3,7 +3,7 @@
 
 Requires:
 
-* Python 3.6+
+* Python 3.8+
 * aiohttp
 """
 import asyncio
@@ -31,7 +31,7 @@ def get_name_and_url(fname):
 
     with codecs.open(fname, 'r', 'utf-8') as fd:
         for line in fd:
-            match = re.match(r'^\.\. podcast:: (.*)$', line)
+            match = re.match(r'^podcast: "https://archive.org/download/([^/]+)/.*"$', line)
             if match:
                 break
         else:
@@ -72,7 +72,7 @@ def print_summary(stats):
 
 async def fetch(session, url):
     """Fetch an URL and returns its JSON response."""
-    with async_timeout.timeout(10):
+    async with async_timeout.timeout(10):
         async with session.get(url) as response:
             return await response.json()
 
