@@ -6,3 +6,7 @@ enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[security]
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^rst2html.py$']
