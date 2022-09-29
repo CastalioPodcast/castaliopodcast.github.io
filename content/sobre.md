@@ -40,11 +40,11 @@ convidado a participar como membro do time Castálio! Com isso o podcast passou
 a ter episódios semanais.
 
 Em 2017, o podcast completou 6 anos e nós gravamos um [episódio de
-comemoração](%7Bfilename%7D../episodes/088-episodio-especial-de-6-anos.rst)
+comemoração]({{< ref "/episodes/088-episodio-especial-de-6-anos.rst" >}})
 contando algumas curiosidades.
 
 Em 2018, o podcast completou 7 anos e gravamos mais um [episódio especial de
-comemoração](%7Bfilename%7D../episodes/128-7-anos-og-maciel.rst). Neste ano o
+comemoração]({{< ref "/episodes/128-7-anos-og-maciel.rst" >}}). Neste ano o
 Og Maciel decidiu pendurar o microfone e, a partir de então, o podcast passou a
 ser apresentado apenas pelo Bruno e pelo Elyézer.
 
@@ -60,7 +60,7 @@ limpezas dos templos em Delfos. \[Fonte:
 [wikipedia](https://secure.wikimedia.org/wikipedia/pt/wiki/Cast%C3%A1lia)\]
 
 Para saber mais sobre como o nome foi escolhido escute o [primeiro
-episódio](http://castalio.info/episodio-zero-og-maciel.html).
+episódio]({{< ref "001-og-maciel.rst" >}}).
 
 # Participe!
 
