@@ -4,9 +4,11 @@ copyright = "© 2011-{year} Castálio Podcast"
 defaultContentLanguage = "pt-br"
 enableRobotsTXT = true
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[security]
-  [security.exec]
-    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^rst2html.py$']
+[security.exec]
+  allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^rst2html.py$']
