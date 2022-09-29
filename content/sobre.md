@@ -90,28 +90,28 @@ Foresight Linux dentre outros) e desempenhar vários papéis nos mesmos, hoje el
 trabalha na [Red Hat](https://www.redhat.com/en), é pai de 3 filhas, curte ler
 livros, pescar e assistir hockey no gelo.
 
+</div>
+<div class="col-md-4">
+    <img class="center-block host-image rounded-circle mx-auto d-block  img-thumbnail" src="https://avatars2.githubusercontent.com/u/48132?v=3&s=240" alt="Elyézer Rezende">
+    <h3 class="text-center">Elyézer Rezende</h3>
+    <div class="list-group">
+        <a class="list-group-item" href="https://twitter.com/elyezer" title="Twitter"><i class="bi bi-twitter"></i> @elyezer</a>
+        <a class="list-group-item" href="http://elyezer.com" title="Site"><i class="bi bi-link"></i> Site</a>
     </div>
-    <div class="col-md-4">
-        <img class="center-block host-image rounded-circle mx-auto d-block  img-thumbnail" src="https://avatars2.githubusercontent.com/u/48132?v=3&s=240" alt="Elyézer Rezende">
-        <h3 class="text-center">Elyézer Rezende</h3>
-        <div class="list-group">
-            <a class="list-group-item" href="https://twitter.com/elyezer" title="Twitter"><i class="bi bi-twitter"></i> @elyezer</a>
-            <a class="list-group-item" href="http://elyezer.com" title="Site"><i class="bi bi-link"></i> Site</a>
-        </div>
 
 Elyézer Rezende é Red Hatter, Quality Engineer, Pythonista e Open Source
 advocate. Nas horas vagas gosta de testar receitas, experimentar cervejas e
 jogar Tennis.
 
-    </div>
+</div>
 
-    <div class="col-md-4">
-        <img class="center-block host-image rounded-circle mx-auto d-block  img-thumbnail" src="https://avatars1.githubusercontent.com/u/458654?v=3&s=240" alt="Bruno Rocha">
-        <h3 class="text-center">Bruno Rocha</h3>
-        <div class="list-group">
-            <a class="list-group-item" href="https://twitter.com/rochacbruno" title="Twitter"><i class="bi bi-twitter"></i> @rochacbruno</a>
-            <a class="list-group-item" href="http://brunorocha.org" title="Site"><i class="bi bi-link"></i> Site</a>
-        </div>
+<div class="col-md-4">
+    <img class="center-block host-image rounded-circle mx-auto d-block  img-thumbnail" src="https://avatars1.githubusercontent.com/u/458654?v=3&s=240" alt="Bruno Rocha">
+    <h3 class="text-center">Bruno Rocha</h3>
+    <div class="list-group">
+        <a class="list-group-item" href="https://twitter.com/rochacbruno" title="Twitter"><i class="bi bi-twitter"></i> @rochacbruno</a>
+        <a class="list-group-item" href="http://brunorocha.org" title="Site"><i class="bi bi-link"></i> Site</a>
+    </div>
 
 Bruno Rocha é Herbívoro, Animalista, Louco por Tofu, Nomeado Pastor da Igreja
 do Monstro de Espaguete Voador, Bicicleteiro, Pythonista (uma filosofia de vida
@@ -121,9 +121,8 @@ alguns projetos de código aberto, e claro, defensor do código livre e dos dado
 livres e nas horas vagas também é Artista de Software no time de Qualidade da
 Red Hat.
 
-    </div>
 </div>
-
+</div>
 <hr />
 
 # Licença
