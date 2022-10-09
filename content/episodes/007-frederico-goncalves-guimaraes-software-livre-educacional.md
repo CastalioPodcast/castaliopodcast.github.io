@@ -12,7 +12,7 @@ image-alt: Frederico Gonçalves Guimaraes
 ---
 
 Neste episódio conversei com o **Frederico Gonçalves Guimaraes** do
-projeto `Software Livre Educacional`_, que
+projeto [Software Livre Educacional](http://sleducacional.org/), que
 tem como objetivo principal organizar documentação e traduzir softwares
 livres que possam ser utilizados por educadores. Durante nosso bate-papo
 o Frederico me explica o quanto é importante difundir o software livre
@@ -29,10 +29,7 @@ que vocês, caso um dia se esbarrem na rua, possam reconhecê-lo(a) e
 convidá-lo(a) para tomar uma cerveja, café, vinho ou bebida preferida.
 :)
 
-.. more
-
-Escute Agora
-------------
+# Escute Agora
 
 {{< podcast castalio-podcast-07 >}}
 
@@ -52,36 +49,29 @@ music:
     * Pet Shop Boys
 {{< /top5 >}}
 
-Contato
--------
+# Contato
 
-.. raw:: html
-
-    <div class="row">
-        <div class="col-md-6">
-            <p>
-            <div class="media">
-            <div class="media-left">
-                <img class="media-object rounded-circle img-thumbnail" src="/images/fredericoguimaraes.jpg" alt="Frederico Gonçalves" width="200px">
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Frederico Gonçalves</h4>
-                <ul class="list-unstyled">
-                    <li><i class="bi bi-globe"></i> <a href="https://teia.bio.br">Site</a></li>
-                    <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/aracnus">Twitter</a></li>
-                    <li><i class="bi bi-twitter"></i> <a href="https://identi.ca/aracnus">Identi.ca</a></li>
-                </ul>
-            </div>
-            </div>
-            </p>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/fredericoguimaraes.jpg" alt="Frederico Gonçalves" width="200px">
         </div>
+        <div class="media-body">
+            <h4 class="media-heading">Frederico Gonçalves</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-globe"></i> <a href="https://teia.bio.br">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/aracnus">Twitter</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://identi.ca/aracnus">Identi.ca</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
     </div>
+</div>
 
-Links
------
--  Tradutor do `Claws Mail`_, `GCompris`_, `TuxPaint`_
+# Links
 
-.. _Software Livre Educacional: http://sleducacional.org/
-.. _Claws Mail: http://claws-mail.org
-.. _GCompris: http://gcompris.net
-.. _TuxPaint: http://tuxpaint.org
+-   Tradutor do [Claws Mail](http://claws-mail.org),
+    [GCompris](http://gcompris.net), [TuxPaint](http://tuxpaint.org)
