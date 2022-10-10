@@ -1243,10 +1243,7 @@ experimentar uma forma bem simples e fácil de interagir com um navegador
 web (o tal do 'browser'), e é justamente por causa desta facilidade que
 o episódio de hoje é dedicado ao <strong>Splinter</strong>.</p>
 ]]></content:encoded><itunes:image href="https://castalio.info/images/castalio5FkGWm.png"/><enclosure url="https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3" length="32652673" type="audio/mpeg"/></item><item><title>Episódio 55: Editor Vim</title><link>https://castalio.info/episodes/episodio-55-editor-vi/</link><pubDate>Sun, 23 Nov 2014 18:44:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 55: Editor Vim</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Depois de um longo e tenebroso inverno, estamos de volta ao&nbsp;ar, desta
+Castálio Podcast</itunes:author><itunes:title>Episódio 55: Editor Vim</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Depois de um longo e tenebroso inverno, estamos de volta ao ar, desta
 vez para ficar e com algumas novidades.Mas primeiramente, uma explicação
 sobre o sumiço súbito.</p>
 <p>O processo de planejamento, gravação e edição de um podcast requer
@@ -1257,7 +1254,7 @@ fornecer algo de (espero) boa qualidade para vocês que nos honram com
 sua presença e apoio. Devido a algumas mudanças no trabalho (algumas
 promoções com mais responsabilidades e longas horas) e na vida pessoal
 (o nascimento de minha terceira filha, Iza), eu senti que não teria mais
-o tempo livre necessário&nbsp;para continuar o podcast sem que o mesmo não
+o tempo livre necessário para continuar o podcast sem que o mesmo não
 perdesse a qualidade das entrevistas ou áudio. Foi muito difícil
 simplesmente abandonar o projeto às moscas, sem sequer dar alguma
 explicação a vocês que sempre acompanhou o podcast... por isso, quero
@@ -1266,103 +1263,550 @@ profissionalismo.</p>
 <p>Durante os muitos meses que o podcast ficou parado, foram muitos os
 e-mails e comentários de amigos e ouvintes perguntando se o projeto
 estava realmente morto ou se existia alguma chance de trazê-lo de volta
-ao&nbsp;ar, e eu sempre respondi que estava sem tempo livre, nem mesmo para
+ao ar, e eu sempre respondi que estava sem tempo livre, nem mesmo para
 editar o áudio, então a resposta era não.</p>
+<p>Eis que nas últimas semanas, tendo participado como convidado do
+<a href="http://tecnologiaaberta.com.br/">Opencast</a> podcast, aquela vontade
+enorme que eu tive para começar o Castálio podcast voltou com uma força
+total, e depois de bater um papo com meu amigo Evandro Pastor, muso
+inspirador e responsável principal pela criação deste, decidi voltar a
+fazer o podcast, porém com algumas mudanças:</p>
+<ol>
+<li>Ao invés de somente fazer episódios de entrevistas (que realmente é
+mais complicado devido ao agendamento com convidados, etc), desta
+vez também farei episódios temáticos, onde discutiremos sobre algum
+aplicativo, tecnologia ou assunto que seja interessante ao ouvinte.</li>
+<li>Notou que falei &quot;discutiremos&quot;, no plural? Pois é, um dos grandes
+motivos para trazer o podcast de volta é a presença do Elyézer que
+aceitou formar uma parceria comigo e me ajudar a manter o projeto no
+ar. Com a presença dele, vocês terão a oportunidade de escutar uma
+pessoa super técnica e tarimbada em tudo quanto é assunto de
+tecnologia e programação. E tem mais, além de saber sobre um monte
+de assuntos, ele ainda acha tempo para cozinhar uns rangos pra lá de
+interessantes e até mesmo fazer sushi!</li>
+<li>Quer mais novidade? Beleza! Estamos também considerando deixar o
+WordPress de lado e usar algo mais &quot;programático&quot; que utilize
+Github, Jekyll e outras tecnologias do gênero, já que somos para lá
+de inspirados sobre programação e automatização (que é onde ganhamos
+o nosso &quot;pão de cada dia&quot; aqui na Red Hat). Um dia desses vou
+mostrar como que as coisas estão...</li>
+</ol>
+<p>Para finalizar, eu não estaria aqui, depois de ter passado um tempinho
+editando um bate-papo que tive com o Elyézer esta última semana, se não
+fosse por vocês que deixaram comentários aqui, no Twitter, pedindo pela
+volta do podcast... e especialmente quero deixar aqui o meu
+agradecimento ao <a href="http://www.castalio.info/ivan-brasil-fuzzer-ubuntero/">Ivan
+Fuzzer</a> e
+<a href="http://www.castalio.info/evandro-pastor-quarto-estudio/">Evandro
+Pastor</a>, pelo
+apoio e incentivo para voltar! Muito obrigado mesmo!</p>
+<p>Então, para nosso primeiro episódio temático decidimos falar sobre o
+editor Vim, aquele editor que vem instalado por padrão na maioria das
+distribuições GNU/Linux e no Mac OS, mas que muitos não devem usar por
+ser um pouco estranho e assustador para quem somente conhece editores
+com interface gráfica.</p>
+<p>Neste episódio falamos um pouco sobre o que atrai as pessoas a usarem o
+Vim como editor de texto e código, como sair dele (já que este deve ser
+o primeiro problema que novos usuários encontram pela primeira vez) e
+sobre formas de deixá-lo super configurado da forma mais fácil do mundo!</p>
+<p>Mesmo que você não use o Vim (eu mesmo uso o Emacs!!!) ou já tenha
+usado, mas não achou nada interessante para convencê-lo(a) a a converter
+como usuário, algumas das ferramentas mencionadas aqui são super
+interessantes e podem ser úteis para que você mesmo(a) possa desenvolver
+algo para o seu editor ou aplicativo favorito!!!</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-55" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-55/castalio-podcast-55.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://www.vim.org/">Editor Vim</a></li>
+<li><a href="http://github.com">Github</a></li>
+<li><a href="http://gist.github.com">Gist</a></li>
+<li><a href="https://cygwin.com/">Cygwin</a></li>
+<li>Gerenciadores de plugins:
+<ul>
+<li><a href="https://github.com/gmarik/Vundle.vim">Vundle</a></li>
+<li><a href="https://github.com/Shougo/neobundle.vim">NeoBundle</a> (versão melhorada do Vundle)</li>
+</ul>
+</li>
+<li><a href="http://vim-bootstrap.com/">Vim Bootstrap</a> (<a href="https://github.com/avelino/vim-bootstrap">vim-bootstrap</a> no Github, consulte para uma <a href="https://github.com/avelino/vim-bootstrap#commands">lista de atalhos</a>)</li>
+<li><a href="https://github.com/liangxianzhe/oh-my-vim">oh-my-vim</a></li>
+<li><a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a> (framework para o zsh)</li>
+<li><a href="https://github.com/altercation/vim-colors-solarized">vim-solarized</a> (tema de cores)</li>
+<li><a href="https://github.com/scrooloose/syntastic">Syntastic</a> (plugin para verificação da sintaxe)</li>
+<li><a href="https://github.com/tpope/vim-fugitive">vim-fugitive</a> (git wrapper para o vim)</li>
+<li><a href="https://github.com/kien/ctrlp.vim">ctrlp plugin</a></li>
+<li><a href="https://github.com/mattn/gist-vim">gist-vim plugin</a></li>
+<li><a href="https://github.com/davidhalter/jedi-vim">jedi-vim plugin</a></li>
+<li><a href="https://github.com/SirVer/ultisnips">Snippets plugin</a></li>
+<li><a href="https://github.com/honza/vim-snippets">Pacote com vários plugins</a></li>
+<li><a href="https://github.com/elyezer/.vim">.vim Elyézer</a></li>
+</ul>
+<h1 id="entrando-e-saindo-do-modo-de-edição-no-vim">Entrando e saindo do modo de edição no Vim</h1>
+<p>Durante o episódio foi comentado do modo de inserção (edição) porém
+faltaram as teclas. Ao entrar no Vim, ao digitar &quot;i&quot;, você entrará no
+modo de inserção e poderá digitar textos livremente como em qualquer
+outro editor.</p>
+<p>Para retornar ao modo normal, basta pressionar <code>Esc</code>. Lembre-se que
+neste modo é onde você irá executar os comandos como <code>:q</code> para sair,
+<code>:w</code> para salvar o arquivo (ou <code>:w teste.txt</code> para salvar como
+teste.txt), <code>:x</code> para salvar e sair, entre outros.</p>
+<p>Seleções visuais são feitas no modo visual, que pode ser acessado a partir do
+modo normal utilizando a tecla <code>v</code>, desta forma você poderá realizar a seleção
+caracter por caracter. <code>Shift+v</code> (<code>V</code>) para
+entrar no modo visual, mas selecionando linhas. Ao realizar uma seleção
+utilize <code>y</code> para copiar e, no modo normal, <code>p</code> para colar.</p>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/episodio-55-vim.png"/><enclosure url="https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3" length="25001938" type="audio/mpeg"/></item><item><title>Enrico Nicoletto E Rafael Ferreira: Projeto GNOME</title><link>https://castalio.info/episodes/enrico-nicoletto-e-rafael-ferreira-projeto-gnome/</link><pubDate>Tue, 03 Sep 2013 01:11:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-54/castalio-podcast-54.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Enrico Nicoletto E Rafael Ferreira: Projeto GNOME</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Depois de vários meses sem &quot;fora do ar&quot;, tenho o grande prazer em trazer
-mais um episódio sobre o projeto <strong>GNOME</strong>! Desta vez convidei o
+Castálio Podcast</itunes:author><itunes:title>Enrico Nicoletto E Rafael Ferreira: Projeto GNOME</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Depois de vários meses sem &quot;fora do ar&quot;, tenho o grande prazer em
+trazer mais um episódio sobre o projeto <strong>GNOME</strong>! Desta vez convidei o
 <strong>Enrico Nicoletto</strong> e <strong>Rafael Ferreira</strong> para conversar sobre o
 processo de traduções, que mais uma vez promete entregar mais uma versão
 completamente traduzida para o nosso bom português!</p>
-<p>A entrevista aconteceu &quot;na estrada&quot; quando eu estava voltando de viagem,
-e acabei gravando o episódio de um hotel lá em Richmond no estado da
-Virgínia. Mesmo com alguns problemas iniciais (teve uma hora que minha
-conexão caiu, mas eu consegui voltar logo), eu consegui bater um papo
-super legal com o Enrico e Rafael sobre como todo o processo de
+<p>A entrevista aconteceu &quot;na estrada&quot; quando eu estava voltando de
+viagem, e acabei gravando o episódio de um hotel lá em Richmond no
+estado da Virgínia. Mesmo com alguns problemas iniciais (teve uma hora
+que minha conexão caiu, mas eu consegui voltar logo), eu consegui bater
+um papo super legal com o Enrico e Rafael sobre como todo o processo de
 traduções, desde como eles entraram para a equipe oficial, até como
 chegaram a ser os administradores da equipe brasileira.</p>
-<p>O episódio todo ficou com um pouco mais de 30 minutos, mas para quem quizer
-assistir o <a class="reference external" href="http://bit.ly/136X3jF">vídeo</a> vocês poderão escutar sobre outros temas que acabaram
-ficando de fora na hora da edição (devido ao tamanho final do podcast), como
-seus planos para o futuro da equipe.</p>
+<p>O episódio todo ficou com um pouco mais de 30 minutos, mas para quem
+quizer assistir o <a href="http://bit.ly/136X3jF">vídeo</a> vocês poderão escutar
+sobre outros temas que acabaram ficando de fora na hora da edição
+(devido ao tamanho final do podcast), como seus planos para o futuro da
+equipe.</p>
+<p>Aproveito a oportunidade para agradecer todo o apoio que tenho recebido
+nestes últimos meses, especialmente de vocês que continuam acompanhando
+o podcast e a todo o pessoal do <a href="http://www.ubuntero.com.br/">OpenCast</a>
+e <a href="http://papodebuteco.net/">Papo de Buteco</a>! Minha vida profissional
+passou por algumas alterações (positivas) e infelizmente meu tempo livre
+sofreu bastante, mas pretendo continuar publicando outros episódios, mas
+talvez com menos frequência.</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-54" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-54/castalio-podcast-54.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-54/castalio-podcast-54.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Equipe GNOME Brasil</strong>: https://l10n.gnome.org/teams/pt_BR/</li>
+<li><strong>Google+</strong>: <a href="https://plus.google.com/u/0/103658771112274596272/about">https://plus.google.com/u/0/103658771112274596272/about</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/exawarrior">https://twitter.com/exawarrior</a></li>
+<li><strong>Linkedin</strong>: <a href="http://br.linkedin.com/pub/dir/Enrico/Nicoletto">br.linkedin.com/pub/dir/Enrico/Nicoletto</a></li>
+</ul>
+<h2>Top 5</h2><h3>Aplicativos:</h3><ol><li><a href="https://poedit.net/" target="_blank">Poedit</a></li><li><a href="https://wiki.gnome.org/Apps/Gedit" target="_blank">Gedit</a></li><li>Open-Tran</li><li><a href="http://meldmerge.org/" target="_blank">Meld</a></li><li><a href="https://sourceforge.net/projects/decker/" target="_blank">Decker</a></li><li><a href="https://l10n.gnome.org/about/" target="_blank">Damned Lies</a></li><li><a href="https://www.transifex.com/" target="_blank">Transifex</a></li><li><a href="https://launchpad.net/" target="_blank">Launchpad</a></li><li><a href="http://toolkit.translatehouse.org/" target="_blank">Translate Toolkit</a></li><li><a href="http://notepad-plus-plus.org/" target="_blank">Notepad&#43;&#43;</a></li><li><a href="https://mpc-hc.org/" target="_blank">Media Player Classic</a></li><li><a href="https://www.thunderbird.net/en-US/" target="_blank">Thunderbird</a></li><li><a href="https://www.audacityteam.org/" target="_blank">Audacity</a></li><li><a href="https://calibre-ebook.com/" target="_blank">Calibre</a></li><li><a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a></li><li><a href="https://www.google.com/chrome/" target="_blank">Google Chrome</a></li><li><a href="https://wiki.gnome.org/Apps/Terminal" target="_blank">GNOME Terminal</a></li><li><a href="https://www.libreoffice.org/" target="_blank">Libre Office</a></li><li><a href="https://en.wikipedia.org/wiki/GOM_Player" target="_blank">GOM Player</a></li></ol><h3>Livros:</h3><ol><li><a href="https://pt.wikipedia.org/wiki/B%C3%ADblia" target="_blank">Bíblia</a></li><li>Deus Tem Um Plano Para Você</li><li><a href="https://www.goodreads.com/book/show/628563.Laugh_and_Learn" target="_blank">Laugh and Learn</a></li><li><a href="https://www.goodreads.com/book/show/7632102-how-things-work-encyclopedia" target="_blank">How Things Work Encyclopedia</a></li><li><a href="https://www.goodreads.com/book/show/2260391.Sagarana" target="_blank">Sagarana</a></li><li><a href="https://www.goodreads.com/book/show/5907.The_Hobbit" target="_blank">O Hobbit</a></li><li><a href="https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone" target="_blank">Harry Potter</a></li></ol><h3>Games:</h3><ol><li><a href="https://en.wikipedia.org/wiki/Worms_%28series%29" target="_blank">Worms</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0327210/" target="_blank">Tio Nino</a></li><li><a href="https://www.imdb.com/title/tt8737840/" target="_blank">Uma Professora Muito Maluquinha</a></li><li><a href="https://www.imdb.com/title/tt1261393/" target="_blank">El Estudiante</a></li><li><a href="https://www.imdb.com/title/tt0086567/" target="_blank">War Games</a></li><li><a href="https://www.imdb.com/title/tt0109288/" target="_blank">Blankman</a></li><li><a href="https://www.imdb.com/title/tt1386703/" target="_blank">Total Recall</a></li><li><a href="https://www.imdb.com/title/tt1212450/" target="_blank">Lawless</a></li><li><a href="https://www.imdb.com/title/tt0113568/" target="_blank">Ghost in the Shell</a></li><li><a href="https://www.imdb.com/title/tt1924429/" target="_blank">Trance</a></li><li><a href="https://www.imdb.com/title/tt0167404/" target="_blank">O Sexto Sentido</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/The&#43;Strokes" target="_blank">The Strokes</a></li><li><a href="https://www.last.fm/music/Arcade&#43;Fire" target="_blank">Arcade Fire</a></li><li><a href="https://www.last.fm/music/Falamansa" target="_blank">Falamansa</a></li><li><a href="https://www.last.fm/music/Quatro&#43;por&#43;Um" target="_blank">Quatro por Um</a></li><li><a href="https://www.last.fm/music/Fernandinho" target="_blank">Fernandinho</a></li><li><a href="https://www.last.fm/music/Bryan&#43;Adams" target="_blank">Bryan Adams</a></li><li><a href="https://www.last.fm/music/Bon&#43;Jovi" target="_blank">Bon Jovi</a></li><li><a href="https://www.last.fm/music/Stratovarius" target="_blank">Stratovarius</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Projeto+GNOME">Projeto GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=Damned+Lies">Damned Lies</a></li>
+<li><a href="https://duckduckgo.com/?q=Open-Tran">Open-Tran</a></li>
+<li><a href="https://duckduckgo.com/?q=LDP">LDP</a></li>
+<li><a href="https://duckduckgo.com/?q=Leslie+Watter">Leslie Watter</a></li>
+<li><a href="https://duckduckgo.com/?q=GNOME+Bugzilla">GNOME Bugzilla</a></li>
+<li><a href="https://duckduckgo.com/?q=Projeto+KDE">Projeto KDE</a></li>
+<li><a href="https://duckduckgo.com/?q=C++">C++</a></li>
+<li><a href="https://duckduckgo.com/?q=Vala">Vala</a></li>
+<li><a href="https://duckduckgo.com/?q=Arch+Linux">Arch Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Papo+de+Buteco">Papo de Buteco (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=Open+Cast">Open Cast</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/gnome.png"/><enclosure url="https://archive.org/download/castalio-podcast-54/castalio-podcast-54.mp3" length="32928821" type="audio/mpeg"/></item><item><title>Everaldo Canuto: Toca Do Canuto</title><link>https://castalio.info/episodes/everaldo-canuto-toca-do-canuto/</link><pubDate>Mon, 18 Mar 2013 02:54:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-53/castalio-podcast-53.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Everaldo Canuto: Toca Do Canuto</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Eu conheci o <strong>Everaldo</strong> em uma tarde super calorenta durante a
+Castálio Podcast</itunes:author><itunes:title>Everaldo Canuto: Toca Do Canuto</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Eu conheci o <strong>Everaldo</strong> em uma tarde super calorenta durante a
 abertura do evento <strong>GUADEC</strong> nas <strong>Ilhas Canárias</strong>. O mais
 interessante foi que não demorou mais que um dia para que nossa amizade
-se tornasse igual aquelas amizades que fazemos quando criança... aquelas
-pessoas que não importa o tempo ou a distância, você sempre fica feliz
-de encontrar e bater um papo!</p>
-<p>O Everaldo teve uma das oportunidades que eu sempre sonhei em ter: trabalhar
-lado a lado com o <strong>Miguel de Icaza</strong>, um dos fundadores do <strong>Projeto GNOME</strong>,
-figura quase que mitológica do mundo do software livre e hoje empresário com
-várias companhias de sucesso em seu histórico! Ele também trabalhava com
-a tecnologia .NET numa época quando qualquer coisa que fosse remotamente
-relacianada à Microsoft era motivo para perseguição e &quot;trollage&quot; pelos
-apoiadores mais zelosos do Linux.  Durante grande parte de nosso bate-papo,
-conversamos sobre como que ele foi parar na <strong>Novell</strong> trabalhando para
-a equipe do Miguel, como era o dia-a-dia lidando com o sentimento
-anti-&nbsp;Microsoft, quais tecnologias ele recomenda para quem está começando
-a trabalhar na área de TI, o &quot;problema&quot; do <strong>Java</strong>, e sobre seu mais novo
-projeto, <a class="reference external" href="http://www.youtube.com/user/tocadocanuto?feature=g-subs-u">Toca do Canuto</a>.</p>
+se tornasse igual aquelas amizades que fazemos quando criança...
+aquelas pessoas que não importa o tempo ou a distância, você sempre fica
+feliz de encontrar e bater um papo!</p>
+<p>O Everaldo teve uma das oportunidades que eu sempre sonhei em ter:
+trabalhar lado a lado com o <strong>Miguel de Icaza</strong>, um dos fundadores do
+<strong>Projeto GNOME</strong>, figura quase que mitológica do mundo do software
+livre e hoje empresário com várias companhias de sucesso em seu
+histórico! Ele também trabalhava com a tecnologia .NET numa época quando
+qualquer coisa que fosse remotamente relacianada à Microsoft era motivo
+para perseguição e &quot;trollage&quot; pelos apoiadores mais zelosos do Linux.
+Durante grande parte de nosso bate-papo, conversamos sobre como que ele
+foi parar na <strong>Novell</strong> trabalhando para a equipe do Miguel, como era o
+dia-a-dia lidando com o sentimento anti- Microsoft, quais tecnologias
+ele recomenda para quem está começando a trabalhar na área de TI, o
+&quot;problema&quot; do <strong>Java</strong>, e sobre seu mais novo projeto, <a href="http://www.youtube.com/user/tocadocanuto?feature=g-subs-u">Toca do
+Canuto</a>.</p>
+<p>Assista o <a href="http://bit.ly/Z8tFWJ">vídeo</a> da entrevista para ver a nossa
+conversa na íntegra, sem edição e escutar algumas coisas que não foram
+incluídas no podcast.</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-53" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-53/castalio-podcast-53.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-53/castalio-podcast-53.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Toca do Canuto</strong>:  http://www.youtube.com/user/tocadocanuto?feature=g-subs-u</li>
+<li><strong>Google Plus</strong>:  https://plus.google.com/107474108478986239078/about</li>
+<li><strong>Github</strong>:  https://github.com/ecanuto</li>
+<li><strong>Facebook</strong>:  https://www.facebook.com/tocacanuto?fref=ts</li>
+</ul>
+<h2>Top 5</h2><h3>Aplicativos:</h3><ol><li><a href="http://www.openssh.com/" target="_blank">OpenSSH</a></li><li><a href="https://git-scm.com/" target="_blank">Git</a></li><li><a href="https://daringfireball.net/projects/markdown/" target="_blank">Markdown</a></li><li><a href="https://en.wikipedia.org/wiki/Google_Hangouts" target="_blank">Google Hangouts</a></li><li><a href="https://www.youtube.com/" target="_blank">YouTube</a></li><li><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">HTML5</a></li><li><a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS3</a></li></ol><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/13511997-o-homem-da-areia" target="_blank">O Homem da Areia</a></li><li><a href="https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle" target="_blank">Arthur Conan Doyle</a></li><li><a href="https://www.goodreads.com/book/show/3574387-deus-um-del-rio" target="_blank">Deus, Um Delírio</a></li><li><a href="https://www.goodreads.com/book/show/5907.The_Hobbit" target="_blank">O Hobbit</a></li><li><a href="https://www.goodreads.com/book/show/968.The_Da_Vinci_Code" target="_blank">O Código Da Vinci</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Tit%C3%A3s" target="_blank">Titãs</a></li><li><a href="https://www.last.fm/music/Legi%C3%A3o&#43;Urbana" target="_blank">Legião Urbana</a></li><li><a href="https://www.last.fm/music/Engenheiros&#43;Do&#43;Hawaii" target="_blank">Engenheiros do Hawaii</a></li><li><a href="https://www.last.fm/music/Pink&#43;Floyd" target="_blank">Pink Floyd</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=GUADEC">GUADEC</a></li>
+<li><a href="https://duckduckgo.com/?q=Intel">Intel</a></li>
+<li><a href="https://duckduckgo.com/?q=Moblin">Moblin</a></li>
+<li><a href="https://duckduckgo.com/?q=Processador+Atom">Processador Atom</a></li>
+<li><a href="https://duckduckgo.com/?q=Ilhas+Can%C3%A1rias">Ilhas Canárias</a></li>
+<li><a href="https://duckduckgo.com/?q=Novell">Novell</a></li>
+<li><a href="https://duckduckgo.com/?q=Miguel+de+Icaza">Miguel de Icaza</a></li>
+<li><a href="https://duckduckgo.com/?q=Projeto+Ximian">Projeto Ximian</a></li>
+<li><a href="https://duckduckgo.com/?q=Projeto+GNOME">Projeto GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=Richard+Stallman">Richard Stallman</a></li>
+<li><a href="https://duckduckgo.com/?q=DBASE+III+Plus">DBASE III Plus</a></li>
+<li><a href="https://duckduckgo.com/?q=Apache+Web+Server">Apache Web Server</a></li>
+<li><a href="https://duckduckgo.com/?q=PHP">PHP</a></li>
+<li><a href="https://duckduckgo.com/?q=Delphi">Delphi</a></li>
+<li><a href="https://duckduckgo.com/?q=.NET">.NET</a></li>
+<li><a href="https://duckduckgo.com/?q=Java">Java</a></li>
+<li><a href="https://duckduckgo.com/?q=Sun+Corporation">Sun Corporation</a></li>
+<li><a href="https://duckduckgo.com/?q=Microsoft">Microsoft</a></li>
+<li><a href="https://duckduckgo.com/?q=Mono">Mono</a></li>
+<li><a href="https://duckduckgo.com/?q=DotGNU">DotGNU</a></li>
+<li><a href="https://duckduckgo.com/?q=Andr%C3%A9ia+Gaita">Andréia Gaita</a></li>
+<li><a href="https://duckduckgo.com/?q=Suse+Linux">Suse Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Xen">Xen</a></li>
+<li><a href="https://duckduckgo.com/?q=Nat+Friedman">Nat Friedman</a></li>
+<li><a href="https://duckduckgo.com/?q=Suse+Studio">Suse Studio</a></li>
+<li><a href="https://duckduckgo.com/?q=Windows+Forms">Windows Forms</a></li>
+<li><a href="https://duckduckgo.com/?q=ASP.NET">ASP.NET</a></li>
+<li><a href="https://duckduckgo.com/?q=Moonlight">Moonlight</a></li>
+<li><a href="https://duckduckgo.com/?q=Silverlight">Silverlight</a></li>
+<li><a href="https://duckduckgo.com/?q=ECMA">ECMA</a></li>
+<li><a href="https://duckduckgo.com/?q=Xamarin">Xamarin</a></li>
+<li><a href="https://duckduckgo.com/?q=Editor+gEdit">Editor gEdit</a></li>
+<li><a href="https://duckduckgo.com/?q=Editor+KATE">Editor KATE</a></li>
+<li><a href="https://duckduckgo.com/?q=Power+Shell">Power Shell</a></li>
+<li><a href="https://duckduckgo.com/?q=Toca+do+Canuto">Toca do Canuto (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=GTMeter">GTMeter</a></li>
+<li><a href="https://duckduckgo.com/?q=LoadImpact">LoadImpact</a></li>
+<li><a href="https://duckduckgo.com/?q=Spotify">Spotify</a></li>
+<li><a href="https://duckduckgo.com/?q=Pandora">Pandora</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/everaldocanuto.png"/><enclosure url="https://archive.org/download/castalio-podcast-53/castalio-podcast-53.mp3" length="38422628" type="audio/mpeg"/></item><item><title>Alexandre Gaigalas: Yahoo</title><link>https://castalio.info/episodes/alexandre-gaigalas-yahoo/</link><pubDate>Sun, 03 Mar 2013 21:48:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Alexandre Gaigalas: Yahoo</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Seja bem-vindo à mais um episódio, desta vez com o <a class="reference external" href="http://about.me/alganet">Alexandre Gaigalas</a> que
-trabalha como <strong>engenheiro de software</strong> da <strong>Yahoo</strong> no Brasil! Durante nosso
-bate-papo conversamos sobre o que ele faz na Yahoo, em quais projetos que
-trabalha, e acabei descobrindo que ele é mais um exemplo de uma pessoa que teve
-seu trabalho perante uma comunidade de software livre reconhecido, levando-o
-a ser indicado para trabalhar em uma companhia de nome! Conversamos sobre
-o recente anúncio que a <strong>CEO</strong> <a class="reference external" href="https://en.wikipedia.org/wiki/Marissa_Mayer">Marissa Mayer</a> fez, declatando que não se
-poderá mais trabalhar remotamente na Yahoo, sobre o efeito que isso teve na
-moral dos empregados, e como que a sua vinda está transformando a companhia em
-uma empresa mais moderna e com mais atenção à qualidade de seus produtos
-e bem-estar de seus empregados.</p>
+Castálio Podcast</itunes:author><itunes:title>Alexandre Gaigalas: Yahoo</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Seja bem-vindo à mais um episódio, desta vez com o <a href="http://about.me/alganet">Alexandre
+Gaigalas</a> que trabalha como <strong>engenheiro de
+software</strong> da <strong>Yahoo</strong> no Brasil! Durante nosso bate-papo conversamos
+sobre o que ele faz na Yahoo, em quais projetos que trabalha, e acabei
+descobrindo que ele é mais um exemplo de uma pessoa que teve seu
+trabalho perante uma comunidade de software livre reconhecido, levando-o
+a ser indicado para trabalhar em uma companhia de nome! Conversamos
+sobre o recente anúncio que a <strong>CEO</strong> <a href="https://en.wikipedia.org/wiki/Marissa_Mayer">Marissa
+Mayer</a> fez, declatando que
+não se poderá mais trabalhar remotamente na Yahoo, sobre o efeito que
+isso teve na moral dos empregados, e como que a sua vinda está
+transformando a companhia em uma empresa mais moderna e com mais atenção
+à qualidade de seus produtos e bem-estar de seus empregados.</p>
 <p>Mais uma coisa bacana que aconteceu durante a gravação foi um commit que
-o Alexandre fez ao-vivo para o código do <strong>Respect Doc</strong> em <a class="reference external" href="https://github.com/Respect/Doc/commit/c1b6a473c62253725321eeb4a4125e3c25e709f1">homenagem</a> ao
-podcast! :)</p>
+o Alexandre fez ao-vivo para o código do <strong>Respect Doc</strong> em
+<a href="https://github.com/Respect/Doc/commit/c1b6a473c62253725321eeb4a4125e3c25e709f1">homenagem</a>
+ao podcast! :)</p>
+<p>Também falamos de programação <strong>RESTful</strong>, <strong>web semântica</strong>, o <a href="http://respect.li/">Respect
+Project</a> e seu <strong>Top 5</strong>!</p>
+<p>Agradeço ao <a href="https://twitter.com/rafaelrosafu">Rafael Rosa Fu</a> do
+<a href="http://grokpodcast.com/">GrokPodcast</a> e o <a href="https://twitter.com/yourwebmaker">Daniel
+Lima</a> por enviarem suas perguntas!</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Web site</strong>:  http://about.me/alganet</li>
+<li><strong>Facebook</strong>:  https://www.facebook.com/alganet</li>
+<li><strong>Twitter</strong>:  https://twitter.com/alganet</li>
+<li><strong>Linked</strong>:  http://www.linkedin.com/in/alganet</li>
+<li><strong>Github</strong>:  https://github.com/alganet</li>
+<li><strong>Last.fm</strong>:  http://www.last.fm/user/alganet</li>
+<li><strong>Flickr</strong>:  http://www.flickr.com/people/gaigalas/</li>
+<li><strong>InfoQ</strong>: <a href="">Dados na Web Semântica\: padrões e ferramentas</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-52" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-52/castalio-podcast-52.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Aplicativos:</h3><ol><li><a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a></li><li><a href="https://ubuntu.com/" target="_blank">Ubuntu</a></li><li><a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">Firefox</a></li><li><a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a></li><li><a href="https://docs.microsoft.com/pt-br/powershell/" target="_blank">PowerShell</a></li></ol><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/10127019-the-lean-startup" target="_blank">The Lean Startup</a></li><li><a href="https://www.goodreads.com/book/show/6255755-programa-o-extrema-xp-explicada" target="_blank">Programação Extrema (XP) Explicada</a></li><li><a href="https://www.goodreads.com/book/show/9737235-extreme-programmin" target="_blank">Extreme Programming</a></li><li><a href="https://www.goodreads.com/book/show/3574387-deus-um-del-rio" target="_blank">Deus, Um Delírio</a></li><li><a href="https://www.goodreads.com/author/show/1194.Richard_Dawkins" target="_blank">Richard Dawkins</a></li><li><a href="https://www.goodreads.com/book/show/49745462-jogos-da-vida---analise-transacional-relacionament" target="_blank">Jogos Da Vida</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0903747/" target="_blank">Breaking Bad</a></li><li><a href="https://www.imdb.com/title/tt0773262/" target="_blank">Dexter</a></li><li><a href="https://www.imdb.com/title/tt1628033/" target="_blank">Top Gear</a></li><li><a href="https://www.imdb.com/title/tt0804503/" target="_blank">Mad Men</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Mamonas&#43;Assassinas" target="_blank">Mamonas Assassinas</a></li><li><a href="https://www.last.fm/music/Megadeth" target="_blank">Megadeth</a></li><li><a href="https://www.last.fm/music/Shadow&#43;Gallery" target="_blank">Shadow Gallery</a></li><li><a href="https://www.last.fm/music/Unisonic" target="_blank">Unisonic</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Yahoo">Yahoo</a></li>
+<li><a href="https://duckduckgo.com/?q=Yahoo+Memo">Yahoo Memo</a></li>
+<li><a href="https://duckduckgo.com/?q=Yahoo+Profile">Yahoo Profile</a></li>
+<li><a href="https://duckduckgo.com/?q=Yahoo+Mail">Yahoo Mail</a></li>
+<li><a href="https://duckduckgo.com/?q=Windows+8">Windows 8</a></li>
+<li><a href="https://duckduckgo.com/?q=Java+Script">Java Script</a></li>
+<li><a href="https://duckduckgo.com/?q=Github">Github</a></li>
+<li><a href="https://duckduckgo.com/?q=Selenium">Selenium</a></li>
+<li><a href="https://duckduckgo.com/?q=Internet+Explorer">Internet Explorer</a></li>
+<li><a href="https://duckduckgo.com/?q=NodeJS">NodeJS</a></li>
+<li><a href="https://duckduckgo.com/?q=Web+Socket">Web Socket</a></li>
+<li><a href="https://duckduckgo.com/?q=Safary+Web+Browser">Safary Web Browser</a></li>
+<li><a href="https://duckduckgo.com/?q=Firefox+Web+Browser">Firefox Web Browser</a></li>
+<li><a href="https://duckduckgo.com/?q=CSS">CSS</a></li>
+<li><a href="https://duckduckgo.com/?q=PHP">PHP</a></li>
+<li><a href="https://duckduckgo.com/?q=Android">Android</a></li>
+<li><a href="https://duckduckgo.com/?q=Grok+Podcast">Grok Podcast</a></li>
+<li><a href="https://duckduckgo.com/?q=Rafael+Rosa+Fu">Rafael Rosa Fu (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=Marissa+Meyer">Marissa Meyer</a></li>
+<li><a href="https://duckduckgo.com/?q=Google+Search">Google Search</a></li>
+<li><a href="https://duckduckgo.com/?q=Google+Maps">Google Maps</a></li>
+<li><a href="https://duckduckgo.com/?q=Daniel+Lima">Daniel Lima (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=RestFul">RestFul</a></li>
+<li><a href="https://duckduckgo.com/?q=Web+Sem%C3%A2ntica">Web Semântica</a></li>
+<li><a href="https://duckduckgo.com/?q=HTTP">HTTP</a></li>
+<li><a href="https://duckduckgo.com/?q=Tableless">Tableless</a></li>
+<li><a href="https://duckduckgo.com/?q=Rails+Framework">Rails Framework</a></li>
+<li><a href="https://duckduckgo.com/?q=Django+Framework">Django Framework</a></li>
+<li><a href="https://duckduckgo.com/?q=CakePHP">CakePHP</a></li>
+<li><a href="https://duckduckgo.com/?q=RFC1626">RFC1626</a></li>
+<li><a href="https://duckduckgo.com/?q=HTML">HTML</a></li>
+<li><a href="https://duckduckgo.com/?q=RDF">RDF</a></li>
+<li><a href="https://duckduckgo.com/?q=XML+Schema">XML Schema</a></li>
+<li><a href="https://duckduckgo.com/?q=InfoQ">InfoQ</a></li>
+<li><a href="https://duckduckgo.com/?q=Formato+JSON">Formato JSON</a></li>
+<li><a href="https://duckduckgo.com/?q=Formato+Atom">Formato Atom</a></li>
+<li><a href="https://duckduckgo.com/?q=Respect+Project">Respect Project (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=Editor+Vim">Editor Vim</a></li>
+<li><a href="https://duckduckgo.com/?q=Editor+Nano">Editor Nano</a></li>
+<li><a href="https://duckduckgo.com/?q=Respect+Rest">Respect Rest</a></li>
+<li><a href="https://duckduckgo.com/?q=PHP+Engine">PHP Engine</a></li>
+<li><a href="https://duckduckgo.com/?q=Respect+Config">Respect Config</a></li>
+<li><a href="https://duckduckgo.com/?q=Dependency+Injection">Dependency Injection</a></li>
+<li><a href="https://duckduckgo.com/?q=Respect+Doc">Respect Doc</a></li>
+<li><a href="https://duckduckgo.com/?q=PHP+Documenter">PHP Documenter</a></li>
+<li><a href="https://duckduckgo.com/?q=Cygwin">Cygwin</a></li>
+<li><a href="https://duckduckgo.com/?q=Firebug">Firebug</a></li>
+<li><a href="https://duckduckgo.com/?q=DOM+Inspector">DOM Inspector</a></li>
+<li><a href="https://duckduckgo.com/?q=Netflix">Netflix</a></li>
+<li><a href="https://duckduckgo.com/?q=House+of+Cards">House of Cards</a></li>
+<li><a href="https://duckduckgo.com/?q=Metodologia+%C3%81gil">Metodologia Ágil</a></li>
+<li><a href="https://duckduckgo.com/?q=William+Sanders">William Sanders</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/alexandregaigalas.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3" length="54794150" type="audio/mpeg"/></item><item><title>Edição De 2 Anos - Og Maciel: Red Hat</title><link>https://castalio.info/episodes/edicao-de-2-anos-og-maciel-red-ha/</link><pubDate>Mon, 18 Feb 2013 16:15:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-51/castalio-podcast-51.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Edição De 2 Anos - Og Maciel: Red Hat</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Usando um velho cliché, realmente parece que foi somente ôntem que eu e
+Castálio Podcast</itunes:author><itunes:title>Edição De 2 Anos - Og Maciel: Red Hat</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Usando um velho cliché, realmente parece que foi somente ôntem que eu e
 o Evandro, um dia batendo papo pelo Skype, resolvemos iniciar um
 programa de podcast para entrevistar as personalidades do mundo de
 software livre brasileiro, e tentar conhecer um pouco mais sobre os
 &quot;bastidores&quot; de suas vidas, seus gostos e desgostos. A idéia era fazer
 algo diferente e tentar passar para os ouvintes um pouco das coisas que
 afetaram a vida das pessoas que muitos só conhecem através de perfís
-online ou e-mails em listas de discussões... enfim, um podcast &quot;bom para
-castálio&quot;! Passados 50 episódios, no dia 16 de fevereiro este projeto
-completou <strong>2 anos de vida</strong>!</p>
-<p>Para comemorar este nosso marco histórico, resolvi atender os pedidos de alguns
-ouvintes e tentar novamente publicar uma entrevista comigo mesmo!  Para as
-pessoas que acompanham o podcast, vocês devem se lembrar que o nosso <a class="reference external" href="http://bit.ly/12YS1pU">episódio
-piloto</a> foi comigo também, numa época onde ainda estávamos explorando um
-formato e testando as tecnologias que iríamos usar. Naquela época nem existia
-o Top 5 ainda!  Então, uma vez que decidi fazer a entrevista &quot;Part 2&quot;, eu
-precisava encontrar alguém para me entrevistar, já que o Evandro não participa
-desde o terceiro episódio. Duas pessoas se prontificaram a desempenhar este
-papel, todos eles amigos que me conhecem há alguns anos e mais que capazes de
-fazer perguntas interessantes... e no final eu pedi ao meu amigo <strong>KurtKraut</strong>
-(que já foi entrevistado <a class="reference external" href="http://bit.ly/VAfGLG">aqui</a>) para me entrevistar.</p>
-<p>O nosso bate-papo, que foi publicado ao vivo pelo <a class="reference external" href="http://bit.ly/12MJKVZ">Youtube</a>, rolou por mais
-de 1 hora, e durante estes 60+ minutos conversamos sobre a origem do meu nome,
-como que eu vim parar nos Estados Unidos há 21 anos atrás, minha carreira como
-programador, minha vinda para a Carolina do Norte, sobre o Ubuntu, compilando
-kernels, trabalhando na Red Hat, privacidade, e meu Top 5!</p>
+online ou e-mails em listas de discussões... enfim, um podcast &quot;bom
+para castálio&quot;! Passados 50 episódios, no dia 16 de fevereiro este
+projeto completou <strong>2 anos de vida</strong>!</p>
+<p>Para comemorar este nosso marco histórico, resolvi atender os pedidos de
+alguns ouvintes e tentar novamente publicar uma entrevista comigo mesmo!
+Para as pessoas que acompanham o podcast, vocês devem se lembrar que o
+nosso <a href="http://bit.ly/12YS1pU">episódio piloto</a> foi comigo também, numa
+época onde ainda estávamos explorando um formato e testando as
+tecnologias que iríamos usar. Naquela época nem existia o Top 5 ainda!
+Então, uma vez que decidi fazer a entrevista &quot;Part 2&quot;, eu precisava
+encontrar alguém para me entrevistar, já que o Evandro não participa
+desde o terceiro episódio. Duas pessoas se prontificaram a desempenhar
+este papel, todos eles amigos que me conhecem há alguns anos e mais que
+capazes de fazer perguntas interessantes... e no final eu pedi ao meu
+amigo <strong>KurtKraut</strong> (que já foi entrevistado
+<a href="http://bit.ly/VAfGLG">aqui</a>) para me entrevistar.</p>
+<p>O nosso bate-papo, que foi publicado ao vivo pelo
+<a href="http://bit.ly/12MJKVZ">Youtube</a>, rolou por mais de 1 hora, e durante
+estes 60+ minutos conversamos sobre a origem do meu nome, como que eu
+vim parar nos Estados Unidos há 21 anos atrás, minha carreira como
+programador, minha vinda para a Carolina do Norte, sobre o Ubuntu,
+compilando kernels, trabalhando na Red Hat, privacidade, e meu Top 5!</p>
+<p><strong>Bastidores</strong>: quando gravamos a entrevista, nós tivemos que lutar
+contra alguns problemas técnicos e depois de muita tentativa tivemos que
+fazer uma decisão importante: ou gravar a entrevista somente por áudio
+usando o Skype e não ter o vídeo, ou gravar o vídeo mas sem que a voz do
+KurtKraut fosse gravada! No final das contas, esprememos nossos cérebros
+e conseguimos fazer as duas coisas juntas. No vídeo vocês escutam a voz
+do Kurt saindo das caixas de som do meu laptop, enquanto conversávamos
+pelo Skype usando outro sistema! :)</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-51" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-51/castalio-podcast-51.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-51/castalio-podcast-51.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Website</strong>: <a href="http://www.ogmaciel.com">http://www.ogmaciel.com</a></li>
+<li><strong>Blog</strong>: <a href="http://ogmaciel.tumblr.com/">http://ogmaciel.tumblr.com/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/OgMaciel">https://twitter.com/OgMaciel</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/og.maciel">https://www.facebook.com/og.maciel</a></li>
+<li><strong>Google+</strong>: <a href="https://plus.google.com/u/0/101951976359009287197/about">https://plus.google.com/u/0/101951976359009287197/about</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/omaciel">https://github.com/omaciel</a></li>
+<li><strong>Bitbucket</strong>: <a href="https://bitbucket.org/omaciel">https://bitbucket.org/omaciel</a></li>
+<li><strong>Last.fm</strong>: <a href="http://www.last.fm/user/OgMaciel">http://www.last.fm/user/OgMaciel</a></li>
+<li><strong>LinkedIn</strong>: <a href="http://www.linkedin.com/pub/og-maciel/7/425/257/">http://www.linkedin.com/pub/og-maciel/7/425/257/</a></li>
+<li><strong>GoodReads</strong>: <a href="http://www.goodreads.com/user/show/12048315-og-maciel">http://www.goodreads.com/user/show/12048315-og-maciel</a></li>
+</ul>
+<h2>Top 5</h2><h3>Aplicativos:</h3><ol><li><a href="https://www.vim.org/" target="_blank">Vim</a></li><li><a href="https://www.gnu.org/software/emacs/" target="_blank">Emacs</a></li><li><a href="http://openbox.org/" target="_blank">Openbox</a></li><li><a href="http://i3wm.org/" target="_blank">i3</a></li><li><a href="http://ipython.org" target="_blank">iPython</a></li><li><a href="http://www.tenshu.net/p/terminator.html" target="_blank">Terminator</a></li><li><a href="https://git-scm.com/" target="_blank">Git</a></li></ol><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/author/show/1357307.Maria_Jos_Dupr_" target="_blank">Maria José Dupré</a></li><li><a href="https://www.goodreads.com/book/show/5088147-o-cachorrinho-samba" target="_blank">O Cachorrinho Samba</a></li><li><a href="https://www.goodreads.com/book/show/3190084-a-mina-de-ouro" target="_blank">A Mina de Ouro</a></li><li><a href="https://www.goodreads.com/book/show/5069870-a-montanha-encantada" target="_blank">A Montanha Encantada</a></li><li><a href="https://www.goodreads.com/author/show/2450573.Monteiro_Lobato" target="_blank">Monteiro Lobato</a></li><li><a href="https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume" target="_blank">Série Vaga-lume</a></li><li><a href="https://www.goodreads.com/book/show/7508927-o-s-tio-do-picapau-amarelo" target="_blank">O Sítio do Picapau Amarelo</a></li><li><a href="https://www.goodreads.com/author/show/16667.Isaac_Asimov" target="_blank">Isaac Asimov</a></li><li><a href="https://www.goodreads.com/author/show/696805.Jules_Verne" target="_blank">Jules Verne</a></li><li><a href="https://www.goodreads.com/author/show/903.Homer" target="_blank">Homero</a></li><li><a href="https://www.goodreads.com/book/show/24986678-a-odisseia" target="_blank">A Odisseia</a></li><li><a href="https://www.goodreads.com/author/show/1244.Mark_Twain" target="_blank">Mark Twain</a></li><li><a href="https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer" target="_blank">The Adventures of Tom Sawyer</a></li><li><a href="https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe" target="_blank">Edgar Allan Poe</a></li><li><a href="https://www.goodreads.com/author/show/358998.Kit_Carson" target="_blank">Kit Carson</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0083658/" target="_blank">Blade Runner</a></li><li><a href="https://www.imdb.com/title/tt0060196/" target="_blank">The Good, The Bad and The Ugly</a></li><li><a href="https://www.imdb.com/title/tt0060155/" target="_blank">Beau Geste</a></li><li><a href="https://pt.wikipedia.org/wiki/Sess%C3%A3o_da_Tarde" target="_blank">Sessão da Tarde</a></li><li><a href="https://www.imdb.com/title/tt0143073/" target="_blank">Os Trapalhões</a></li><li><a href="https://www.imdb.com/title/tt0110912/" target="_blank">Pulp Fiction</a></li><li><a href="https://www.imdb.com/title/tt0208092/" target="_blank">Snatch</a></li><li><a href="https://www.imdb.com/title/tt0365737/" target="_blank">Syriana</a></li><li><a href="https://www.imdb.com/title/tt1124035/" target="_blank">The Ides of March</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Legi%C3%A3o&#43;Urbana" target="_blank">Legião Urbana</a></li><li><a href="https://www.last.fm/music/Os&#43;Paralamas&#43;Do&#43;Sucesso" target="_blank">Os Paralamas do Sucesso</a></li><li><a href="https://www.last.fm/music/Ultraje&#43;A&#43;Rigor" target="_blank">Ultraje a Rigor</a></li><li><a href="https://www.last.fm/music/Tit%C3%A3s" target="_blank">Titãs</a></li><li><a href="https://www.last.fm/music/Bar%C3%A3o&#43;Vermelho" target="_blank">Barão Vermelho</a></li><li><a href="https://www.last.fm/music/Capital&#43;Inicial" target="_blank">Capital Inicial</a></li><li><a href="https://www.last.fm/music/Dire&#43;Straits" target="_blank">Dire Straits</a></li><li><a href="https://www.last.fm/music/Pink&#43;Floyd" target="_blank">Pink Floyd</a></li><li><a href="https://www.last.fm/music/Led&#43;Zeppelin" target="_blank">Led Zeppelin</a></li><li><a href="https://www.last.fm/music/The&#43;Doors" target="_blank">The Doors</a></li><li><a href="https://www.last.fm/music/The&#43;Cure" target="_blank">The Cure</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Og+Mandino">Og Mandino</a></li>
+<li><a href="https://duckduckgo.com/?q=Fernando+Collor+de+Mello">Fernando Collor de Mello</a></li>
+<li><a href="https://duckduckgo.com/?q=rPath">rPath</a></li>
+<li><a href="https://duckduckgo.com/?q=Red+Hat">Red Hat</a></li>
+<li><a href="https://duckduckgo.com/?q=Visual+Basic">Visual Basic</a></li>
+<li><a href="https://duckduckgo.com/?q=PL/SQL">PL/SQL</a></li>
+<li><a href="https://duckduckgo.com/?q=Oracle">Oracle</a></li>
+<li><a href="https://duckduckgo.com/?q=.NET">.NET</a></li>
+<li><a href="https://duckduckgo.com/?q=Richard+Stallman">Richard Stallman</a></li>
+<li><a href="https://duckduckgo.com/?q=Slackware+Linux">Slackware Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Gentoo+Linux">Gentoo Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Fedora+Linux">Fedora Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Github">Github</a></li>
+<li><a href="https://duckduckgo.com/?q=Bitbucket">Bitbucket</a></li>
+<li><a href="https://duckduckgo.com/?q=Google+Reader">Google Reader</a></li>
+<li><a href="https://duckduckgo.com/?q=Twitter">Twitter</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+Brasil">Ubuntu Brasil</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+Linux">Ubuntu Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Foresight+Linux">Foresight Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=GNOME">GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+UDS">Ubuntu UDS</a></li>
+<li><a href="https://duckduckgo.com/?q=IRC">IRC</a></li>
+<li><a href="https://duckduckgo.com/?q=Xfce">Xfce</a></li>
+<li><a href="https://duckduckgo.com/?q=LXDE">LXDE</a></li>
+<li><a href="http://openbox.org/">Openbox</a></li>
+<li><a href="https://duckduckgo.com/?q=Fabiano+Fid%C3%AAncio">Fabiano Fidêncio</a></li>
+<li><a href="https://duckduckgo.com/?q=Google+Summer+of+Code">Google Summer of Code</a></li>
+<li><a href="https://duckduckgo.com/?q=Miguel+de+Icaza">Miguel de Icaza</a></li>
+<li><a href="https://duckduckgo.com/?q=Python">Python</a></li>
+<li><a href="https://duckduckgo.com/?q=Selenium">Selenium</a></li>
+<li><a href="https://duckduckgo.com/?q=SCRUM">SCRUM</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/ogmaciel.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-51/castalio-podcast-51.mp3" length="63642468" type="audio/mpeg"/></item><item><title>Luciano Ramalho: Oficinas Turing</title><link>https://castalio.info/episodes/luciano-ramalho-oficinas-turing/</link><pubDate>Tue, 05 Feb 2013 03:47:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-50/castalio-podcast-50.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Luciano Ramalho: Oficinas Turing</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Um dias destes eu estava procurando documentação sobre umas coisas da
+Castálio Podcast</itunes:author><itunes:title>Luciano Ramalho: Oficinas Turing</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Um dias destes eu estava procurando documentação sobre umas coisas da
 linguagem python quando me deparei com uma apresentação do <strong>Luciano
 Ramalho</strong>, o entrevistado deste episódio deste episódio. O que me chamou
 atenção não foi nem tanto a qualidade do material ou a didática do
@@ -1372,76 +1816,376 @@ trabalha com python, o nome do Luciano não lhe deve ser estranho. Mas
 para mim, que moro há 21 anos no exterior, foi uma descoberta super
 maneira!</p>
 <p>Quanto mais eu pesquisei sobre ele, mais animado eu ficava em conhecer &quot;a
-pessoa por trás dos slides&quot; das apresentações <a class="reference external" href="https://speakerdeck.com/ramalho/python-encapsulation-with-descriptors">Python - Encapsulation with
-Descriptors</a> e <a class="reference external" href="https://speakerdeck.com/ramalho/iterators-and-generators-the-python-way">Iterators &amp; generators: the Python Way</a>.  Mais gostoso ainda
-foi descobrir que estas <strong>apresentações são inéditas</strong> no público brasileiro
-e serão apresentadas na <a class="reference external" href="https://us.pycon.org/2013/">PyCon</a> americana este ano!&nbsp;Durante nosso bate-papo,
-o Luciano me contou como que foi a criação da <a class="reference external" href="http://associacao.python.org.br">Associação Python Brasil</a>,
-quais foram seus primeiros objetivos e como foi o seu primeiro mandato como
-presidente da mesma. Também discutimos sobre os vários frameworks que existem
-para quem quer ser programador web com python, alguns fatos interessantes sobre
-o <strong>Zope</strong>, <strong>Plone</strong>, <strong>Flask</strong>, e <strong>Web2Py</strong>, e quais delas ele recomenda
-para quem está iniciando no mundo de programação.</p>
+pessoa por trás dos slides&quot; das apresentações <a href="https://speakerdeck.com/ramalho/python-encapsulation-with-descriptors">Python - Encapsulation with
+Descriptors</a>
+e <a href="https://speakerdeck.com/ramalho/iterators-and-generators-the-python-way">Iterators &amp; generators: the Python
+Way</a>.
+Mais gostoso ainda foi descobrir que estas <strong>apresentações são
+inéditas</strong> no público brasileiro e serão apresentadas na
+<a href="https://us.pycon.org/2013/">PyCon</a> americana este ano! Durante nosso
+bate-papo, o Luciano me contou como que foi a criação da <a href="http://associacao.python.org.br">Associação
+Python Brasil</a>, quais foram seus
+primeiros objetivos e como foi o seu primeiro mandato como presidente da
+mesma. Também discutimos sobre os vários frameworks que existem para
+quem quer ser programador web com python, alguns fatos interessantes
+sobre o <strong>Zope</strong>, <strong>Plone</strong>, <strong>Flask</strong>, e <strong>Web2Py</strong>, e quais delas ele
+recomenda para quem está iniciando no mundo de programação.</p>
+<p>Para quem estiver interessado a aprender a programar, o Luciano também
+oferece cursos online na <a href="http://turing.com.br/wiki/index.php?title=Oficinas_Turing">Oficinas
+Turing</a> para
+iniciantes e programadores com mais experiência, como <a href="http://turing.com.br/wiki/index.php?title=Objetos_Pythonicos">Objetos
+Pythonicos</a>
+e <a href="http://turing.com.br/wiki/index.php?title=Python_para_quem_sabe_Python">Python para quem sabe
+Python</a>.</p>
+<p>Por último falamos sobre o <a href="http://hackerspaces.org/wiki/Garoa_Hacker_Clube">Garoa Hacker
+Clube</a> (<a href="https://www.facebook.com/GaroaHC/photos_stream">fotos</a>),
+um <strong>HackerSpace</strong> que ele criou em São Paulo com uma proposta bem
+interessante: um espaço onde você pode ir para conhecer gente
+interessante e aprender a programar, usar tecnologias recentes como
+<strong>Arduino</strong> e <strong>Rasberry Pi</strong> usando a metodologia &quot;mão na massa&quot;, e
+para quem virar sócio, sua própria chave para usar o espaço/laboratório
+qualquer hora do dia!</p>
+<p>O bate-papo rolou por um bom tempo, e eu tive de editar muita coisa
+bacana, mas você pode assistir o <a href="http://bit.ly/YPOZTO">vídeo</a> da
+entrevista e saber um pouco mais sobre os bastidores da criação da
+Associação Python Brasil e sobre os frameworks discutidos.</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-50" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-50/castalio-podcast-50.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-50/castalio-podcast-50.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/ramalhoorg">https://twitter.com/ramalhoorg</a></li>
+<li><strong>Google Plus</strong>: <a href="https://plus.google.com/116910241204290316157/posts">https://plus.google.com/116910241204290316157/posts</a></li>
+<li><strong>Oficinas Turing:</strong> <a href="http://turing.com.br/wiki/index.php?title=Oficinas_Turing">http://turing.com.br/wiki/index.php?title=Oficinas_Turing</a></li>
+<li><strong>Speaker Deck</strong>: <a href="https://speakerdeck.com/ramalho">https://speakerdeck.com/ramalho</a></li>
+<li><strong>Slideshare</strong>*:* <a href="http://www.slideshare.net/ramalho">http://www.slideshare.net/ramalho</a></li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/13568666-imp-rio-deriva" target="_blank">Império à Deriva</a></li><li><a href="https://www.goodreads.com/book/show/5907.The_Hobbit" target="_blank">O Hobbit</a></li><li><a href="https://www.goodreads.com/book/show/1045984.Esta_o_Carandiru" target="_blank">Estação Carandiru</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0078788/" target="_blank">Apocalypse Now</a></li><li><a href="https://www.imdb.com/title/tt0088846/" target="_blank">Brazil</a></li><li><a href="https://www.imdb.com/title/tt0120737/" target="_blank">O Senhor dos Anéis</a></li><li><a href="https://www.imdb.com/title/tt0903624/" target="_blank">O Hobbit</a></li><li><a href="https://www.imdb.com/title/tt0068646/" target="_blank">O Poderoso Chefão</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Deep&#43;Purple" target="_blank">Deep Purple</a></li><li><a href="https://www.last.fm/music/Frank&#43;Zappa" target="_blank">Frank Zappa</a></li><li><a href="https://www.last.fm/music/Wolfgang&#43;Amadeus&#43;Mozart" target="_blank">Wolfgang Amadeus Mozart</a></li><li><a href="https://www.last.fm/music/Pink&#43;Floyd" target="_blank">Pink Floyd</a></li><li><a href="https://www.last.fm/music/Led&#43;Zeppelin" target="_blank">Led Zeppelin</a></li><li><a href="https://www.last.fm/music/Bj%C3%B6rk" target="_blank">Björk</a></li><li><a href="https://www.last.fm/music/Philip&#43;Glass" target="_blank">Philip Glass</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=SpeakerDeck">SpeakerDeck</a></li>
+<li><a href="https://duckduckgo.com/?q=Python">Python</a></li>
+<li><a href="https://duckduckgo.com/?q=Zope">Zope</a></li>
+<li><a href="https://duckduckgo.com/?q=Plone">Plone</a></li>
+<li><a href="https://duckduckgo.com/?q=CMS">CMS</a></li>
+<li><a href="https://duckduckgo.com/?q=Zope+Brasil">Zope Brasil</a></li>
+<li><a href="https://duckduckgo.com/?q=C++">C++</a></li>
+<li><a href="https://duckduckgo.com/?q=Fortran">Fortran</a></li>
+<li><a href="https://duckduckgo.com/?q=Global+Arrays">Global Arrays</a></li>
+<li><a href="https://duckduckgo.com/?q=Petrobras">Petrobras</a></li>
+<li><a href="https://duckduckgo.com/?q=Django">Django</a></li>
+<li><a href="https://duckduckgo.com/?q=Pyramid">Pyramid</a></li>
+<li><a href="https://duckduckgo.com/?q=Pylons">Pylons</a></li>
+<li><a href="https://duckduckgo.com/?q=ZODB">ZODB</a></li>
+<li><a href="https://duckduckgo.com/?q=Flask">Flask</a></li>
+<li><a href="https://duckduckgo.com/?q=Web2Py">Web2Py</a></li>
+<li><a href="https://duckduckgo.com/?q=Plone+Foundation">Plone Foundation</a></li>
+<li><a href="https://duckduckgo.com/?q=Hora+Extra">Hora Extra</a></li>
+<li><a href="https://duckduckgo.com/?q=Henrique+Bastos">Henrique Bastos</a></li>
+<li><a href="https://duckduckgo.com/?q=Github">Github</a></li>
+<li><a href="https://duckduckgo.com/?q=SlideShare">SlideShare</a></li>
+<li><a href="https://duckduckgo.com/?q=PyCon">PyCon (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=iPython">iPython</a></li>
+<li><a href="https://duckduckgo.com/?q=Kivy+Toolkit">Kivy Toolkit</a></li>
+<li><a href="https://duckduckgo.com/?q=TurboGears">TurboGears</a></li>
+<li><a href="https://duckduckgo.com/?q=Garoa+Hacker+Clube">Garoa Hacker Clube (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=Coding+Dojo">Coding Dojo</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/lucianoramalho.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-50/castalio-podcast-50.mp3" length="35165965" type="audio/mpeg"/></item><item><title>Fabiano Fidêncio: Red Hat</title><link>https://castalio.info/episodes/fabiano-fidencio-red-ha/</link><pubDate>Mon, 21 Jan 2013 02:04:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Fabiano Fidêncio: Red Hat</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
+Castálio Podcast</itunes:author><itunes:title>Fabiano Fidêncio: Red Hat</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Para o primeiro episódio de 2013 eu tive o prazer de entrevistar o
+<strong>Fabiano Fidêncio</strong>, recém contratado pela <strong>Red Hat</strong>! Durante nosso
+bate-papo o Fabiano conta como que ele aprendeu a programar &quot;de
+verdade&quot; na <a href="http://www.profusion.mobi/">ProFUSION</a> e como que de
+usuário <strong>GNOME</strong>, ele se transformou em desenvolvedor quando começou a
+trabalhar no <a href="https://live.gnome.org/Boxes">GNOME Boxes</a> e
+<a href="https://www.redhat.com/mailman/listinfo/libosinfo">libosinfo</a> pelo
+<strong>Google Summer of Code</strong>. Sua participação neste projeto foi muito
+interessante, já que ele teve de aproveitar um código base escrito por
+uma pessoa da Red Hat e refatorar para que ficasse mais limpo e
+genérico, algo que não é super fácil de fazer. O projeto acabou virando
+mais que um hobby, e devido ao seu trabalho o Fabiano acabou sendo
+contratado para trabalhar na Red Hat a partir de março! Não vou revelar
+qual o projeto que ele vai trabalhar (você vai ter de escutar o
+episódio), mas além de trabalho novo, ele também vai se mudar do Brasil
+para uma cidade européia, onde cerveja é mais barato que água!</p>
+<p>Como sempre, a entrevista foi gravada por vídeo e você pode assistir
+nosso bate-papo na íntegra e sem edição <a href="http://bit.ly/Vfblgu">aqui</a>,
+incluindo como que ele está se preparando para se mudar para a europa!</p>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Para o primeiro episódio de 2013 eu tive o prazer de entrevistar o <strong>Fabiano
-Fidêncio</strong>, recém contratado pela <strong>Red Hat</strong>! Durante nosso bate-papo
-o Fabiano conta como que ele aprendeu a programar &quot;de verdade&quot; na <a class="reference external" href="http://www.profusion.mobi/">ProFUSION</a>
-e como que&nbsp;de usuário <strong>GNOME</strong>, ele se transformou em desenvolvedor quando
-começou a trabalhar no <a class="reference external" href="https://live.gnome.org/Boxes">GNOME Boxes</a> e <a class="reference external" href="https://www.redhat.com/mailman/listinfo/libosinfo">libosinfo</a> pelo <strong>Google Summer of
-Code</strong>. Sua participação neste projeto foi muito interessante, já que ele teve
-de aproveitar um código base escrito por uma pessoa da Red Hat e refatorar para
-que ficasse mais limpo e genérico, algo que não é super fácil de fazer.
-O projeto acabou virando mais que um hobby, e devido ao seu trabalho o Fabiano
-acabou sendo contratado para trabalhar na Red Hat a partir de março! Não vou
-revelar qual o projeto que ele vai trabalhar (você vai ter de escutar
-o episódio), mas além de trabalho novo, ele também vai se mudar do Brasil para
-uma cidade européia, onde cerveja é mais barato que água!</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-49" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-49/castalio-podcast-49.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><a href="http://blog.fidencio.org/">Blog</a></li>
+<li><a href="https://plus.google.com/116512253405346448508">Google+</a></li>
+<li><a href="https://www.facebook.com/fabianofidencio">Facebook</a></li>
+<li><a href="https://twitter.com/ffidencio">Twitter</a></li>
+</ul>
+<h2>Top 5</h2><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0412142/" target="_blank">House M.D.</a></li><li><a href="https://www.imdb.com/title/tt0773262/" target="_blank">Dexter</a></li><li><a href="https://www.imdb.com/title/tt0229889/" target="_blank">El Chavo</a></li><li><a href="https://www.imdb.com/name/nm0000233/" target="_blank">Quentin Tarantino</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Tim&#43;Maia?ac=tim%20maia" target="_blank">Tim Maia</a></li><li><a href="https://www.last.fm/music/Criolo" target="_blank">Criolo</a></li><li><a href="https://www.last.fm/music/Arnaldo&#43;Baptista" target="_blank">Arnaldo Baptista</a></li><li><a href="https://www.last.fm/music/Os&#43;Mutantes" target="_blank">Os Mutantes</a></li><li><a href="https://www.last.fm/music/Taquinho&#43;Noronha" target="_blank">Taquinho Noronha</a></li><li><a href="https://www.last.fm/music/The&#43;Name" target="_blank">The Name</a></li><li><a href="https://www.last.fm/music/Club&#43;America" target="_blank">Club America</a></li><li><a href="https://www.last.fm/music/Schoolbell" target="_blank">Schoolbell</a></li><li><a href="https://www.last.fm/music/Bonde&#43;do&#43;Rol%C3%AA" target="_blank">Bonde do Rolê</a></li><li><a href="https://www.last.fm/music/Pink&#43;Floyd" target="_blank">Pink Floyd</a></li><li><a href="https://www.last.fm/music/Led&#43;Zeppelin" target="_blank">Led Zeppelin</a></li><li><a href="https://www.last.fm/music/Pantera" target="_blank">Pantera</a></li><li><a href="https://www.last.fm/music/Miles&#43;Davis?ac=miles" target="_blank">Miles Davis</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Planet+GNOME">Planet GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=Google+Summer+of+Code">Google Summer of Code</a></li>
+<li><a href="https://duckduckgo.com/?q=GOME+Boxes">GOME Boxes</a></li>
+<li><a href="https://duckduckgo.com/?q=libosinfo">libosinfo (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=VMWare+Player">VMWare Player</a></li>
+<li><a href="https://duckduckgo.com/?q=kickstart">kickstart</a></li>
+<li><a href="https://duckduckgo.com/?q=Red+Hat">Red Hat</a></li>
+<li><a href="https://duckduckgo.com/?q=Fedora+Linux">Fedora Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=EFL">EFL</a></li>
+<li><a href="https://duckduckgo.com/?q=Zeeshan+Ali">Zeeshan Ali</a></li>
+<li><a href="https://duckduckgo.com/?q=Daniel+Berrange">Daniel Berrange</a></li>
+<li><a href="https://duckduckgo.com/?q=Virtual+Box">Virtual Box</a></li>
+<li><a href="https://duckduckgo.com/?q=ESX">ESX</a></li>
+<li><a href="https://duckduckgo.com/?q=Samba">Samba</a></li>
+<li><a href="https://duckduckgo.com/?q=NFS">NFS</a></li>
+<li><a href="https://duckduckgo.com/?q=Evolution">Evolution</a></li>
+<li><a href="https://duckduckgo.com/?q=GDM">GDM</a></li>
+<li><a href="https://duckduckgo.com/?q=GTK">GTK</a></li>
+<li><a href="https://duckduckgo.com/?q=Brno">Brno</a></li>
+<li><a href="https://duckduckgo.com/?q=South+by+SouthWest">South by SouthWest</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/fabianofidencio.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3" length="36644273" type="audio/mpeg"/></item><item><title>Julian Fernandes: Ubuntu BR SC</title><link>https://castalio.info/episodes/julian-fernandes-ubuntu-br-sc/</link><pubDate>Mon, 03 Dec 2012 14:21:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Julian Fernandes: Ubuntu BR SC</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
+Castálio Podcast</itunes:author><itunes:title>Julian Fernandes: Ubuntu BR SC</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Demorou mais chegou!!! Devido a <a href="http://www.castalio.info/aviso-aos-navegantes/">problemas
+pessoais</a> eu
+infelizmente fiquei um pouco sem tempo para agendar as minhas
+entrevistas, mas te garanto que foi super difícil para mim deixar de
+publicar a cada 2 semanas. Mas nada como um pouco de tempo para colocar
+a vida de novo nos trilhos, e eu quero agradecer a todos que me enviaram
+mensagems de apoio aqui, por e-mail e pelas várias redes sociais que
+uso!</p>
+<p>Então, para celebrar a nossa volta, quero dedicar este episódio ao
+<a href="http://bit.ly/VfgrTE">André Gondim</a>, que há um ano atrás nos deixou de
+uma forma tão súbita! O André foi parte da vida de muitas pessoas, e na
+minha opinião, a &quot;cara&quot; do Ubuntu no Brasil!</p>
+<p>O convidado deste episódio é o <a href="http://www.julianfernandes.com/">Julian
+Fernandes</a>, um dos criadores e
+mantenedores do <a href="http://www.ubuntubrsc.com/">Ubuntu BR SC</a>, um dos sites
+mais visitados pelos usuários de Linux (e não só usuários do Ubuntu
+Linux, diz o Julian) brasileiros buscando notícias ou tutoriais para dar
+uma &quot;perfumada&quot; em seus sistemas ou configurar algum dispositivo ou
+serviço! Com uma média de 8 a 10 mil visitantes por dia, o Ubuntu BR SC
+conta com uma equipe super dinâmica que está sempre adicionando conteúdo
+ou respondendo os comentários e perguntas de seus visitantes.</p>
+<p>Durante nosso bate-papo conversamos sobre como que o site <strong>Ubuntu BR
+SC</strong> nasceu, quais as ferramentas e tecnologias que são usadas, quem são
+os integrantes da equipe responsável pela geração e seleção de artigos,
+e quais os planos para 2013 (dica: grandes surpresas por vir em
+janeiro!!!). Também falamos sobre seu gosto por música (depois cheque o
+<a href="http://www.youtube.com/user/JuHitoriX">canal</a> que ele tem no
+<strong>Youtube</strong> com algumas de suas apresentações, incluindo ele tocando
+<a href="http://www.youtube.com/watch?v=-wv0K9S7xbA&amp;list=UUVwPM6qoLRlRJJbucSOXzug&amp;index=4&amp;feature=plcp">Knocking on Heavens
+Door</a>),
+o fato dele ter parado a universidade para trabalhar no site, seu Top 5,
+e como que vocês podem ajudar a manter o site no ar!</p>
+<p>Tem também o <a href="http://bit.ly/XgekVI">vídeo</a> da entrevista, mas como o
+Julian teve problemas com a web cam, vocês só vão me ver (e minha barba
+de 1 mês) :)</p>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Demorou mais chegou!!! Devido a <a class="reference external" href="http://www.castalio.info/aviso-aos-navegantes/">problemas pessoais</a> eu infelizmente fiquei
-um pouco sem tempo para agendar as minhas entrevistas, mas te garanto que foi
-super difícil para mim deixar de publicar a cada 2 semanas. Mas nada como um
-pouco de tempo para colocar a vida de novo nos trilhos, e eu quero agradecer
-a todos que me enviaram mensagems de apoio aqui, por e-mail e pelas várias
-redes sociais que uso!</p>
-<p>Então, para celebrar a nossa volta, quero dedicar este episódio ao <a class="reference external" href="http://bit.ly/VfgrTE">André
-Gondim</a>, que há um ano atrás nos deixou de uma forma tão súbita! O André foi
-parte da vida de muitas pessoas, e na minha opinião, a &quot;cara&quot; do Ubuntu no
-Brasil!</p>
-<p>O convidado deste episódio é o <a class="reference external" href="http://www.julianfernandes.com/">Julian Fernandes</a>, um dos criadores
-e mantenedores do <a class="reference external" href="http://www.ubuntubrsc.com/">Ubuntu BR SC</a>, um dos sites mais visitados pelos usuários
-de Linux (e não só usuários do Ubuntu Linux, diz o Julian) brasileiros buscando
-notícias ou tutoriais para dar uma &quot;perfumada&quot; em seus sistemas ou configurar
-algum dispositivo ou serviço! Com uma média de 8 a 10 mil visitantes por dia,
-o Ubuntu BR SC conta com uma equipe super dinâmica que está sempre adicionando
-conteúdo ou respondendo os comentários e perguntas de seus visitantes.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-48" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-48/castalio-podcast-48.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Blog</strong>:  http://www.julianfernandes.com/</li>
+<li><strong>Projeto</strong>:  http://www.ubuntubrsc.com/</li>
+<li><strong>Twitter</strong>:  http://twitter.com/julian_fern</li>
+<li><strong>Facebook</strong>:  https://www.facebook.com/pages/Julian-Fernandes/514117681932235</li>
+<li><strong>Google Plus</strong>:  https://plus.google.com/103732078940971226082</li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/julianfernandes.png"/><enclosure url="https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3" length="48321623" type="audio/mpeg"/></item><item><title>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 2</title><link>https://castalio.info/episodes/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-2/</link><pubDate>Sun, 14 Oct 2012 17:01:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-47/castalio-podcast-47.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 2</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
+Castálio Podcast</itunes:author><itunes:title>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 2</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam muito bem vindos a mais um episódio, desta vez sendo
+publicado da cidade de Brno na República Tcheca (estou aqui à trabalho)!
+Como prometido no último episódio, esta é a segunda parte da entrevista
+que eu fiz com o <strong>Carlos Brando</strong> e <strong>Rafael Rosa Fu</strong> do
+<a href="http://grokpodcast.com/">**GrokPodcast**</a>! Desta vez o assunto da
+vez foi sobre o background de cada um, e algumas coisas bem
+interessantes que cada um já fez em suas vidas. Quem tem 5 gatos? Quem
+já escreveu alguns livros sobre Ruby on Rails? Quem curte comédias e
+quem recentemente assistiu um filme sobre sushi? Escutem o finalzinho do
+nosso bate-papo para descrobir! :)</p>
+<p>Claro que vocês podem também assistir o vídeo da entrevista no canal do
+<a href="http://bit.ly/QDn1p2">Youtube</a>!</p>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Olá pessoal e sejam muito bem vindos a mais um episódio, desta vez sendo
-publicado da cidade de Brno na República Tcheca (estou aqui à trabalho)!  Como
-prometido no último episódio, esta é a segunda parte da entrevista que eu fiz
-com o <strong>Carlos Brando</strong> e <strong>Rafael Rosa Fu</strong> do <a class="reference external" href="http://grokpodcast.com/">**GrokPodcast**</a>! Desta vez
-o assunto da vez foi sobre o background de cada um, e algumas coisas bem
-interessantes que cada um já fez em suas vidas. Quem tem 5 gatos? Quem já
-escreveu alguns livros sobre Ruby on Rails? Quem curte comédias e quem
-recentemente assistiu um filme sobre sushi? Escutem o finalzinho do nosso
-bate-papo para descrobir! :)</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-47" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-47/castalio-podcast-47.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-47/castalio-podcast-47.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>:  http://grokpodcast.com/</li>
+<li><strong>Twitter</strong>:  http://www.twitter.com/GrokPodcast</li>
+<li><strong>Twitter</strong>:  http://twitter.com/carlosbrando</li>
+<li><strong>Twitter</strong>:  http://twitter.com/rafaelrosafu</li>
+</ul>
+<h1 id="resumo">Resumo</h1>
+<ul>
+<li><strong>Apresentação</strong> 00:50</li>
+<li><strong>Como que nasceu o podcast</strong> 02:00</li>
+<li><strong>Primeiro episódio</strong> 05:50</li>
+<li><strong>Mudando o podcast</strong> 07:20</li>
+<li><strong>Comprando livros digitais</strong> 11:30</li>
+<li><strong>Qual é a tecnologia usada</strong> 12:18</li>
+<li><strong>Perfil dos ouvintes</strong> 14:56</li>
+<li><strong>Como se preparam para as entrevistas e patrocinadores</strong> 18:08</li>
+<li><strong>Planos futuros</strong> 25:20</li>
+</ul>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Rails+Podcast+Brasil">Rails Podcast Brasil</a></li>
+<li><a href="https://duckduckgo.com/?q=F%C3%A1bio+Akita">Fábio Akita</a></li>
+<li><a href="https://duckduckgo.com/?q=RubyConf">RubyConf</a></li>
+<li><a href="https://duckduckgo.com/?q=Ruby+Inside">Ruby Inside</a></li>
+<li><a href="https://duckduckgo.com/?q=PayPal">PayPal</a></li>
+<li><a href="https://duckduckgo.com/?q=Ruby+on+Rails">Ruby on Rails</a></li>
+<li><a href="https://duckduckgo.com/?q=Founders+at+Work:+Stories+of+Startups'+Early+Days">Founders at Work - Stories of Startups' Early Days</a></li>
+<li><a href="https://duckduckgo.com/?q=Jessica+Livingston">Jessica Livingston</a></li>
+<li><a href="https://duckduckgo.com/?q=Jos%C3%A9+Valim">José Valim</a></li>
+<li><a href="https://duckduckgo.com/?q=Rework">Rework</a></li>
+<li><a href="https://duckduckgo.com/?q=Jason+Fried">Jason Fried</a></li>
+<li><a href="https://duckduckgo.com/?q=Skype">Skype</a></li>
+<li><a href="https://duckduckgo.com/?q=Audacity">Audacity</a></li>
+<li><a href="https://duckduckgo.com/?q=Garage+Band">Garage Band</a></li>
+<li><a href="https://duckduckgo.com/?q=.NET">.NET</a></li>
+<li><a href="https://duckduckgo.com/?q=Python">Python</a></li>
+<li><a href="https://duckduckgo.com/?q=PHP">PHP</a></li>
+<li><a href="https://duckduckgo.com/?q=Scala">Scala</a></li>
+<li><a href="https://duckduckgo.com/?q=Arduino">Arduino</a></li>
+<li><a href="https://duckduckgo.com/?q=Wikipedia">Wikipedia</a></li>
+<li><a href="https://duckduckgo.com/?q=Erlang">Erlang</a></li>
+<li><a href="https://duckduckgo.com/?q=X4+Internet+Development+Solutions">X4 Internet Development Solutions</a></li>
+<li><a href="https://duckduckgo.com/?q=Webbynode">Webbynode</a></li>
+<li><a href="https://duckduckgo.com/?q=WordPress">WordPress</a></li>
+<li><a href="https://duckduckgo.com/?q=Dreamhost">Dreamhost</a></li>
+<li><a href="https://duckduckgo.com/?q=iWeb+Hosting">iWeb Hosting</a></li>
+<li><a href="https://duckduckgo.com/?q=2Pay">2Pay</a></li>
+<li><a href="https://duckduckgo.com/?q=Telecom+Group">Telecom Group</a></li>
+<li><a href="https://duckduckgo.com/?q=AT&amp;T">AT&amp;T</a></li>
+<li><a href="https://duckduckgo.com/?q=DirecTV">DirecTV</a></li>
+<li><a href="https://duckduckgo.com/?q=VISA">VISA</a></li>
+<li><a href="https://duckduckgo.com/?q=Sociably">Sociably</a></li>
+<li><a href="https://duckduckgo.com/?q=CarlosBrando+OS">CarlosBrando OS</a></li>
+<li><a href="https://duckduckgo.com/?q=Sushi">Sushi</a></li>
+<li><a href="https://duckduckgo.com/?q=Rdio">Rdio</a></li>
+<li><a href="https://duckduckgo.com/?q=DatabaseCast">DatabaseCast</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/grokpodcast.png"/><enclosure url="https://archive.org/download/castalio-podcast-47/castalio-podcast-47.mp3" length="31251930" type="audio/mpeg"/></item><item><title>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 1</title><link>https://castalio.info/episodes/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1/</link><pubDate>Sun, 30 Sep 2012 18:39:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-46/castalio-podcast-46.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 1</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam muito bem vindos ao primeiro episódio de outubro!  Desta
-vez eu tive a oportunidade de conversar pelo <strong>Google Hangout</strong> com o <strong>Carlos
-Brando</strong> e <strong>Rafael Rosa Fu</strong> do <a class="reference external" href="http://grokpodcast.com/">**GrokPodcast**</a>! Foi super divertido
-conversar com eles, e o bate-papo foi tão bom que eu decidi dividir
-a entrevista em duas partes para ficar mais conveninente para vocês escutarem.</p>
+Castálio Podcast</itunes:author><itunes:title>Carlos Brando E Rafael Rosa Fu: GrokPodcast - Part 1</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam muito bem vindos ao primeiro episódio de outubro!
+Desta vez eu tive a oportunidade de conversar pelo <strong>Google Hangout</strong>
+com o <strong>Carlos Brando</strong> e <strong>Rafael Rosa Fu</strong> do
+<a href="http://grokpodcast.com/">**GrokPodcast**</a>! Foi super divertido
+conversar com eles, e o bate-papo foi tão bom que eu decidi dividir a
+entrevista em duas partes para ficar mais conveninente para vocês
+escutarem.</p>
 <p>Nesta primeira parte conversamos sobre como que a idéia de criar o
 podcast surgiu em um barzinho em São Paulo, quando o Brando e Rafael
 conversavam com o <strong>Fábio Akita</strong> depois de um <strong>RubyConf</strong>. Logo depois
@@ -1453,16 +2197,108 @@ aventuras!</p>
 <p>Então gostaria de convidá-los a conhecerem um pouco mais sobre o Carlos
 Brando que dentre várias coisas escreveu alguns livros sobre Ruby on
 Rails, trabalhou em companhias como a <strong>Portugal Telecom Group</strong>, <strong>AT&amp;T
-Latin America</strong>, <strong>DirecTV</strong>, <strong>SKY</strong>, <strong>VISA</strong>,&nbsp;<strong>Surgeworks</strong>,
+Latin America</strong>, <strong>DirecTV</strong>, <strong>SKY</strong>, <strong>VISA</strong>, <strong>Surgeworks</strong>,
 <strong>Amanaiê</strong> e <strong>Sociably</strong>, e hoje prefere uma vida mais pacata em
 Franca, SP. Também temos o Rafael Rosa Fu que mora em Montreal no
 Canadá, tem 5 gatos (Cecília, Dalila, Ariela, Juju e Bebê), e hoje
 trabalha no <strong>iWeb</strong>.</p>
+<p>No próximo episódio vocês poderam também conhecer um pouco mais sobre o
+lado pessoal e background deles, inclusive como que eles são tão
+diferentes, mas se combinam tão bem! Serão eles o &quot;<a href="https://en.wikipedia.org/wiki/The_Odd_Couple_(TV_series)">Odd
+Couple</a>&quot;? :)</p>
+<p>Claro que vocês podem também assistir o vídeo da entrevista no canal do
+<a href="http://bit.ly/QDn1p2">Youtube</a>!</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-46" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-46/castalio-podcast-46.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-46/castalio-podcast-46.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>:  http://grokpodcast.com/</li>
+<li><strong>Twitter</strong>:  http://www.twitter.com/GrokPodcast</li>
+<li><strong>Twitter</strong>:  http://twitter.com/carlosbrando</li>
+<li><strong>Twitter</strong>:  http://twitter.com/rafaelrosafu</li>
+</ul>
+<h1 id="resumo">Resumo</h1>
+<ul>
+<li><strong>Apresentação</strong> 00:50</li>
+<li><strong>Como que nasceu o podcast</strong> 02:00</li>
+<li><strong>Primeiro episódio</strong> 05:50</li>
+<li><strong>Mudando o podcast</strong> 07:20</li>
+<li><strong>Comprando livros digitais</strong> 11:30</li>
+<li><strong>Qual é a tecnologia usada</strong> 12:18</li>
+<li><strong>Perfil dos ouvintes</strong> 14:56</li>
+<li><strong>Como se preparam para as entrevistas e patrocinadores</strong> 18:08</li>
+<li><strong>Planos futuros</strong> 25:20</li>
+</ul>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Rails+Podcast+Brasil">Rails Podcast Brasil</a></li>
+<li><a href="https://duckduckgo.com/?q=F%C3%A1bio+Akita">Fábio Akita</a></li>
+<li><a href="https://duckduckgo.com/?q=RubyConf">RubyConf</a></li>
+<li><a href="https://duckduckgo.com/?q=Ruby+Inside">Ruby Inside</a></li>
+<li><a href="https://duckduckgo.com/?q=PayPal">PayPal</a></li>
+<li><a href="https://duckduckgo.com/?q=Ruby+on+Rails">Ruby on Rails</a></li>
+<li><a href="https://duckduckgo.com/?q=Founders+at+Work:+Stories+of+Startups'+Early+Days">Founders at Work - Stories of Startups' Early Days</a></li>
+<li><a href="https://duckduckgo.com/?q=Jessica+Livingston">Jessica Livingston</a></li>
+<li><a href="https://duckduckgo.com/?q=Jos%C3%A9+Valim">José Valim</a></li>
+<li><a href="https://duckduckgo.com/?q=Rework">Rework</a></li>
+<li><a href="https://duckduckgo.com/?q=Jason+Fried">Jason Fried</a></li>
+<li><a href="https://duckduckgo.com/?q=Skype">Skype</a></li>
+<li><a href="https://duckduckgo.com/?q=Audacity">Audacity</a></li>
+<li><a href="https://duckduckgo.com/?q=Garage+Band">Garage Band</a></li>
+<li><a href="https://duckduckgo.com/?q=.NET">.NET</a></li>
+<li><a href="https://duckduckgo.com/?q=Python">Python</a></li>
+<li><a href="https://duckduckgo.com/?q=PHP">PHP</a></li>
+<li><a href="https://duckduckgo.com/?q=Scala">Scala</a></li>
+<li><a href="https://duckduckgo.com/?q=Arduino">Arduino</a></li>
+<li><a href="https://duckduckgo.com/?q=Wikipedia">Wikipedia</a></li>
+<li><a href="https://duckduckgo.com/?q=Erlang">Erlang</a></li>
+<li><a href="https://duckduckgo.com/?q=X4+Internet+Development+Solutions">X4 Internet Development Solutions</a></li>
+<li><a href="https://duckduckgo.com/?q=Webbynode">Webbynode</a></li>
+<li><a href="https://duckduckgo.com/?q=WordPress">WordPress</a></li>
+<li><a href="https://duckduckgo.com/?q=Dreamhost">Dreamhost</a></li>
+<li><a href="https://duckduckgo.com/?q=iWeb+Hosting">iWeb Hosting</a></li>
+<li><a href="https://duckduckgo.com/?q=2Pay">2Pay</a></li>
+<li><a href="https://duckduckgo.com/?q=Telecom+Group">Telecom Group</a></li>
+<li><a href="https://duckduckgo.com/?q=AT&amp;T">AT&amp;T</a></li>
+<li><a href="https://duckduckgo.com/?q=DirecTV">DirecTV</a></li>
+<li><a href="https://duckduckgo.com/?q=VISA">VISA</a></li>
+<li><a href="https://duckduckgo.com/?q=Sociably">Sociably</a></li>
+<li><a href="https://duckduckgo.com/?q=CarlosBrando+OS">CarlosBrando OS</a></li>
+<li><a href="https://duckduckgo.com/?q=Sushi">Sushi</a></li>
+<li><a href="https://duckduckgo.com/?q=Rdio">Rdio</a></li>
+<li><a href="https://duckduckgo.com/?q=DatabaseCast">DatabaseCast</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/grokpodcast.png"/><enclosure url="https://archive.org/download/castalio-podcast-46/castalio-podcast-46.mp3" length="27584326" type="audio/mpeg"/></item><item><title>Licio Fonseca: Google</title><link>https://castalio.info/episodes/licio-fonseca-google/</link><pubDate>Sun, 16 Sep 2012 21:45:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Licio Fonseca: Google</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Nesta última quinta-feira tive o prazer em entrevistar o <strong>Licio
+Castálio Podcast</itunes:author><itunes:title>Licio Fonseca: Google</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Nesta última quinta-feira tive o prazer em entrevistar o <strong>Licio
 Fonseca</strong> da <strong>Google</strong>! Eu e o Licio nos conhecemos nos saudosos tempos
 do <strong>Ubuntu Brasil</strong>, mas não conversávamos desde 2006 se não me engano.
 Desde então muita coisa aconteceu, e hoje ele trabalha na Google,
@@ -1475,39 +2311,222 @@ entrevistas e seleção para trabalhar na Google.</p>
 desde que ele comçou a trabalhar, as viagens que ele fez à trabalho,
 rumores, sua <strong>época de skatista</strong>, vida de casado e coleção de action
 figures! E para quem acompanhou a gravação ao vivo pelo <strong>Youtube</strong>,
-teve até o Licio dançando a música <a class="reference external" href="https://www.youtube.com/watch?v=9bZkp7q19f0">Gangnam Style</a> do <strong>PSY</strong>!!! Mas
-se você perdeu a gravação, não esquenta a cabeça porque o vídeo pode ser
-visto <a class="reference external" href="http://bit.ly/QTNlg0">aqui</a> (aos 41 minutos)! :)</p>
+teve até o Licio dançando a música <a href="https://www.youtube.com/watch?v=9bZkp7q19f0">Gangnam
+Style</a> do <strong>PSY</strong>!!! Mas se
+você perdeu a gravação, não esquenta a cabeça porque o vídeo pode ser
+visto <a href="http://bit.ly/QTNlg0">aqui</a> (aos 41 minutos)! :)</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-45" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-45/castalio-podcast-45.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Blog</strong>:  http://blog.licio.eti.br/</li>
+<li><strong>Twitter</strong>:  http://twitter.com/licio</li>
+<li><strong>Facebook</strong>:  http://www.facebook.com/liciofonseca</li>
+<li><strong>Google Plus</strong>:  https://plus.google.com/u/1/103327178278111902620/about</li>
+<li><strong>Linkedin</strong>:  http://br.linkedin.com/in/liciofonseca</li>
+<li><strong>Github</strong>:  https://github.com/licio</li>
+</ul>
+<h1 id="resumo">Resumo</h1>
+<ul>
+<li><strong>Apresentação</strong> 00:50</li>
+<li><strong>Bit Twiddler na Google</strong> 02:25</li>
+<li><strong>Dia a dia</strong> 05:20</li>
+<li><strong>Como foi parar na Google</strong> 09:00</li>
+<li><strong>Como é o processo de entrevistas de trabalho?</strong> 11:40</li>
+<li><strong>Modificações dentro da Google</strong> 14:40</li>
+<li><strong>Conhecendo outros paises, comida</strong> 16:10</li>
+<li><strong>Rumores</strong> 22:40</li>
+<li><strong>Companhia de skates</strong> 23:17</li>
+<li><strong>Vida de casado</strong> 25:30</li>
+<li><strong>Action Figures</strong> 29:00</li>
+<li><strong>Top 5</strong> 30:30</li>
+<li><strong>Convite para voltar</strong> 36:19</li>
+<li><strong>Gangnam Style</strong> 37:27</li>
+<li><strong>Conclusão</strong> 39:05</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/6249707-longe-um-lugar-que-n-o-existe" target="_blank">Longe é um lugar que não existe</a></li><li><a href="https://www.goodreads.com/author/show/16904.Richard_Bach" target="_blank">Richard Bach</a></li><li><a href="https://www.goodreads.com/book/show/6740506-fern-o-capelo-gaivota" target="_blank">Fernão Capelo Gaivota</a></li><li><a href="https://www.goodreads.com/series/220780-para-gostar-de-ler" target="_blank">Para Gostar de Ler</a></li><li><a href="https://www.goodreads.com/author/show/311800.Carlos_Drummond_de_Andrade" target="_blank">Carlos Drummond de Andrade</a></li><li><a href="https://www.goodreads.com/author/show/17732224.Castro_Alves" target="_blank">Castro Alves</a></li><li><a href="https://www.goodreads.com/author/show/381467.Rubem_Braga" target="_blank">Rubem Braga</a></li><li><a href="https://www.goodreads.com/author/show/52373.Fernando_Sabino" target="_blank">Fernando Sabino</a></li><li><a href="https://www.goodreads.com/author/show/1243609.Andr_Vianco" target="_blank">André Vianco</a></li><li><a href="https://www.goodreads.com/book/show/41793.Hackers_Painters" target="_blank">Hackers &amp; Painters</a></li></ol><h3>Filmes:</h3><ol><li>Novela</li><li><a href="https://www.imdb.com/title/tt0367975/" target="_blank">Lisbela e o Prisioneiro</a></li><li><a href="https://www.imdb.com/title/tt0371746/" target="_blank">Homem de Ferro</a></li><li><a href="https://www.imdb.com/title/tt0372784/" target="_blank">Batman</a></li><li><a href="https://www.imdb.com/title/tt0848228/" target="_blank">Os Vingadores</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Hugh&#43;Laurie" target="_blank">Hugh Laurie</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Google">Google</a></li>
+<li><a href="https://duckduckgo.com/?q=Linked.in">Linked.in</a></li>
+<li><a href="https://duckduckgo.com/?q=Bit+Twiddler">Bit Twiddler</a></li>
+<li><a href="https://duckduckgo.com/?q=GMail">GMail</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+BR">Ubuntu BR</a></li>
+<li><a href="https://duckduckgo.com/?q=Rodrigo+Pereira">Rodrigo Pereira</a></li>
+<li><a href="https://duckduckgo.com/?q=Lake+Louise">Lake Louise</a></li>
+<li><a href="https://duckduckgo.com/?q=Google+Pounds">Google Pounds</a></li>
+<li><a href="https://duckduckgo.com/?q=Mountain+View">Mountain View</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+Desktop+Summit">Ubuntu Desktop Summit</a></li>
+<li><a href="https://duckduckgo.com/?q=Charles+Cafe+Google">Charles Cafe Google</a></li>
+<li><a href="https://duckduckgo.com/?q=XBox">XBox</a></li>
+<li><a href="https://duckduckgo.com/?q=StarWars">StarWars</a></li>
+<li><a href="https://duckduckgo.com/?q=Marvel">Marvel</a></li>
+<li><a href="https://duckduckgo.com/?q=Anime">Anime</a></li>
+<li><a href="https://duckduckgo.com/?q=Death+Note">Death Note</a></li>
+<li><a href="https://duckduckgo.com/?q=Gangnam+Style">Gangnam Style (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=Transifex">Transifex</a></li>
+<li><a href="http://www.google.com/about/datacenters/locations/quilicura/">DataCenter - Chile</a></li>
+<li><a href="http://www.google.com/about/datacenters/locations/lenoir/">DataCenter - North Carolina</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/liciofonseca.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3" length="38999883" type="audio/mpeg"/></item><item><title>Bruno Gonçalves: BigLinux</title><link>https://castalio.info/episodes/bruno-goncalves-biglinux/</link><pubDate>Mon, 03 Sep 2012 16:42:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Bruno Gonçalves: BigLinux</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Na semana passada eu tive o grande prazer e honra de participar do <a class="reference external" href="http://www.ubuntero.com.br/">Opencast</a>
-em um <a class="reference external" href="http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/">episódio</a> onde discutimos várias coisas relacionadas à distribuições
-Linux! Por coincidência, meu amigo <strong>Vladimir Melo</strong> tinha me recomendando
+Castálio Podcast</itunes:author><itunes:title>Bruno Gonçalves: BigLinux</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Na semana passada eu tive o grande prazer e honra de participar do
+<a href="http://www.ubuntero.com.br/">Opencast</a> em um
+<a href="http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/">episódio</a>
+onde discutimos várias coisas relacionadas à distribuições Linux! Por
+coincidência, meu amigo <strong>Vladimir Melo</strong> tinha me recomendando
 entrevistar uma pessoa que por muito tempo tinha criado e mantido uma
 distribuição nacional, e recentemente decidiu parar o projeto!</p>
-<p>Neste último episódio então tive o grande prazer de conversar com o <strong>Bruno
-Gonçalves</strong>, criador e mantenedor do <a class="reference external" href="http://www.biglinux.com.br/web/">BigLinux</a>! Até este nosso bate-papo eu
-confesso que não conhecia este projeto, o que é realmente uma pena. O BigLinux
-nasceu de uma &quot;remasterização&quot; do <a class="reference external" href="http://www.hardware.com.br/kurumin/">Kurumin Linux</a> e em pouquíssimo tempo fez
-bastante barulho ao adicionar vários recursos super avançados para a sua época!
-O número de recursos e tecnologias utilizados pelo Bruno é realmente
-impressionante e quando terminamos nossa entrevista eu fiquei literalmente fã
-número 1 dele! :)</p>
-<p>Durante nosso bate-papo ele conta todos os detalhes de como que o projeto
-nasceu, quais foram os obstáculos que enfrentou, e quais foram os motivos que
-o levou a parar o projeto. Também falamos sobre <strong>BigBashView</strong>, seu novo
-projeto&nbsp;<a class="reference external" href="http://uniaolivre.com/">União Livre</a>, que na minha opinião promete muito, e um <strong>livro</strong>
-que esta escrevendo em parceria com um amigo, chamado &quot;<strong>Linux: Simplicidade ao
-seu Alcance</strong>&quot;!</p>
+<p>Neste último episódio então tive o grande prazer de conversar com o
+<strong>Bruno Gonçalves</strong>, criador e mantenedor do
+<a href="http://www.biglinux.com.br/web/">BigLinux</a>! Até este nosso bate-papo eu
+confesso que não conhecia este projeto, o que é realmente uma pena. O
+BigLinux nasceu de uma &quot;remasterização&quot; do <a href="http://www.hardware.com.br/kurumin/">Kurumin
+Linux</a> e em pouquíssimo tempo fez
+bastante barulho ao adicionar vários recursos super avançados para a sua
+época! O número de recursos e tecnologias utilizados pelo Bruno é
+realmente impressionante e quando terminamos nossa entrevista eu fiquei
+literalmente fã número 1 dele! :)</p>
+<p>Durante nosso bate-papo ele conta todos os detalhes de como que o
+projeto nasceu, quais foram os obstáculos que enfrentou, e quais foram
+os motivos que o levou a parar o projeto. Também falamos sobre
+<strong>BigBashView</strong>, seu novo projeto <a href="http://uniaolivre.com/">União Livre</a>,
+que na minha opinião promete muito, e um <strong>livro</strong> que esta escrevendo
+em parceria com um amigo, chamado &quot;<strong>Linux: Simplicidade ao seu
+Alcance</strong>&quot;!</p>
+<p>Quem quizer experimentar o BigLinux, dê uma olhadinha no seguinte
+<a href="http://www.las.ic.unicamp.br/pub/biglinux/">link</a> para algumas imagens
+ISO e se você quizer aprender mais sobre o
+<a href="http://code.google.com/p/bigbashview/">BigBashLinux</a>, olhem este link
+<a href="http://biglinux.com.br/forum/viewforum.php?f=62">aqui</a>!</p>
+<p>Ah e não se esqueca de assistir o
+<a href="http://www.youtube.com/watch?v=lpDNGGOw_tY&amp;feature=g-all-u">vídeo</a> da
+entrevista!</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-44" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-44/castalio-podcast-44.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Web site</strong>:  http://www.biglinux.com.br/web/</li>
+<li><strong>Web site</strong>:  http://uniaolivre.com/</li>
+<li><strong>Twitter</strong>:  https://twitter.com/biglinux</li>
+<li><strong>Facebook</strong>:  https://www.facebook.com/biglinux</li>
+<li><strong>Google Plus</strong>:
+ https://plus.google.com/115814533855252983527/about</li>
+</ul>
+<h1 id="resumo">Resumo</h1>
+<ul>
+<li><strong>Apresentação</strong> 01:05</li>
+<li><strong>Sobre o Big Linux</strong> 02:00</li>
+<li><strong>O começo</strong> 03:50</li>
+<li><strong>Avançado para sua época</strong> 07:00</li>
+<li><strong>Um pouco de background</strong> 09:30</li>
+<li><strong>Primeiras versões</strong> 11:00</li>
+<li><strong>BigBashView</strong> 14:00</li>
+<li><strong>Obstáculos e progressos</strong> 15:26</li>
+<li><strong>Parando o projeto</strong> 22:00</li>
+<li><strong>União Livre</strong> 27:00</li>
+<li><strong>Planos futuros</strong> 31:00</li>
+<li><strong>Top 5</strong> 38:50</li>
+<li><strong>Conclusão</strong> 41:00</li>
+</ul>
+<h2>Top 5</h2><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0075148/" target="_blank">Rocky</a></li><li><a href="https://www.imdb.com/title/tt0086250/" target="_blank">Scarface</a></li><li><a href="https://www.imdb.com/title/tt0229889/" target="_blank">Chaves</a></li><li><a href="https://www.imdb.com/title/tt0229888/" target="_blank">Chapolin</a></li><li><a href="https://www.imdb.com/title/tt0092675/" target="_blank">O Grande Dragão Branco</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Raul&#43;Seixas" target="_blank">Raul Seixas</a></li><li><a href="https://www.last.fm/music/Ultraje&#43;A&#43;Rigor" target="_blank">Ultraje a Rigor</a></li><li><a href="https://www.last.fm/music/Chuck&#43;Berry" target="_blank">Chuck Berry</a></li><li><a href="https://www.last.fm/music/Elvis&#43;Presley" target="_blank">Elvis Presley</a></li><li><a href="https://www.last.fm/music/Planet&#43;Hemp" target="_blank">Planet Hemp</a></li><li><a href="https://www.last.fm/music/Frejat" target="_blank">Frejat</a></li></ol><h3>Sites:</h3><ol><li><a href="https://www.biglinux.com.br/forum/" target="_blank">Fórum BigLinux</a></li><li><a href="https://ubuntuforum-br.org/" target="_blank">Fórum Ubuntu BR</a></li><li><a href="https://forum.outerspace.com.br/" target="_blank">Fórum Outer Space</a></li><li>Fórum Hard Science</li><li><a href="http://br-linux.org/" target="_blank">BR-Linux</a></li><li><a href="https://discourse.nixos.org/" target="_blank">Forum nix</a></li><li><a href="https://planet.kde.org/" target="_blank">Planet KDE</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Vladimir+Melo">Vladimir Melo</a></li>
+<li><a href="https://duckduckgo.com/?q=BigLinux">BigLinux (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=Bruno+Gon%C3%A7alves">Bruno Gonçalves</a></li>
+<li><a href="https://duckduckgo.com/?q=Kurumin+Linux">Kurumin Linux (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=OpenOffice">OpenOffice</a></li>
+<li><a href="https://duckduckgo.com/?q=Gimp">Gimp</a></li>
+<li><a href="https://duckduckgo.com/?q=ICQ">ICQ</a></li>
+<li><a href="https://duckduckgo.com/?q=Kalango+Linux">Kalango Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Debian+Linux">Debian Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=KDE">KDE</a></li>
+<li><a href="https://duckduckgo.com/?q=GNOME">GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=Metisse">Metisse</a></li>
+<li><a href="https://duckduckgo.com/?q=Fluxbox">Fluxbox</a></li>
+<li><a href="https://duckduckgo.com/?q=Mark+Shuttleworth">Mark Shuttleworth</a></li>
+<li><a href="https://duckduckgo.com/?q=Compiz">Compiz</a></li>
+<li><a href="https://duckduckgo.com/?q=Ubuntu+Linux">Ubuntu Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Carlos+Morimoto">Carlos Morimoto</a></li>
+<li><a href="https://duckduckgo.com/?q=IceWM">IceWM</a></li>
+<li><a href="https://duckduckgo.com/?q=Gnumeric">Gnumeric</a></li>
+<li><a href="https://duckduckgo.com/?q=Python">Python</a></li>
+<li><a href="https://duckduckgo.com/?q=BigBashView">BigBashView</a></li>
+<li><a href="https://duckduckgo.com/?q=QT+Webkit">QT Webkit</a></li>
+<li><a href="https://duckduckgo.com/?q=NVIDIA">NVIDIA</a></li>
+<li><a href="https://duckduckgo.com/?q=OpenCast">OpenCast (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=DistroWatch">DistroWatch</a></li>
+<li><a href="https://duckduckgo.com/?q=BR-Linux">BR-Linux (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=Conectiva+Linux">Conectiva Linux</a></li>
+<li><a href="http://uniaolivre.com/">União Livre</a></li>
+<li><a href="https://duckduckgo.com/?q=OpenSUSE+Linux">OpenSUSE Linux</a></li>
+<li><a href="https://duckduckgo.com/?q=Red+Hat">Red Hat</a></li>
+<li><a href="https://duckduckgo.com/?q=Canonical">Canonical</a></li>
+<li><a href="https://duckduckgo.com/?q=Mint+Linux">Mint Linux</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/brunogoncalves.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3" length="43872760" type="audio/mpeg"/></item><item><title>Felipe Borges: Google Summer of Code</title><link>https://castalio.info/episodes/felipe-borges-google-summer-of-code/</link><pubDate>Sun, 19 Aug 2012 22:49:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Felipe Borges: Google Summer of Code</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Finalzinho do verão americano e no ar já se sente um pouco a vinda do outono
-e a volta às aulas. Nada melhor então que bater um papo com o <strong>Felipe Borges</strong>
-que está participando do <a class="reference external" href="https://code.google.com/soc/">Google Summer of Code</a> pelo projeto <strong>GNOME</strong>!</p>
+Castálio Podcast</itunes:author><itunes:title>Felipe Borges: Google Summer of Code</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Finalzinho do verão americano e no ar já se sente um pouco a vinda do
+outono e a volta às aulas. Nada melhor então que bater um papo com o
+<strong>Felipe Borges</strong> que está participando do <a href="https://code.google.com/soc/">Google Summer of
+Code</a> pelo projeto <strong>GNOME</strong>!</p>
 <p>Durante estes últimos meses o Felipe tem trabalhado no <strong>GNOME
 Documents</strong>, adicionando suporte para administrar e visualizar arquivos
 em dispositivos removíveis, e tendo como mentor o italiano <strong>Cosimo
@@ -1523,18 +2542,106 @@ ficou bem mais óbvio uma vez que conversamos sobre os seu <strong>Top 5</strong
 conta com várias surpresas bem interessantes! Mal posso esperar o dia
 quando vou poder bater altos papos com o Felipe sobre política e
 assuntos diversos... quem sabe no próximo <strong>FISL</strong>?</p>
-<p>Mais uma vez a gravação foi feita ao vivo pelo <strong>Youtube</strong> e se você quizer
-assistir a entrevista, veja este <a class="reference external" href="http://www.youtube.com/watch?v=0T6nGDSr13o">vídeo</a>.</p>
+<p>Mais uma vez a gravação foi feita ao vivo pelo <strong>Youtube</strong> e se você
+quizer assistir a entrevista, veja este
+<a href="http://www.youtube.com/watch?v=0T6nGDSr13o">vídeo</a>.</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-43" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-43/castalio-podcast-43.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Blog</strong>: http://felipeborges.net/</li>
+<li><strong>Twitter</strong>:  http://twitter.com/felipeborges</li>
+<li><strong>Facebook</strong>:  http://facebook.com/felipe10borges</li>
+<li><strong>Google Plus</strong>:  https://plus.google.com/115566861202674791297/</li>
+<li><strong>Github</strong>: https://github.com/felipeborges</li>
+<li><strong>Last.FM</strong>: http://last.fm/user/felipe10borges</li>
+</ul>
+<h1 id="resumo">Resumo</h1>
+<ul>
+<li><strong>Apresentação</strong> 01:00</li>
+<li><strong>Background</strong> 01:54</li>
+<li><strong>Google Summer of Code</strong> 02:55</li>
+<li><strong>GNOME Documents</strong> 07:40</li>
+<li><strong>Interação com mentor</strong> 09:50</li>
+<li><strong>Terminando o projeto</strong> 12:40</li>
+<li><strong>Trabalhando no Tracker</strong> 13:50</li>
+<li><strong>Obstáculos e detalhes do projeto</strong> 14:30</li>
+<li><strong>Equilibrando escola e projeto</strong> 19:54</li>
+<li><strong>GUADEC 2012</strong> 22:00</li>
+<li><strong>Planos futuros</strong> 26:30</li>
+<li><strong>Top 5</strong> 28:23</li>
+<li><strong>Conclusão</strong> 43:27</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/author/show/4026.Pablo_Neruda" target="_blank">Pablo Neruda</a></li><li><a href="https://www.goodreads.com/book/show/6336093-a-cidade-do-sol" target="_blank">A Cidade do Sol</a></li><li><a href="https://www.goodreads.com/author/show/569.Khaled_Hosseini" target="_blank">Khaled Hosseini</a></li><li><a href="https://www.goodreads.com/book/show/12145748-os-sert-es---volume-i" target="_blank">Os Sertões</a></li><li><a href="https://www.goodreads.com/author/show/458836.Euclides_da_Cunha" target="_blank">Euclides da Cunha</a></li><li><a href="https://www.goodreads.com/book/show/2067912.A_Batalha_do_Apocalipse" target="_blank">A Batalha do Apocalipse</a></li><li><a href="https://www.goodreads.com/author/show/938918.Eduardo_Spohr" target="_blank">Eduardo Spohr</a></li><li><a href="https://www.goodreads.com/book/show/11457105-design-for-hackers" target="_blank">Design for Hackers</a></li><li><a href="https://www.goodreads.com/author/show/5822041.Eduardo_Galeano" target="_blank">Eduardo Galeano</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0455275/" target="_blank">Prison Break</a></li><li><a href="https://www.imdb.com/title/tt0898266/" target="_blank">The Big Bang Theory</a></li><li><a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a></li><li><a href="https://www.imdb.com/title/tt0229889/" target="_blank">Chaves</a></li><li><a href="https://www.imdb.com/title/tt1796960/" target="_blank">Homeland</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Immortal&#43;Technique" target="_blank">Immortal Technique</a></li><li><a href="https://www.last.fm/music/Criolo" target="_blank">Criolo</a></li><li><a href="https://www.last.fm/music/Bob&#43;Marley" target="_blank">Bob Marley</a></li><li><a href="https://www.last.fm/music/Cavalera&#43;Conspiracy" target="_blank">Cavalera Conspiracy</a></li><li><a href="https://www.last.fm/music/Lowkey" target="_blank">Lowkey</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Planet+GNOME">Planet GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=Universidade+Federal+de+Pelotas">Universidade Federal de Pelotas</a></li>
+<li><a href="https://duckduckgo.com/?q=Projeto+GNOME">Projeto GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=FISL">FISL</a></li>
+<li><a href="https://duckduckgo.com/?q=Funda%C3%A7%C3%A3o+GNOME">Fundação GNOME</a></li>
+<li><a href="https://duckduckgo.com/?q=Funda%C3%A7%C3%A3o+Mozilla">Fundação Mozilla</a></li>
+<li><a href="https://duckduckgo.com/?q=Bugzilla">Bugzilla</a></li>
+<li><a href="https://duckduckgo.com/?q=GNOME+Documents">GNOME Documents</a></li>
+<li><a href="https://duckduckgo.com/?q=Microsoft+SkyDrive">Microsoft SkyDrive</a></li>
+<li><a href="https://duckduckgo.com/?q=GIO">GIO</a></li>
+<li><a href="https://duckduckgo.com/?q=Tracker">Tracker</a></li>
+<li><a href="https://duckduckgo.com/?q=Nokia">Nokia</a></li>
+<li><a href="https://duckduckgo.com/?q=Cosimo+Cecchi">Cosimo Cecchi</a></li>
+<li><a href="https://duckduckgo.com/?q=Github">Github</a></li>
+<li><a href="https://duckduckgo.com/?q=GUADEC">GUADEC</a></li>
+<li><a href="https://duckduckgo.com/?q=Programa%C3%A7%C3%A3o+em+C">Programação em C</a></li>
+<li><a href="https://duckduckgo.com/?q=Javascript">Javascript</a></li>
+<li><a href="https://duckduckgo.com/?q=Programa%C3%A7%C3%A3o+em+Python">Programação em Python</a></li>
+<li><a href="https://duckduckgo.com/?q=GLIB">GLIB</a></li>
+<li><a href="https://duckduckgo.com/?q=Evince">Evince</a></li>
+<li><a href="https://duckduckgo.com/?q=Biblioteca+libevince">Biblioteca libevince</a></li>
+<li><a href="https://duckduckgo.com/?q=Formato+epub">Formato epub</a></li>
+<li><a href="https://duckduckgo.com/?q=Formato+mobi">Formato mobi</a></li>
+<li><a href="https://duckduckgo.com/?q=Amazon">Amazon</a></li>
+<li><a href="https://duckduckgo.com/?q=Sepultura">Sepultura</a></li>
+<li><a href="https://duckduckgo.com/?q=Walt+Disney">Walt Disney</a></li>
+<li><a href="https://duckduckgo.com/?q=Red+Hat">Red Hat</a></li>
+<li><a href="https://duckduckgo.com/?q=Djavan+Fagundes">Djavan Fagundes</a></li>
+<li><a href="https://duckduckgo.com/?q=iTunes">iTunes</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/felipeborges.jpeg"/><enclosure url="https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3" length="47054176" type="audio/mpeg"/></item><item><title>Cristiano Costa: Hora Do Mac</title><link>https://castalio.info/episodes/cristiano-costa-hora-do-mac/</link><pubDate>Mon, 06 Aug 2012 14:35:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-42/castalio-podcast-42.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Cristiano Costa: Hora Do Mac</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p><strong>Atualização</strong>: Me esqueci novamente de colocar o link para o vídeo da
-entrevista: <a class="reference external" href="http://www.youtube.com/watch?v=k58aVfWhIWE&amp;feature=g-upl">Youtube</a></p>
-<p>Mais um dia de calor aqui na <strong>Carolina do Norte</strong>, e mesmo na correria desta
-semana eu consegui achar um pouco de tempo para entrevistar o <strong>Cristiano
-Costa</strong>, aka <a class="reference external" href="http://twitter.com/#!/caccac">&#64;caccac</a>, do podcast <a class="reference external" href="http://www.horadomac.com/">Hora do Mac</a> (<strong>HDM</strong>)! Quem ainda não
-conhece o <strong>HDM</strong> não sabe o que está perdendo!</p>
+Castálio Podcast</itunes:author><itunes:title>Cristiano Costa: Hora Do Mac</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p><strong>Atualização</strong>: Me esqueci novamente de colocar o link para o vídeo da
+entrevista: <a href="http://www.youtube.com/watch?v=k58aVfWhIWE&amp;feature=g-upl">Youtube</a></p>
+<p>Mais um dia de calor aqui na <strong>Carolina do Norte</strong>, e mesmo na correria
+desta semana eu consegui achar um pouco de tempo para entrevistar o
+<strong>Cristiano Costa</strong>, aka <a href="http://twitter.com/#!/caccac">@caccac</a>, do
+podcast <a href="http://www.horadomac.com/">Hora do Mac</a> (<strong>HDM</strong>)! Quem ainda
+não conhece o <strong>HDM</strong> não sabe o que está perdendo!</p>
 <p>O <strong>HDM</strong> começou à quase 4 anos no fimzinho de 2008 lá em <strong>Porto
 Alegre</strong> e desde então o podcast já publicou <strong>82 episódios</strong> e só tem
 aumentado em tamanho de equipe (divertidíssima diga-se de passagem),
@@ -1549,6 +2656,86 @@ podcast evoluiu nos últimos anos. Também falamos sobre como que muitos
 usuários de <strong>GNU/Linux</strong> são atraídos pelo <strong>Mac OS</strong>, consumismo de
 música, livros e conteúdo digital, sobre o seu blog e gosto pela
 gastronomia e vários outros assuntos!</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-42" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-42/castalio-podcast-42.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-42/castalio-podcast-42.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="contato">Contato</h1>
+<ul>
+<li>Blog: <a href="http://www.cristianocosta.com.br/">http://www.cristianocosta.com.br/</a></li>
+<li>Hora do Mac: <a href="http://www.horadomac.com/">http://www.horadomac.com/</a></li>
+<li>ChefRS: <a href="http://www.chefrs.com.br/">http://www.chefrs.com.br/</a></li>
+<li>Twitter: <a href="http://twitter.com/#!/caccac">http://twitter.com/#!/caccac</a></li>
+<li>Facebook: <a href="http://www.facebook.com/caccac">http://www.facebook.com/caccac</a></li>
+<li>Linkedin: <a href="http://br.linkedin.com/in/cristianocosta">http://br.linkedin.com/in/cristianocosta</a></li>
+<li>Rdio: <a href="http://www.rdio.com/people/caccac/">http://www.rdio.com/people/caccac/</a></li>
+</ul>
+<h1 id="resumo">Resumo</h1>
+<ul>
+<li><strong>Apresentação</strong> 01:00</li>
+<li><strong>Como começou o Podcast</strong> 02:00</li>
+<li><strong>Dificuldades</strong> 08:00</li>
+<li><strong>Destaque no iTunes</strong> 13:00</li>
+<li><strong>Quem é o público</strong> 17:30</li>
+<li><strong>Episódio divertido</strong> 19:00</li>
+<li><strong>A equipe do Hora do Mac</strong> 20:00</li>
+<li><strong>Usuários GNU/Linux usando Mac OS</strong> 25:50</li>
+<li><strong>Pagando por aplicativos e coisas</strong> 28:00</li>
+<li><strong>ChefRS</strong> 33:10</li>
+<li><strong>Top 5</strong> 37:00</li>
+<li><strong>Conclusão</strong> 42:38</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/author/show/4610.John_Sandford" target="_blank">John Sandford</a></li><li><a href="https://www.goodreads.com/author/show/12470.Michael_Connelly" target="_blank">Michael Connelly</a></li><li><a href="https://www.goodreads.com/author/show/9291.David_Baldacci" target="_blank">David Baldacci</a></li><li><a href="https://www.goodreads.com/book/show/11084145-steve-jobs" target="_blank">Steve Jobs</a></li><li><a href="https://www.goodreads.com/author/show/9810.Albert_Einstein" target="_blank">Albert Einstein</a></li><li><a href="https://www.goodreads.com/author/show/4820.Jeffrey_Archer" target="_blank">Jeffrey Archer</a></li><li><a href="https://www.goodreads.com/author/show/2925176.Airton_Ortiz" target="_blank">Airton Ortiz</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0412142/" target="_blank">House M.D.</a></li><li><a href="https://www.imdb.com/title/tt0903747/" target="_blank">Breaking Bad</a></li><li><a href="https://www.imdb.com/title/tt0369179/" target="_blank">Two and a Half Men</a></li><li><a href="https://www.imdb.com/title/tt0944947/" target="_blank">Game of Thrones</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Sex&#43;Pistols" target="_blank">Sex Pistols</a></li><li><a href="https://www.last.fm/music/Dead&#43;Kennedys" target="_blank">Dead Kennedys</a></li><li><a href="https://www.last.fm/music/U2" target="_blank">U2</a></li><li><a href="https://www.last.fm/music/R.E.M." target="_blank">R.E.M.</a></li><li><a href="https://www.last.fm/music/Norah&#43;Jones" target="_blank">Norah Jones</a></li><li><a href="https://www.last.fm/music/Madeleine&#43;Peyroux" target="_blank">Madeleine Peyroux</a></li><li><a href="https://www.last.fm/music/Carla&#43;Bruni" target="_blank">Carla Bruni</a></li><li><a href="https://www.last.fm/music/Jorge&#43;Ben" target="_blank">Jorge Ben</a></li><li><a href="https://www.last.fm/music/The&#43;Beatles" target="_blank">The Beatles</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://duckduckgo.com/?q=Leo+Laporte">Leo Laporte</a></li>
+<li><a href="https://duckduckgo.com/?q=MacBreak+Weekly">MacBreak Weekly</a></li>
+<li><a href="https://duckduckgo.com/?q=Computadores+Apple">Computadores Apple</a></li>
+<li><a href="https://duckduckgo.com/?q=iPhone">iPhone</a></li>
+<li><a href="https://duckduckgo.com/?q=Skype">Skype</a></li>
+<li><a href="https://duckduckgo.com/?q=Google+Hangout">Google Hangout</a></li>
+<li><a href="https://duckduckgo.com/?q=WordPress">WordPress</a></li>
+<li><a href="https://duckduckgo.com/?q=iTunes">iTunes</a></li>
+<li><a href="https://duckduckgo.com/?q=Hora+do+Mac">Hora do Mac (DuckDuckGo)</a></li>
+<li><a href="https://duckduckgo.com/?q=FISL">FISL</a></li>
+<li><a href="https://duckduckgo.com/?q=Kit+Inicial+de+Podcasts">Kit Inicial de Podcasts</a></li>
+<li><a href="https://duckduckgo.com/?q=Plataforma+Android">Plataforma Android</a></li>
+<li><a href="https://duckduckgo.com/?q=Plataforma+iOS">Plataforma iOS</a></li>
+<li><a href="https://duckduckgo.com/?q=Unix">Unix</a></li>
+<li><a href="https://duckduckgo.com/?q=Acqua">Acqua</a></li>
+<li><a href="https://duckduckgo.com/?q=Windows+8">Windows 8</a></li>
+<li><a href="https://duckduckgo.com/?q=Amazon+Prime">Amazon Prime</a></li>
+<li><a href="https://duckduckgo.com/?q=Rdio">Rdio</a></li>
+<li><a href="https://duckduckgo.com/?q=Netflix">Netflix</a></li>
+<li><a href="https://duckduckgo.com/?q=Amyr+Klink">Amyr Klink</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/cristianocosta.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-42/castalio-podcast-42.mp3" length="43964439" type="audio/mpeg"/></item><item><title>Fábio Nogueira: Ubuntu Brasil</title><link>https://castalio.info/episodes/fabio-nogueira-ubuntu-brasi/</link><pubDate>Sun, 22 Jul 2012 22:52:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-41/castalio-podcast-41.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Fábio Nogueira: Ubuntu Brasil</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p><strong>Atualização</strong>: Faltou o link do
 <a href="http://www.youtube.com/watch?v=Dgf8Bvn8tYI">vídeo</a> da entrevista! :)</p>
