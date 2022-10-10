@@ -10,7 +10,7 @@ Dec 7, 2014
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-3 minutos</span></div><p class="card-text post-summary"><div class=document><p>No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o
+3 minutos</span></div><p class="card-text post-summary"><p>No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o
 <strong>Splinter</strong>, uma ferramente muito interessante para quem trabalha com a
 <strong>automatização</strong> de aplicativos web com <strong>python</strong>.</p><p>Na Red Hat, eu e Elyézer trabalhamos na automatização de testes
 funcionais do produto <strong>Satellite 6</strong>, certificando que todos recursos
@@ -21,8 +21,79 @@ tudo manualmente... mas isso é coisa de iniciante, e todo engenheiro de
 automatização que se preze eventualmente tenta automatizar tudo.</p><p>Apesar de usarmos o <strong>Selenium</strong> para efetuar testes de interface
 gráfica, o <strong>Splinter</strong> é uma excelente alternativa para quem deseja
 experimentar uma forma bem simples e fácil de interagir com um navegador
-web (o tal do 'browser'), e é justamente por causa desta facilidade que
-o episódio de hoje é dedicado ao <strong>Splinter</strong>.</p></p></div></div></div></article></div><div class=row></div></div></div></div></main><footer id=footer><div class=container><div class="row justify-content-center"><div class=col-md-3><h4>Sobre</h4><p>O Castálio Podcast é fruto da imaginação e curiosidade
+web (o tal do 'browser'), e é justamente por causa desta facilidade
+que o episódio de hoje é dedicado ao <strong>Splinter</strong>.</p><p>Durante nosso bate-papo, outras ferramentas são mencionadas, como o
+<strong>Selenium IDE</strong>, um add-on para o <strong>Firefox</strong> que permite gravar e
+reproduzir interações com um navegador, e o <strong>Selenium WebDriver</strong>, uma
+interface que permite interagir com um navegador usando uma linguagem de
+programação.</p><p>Para reforçar o material, também criamos um pequeno "projeto exemplo"
+onde discutimos sobre o uso do <strong>Splinter</strong> para detectar, catalogar e
+enviar notícias pendentes do <strong>Facebook</strong> para o seu celular. Para um
+exemplo mais concreto, vamos abrir um navegador <strong>Firefox</strong> e visitar o
+site do <strong>Castálio</strong>, e checar na página de arquivos o nome do último
+episódio:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#f92672>from</span> splinter <span style=color:#f92672>import</span> Browser
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>browser <span style=color:#f92672>=</span> Browser(<span style=color:#e6db74>&#39;firefox&#39;</span>)
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>driver<span style=color:#f92672>.</span>maximize_window()
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>visit(<span style=color:#e6db74>&#39;http://castalio.info/&#39;</span>)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_link_by_href(<span style=color:#e6db74>&#39;http://castalio.info/archives.html&#39;</span>)<span style=color:#f92672>.</span>click()
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>element <span style=color:#f92672>=</span> browser<span style=color:#f92672>.</span>find_by_css(<span style=color:#e6db74>&#39;#archives p a&#39;</span>)<span style=color:#f92672>.</span>first
+</span></span><span style=display:flex><span>print(element<span style=color:#f92672>.</span>text)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>screenshot(name<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;castalio&#39;</span>)
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>quit()
+</span></span></code></pre></div><p>Como vocês podem ver, o código acima ate mesmo tira um screenshot da
+pagina que foi aberta no navegador e salva no arquivo de sistemas:</p><p>O bacana é que o método que tira screenshots foi
+<a href=https://github.com/cobrateam/splinter/commit/9913fbb236455fdd94aaa06317536a74c4cd780a>contribuição</a>
+minha. :)</p><p>Agora, vamos fazer a mesma coisa, mas desta vez usando o <strong>Selenium
+WebDriver</strong>:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#f92672>from</span> selenium <span style=color:#f92672>import</span> webdriver
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>browser <span style=color:#f92672>=</span> webdriver<span style=color:#f92672>.</span>Firefox()
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>maximize_window()
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>get(<span style=color:#e6db74>&#39;http://castalio.info/&#39;</span>)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_element_by_css_selector(
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#39;a[href=&#34;http://castalio.info/archives.html&#34;]&#39;</span>
+</span></span><span style=display:flex><span>)<span style=color:#f92672>.</span>click()
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>element <span style=color:#f92672>=</span> browser<span style=color:#f92672>.</span>find_element_by_css_selector(<span style=color:#e6db74>&#39;#archives p:first-child a&#39;</span>)
+</span></span><span style=display:flex><span>print(element<span style=color:#f92672>.</span>text)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>save_screenshot(<span style=color:#e6db74>&#39;webdriver-castalio.png&#39;</span>)
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>close()
+</span></span></code></pre></div><p>Na nossa opinião, dentre as vantagens em usar o <strong>Splinter</strong>, gostamos
+do fato que existem vários métodos para interagir com elementos de uma
+página web que são bem completos e exigem menos linhas de código
+comparado com o <strong>Selenium</strong>. Outra coisa que é bem atraente são os
+nomes dos métodos, que são bem explícitos sobre qual o resultado que
+será retornado. Por exemplo, para buscar elementos, temos os métodos:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_by_css(<span style=color:#e6db74>&#39;h1&#39;</span>)
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_by_xpath(<span style=color:#e6db74>&#39;//h1&#39;</span>)
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_by_tag(<span style=color:#e6db74>&#39;h1&#39;</span>)
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_by_name(<span style=color:#e6db74>&#39;name&#39;</span>)
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_by_id(<span style=color:#e6db74>&#39;firstheader&#39;</span>)
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_by_value(<span style=color:#e6db74>&#39;query&#39;</span>)
+</span></span></code></pre></div><p>Os metodos acima retornam uma lista de elementos, se encontrados, o que
+facilita encontrar elementos por índice. O <strong>Splinter</strong> também adiciona
+dois métodos (<strong>syntatic sugar</strong>) que permitem acessar o primeiro e
+ultimo elemento de uma lista:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_by_name(<span style=color:#e6db74>&#39;name&#39;</span>)<span style=color:#f92672>.</span>first
+</span></span><span style=display:flex><span>browser<span style=color:#f92672>.</span>find_by_name(<span style=color:#e6db74>&#39;name&#39;</span>)<span style=color:#f92672>.</span>last
+</span></span></code></pre></div><p>Buscando por links é super fácil:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span>links_found <span style=color:#f92672>=</span> browser<span style=color:#f92672>.</span>find_link_by_text(<span style=color:#e6db74>&#39;Link for Example.com&#39;</span>)
+</span></span><span style=display:flex><span>links_found <span style=color:#f92672>=</span> browser<span style=color:#f92672>.</span>find_link_by_partial_text(<span style=color:#e6db74>&#39;for Example&#39;</span>)
+</span></span><span style=display:flex><span>links_found <span style=color:#f92672>=</span> browser<span style=color:#f92672>.</span>find_link_by_href(<span style=color:#e6db74>&#39;http://example.com&#39;</span>)
+</span></span><span style=display:flex><span>links_found <span style=color:#f92672>=</span> browser<span style=color:#f92672>.</span>find_link_by_partial_href(<span style=color:#e6db74>&#39;example&#39;</span>)
+</span></span></code></pre></div><p>E para fechar com chave de ouro, você pode "encadear" suas buscas para
+efetuar várias ações em uma só linha de código:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span>divs <span style=color:#f92672>=</span> browser<span style=color:#f92672>.</span>find_by_tag(<span style=color:#e6db74>&#34;div&#34;</span>)
+</span></span><span style=display:flex><span>within_elements <span style=color:#f92672>=</span> divs<span style=color:#f92672>.</span>first<span style=color:#f92672>.</span>find_by_name(<span style=color:#e6db74>&#34;name&#34;</span>)
+</span></span></code></pre></div><p>Ainda pretendemos trazer um dos desenvolvedores do projeto <strong>Splinter</strong>
+para aprendermos um pouco mais sobre a história do projeto, seu design e
+seu futuro... mas isso vai ficar para um próximo episódio!</p><h1 id=escute-agora>Escute Agora</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-56 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-56/castalio-podcast-56.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><h1 id=links>Links</h1><ul><li><a href=http://splinter.cobrateam.info/en/latest/>Splinter</a></li><li><a href=http://docs.seleniumhq.org/>Selenium</a></li><li><a href=http://docs.seleniumhq.org/projects/ide/>Selenium IDE</a></li><li><a href=http://docs.seleniumhq.org/projects/webdriver/>Selenium WebDriver</a></li><li><a href="https://www.youtube.com/watch?v=BlNl7BJTUBs&list=PLcvmpY7C1j8l2rizvq7HLxLxX2fZioEuw">Satellite 6</a></li></ul><div class="alert alert-info" role=alert><strong>Música</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></p></div></div></div></article></div><div class=row></div></div></div></div></main><footer id=footer><div class=container><div class="row justify-content-center"><div class=col-md-3><h4>Sobre</h4><p>O Castálio Podcast é fruto da imaginação e curiosidade
 incansável de Og Maciel, um brasileiro que desde 1991 mora nos
 Estados Unidos mas que nunca deixou de prestigiar suas raizes!
 Caso você tenha alguma sugestão para o nosso próximo convidado,
