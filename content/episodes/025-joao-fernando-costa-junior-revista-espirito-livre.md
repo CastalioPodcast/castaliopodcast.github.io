@@ -138,6 +138,6 @@ site:
 - [PDF](https://duckduckgo.com/?q=PDF)
 - [Cloud Computing](https://duckduckgo.com/?q=Cloud+Computing)
 
-<p class="alert alert-info">
-  <strong>Música</strong>: <a class="reference external" href="http://soundcloud.com/clebertsuconic/sunday-night-lerning">Sunday Night Learning</a> por <a class="reference external" href="http://soundcloud.com/clebertsuconic">Clebert Suconic</a>.
-</p>
+{{< alert >}}
+**Música**: [Sunday Night Learning](http://soundcloud.com/clebertsuconic/sunday-night-lerning) por [Clebert Suconic](http://soundcloud.com/clebertsuconic).
+{{< /alert >}}

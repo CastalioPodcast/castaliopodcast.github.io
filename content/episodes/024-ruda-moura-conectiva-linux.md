@@ -127,6 +127,6 @@ book:
 - [Haxent](https://duckduckgo.com/?q=Haxent)
 - [Portal Terra](https://duckduckgo.com/?q=Portal+Terra)
 
-<p class="alert alert-info">
-  <strong>Música</strong>: <a class="reference external" href="http://soundcloud.com/clebertsuconic/sunday-night-lerning">Sunday Night Learning</a> por <a class="reference external" href="http://soundcloud.com/clebertsuconic">Clebert Suconic</a>.
-</p>
+{{< alert >}}
+**Música**: [Sunday Night Learning](http://soundcloud.com/clebertsuconic/sunday-night-lerning) por [Clebert Suconic](http://soundcloud.com/clebertsuconic).
+{{< /alert >}}
