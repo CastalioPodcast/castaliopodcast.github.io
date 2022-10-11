@@ -1,6 +1,12 @@
 body {
-    padding-top: 56px;
-    background-color: #f5f6f9;
+  padding-top: 56px;
+  background-color: #f5f6f9;
+}
+
+h1 {
+  font-size: inherit;
+  font-weight: inherit;
+  display: inline-block;
 }
 
 .post-title a, a.nav-link {
@@ -53,27 +59,28 @@ body {
 }
 
 #footer {
-    background-color: #222;
-    border-color: #080808;
-    border-width: 0 0 1px;
+  background-color: #222;
+  border-color: #080808;
+  border-width: 0 0 1px;
 }
 
 #footer .row {
-    padding-top: 35px;
+  padding-top: 35px;
 }
 
 #footer a, #footer p {
-    color: #777;
+  color: #777;
 }
 
 #footer a.btn {
-    color: #fff !important;
+  color: #fff !important;
 }
 
-#footer h4 {
-    color: #fff;
+#footer h2 {
+  color: #fff;
+  font-size: 1.5rem;
 }
 
 #footer a:hover {
-    color: #fff;
+  color: #fff;
 }
