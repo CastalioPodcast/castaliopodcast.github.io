@@ -48,22 +48,23 @@ Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE
 RHCA, RHCSS, RHCDS, RHCVA, RHCI) e hoje mora na Carolina do Norte. É com grande
 prazer que nós recebemos nosso convidado de hoje, Marcelo Mello.
 
-.. more
-
-Este é mais um episódio que foi gravado ao vivo pelo `canal do YouTube`_.
-Começamos perguntando para o o Marcelo como ele iniciou no mundo Open Source e
-como foi parar na Red Hat. Em seguida ele nos conta como e o seu trabalho como
-Principal Technical Support Engineer.
+Este é mais um episódio que foi gravado ao vivo pelo [canal do
+YouTube](https://www.youtube.com/c/CastalioPodcast). Começamos perguntando para
+o o Marcelo como ele iniciou no mundo Open Source e como foi parar na Red Hat.
+Em seguida ele nos conta como e o seu trabalho como Principal Technical Support
+Engineer.
 
 O Marcelo se mudou há alguns anos para a Carolina do Norte nos Estados Unidos.
 Por isso perguntamos como foi a experiência, se ele e sua família estão se
 adaptando a cultura, também, o que sente falta e o que gosta comparado com o
 Brasil.
 
-Depois disso o Marcelo no fala sobre o `Home Assistant`_, para que ele serve e
-os projetos de automatização do Home Assistant com `Python`_. Além disso, ele fez
-uma demonstração do Home Assistant que ele esta utilizando para automatizar a
-sua casa. Para assistir a demonstração, assista a gravação do episodio:
+Depois disso o Marcelo no fala sobre o [Home
+Assistant](https://home-assistant.io/), para que ele serve e os projetos de
+automatização do Home Assistant com [Python](https://www.python.org/). Além
+disso, ele fez uma demonstração do Home Assistant que ele esta utilizando para
+automatizar a sua casa. Para assistir a demonstração, assista a gravação do
+episodio:
 
 {{< youtube hZq8ucpzjCs >}}
 
@@ -71,24 +72,22 @@ Em seguida não podíamos deixar faltar o Top 5, confira as sugestões do Marcel
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
-comentários aqui no site, ou no `Twitter <https://twitter.com/castaliopod>`_ ou
-no `Facebook <https://www.facebook.com/castaliopod>`_. Também não esqueça de
-seguir a `Playlist do Castálio Podcast
-<https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg>`_ e
-assinar nosso `canal do YouTube`_.
+comentários aqui no site, ou no [Twitter](https://twitter.com/castaliopod) ou
+no [Facebook](https://www.facebook.com/castaliopod). Também não esqueça de
+seguir a [Playlist do Castálio
+Podcast](https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg)
+e assinar nosso [canal do YouTube](https://www.youtube.com/c/CastalioPodcast).
 
 Até o próximo episódio!
 
-Contato
--------
-* **Github**: https://github.com/tchellomello
-* **Twitter**: https://twitter.com/tchellomello
+# Contato
 
-Escute Agora
-------------
+- **Github**: <https://github.com/tchellomello>
+- **Twitter**: <https://twitter.com/tchellomello>
+
+# Escute Agora
 
 {{< podcast castalio-podcast-102 >}}
-
 
 {{< top5 >}}
 music:
@@ -107,30 +106,19 @@ movie:
     * 101 Dalmatas
 {{< /top5 >}}
 
+# Links
 
-Links
------
+- [Home Assistant](https://home-assistant.io/)
+- [Python](https://www.python.org/)
+- [Projeto Fedora](https://getfedora.org/)
+- [python-amcrest](https://github.com/tchellomello/python-amcrest)
+- [python-arlo](https://github.com/tchellomello/python-arlo)
+- [python-ring-doorbell](https://github.com/tchellomello/python-ring-doorbell)
 
-* `Home Assistant`_
-* `Python`_
-* `Projeto Fedora`_
-* `python-amcrest`_
-* `python-arlo`_
-* `python-ring-doorbell`_
-
-.. class:: alert alert-info
-
-    **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
-.. Mentioned
-.. _canal do YouTube: https://www.youtube.com/c/CastalioPodcast
-.. _Home Assistant: https://home-assistant.io/
-.. _Python: https://www.python.org/
-.. _Projeto Fedora: https://getfedora.org/
-.. _python-amcrest: https://github.com/tchellomello/python-amcrest
-.. _python-arlo: https://github.com/tchellomello/python-arlo
-.. _python-ring-doorbell: https://github.com/tchellomello/python-ring-doorbell
-
-.. Footer
-.. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
-.. _Red Hook Ramblers: http://www.redhookramblers.com/
+{{< alert >}}
+**Music (Música)**: [Ain\'t Gonna Give Jelly
+Roll](http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll)
+by [Red Hook Ramblers](http://www.redhookramblers.com/) is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+{{< /alert >}}
