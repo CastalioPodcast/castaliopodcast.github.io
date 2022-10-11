@@ -6,7 +6,7 @@
       {{- if $logo -}}
         {{ partial "helpers/image" (dict "filename" $logo "alt" "Logo" "class" "d-inline-block align-text-top" "resources" .Resources ) }}
       {{- end -}}
-      <h1>{{ with .Site.Params.brand }}{{ . }}{{ else }}{{ $.Site.Title }}{{ end }}</h1>
+      {{ with .Site.Params.brand }}{{ . }}{{ else }}{{ $.Site.Title }}{{ end }}
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
