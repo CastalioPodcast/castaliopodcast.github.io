@@ -28,12 +28,13 @@ image-alt: Vladimir Melo - Software Livre e Obesidade Infantil
 Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
 
 Nosso entrevistado de hoje é Psicólogo clínico, recentemente publicou um livro
-chamado `Obesidade Infantil: Interações Familiares e Ciclo de Vida Numa
-Perspectiva Sistêmica`_, e, por muito tempo, foi membro da equipe de tradutores
-do projeto `GNOME`_, traduzindo aplicativos GNOME para o português Brasileiro.
-É com grande prazer que nós recebemos nosso convidado de hoje, Vladmir Melo.
-
-.. more
+chamado [Obesidade Infantil: Interações Familiares e Ciclo de Vida Numa
+Perspectiva
+Sistêmica](http://www.editoraappris.com.br/produto/e-book-obesidade-infantil-interacoes-familiares-e-ciclo-de-vida-numa-perspectiva-sistemica),
+e, por muito tempo, foi membro da equipe de tradutores do projeto
+[GNOME](https://www.gnome.org/), traduzindo aplicativos GNOME para o português
+Brasileiro. É com grande prazer que nós recebemos nosso convidado de hoje,
+Vladmir Melo.
 
 Começamos nossa conversa falando um pouco sobre a participação do Vladimir na
 equipe de tradutores to projeto GNOME. Conversamos sobre o que chamou sua
@@ -49,13 +50,9 @@ O Vladimir vem palestrando em escolas publicas sobre obesidade infantil. Ele
 nos conta como é este trabalho e qual é o objetivo dessas palestras para as
 crianças, seus pais e instrutores.
 
-.. raw:: html
+<div class="clearfix"></div>
 
-    <div class="clearfix"></div>
-
-.. figure:: /images/vladimir-melo-palestra.jpg
-   :alt: Vladimir em uma de suas palestras
-   :figclass: center-block
+![](/images/vladimir-melo-palestra.jpg)
 
 Antes de ir para o Top 5, o Vladimir nos fala sobre o outro lado da moeda, que
 são de pessoas com anorexia e como está a distribuição dos casos entre homens e
@@ -68,62 +65,54 @@ em espanhol em seu Facebook.
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
-comentários aqui no site, ou no `Twitter <https://twitter.com/castaliopod>`_ ou
-no `Facebook <https://www.facebook.com/castaliopod>`_.
+comentários aqui no site, ou no [Twitter](https://twitter.com/castaliopod) ou
+no [Facebook](https://www.facebook.com/castaliopod).
 
 Até o próximo episódio!
 
-Contato
--------
-* **Facebook**: https://www.facebook.com/vladimir.melo
-* **Site**: http://vladimirmelo.com.br/
+# Contato
 
-Escute Agora
-------------
+- **Facebook**: <https://www.facebook.com/vladimir.melo>
+- **Site**: <http://vladimirmelo.com.br/>
+
+# Escute Agora
 
 {{< podcast castalio-podcast-97 >}}
 
 {{< top5 >}}
 movie:
-    * Brilho Eterno de uma Mente sem Lembranças
-    * Vanilla Sky
-    * Quentin Tarantino
+    - Brilho Eterno de uma Mente sem Lembranças
+    - Vanilla Sky
+    - Quentin Tarantino
 book:
-    * J.M. Coetzee
-    * Oliver Sacks
-    * José Saramago
-    * Haruki Murakami
-    * Mario Vargas Llosa
-    * Jorge Luis Borges
-    * Adolfo Bioy Casares
+    - J.M. Coetzee
+    - Oliver Sacks
+    - José Saramago
+    - Haruki Murakami
+    - Mario Vargas Llosa
+    - Jorge Luis Borges
+    - Adolfo Bioy Casares
 music:
-    * Sigur Rós
-    * Angus Stone
-    * José González
-    * David Bowie
+    - Sigur Rós
+    - Angus Stone
+    - José González
+    - David Bowie
 {{< /top5 >}}
 
-Links
------
-* `Obesidade Infantil: Interações Familiares e Ciclo de Vida Numa Perspectiva Sistêmica`_
-* `GNOME`_
-* `Arch Linux`_
-* `Ubuntu`_
-* `Libre Office`_
-* `Muito Além do Peso`_
+# Links
 
-.. class:: alert alert-info
+- [Obesidade Infantil: Interações Familiares e Ciclo de Vida Numa
+    Perspectiva Sistêmica](http://www.editoraappris.com.br/produto/e-book-obesidade-infantil-interacoes-familiares-e-ciclo-de-vida-numa-perspectiva-sistemica)
+- [GNOME](https://www.gnome.org/)
+- [Arch Linux](https://www.archlinux.org/)
+- [Ubuntu](https://www.ubuntu.com/)
+- [Libre Office](https://www.libreoffice.org/)
+- [Muito Além do Peso](https://www.youtube.com/watch?v=8UGe5GiHCT4)
 
-    **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
-.. Mentioned
-.. _Obesidade Infantil\: Interações Familiares e Ciclo de Vida Numa Perspectiva Sistêmica: http://www.editoraappris.com.br/produto/e-book-obesidade-infantil-interacoes-familiares-e-ciclo-de-vida-numa-perspectiva-sistemica
-.. _GNOME: https://www.gnome.org/
-.. _Arch Linux: https://www.archlinux.org/
-.. _Ubuntu: https://www.ubuntu.com/
-.. _Libre Office: https://www.libreoffice.org/
-.. _Muito Além do Peso: https://www.youtube.com/watch?v=8UGe5GiHCT4
-
-.. Footer
-.. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
-.. _Red Hook Ramblers: http://www.redhookramblers.com/
+{{< alert >}}
+**Music (Música)**: [Ain\'t Gonna Give Jelly
+Roll](http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll)
+by [Red Hook Ramblers](http://www.redhookramblers.com/) is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+{{< /alert >}}
