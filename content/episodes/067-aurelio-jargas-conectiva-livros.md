@@ -30,16 +30,15 @@ Conseguimos entrevistar o Aurelio Jargas e nossa conversa foi muito
 interessante. Ele nos contou algumas fases interessantes que passou durante a
 sua carreira profissional.
 
-.. more
-
 Ele nos conta como foi trabalhar na Conectiva, onde começou a trabalhar na
 década de 90. Se você está interessado em conhecer mais sobre os bastidores do
 ambiente profissional está no lugar certo!
 
 Após trabalhar alguns anos na Conectiva, ele deixa a empresa e inicia o período
-em que ficou mais de 5 anos "desempregado". Foi durante esta fase que ele nos
-presenteou com os livros `Expressões Regulares – Uma Abordagem Divertida`_ e
-`Shell Script Profissional`_.
+em que ficou mais de 5 anos \"desempregado\". Foi durante esta fase que ele nos
+presenteou com os livros [Expressões Regulares -- Uma Abordagem
+Divertida](http://www.novatec.com.br/livros/expressoesregulares4/) e [Shell
+Script Profissional](http://www.novatec.com.br/livros/shellscript/).
 
 No episódio você encontra muito mais, então corre lá e ouça agora mesmo!
 
@@ -49,40 +48,30 @@ o Aurelio foi bem interessante e ele desenvolveu outros projetos que apenas um
 episódio não foi o bastante! Por isso, no próximo vamos continuar nossa
 conversa falando sobre os projetos e o Top 5 do Aurelio.
 
-Contato
--------
-* **Site**: http://aurelio.net/
-* **Twitter**: https://twitter.com/oreio
-* **Facebook**: https://www.facebook.com/aurelio.jargas
-* **Github**: https://github.com/aureliojargas
-* **YouTube**: https://www.youtube.com/channel/UCdvLgGyXwgMDz7Qfy-7-1jA
+# Contato
 
-Escute Agora
-------------
+- **Site**: <http://aurelio.net/>
+- **Twitter**: <https://twitter.com/oreio>
+- **Facebook**: <https://www.facebook.com/aurelio.jargas>
+- **Github**: <https://github.com/aureliojargas>
+- **YouTube**: <https://www.youtube.com/channel/UCdvLgGyXwgMDz7Qfy-7-1jA>
+
+# Escute Agora
 
 {{< podcast castalio-podcast-67 >}}
 
-Links
------
-* `Expressões Regulares – Uma Abordagem Divertida`_
-* `Site do livro Expressões Regulares – Uma Abordagem Divertida`_
-* `Shell Script Profissional`_
-* `Site do livro Shell Script Profissional`_
-* `Expressões Regulares – Guia de Consulta Rápida`_ (agora faz parte do livro
-  de expressões regulares. Acesse o `Guia de Consulta Rápida`)
+# Links
 
-.. class:: alert alert-info
+- [Expressões Regulares -- Uma Abordagem Divertida](http://www.novatec.com.br/livros/expressoesregulares4/)
+- [Site do livro Expressões Regulares -- Uma Abordagem Divertida](http://www.piazinho.com.br/)
+- [Shell Script Profissional](http://www.novatec.com.br/livros/shellscript/)
+- [Site do livro Shell Script Profissional](http://www.shellscript.com.br/)
+- [Expressões Regulares -- Guia de Consulta Rápida](http://www.novatec.com.br/guias/expreg/) (agora faz parte do livro de expressões regulares. Acesse o [Guia de Consulta Rápida](http://www.piazinho.com.br/download/expressoes-regulares-3-tabelas.pdf))
 
-        **Música**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
-.. Mentioned
-.. _Expressões Regulares – Uma Abordagem Divertida: http://www.novatec.com.br/livros/expressoesregulares4/
-.. _Site do livro Expressões Regulares – Uma Abordagem Divertida: http://www.piazinho.com.br/
-.. _Shell Script Profissional: http://www.novatec.com.br/livros/shellscript/
-.. _Site do livro Shell Script Profissional: http://www.shellscript.com.br/
-.. _Expressões Regulares – Guia de Consulta Rápida: http://www.novatec.com.br/guias/expreg/
-.. _Guia de Consulta Rápida: http://www.piazinho.com.br/download/expressoes-regulares-3-tabelas.pdf
-
-.. Footer
-.. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
-.. _Red Hook Ramblers: http://www.redhookramblers.com/
+{{< alert >}}
+**Música**: [Ain\'t Gonna Give Jelly
+Roll](http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll)
+by [Red Hook Ramblers](http://www.redhookramblers.com/) is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+{{< /alert >}}
