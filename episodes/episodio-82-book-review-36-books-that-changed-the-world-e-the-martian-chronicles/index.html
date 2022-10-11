@@ -10,58 +10,88 @@ Jan 8, 2017
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-5 minutos</span></div><img class="float-start img-thumbnail post-image" src=/images/books-82.jpg><div class="post-content mb-3"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje temos um convidado, o Rafael Rosa Fu que aceitou nosso
-convite e fez 2 book reviews, um falando sobre o livro "36 Books that Changed the World"
-e outro sobre o "The Martian Chronicles".</p><p>A dica de Python da semana é sobre testes, mais especificamente sobre o uso
-do <tt class="docutils literal">subTest</tt> que é um context manager que foi adicionado ao módulo unittest do Python3.4
-e que já estava disponível no 2.7. Usando o unittest e o <tt class="docutils literal">subTest</tt> possibilita que
-em um mesmo test case várias iterações de um loop sejam testadas tendo seu
-resultado acumulado ao invés de sair na primeira falha. O Elyézer preparou o seguinte
-exemplo:</p><pre class=literal-block>
-def par(n):
-    &quot;&quot;&quot;Verifica se o número é par&quot;&quot;&quot;
-    return n % 2 == 0
-
-def test_todos_par(self):
-    &quot;&quot;&quot;Testa se todos os números da lista são pares&quot;&quot;&quot;
-    for n in (0, 2, 3, -2, 4):
-        with self.subTest(n=n):
-            self.assertTrue(par(n))
-</pre><p>Sem o uso do <tt class="docutils literal">subTest</tt> o teste acima iria parar de ser executado na primeira falha, ou seja,
-quando o <tt class="docutils literal">n</tt> recebesse o valor <tt class="docutils literal">3</tt>, mas usando o <tt class="docutils literal">subTest</tt> garantimos que todos os
-números da lista serão testados e o caso de falha será informado apenas ao final quando
-sair do contexto do <tt class="docutils literal">subTest</tt>.</p><p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p><div class=section id=projetos-e-pacotes><h2>Projetos e Pacotes</h2><ul><li><p class=first><strong>Python 3.6.0</strong></p><p>Foi lançada a versão final do <a class="reference external" href=https://www.python.org/downloads/release/python-360/>Python 3.6.0</a> contendo todas as novidades
-que já mencionamos no <a class="reference external" href=/episodio-76-book-review-e-python-packages.html>episódio 76</a></p></li><li><p class=first><strong>typing</strong></p><p>Já haviamos falado sobre o MyPy que traz a opção de tipagem e também sobre os annotations
-do Python 3.x, mas agora você pode também utilizar este recurso em versões anteriores
-instalando a bilbioteca <a class="reference external" href=https://pypi.python.org/pypi/typing>typing</a></p></li><li><p class=first><strong>Kite</strong></p><p>Imagina fazer <strong>pair programming</strong> com uma inteligência articial? É isso que o <a class="reference external" href=https://kite.com/>Kite</a>
-oferece. Com plugins para os principais editores, o Kite utiliza de A.I para recomendar
-o que você deve fazer em seu código e mostra informações relevantes sobre o trecho digitado.
-Você digita <tt class="docutils literal">import r</tt> e antes de completar o nome do módulo ele já te mostra uma lista
-de todos os pacotes mais populares iniciados com a letra <tt class="docutils literal">r</tt> e exibe dicas sobre estes pacotes.</p></li><li><p class=first><strong>Grumpy</strong></p><p>O pessoal do Google lançou um novo runtime para Python escrito em Go, o <a class="reference external" href=https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html>Grumpy</a>.
-Eles desenvolveram esta ferramenta para otimizar o YouTube que tem seu front-end e
-API escritos em Python e para melhorar seu desempenho, criando um runtime onde
-é possível executar código Python em cima de Go e a vantagem é que com isso você
-pode fazer <tt class="docutils literal">from __go__ import qualquer_coisa</tt> e então aproveitar os recursos
-assíncronos da linguagem.</p></li><li><p class=first><strong>Python Mocket</strong></p><p>Mock+Socket, <a class="reference external" href=https://github.com/mindflayer/python-mocket>Python-Mocket</a> é uma biblioteca para fazer Mock de sockets e clients http.
-Por exemplo, quando você precisa testar o client de uma API mas não deseja efetuar chamadas reais,
-então você usa o <strong>mocket</strong> para gravar respostas padrão para URLs e Payloads específicos.</p></li><li><p class=first><strong>Colored Logs</strong></p><p>Muito simples, instale o <a class="reference external" href=https://pypi.python.org/pypi/coloredlogs>coloredlogs</a> e rode <tt class="docutils literal">coloredlogs.install()</tt> e tenha
-suas mensagens de log coloridas no terminal.</p></li><li><p class=first><strong>Tkinter</strong></p><p>O <a class="reference external" href=https://docs.python.org/3.3/library/tk.html>Tkinter</a> é uma extensão para usar a linguagem Tcl em Python. Ela serve para
-criar interfaces gráficas simples que usam o mesmo look and feel do seu sistema
-operacional. Neste episódio fazemos um convite para participar do <a class="reference external" href=https://github.com/CastalioPodcast/playground>Castálio Playground</a>
-e aprender ou exercitar seus conhecimentos em Python usando o nosso exemplo em Tkinter.</p></li></ul></div><div class=section id=book-review><h2>Book Review</h2><p>O <a class="reference external" href=http://castalio.info/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1.html>Rafael Rosa Fu</a> é o nosso convidado neste episódio falando sobre estes
-2 livros.</p><ul><li><p class=first><a class="reference external" href=http://www.thegreatcourses.com/courses/36-books-that-changed-the-world.html>36 Books that Changed the World</a></p><blockquote><p>Desde o desenvolvimento da linguagem escrita, os livros têm desempenhado um papel central em nossa cultura.
-Divertindo, Instruindo e Inspirando. Mas um livro pode realmente mudar o curso da história?
-A resposta é, sim. <strong>36 Livros Que Mudaram o Mundo</strong> é uma fascinante coleção de Grandes Cursos
-elaborada a partir de uma extensa seleção de livros. É um tour intelectual de milhares de anos
-de história e de civilizações ao redor do globo.</p></blockquote></li><li><p class=first><a class="reference external" href=https://www.goodreads.com/book/show/76778.The_Martian_Chronicles>The Martian Chronicles</a></p><blockquote><p>É um livro de contos de ficção científica de 1950, de autoria do escritor estadunidense Ray Bradbury,
-cujo tema recorrente é a colonização de Marte por humanos com problemas e eventualmente vindos de uma Terra
-sob a iminência de ser devastada pela Guerra Atômica. O livro mostra todo o processo da colonização do planeta vermelho com a chegada dos primeiros humanos, até o período onde devido ao descuido e abuso de seus recursos naturais, o planeta começa a entrar em decadencia. Composto de várias histórias, o livro é simplemente fantástico e Ray Bradbury mostra todo o seu gênio trazendo momentos variados como a comêdia, horror e saudozismo para ilustrar como o ser humano destroi mais um planeta.</p></blockquote></li></ul></div><div class=section id=escute-agora><h2>Escute Agora</h2><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-82 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-82/castalio-podcast-82.mp3><i class="bi bi-download"></i> MP3</a>
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-82/castalio-podcast-82.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><div class=section id=sorteio-da-caneca-do-castalio><h3>Sorteio da Caneca do Castálio</h3><div class="clear figure"><img alt="Caneca do Castálio" src=/images/caneca.png></div><p>A nova caneca do Castálio teve sua arte desenvolvida gentilmente pela Karla que
-faz aquarelas no <a class="reference external" href=https://www.etsy.com/pt/shop/EmporiumKarela>Emporium Karela</a> e conforme prometido sorteamos uma das canecas
-entre os ouvintes que comentaram no <a class="reference external" href=/episodio-81-book-review-as-vinhas-da-ira-e-novidades-da-semana.html>episódio 81</a>.</p><p>Para o sorteio ordenamos os comentários por ordem de data crescente e então usamos
-o site <strong>Sorteador</strong> para escolher um número aleatoriamente, e o grande vencedor foi
-o nosso ouvinte <strong>Nuno</strong>.</p><p>O resultado do sorteio está registrado no seguite link <a class="reference external" href=http://sorteador.com.br/sorteador/resultado/446325>http://sorteador.com.br/sorteador/resultado/446325</a></p><p>Parabéns <strong>Nuno</strong>, muito obrigado pela sua participação!!!</p><p>Escute nossos próximos episódios para saber como adquirir (ou quem sabe ganhar) uma das
-canecas do Castálio!</p><p class="alert alert-info"><strong>Music (Música)</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p></div></div></div></div><h2>Tags</h2><p class=lh-lg><a class="btn btn-primary btn-sm" href=https://castalio.info/tags/book-review/>book review</a>
+5 minutos</span></div><img class="float-start img-thumbnail post-image" src=/images/books-82.jpg><div class="post-content mb-3"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje temos um convidado, o Rafael Rosa Fu que aceitou nosso
+convite e fez 2 book reviews, um falando sobre o livro "36 Books that Changed
+the World" e outro sobre o "The Martian Chronicles".</p><p>A dica de Python da semana é sobre testes, mais especificamente sobre o uso do
+<code>subTest</code> que é um context manager que foi adicionado ao módulo unittest do
+Python3.4 e que já estava disponível no 2.7. Usando o unittest e o <code>subTest</code>
+possibilita que em um mesmo test case várias iterações de um loop sejam
+testadas tendo seu resultado acumulado ao invés de sair na primeira falha. O
+Elyézer preparou o seguinte exemplo:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>par</span>(n):
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;&#34;&#34;Verifica se o número é par&#34;&#34;&#34;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>return</span> n <span style=color:#f92672>%</span> <span style=color:#ae81ff>2</span> <span style=color:#f92672>==</span> <span style=color:#ae81ff>0</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>test_todos_par</span>(self):
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;&#34;&#34;Testa se todos os números da lista são pares&#34;&#34;&#34;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>for</span> n <span style=color:#f92672>in</span> (<span style=color:#ae81ff>0</span>, <span style=color:#ae81ff>2</span>, <span style=color:#ae81ff>3</span>, <span style=color:#f92672>-</span><span style=color:#ae81ff>2</span>, <span style=color:#ae81ff>4</span>):
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>with</span> self<span style=color:#f92672>.</span>subTest(n<span style=color:#f92672>=</span>n):
+</span></span><span style=display:flex><span>                self<span style=color:#f92672>.</span>assertTrue(par(n))
+</span></span></code></pre></div><p>Sem o uso do <code>subTest</code> o teste acima iria parar de ser executado na primeira
+falha, ou seja, quando o <code>n</code> recebesse o valor <code>3</code>, mas usando o <code>subTest</code>
+garantimos que todos os números da lista serão testados e o caso de falha será
+informado apenas ao final quando sair do contexto do <code>subTest</code>.</p><p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p><h1 id=projetos-e-pacotes>Projetos e Pacotes</h1><ul><li><p><strong>Python 3.6.0</strong></p><p>Foi lançada a versão final do <a href=https://www.python.org/downloads/release/python-360/>Python
+3.6.0</a> contendo todas
+as novidades que já mencionamos no <a href=/episodio-76-book-review-e-python-packages.html>episódio
+76</a></p></li><li><p><strong>typing</strong></p><p>Já haviamos falado sobre o MyPy que traz a opção de tipagem e também sobre
+os annotations do Python 3.x, mas agora você pode também utilizar este
+recurso em versões anteriores instalando a bilbioteca
+<a href=https://pypi.python.org/pypi/typing>typing</a></p></li><li><p><strong>Kite</strong></p><p>Imagina fazer <strong>pair programming</strong> com uma inteligência articial? É isso
+que o <a href=https://kite.com/>Kite</a> oferece. Com plugins para os principais
+editores, o Kite utiliza de A.I para recomendar o que você deve fazer em
+seu código e mostra informações relevantes sobre o trecho digitado. Você
+digita <code>import r</code> e antes de completar o nome do módulo ele já te mostra
+uma lista de todos os pacotes mais populares iniciados com a letra <code>r</code> e
+exibe dicas sobre estes pacotes.</p></li><li><p><strong>Grumpy</strong></p><p>O pessoal do Google lançou um novo runtime para Python escrito em Go, o
+<a href=https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html>Grumpy</a>.
+Eles desenvolveram esta ferramenta para otimizar o YouTube que tem seu
+front-end e API escritos em Python e para melhorar seu desempenho, criando
+um runtime onde é possível executar código Python em cima de Go e a
+vantagem é que com isso você pode fazer <code>from __go__ import qualquer_coisa</code>
+e então aproveitar os recursos assíncronos da linguagem.</p></li><li><p><strong>Python Mocket</strong></p><p>Mock+Socket, <a href=https://github.com/mindflayer/python-mocket>Python-Mocket</a> é
+uma biblioteca para fazer Mock de sockets e clients http. Por exemplo,
+quando você precisa testar o client de uma API mas não deseja efetuar
+chamadas reais, então você usa o <strong>mocket</strong> para gravar respostas padrão
+para URLs e Payloads específicos.</p></li><li><p><strong>Colored Logs</strong></p><p>Muito simples, instale o
+<a href=https://pypi.python.org/pypi/coloredlogs>coloredlogs</a> e rode
+<code>coloredlogs.install()</code> e tenha suas mensagens de log coloridas no
+terminal.</p></li><li><p><strong>Tkinter</strong></p><p>O <a href=https://docs.python.org/3.3/library/tk.html>Tkinter</a> é uma extensão
+para usar a linguagem Tcl em Python. Ela serve para criar interfaces
+gráficas simples que usam o mesmo look and feel do seu sistema operacional.
+Neste episódio fazemos um convite para participar do <a href=https://github.com/CastalioPodcast/playground>Castálio
+Playground</a> e aprender ou
+exercitar seus conhecimentos em Python usando o nosso exemplo em Tkinter.</p></li></ul><h1 id=book-review>Book Review</h1><p>O <a href=http://castalio.info/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1.html>Rafael Rosa
+Fu</a>
+é o nosso convidado neste episódio falando sobre estes 2 livros.</p><p>- <a href=http://www.thegreatcourses.com/courses/36-books-that-changed-the-world.html>36 Books that Changed the
+World</a></p><blockquote><p>Desde o desenvolvimento da linguagem escrita, os livros têm
+desempenhado um papel central em nossa cultura. Divertindo, Instruindo
+e Inspirando. Mas um livro pode realmente mudar o curso da história? A
+resposta é, sim. <strong>36 Livros Que Mudaram o Mundo</strong> é uma fascinante
+coleção de Grandes Cursos   elaborada a partir de uma extensa seleção
+de livros. É um tour intelectual de milhares de anos de história e de
+civilizações ao redor do globo.</p></blockquote><p>- <a href=https://www.goodreads.com/book/show/76778.The_Martian_Chronicles>The Martian
+Chronicles</a></p><blockquote><p>É um livro de contos de ficção científica de 1950, de autoria do escritor
+estadunidense Ray Bradbury, cujo tema recorrente é a colonização de Marte por
+humanos com problemas e eventualmente vindos de uma Terra   sob a iminência
+de ser devastada pela Guerra Atômica. O livro mostra todo o processo da
+colonização do planeta vermelho com a chegada dos primeiros humanos, até o
+período onde devido ao descuido e abuso de seus recursos naturais, o planeta
+começa a entrar em decadencia. Composto de várias histórias, o livro é
+simplemente fantástico e Ray Bradbury mostra todo o seu gênio trazendo
+momentos variados como a comêdia, horror e saudozismo para ilustrar como o
+ser humano destroi mais um planeta.</p></blockquote><h1 id=escute-agora>Escute Agora</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-82 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-82/castalio-podcast-82.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-82/castalio-podcast-82.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><h2 id=sorteio-da-caneca-do-castálio>Sorteio da Caneca do Castálio</h2><p><img src=/images/caneca.png alt>{.clear}</p><p>A nova caneca do Castálio teve sua arte desenvolvida gentilmente pela Karla que
+faz aquarelas no <a href=https://www.etsy.com/pt/shop/EmporiumKarela>Emporium Karela</a>
+e conforme prometido sorteamos uma das canecas entre os ouvintes que comentaram
+no <a href=/episodio-81-book-review-as-vinhas-da-ira-e-novidades-da-semana.html>episódio
+81</a>.</p><p>Para o sorteio ordenamos os comentários por ordem de data crescente e então
+usamos o site <strong>Sorteador</strong> para escolher um número aleatoriamente, e o grande
+vencedor foi o nosso ouvinte <strong>Nuno</strong>.</p><p>O resultado do sorteio está registrado no seguite link
+<a href=http://sorteador.com.br/sorteador/resultado/446325>http://sorteador.com.br/sorteador/resultado/446325</a></p><p>Parabéns <strong>Nuno</strong>, muito obrigado pela sua participação!!!</p><p>Escute nossos próximos episódios para saber como adquirir (ou quem sabe ganhar)
+uma das canecas do Castálio!</p><div class="alert alert-info" role=alert><strong>Music (Música)</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></div><h2>Tags</h2><p class=lh-lg><a class="btn btn-primary btn-sm" href=https://castalio.info/tags/book-review/>book review</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/novidades-da-semana/>novidades da semana</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/36-books-that-changed-the-world/>36 books that changed the world</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/the-martian-chronicles/>the martian chronicles</a>

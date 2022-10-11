@@ -10,21 +10,48 @@ Jan 1, 2017
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-4 minutos</span></div><p class="card-text post-summary"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje o Og nos traz um book review do livro As Vinhas da Ira por
+4 minutos</span></div><p class="card-text post-summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje o Og nos traz um book review do livro As Vinhas da Ira por
 John Steinbeck. Também trazemos algumas notícias, pacotes e projetos que valem
 a pena comentar e compartilhar.</p><p>Antes de começar, gostaríamos de desejar um feliz e próspero ano novo para
 todos os nossos amigos e ouvintes. Obrigado por todos os comentários e
 indicações, o Castálio é feito por todos nós e por isso a sua participação é
 muito importante para o podcast. Que em 2017 agente consiga ter ainda mais
 entrevistas, book reviews e novidades da semana inspiradoras.</p><p>Começamos hoje com uma pequena dica de Python, ou melhor, pip. Você pode criar
-um cache local de pacotes utilizando a opção <tt class="docutils literal"><span class=pre>--download</span></tt> do pip, com isso
-você pode ter seu backup de pacotes. Para salvar os pacotes em um diretório
-especifico você pode executar:</p><pre class=literal-block>
-pip install --download=/caminho/do/diretorio -r requirements.txt
-</pre><p>Depois quando quiser usar o seu cache local, basta rodar:</p><pre class=literal-block>
-pip install --no-index --find-links=/caminho/do/diretorio -r requirements.txt
-</pre><p>Com isso o pip não irá fazer nenhum download e usará os pacotes salvos no
-diretório.</p><p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Livros - Junho de 2015" src=https://castalio.info/images/livros.jpg loading=lazy width=2302 height=2302 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/news/livros-junho-2015/>Livros - Junho De 2015</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
+um cache local de pacotes utilizando a opção <code>--download</code> do pip, com isso você
+pode ter seu backup de pacotes. Para salvar os pacotes em um diretório
+especifico você pode executar:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>pip install --download<span style=color:#f92672>=</span>/caminho/do/diretorio -r requirements.txt
+</span></span></code></pre></div><p>Depois quando quiser usar o seu cache local, basta rodar:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>pip install --no-index --find-links<span style=color:#f92672>=</span>/caminho/do/diretorio -r requirements.txt
+</span></span></code></pre></div><p>Com isso o pip não irá fazer nenhum download e usará os pacotes salvos no
+diretório.</p><p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p><p><strong>Maya</strong></p><p><a href=https://github.com/kennethreitz/maya>Maya</a> é um projeto escrito em Python
+pelo Kenneth Reitz (nosso entrevistado da semana passada). Ele facilita
+trabalhar com datetimes pois o Maya faz todo o trabalho pesado de lidar com
+timezones e permite que você foque no que realmente importa: importar ou
+exportar dados de datetime nos formatos para humanos e máquinas. O Kenneth fez
+um post com uma <a href=https://www.kennethreitz.org/essays/introducing-maya-datetimes-for-humans>introdução ao
+Maya</a>.</p><p><strong>Surprise</strong></p><p><a href=http://surpriselib.com/>Surprise</a> é uma biblioteca em Python para análise
+preditiva para sistemas de recomendação.</p><p><strong>PyTone</strong></p><p><a href=https://www.luga.de/pytone/>PyTone</a> é um jokebox com interface baseada em
+ncurses (terminal). Ele oferece vários recursos entre eles crossfading, seleção
+de música simples, playlist editável, mostra informações sobre a música atual
+(lê os metadados), seleção de músicas aleatórias e inteligente (que leva em
+consideração a avaliação e a última vez que a música foi tocada) entre outros.</p><p>O projeto é um pouco antigo (Python 2.5) mas é bem interessante a proposta.</p><p><strong>q : Quick-and-dirty debugging output for tired programmers</strong></p><p><a href="http://pyvideo.org/video/1858/sunday-evening-lightning-talks#t=25m15s">q</a> é
+uma biblioteca que auxilia na geração de mensagens de debug rápidas. As
+mensagens são escritas em arquivos (<code>$TEMPDIR/q</code>) e basta apenas incluir a
+seguinte linha para adicionar uma mensagem: <code>import q; q("mensagem")</code>.</p><p>A biblioteca também permite fazer o trace de funções (informações de argumentos
+e valor de retorno) utilizando o decorator [@q]{.title-ref} antes da definição
+da função. Também permite iniciar uma seção interativa no ponto em que a linha
+<code>import q; q.d()</code> for adicionada no código.</p><p>Para uma demonstração em vídeo, assista ao <a href=https://github.com/zestyping/q>lightning talk sobreo
+q</a></p><p><strong>Novidades</strong></p><p>Vamos deixar algumas novidades e links interessantes:</p><ul><li><a href=https://github.com/rg3915/fs2w>Full Stack Web Workshop GruPy-SP</a>: Tutoriais gratuitos do Grupy-SP em 2017</li><li><a href=https://github.com/255kb/stack-on-a-budget>Stack on a budget</a>: Lista colaborativa de serviços cloud que oferecem períodos grátis para developers</li><li><a href=https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/>Firebug lives on in Firefox DevTools</a>: Firebug foi descontinuado como um add-on do Firefox pois agora ele será incorporado ao Mozilla DevTools</li></ul><p><strong>Book Review: As Vinhas da Ira</strong></p><p>Fechamos o episódio com o book review feito pelo Og. O Og tem uma identidade
+com a história apresentada no livro pois ele passou por momentos similares aos
+apresentados no livro quando se mudou para os Estados Unidos.</p><p>A história do livro se passou durante a grande depressão e conta a história de
+uma família pobre que foi expulsa de sua propriedade devido a mudanças na
+atividade agrícola, a seca, dificuldades econômicas e execução de dívidas pelos
+bancos. Por isso a família partiu de Oklahoma para a Califórnia em busca de
+emprego, terra, dignidade e um futuro.</p><h1 id=escute-agora>Escute Agora</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-81 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-81/castalio-podcast-81.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-81/castalio-podcast-81.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><h1 id=links>Links</h1><ul><li><a href=https://github.com/kennethreitz/maya>Maya</a></li><li><a href=https://www.kennethreitz.org/essays/introducing-maya-datetimes-for-humans>introdução ao Maya</a></li><li><a href=http://surpriselib.com/>Surprise</a></li><li><a href=https://www.luga.de/pytone/>PyTone</a></li><li><a href=https://github.com/zestyping/q>lightning talk sobreo q</a></li><li><a href="http://pyvideo.org/video/1858/sunday-evening-lightning-talks#t=25m15s">q</a></li><li><a href=https://github.com/rg3915/fs2w>Full Stack Web Workshop GruPy-SP</a></li><li><a href=https://github.com/255kb/stack-on-a-budget>Stack on a budget</a></li><li><a href=https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/>Firebug lives on in Firefox DevTools</a></li><li><a href="https://www.youtube.com/watch?v=BjPUQ4Apfhk">Vinhas da Ira - Filme - 1940</a></li></ul><div class="alert alert-info" role=alert><strong>Music (Música)</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Livros - Junho de 2015" src=https://castalio.info/images/livros.jpg loading=lazy width=2302 height=2302 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/news/livros-junho-2015/>Livros - Junho De 2015</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Jul 3, 2015
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 79, 103, 32, 77, 97, 99, 105, 101, 108
