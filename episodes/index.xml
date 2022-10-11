@@ -609,10 +609,7 @@ called <a class="reference external" href="https://www.pythonistacafe.com/">Pyth
 <a class="reference external" href="https://dbader.org">Dan Bader</a>.</p>
 ]]></content:encoded><itunes:image href="https://castalio.info/images/dan-bader.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-106/castalio-podcast-106.mp3" length="139219113" type="audio/mpeg"/></item><item><title>Episódio 105: Loiane Groner</title><link>https://castalio.info/episodes/episodio-105-loiane-groner/</link><pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-105/castalio-podcast-105.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 105: Loiane Groner</itunes:title><itunes:subtitle>
-Nossa convidada de hoje é full-stack developer com mais de 10 anos de experiência, trabalhou com desenvolvimento Java na IBM e atualmente é developer no Citibank. É uma das pessoas mais influentes na comunidade JavaScript no Brasil,...</itunes:subtitle><itunes:summary>Nossa convidada de hoje é full-stack developer com mais de 10 anos de experiência, trabalhou com desenvolvimento Java na IBM e atualmente é developer no Citibank. É uma das pessoas mais influentes na comunidade JavaScript no Brasil, palestrante e organizadora de alguns eventos nessa área, autora de 7 livros e também tem um canal no Youtube com cursos online gratuitos de Java, Angular, Ionic e Javascript. É com grande prazer que nós recebemos nossa convidada, Loiane Groner.</itunes:summary><description>Nossa convidada de hoje é full-stack developer com mais de 10 anos de experiência, trabalhou com desenvolvimento Java na IBM e atualmente é developer no Citibank. É uma das pessoas mais influentes na comunidade JavaScript no Brasil, palestrante e organizadora de alguns eventos nessa área, autora de 7 livros e também tem um canal no Youtube com cursos online gratuitos de Java, Angular, Ionic e Javascript. É com grande prazer que nós recebemos nossa convidada, Loiane Groner.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Nossa convidada de hoje é full-stack developer com mais de 10 anos de experiência, trabalhou com desenvolvimento Java na IBM e atualmente é developer no Citibank. É uma das pessoas mais influentes na comunidade JavaScript no Brasil,...</itunes:subtitle><itunes:summary>Nossa convidada de hoje é full-stack developer com mais de 10 anos de experiência, trabalhou com desenvolvimento Java na IBM e atualmente é developer no Citibank. É uma das pessoas mais influentes na comunidade JavaScript no Brasil, palestrante e organizadora de alguns eventos nessa área, autora de 7 livros e também tem um canal no Youtube com cursos online gratuitos de Java, Angular, Ionic e Javascript. É com grande prazer que nós recebemos nossa convidada, Loiane Groner.</itunes:summary><description>Nossa convidada de hoje é full-stack developer com mais de 10 anos de experiência, trabalhou com desenvolvimento Java na IBM e atualmente é developer no Citibank. É uma das pessoas mais influentes na comunidade JavaScript no Brasil, palestrante e organizadora de alguns eventos nessa área, autora de 7 livros e também tem um canal no Youtube com cursos online gratuitos de Java, Angular, Ionic e Javascript. É com grande prazer que nós recebemos nossa convidada, Loiane Groner.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nossa convidada de hoje é full-stack developer com mais de 10 anos de
 experiência, trabalhou com desenvolvimento Java na IBM e atualmente é developer
 no Citibank. É uma das pessoas mais influentes na comunidade JavaScript no
@@ -620,51 +617,589 @@ Brasil, palestrante e organizadora de alguns eventos nessa área, autora de 7
 livros e também tem um canal no Youtube com cursos online gratuitos de Java,
 Angular, Ionic e Javascript. É com grande prazer que nós recebemos nossa
 convidada, Loiane Groner.</p>
+<p>Para não perder o costume, começamos perguntando como a Loiane conheceu a área
+de TI e como ela iniciou na carreira de desenvolvimento de software. Em
+seguida, perguntamos se a Loiane já sofreu algum tipo de preconceito ou
+dificuldade na área por ser mulher, pois como mencionamos no <a href="http://castalio.info/episodio-99-tech-news-e-book-review.html">episódio
+99</a>,
+programadoras do Facebook passaram por essas dificuldades.</p>
+<p>Continuando, perguntamos o que e full-stack developer e quais são as
+responsabilidades, tecnologias e skill que uma pessoa precisa dominar para
+assumir este cargo.</p>
+<p>Hoje em dia encontramos vários frameworks e abordagens para desenvolvimento
+front-end. Por isso, perguntamos quais as tecnologias a Loiane recomenda
+estudar para quem quer se especializar em front-end.</p>
+<p>No mundo do desenvolvimento mobile também encontramos varias tecnologias:
+<a href="https://www.xamarin.com/">Xamarin</a>, <a href="https://cordova.apache.org/">Cordova</a>,
+<a href="http://ionicframework.com/">Ionic</a>, <a href="https://coronalabs.com/">Corona</a> e
+outros. E também várias abordagens como os Progressive Web Apps (PWA), que foi
+mencionado no <a href="http://castalio.info/episodio-96-plataforma-de-desenvolvimento-da-microsoft-parte-2.html">episódio
+96</a>.
+Para ajudar quem esta começando nesta área, perguntamos para a Loiane quais a
+tecnologias ela indicaria e se ela acredita que o modelo PWA vai dominar sobre
+as native apps.</p>
+<p>Perguntamos para a Loiane sobre os problemas do JavaScript e como evitá-los.
+Uma vez que a adoção das especificações mais atuais do ECMAScript demoram um
+pouco para serem incluídas nos navegadores. Também perguntamos se alguma outra
+linguagem de programação atrai o interesse dela.</p>
+<p>Não podíamos deixar de perguntar sobre os 7 livros que a Loiane escreveu.
+Conversamos sobre como foi o processo de escrevê-los, como ela busca
+inspiração, quais a tecnologias utilizadas para escrever os livros, se ela já
+pensou em escrever um livro de género não técnico e se ela se espelha em algum
+escritor quando escreve os seus livros.</p>
+<p>Além de escrever os livros, a Loiane também possui um site e um canal no
+YouTube com cursos online gratuitos. Vale a pena conferir todo o material que
+ela já publicou e vai publicar, tivemos vários comentários no chat durante a
+gravação recomendado todo o material.</p>
+<p>Antes de irmos para o Top 5, perguntamos o que ela gosta de fazer enquanto não
+está trabalhando, escrevendo livros ou produzindo/ministrando seus cursos.
+Confira as recomendações que a Loiane deixou no Top 5 de hoje.</p>
+<p>Confira a gravação do episódio no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/4t3MlJ64_qs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio
+Podcast</a>
+e assinar nosso <a href="http://www.youtube.com/c/CastalioPodcast">canal do YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contato">Contato</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/loiane-groner.jpg" alt="Loiane Groner" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Loiane Groner</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/loiane">Github</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://loiane.com/">Site</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://loiane.training/">Site de cursos</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="http://www.twitter.com/loiane">Twitter</a></li>
+                <li><i class="bi bi-youtube"></i> <a href="https://youtube.com/user/loianeg">YouTube</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-105" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-105/castalio-podcast-105.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-105/castalio-podcast-105.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/7829280-o-senhor-dos-an-is" target="_blank">O Senhor dos Anéis</a></li><li><a href="https://www.goodreads.com/book/show/13496.A_Game_of_Thrones" target="_blank">A Game of Thrones</a></li><li><a href="https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone" target="_blank">Harry Potter</a></li><li><a href="https://www.goodreads.com/book/show/10052680-o-guia-do-mochileiro-das-gal-xias" target="_blank">O Guia do Mochileiro das Galáxias</a></li><li><a href="https://www.goodreads.com/book/show/1570814.Crep_sculo" target="_blank">Crepúsculo</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0120737/" target="_blank">O Senhor dos Anéis</a></li><li><a href="https://www.imdb.com/title/tt0120915/" target="_blank">Star Wars</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Avantasia" target="_blank">Avantasia</a></li><li><a href="https://www.last.fm/music/Angra" target="_blank">Angra</a></li><li><a href="https://www.last.fm/music/Nightwish" target="_blank">Nightwish</a></li><li><a href="https://www.last.fm/music/After&#43;Forever" target="_blank">After Forever</a></li><li><a href="https://www.last.fm/music/Within&#43;Temptation" target="_blank">Within Temptation</a></li><li><a href="https://www.last.fm/music/C%C3%A9line&#43;Dion" target="_blank">Céline Dion</a></li><li><a href="https://www.last.fm/music/Blind&#43;Guardian" target="_blank">Blind Guardian</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-full-stack-developer-e-analista-de-neg%C3%B3cios-por-loiane-groner-6ab92c06c06c">Entrevista da Loiane Groner para o Training Center</a></li>
+<li><a href="https://mundopodcast.com.br/PodProgramar/">Podcast PodProgramar</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/ECMAScript">ECMAScript</a></li>
+<li><a href="http://www.typescriptlang.org/">TypeScript</a></li>
+<li><a href="https://babeljs.io/">Babel</a></li>
+<li><a href="https://angularjs.org/">AngularJS</a></li>
+<li><a href="https://facebook.github.io/react/">React</a></li>
+<li><a href="http://www.javascriptview.com/">JSView</a></li>
+<li><a href="http://reactivex.io/">ReactiveX</a></li>
+<li><a href="https://www.xamarin.com/">Xamarin</a></li>
+<li><a href="https://cordova.apache.org/">Cordova</a></li>
+<li><a href="http://ionicframework.com/">Ionic</a></li>
+<li><a href="https://coronalabs.com/">Corona</a></li>
+<li><a href="https://jasmine.github.io/">Jasmine</a></li>
+<li><a href="http://php.net/">PHP</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://developer.android.com/">Desenvolvimento nativo para Android</a></li>
+<li><a href="https://developer.apple.com/ios/">Desenvolvimento nativo para iOS</a></li>
+<li><a href="http://www.thedevelopersconference.com.br/tdc/2017/index.html">TDC 2017</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/loiane-groner.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-105/castalio-podcast-105.mp3" length="92259875" type="audio/mpeg"/></item><item><title>Episódio 104: Caipyra 2017</title><link>https://castalio.info/episodes/episodio-104-caipyra-2017/</link><pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-104/castalio-podcast-104.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 104: Caipyra 2017</itunes:title><itunes:subtitle>
-Hoje, vamos falar a respeito do `Caipyra`_, o único evento de Python com quentão e paçoquinha, que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto. Contamos com a participação da `Jéssica Temporal`_ e do `Guilherme Tavares`_ (também...</itunes:subtitle><itunes:summary>Hoje, vamos falar a respeito do `Caipyra`_, o único evento de Python com quentão e paçoquinha, que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto. Contamos com a participação da `Jéssica Temporal`_ e do `Guilherme Tavares`_ (também conhecido como Xexa), dois dos organizadores do evento, para nos contar como foi no ano passado e o que esperar do evento este ano.</itunes:summary><description>Hoje, vamos falar a respeito do `Caipyra`_, o único evento de Python com quentão e paçoquinha, que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto. Contamos com a participação da `Jéssica Temporal`_ e do `Guilherme Tavares`_ (também conhecido como Xexa), dois dos organizadores do evento, para nos contar como foi no ano passado e o que esperar do evento este ano.</description><content:encoded><![CDATA[<div class="document">
+Hoje, vamos falar a respeito do Caipyra, o único evento de Python com quentão e paçoquinha, que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto. Contamos com a participação da Jéssica Temporal e do Guilherme Tavares (também conhecido...</itunes:subtitle><itunes:summary>Hoje, vamos falar a respeito do Caipyra, o único evento de Python com quentão e paçoquinha, que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto. Contamos com a participação da Jéssica Temporal e do Guilherme Tavares (também conhecido como Xexa), dois dos organizadores do evento, para nos contar como foi no ano passado e o que esperar do evento este ano.</itunes:summary><description>Hoje, vamos falar a respeito do Caipyra, o único evento de Python com quentão e paçoquinha, que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto. Contamos com a participação da Jéssica Temporal e do Guilherme Tavares (também conhecido como Xexa), dois dos organizadores do evento, para nos contar como foi no ano passado e o que esperar do evento este ano.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje, vamos falar a respeito do <a href="http://caipyra.python.org.br/">Caipyra</a>, o
+único evento de Python com quentão e paçoquinha, que acontece de 23 à 27 de
+junho de 2017 em Ribeirão Preto. Contamos com a participação da <a href="http://jtemporal.com/">Jéssica
+Temporal</a> e do <a href="https://github.com/guilhermetavares">Guilherme
+Tavares</a> (também conhecido como Xexa),
+dois dos organizadores do evento, para nos contar como foi no ano passado e o
+que esperar do evento este ano.</p>
+<p>Abordamos os seguintes tópicos:</p>
+<ul>
+<li>O que é o Caipyra? Como funciona o evento?</li>
+<li>Como surgiu? De quem foi a ideia? Quem surgiu primeiro a festa
+junina ou a conferência de Python?</li>
+<li>Como que foi o Caipyra 2016? Algum destaque? Tem vídeo e fotos para
+compartilhar conosco?</li>
+<li>O que é e o que a Carreta Furacão foi fazer no Caipyra 2016?</li>
+<li>Quais são as estatísticas de consumo de quentão e paçoquinha para o
+evento deste ano?</li>
+<li>Quem serão os keynotes e palestrantes do evento? Quais as demais
+atracões?</li>
+<li>Como é Ribeirão Preto? O que fazer além do evento? É frio em
+Ribeirão Preto na época de evento?</li>
+<li>Como está sendo organizar quais as maiores dificuldades?</li>
+<li>Como é a comunidade Python de Ribeirão Preto?</li>
+<li>Quem mais participa da equipe de organização do Caipyra 2017?</li>
+</ul>
+<p>Confira a gravação do episódio no vídeo abaixo e informações sobre um sorteio
+inusitado de uma camiseta que o pessoal do Caipyra irá fazer:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Fx1xgCjhM5g" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio
+Podcast</a>
+e assinar nosso <a href="http://www.youtube.com/c/CastalioPodcast">canal do YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contato">Contato</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/jessica-temporal.jpg" alt="Jéssica Temporal" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Jéssica Temporal</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/jtemporal">Github</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://jtemporal.com/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/jesstemporal">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/guilherme-tavares.jpg" alt="Guilherme Tavares (Xexa)" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Guilherme Tavares (Xexa)</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/guilhermetavares">Github</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Hoje, vamos falar a respeito do <a class="reference external" href="http://caipyra.python.org.br/">Caipyra</a>, o único evento de Python com quentão
-e paçoquinha, que acontece de 23 à 27 de junho de 2017 em Ribeirão Preto.
-Contamos com a participação da <a class="reference external" href="http://jtemporal.com/">Jéssica Temporal</a> e do <a class="reference external" href="https://github.com/guilhermetavares">Guilherme Tavares</a>
-(também conhecido como Xexa), dois dos organizadores do evento, para nos contar
-como foi no ano passado e o que esperar do evento este ano.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-104" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-104/castalio-podcast-104.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-104/castalio-podcast-104.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://jtemporal.com/">Jéssica Temporal</a></li>
+<li><a href="https://github.com/guilhermetavares">Guilherme Tavares</a></li>
+<li><a href="http://caipyra.python.org.br/">Caipyra</a></li>
+<li><a href="https://www.youtube.com/channel/UCxmUo2KbpP77n-rLgUTvM6g">Canal do YouTube do Caipyra</a></li>
+<li><a href="http://facebook.com/grupyrp/">A página do Grupy de Ribeirao Preto</a></li>
+<li><a href="http://2016.caipyra.python.org.br/">Caipyra 2016 (encontre o easter egg)</a></li>
+<li><a href="https://www.flickr.com/photos/marcorougeth/sets/72157670030415041">Fotos do Caipyra 2016 por Maco Rougeth</a></li>
+<li><a href="https://www.youtube.com/watch?v=YOT9i_4lLHs">Caipyra 2016 - O encontro de Python do Interior</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/caipyra.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-104/castalio-podcast-104.mp3" length="73202436" type="audio/mpeg"/></item><item><title>Episódio 103: Linguagem De Programação Elixir</title><link>https://castalio.info/episodes/episodio-103-linguagem-de-programacao-elixir/</link><pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-103/castalio-podcast-103.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 103: Linguagem De Programação Elixir</itunes:title><itunes:subtitle>
-Hoje, vamos falar a respeito da linguagem de programação `Elixir`_, uma linguagem dinâmica baseada no paradigma funcional, criada pelo brasileiro `José Valim`_ e que roda na maquina virtual da `Erlang`_. Para nos ajudar contamos com a...</itunes:subtitle><itunes:summary>Hoje, vamos falar a respeito da linguagem de programação `Elixir`_, uma linguagem dinâmica baseada no paradigma funcional, criada pelo brasileiro `José Valim`_ e que roda na maquina virtual da `Erlang`_. Para nos ajudar contamos com a participação de dois especialistas na linguagem o `Guilherme Nogueira`_ e o `Renan (milhouse) Ranelli`_.</itunes:summary><description>Hoje, vamos falar a respeito da linguagem de programação `Elixir`_, uma linguagem dinâmica baseada no paradigma funcional, criada pelo brasileiro `José Valim`_ e que roda na maquina virtual da `Erlang`_. Para nos ajudar contamos com a participação de dois especialistas na linguagem o `Guilherme Nogueira`_ e o `Renan (milhouse) Ranelli`_.</description><content:encoded><![CDATA[<div class="document">
+Hoje, vamos falar a respeito da linguagem de programação `Elixir`_, uma linguagem dinâmica baseada no paradigma funcional, criada pelo brasileiro `José Valim`_ e que roda na maquina virtual da `Erlang`_. Para nos ajudar contamos com a...</itunes:subtitle><itunes:summary>Hoje, vamos falar a respeito da linguagem de programação `Elixir`_, uma linguagem dinâmica baseada no paradigma funcional, criada pelo brasileiro `José Valim`_ e que roda na maquina virtual da `Erlang`_. Para nos ajudar contamos com a participação de dois especialistas na linguagem o `Guilherme Nogueira`_ e o `Renan (milhouse) Ranelli`_.</itunes:summary><description>Hoje, vamos falar a respeito da linguagem de programação `Elixir`_, uma linguagem dinâmica baseada no paradigma funcional, criada pelo brasileiro `José Valim`_ e que roda na maquina virtual da `Erlang`_. Para nos ajudar contamos com a participação de dois especialistas na linguagem o `Guilherme Nogueira`_ e o `Renan (milhouse) Ranelli`_.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje, vamos falar a respeito da linguagem de programação
+<a href="https://elixir-lang.org/">Elixir</a>, uma linguagem dinâmica baseada no paradigma
+funcional, criada pelo brasileiro <a href="https://twitter.com/josevalim">José Valim</a> e
+que roda na maquina virtual da <a href="http://www.erlang.org/">Erlang</a>. Para nos
+ajudar contamos com a participação de dois especialistas na linguagem o
+<a href="https://twitter.com/nirev">Guilherme Nogueira</a> e o <a href="https://twitter.com/renanranelli">Renan (milhouse)
+Ranelli</a>.</p>
+<p>Abordamos os seguintes tópicos:</p>
+<ul>
+<li>Elixir é descrita como uma linguagem dinâmica, de alto nível, multi
+propósito e funcional. O que significa, de uma forma simplificada, ser
+&quot;funcional&quot;?</li>
+<li>Quais são os tipos de programas que podem ser feitos com Elixir?
+Console? Desktop? Web? Mobile?</li>
+<li>Qual é o nicho de mercado que a linguagem é mais utilizada?</li>
+<li>O que é o framework web <a href="http://www.phoenixframework.org/">Phoenix</a>?
+Ele pode ser comparado ao <a href="https://www.djangoproject.com/">Django</a> ou
+<a href="http://rubyonrails.org/">Rails</a>? Existem outros frameworks web para
+Elixir?</li>
+<li>É essencial aprender Erlang antes de se aventurar no Elixir ou é
+possível ir em frente apenas aprendendo Elixir?</li>
+<li>Para quem procura uma linguagem com desempenho e concorrência, quais
+seriam as vantagens em escolher Elixir ao invés de
+<a href="https://golang.org/">Go</a> ou <a href="https://www.rust-lang.org">Rust</a>?</li>
+<li>Quais as desvantagens do Elixir? Em um projeto Elixir o que faz
+falta com relação a outras linguagens?</li>
+<li>O Elixir está de alguma forma tentando substituir
+<a href="https://www.ruby-lang.org">Ruby</a>?</li>
+<li>Como está a comunidade de Elixir no Brasil e no Mundo? Existem
+eventos? Material de estudo gratuito disponível? E qual é o caminho para
+quem está interessado em aprender Elixir e participar da comunidade?</li>
+</ul>
+<p>Confira a gravação do episódio no vídeo abaixo e confira o demo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/YSQmIciT0xE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio
+Podcast</a>
+e assinar nosso <a href="https://www.youtube.com/c/CastalioPodcast">canal do YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contato">Contato</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/guilherme-nogueira.jpg" alt="Guilherme Nogueira" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Guilherme Nogueira</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-link"></i> <a href="http://www.nirev.org/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/nirev">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/renan-ranelli.jpg" alt="Renan (milhouse) Ranelli" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Renan (milhouse) Ranelli</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-link"></i> <a href="http://milhouseonsoftware.com/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/renanranelli">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Hoje, vamos falar a respeito da linguagem de programação <a class="reference external" href="https://elixir-lang.org/">Elixir</a>, uma
-linguagem dinâmica baseada no paradigma funcional, criada pelo brasileiro <a class="reference external" href="https://twitter.com/josevalim">José
-Valim</a> e que roda na maquina virtual da <a class="reference external" href="http://www.erlang.org/">Erlang</a>. Para nos ajudar contamos
-com a participação de dois especialistas na linguagem o <a class="reference external" href="https://twitter.com/nirev">Guilherme Nogueira</a> e
-o <a class="reference external" href="https://twitter.com/renanranelli">Renan (milhouse) Ranelli</a>.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-103" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-103/castalio-podcast-103.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-103/castalio-podcast-103.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://elixir-lang.org/">Elixir</a></li>
+<li><a href="http://www.erlang.org/">Erlang</a></li>
+<li><a href="https://twitter.com/josevalim">José Valim</a></li>
+<li><a href="http://www.phoenixframework.org/">Phoenix</a></li>
+<li><a href="https://www.djangoproject.com/">Django</a></li>
+<li><a href="http://rubyonrails.org/">Rails</a></li>
+<li><a href="https://maru.readme.io/">Maru</a></li>
+<li><a href="https://hexdocs.pm/ecto/Ecto.html">Ecto</a></li>
+<li><a href="https://hexdocs.pm/plug/readme.html">Plug</a></li>
+<li><a href="https://www.youtube.com/watch?v=irDC1nWKhZ8">Tutorial do Phoenix Framework (Parte 1)</a></li>
+<li><a href="https://golang.org/">Go</a></li>
+<li><a href="https://www.rust-lang.org">Rust</a></li>
+<li><a href="https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/">Golang&rsquo;s Real-time GC in Theory and Practice</a></li>
+<li><a href="https://hexdocs.pm/dialyxir/readme.html">Dialyxir</a></li>
+<li><a href="https://hexdocs.pm/mix/Mix.html">Mix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open_Telecom_Platform">Open Telecom Platform (OTP)</a></li>
+<li><a href="https://hex.pm/">Hex (Package Manager)</a></li>
+<li><a href="https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html">Introduction to Mix</a></li>
+<li><a href="http://spacemacs.org/">Spacemacs</a></li>
+<li><a href="http://www.alchemist-elixir.org/">Alchemist</a></li>
+<li><a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
+<li><a href="https://github.com/elixir-lang/vim-elixir">Vim Elixir</a></li>
+<li><a href="https://github.com/michalmuskala/mongodb_ecto">mongodb_elixir</a></li>
+<li><a href="https://hexdocs.pm/ex_unit/ExUnit.html">ExUnit</a></li>
+<li><a href="https://www.ruby-lang.org">Ruby</a></li>
+<li><a href="https://t.me/elixirbr">@elixirbr no Telegram</a></li>
+<li><a href="https://elixir-slackin.herokuapp.com/">Elixir no Slack</a></li>
+<li><a href="http://plataformatec.com.br/elixir-radar/weekly-newsletter">Newsletter sobre Elixir da Plataformatec</a></li>
+<li><a href="https://www.dailydrip.com/topics/elixir">Newsletter sobre Elixir do DailyDrip</a></li>
+<li><a href="https://elixirconf.com/">ElixirConf</a></li>
+<li><a href="http://www.erlang-factory.com/eflba2017/">EEFL Buenos Aires</a></li>
+<li><a href="https://twitter.com/elug_sp">Elixir User Group SP</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/episodio-103.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-103/castalio-podcast-103.mp3" length="91269814" type="audio/mpeg"/></item><item><title>Episódio 102: Marcelo Mello - Red Hat E Home Assistant</title><link>https://castalio.info/episodes/episodio-102-marcelo-mello-red-hat-e-home-assistan/</link><pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-102/castalio-podcast-102.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 102: Marcelo Mello - Red Hat E Home Assistant</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Marcelo Mello que é Principal Technical Support Engineer na Red Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE, RHCA, RHCSS, RHCDS, RHCVA, RHCI) e há alguns anos mora na Carolina do...</itunes:subtitle><itunes:summary>Hoje, conversamos com o Marcelo Mello que é Principal Technical Support Engineer na Red Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE, RHCA, RHCSS, RHCDS, RHCVA, RHCI) e há alguns anos mora na Carolina do Norte. Ele também é um veterano do mundo do software livre e do `Projeto Fedora`_ e, atualmente, tem contribuído bastante com o `Home Assistant`_.</itunes:summary><description>Hoje, conversamos com o Marcelo Mello que é Principal Technical Support Engineer na Red Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE, RHCA, RHCSS, RHCDS, RHCVA, RHCI) e há alguns anos mora na Carolina do Norte. Ele também é um veterano do mundo do software livre e do `Projeto Fedora`_ e, atualmente, tem contribuído bastante com o `Home Assistant`_.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, conversamos com o Marcelo Mello que é Principal Technical Support Engineer na Red Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE, RHCA, RHCSS, RHCDS, RHCVA, RHCI) e há alguns anos mora na Carolina do...</itunes:subtitle><itunes:summary>Hoje, conversamos com o Marcelo Mello que é Principal Technical Support Engineer na Red Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE, RHCA, RHCSS, RHCDS, RHCVA, RHCI) e há alguns anos mora na Carolina do Norte. Ele também é um veterano do mundo do software livre e do `Projeto Fedora`_ e, atualmente, tem contribuído bastante com o `Home Assistant`_.</itunes:summary><description>Hoje, conversamos com o Marcelo Mello que é Principal Technical Support Engineer na Red Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE, RHCA, RHCSS, RHCDS, RHCVA, RHCI) e há alguns anos mora na Carolina do Norte. Ele também é um veterano do mundo do software livre e do `Projeto Fedora`_ e, atualmente, tem contribuído bastante com o `Home Assistant`_.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso convidado de hoje é um veterano do mundo do software livre e do Projeto
 Fedora, tem um título bem bacana, Principal Technical Support Engineer, na Red
 Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE,
 RHCA, RHCSS, RHCDS, RHCVA, RHCI) e hoje mora na Carolina do Norte. É com grande
 prazer que nós recebemos nosso convidado de hoje, Marcelo Mello.</p>
+<p>Este é mais um episódio que foi gravado ao vivo pelo <a href="https://www.youtube.com/c/CastalioPodcast">canal do
+YouTube</a>. Começamos perguntando para
+o o Marcelo como ele iniciou no mundo Open Source e como foi parar na Red Hat.
+Em seguida ele nos conta como e o seu trabalho como Principal Technical Support
+Engineer.</p>
+<p>O Marcelo se mudou há alguns anos para a Carolina do Norte nos Estados Unidos.
+Por isso perguntamos como foi a experiência, se ele e sua família estão se
+adaptando a cultura, também, o que sente falta e o que gosta comparado com o
+Brasil.</p>
+<p>Depois disso o Marcelo no fala sobre o <a href="https://home-assistant.io/">Home
+Assistant</a>, para que ele serve e os projetos de
+automatização do Home Assistant com <a href="https://www.python.org/">Python</a>. Além
+disso, ele fez uma demonstração do Home Assistant que ele esta utilizando para
+automatizar a sua casa. Para assistir a demonstração, assista a gravação do
+episodio:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/hZq8ucpzjCs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Em seguida não podíamos deixar faltar o Top 5, confira as sugestões do Marcelo.</p>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio
+Podcast</a>
+e assinar nosso <a href="https://www.youtube.com/c/CastalioPodcast">canal do YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Github</strong>: <a href="https://github.com/tchellomello">https://github.com/tchellomello</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/tchellomello">https://twitter.com/tchellomello</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-102" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-102/castalio-podcast-102.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-102/castalio-podcast-102.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/200226.Best_Karate_Vol_1" target="_blank">Best Karate</a></li><li><a href="https://www.goodreads.com/book/show/18079365-raspberry-pi-cookbook" target="_blank">Raspberry Pi Cookbook</a></li><li><a href="https://www.goodreads.com/book/show/34887956-spacewalk" target="_blank">Spacewalk: The Red Hat Satellite Project</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt3322312/" target="_blank">Daredevil</a></li><li><a href="https://www.imdb.com/title/tt2357547/" target="_blank">Jessica Jones</a></li><li><a href="https://www.imdb.com/title/tt3032476/" target="_blank">Better Call Saul</a></li><li><a href="https://www.imdb.com/title/tt0115433/" target="_blank">101 Dalmatas</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/U2" target="_blank">U2</a></li><li><a href="https://www.last.fm/music/Coldplay" target="_blank">Coldplay</a></li><li><a href="https://www.last.fm/music/Bob&#43;Marley/_/Redemption&#43;Song" target="_blank">Bob Marley - Redemption Song</a></li><li><a href="https://www.last.fm/music/Teixeirinha/_/Gaucho&#43;De&#43;Passo&#43;Fundo" target="_blank">Teixeirinha - Gaucho de Passo Fundo</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://home-assistant.io/">Home Assistant</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://getfedora.org/">Projeto Fedora</a></li>
+<li><a href="https://github.com/tchellomello/python-amcrest">python-amcrest</a></li>
+<li><a href="https://github.com/tchellomello/python-arlo">python-arlo</a></li>
+<li><a href="https://github.com/tchellomello/python-ring-doorbell">python-ring-doorbell</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/marcelo-mello.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-102/castalio-podcast-102.mp3" length="69702091" type="audio/mpeg"/></item><item><title>Episódio 101: Automatização De Interface Web Com Selenium</title><link>https://castalio.info/episodes/episodio-101-automatizacao-de-interface-web-com-seleniu/</link><pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-101/castalio-podcast-101.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 101: Automatização De Interface Web Com Selenium</itunes:title><itunes:subtitle>
-Hoje, trazemos um episódio sobre automatização de interface web com Selenium. Falamos o que é o Selenium e quais as vantagens em sua utilização. Para ilustrar, trazemos alguns demos sobre o Selenium IDE, como utilizar o Selenium webdriver em...</itunes:subtitle><itunes:summary>Hoje, trazemos um episódio sobre automatização de interface web com Selenium. Falamos o que é o Selenium e quais as vantagens em sua utilização. Para ilustrar, trazemos alguns demos sobre o Selenium IDE, como utilizar o Selenium webdriver em uma sessão interativa do Python e como escrever testes que utilizam o webdriver para testar um formulário em Flask. Este episódio foi gravado em uma live no YouTube, você pode assistir à `gravação `_ e ver os demos.</itunes:summary><description>Hoje, trazemos um episódio sobre automatização de interface web com Selenium. Falamos o que é o Selenium e quais as vantagens em sua utilização. Para ilustrar, trazemos alguns demos sobre o Selenium IDE, como utilizar o Selenium webdriver em uma sessão interativa do Python e como escrever testes que utilizam o webdriver para testar um formulário em Flask. Este episódio foi gravado em uma live no YouTube, você pode assistir à `gravação `_ e ver os demos.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Este foi mais um episódio gravado em nosso <a class="reference external" href="http://bit.ly/CanalCastalio">canal do YouTube</a>. Falamos sobre
-automatização de interface web com <a class="reference external" href="http://www.seleniumhq.org/">Selenium</a>. Comentamos sobre algumas opções
+Hoje, trazemos um episódio sobre automatização de interface web com Selenium. Falamos o que é o Selenium e quais as vantagens em sua utilização. Para ilustrar, trazemos alguns demos sobre o Selenium IDE, como utilizar o Selenium webdriver em...</itunes:subtitle><itunes:summary>Hoje, trazemos um episódio sobre automatização de interface web com Selenium. Falamos o que é o Selenium e quais as vantagens em sua utilização. Para ilustrar, trazemos alguns demos sobre o Selenium IDE, como utilizar o Selenium webdriver em uma sessão interativa do Python e como escrever testes que utilizam o webdriver para testar um formulário em Flask. Este episódio foi gravado em uma live no YouTube, você pode assistir à `gravação `_ e ver os demos.</itunes:summary><description>Hoje, trazemos um episódio sobre automatização de interface web com Selenium. Falamos o que é o Selenium e quais as vantagens em sua utilização. Para ilustrar, trazemos alguns demos sobre o Selenium IDE, como utilizar o Selenium webdriver em uma sessão interativa do Python e como escrever testes que utilizam o webdriver para testar um formulário em Flask. Este episódio foi gravado em uma live no YouTube, você pode assistir à `gravação `_ e ver os demos.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Este foi mais um episódio gravado em nosso <a href="http://bit.ly/CanalCastalio">canal do
+YouTube</a>. Falamos sobre automatização de interface
+web com <a href="http://www.seleniumhq.org/">Selenium</a>. Comentamos sobre algumas opções
 para automatização de interface de usuário (UI), o que é e o por quê do
 Selenium. Em seguida aproveitamos a possibilidade de compartilhar a tela e
 fizemos três demos, mas não se preocupe que descrevemos bem para você que nos
 acompanha apenas pelo áudio.</p>
+<div class="clearfix"></div>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-101" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-101/castalio-podcast-101.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-101/castalio-podcast-101.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Para facilitar compartilhar os exemplos de código, os colocamos em nosso
+<a href="https://github.com/CastalioPodcast/playground">repositório playground</a>. Agora
+que já sabe onde encontrar os exemplos vamos falar dos demos. O primeiro é
+sobre o <a href="http://docs.seleniumhq.org/projects/ide/">Selenium IDE</a>. Mostramos
+como o Selenium IDE facilita gravar as ações executadas no Firefox, como
+reproduzi-las e como gerar testes em Python. Confira mais detalhes na seção do
+<a href="https://github.com/CastalioPodcast/playground/blob/master/episode101/README.rst#selenium-ide">demo da Selenium
+IDE</a>
+no playgound.</p>
+<p>Em nosso segundo demo mostramos como utilizar o <a href="http://www.seleniumhq.org/projects/webdriver/">Selenium
+webdriver</a> em uma sessão
+interativa do Python. Primeiro falamos como instalar o webdriver para o Chrome
+no Fedora e como instalar o Selenium para o Python. Em seguida, executamos
+algumas ações para encontrar o episódio de 6 anos do Castálio. Mais informações
+estão descritas na seção do <a href="https://github.com/CastalioPodcast/playground/blob/master/episode101/README.rst#selenium-via-python">demo do Selenium via
+Python</a>
+no playground.</p>
+<p>Finalizamos os demos mostrando como testar um formulário em
+<a href="http://flask.pocoo.org/">Flask</a> utilizando o
+<a href="https://docs.pytest.org/en/latest/">py.test</a> e Selenium. A aplicação utilizada
+é a do tutorial <a href="http://bit.ly/whattheflask">What the Flask</a>. Confira todos os
+detalhes no documento do <a href="https://github.com/CastalioPodcast/playground/blob/master/episode101/pytest_selenium.rst">demo de Testes de UI com py.test e
+Selenium</a>.</p>
+<p>Segue a gravação que está disponível em nosso <a href="http://bit.ly/CanalCastalio">canal do
+YouTube</a>.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/kVGqZJsbn-Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-101" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-101/castalio-podcast-101.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-101/castalio-podcast-101.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio
+Podcast</a>
+e assinar nosso <a href="http://bit.ly/CanalCastalio">canal do YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/episodio-101.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-101/castalio-podcast-101.mp3" length="107161035" type="audio/mpeg"/></item><item><title>Episódio 100: Cage Match De Sistemas Operacionais</title><link>https://castalio.info/episodes/episodio-100-cage-match-de-sistemas-operacionais/</link><pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-100/castalio-podcast-100.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 100: Cage Match De Sistemas Operacionais</itunes:title><itunes:subtitle>
 Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova...</itunes:subtitle><itunes:summary>Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova Windows, Linux e Mac OS em determinados tópicos. Para deixar ainda mais especial, tivemos a participação da Priscila Mayumi (`MayogaX`_), do Fellipe Azambuja (`DEV Na Estrada`_), do Ramon Sanches (`DEV Na Estrada`_) e do Ricardo Highlander (`Hack 'n' Cast`_). Cada participante deu sua opinião e votou em um sistema operacional, no final temos o resultado dos participantes e também de nossos ouvintes que participaram conosco ao vivo e votaram em um formulário que publicamos durante a gravação. Venha celebrar conosco esse marco tão importante e especial para o Castálio Podcast, que venham muito mais 100 episódios.</itunes:summary><description>Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova Windows, Linux e Mac OS em determinados tópicos. Para deixar ainda mais especial, tivemos a participação da Priscila Mayumi (`MayogaX`_), do Fellipe Azambuja (`DEV Na Estrada`_), do Ramon Sanches (`DEV Na Estrada`_) e do Ricardo Highlander (`Hack 'n' Cast`_). Cada participante deu sua opinião e votou em um sistema operacional, no final temos o resultado dos participantes e também de nossos ouvintes que participaram conosco ao vivo e votaram em um formulário que publicamos durante a gravação. Venha celebrar conosco esse marco tão importante e especial para o Castálio Podcast, que venham muito mais 100 episódios.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
