@@ -667,10 +667,7 @@ fizemos três demos, mas não se preocupe que descrevemos bem para você que nos
 acompanha apenas pelo áudio.</p>
 ]]></content:encoded><itunes:image href="https://castalio.info/images/episodio-101.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-101/castalio-podcast-101.mp3" length="107161035" type="audio/mpeg"/></item><item><title>Episódio 100: Cage Match De Sistemas Operacionais</title><link>https://castalio.info/episodes/episodio-100-cage-match-de-sistemas-operacionais/</link><pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-100/castalio-podcast-100.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 100: Cage Match De Sistemas Operacionais</itunes:title><itunes:subtitle>
-Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova...</itunes:subtitle><itunes:summary>Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova Windows, Linux e Mac OS em determinados tópicos. Para deixar ainda mais especial, tivemos a participação da Priscila Mayumi (`MayogaX`_), do Fellipe Azambuja (`DEV Na Estrada`_), do Ramon Sanches (`DEV Na Estrada`_) e do Ricardo Highlander (`Hack 'n' Cast`_). Cada participante deu sua opinião e votou em um sistema operacional, no final temos o resultado dos participantes e também de nossos ouvintes que participaram conosco ao vivo e votaram em um formulário que publicamos durante a gravação. Venha celebrar conosco esse marco tão importante e especial para o Castálio Podcast, que venham muito mais 100 episódios.</itunes:summary><description>Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova Windows, Linux e Mac OS em determinados tópicos. Para deixar ainda mais especial, tivemos a participação da Priscila Mayumi (`MayogaX`_), do Fellipe Azambuja (`DEV Na Estrada`_), do Ramon Sanches (`DEV Na Estrada`_) e do Ricardo Highlander (`Hack 'n' Cast`_). Cada participante deu sua opinião e votou em um sistema operacional, no final temos o resultado dos participantes e também de nossos ouvintes que participaram conosco ao vivo e votaram em um formulário que publicamos durante a gravação. Venha celebrar conosco esse marco tão importante e especial para o Castálio Podcast, que venham muito mais 100 episódios.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova...</itunes:subtitle><itunes:summary>Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova Windows, Linux e Mac OS em determinados tópicos. Para deixar ainda mais especial, tivemos a participação da Priscila Mayumi (`MayogaX`_), do Fellipe Azambuja (`DEV Na Estrada`_), do Ramon Sanches (`DEV Na Estrada`_) e do Ricardo Highlander (`Hack 'n' Cast`_). Cada participante deu sua opinião e votou em um sistema operacional, no final temos o resultado dos participantes e também de nossos ouvintes que participaram conosco ao vivo e votaram em um formulário que publicamos durante a gravação. Venha celebrar conosco esse marco tão importante e especial para o Castálio Podcast, que venham muito mais 100 episódios.</itunes:summary><description>Hoje, comemoramos 100 episódios do Castálio Podcast com um episódio bastante especial. Gravamos ao vivo pelo `Canal do YouTube do Castálio Podcast`_ (claro que você já assinou né?) um Cage Match ou uma mesa redonda onde colocamos a prova Windows, Linux e Mac OS em determinados tópicos. Para deixar ainda mais especial, tivemos a participação da Priscila Mayumi (`MayogaX`_), do Fellipe Azambuja (`DEV Na Estrada`_), do Ramon Sanches (`DEV Na Estrada`_) e do Ricardo Highlander (`Hack 'n' Cast`_). Cada participante deu sua opinião e votou em um sistema operacional, no final temos o resultado dos participantes e também de nossos ouvintes que participaram conosco ao vivo e votaram em um formulário que publicamos durante a gravação. Venha celebrar conosco esse marco tão importante e especial para o Castálio Podcast, que venham muito mais 100 episódios.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Em 16 de fevereiro de 2011 o Castálio Podcast publicou seu primeiro episódio,
 naquele dia ninguém imaginava que o podcast completaria 100 episódios
 publicados mas hoje, não só imaginamos, mas estamos publicando o episódio de
@@ -678,89 +675,1267 @@ número 100. Como temos isso como um marco muito importante para o projeto
 resolvemos trazer um formato novo e esperamos que vocês gostem. Já sabem né?
 Queremos que você celebre esse marco conosco, então depois nos conte o que
 achou deste episódio e dos outros que já ouviu até agora.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-100" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-100/castalio-podcast-100.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-100/castalio-podcast-100.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Se você assina nosso <a href="http://bit.ly/CanalCastalio">Canal do YouTube</a> e também
+habilitou o recebimento de notificações já sabe que gravamos este episódio ao
+vivo e que também pôde participar conosco do Cage Match ou mesa redonda que
+fizemos sobre Sistemas Operacionais. Se você não assina o canal (ainda :)), não
+se preocupe, vamos explicar aqui como foi.</p>
+<p>Para nos ajudar a analisar e comparar os sistemas operacionais Linux, Mac OS e
+Windows contamos com a participação da Priscila Mayumi
+(<a href="https://www.youtube.com/mayogax">MayogaX</a>), do Fellipe Azambuja (<a href="http://devnaestrada.com.br">DEV na
+Estrada</a>), do Ramon Sanches (<a href="http://devnaestrada.com.br">DEV na
+Estrada</a>) e do Ricardo Highlander (<a href="http://hackncast.org/">Hack 'n'
+Cast</a>). Fizemos algumas regras só para garantir o bom
+andamento:</p>
+<ul>
+<li>Bruno, Elyézer e Og foram os moderadores da discussão, fazendo as
+perguntas e esclarecendo as dúvidas dos participantes.</li>
+<li>Cada participante opinou sobre o tema, falando em ordem sobre o que
+sabe sobre cada dos sistemas operacionais (ou somente sobre o
+sistema que conheça) e teve no máximo 3 minutos para opinar sobre o
+tema e defender seu sistema.</li>
+<li>Os moderadores notificariam quando o tempo acabar com um alarme.</li>
+<li>Os ouvintes que estavam participando ao vivo votaram num formulário
+sobre os temas comentados pelos participantes e deram a sua opinião
+sobre os temas.</li>
+</ul>
+<p>Os temas abordados foram:</p>
+<ul>
+<li>Facilidade para instalar</li>
+<li>Usuário comum</li>
+<li>Usuário desenvolvedor</li>
+<li>Usuário designer e/ou produtor de media</li>
+<li>Usuário SysAdmin, Hacker, Maker e IoT (Internet of Things)</li>
+<li>Acesso a aplicativos</li>
+<li>Usuário gamer</li>
+</ul>
+<p>O votos de nossos participantes estão na tabela abaixo:</p>
+<table class="table table-striped">
+    <thead>
+        <td>Temas</td>
+        <td>Linux</td>
+        <td>Mac OS</td>
+        <td>Windows</td>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Facilidade para instalar</td>
+            <td>0</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Usuário comum</td>
+            <td>0</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Usuário desenvolvedor</td>
+            <td>3</td>
+            <td>1</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Usuário designer e/ou produtor de media</td>
+            <td>0</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Usuário SysAdmin, Hacker, Maker e IoT</td>
+            <td>4</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Acesso a aplicativos</td>
+            <td>0</td>
+            <td>3</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Usuário gamer</td>
+            <td>0</td>
+            <td>0</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>7</td>
+            <td>8</td>
+            <td>13</td>
+        </tr>
+    </tbody>
+</table>
+<p>O votos de nossos ouvintes, até a publicação deste post, estão na tabela
+abaixo:</p>
+<table class="table table-striped">
+    <thead>
+        <td>Temas</td>
+        <td>Linux</td>
+        <td>Mac OS</td>
+        <td>Windows</td>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Facilidade para instalar</td>
+            <td>10</td>
+            <td>3</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Usuário comum</td>
+            <td>4</td>
+            <td>1</td>
+            <td>14</td>
+        </tr>
+        <tr>
+            <td>Usuário desenvolvedor</td>
+            <td>16</td>
+            <td>3</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Usuário designer e/ou produtor de media</td>
+            <td>1</td>
+            <td>13</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Usuário SysAdmin, Hacker, Maker e IoT</td>
+            <td>19</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Usuário gamer</td>
+            <td>1</td>
+            <td>0</td>
+            <td>18</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>51</td>
+            <td>20</td>
+            <td>43</td>
+        </tr>
+    </tbody>
+</table>
+<p>Se você ainda não votou, corre que ainda da tempo acesse o
+<a href="http://bit.ly/Castalio100form">formulário</a>. O formulário estará aberto até o
+dia 17 de maio de 2017.</p>
+<p>Obrigado por estar conosco celebrando esse grande marco e esperamos que muito
+mais episódios venham pela frente. Agradecemos aos nossos participantes e
+convidamos você para segui-los nas redes sociais e conferir seus trabalhos:</p>
+<ul>
+<li>Priscila Mayumi
+<ul>
+<li>Canal no <a href="https://www.youtube.com/mayogax">MayogaX</a> YouTube</li>
+<li><a href="https://twitter.com/MayogaX">Twitter @MayogaX</a></li>
+</ul>
+</li>
+<li>Fellipe Azambuja
+<ul>
+<li>Podcast <a href="http://devnaestrada.com.br">DEV na Estrada</a></li>
+<li>[Twitter ]{.title-ref}@femontanha
+&laquo;<a href="https://twitter.com/femontanha%3E%3E">https://twitter.com/femontanha&gt;&gt;</a>`_</li>
+</ul>
+</li>
+<li>Ramon Sanches
+<ul>
+<li>Podcast <a href="http://devnaestrada.com.br">DEV na Estrada</a></li>
+<li><a href="https://twitter.com/raymonsanches">Twitter @raymonsanches</a></li>
+</ul>
+</li>
+<li>Ricardo Highlander
+<ul>
+<li><a href="https://www.facebook.com/hackncast">Facebook @hackncast</a></li>
+<li>Podcast <a href="http://hackncast.org/">Hack 'n' Cast</a></li>
+<li><a href="https://t.me/hackncast">Telegram @hackncast</a></li>
+<li><a href="https://twitter.com/hackncast">Twitter @hackncast</a></li>
+<li><a href="https://twitter.com/rictm">Twitter @rictm</a></li>
+</ul>
+</li>
+</ul>
+<p>Assista a gravação do episódio:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/8n1QB_FPxjE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-100" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-100/castalio-podcast-100.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-100/castalio-podcast-100.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio
+Podcast</a>
+e assinar nosso <a href="http://bit.ly/CanalCastalio">Canal do YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/episodio-100.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-100/castalio-podcast-100.mp3" length="162524092" type="audio/mpeg"/></item><item><title>Episódio 99: Tech News E Book Review</title><link>https://castalio.info/episodes/episodio-99-tech-news-e-book-review/</link><pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 99: Tech News E Book Review</itunes:title><itunes:subtitle>
-Hoje, trazemos mais um Tech News e para quebrar o gelo um Book Review sobre o livro Complô Contra a América de Philip Roth. Este episodio foi gravado ao vivo pelo YouTube, aproveitamos e convidamos você para assinar o `Canal do YouTube do...</itunes:subtitle><itunes:summary>Hoje, trazemos mais um Tech News e para quebrar o gelo um Book Review sobre o livro Complô Contra a América de Philip Roth. Este episodio foi gravado ao vivo pelo YouTube, aproveitamos e convidamos você para assinar o `Canal do YouTube do Castálio Podcast`_.</itunes:summary><description>Hoje, trazemos mais um Tech News e para quebrar o gelo um Book Review sobre o livro Complô Contra a América de Philip Roth. Este episodio foi gravado ao vivo pelo YouTube, aproveitamos e convidamos você para assinar o `Canal do YouTube do Castálio Podcast`_.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, trazemos mais um Tech News e para quebrar o gelo um Book Review sobre o livro Complô Contra a América de Philip Roth. Este episodio foi gravado ao vivo pelo YouTube, aproveitamos e convidamos você para assinar o `Canal do YouTube do...</itunes:subtitle><itunes:summary>Hoje, trazemos mais um Tech News e para quebrar o gelo um Book Review sobre o livro Complô Contra a América de Philip Roth. Este episodio foi gravado ao vivo pelo YouTube, aproveitamos e convidamos você para assinar o `Canal do YouTube do Castálio Podcast`_.</itunes:summary><description>Hoje, trazemos mais um Tech News e para quebrar o gelo um Book Review sobre o livro Complô Contra a América de Philip Roth. Este episodio foi gravado ao vivo pelo YouTube, aproveitamos e convidamos você para assinar o `Canal do YouTube do Castálio Podcast`_.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Hoje trazemos um Tech News com notícias, sugestões e dicas. Também fazemos um
 Book Review do livro Complô Contra a América de Philip Roth. Além disso, temos
 uma novidade, o Castálio agora tem um canal no YouTube e este episódio foi
 gravado ao vivo por lá. Se você quer receber as novidades das próximas
 gravações ao vivo e outros conteúdos que estaremos publicando por lá, assine o
-<a class="reference external" href="http://bit.ly/CanalCastalio">Canal do YouTube do Castálio Podcast</a>.</p>
+<a href="http://bit.ly/CanalCastalio">Canal do YouTube do Castálio Podcast</a>.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-99" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2 id="tech-news">Tech News</h2>
+<ul>
+<li><a href="https://github.com/omaciel/fauxfactory">FauxFactory dropped support for Python 2</a>
+<ul>
+<li>Usado pelas equipes da Red Hat Satellite 6 e Ansible, dentre
+outros.</li>
+<li>Geradores de dados foram mudados para módulos próprios (mais
+fácil de manter)</li>
+<li><a href="https://codecov.io/gh/omaciel/fauxfactory">100% de cobertura de
+código</a></li>
+<li>Testes são rodados no Travis usando py.test e novos testes foram
+adicionados (193 para 242).</li>
+<li>Instale utilizando o pip: <code>pip install fauxfactory</code></li>
+</ul>
+</li>
+<li><a href="https://pyup.io/">pyup.io</a>
+<ul>
+<li>Receba notificações de quando uma dependência do seu projeto foi
+atualizada ou tem alguma vulnerabilidade.</li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=X-rAAF_7nSQ">Vídeo de apresentação do
+OpenShift.io</a></li>
+<li><a href="http://docs.pyfora.com">pyfora</a> biblioteca para dividir o
+processamento em varias máquinas.</li>
+<li><a href="http://freecode.com/projects/bpython">bpython</a>
+<ul>
+<li>B de Better Python mas na verdade o B é de Bob Farrel, o criador
+do projeto</li>
+<li>Interpretador Python interativo baseado na biblioteca curses</li>
+<li>O <a href="http://castalio.info/episodio-83-tarek-ziade-mozilla.html">Tarek
+Ziade</a>
+é um dos contribuidores :)</li>
+<li>Alguns dos recursos:
+<ul>
+<li>In-line syntax highlighting</li>
+<li>Readline-like autocomplete with suggestions displayed as you
+type.</li>
+<li>Expected parameter list for any Python function.</li>
+<li>&quot;Rewind&quot; function to pop the last line of code from memory
+and re-evaluate.</li>
+<li>Send the code you've entered off to a pastebin.</li>
+<li>Save the code you've entered to a file.</li>
+<li>Auto-indentation.</li>
+<li>Python 3 support.</li>
+</ul>
+</li>
+<li>Diferenças com IPython
+<ul>
+<li>Não existe acesso aos comandos do seu shell</li>
+<li>Não tem como fazer um reload em módulos importados</li>
+<li>Não tem notebooks (aka ipython notebooks aka Jupyter)</li>
+</ul>
+</li>
+<li><code>pip install bpython</code></li>
+<li><a href="https://www.youtube.com/watch?v=QITlSgYf8mc">A better Python REPL &ndash; bpython vs
+python</a> vídeo por
+<a href="https://dbader.org/">Dan Bader</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/alexellis/faas">FAAS (Function as a Service)</a>:
+Serverless Platform based on Docker and Prometheus</li>
+<li>`Mstream &laquo;<a href="https://github.com/IrosTheBeggar/mStream%3E%3E">https://github.com/IrosTheBeggar/mStream&gt;&gt;</a>`: crie seu
+próprio Spotify</li>
+<li><a href="http://pythonclub.com.br/what-the-flask-pt-4-extensoes-para-o-flask.html">What the Flask? parte 4 - Extensões para o
+Flask</a>
+foi lançado.</li>
+<li><a href="https://realpython.com/blog/python/test-driven-development-of-a-django-restful-api/">Test Driven Development of a Django RESTful
+API</a>
+<ul>
+<li>Artigo que mostra como criar um aplicativo Django com interface
+REST usando a metodologia TDD.</li>
+<li>Mencionado sobre o <a href="http://djangoappschecklist.com/">Django Apps
+Checklist</a> e o episódio
+<a href="http://castalio.info/episodio-90-empreender-e-programar-parte-1.html">Empreender e
+Programar</a>.</li>
+</ul>
+</li>
+<li><a href="https://github.com/atlassian/localstack">LocalStack</a> infraestrutura
+fake da Amazon para usar em testes e desenvolvimento.</li>
+<li>Caso do Facebook sobre o preconceito com as mulheres: <a href="https://www.wsj.com/articles/facebooks-female-engineers-claim-gender-bias-1493737116">According to
+The Wall Street
+Journal</a>,
+female engineers who work at Facebook may face gender bias <a href="https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report">that
+prevents their code from being accepted at the same rate as male
+counterparts</a>.
+&quot;For Facebook, these revelations call into question the company's
+ongoing diversity efforts and its goal to build overarching online
+systems for people around the globe,&quot; reports The Verge. &quot;The
+company's <a href="http://www.businessinsider.com/uber-diversity-report-comparison-google-apple-facebook-microsoft-twitter-2017-3">workforce is just 33 percent
+female</a>,
+with women holding just 17 percent of technical roles and 27 percent
+of leadership positions.&quot;</li>
+</ul>
+<p>Assista a gravação do episódio:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/F30Jp73PKXo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="book-review">Book Review</h1>
+<p>Hoje trazemos o book review do livro <a href="https://en.wikipedia.org/wiki/The_Plot_Against_America">Complô Contra a
+América</a> de Philip
+Roth. Confira alguns pontos que foram mencionados:</p>
+<ul>
+<li>Ficção histórica (1940)</li>
+<li>Historiá contada do ponto de vista de um garoto da cidade de Newark,
+NJ.</li>
+<li>Franklin Delano Roosevelt (FDR) tenta se eleger pela terceira vez
+para a presidência, mas perde para o aviador Charles Lindbergh, que e
+famoso por ter feito um voo direto (sem parar) de NY até Paris.</li>
+<li>Charles Lindbergh diz em sua campanha não se envolver com a guerra e
+faz comentários elogiando Hitler.</li>
+<li>Charles Lindbergh diz que um voto para FDR significaria um voto a
+favor da guerra (America First)</li>
+<li>FDR pretende entrar na guerra e lutar contra Hitler</li>
+<li>Charles Lindbergh ganha a eleição, mostrando que muitas pessoas
+preferem não entrar na guerra, mesmo que isso signifique virar as costas ou
+fechar os olhos e ignorar o que está acontecendo com os Judeus e minorias
+na Europa.</li>
+<li>Uma vez eleito, o novo presidente assina um acordo de cooperação com
+Hitler, dizendo que os EUA não iriam participar ou se intrometer com a
+guerra e/ou decisões de Hitler.</li>
+<li>Nos EUA, todas as pessoas que já tinham noções anti semitistas se
+sentem mais com liberdade para se expressar em público todo seu
+preconceito.</li>
+<li>O livro então nos conta, do ponto de vista do personagem principal,
+como que pouco a pouco o governo começa de forma bem sutil a identificar e
+separar os Judeus dentre a população Americana.
+<ul>
+<li>Propaganda forte dizendo que Judeus não são Americanos,
+independente de quantas gerações já existam no pais</li>
+<li>Preconceito e racismo extremo contra Judeus</li>
+<li>Formação de um movimento igual os Nazistas fizeram onde crianças
+são convidadas a participar de campos de treinamento
+<ul>
+<li>Denunciar qualquer pessoa que seja contra o governo, mesmo
+se forem seus próprios pais</li>
+<li>Lavagem cerebral para aceitar que Judeus são sinónimo de
+pessoas que amam a guerra, não americanos</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>O final do livro acontece de forma muito rápida, e na minha opinião
+deixa a desejar por terminar assim</li>
+<li>Semelhanças com os USA depois do Trump
+<ul>
+<li>America First</li>
+<li>Rússia e EUA (Putin &amp; Trump)</li>
+</ul>
+</li>
+<li>Semelhanças com o autor
+<ul>
+<li>Família chama-se Roth</li>
+<li>Narrador chama-se Philip</li>
+<li>Cenário é Newark</li>
+</ul>
+</li>
+</ul>
+<p>O livro possui adaptações para o cinema:</p>
+<ul>
+<li><a href="http://www.imdb.com/title/tt0376479/">Pastoral Americana</a></li>
+<li><a href="http://www.imdb.com/title/tt0308383/">Revelações</a></li>
+<li><a href="http://www.imdb.com/title/tt1568343/">O Último Ato</a></li>
+<li><a href="http://www.imdb.com/title/tt0974554/">Fatal</a></li>
+</ul>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-99" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="comunicados-e-eventos">Comunicados e eventos</h1>
+<p>Fique ligado pois o episódio de número 100 será gravado ao vivo pelo YouTube no
+dia 10 de maio de 2017 e será um Cage Match de Sistemas Operacionais. Já temos
+a confirmação da participação de membros do <a href="http://devnaestrada.com.br/">DEV na
+Estrada</a>, <a href="https://hackncast.org/">Hack&rsquo;n&rsquo;Cast</a>,
+<a href="http://tecnologiaaberta.com.br/category/opencast/">Opencast</a>, <a href="https://twitter.com/MayogaX">Priscila
+Mayumi</a> e você, isso mesmo, você poderá participar
+ao vivo. Então não perca essa chance, participe!</p>
+<p>Confira os eventos nos quais você poderá encontra nos do Castálio Podcast:</p>
+<ul>
+<li><a href="http://caipyra.python.org.br/">Caipyra</a> 2017 em Ribeirão Preto
+<ul>
+<li>O Bruno Rocha fará um keynote no dia 24 de Junho de 2017.</li>
+</ul>
+</li>
+<li><a href="http://2017.pythonbrasil.org.br/">Python Brasil 13</a> que acontecerá
+em Belo Horizonte - MG de 06 a 11 de Outubro. Segue algumas
+palestras e tutoriais que recomendamos para você votar:
+<ul>
+<li>Vote no <a href="http://speakerfight.com/events/python-brasil-13-tutoriais/#what-the-flask-aprenda-flask-criando-um-cms-e-suas-extensoes">Tutorial What The
+Flask</a>
+que o Bruno Rocha vai ministrar.</li>
+<li>Vote na palestra <a href="http://speakerfight.com/events/python-brasil-13-palestras/#autonomy-way-o-caminho-da-autonomia">Autonomy way: o caminho da
+autonomia</a>
+do Renzo Nuccitelli.</li>
+<li>Vote na palestra <a href="http://speakerfight.com/events/python-brasil-13-palestras/#just-what-is-a-quality-engineer">Just What Is A Quality
+Engineer?</a>
+do Og Maciel.</li>
+<li>Vote na palestra <a href="http://speakerfight.com/events/python-brasil-13-palestras/#mantendo-test-case-e-codigo-de-automacao-juntos-no-codigo-fonte-2">Mantendo Test Case e Código de Automação
+juntos no código
+fonte</a>
+do Og Maciel.</li>
+<li>O Elyézer Rezende ainda não enviou nenhuma proposta de palestra
+mas tem planos de enviar. De qualquer forma, ele estará presente
+no evento.</li>
+</ul>
+</li>
+</ul>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio
+Podcast</a>.</p>
+<p>Até o próximo episódio!</p>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/tech-news.png"/><enclosure url="https://archive.org/download/castalio-podcast-99/castalio-podcast-99.mp3" length="93455313" type="audio/mpeg"/></item><item><title>Episódio 98: Rodolpho Eckhardt - YouTube, Google E SRE</title><link>https://castalio.info/episodes/episodio-98-rodolpho-eckhardt-youtube-google-e-sre/</link><pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-98/castalio-podcast-98.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 98: Rodolpho Eckhardt - YouTube, Google E SRE</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Rodolpho Eckhardt que é Engenheiro de Confiabilidade de Sistemas no Google, participante ativo na comunidade Python no Brasil e atualmente mora na Suíça.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Rodolpho Eckhardt que é Engenheiro de Confiabilidade de Sistemas no Google, participante ativo na comunidade Python no Brasil e atualmente mora na Suíça.</itunes:summary><description>Hoje, conversamos com o Rodolpho Eckhardt que é Engenheiro de Confiabilidade de Sistemas no Google, participante ativo na comunidade Python no Brasil e atualmente mora na Suíça.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, conversamos com o Rodolpho Eckhardt que é Engenheiro de Confiabilidade de Sistemas no Google, participante ativo na comunidade Python no Brasil e atualmente mora na Suíça.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Rodolpho Eckhardt que é Engenheiro de Confiabilidade de Sistemas no Google, participante ativo na comunidade Python no Brasil e atualmente mora na Suíça.</itunes:summary><description>Hoje, conversamos com o Rodolpho Eckhardt que é Engenheiro de Confiabilidade de Sistemas no Google, participante ativo na comunidade Python no Brasil e atualmente mora na Suíça.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso convidado de hoje tem uma profissão muito interessante, ele é Engenheiro
 de Confiabilidade de Sistemas no Google, ele é o responsável por fazer com que
 os vídeos (e principalmente os anúncios) do YouTube funcionem rapidamente e sem
-gargalos!  Ele também é um participante ativo da comunidade Python no Brasil,
-já organizou vários encontros do Grupy quando morava no Brasil e hoje mora e
+gargalos! Ele também é um participante ativo da comunidade Python no Brasil, já
+organizou vários encontros do Grupy quando morava no Brasil e hoje mora e
 trabalha na Suíça. É com grande prazer que nós recebemos nosso convidado de
 hoje, Rodolpho Eckhardt.</p>
+<p>Normalmente nós começamos perguntando como o convidado começou a programar e
+como se envolveu com computação, mas recentemente o Rodolpho já respondeu isso
+tudo no canal do nosso amigo Avelino. Assista ao vídeo: <a href="https://www.youtube.com/watch?v=WYjrO-b1gU0">Como o Googler
+Rodolpho Eckhardt começou
+programar?</a> para saber como o
+Rodolpho começou sua carreira.</p>
+<p>Aproveitamos que ganhamos um tempinho ao pular as perguntas sobre como o
+Rodolpho começou a programar e perguntamos como ele iniciou sua participação na
+comunidade Python no Brasil e também no Grupy. Ele nos conta como foi sua
+participação no surgimento do Grupy e como a comunidade evoluiu desde então.</p>
+<p>Ele também nos conta sobre sua participação no
+<a href="http://caipyra.python.org.br/">Caipyra</a> em 2016, se voce nao pode ir ao evento
+aproveita que a palestra do Rodolpho está no YouTube: <a href="https://www.youtube.com/watch?v=XI2zUFIsMwg">Site Reliability
+Engineering - Rodolpho Eckhardt</a>.
+Vale a pena explorar o canal do Caipyra e assistir as outras palestras.</p>
+<p>Fechamos o assunto comunidade falando sobre o canal
+<a href="https://www.youtube.com/UnixLoadOn">UnixLoadOn</a> que o Rodolpho participa junto
+com o <a href="http://helio.loureiro.eng.br/">Helio Loureiro</a> e outros participantes. O
+legal do canal e que a pauta está aberta no Github e você pode colaborar e
+adicionar assuntos para serem comentados nos próximos episódios. Confira aqui o
+<a href="https://github.com/helioloureiro/canalunixloadon">Github do canal UnixLoadOn</a>.</p>
+<p>Depois de falarmos sobre comunidade, aproveitamos que o Rodolpho mora fora do
+país e perguntamos sobre os pontos positivos e negativos de se mudar para fora.
+Também perguntamos quais foram os desafios que ele e sua família passaram para
+conseguir se mudarem. Aproveitando que falamos sobre Suíça, o Rodolpho nos
+conta como é a comunidade Python por lá.</p>
+<p>Nosso terceiro e último tópico do episodio foi sobre o trabalho do Rodolpho
+como Engenheiro de Confiabilidade de Sistemas (SRE) no Google. Falamos sobre
+quais são as suas responsabilidades e atribuições, qual a diferença entre SRE e
+DevOps, quais a tecnologia que ele e seu time utilizam para resolver os
+problemas. Também perguntamos como esta o mercado de trabalho no Brasil e fora
+para quem quer ser SRE e quais são as skills necessárias para se qualificar
+para uma vaga para essa posição. Fechamos falando sobre como é a participação
+do time de qualidade (QE) numa equipe que possui o time de SRE e a integração
+do time de SRE com testes e release.</p>
+<p>Foi um longo, porém muito interessante, bate-papo e antes de irmos para o Top 5
+perguntamos se o Rodolpho tem algum hobby. Então chegamos ao Top 5, temos
+certeza que você vai curtir as recomendações do Rodolpho.</p>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>. Também não esqueça de
+seguir a <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio
+Podcast</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Twitter</strong>: <a href="https://mastodon.sdf.org/@sysdharma">https://mastodon.sdf.org/@sysdharma</a></li>
+<li><strong>Site</strong>: <a href="https://rodo.lpho.de/">https://rodo.lpho.de/</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-98" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-98/castalio-podcast-98.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-98/castalio-podcast-98.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/99944.The_Bhagavad_Gita" target="_blank">The Bhagavad Gita</a></li><li><a href="https://www.goodreads.com/book/show/6709963-o-processo" target="_blank">O Processo</a></li><li><a href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach" target="_blank">Gödel, Escher, Bach</a></li><li><a href="https://www.goodreads.com/book/show/5470.1984" target="_blank">1984</a></li><li><a href="https://www.goodreads.com/book/show/13251514-o-fim-da-inf-ncia" target="_blank">O Fim da Infância</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt2543164/" target="_blank">Arrival</a></li><li><a href="https://www.imdb.com/title/tt0390384/" target="_blank">Primer</a></li><li><a href="https://www.imdb.com/title/tt0364569/" target="_blank">Oldboy</a></li><li><a href="https://www.imdb.com/title/tt0114369/" target="_blank">Se7en</a></li><li><a href="https://www.imdb.com/title/tt1935156/" target="_blank">Jodorowsky&#39;s Dune</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Bj%C3%B6rk/_/All&#43;Is&#43;Full&#43;of&#43;Love" target="_blank">Björk - All Is Full of Love</a></li><li><a href="https://www.last.fm/music/Craig&#43;Cardiff/_/Love&#43;Is&#43;Louder&#43;%28Than&#43;All&#43;This&#43;Noise%29" target="_blank">Craig Cardiff - Love Is Louder</a></li><li><a href="https://www.last.fm/music/Nina&#43;Simone/_/Sinnerman" target="_blank">Nina Simone - Sinnerman</a></li><li><a href="https://www.last.fm/music/Sigur&#43;R%C3%B3s/_/Fj%C3%B6gur&#43;p%C3%ADan%C3%B3" target="_blank">Sigur Rós - Fjögur píanó</a></li><li><a href="https://www.last.fm/music/Lera&#43;Lynn/_/It&#43;Only&#43;Takes&#43;One&#43;Shot" target="_blank">Lera Lynn - It Only Takes One Shot</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=WYjrO-b1gU0">Como o Googler Rodolpho Eckhardt começou programar?</a></li>
+<li><a href="http://caipyra.python.org.br/">Caipyra</a></li>
+<li><a href="https://www.youtube.com/watch?v=XI2zUFIsMwg">Site Reliability Engineering - Rodolpho Eckhardt</a></li>
+<li><a href="https://www.youtube.com/UnixLoadOn">UnixLoadOn</a></li>
+<li><a href="http://helio.loureiro.eng.br/">Helio Loureiro</a></li>
+<li><a href="https://github.com/helioloureiro/canalunixloadon">Github do canal UnixLoadOn</a></li>
+<li><a href="http://www.python-summit.ch/">Swiss Python Summit</a></li>
+<li><a href="http://www.python-summit.ch/pages/recordings.html">Swiss Python Summit Recordings</a></li>
+<li><a href="https://2017.geopython.net/">GeoPython</a></li>
+<li><a href="https://www.goodreads.com/book/show/27968891-site-reliability-engineering">Livro Site Reliability Engineering</a></li>
+<li><a href="https://prometheus.io/">Prometheus</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://golang.org/">Go</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/rodolpho-eckhardt.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-98/castalio-podcast-98.mp3" length="90347771" type="audio/mpeg"/></item><item><title>Episódio 97: Vladimir Melo - Software Livre E Obesidade Infantil</title><link>https://castalio.info/episodes/episodio-97-vladimir-melo-software-livre-e-obesidade-infanti/</link><pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-97/castalio-podcast-97.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 97: Vladimir Melo - Software Livre E Obesidade Infantil</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Vladimir Melo que é Psicólogo Clínico, publicou um livro sobre obesidade infantil, e, por muito tempo, foi membro da equipe de tradutores do projeto GNOME.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Vladimir Melo que é Psicólogo Clínico, publicou um livro sobre obesidade infantil, e, por muito tempo, foi membro da equipe de tradutores do projeto GNOME.</itunes:summary><description>Hoje, conversamos com o Vladimir Melo que é Psicólogo Clínico, publicou um livro sobre obesidade infantil, e, por muito tempo, foi membro da equipe de tradutores do projeto GNOME.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, conversamos com o Vladimir Melo que é Psicólogo Clínico, publicou um livro sobre obesidade infantil, e, por muito tempo, foi membro da equipe de tradutores do projeto GNOME.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Vladimir Melo que é Psicólogo Clínico, publicou um livro sobre obesidade infantil, e, por muito tempo, foi membro da equipe de tradutores do projeto GNOME.</itunes:summary><description>Hoje, conversamos com o Vladimir Melo que é Psicólogo Clínico, publicou um livro sobre obesidade infantil, e, por muito tempo, foi membro da equipe de tradutores do projeto GNOME.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso entrevistado de hoje é Psicólogo clínico, recentemente publicou um livro
-chamado <a class="reference external" href="http://www.editoraappris.com.br/produto/e-book-obesidade-infantil-interacoes-familiares-e-ciclo-de-vida-numa-perspectiva-sistemica">Obesidade Infantil: Interações Familiares e Ciclo de Vida Numa
-Perspectiva Sistêmica</a>, e, por muito tempo, foi membro da equipe de tradutores
-do projeto <a class="reference external" href="https://www.gnome.org/">GNOME</a>, traduzindo aplicativos GNOME para o português Brasileiro.
-É com grande prazer que nós recebemos nosso convidado de hoje, Vladmir Melo.</p>
+chamado <a href="http://www.editoraappris.com.br/produto/e-book-obesidade-infantil-interacoes-familiares-e-ciclo-de-vida-numa-perspectiva-sistemica">Obesidade Infantil: Interações Familiares e Ciclo de Vida Numa
+Perspectiva
+Sistêmica</a>,
+e, por muito tempo, foi membro da equipe de tradutores do projeto
+<a href="https://www.gnome.org/">GNOME</a>, traduzindo aplicativos GNOME para o português
+Brasileiro. É com grande prazer que nós recebemos nosso convidado de hoje,
+Vladmir Melo.</p>
+<p>Começamos nossa conversa falando um pouco sobre a participação do Vladimir na
+equipe de tradutores to projeto GNOME. Conversamos sobre o que chamou sua
+atenção para ajudar nas traduções e como o processo de tradução é feito.
+Finalizamos esse assunto falando sobre o setup atual do Vladimir e como o
+Software Livre ajuda em seu trabalho.</p>
+<p>Depois entramos num assunto bastante importante: obesidade infantil.
+Conversamos sobre o que realmente é ser obeso, se existe uma epidemia de
+obesidade no Brasil e como a obesidade está mundo à fora.</p>
+<p>O Vladimir vem palestrando em escolas publicas sobre obesidade infantil. Ele
+nos conta como é este trabalho e qual é o objetivo dessas palestras para as
+crianças, seus pais e instrutores.</p>
+<div class="clearfix"></div>
+<p><img src="/images/vladimir-melo-palestra.jpg" alt=""></p>
+<p>Antes de ir para o Top 5, o Vladimir nos fala sobre o outro lado da moeda, que
+são de pessoas com anorexia e como está a distribuição dos casos entre homens e
+mulheres.</p>
+<p>Por fim, chegamos ao Top 5. O Vladimir recomendou bastante coisa interessante,
+vale a pena conferir! Mas antes de ir realmente para o final do episódio, o
+Vladimir comenta sobre seu interesse por espanhol, já que as vezes ele escrever
+em espanhol em seu Facebook.</p>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/vladimir.melo">https://www.facebook.com/vladimir.melo</a></li>
+<li><strong>Site</strong>: <a href="http://vladimirmelo.com.br/">http://vladimirmelo.com.br/</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-97" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-97/castalio-podcast-97.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-97/castalio-podcast-97.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/author/show/4128.J_M_Coetzee" target="_blank">J.M. Coetzee</a></li><li><a href="https://www.goodreads.com/author/show/843200.Oliver_Sacks" target="_blank">Oliver Sacks</a></li><li><a href="https://www.goodreads.com/author/show/1285555.Jos_Saramago" target="_blank">José Saramago</a></li><li><a href="https://www.goodreads.com/author/show/3354.Haruki_Murakami" target="_blank">Haruki Murakami</a></li><li><a href="https://www.goodreads.com/author/show/22515.Mario_Vargas_Llosa" target="_blank">Mario Vargas Llosa</a></li><li><a href="https://www.goodreads.com/author/show/500.Jorge_Luis_Borges" target="_blank">Jorge Luis Borges</a></li><li><a href="https://www.goodreads.com/author/show/3424060.Adolfo_Bioy_Casares" target="_blank">Adolfo Bioy Casares</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0338013/" target="_blank">Brilho Eterno de uma Mente sem Lembranças</a></li><li><a href="https://www.imdb.com/title/tt0259711/" target="_blank">Vanilla Sky</a></li><li><a href="https://www.imdb.com/name/nm0000233/" target="_blank">Quentin Tarantino</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Sigur&#43;R%C3%B3s" target="_blank">Sigur Rós</a></li><li><a href="https://www.last.fm/music/Angus&#43;Stone" target="_blank">Angus Stone</a></li><li><a href="https://www.last.fm/music/Jos%C3%A9&#43;Gonz%C3%A1lez" target="_blank">José González</a></li><li><a href="https://www.last.fm/music/David&#43;Bowie" target="_blank">David Bowie</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://www.editoraappris.com.br/produto/e-book-obesidade-infantil-interacoes-familiares-e-ciclo-de-vida-numa-perspectiva-sistemica">Obesidade Infantil: Interações Familiares e Ciclo de Vida Numa
+Perspectiva Sistêmica</a></li>
+<li><a href="https://www.gnome.org/">GNOME</a></li>
+<li><a href="https://www.archlinux.org/">Arch Linux</a></li>
+<li><a href="https://www.ubuntu.com/">Ubuntu</a></li>
+<li><a href="https://www.libreoffice.org/">Libre Office</a></li>
+<li><a href="https://www.youtube.com/watch?v=8UGe5GiHCT4">Muito Além do Peso</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/vladimir-melo.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-97/castalio-podcast-97.mp3" length="66256825" type="audio/mpeg"/></item><item><title>Episódio 96: Plataforma De Desenvolvimento Da Microsoft - Parte 2</title><link>https://castalio.info/episodes/episodio-96-plataforma-de-desenvolvimento-da-microsoft-parte-2/</link><pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-96/castalio-podcast-96.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 96: Plataforma De Desenvolvimento Da Microsoft - Parte 2</itunes:title><itunes:subtitle>
-No episódio de hoje continuamos com a segunda parte sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Continuamos com a presença do...</itunes:subtitle><itunes:summary>No episódio de hoje continuamos com a segunda parte sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Continuamos com a presença do Giovanni Bassi para nos ajudar a responder algumas perguntas.</itunes:summary><description>No episódio de hoje continuamos com a segunda parte sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Continuamos com a presença do Giovanni Bassi para nos ajudar a responder algumas perguntas.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+No episódio de hoje continuamos com a segunda parte sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Continuamos com a presença do...</itunes:subtitle><itunes:summary>No episódio de hoje continuamos com a segunda parte sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Continuamos com a presença do Giovanni Bassi para nos ajudar a responder algumas perguntas.</itunes:summary><description>No episódio de hoje continuamos com a segunda parte sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Continuamos com a presença do Giovanni Bassi para nos ajudar a responder algumas perguntas.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje continuamos com a segunda parte sobre a plataforma de
 desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como
-C#, <a class="reference external" href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a>, ASP, SQLServer, Sharepoint, Xamarin e <a class="reference external" href="https://azure.microsoft.com">Azure</a>.</p>
+C#, <a href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a>, ASP, SQLServer,
+Sharepoint, Xamarin e <a href="https://azure.microsoft.com">Azure</a>.</p>
+<h1 id="escute-enquanto-lê-o-show-notes">Escute enquanto lê o show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-96" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-96/castalio-podcast-96.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-96/castalio-podcast-96.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Assim como no episódio passado, continuamos com a presença do <a href="https://twitter.com/giovannibassi">Giovanni
+Bassi</a> para nos ajudar a responder nossas
+perguntas. Fique ligado pois temos perguntas enviadas pelo Twitter to Castálio
+Podcast assim como algumas que surgiram ao gravar o OpenCast.</p>
+<p>Com essa segunda parte finalizamos esse assunto, então você já sabe que no
+final teremos nosso Top 5. Hoje, na verdade, teremos dois um Top 5 sobre
+músicas, filmes e livros que o Giovanni curte e um Top 5 sobre links para quem
+esta interessado em aprender mais sobre a plataforma de desenvolvimento da
+Microsoft.</p>
+<p>Neste episódio abordamos os seguintes tópicos:</p>
+<ul>
+<li>Quais são as novidades do C# 7.0?</li>
+<li>A Microsoft comprou a Xamarin, uma plataforma poderosa para
+desenvolver app para iOS, Android e Windows Phone, de olho no mundo
+mobile. Baseado nisso, perguntamos o que o Giovanni acha do Windows
+Phone, o que deu errado e se a Microsoft vai desistir da plataforma
+ou virá novidades por ai?</li>
+<li>Continuando o assunto sobre mobile, o Giovanni nos fala o que ele
+acha sobre os partial apps, que são aplicativos que apenas parte
+fica instalado no dispositivo e a maior parte roda direto da nuvem.</li>
+<li>Será que a Microsoft planeja concorrer com o
+<a href="https://www.mysql.com/">MySQL</a> e o
+<a href="https://www.postgresql.org/">PostgreSQL</a> já que atualmente o
+SQLServer roda no Linux? Existe uma versão community edition do
+SQLServer?</li>
+<li>O que acha do Visual Studio Community 2017 para escrever código
+Python, Flask ou Django?</li>
+</ul>
+<p>Nosso ouvintes enviaram algumas perguntas e aproveitamos para fazê-las:</p>
+<ul>
+<li>O que é o <a href="https://github.com/dotnet/roslyn">Roslyn</a>? E se ele é uma
+tentativa de substituir o <a href="http://www.mono-project.com/">Mono</a>?</li>
+<li>A Microsoft passou a usar Git devido ao TFS (Team Foundation Server)
+não dar conta do recado? Ou isso é um movimento para aproximação da
+comunidade?</li>
+<li>Será que o Windows é compilado no Windows?</li>
+<li>Depois do Azure a Microsoft pode levar o Linux para outros produtos
+dela?</li>
+<li>Qual a diferença entre <a href="https://www.xamarin.com/">Xamarin</a>,
+<a href="http://ionicframework.com/">Ionic</a> (Cordova) e <a href="http://facebook.github.io/react-native/">React
+Native</a>? Qual a vantagem de
+usar Xamarin?</li>
+</ul>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="http://www.lambda3.com.br/blog">http://www.lambda3.com.br/blog</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/giovannibassi">https://twitter.com/giovannibassi</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/giggio">https://github.com/giggio</a></li>
+</ul>
+<h1 id="links">Links</h1>
+<p>Segue a lista de links que comentamos no episódio:</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a></li>
+<li><a href="https://azure.microsoft.com">Azure</a></li>
+<li><a href="https://pwa.rocks/">Progressive Web Apps</a></li>
+<li><a href="https://deanhume.github.io/beer/">Progressive Beer</a></li>
+<li><a href="https://www.mysql.com/">MySQL</a></li>
+<li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+<li><a href="https://www.mongodb.com/">MongoDB</a></li>
+<li><a href="https://github.com/dotnet/roslyn">Roslyn</a></li>
+<li><a href="http://www.mono-project.com/">Mono</a></li>
+<li><a href="https://www.xamarin.com/">Xamarin</a></li>
+<li><a href="http://ionicframework.com/">Ionic</a></li>
+<li><a href="http://facebook.github.io/react-native/">React Native</a></li>
+<li><a href="https://www.goodreads.com/book/show/23258978-the-open-organization">The Open Organization</a></li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/179133.Domain_Driven_Design" target="_blank">Domain-Driven Design</a></li><li><a href="https://www.goodreads.com/book/show/971989.The_End_of_Management_and_the_Rise_of_Organizational_Democracy" target="_blank">The End of Management and the Rise of Organizational Democracy</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0110912/" target="_blank">Pulp Fiction</a></li><li><a href="https://www.imdb.com/title/tt0133093/" target="_blank">The Matrix</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Metallica" target="_blank">Metallica</a></li><li><a href="https://www.last.fm/music/Ramones" target="_blank">Ramones</a></li></ol>
+<h1 id="top-5---sobre-a-plataforma-de-desenvolvimento-da-microsoft">Top 5 - Sobre a plataforma de desenvolvimento da Microsoft</h1>
+<ul>
+<li><a href="http://www.lambda3.com.br/blog">Blog da Lambda3</a></li>
+<li><a href="http://www.lambda3.com.br/lambda3-podcast/">Podcast da Lambda3</a></li>
+<li><a href="https://blogs.msdn.microsoft.com/csharpfaq/">Blog do time do C#</a></li>
+<li><a href="https://ericlippert.com/">Blog do Eric Lippert</a></li>
+<li><a href="https://twitter.com/giovannibassi">Twitter do Giovanni Bassi</a></li>
+</ul>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-96" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-96/castalio-podcast-96.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-96/castalio-podcast-96.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/episode-95.png"/><enclosure url="https://archive.org/download/castalio-podcast-96/castalio-podcast-96.mp3" length="89294374" type="audio/mpeg"/></item><item><title>Episódio 95: Plataforma De Desenvolvimento Da Microsoft - Parte 1</title><link>https://castalio.info/episodes/episodio-95-plataforma-de-desenvolvimento-da-microsoft-parte-1/</link><pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-95/castalio-podcast-95.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 95: Plataforma De Desenvolvimento Da Microsoft - Parte 1</itunes:title><itunes:subtitle>
-No episódio de hoje vamos falar sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Para nos ajudar a explorar este assunto, temos a...</itunes:subtitle><itunes:summary>No episódio de hoje vamos falar sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Para nos ajudar a explorar este assunto, temos a presença do Giovanni Bassi.</itunes:summary><description>No episódio de hoje vamos falar sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Para nos ajudar a explorar este assunto, temos a presença do Giovanni Bassi.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+No episódio de hoje vamos falar sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Para nos ajudar a explorar este assunto, temos a...</itunes:subtitle><itunes:summary>No episódio de hoje vamos falar sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Para nos ajudar a explorar este assunto, temos a presença do Giovanni Bassi.</itunes:summary><description>No episódio de hoje vamos falar sobre a plataforma de desenvolvimento da Microsoft que inclui ferramentas largamente utilizadas como C#, .NET, ASP, SQLServer, Sharepoint, Xamarin e Azure. Para nos ajudar a explorar este assunto, temos a presença do Giovanni Bassi.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje falaremos sobre a plataforma de desenvolvimento da
-Microsoft que inclui ferramentas largamente utilizadas como C#, <a class="reference external" href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a>, ASP,
-SQLServer, Sharepoint, Xamarin e <a class="reference external" href="https://azure.microsoft.com">Azure</a>.</p>
+Microsoft que inclui ferramentas largamente utilizadas como C#,
+<a href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a>, ASP, SQLServer,
+Sharepoint, Xamarin e <a href="https://azure.microsoft.com">Azure</a>.</p>
+<h1 id="escute-enquanto-lê-o-show-notes">Escute enquanto lê o show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-95" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Recentemente a empresa decidiu abraçar o Open Source juntando-se a Linux
+Foundation, possibilitando o intercâmbio de softwares com os sistemas
+operacionais Linux. A Microsoft também abriu o código fonte de alguns de seus
+produtos e até lançou ferramentas direcionadas a comunidade open source.</p>
+<p>Para nos ajudar a ficar sabendo das novidades da plataforma e entender os
+motivos que estão levando a MS para essa nova estratégia trouxemos um convidado
+que é MVP (Most Valuable Professional), trabalha com .NET desde que foi
+lançado, tem tanta certificação Microsoft que levaria o episódio inteiro para
+citar uma por uma, é sócio fundador da Lambda3 e também podcaster no Podcast da
+Lambda3. <a href="https://twitter.com/giovannibassi">Giovanni Bassi</a>, seja bem vindo ao
+Castálio Podcast.</p>
+<p>Neste episódio abordamos os seguintes tópicos:</p>
+<ul>
+<li>Como o Giovanni começou a trabalhar com TI e como e por quê entrou
+de cabeça nas tecnologias da Microsoft?</li>
+<li>Qual o perfil do consumidor de tecnologias Microsoft? Qual o
+investimento necessário? Quais os tipos de empresas tem adotado
+essas tecnologias: empresas grandes ou empresas pequenas e startups?</li>
+<li>Comentários sobre editores de textos e IDEs e os recursos que essas
+ferramentas oferecem.</li>
+<li>Quais os projetos estão open source: apenas .NET ou o C# e
+VisualBasic também?</li>
+<li>Em 2010 o Giovanni foi entrevistado pelo iMasters e naquela época
+ele recomendou o desenvolvimento de um aplicativo Desktop para um
+intranet. 7 anos depois, qual a visão do Giovanni a respeito se as
+tecnologias Microsoft tem convergido para Web e APIs ou se a
+Microsoft continua investindo em Desktop?</li>
+</ul>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="http://www.lambda3.com.br/blog">http://www.lambda3.com.br/blog</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/giovannibassi">https://twitter.com/giovannibassi</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/giggio">https://github.com/giggio</a></li>
+</ul>
+<h1 id="links">Links</h1>
+<p>Segue a lista de links que comentamos no episódio:</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a></li>
+<li><a href="http://www.lambda3.com.br/">Lambda3</a></li>
+<li><a href="http://www.lambda3.com.br/lambda3-podcast/">Podcast da Lambda3</a></li>
+<li><a href="http://devnaestrada.com.br/">Podcast DevNaEstrada</a></li>
+<li><a href="http://devnaestrada.com.br/2016/05/27/entrevista-giovanni-bassi.html">DNE 55 - Entrevista Giovanni Bassi</a></li>
+<li><a href="https://stackoverflow.com/insights/survey/2017">StackOverflow Developer Survey</a></li>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="http://www.sublimetext.com/">Sublime Text</a></li>
+<li><a href="">Como usar .NET Core em produção HOJE com aplicações Web\: MongoDB</a></li>
+<li><a href="https://azure.microsoft.com">Azure</a></li>
+<li><a href="https://www.docker.com/">Docker</a></li>
+<li><a href="https://aws.amazon.com/">Amazon AWS</a></li>
+<li><a href="https://cloud.google.com/">Google Cloud Platform</a></li>
+<li><a href="https://www.jetbrains.com/rider/">JetBrains Rider</a></li>
+<li><a href="http://www.vim.org/">Vim</a></li>
+<li><a href="http://www.mono-project.com/">Mono</a></li>
+<li><a href="https://www.gtk.org/">GTK</a></li>
+<li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="http://daringfireball.net/projects/markdown/">Markdown</a></li>
+<li><a href="http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html">reStructuredText (RST)</a></li>
+<li><a href="https://atom.io/">Atom</a></li>
+<li><a href="https://github.com/tpope/vim-fugitive">Vim Fugitive</a></li>
+<li><a href="https://github.com/tpope">Tim Pope</a></li>
+<li><a href="https://github.com/pprice/vscode-better-merge">VSCode Better Merge</a></li>
+<li><a href="https://github.com/VSCodeVim/Vim">VSCode Vim</a></li>
+<li><a href="http://pythonbytes.fm/">Python Bytes</a></li>
+<li><a href="https://talkpython.fm">Talk Python To Me</a></li>
+<li><a href="">Episode #101\: Adding a full featured Python environment to Visual Studio Code</a></li>
+<li><a href="">iMasters\: Entrevista com Giovanni Bassi</a></li>
+</ul>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-95" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/episode-95.png"/><enclosure url="https://archive.org/download/castalio-podcast-95/castalio-podcast-95.mp3" length="62935662" type="audio/mpeg"/></item><item><title>Episódio 94: Tech News</title><link>https://castalio.info/episodes/episodio-94-tech-news/</link><pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-94/castalio-podcast-94.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 94: Tech News</itunes:title><itunes:subtitle>
-Neste episódio trazemos noticias e dicas. Além de comentar sobre o resultado do 2017 Developer Survey que o Stack Overflow realizou. Também trazemos links sobre Closure, um App para Android e um framework de teste da Microsoft que teve seu...</itunes:subtitle><itunes:summary>Neste episódio trazemos noticias e dicas. Além de comentar sobre o resultado do 2017 Developer Survey que o Stack Overflow realizou. Também trazemos links sobre Closure, um App para Android e um framework de teste da Microsoft que teve seu código liberado.</itunes:summary><description>Neste episódio trazemos noticias e dicas. Além de comentar sobre o resultado do 2017 Developer Survey que o Stack Overflow realizou. Também trazemos links sobre Closure, um App para Android e um framework de teste da Microsoft que teve seu código liberado.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Neste episódio trazemos noticias e dicas. Além de comentar sobre o resultado do 2017 Developer Survey que o Stack Overflow realizou. Também trazemos links sobre Closure, um App para Android e um framework de teste da Microsoft que teve seu...</itunes:subtitle><itunes:summary>Neste episódio trazemos noticias e dicas. Além de comentar sobre o resultado do 2017 Developer Survey que o Stack Overflow realizou. Também trazemos links sobre Closure, um App para Android e um framework de teste da Microsoft que teve seu código liberado.</itunes:summary><description>Neste episódio trazemos noticias e dicas. Além de comentar sobre o resultado do 2017 Developer Survey que o Stack Overflow realizou. Também trazemos links sobre Closure, um App para Android e um framework de teste da Microsoft que teve seu código liberado.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Depois de alguns episódios temáticos vamos fazer uma pausa para trazer algumas
 notícias e dicas. Comentamos um pouco sobre o resultado do 2017 Developer
 Survey que o Stack Overflow realizou. Também trazemos links sobre Closure, um
 App para Android e um framework de teste da Microsoft que teve seu código
 liberado.</p>
+<p>Aproveitamos o inicio do episódio para agradecer e comentar sobre alguns
+comentários recebidos nos episódios anteriores e nossas redes sociais. Alem
+disso agradecemos as pessoas que conversaram com o Bruno Rocha no PyData SP
+sobre o Castálio Podcast. Você sabe o quanto sua participação é importante para
+nós, não deixe de nos dizer o que esta achando dos episódios e também sugerir
+assuntos, notícias, dicas, enfim, o que você quiser.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-94" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-94/castalio-podcast-94.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-94/castalio-podcast-94.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2 id="tech-news">Tech News</h2>
+<ul>
+<li>
+<p><a href="http://pybit.es/python-resources.html">From beginner to pro: Python books, videos and
+resources</a></p>
+<p>Lista de links sobre Python com livros, vídeos e outros conteúdos para
+Pythonistas de todos os níveis. Também inclui links para outras listas
+feitas por outros autores.</p>
+</li>
+<li>
+<p><a href="https://github.com/Qix-/better-exceptions">Better Exceptions</a></p>
+<p>Exceptions com melhor interface para Python. A imagem abaixo mostra como
+fica a apresentação do traceback.</p>
+<p><img src="https://github.com/Qix-/better-exceptions/raw/master/screenshot.png" alt=""></p>
+</li>
+<li>
+<p><a href="https://docs.python.org/3.6/whatsnew/changelog.html#python-3-6-1">Python 3.6.1
+lançado</a></p>
+<p>Foi lançado no dia 21/03/2017 e inclui várias correções de bugs e
+melhorias.</p>
+</li>
+<li>
+<p>Castálio Podcast esteve presente em alguns episódios do
+<a href="http://tecnologiaaberta.com.br/category/opencast/">OpenCast</a>:</p>
+<ul>
+<li><a href="http://tecnologiaaberta.com.br/2017/03/opencast-71-usuarios-de-mac-migram-para-linux/">#71 Usuários de MAC migram para
+Linux</a></li>
+<li><a href="http://tecnologiaaberta.com.br/2017/03/opencast-72-carreira-de-desenvolvedor-de-software-livre-parte-1/">#72 Carreira de Desenvolvedor de Software Livre &ndash; parte
+1</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/cdgriffith/Reusables">Reusables</a></p>
+<p>Coleção de helpers em Python para tarefas comuns.</p>
+</li>
+<li>
+<p><a href="https://stackoverflow.com/insights/survey/2017/">Stack Overflow 2017 Developer Survey
+Results</a></p>
+<p>Alguns pontos interessantes:</p>
+<ul>
+<li>Python é o número 5 nas tecnologias mais populares. Em 5 anos
+foi a primeira vez que Python ultrapassou PHP.</li>
+<li>Python é o primeiro na lista de tecnologias que os
+desenvolvedores gostariam de aprender. Ele foi o quarto no ano
+passado.</li>
+<li>Desenvolvedores que utilizam Python, JavaScript e Perl dizem que
+se sentem mal pagos menos que os desenvolvedores que trabalham
+com outras linguagens.</li>
+<li>Além de outros gráficos muito interessantes, vale a pena
+conferir.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/topper-123/Articles/blob/master/New-interesting-data-types-in-Python3.rst">New interesting data structures in Python
+3</a></p>
+<p>Anteriormente comentamos sobre o <code>namedtuple</code> e <code>SimpleNamespace</code>, porém
+este gist fala sobre as classes <code>typing.NamedTuple</code> e
+<code>types.MappingProxyType</code> além da classe <code>types.SimpleNamespace</code>.</p>
+<p><code>typing.NamedTuple</code> é uma versão melhorada do <code>collections.namedtuple</code> que
+foi adicionado ao Python 3.5. Ela oferece:</p>
+<ul>
+<li>Sintaxe melhorada</li>
+<li>Permite herdar dos tipos</li>
+<li>type annotations</li>
+<li>Valores padroes(python &gt;= 3.6.1)</li>
+<li>Tao rapida quanto as namedtuples</li>
+</ul>
+<p><code>types.MappingProxyType</code> é utilizado como um dicionário onde e possível
+apenas ler, e foi adicionado no Python 3.3. Este tipo de dado é
+interessante quando você esta chamando uma API que recebe um dicionário e
+você quer garantir que os dados originais não serão alterados sem intenção.</p>
+</li>
+<li>
+<p><a href="https://github.com/rochacbruno/dynaconf">Lançada a versão 4.5 do Dynaconf com novidades</a></p>
+</li>
+<li>
+<p><a href="https://aphyr.com/tags/Clojure-from-the-ground-up">Clojure from the Ground Up</a></p>
+</li>
+<li>
+<p><a href="https://github.com/rochacbruno/flasgger">Nova versão do Flasgger</a></p>
+</li>
+<li>
+<p><a href="">MSTest Test Framework &lt;https://github.com/Microsoft/testfx e
+https://github.com/Microsoft/testfx-docs&gt;</a></p>
+</li>
+<li>
+<p><a href="https://guardianproject.info/apps/orbot/">Orbot: Tor for Android</a></p>
+</li>
+<li>
+<p><a href="https://developers.redhat.com/products/softwarecollections/hello-world/#fndtn-python">Red Hat Software Collections</a></p>
+</li>
+</ul>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-94" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-94/castalio-podcast-94.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-94/castalio-podcast-94.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/tech-news.png"/><enclosure url="https://archive.org/download/castalio-podcast-94/castalio-podcast-94.mp3" length="53688211" type="audio/mpeg"/></item><item><title>Episódio 93: Linguagem Lua - Parte 2</title><link>https://castalio.info/episodes/episodio-93-linguagem-lua-parte-2/</link><pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-93/castalio-podcast-93.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 93: Linguagem Lua - Parte 2</itunes:title><itunes:subtitle>
-No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:subtitle><itunes:summary>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:summary><description>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:subtitle><itunes:summary>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:summary><description>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje continuamos com a segunda parte sobre a linguagem de
-programação Lua. Como na primeira parte, contamos com a presença da <a class="reference external" href="http://etiene.net/">Etiene
+programação Lua. Como na primeira parte, contamos com a presença da <a href="http://etiene.net/">Etiene
 Dalcol</a> para responder as nossas perguntas. Uma novidade
-deste episódio, foi que o <a class="reference external" href="https://twitter.com/italomaia">Italo Maia</a> nos
+deste episódio, foi que o <a href="https://twitter.com/italomaia">Italo Maia</a> nos
 enviou uma pergunta pelo Twitter e já começamos com ela logo no início. Também
-temos o Top 5 de links para aprender <a class="reference external" href="http://www.lua.org/">Lua</a>.</p>
+temos o Top 5 de links para aprender <a href="http://www.lua.org/">Lua</a>.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-93" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-93/castalio-podcast-93.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-93/castalio-podcast-93.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Os seguintes tópicos foram abordados:</p>
+<ul>
+<li>Qual o maior problema do ecossistema Lua no momento? E como você
+acredita que poderia melhorar? (enviado pelo Italo)</li>
+<li>O <a href="http://openresty.org">Open Resty</a> é uma plataforma web integrada
+ao <a href="http://nginx.org/">nginx</a> e ao <a href="http://luajit.org/">LuaJit</a>,
+qual a opinião da Etiene a respeito dele?</li>
+<li>O que é o <a href="http://www.sailorproject.org/">Sailor</a> e o que motivou a
+Etiene a criá-lo? Qual o status atual do projeto? Ele seria como um
+<a href="https://www.djangoproject.com/">Django</a> ou
+<a href="http://rubyonrails.org/">Rails</a> para <a href="http://www.lua.org/">Lua</a>?</li>
+<li>Como a Etiene está envolvida com a organização da
+<a href="http://luaconf.com/pt">LuaConf</a>? Como foi a conferência do ano
+passado? E quais são os planos para a deste ano? E o <a href="https://www.youtube.com/channel/UC8UnjF-8EPisllS_lHX0QMg">Canal do
+YouTube da
+LuaConf</a>.</li>
+<li>O que a Etiene gosta de fazer enquanto não está programando?</li>
+</ul>
+<h1 id="links">Links</h1>
+<p>Segue a lista de links que comentamos no episódio:</p>
+<ul>
+<li><a href="https://luarocks.org/">LuaRocks</a></li>
+<li><a href="http://openresty.org">Open Resty</a></li>
+<li><a href="http://nginx.org/">nginx</a></li>
+<li><a href="http://luajit.org/">LuaJIT</a></li>
+<li><a href="http://leafo.net/lapis/">Lapis</a></li>
+<li><a href="http://www.sailorproject.org/">Sailor</a></li>
+<li><a href="http://www.lua.org/">Lua</a></li>
+<li><a href="https://www.djangoproject.com/">Django</a></li>
+<li><a href="http://rubyonrails.org/">Rails</a></li>
+<li><a href="http://luaconf.com/pt">LuaConf</a></li>
+<li><a href="https://www.youtube.com/channel/UC8UnjF-8EPisllS_lHX0QMg">Canal do YouTube da LuaConf</a></li>
+<li><a href="http://torch.ch/">Torch</a></li>
+<li><a href="http://etiene.net/">Site pessoal da Etiene Dalcol</a></li>
+<li><a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Playlist do Castálio no Spotify</a></li>
+</ul>
+<h1 id="top-5">Top 5</h1>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="http://www.grupogen.com.br/programando-em-lua?code=luaorg" target="_blank">Programando em Lua</a></li><li><a href="https://www.goodreads.com/book/show/1332383.Programming_in_Lua" target="_blank">Programming in Lua</a></li></ol><h3>Sites:</h3><ol><li><a href="https://br.codecombat.com/" target="_blank">CodeCombat</a></li><li><a href="http://www.lua.org/lua-br.html" target="_blank">Lua BR (lista de email pt_BR)</a></li><li><a href="http://www.lua.org/lua-l.html" target="_blank">Lua-l (lista de email en_US)</a></li></ol>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-93" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-93/castalio-podcast-93.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-93/castalio-podcast-93.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/lua.png"/><enclosure url="https://archive.org/download/castalio-podcast-93/castalio-podcast-93.mp3" length="38476406" type="audio/mpeg"/></item><item><title>Episódio 92: Linguagem Lua - Parte 1</title><link>https://castalio.info/episodes/episodio-92-linguagem-lua-parte-1/</link><pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-92/castalio-podcast-92.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 92: Linguagem Lua - Parte 1</itunes:title><itunes:subtitle>
-No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:subtitle><itunes:summary>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:summary><description>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:subtitle><itunes:summary>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</itunes:summary><description>No episódio de hoje vamos falar sobre a linguagem de programação Lua. Para nos ajudar, contamos com a presença da Etiene Dalcol.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje falaremos sobre a linguagem de programação Lua, uma
 linguagem multi-plataforma e multi-paradigma, leve e extensível, bastante
 utilizada em software embarcado, games, scripts e plugins. A linguagem foi
@@ -768,21 +1943,266 @@ criada no Brasil, na PUC-Rio em 1993, inicialmente para ser utilizada em um
 projeto da Tecgraf na Petrobras. Mas devido a sua eficiência e clareza, passou
 a ser utilizada em outros projetos e então foi disponibilizada para uso geral
 sob a licença MIT.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-92" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-92/castalio-podcast-92.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-92/castalio-podcast-92.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>A linguagem <a href="http://www.lua.org/">Lua</a> se tornou uma das mais importantes no
+categoria das linguagens dinâmicas e tem sido adotada como linguagem de script
+em softwares como <a href="https://www.adobe.com/br/products/photoshop.html">Adobe
+Photoshop</a>, <a href="https://coronalabs.com/corona-sdk/">Corona
+SDK</a> para desenvolvimento mobile,
+<a href="http://nginx.org/">nginx</a> um dos web servers mais utilizados atualmente, o
+motor de buscas <a href="https://www.elastic.co/products/elasticsearch">Elastic
+Search</a>, o <a href="https://pt.wikipedia.org/wiki/PlayStation_Home">Playstation
+Home</a> e também a grande
+quantidade de games como <a href="https://www.angrybirds.com/">Angry Birds</a>,
+<a href="https://civilization.com/pt-BR">Civilization</a>, <a href="https://far-cry.ubisoft.com/primal/pt-BR/">Far
+Cry</a>,
+<a href="http://www.playragnarok.com/">Ragnarok</a> e <a href="https://worldofwarcraft.com/pt-br/">World of
+Warcraft</a>.</p>
+<p>Temos conosco uma convidada para nos ajudar a responder algumas questões sobre
+a linguagem Lua. Ela é brasileira, engenheira de software na Red Badger em
+Londres, muito ativa na comunidade Lua, organizadora da
+<a href="http://luaconf.com/pt">LuaConf</a> e do <a href="https://fosdem.org/2017/schedule/track/lua/">Lua
+Devroom</a> na Fosdem, mantenedora do
+<a href="http://lua.space/">LuaSpace</a>, o blog da comunidade Lua, criadora do
+<a href="http://www.sailorproject.org/">Sailor</a> web framework, fundadora do grupo <a href="http://lualadies.org/">Lua
+Ladies</a>, uma iniciativa para trazer mais mulheres para a
+programação a partir da comunidade Lua e ela escreve poemas e toca piano nas
+suas horas vagas. <a href="http://etiene.net/">Etiene Dalcol</a> seja bem vinda ao
+Castálio Podcast!</p>
+<p>Neste episódio abordamos os seguintes tópicos:</p>
+<ul>
+<li>Como a Etiene começou a programar em Lua e como ela se ingressou na
+comunidade Lua?</li>
+<li>Qual área Lua se destaca? Sabendo que ela tem implementações para
+web, mobile, data science, embarcados e games. Qual seria uma
+recomendação de framework Lua que se destaca nessa área.</li>
+<li>Como é a comunidade Lua no Brasil?</li>
+<li>Como está o mercado de trabalho para quem programa em Lua?</li>
+<li>Lua é recomendada para quem está aprendendo programação?</li>
+<li>Lua não possui orientação a objetos de forma nativa, porém ela pode
+ser utilizada através da construção de metatables. Isso seria uma
+vantagem ou uma desvantagem para a linguagem?</li>
+<li>O que é <a href="https://moonscript.org/">MoonScript</a>? Por quê ele existe?
+Vale a pena utilizá-lo?</li>
+<li>Qual a licença de uso da linguagem Lua?</li>
+<li>Como é o modelo de desenvolvimento da linguagem Lua? Foi devido ao
+modelo ser fechado que surgiram outras implementações como o
+<a href="http://luajit.org/">LuaJIT</a>?</li>
+<li>Como contribuir para o desenvolvimento da linguagem Lua?</li>
+</ul>
+<h1 id="links">Links</h1>
+<p>Segue a lista de links que comentamos no episódio:</p>
+<ul>
+<li><a href="http://www.lua.org/">Lua</a></li>
+<li><a href="https://www.adobe.com/br/products/photoshop.html">Adobe Photoshop</a></li>
+<li><a href="https://coronalabs.com/corona-sdk/">Corona SDK</a></li>
+<li><a href="https://www.elastic.co/products/elasticsearch">Elastic Search</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/PlayStation_Home">Playstation Home</a></li>
+<li><a href="https://www.angrybirds.com/">Angry Birds</a></li>
+<li><a href="https://civilization.com/pt-BR">Civilization</a></li>
+<li><a href="https://far-cry.ubisoft.com/primal/pt-BR/">Far Cry</a></li>
+<li><a href="http://www.playragnarok.com/">Ragnarok</a></li>
+<li><a href="https://worldofwarcraft.com/pt-br/">World of Warcraft</a></li>
+<li><a href="http://luaconf.com/pt">LuaConf</a></li>
+<li><a href="https://fosdem.org/2017/schedule/track/lua/">Lua Devroom</a></li>
+<li><a href="http://lua.space/">LuaSpace</a></li>
+<li><a href="http://www.sailorproject.org/">Sailor</a></li>
+<li><a href="http://lualadies.org/">Lua Ladies</a></li>
+<li><a href="http://www.defold.com/defold/">Defold</a></li>
+<li><a href="https://love2d.org/">LÖVE 2D</a></li>
+<li><a href="http://www.lexaloffle.com/pico-8.php">Pico-8</a></li>
+<li><a href="http://www.lua.org/lua-l.html">Lua-l (lista de email en_US)</a></li>
+<li><a href="http://www.lua.org/lua-br.html">Lua BR (lista de email pt_BR)</a></li>
+<li><a href="https://www.reddit.com/r/lua/">Lua Subreddit</a></li>
+<li><a href="https://twitter.com/hashtag/LuaLang">#LuaLang no Twitter</a></li>
+<li><a href="irc://irc.freenode.net/lua">IRC (#lua na rede irc.freenode.net)</a></li>
+<li><a href="http://pt.stackoverflow.com/questions/tagged/lua">StackOverflow de Lua</a></li>
+<li><a href="https://www.goodreads.com/book/show/1332383.Programming_in_Lua">Programming in Lua</a></li>
+<li><a href="http://www.grupogen.com.br/programando-em-lua?code=luaorg">Programando em Lua</a></li>
+<li><a href="https://moonscript.org/">MoonScript</a></li>
+<li><a href="http://leafo.net/lapis/">Lapis</a></li>
+<li><a href="http://nginx.org/">nginx</a></li>
+<li><a href="http://luajit.org/">LuaJIT</a></li>
+</ul>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-92" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-92/castalio-podcast-92.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-92/castalio-podcast-92.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/lua.png"/><enclosure url="https://archive.org/download/castalio-podcast-92/castalio-podcast-92.mp3" length="57054641" type="audio/mpeg"/></item><item><title>Episódio 91: Empreender E Programar - Parte 2</title><link>https://castalio.info/episodes/episodio-91-empreender-e-programar-parte-2/</link><pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-91/castalio-podcast-91.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 91: Empreender E Programar - Parte 2</itunes:title><itunes:subtitle>
-Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</itunes:subtitle><itunes:summary>Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</itunes:summary><description>Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Continuamos nossa conversa sobre empreender e programar com o <a class="reference external" href="https://twitter.com/flaviojuvenal">Flávio Juvenal</a>, o <a class="reference external" href="https://twitter.com/xima">Filipe Ximenes (Xima)</a> e o <a class="reference external" href="https://twitter.com/_renatoOliveira">Renato Oliveira</a>.</p>
+Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</itunes:subtitle><itunes:summary>Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</itunes:summary><description>Hoje, continuamos com o episódio temático sobre empreender e programar. Mais uma vez contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira. Lembrando que todos são empreendedores e programadores.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Continuamos nossa conversa sobre empreender e programar com o <a href="https://twitter.com/flaviojuvenal">Flávio
+Juvenal</a>, o <a href="https://twitter.com/xima">Filipe Ximenes
+(Xima)</a> e o <a href="https://twitter.com/_renatoOliveira">Renato
+Oliveira</a>.</p>
 <p>Fizemos mais algumas perguntas para os nossos participantes e ao final eles
 deixam um Top 5 de referencias para quem quer empreender.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-91" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-91/castalio-podcast-91.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-91/castalio-podcast-91.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Neste episódio abordamos os seguintes tópicos:</p>
+<ul>
+<li>Como fazer para programar e administrar um negócio ao mesmo tempo?</li>
+<li>Como fica a vida pessoal quando se está empreendendo e programando?</li>
+<li>É possível ser um ótimo programador e um ótimo administrador sem
+prejuízos em nenhum dos dois lados?</li>
+<li>Qual a importância de <a href="https://www.python.org/">Python</a> na vida de
+um empreendedor/programador? Seria mais difícil se uma linguagem
+mais burocrática fosse utilizada?</li>
+<li>O uso de metodologias ágeis (Scrum, Lean e Kanban) em uma startup.
+Essas metodologias ainda são validas ou já estão mortas?</li>
+<li>Como são organizadas as tarefas e entregas do time de
+desenvolvimento?</li>
+</ul>
+<h1 id="links">Links</h1>
+<p>Segue a lista de links que comentamos no episódio:</p>
+<ul>
+<li><a href="http://bulletjournal.com/">Bullet Journal</a></li>
+<li><a href="https://evernote.com/">Evernote</a></li>
+<li><a href="https://simplenote.com/">Simplenote</a></li>
+<li><a href="https://www.wunderlist.com/">Wunderlist</a></li>
+<li><a href="https://slack.com/">Slack</a></li>
+<li><a href="https://www.vinta.com.br/lessons-learned/">Vinta&rsquo;s Lessons Learned</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://www.ruby-lang.org/">Ruby</a></li>
+<li><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></li>
+<li><a href="https://github.com/vintasoftware/django-knowledge-share">Django Knowledge Share (engine do Lessons Learned)</a></li>
+<li><a href="https://labs.spotify.com/2013/03/20/agile-a-la-spotify/">Agile à la Spotify</a></li>
+<li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify engineering culture (part 1)</a></li>
+<li><a href="https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/">Spotify engineering culture (part 2)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Continuous_integration">Continuous ingration</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Continuous_delivery">Continuous delivery</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pair_programming">Pair programming</a></li>
+<li><a href="https://www.youtube.com/watch?v=ecIWPzGEbFc">&ldquo;Uncle&rdquo; Bob Martin - The Future of Programming</a></li>
+<li><a href="https://trello.com/">Trello</a></li>
+<li><a href="https://help.github.com/articles/about-projects/">Github Projects</a></li>
+<li><a href="https://www.atlassian.com/software/jira">Jira</a></li>
+<li><a href="https://pivotal.io/">Pivotal</a></li>
+<li><a href="http://modernagile.org/">Modern Agile</a></li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/6732019-rework" target="_blank">Rework</a></li></ol><h3>Sites:</h3><ol><li><a href="https://news.ycombinator.com/" target="_blank">Hacker News</a></li></ol>
+<h1 id="top-5-extra">Top 5 Extra</h1>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=v9XW6P0tiVc">ABC (always be closing ou always be coding)</a></li>
+<li>Não seja sacana ou Don&rsquo;t be evil!</li>
+<li>Não convide um sócio técnico por 0.5%</li>
+</ul>
+<p>Chegamos a final dessa série sobre empreender e programar, esperamos que tenha
+gostado. Se tem algo para compartilhar deixe aqui nos comentário ou em nossas
+redes sociais.</p>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-91" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-91/castalio-podcast-91.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-91/castalio-podcast-91.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/empreender-e-programar.png"/><enclosure url="https://archive.org/download/castalio-podcast-91/castalio-podcast-91.mp3" length="70108287" type="audio/mpeg"/></item><item><title>Episódio 90: Empreender E Programar - Parte 1</title><link>https://castalio.info/episodes/episodio-90-empreender-e-programar-parte-1/</link><pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-90/castalio-podcast-90.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 90: Empreender E Programar - Parte 1</itunes:title><itunes:subtitle>
-Hoje, trazemos mais um episódio temático, desta vez vamos bater um papo e ver se é possível empreender e programar. Para nos ajudar, contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira, todos são empreendedores e...</itunes:subtitle><itunes:summary>Hoje, trazemos mais um episódio temático, desta vez vamos bater um papo e ver se é possível empreender e programar. Para nos ajudar, contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira, todos são empreendedores e programadores.</itunes:summary><description>Hoje, trazemos mais um episódio temático, desta vez vamos bater um papo e ver se é possível empreender e programar. Para nos ajudar, contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira, todos são empreendedores e programadores.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, trazemos mais um episódio temático, desta vez vamos bater um papo e ver se é possível empreender e programar. Para nos ajudar, contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira, todos são empreendedores e...</itunes:subtitle><itunes:summary>Hoje, trazemos mais um episódio temático, desta vez vamos bater um papo e ver se é possível empreender e programar. Para nos ajudar, contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira, todos são empreendedores e programadores.</itunes:summary><description>Hoje, trazemos mais um episódio temático, desta vez vamos bater um papo e ver se é possível empreender e programar. Para nos ajudar, contamos com a presença do Filipe Ximenes, Flávio Juvenal e Renato Oliveira, todos são empreendedores e programadores.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>De programador, empreendedor e de louco, todo mundo tem um pouco! E a maioria
 dos programadores em um determinado momento de sua carreira acaba tendo várias
 ideias de empreendimentos que podem resultar em negócios bem sucedidos, mas
@@ -790,52 +2210,703 @@ muitos não vão em frente, ou por falta de incentivo, ou falta de interesse ou
 de tempo. Por isso, no episódio de hoje falaremos sobre as dificuldades e
 desafios de ser um programador apaixonado pela tecnologia e ao mesmo tempo
 empreender em um produto ou empresa.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-90" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-90/castalio-podcast-90.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-90/castalio-podcast-90.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Para nos ajudar a responder algumas questões sobre o assunto, trouxemos 3
+excelentes programadores que também se tornaram excelentes empreendedores.</p>
+<p><a href="https://twitter.com/flaviojuvenal">Flávio Juvenal</a>, também conhecido como
+Palito, é cientista da computação formado pela universidade federal de
+Pernambuco, já implementou diversos tipo de soluções para startups e inclusive
+já ocupou o famoso cargo de &quot;sócio técnico&quot;. Atualmente o Flávio é
+empreendedor/programador na <a href="https://www.vinta.com.br/">Vinta Software Studio</a>.</p>
+<p><a href="https://twitter.com/xima">Filipe Ximenes</a>, mais conhecido como Xima, é formado
+pela Universidade Federal de Pernambuco, adora programar em Python e Javascript
+e mantém um projeto open source relacionado a APIs chamado <a href="https://github.com/vintasoftware/tapioca-wrapper">Tapioca
+Wrapper</a>. Junto com o Flávio,
+é empreendedor/programador na <a href="https://www.vinta.com.br/">Vinta Software
+Studio</a>.</p>
+<p><a href="https://twitter.com/_renatoOliveira">Renato Oliveira</a>, estudou na Universidade
+Federal de Pernambuco, já foi membro da diretoria da <a href="http://associacao.python.org.br/">Associação Python
+Brasil</a> e organizador da <a href="http://2014.pythonbrasil.org.br/">Python Brasil
+[10]</a> realizada em Porto de Galinhas. É
+empreendedor/programador na <a href="http://labcodes.com.br/">LabCodes Software
+Studio</a>.</p>
+<p>Neste episódio abordamos os seguintes tópicos:</p>
+<ul>
+<li>Pernambuco é o vale do silício brasileiro?</li>
+<li>Existem incentivos do governo local (Recife) para o
+empreendedorismo?</li>
+<li>Estando fora de São Paulo, o centro econômico do Brasil, prejudica
+ou ajuda em alguma coisa?</li>
+<li>Qual a maior dificuldade de empreender no Brasil? E qual a
+dificuldade de empreender fora do país?</li>
+<li>Qual foi a motivação que os levaram a empreender?</li>
+<li>Qual o tipo de empreendedorismo que vocês praticam, paixão e estilo
+de vida ou possibilidade de negócio altamente escalável?</li>
+<li>Quais tecnologias vocês estão utilizando? E quais projetos vocês
+estão desenvolvendo?</li>
+<li>&quot;Sócio Técnico&quot; é cilada?</li>
+</ul>
+<h1 id="links">Links</h1>
+<p>Segue a lista de links que comentamos no episódio:</p>
+<ul>
+<li><a href="https://www.vinta.com.br/">Vinta Software Studio</a></li>
+<li><a href="https://github.com/vintasoftware/tapioca-wrapper">Tapioca Wrapper</a></li>
+<li><a href="http://labcodes.com.br/">LabCodes Software Studio</a></li>
+<li><a href="http://associacao.python.org.br/">Associação Python Brasil</a></li>
+<li><a href="http://2014.pythonbrasil.org.br/">Python Brasil [10]</a></li>
+<li><a href="http://portodigital.org/">Porto Digital</a></li>
+<li><a href="http://manguez.al/">Manguezal</a></li>
+</ul>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que
+nos deixaram comentários. Se você tem algo a nos dizer, deixe seus
+comentários aqui no site, ou no
+<a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-90" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-90/castalio-podcast-90.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-90/castalio-podcast-90.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed
+under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
+Music Sharing) License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/empreender-e-programar.png"/><enclosure url="https://archive.org/download/castalio-podcast-90/castalio-podcast-90.mp3" length="63615175" type="audio/mpeg"/></item><item><title>Episódio 89: Tech News E Review Do Livro Ready Player One</title><link>https://castalio.info/episodes/episodio-89-tech-news-e-review-do-livro-ready-player-one/</link><pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 89: Tech News E Review Do Livro Ready Player One</itunes:title><itunes:subtitle>
-Neste episódio trazemos as novidades sobre Python e Linux e também um review do livro Ready Player One de Ernest Cline.</itunes:subtitle><itunes:summary>Neste episódio trazemos as novidades sobre Python e Linux e também um review do livro Ready Player One de Ernest Cline.</itunes:summary><description>Neste episódio trazemos as novidades sobre Python e Linux e também um review do livro Ready Player One de Ernest Cline.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Se você ainda não migrou os seus projetos para Python 3 é melhor começar
-agora. Como já mencionamos aqui o Python 2.x está com os dias contados e
-alguns frameworks importantes como o Django estão começando a remover o
-suporte ao Python 2.</p>
+Neste episódio trazemos as novidades sobre Python e Linux e também um review do livro Ready Player One de Ernest Cline.</itunes:subtitle><itunes:summary>Neste episódio trazemos as novidades sobre Python e Linux e também um review do livro Ready Player One de Ernest Cline.</itunes:summary><description>Neste episódio trazemos as novidades sobre Python e Linux e também um review do livro Ready Player One de Ernest Cline.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Se você ainda não migrou os seus projetos para Python 3 é melhor começar agora.
+Como já mencionamos aqui o Python 2.x está com os dias contados e alguns
+frameworks importantes como o Django estão começando a remover o suporte ao
+Python 2.</p>
 <p>Além disso o Python 3 está trazendo novidades muito interessantes que não
 estarão disponíveis no Python 2, então a hora de migrar é agora!</p>
-<p>Conheça agora algumas notícias, novidades e dicas de softwares e truques para
-o terminal Linux e no final do episódio um excelente Book Review!</p>
+<p>Conheça agora algumas notícias, novidades e dicas de softwares e truques para o
+terminal Linux e no final do episódio um excelente Book Review!</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-89" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-89/castalio-podcast-89.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<br />
+<h2 id="novidades-e-dicas-de-python">Novidades e Dicas de Python</h2>
+<ul>
+<li>
+<p><strong>Django agora só em Python 3:</strong> O Framework <strong>Django</strong>, um dos mais
+importantes do ecossistema Python lançará a versão 1.11 em breve e será a
+última a suportar Python 2.x. Na próxima major version do Django, a 2.0.0 o
+framework irá dar suporte apenas a Python 3 e dada a importância deste
+framework isto com certeza será um grande empurrão para a comunidade fazer
+logo a migração.</p>
+<p>O anúncio foi feito no <a href="https://docs.djangoproject.com/en/dev/releases/1.11/">site
+oficial</a>:</p>
+<blockquote>
+<p>&quot;The Django 1.11.x series is the last to support Python 2. The next
+major release, Django 2.0, will only support Python 3.5+&quot;</p>
+</blockquote>
+</li>
+<li>
+<p><strong>Namespaces</strong>: Uma dica de <strong>Python 3</strong> que trazemos é a nova
+classe <strong>SimpleNamespace</strong> disponível no módulo <strong>types</strong> da biblioteca
+padrão do Python 3.3+. É muito comum criarmos classes que não possuem
+métodos e servem apenas para armazenar valores. Também usamos muitas vezes
+dicionários e arquivos de constantes para este fim. Essa necessidade é
+bastante antiga no Python e a idéia surgiu em <a href="https://mail.python.org/pipermail/python-ideas/2012-May/015232.html">2012 na lista oficial da
+linguagem</a>
+mas só agora passou a fazer parte da biblioteca padrão:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">from</span> types <span style="color:#f92672">import</span> SimpleNamespace
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> podcast <span style="color:#f92672">=</span> SimpleNamespace(name<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Castálio&#39;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> podcast<span style="color:#f92672">.</span>site <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;http://castalio.info&#39;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> print(obj)
+</span></span><span style="display:flex;"><span>namespace(name<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Castálio&#39;</span>, site<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;http://castalio.info&#39;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> hasattr(obj, <span style="color:#e6db74">&#39;site&#39;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">True</span>
+</span></span></code></pre></div></li>
+<li>
+<p><strong>Named Tuples</strong>: E também existe o <strong>namedtuple</strong> que é uma outra
+maneira de armazenar valores em um namespace mas utilizando uma estrutura
+de tupla, que pode tanto ser acessada via índice ou via atributo.
+<strong>namedtuple</strong> está disponível também no Python 2, veja um exemplo:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">from</span> collections <span style="color:#f92672">import</span> namedtuple
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> Podcast <span style="color:#f92672">=</span> namedtuple(<span style="color:#e6db74">&#39;Podcast&#39;</span>, <span style="color:#e6db74">&#39;name site&#39;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> castalio <span style="color:#f92672">=</span> Podcast(<span style="color:#e6db74">&#39;Castálio&#39;</span>, <span style="color:#e6db74">&#39;http://castalio.info&#39;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> castalio<span style="color:#f92672">.</span>site
+</span></span><span style="display:flex;"><span>http:<span style="color:#f92672">//</span>castalio<span style="color:#f92672">.</span>info
+</span></span></code></pre></div><p>E também é possivel acessar os atributos através dos índices:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> castalio[<span style="color:#ae81ff">0</span>]
+</span></span><span style="display:flex;"><span><span style="color:#e6db74">&#39;Castálio&#39;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> castalio[<span style="color:#ae81ff">1</span>]
+</span></span><span style="display:flex;"><span><span style="color:#e6db74">&#39;http://castalio.info&#39;</span>
+</span></span></code></pre></div><p>Uma outra caracteristica interessante, é que tanto <strong>namedtuple</strong>
+quanto <strong>SimpleNamespace</strong> podem ser usados como classe base, veja:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">SuperPodcast</span>(Podcast):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">play</span>(self):
+</span></span><span style="display:flex;"><span>        print(<span style="color:#e6db74">&#34;I won&#39;t gonna give you none of my Jelly Rolls...&#34;</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> castalio <span style="color:#f92672">=</span> SuperPodcast(<span style="color:#e6db74">&#39;Castálio&#39;</span>, <span style="color:#e6db74">&#39;http://castalio.info&#39;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&gt;&gt;&gt;</span> castalio<span style="color:#f92672">.</span>play()
+</span></span><span style="display:flex;"><span>I won<span style="color:#e6db74">&#39;t gonna give you none of my Jelly Rolls...</span>
+</span></span></code></pre></div></li>
+<li>
+<p><strong>Dicas para o console do Linux</strong>: O <strong>Adventures in /usr/bin and the likes</strong> :
+é um <a href="http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html">blog
+post</a>
+que traz uma coleção de dicas e truques para usar no seu terminal.</p>
+<p>A lista traz 30 comandos ou pacotes que podem ajudar a agilizar sua vida ao
+executar tarefas no console do seu Linux. Os destaques são:</p>
+<p><strong>Watch</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>watch -n <span style="color:#ae81ff">1</span> -d date
+</span></span></code></pre></div><p>O comando acima executa o comando [date]{.title-ref} a cada 1 segundo e o
+[-d]{.title-ref} informa o watch para destacar as diferenças entre as
+execuções.</p>
+<p>Portanto o [watch]{.title-ref} é muito útil para quando você precisa
+executar repetidamente um comando e inspecionar a sua saída em busca de
+diferenças.</p>
+<p><strong>Tac</strong></p>
+<p>O [tac]{.title-ref} é o [cat]{.title-ref} reverso, e exibe o conteúdo de um
+arquivo invertendo a ordem das linhas, veja um exemplo:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ cat data.txt
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">2</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">3</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>$ tac data.txt
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">3</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">2</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">1</span>
+</span></span></code></pre></div></li>
+<li>
+<p><strong>O Bootstrap do Tkinter?</strong>: E quem gostou das nossas dicas de
+<strong>Tkinter</strong> vai gostar também do <a href="http://appjar.info/">AppJar</a>.</p>
+<p>Um wrapper para o <strong>Tkinter</strong> que traz algumas facilidades e uma coisa bem
+interessante que é um sistema de <strong>grid</strong> bastante parecido com os sistemas
+de grid dos frameworks <strong>css</strong>.</p>
+<p><img src="/images/appjar-grid.png" alt=""></p>
+<p>Código:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">from</span> appJar <span style="color:#f92672">import</span> gui
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>app<span style="color:#f92672">=</span>gui()
+</span></span><span style="display:flex;"><span>app<span style="color:#f92672">.</span>setFont(<span style="color:#ae81ff">20</span>)
+</span></span><span style="display:flex;"><span>app<span style="color:#f92672">.</span>addGrid(<span style="color:#e6db74">&#34;g1&#34;</span>,
+</span></span><span style="display:flex;"><span>    [[<span style="color:#e6db74">&#34;Name&#34;</span>, <span style="color:#e6db74">&#34;Age&#34;</span>, <span style="color:#e6db74">&#34;Gender&#34;</span>],
+</span></span><span style="display:flex;"><span>    [<span style="color:#e6db74">&#34;Fred&#34;</span>, <span style="color:#ae81ff">45</span>, <span style="color:#e6db74">&#34;Male&#34;</span>],
+</span></span><span style="display:flex;"><span>    [<span style="color:#e6db74">&#34;Tina&#34;</span>, <span style="color:#ae81ff">37</span>, <span style="color:#e6db74">&#34;Female&#34;</span>],
+</span></span><span style="display:flex;"><span>    [<span style="color:#e6db74">&#34;Clive&#34;</span>, <span style="color:#ae81ff">28</span>, <span style="color:#e6db74">&#34;Male&#34;</span>],
+</span></span><span style="display:flex;"><span>    [<span style="color:#e6db74">&#34;Betty&#34;</span>, <span style="color:#ae81ff">51</span>, <span style="color:#e6db74">&#34;Female&#34;</span>]]
+</span></span><span style="display:flex;"><span>)
+</span></span><span style="display:flex;"><span>app<span style="color:#f92672">.</span>go()
+</span></span></code></pre></div><p>Existem outros exemplos na coleção de widgets do AppJar
+<a href="http://appjar.info/pythonWidgets">http://appjar.info/pythonWidgets</a></p>
+</li>
+<li>
+<p><strong>Sofwares para usar no Linux</strong>: A <strong>Awesome Linux Software</strong> é uma
+lista colaborativa disponível no github
+<a href="https://github.com/VoLuong/Awesome-Linux-Software">https://github.com/VoLuong/Awesome-Linux-Software</a> que traz uma boa
+seleção de softwares para Linux separados em diversas categorias.</p>
+<p>A parte mais legal dessas listas é que você pode contribuir enviando
+um Pull Request e adicionando os softwares que você mais usa no
+Linux.</p>
+</li>
+<li>
+<p><strong>Fuzzy Finder no terminal</strong>: O <strong>FZF</strong> é um software de Fuzzy
+Finder para terminal, e ajuda muito na hora de encontrar comandos,
+diretórios e arquivos digitando apenas uma parte do nome ou do
+caminho. A instalação é bem simples e as instruções estão no github
+<a href="https://github.com/junegunn/fzf">https://github.com/junegunn/fzf</a></p>
+</li>
+<li>
+<p><strong>Publique seus Notebooks</strong>: O <strong>Binder</strong> cria uma coleção
+interativa contendo todos os <strong>JuPyter Notebooks</strong> encontrados em
+seu repositório no github. Você informa o caminho do repositório e
+ele cria um ambiente virtual onde os seus notebooks podem ser
+executados e então você pode adicionar uma <strong>badge</strong> no README de
+seu projeto. Veja mais em <a href="http://mybinder.org/">http://mybinder.org/</a></p>
+</li>
+</ul>
+<h2 id="book-review">Book Review</h2>
+<p>Hoje temos um convidado especial, o <strong>Thiago Perrotta</strong> que já foi entrevistado
+aqui no <a href="http://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html">episódio
+66</a>
+fez o review do livro <a href="http://www.goodreads.com/book/show/9969571-ready-player-one">Ready Player
+One</a> que foi o
+primeiro livro escrito por Ernest Cline. O livro é um romance com uma temática
+futurista. Foi lançado originalmente em 16 de agosto de 2011.</p>
+<p>A história se passa no ano de 2044. O mundo passa por uma grande crise
+energética, onde destruição e pobreza são os cenários mais comuns. A única
+escapatória é o OASIS, uma realidade virtual onde a maioria das pessoas passa
+grande parte do seu tempo. No OASIS as pessoas estudam, trabalham, jogam e
+interagem umas com as outras, e assim economizam combustível (recurso escasso),
+evitam ficar muito tempo em contato com a poluição e tem mais acesso a cultura
+e informações.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-89" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-89/castalio-podcast-89.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/episodio-89.png"/><enclosure url="https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3" length="50640513" type="audio/mpeg"/></item><item><title>Episódio 88: Episódio Especial De 6 Anos</title><link>https://castalio.info/episodes/episodio-88-episodio-especial-de-6-anos/</link><pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-88/castalio-podcast-88.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 88: Episódio Especial De 6 Anos</itunes:title><itunes:subtitle>
-Hoje, trazemos um episodio muito especial, no dia 16 de fevereiro de 2017 o Castálio Podcast completou 6 anos. Não poderíamos deixar essa data importante passar em branco e por isso decidimos fazer um episodio comemorativo com a participação...</itunes:subtitle><itunes:summary>Hoje, trazemos um episodio muito especial, no dia 16 de fevereiro de 2017 o Castálio Podcast completou 6 anos. Não poderíamos deixar essa data importante passar em branco e por isso decidimos fazer um episodio comemorativo com a participação dos nossos ouvintes.</itunes:summary><description>Hoje, trazemos um episodio muito especial, no dia 16 de fevereiro de 2017 o Castálio Podcast completou 6 anos. Não poderíamos deixar essa data importante passar em branco e por isso decidimos fazer um episodio comemorativo com a participação dos nossos ouvintes.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, trazemos um episodio muito especial, no dia 16 de fevereiro de 2017 o Castálio Podcast completou 6 anos. Não poderíamos deixar essa data importante passar em branco e por isso decidimos fazer um episodio comemorativo com a participação...</itunes:subtitle><itunes:summary>Hoje, trazemos um episodio muito especial, no dia 16 de fevereiro de 2017 o Castálio Podcast completou 6 anos. Não poderíamos deixar essa data importante passar em branco e por isso decidimos fazer um episodio comemorativo com a participação dos nossos ouvintes.</itunes:summary><description>Hoje, trazemos um episodio muito especial, no dia 16 de fevereiro de 2017 o Castálio Podcast completou 6 anos. Não poderíamos deixar essa data importante passar em branco e por isso decidimos fazer um episodio comemorativo com a participação dos nossos ouvintes.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje trazemos um episodio para comemorar os 6 anos de Castálio
 Podcast. Para deixar ainda mais especial, gravamos o episódio no dia exato em
-que o Castálio fez aniversário, dia 16 de fevereiro de 2017. Além disso,
-tivemos a participação de nossos ouvintes que nos enviaram doze perguntas,
-spoiler: respondemos todas elas.</p>
+que o Castálio fez aniversário, dia 16 de fevereiro de
+2017. Além disso, tivemos a participação de nossos ouvintes que nos enviaram
+doze perguntas, spoiler: respondemos todas elas.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-88" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-88/castalio-podcast-88.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-88/castalio-podcast-88.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<pre tabindex="0"><code>&lt;br /&gt;
+</code></pre><p>Começamos falando sobre a historia do Castálio desde o primeiro o episódio até
+o último lançado no momento da gravação, o episodio 87. Como não poderia
+faltar, falamos como o nome do podcast foi escolhido.</p>
+<p>Em clima de comemoração, fizemos o sorteio de mais uma caneca do Castálio,
+entre os ouvintes que nos enviaram as perguntas. Se você nos enviou uma
+pergunta e quer saber se ganhou, acesse o <a href="http://sorteador.com.br/embaralhador/resultado/416">link do
+resultado</a> mas não deixe de
+escutar o episódio :).</p>
+<p>Em seguida, falamos sobre algumas estatísticas: número de episódios publicados,
+qual o tempo para produzir um episódio e a estimativa de quanto tempo gasto
+para produzir todos, o episódio mais escutado, custos para manter o podcast e
+quais foram as pessoas que participaram como hosts até hoje.</p>
+<p>Depois abrimos as doze perguntas que recebemos dos nossos ouvintes e
+respondemos uma a uma. Tivemos todo o tipo de pergunta e esperamos que vocês
+curtam as respostas. Segue a lista de ouvintes e suas perguntas:</p>
+<ul>
+<li>Diego Tumelero: &quot;Pergunta para o OG: Qual a origem do nome do
+podcast?&quot;</li>
+<li><a href="https://eduardoklosowski.wordpress.com/">Eduardo Klosowski</a>: &quot;No
+Castálio, além das perguntas aos convidados sobre tecnologia, sempre tem
+algumas perguntas que fogem do tema, como livros, estilo de vida e afins.
+Qual desses temas vocês mais se surpreenderam e gostaram de conhecer?
+Chegaram a mudar alguma coisa nas suas vidas depois que passaram a conhecer
+mais sobre esse tema? Algum tema que se não fosse pelos convidados, nunca
+teria imaginado que seria tão interessante?&quot;</li>
+<li><a href="https://twitter.com/elyssonmr">Élysson Mendes Rezende</a>: &quot;Qual a
+diferenca entre linguagens fortemente tipadas e linguagens fracamente
+tipadas? Quais linguagens se encaixam em cada categoria&quot;</li>
+<li>Gleydson: &quot;A pergunta é pra todos. Como vocês reagiram com a
+pressão por manter um sistema em uma empresa? Digo a pressão de não poder
+errar e da cobrança, principalmente no início das carreiras de vocês. &quot;</li>
+<li>Grão Malique Izhaq: &quot;Og: quanto voce gastou para tocar o Castalio
+do inicio ate hoje? Por gentileza responda com unidades de bala juquinha e
+gol1000&quot;</li>
+<li><a href="https://twitter.com/JFCostta">Jorge Costa</a>: &quot;Manter um podcast por
+tanto tempo é desafiador. O que lhes faz continuar produzindo e editando um
+programa técnico e com pouco apelo comercial em relação aos casts de
+variedades ou cultura pop/geek?&quot;</li>
+<li><a href="https://twitter.com/KurtKraut">Kurt Kraut</a>: &quot;Gostaria de saber os
+softwares utilizados na gravação, edição e distribuição do Castálio e
+perguntar de forma despretenciosa, que tipo de coisa foi dita pelo
+entrevistado que não podia ir para o ar de modo algum? Contem o milagre sem
+dizer o nome do santo :D&quot;</li>
+<li>Luiz Fernando: &quot;Quais o planos para o futuro?&quot;</li>
+<li><a href="https://www.facebook.com/tolentek">Sebastião S.M. Júnior</a>:
+&quot;Poderiam fazer um episódio sobre compiladores Python, por exemplo Pypy,
+Nuitka, etc.&quot;</li>
+<li>Tarcísio Ferraz: &quot;Qual recomendação do top 5 te surpreendeu muito?
+Qual tecnologia/conceito você aprendeu com o convidado que se provo útil
+depois? Qual episódio você geralmente recomenda para novos ouvintes? Quais
+pessoas você deseja muito entrevistar? Para os convidados também: Qual
+tecnologia está na sua lista para aprender? o que pode ajudar o open source
+no Brasil crescer ainda mais?&quot;</li>
+<li><a href="https://twitter.com/thiagowfx">Thiago Perrotta</a>: &quot;Em quase todos
+os episódios, ouvimos o top 5 dos convidados (filmes / séries / livros /
+música / podcasts...me esqueci de alguma coisa?). Mas, depois de vários
+episódios de Castálio, ainda não sei qual é o top 5 dos hosts! Bruno,
+Elyézer e Og, qual o top 5 de vocês nessas categorias?&quot;</li>
+<li>Wallysson de Lima Silva: &quot;Quais as principais linguagens de
+programação e tecnologias vocês acham que devem ser aprendidas pensando no
+mercado de trabalho brasileiro?&quot;</li>
+</ul>
+<p>Como o Castálio não seria o Castálio se não fosse pelo Top 5, não poderíamos
+deixar ele de lado. Aliás, podemos considerar que foi um Top 15, já que o Bruno
+Rocha, o Elyézer Rezende e o Og Maciel fizeram seu Top 5.</p>
+<h2>Top 5 Bruno Rocha</h2><h3>Livros:</h3><ol><li><a href="https://duckduckgo.com/?q=De&#43;Alma&#43;para&#43;Alma&#43;Huberto&#43;Rohden" target="_blank">De Alma para Alma</a></li><li><a href="https://www.goodreads.com/book/show/830875.O_Triste_Fim_de_Policarpo_Quaresma" target="_blank">O Triste Fim de Policarpo Quaresma</a></li><li><a href="https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice" target="_blank">The Paradox of Choice</a></li><li><a href="https://www.goodreads.com/book/show/24263517-a-politica-sexual-da-carne" target="_blank">A Politica Sexual Da Carne</a></li><li><a href="https://www.goodreads.com/book/show/1332383.Programming_in_Lua" target="_blank">Programming in Lua</a></li><li><a href="https://www.goodreads.com/book/show/80444.Python_Essential_Reference" target="_blank">Python Essential Reference</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0068646/" target="_blank">O Poderoso Chefão</a></li><li><a href="https://www.imdb.com/title/tt0086250/" target="_blank">Scarface</a></li><li><a href="https://www.imdb.com/title/tt0095765/" target="_blank">Cinema Paradiso</a></li><li><a href="https://www.imdb.com/title/tt0386676/" target="_blank">The Office</a></li><li><a href="https://www.imdb.com/title/tt2616280/" target="_blank">Derek</a></li><li><a href="https://www.imdb.com/title/tt0032553/" target="_blank">Charlie Chaplin - O Grande Ditador</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Anathema" target="_blank">Anathema</a></li><li><a href="https://www.last.fm/music/Jethro&#43;Tull" target="_blank">Jethro Tull</a></li><li><a href="https://www.last.fm/music/Black&#43;Sabbath" target="_blank">Black Sabbath</a></li><li><a href="https://www.last.fm/music/Kreator" target="_blank">Kreator</a></li><li><a href="https://www.last.fm/music/Nicola&#43;Arigliano" target="_blank">Nicola Arigliano</a></li></ol>
+<h2>Top 5 Elyézer Rezende</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/3159713-o-monge-e-o-executivo" target="_blank">O Monge e o Executivo</a></li><li><a href="https://www.goodreads.com/book/show/1873060.The_Go_Giver" target="_blank">O Conselheiro</a></li><li><a href="https://www.goodreads.com/book/show/24038.Dive_Into_Python" target="_blank">Dive into Python</a></li><li><a href="https://www.goodreads.com/book/show/25834332-aprendendo-python" target="_blank">Aprendendo Python</a></li><li><a href="https://www.goodreads.com/book/show/13607232-practical-vim" target="_blank">Practical Vim</a></li><li><a href="https://www.goodreads.com/book/show/36361456-python-fluente" target="_blank">Python Fluente</a></li><li><a href="https://www.goodreads.com/book/show/9633168-express-es-regulares" target="_blank">Expressões Regulares</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0848228/" target="_blank">The Avengers</a></li><li><a href="https://www.imdb.com/title/tt0120689/" target="_blank">A Espera de um Milagre</a></li><li><a href="https://www.imdb.com/title/tt1063669/" target="_blank">A Onda</a></li><li><a href="https://www.imdb.com/title/tt0914798/" target="_blank">O Menino do Pijama Listrado</a></li><li><a href="https://www.imdb.com/title/tt0133093/" target="_blank">The Matrix</a></li><li><a href="https://www.imdb.com/title/tt0372784/" target="_blank">Batman</a></li><li><a href="https://www.imdb.com/title/tt2306299/" target="_blank">Vikings</a></li><li><a href="https://www.imdb.com/title/tt3107288/" target="_blank">The Flash</a></li><li><a href="https://www.imdb.com/title/tt2193021/" target="_blank">Arrow</a></li><li><a href="https://www.imdb.com/title/tt3322314/" target="_blank">Luke Cage</a></li><li><a href="https://www.imdb.com/title/tt3322312/" target="_blank">Demolidor</a></li><li><a href="https://www.imdb.com/title/tt5197820/" target="_blank">Van Helsing</a></li><li><a href="https://www.imdb.com/title/tt0121220/" target="_blank">Dragon Ball Z</a></li><li><a href="https://www.imdb.com/title/tt0161952/" target="_blank">Os Cavaleiros do Zodíaco</a></li><li><a href="https://www.imdb.com/title/tt0027977/" target="_blank">Charlie Chaplin - Tempos Modernos</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Linkin&#43;Park" target="_blank">Linkin Park</a></li><li><a href="https://www.last.fm/music/Fort&#43;Minor" target="_blank">Fort Minor</a></li><li><a href="https://www.last.fm/music/Hardwell" target="_blank">Hardwell</a></li><li><a href="https://www.last.fm/music/Nicky&#43;Romero" target="_blank">Nicky Romero</a></li><li><a href="https://www.last.fm/music/W&amp;W" target="_blank">W&amp;W</a></li><li><a href="https://www.last.fm/music/Queen" target="_blank">Queen</a></li><li><a href="https://www.last.fm/music/Scorpions" target="_blank">Scorpions</a></li><li><a href="https://www.last.fm/music/Michael&#43;Jackson" target="_blank">Michael Jackson</a></li><li><a href="https://www.last.fm/music/2cellos" target="_blank">2Cellos</a></li></ol>
+<h2>Top 5 Og Maciel</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/6250312-os-meninos-da-rua-paulo" target="_blank">Os Meninos da Rua Paulo</a></li><li><a href="https://www.goodreads.com/book/show/50033.Dandelion_Wine" target="_blank">Dandelion Wine</a></li><li><a href="https://www.goodreads.com/book/show/6294159-as-vinhas-da-ira" target="_blank">As Vinhas da Ira</a></li><li><a href="https://www.goodreads.com/book/show/82888.Dom_Casmurro" target="_blank">Dom Casmurro</a></li><li><a href="https://www.goodreads.com/book/show/723456.Capit_es_da_Areia" target="_blank">Capitães da Areia</a></li><li><a href="https://www.goodreads.com/author/show/1357307.Maria_Jos_Dupr_" target="_blank">Maria José Dupré</a></li><li><a href="https://www.goodreads.com/author/show/2450573.Monteiro_Lobato" target="_blank">Monteiro Lobato</a></li><li><a href="https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume" target="_blank">Série Vaga-lume</a></li><li><a href="https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume" target="_blank">Série Vaga-lume</a></li><li><a href="https://www.goodreads.com/book/show/3620538-as-tiras-cl-ssicas-da-turma-da-m-nica" target="_blank">Turma da Mônica</a></li><li><a href="https://www.goodreads.com/book/show/23293716-tio-patinhas" target="_blank">Tio Patinhas</a></li><li><a href="https://www.goodreads.com/book/show/30309481-tex-graphic-novel-1" target="_blank">Tex</a></li><li><a href="https://www.goodreads.com/book/show/13558175-ken-parker" target="_blank">Ken Parker</a></li><li><a href="https://www.goodreads.com/book/show/6600147-zagor-n-1" target="_blank">Zagor</a></li><li><a href="https://www.goodreads.com/author/show/696805.Jules_Verne" target="_blank">Jules Verne</a></li><li><a href="https://www.goodreads.com/author/show/16667.Isaac_Asimov" target="_blank">Isaac Asimov</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0083658/" target="_blank">Blade Runner</a></li><li><a href="https://www.imdb.com/title/tt0110912/" target="_blank">Pulp Fiction</a></li><li><a href="https://www.imdb.com/title/tt0208092/" target="_blank">Snatch</a></li><li><a href="https://www.imdb.com/title/tt0118715/" target="_blank">The Big Lebowski</a></li><li><a href="https://www.imdb.com/title/tt0190590/" target="_blank">O Brother, Where Art Thou?</a></li><li><a href="https://www.imdb.com/title/tt0060196/" target="_blank">The Good, The Bad and The Ugly</a></li><li><a href="https://www.imdb.com/title/tt0060155/" target="_blank">Beau Geste</a></li><li><a href="https://www.imdb.com/title/tt0085011/" target="_blank">Caverna do Dragão</a></li><li><a href="https://pt.wikipedia.org/wiki/Sess%C3%A3o_da_Tarde" target="_blank">Sessão da Tarde</a></li><li><a href="https://www.imdb.com/title/tt0149528/" target="_blank">Sítio do Pica-Pau Amarelo</a></li><li><a href="https://www.imdb.com/title/tt0143073/" target="_blank">Os Trapalhões</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Legi%C3%A3o&#43;Urbana" target="_blank">Legião Urbana</a></li><li><a href="https://www.last.fm/music/Dire&#43;Straits" target="_blank">Dire Straits</a></li><li><a href="https://www.last.fm/music/Engenheiros&#43;Do&#43;Hawaii" target="_blank">Engenheiros do Hawaii</a></li><li><a href="https://www.last.fm/music/Os&#43;Paralamas&#43;Do&#43;Sucesso" target="_blank">Os Paralamas do Sucesso</a></li><li><a href="https://www.last.fm/music/Pink&#43;Floyd" target="_blank">Pink Floyd</a></li><li><a href="https://www.last.fm/music/Led&#43;Zeppelin" target="_blank">Led Zeppelin</a></li><li><a href="https://www.last.fm/music/Nirvana" target="_blank">Nirvana</a></li><li><a href="https://www.last.fm/music/Ella&#43;Fitzgerald" target="_blank">Ella Fitzgerald</a></li><li><a href="https://www.last.fm/music/Etta&#43;James" target="_blank">Etta James</a></li></ol>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que
+de alguma forma fizeram parte do Castálio Podcast nesses 6 anos. Não
+deixe de deixar seu comentário, pois ele tem um valor muito grande e nos
+dá forca para continuar. Deixe seus comentários aqui no site, ou no
+<a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Que venham muito mais anos, até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-88" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-88/castalio-podcast-88.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-88/castalio-podcast-88.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed
+under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka
+Music Sharing) License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/castalio-6-anos.png"/><enclosure url="https://archive.org/download/castalio-podcast-88/castalio-podcast-88.mp3" length="126029992" type="audio/mpeg"/></item><item><title>Episódio 87: Linguagem De Programação Go - Parte 2</title><link>https://castalio.info/episodes/episodio-87-linguagem-de-programacao-go-parte-2/</link><pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-87/castalio-podcast-87.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 87: Linguagem De Programação Go - Parte 2</itunes:title><itunes:subtitle>
-Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem de programação Go com o Thiago Avelino e o Cesar Gimenes.</itunes:subtitle><itunes:summary>Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem de programação Go com o Thiago Avelino e o Cesar Gimenes.</itunes:summary><description>Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem de programação Go com o Thiago Avelino e o Cesar Gimenes.</description><content:encoded><![CDATA[<div class="document">
+Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem de programação Go com o Thiago Avelino e o Cesar Gimenes.</itunes:subtitle><itunes:summary>Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem de programação Go com o Thiago Avelino e o Cesar Gimenes.</itunes:summary><description>Hoje, trazemos a continuação do nosso bate-papo sobre a linguagem de programação Go com o Thiago Avelino e o Cesar Gimenes.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio continuamos nosso bate-papo sobre a linguagem de programação
+<a href="https://golang.org">Go</a>. Além disso vamos trazer um Top 5 diferente para os
+episódios onde conversaremos sobre um tema específico. No Top 5 deste episódio
+nossos convidados vão comentar ferramentas e fontes de informação para que as
+pessoas interessadas em Go poderão começar e buscar mais informações.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>No episódio continuamos nosso bate-papo sobre a linguagem de programação <a class="reference external" href="https://golang.org">Go</a>.
-Além disso vamos trazer um Top 5 diferente para os episódios onde conversaremos
-sobre um tema específico. No Top 5 deste episódio nossos convidados vão
-comentar ferramentas e fontes de informação para que as pessoas interessadas em
-Go poderão começar e buscar mais informações.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-87" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-87/castalio-podcast-87.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-87/castalio-podcast-87.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<br />
+<p>Nessa segunda parte abordamos os seguintes pontos:</p>
+<ul>
+<li>Go é uma linguagem ágil? Ou uma linguagem burocrática?</li>
+<li>É recomendável utilizar Go para criar um projeto, como um CMS, do
+zero?</li>
+<li>Como funciona o gerenciamento de pacotes do Go? E qual a
+disponibilidade de pacotes?</li>
+<li>Como é o processo de um pacote de terceiro entrar na biblioteca
+padrão do Go?</li>
+<li>Qual a licença que o Go utiliza?</li>
+<li>Qual o tamanho dos executáveis gerados pelo Go para um &quot;Hello
+World&quot;?</li>
+<li>Como é a comunidade Go? Quais são as principais iniciativas e
+conferências?</li>
+<li>Grupo de estudos Go. Acesse o canal <code>#brazilian-go-studies</code> no
+Slack!, a seguir o link para o <a href="https://invite.slack.golangbridge.org/">convite para o
+Slack!</a>.</li>
+<li>Como está o mercado de trabalho para quem quer trabalhar com Go? E
+como está o mercado de trabalhar para quem quer contratar
+desenvolvedores Go?</li>
+</ul>
+<h1 id="links">Links</h1>
+<p>Segue a lista de links que comentamos no episódio:</p>
+<ul>
+<li><a href="https://golang.org">Go</a>, sita oficial da linguagem de programação
+Go.</li>
+<li><a href="https://github.com/kardianos/govendor">Go Vendor</a></li>
+<li><a href="https://github.com/sourcegraph/go-deps">go-deps</a></li>
+<li><a href="https://glide.sh/">Glide</a></li>
+<li><a href="https://github.com/golang/dep">Dep</a>, gerenciador de pacote oficial.</li>
+<li><a href="https://golang.org/src/net/dial.go#L266">DialTimeout</a>, pacote de
+terceiro que entrou na biblioteca padrão do Go.</li>
+<li><a href="https://golang.org/doc/contribute.html">Contribution Guidelines</a></li>
+<li><a href="https://www.youtube.com/channel/UCGFVA_XvkUoMWpKVH0IrjUA">Canal do YouTube da Gophercon
+Brasil</a></li>
+<li><a href="https://invite.slack.golangbridge.org/">convite para o Slack!</a>,
+entre nos canais <code>#brazil</code> e <code>#brazilian-go-studies</code>.</li>
+<li><a href="https://2016.gopherconbr.org/">Gophercon Brasil</a>, site da
+conferência brasileira de Go.</li>
+<li><a href="https://github.com/nuveo/gofn">gof(n)</a></li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/22694593-programando-em-go" target="_blank">Programando em Go</a></li><li><a href="https://www.goodreads.com/book/show/22727352-go-in-action" target="_blank">Go in Action</a></li><li><a href="https://www.goodreads.com/book/show/27797995-go-web-programming" target="_blank">Go Web Programming</a></li><li><a href="https://www.goodreads.com/book/show/25080953-the-go-programming-language" target="_blank">The Go Programming Language</a></li></ol><h3>Sites:</h3><ol><li><a href="https://golang.org/doc/" target="_blank">Documentação do Go</a></li><li><a href="https://github.com/crgimenes/Go-Hands-On" target="_blank">Go Hands On</a></li><li><a href="https://github.com/avelino/awesome-go" target="_blank">Awesome Go</a></li><li><a href="https://gobyexample.com/" target="_blank">Go by Example</a></li><li><a href="https://www.youtube.com/watch?v=CF9S4QZuV30" target="_blank">Go Programming (video de introdução a linguagem)</a></li><li><a href="https://www.youtube.com/watch?v=liL20kmhcwo" target="_blank">Full Stack Development With Go</a></li></ol>
+<p>Chegamos a final dessa série sobre a linguagem de programação Go, esperamos que
+tenha gostado. Se tem algo para compartilhar deixe aqui nos comentário ou em
+nossas redes sociais.</p>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-87" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-87/castalio-podcast-87.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-87/castalio-podcast-87.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/go-lang.png"/><enclosure url="https://archive.org/download/castalio-podcast-87/castalio-podcast-87.mp3" length="56680077" type="audio/mpeg"/></item><item><title>Episódio 86: Linguagem De Programação Go - Parte 1</title><link>https://castalio.info/episodes/episodio-86-linguagem-de-programacao-go-parte-1/</link><pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-86/castalio-podcast-86.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 86: Linguagem De Programação Go - Parte 1</itunes:title><itunes:subtitle>
-Hoje, trazemos um episódio num formato novo, vamos bater um papo sobre um assunto específico e conhecer mais sobre ele. O assunto escolhido para esse episódio é a linguagem de programação Go, e para tornar a conversa ainda mais interessante,...</itunes:subtitle><itunes:summary>Hoje, trazemos um episódio num formato novo, vamos bater um papo sobre um assunto específico e conhecer mais sobre ele. O assunto escolhido para esse episódio é a linguagem de programação Go, e para tornar a conversa ainda mais interessante, teremos dois convidados o Thiago Avelino e o Cesar Gimenes.</itunes:summary><description>Hoje, trazemos um episódio num formato novo, vamos bater um papo sobre um assunto específico e conhecer mais sobre ele. O assunto escolhido para esse episódio é a linguagem de programação Go, e para tornar a conversa ainda mais interessante, teremos dois convidados o Thiago Avelino e o Cesar Gimenes.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, trazemos um episódio num formato novo, vamos bater um papo sobre um assunto específico e conhecer mais sobre ele. O assunto escolhido para esse episódio é a linguagem de programação Go, e para tornar a conversa ainda mais interessante,...</itunes:subtitle><itunes:summary>Hoje, trazemos um episódio num formato novo, vamos bater um papo sobre um assunto específico e conhecer mais sobre ele. O assunto escolhido para esse episódio é a linguagem de programação Go, e para tornar a conversa ainda mais interessante, teremos dois convidados o Thiago Avelino e o Cesar Gimenes.</itunes:summary><description>Hoje, trazemos um episódio num formato novo, vamos bater um papo sobre um assunto específico e conhecer mais sobre ele. O assunto escolhido para esse episódio é a linguagem de programação Go, e para tornar a conversa ainda mais interessante, teremos dois convidados o Thiago Avelino e o Cesar Gimenes.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje trazemos um formato novo de episódio, escolheremos um tema
 específico e nos concentraremos nele. Mas calma, não para por aí! Além disso,
 poderemos ter alguns convidados que vão nos ajudar com o assunto, respondendo
 algumas dúvidas e falando mais sobre ele.</p>
+<h1 id="escute-enquanto-lê-os-show-notes">Escute enquanto lê os show notes</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-86" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<br />
+<p>Começamos falando sobre a linguagem de programação <a href="https://golang.org">Go</a>.
+Ela foi foi criada pelo pessoal da Google e lançada como código livre em 2009.
+É uma linguagem compilada e otimizada para programação concorrente e tem entre
+os seus criadores o Ken Thompson, que é um dos criadores do Unix e que junto
+com Dennis Ritchie ajudou nas primeiras especificações da linguagem C.</p>
+<p>Outro dado interessante é que foram o Ken Thompson e o Rob Pike (um dos
+criadores da linguagem Go) que também criaram o padrão UTF-8, e só com essas
+informações já dá para imaginar o poder dessa linguagem</p>
+<p>Para deixar o bate-papo ainda mais interessante hoje teremos dois convidados:</p>
+<p>Thiago Avelino, que já foi entrevistado aqui no Castálio, é matemático,
+programador, palestrante, mantenedor e colaborador de diversos projetos open
+source, empreendedor em várias áreas de negócio e atualmente utiliza a
+linguagem Go em um desses empreendimentos.</p>
+<p>Cesar Gimenes é um experiente programador que já atuou na área de educação,
+trabalhou com games, aplicativos móveis e sistemas embarcados, ativo
+participante da comunidade de Go no Brasil e organizador do grupo de estudos de
+Go, trabalha atualmente com Go na Nuveo SmartCloud.</p>
+<p>Nessa primeira parte abordamos os seguintes pontos:</p>
+<ul>
+<li>Por que Go?</li>
+<li>Onde é recomendado utilizar o Go?</li>
+<li>Qual a diferença entre concorrência e paralelismo?</li>
+<li>Ecossistema de frameworks, bibliotecas e a biblioteca nativa do Go.</li>
+<li>Softwares e empresas conhecidas que estão utilizando Go: Mercado
+Livre, Magazine Luiza, Dropbox, Docker, YouTube.</li>
+<li>Como o Mercado Livre diminuiu o número de equipamentos utilizados ao
+migrar de Grails para Go. Mais informações no post <a href="http://imasters.com.br/linguagens/o-ceu-e-o-limite-na-utilizacao-de-golang">O céu é o limite
+na utilização de
+Golang</a></li>
+<li>O que o Thiago e o Cesar tem feito com o Go?</li>
+</ul>
+<h1 id="links">Links</h1>
+<p>Como não poderíamos deixar faltar, segue a lista de links que comentamos no
+episódio:</p>
+<ul>
+<li><a href="https://golang.org">Go</a>, sita oficial da linguagem de programação
+Go.</li>
+<li><a href="http://imasters.com.br/linguagens/o-ceu-e-o-limite-na-utilizacao-de-golang">O céu é o limite na utilização de
+Golang</a>,
+informações sobre a redução do número de máquinas que o Mercado
+Livre teve ao migrar para Go.</li>
+<li><a href="https://github.com/dropbox/pyston">Pyston</a>, Python otimizado
+escrito pelo pessoal do Dropbox.</li>
+<li><a href="https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/">Pyston 0.6.1 released, and future
+plans</a>,
+nota sobre a última versão do Pyston.</li>
+<li><a href="https://github.com/nuveo/prest">pREST</a> e
+<a href="https://github.com/nuveo/gofn">gof(n)</a>, softwares escritos em Go
+que o Avelino e o Cesar comentaram.</li>
+<li><a href="http://www.seleniumhq.org/">Selenium</a>, automatização de browsers.</li>
+<li><a href="http://phantomjs.org/">PhantomJS</a>, browser sem interface utilizado
+para automatização de interações em páginas web.</li>
+<li><a href="https://saucelabs.com/">Sauce Labs</a>, serviço que oferece vários
+browsers para teste utilizando o Selenium.</li>
+<li><a href="https://en.wikipedia.org/wiki/Pdftotext">pdftotext</a>, conversor de
+PDF para texto em linha de comando.</li>
+</ul>
+<p>Com isso terminamos a primeira parte sobre a linguagem de programação Go.</p>
+<p>Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, deixe seus comentários aqui
+no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio.</p>
+<h1 id="ainda-não-ouviu-escute-agora">Ainda não ouviu? escute agora!</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-86" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/go-lang.png"/><enclosure url="https://archive.org/download/castalio-podcast-86/castalio-podcast-86.mp3" length="53952309" type="audio/mpeg"/></item><item><title>Episódio 85: Arx Cruz - OpenStack (Red Hat)</title><link>https://castalio.info/episodes/episodio-85-arx-cruz-openstack-red-ha/</link><pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-85/castalio-podcast-85.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 85: Arx Cruz - OpenStack (Red Hat)</itunes:title><itunes:subtitle>
 Hoje, conversamos com o Arx Cruz que é Engenheiro de Qualidade no OpenStack, trabalha na Red Hat, mora em Berlim, joga WoW (World of Warcraft) e Overwatch, e já bebeu quase 500 cervejas diferentes.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Arx Cruz que é Engenheiro de Qualidade no OpenStack, trabalha na Red Hat, mora em Berlim, joga WoW (World of Warcraft) e Overwatch, e já bebeu quase 500 cervejas diferentes.</itunes:summary><description>Hoje, conversamos com o Arx Cruz que é Engenheiro de Qualidade no OpenStack, trabalha na Red Hat, mora em Berlim, joga WoW (World of Warcraft) e Overwatch, e já bebeu quase 500 cervejas diferentes.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>

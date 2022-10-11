@@ -10,115 +10,120 @@ Feb 27, 2017
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-5 minutos</span></div><img class="float-start img-thumbnail post-image" src=/images/episodio-89.png><div class="post-content mb-3"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>Se você ainda não migrou os seus projetos para Python 3 é melhor começar
-agora. Como já mencionamos aqui o Python 2.x está com os dias contados e
-alguns frameworks importantes como o Django estão começando a remover o
-suporte ao Python 2.</p><p>Além disso o Python 3 está trazendo novidades muito interessantes que não
-estarão disponíveis no Python 2, então a hora de migrar é agora!</p><p>Conheça agora algumas notícias, novidades e dicas de softwares e truques para
-o terminal Linux e no final do episódio um excelente Book Review!</p><div class=section id=escute-enquanto-le-os-show-notes><h2>Escute enquanto lê os show notes</h2><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-89 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3><i class="bi bi-download"></i> MP3</a>
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-89/castalio-podcast-89.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><br><div class=section id=novidades-e-dicas-de-python><h3>Novidades e Dicas de Python</h3><ul><li><p class=first><strong>Django agora só em Python 3:</strong> O Framework <strong>Django</strong>, um dos mais
-importantes do ecossistema Python lançará
-a versão 1.11 em breve e será a última a suportar Python 2.x. Na próxima
-major version do Django, a 2.0.0 o framework irá dar suporte apenas a
-Python 3 e dada a importância deste framework isto com certeza será um
-grande empurrão para a comunidade fazer logo a migração.</p><p>O anúncio foi feito no
-<a class="reference external" href=https://docs.djangoproject.com/en/dev/releases/1.11/>site oficial</a>:</p><blockquote><p>"The Django 1.11.x series is the last to support Python 2.
-The next major release, Django 2.0, will only support Python 3.5+"</p></blockquote></li><li><p class=first><strong>Namespaces</strong>: Uma dica de <strong>Python 3</strong> que trazemos é a nova classe
-<strong>SimpleNamespace</strong> disponível no módulo <strong>types</strong> da biblioteca padrão
-do Python 3.3+.
-É muito comum criarmos classes que não possuem métodos e servem
-apenas para armazenar valores. Também usamos muitas vezes dicionários e
-arquivos de constantes para este fim. Essa necessidade é bastante antiga no
-Python e a idéia surgiu em <a class="reference external" href=https://mail.python.org/pipermail/python-ideas/2012-May/015232.html>2012 na lista oficial da linguagem</a>
-mas só agora passou a fazer parte da biblioteca padrão:</p><pre class=literal-block>
-&gt;&gt;&gt; from types import SimpleNamespace
-&gt;&gt;&gt; podcast = SimpleNamespace(name='Castálio')
-&gt;&gt;&gt; podcast.site = 'http://castalio.info'
-&gt;&gt;&gt; print(obj)
-namespace(name='Castálio', site='http://castalio.info')
-&gt;&gt;&gt; hasattr(obj, 'site')
-True
-</pre></li><li><p class=first><strong>Named Tuples</strong>: E também existe o <strong>namedtuple</strong> que é uma outra maneira
-de armazenar valores em um namespace mas utilizando uma estrutura de tupla,
-que pode tanto ser acessada via índice ou via atributo. <strong>namedtuple</strong>
-está disponível também no Python 2, veja um exemplo:</p><pre class=literal-block>
-&gt;&gt;&gt; from collections import namedtuple
-&gt;&gt;&gt; Podcast = namedtuple('Podcast', 'name site')
-&gt;&gt;&gt; castalio = Podcast('Castálio', 'http://castalio.info')
-&gt;&gt;&gt; castalio.site
-http://castalio.info
-</pre><p>E também é possivel acessar os atributos através dos índices:</p><pre class=literal-block>
-&gt;&gt;&gt; castalio[0]
-'Castálio'
-&gt;&gt;&gt; castalio[1]
-'http://castalio.info'
-</pre><p>Uma outra caracteristica interessante, é que tanto <strong>namedtuple</strong> quanto
-<strong>SimpleNamespace</strong> podem ser usados como classe base, veja:</p><pre class=literal-block>
-class SuperPodcast(Podcast):
-    def play(self):
-        print(&quot;I won't gonna give you none of my Jelly Rolls...&quot;)
-
-&gt;&gt;&gt; castalio = SuperPodcast('Castálio', 'http://castalio.info')
-&gt;&gt;&gt; castalio.play()
-I won't gonna give you none of my Jelly Rolls...
-</pre></li><li><dl class="first docutils"><dt><strong>Dicas para o console do Linux</strong>: O <strong>Adventures in /usr/bin and the likes</strong></dt><dd><p class=first>é um
-<a class="reference external" href=http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html>blog post</a>
+5 minutos</span></div><img class="float-start img-thumbnail post-image" src=/images/episodio-89.png><div class="post-content mb-3"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>Se você ainda não migrou os seus projetos para Python 3 é melhor começar agora.
+Como já mencionamos aqui o Python 2.x está com os dias contados e alguns
+frameworks importantes como o Django estão começando a remover o suporte ao
+Python 2.</p><p>Além disso o Python 3 está trazendo novidades muito interessantes que não
+estarão disponíveis no Python 2, então a hora de migrar é agora!</p><p>Conheça agora algumas notícias, novidades e dicas de softwares e truques para o
+terminal Linux e no final do episódio um excelente Book Review!</p><h1 id=escute-enquanto-lê-os-show-notes>Escute enquanto lê os show notes</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-89 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-89/castalio-podcast-89.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><br><h2 id=novidades-e-dicas-de-python>Novidades e Dicas de Python</h2><ul><li><p><strong>Django agora só em Python 3:</strong> O Framework <strong>Django</strong>, um dos mais
+importantes do ecossistema Python lançará a versão 1.11 em breve e será a
+última a suportar Python 2.x. Na próxima major version do Django, a 2.0.0 o
+framework irá dar suporte apenas a Python 3 e dada a importância deste
+framework isto com certeza será um grande empurrão para a comunidade fazer
+logo a migração.</p><p>O anúncio foi feito no <a href=https://docs.djangoproject.com/en/dev/releases/1.11/>site
+oficial</a>:</p><blockquote><p>"The Django 1.11.x series is the last to support Python 2. The next
+major release, Django 2.0, will only support Python 3.5+"</p></blockquote></li><li><p><strong>Namespaces</strong>: Uma dica de <strong>Python 3</strong> que trazemos é a nova
+classe <strong>SimpleNamespace</strong> disponível no módulo <strong>types</strong> da biblioteca
+padrão do Python 3.3+. É muito comum criarmos classes que não possuem
+métodos e servem apenas para armazenar valores. Também usamos muitas vezes
+dicionários e arquivos de constantes para este fim. Essa necessidade é
+bastante antiga no Python e a idéia surgiu em <a href=https://mail.python.org/pipermail/python-ideas/2012-May/015232.html>2012 na lista oficial da
+linguagem</a>
+mas só agora passou a fazer parte da biblioteca padrão:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> <span style=color:#f92672>from</span> types <span style=color:#f92672>import</span> SimpleNamespace
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> podcast <span style=color:#f92672>=</span> SimpleNamespace(name<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;Castálio&#39;</span>)
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> podcast<span style=color:#f92672>.</span>site <span style=color:#f92672>=</span> <span style=color:#e6db74>&#39;http://castalio.info&#39;</span>
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> print(obj)
+</span></span><span style=display:flex><span>namespace(name<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;Castálio&#39;</span>, site<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;http://castalio.info&#39;</span>)
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> hasattr(obj, <span style=color:#e6db74>&#39;site&#39;</span>)
+</span></span><span style=display:flex><span><span style=color:#66d9ef>True</span>
+</span></span></code></pre></div></li><li><p><strong>Named Tuples</strong>: E também existe o <strong>namedtuple</strong> que é uma outra
+maneira de armazenar valores em um namespace mas utilizando uma estrutura
+de tupla, que pode tanto ser acessada via índice ou via atributo.
+<strong>namedtuple</strong> está disponível também no Python 2, veja um exemplo:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> <span style=color:#f92672>from</span> collections <span style=color:#f92672>import</span> namedtuple
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> Podcast <span style=color:#f92672>=</span> namedtuple(<span style=color:#e6db74>&#39;Podcast&#39;</span>, <span style=color:#e6db74>&#39;name site&#39;</span>)
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> castalio <span style=color:#f92672>=</span> Podcast(<span style=color:#e6db74>&#39;Castálio&#39;</span>, <span style=color:#e6db74>&#39;http://castalio.info&#39;</span>)
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> castalio<span style=color:#f92672>.</span>site
+</span></span><span style=display:flex><span>http:<span style=color:#f92672>//</span>castalio<span style=color:#f92672>.</span>info
+</span></span></code></pre></div><p>E também é possivel acessar os atributos através dos índices:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> castalio[<span style=color:#ae81ff>0</span>]
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#39;Castálio&#39;</span>
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> castalio[<span style=color:#ae81ff>1</span>]
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#39;http://castalio.info&#39;</span>
+</span></span></code></pre></div><p>Uma outra caracteristica interessante, é que tanto <strong>namedtuple</strong>
+quanto <strong>SimpleNamespace</strong> podem ser usados como classe base, veja:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>SuperPodcast</span>(Podcast):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>play</span>(self):
+</span></span><span style=display:flex><span>        print(<span style=color:#e6db74>&#34;I won&#39;t gonna give you none of my Jelly Rolls...&#34;</span>)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> castalio <span style=color:#f92672>=</span> SuperPodcast(<span style=color:#e6db74>&#39;Castálio&#39;</span>, <span style=color:#e6db74>&#39;http://castalio.info&#39;</span>)
+</span></span><span style=display:flex><span><span style=color:#f92672>&gt;&gt;&gt;</span> castalio<span style=color:#f92672>.</span>play()
+</span></span><span style=display:flex><span>I won<span style=color:#e6db74>&#39;t gonna give you none of my Jelly Rolls...</span>
+</span></span></code></pre></div></li><li><p><strong>Dicas para o console do Linux</strong>: O <strong>Adventures in /usr/bin and the likes</strong> :
+é um <a href=http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html>blog
+post</a>
 que traz uma coleção de dicas e truques para usar no seu terminal.</p><p>A lista traz 30 comandos ou pacotes que podem ajudar a agilizar sua vida ao
-executar tarefas no console do seu Linux. Os destaques são:</p><p><strong>Watch</strong>:</p><pre class=literal-block>
-watch -n 1 -d date
-</pre><p>O comando acima executa o comando <cite>date</cite> a cada 1 segundo e o <cite>-d</cite> informa
-o watch para destacar as diferenças entre as execuções.</p><p>Portanto o <cite>watch</cite> é muito útil para quando você precisa executar
-repetidamente um comando e inspecionar a sua saída em busca de diferenças.</p><p><strong>Tac</strong></p><p>O <cite>tac</cite> é o <cite>cat</cite> reverso, e exibe o conteúdo de um arquivo invertendo a
-ordem das linhas, veja um exemplo:</p><pre class="last literal-block">
-$ cat data.txt
-1
-2
-3
-
-$ tac data.txt
-3
-2
-1
-</pre></dd></dl></li><li><p class=first><strong>O Bootstrap do Tkinter?</strong>: E quem gostou das nossas dicas de <strong>Tkinter</strong>
-vai gostar também do <a class="reference external" href=http://appjar.info/>AppJar</a>.</p><p>Um wrapper para o <strong>Tkinter</strong> que traz algumas facilidades e uma coisa bem
+executar tarefas no console do seu Linux. Os destaques são:</p><p><strong>Watch</strong>:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>watch -n <span style=color:#ae81ff>1</span> -d date
+</span></span></code></pre></div><p>O comando acima executa o comando [date]{.title-ref} a cada 1 segundo e o
+[-d]{.title-ref} informa o watch para destacar as diferenças entre as
+execuções.</p><p>Portanto o [watch]{.title-ref} é muito útil para quando você precisa
+executar repetidamente um comando e inspecionar a sua saída em busca de
+diferenças.</p><p><strong>Tac</strong></p><p>O [tac]{.title-ref} é o [cat]{.title-ref} reverso, e exibe o conteúdo de um
+arquivo invertendo a ordem das linhas, veja um exemplo:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>$ cat data.txt
+</span></span><span style=display:flex><span><span style=color:#ae81ff>1</span>
+</span></span><span style=display:flex><span><span style=color:#ae81ff>2</span>
+</span></span><span style=display:flex><span><span style=color:#ae81ff>3</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>$ tac data.txt
+</span></span><span style=display:flex><span><span style=color:#ae81ff>3</span>
+</span></span><span style=display:flex><span><span style=color:#ae81ff>2</span>
+</span></span><span style=display:flex><span><span style=color:#ae81ff>1</span>
+</span></span></code></pre></div></li><li><p><strong>O Bootstrap do Tkinter?</strong>: E quem gostou das nossas dicas de
+<strong>Tkinter</strong> vai gostar também do <a href=http://appjar.info/>AppJar</a>.</p><p>Um wrapper para o <strong>Tkinter</strong> que traz algumas facilidades e uma coisa bem
 interessante que é um sistema de <strong>grid</strong> bastante parecido com os sistemas
-de grid dos frameworks <strong>css</strong>.</p><div class="pull-left clear article-figure figure"><img alt="AppJar Grid" src=/images/appjar-grid.png></div><p>Código:</p><pre class=literal-block>
-from appJar import gui
-
-app=gui()
-app.setFont(20)
-app.addGrid(&quot;g1&quot;,
-   [[&quot;Name&quot;, &quot;Age&quot;, &quot;Gender&quot;],
-   [&quot;Fred&quot;, 45, &quot;Male&quot;],
-   [&quot;Tina&quot;, 37, &quot;Female&quot;],
-   [&quot;Clive&quot;, 28, &quot;Male&quot;],
-   [&quot;Betty&quot;, 51, &quot;Female&quot;]]
-)
-app.go()
-</pre><p>Existem outros exemplos na coleção de widgets do AppJar
-<a class="reference external" href=http://appjar.info/pythonWidgets>http://appjar.info/pythonWidgets</a></p></li><li><p class=first><strong>Sofwares para usar no Linux</strong>: A <strong>Awesome Linux Software</strong> é uma lista
-colaborativa disponível no github
-<a class="reference external" href=https://github.com/VoLuong/Awesome-Linux-Software>https://github.com/VoLuong/Awesome-Linux-Software</a> que traz uma boa
-seleção de softwares para Linux separados em diversas categorias.</p><p>A parte mais legal dessas listas é que você pode contribuir enviando um Pull
-Request e adicionando os softwares que você mais usa no Linux.</p></li><li><p class=first><strong>Fuzzy Finder no terminal</strong>: O <strong>FZF</strong> é um software de Fuzzy Finder para
-terminal, e ajuda muito na hora de encontrar comandos, diretórios e arquivos
-digitando apenas uma parte do nome ou do caminho. A instalação é bem simples
-e as instruções estão no github <a class="reference external" href=https://github.com/junegunn/fzf>https://github.com/junegunn/fzf</a></p></li><li><p class=first><strong>Publique seus Notebooks</strong>: O <strong>Binder</strong> cria uma coleção interativa
-contendo todos os <strong>JuPyter Notebooks</strong> encontrados em seu repositório no
-github. Você informa o caminho do repositório e ele cria um ambiente virtual
-onde os seus notebooks podem ser executados e então você pode adicionar uma
-<strong>badge</strong> no README de seu projeto. Veja mais em <a class="reference external" href=http://mybinder.org/>http://mybinder.org/</a></p></li></ul></div><div class=section id=book-review><h3>Book Review</h3><p>Hoje temos um convidado especial, o <strong>Thiago Perrotta</strong> que já foi entrevistado
-aqui no <a class="reference external" href=http://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html>episódio 66</a>
-fez o review do livro <a class="reference external" href=http://www.goodreads.com/book/show/9969571-ready-player-one>Ready Player One</a>
-que foi o primeiro livro escrito por Ernest Cline. O livro é um romance com
-uma temática futurista. Foi lançado originalmente em 16 de agosto de 2011.</p><p>A história se passa no ano de 2044. O mundo passa por uma grande crise
-energética, onde destruição e pobreza são os cenários mais comuns.
-A única escapatória é o OASIS, uma realidade virtual onde a maioria das pessoas
-passa grande parte do seu tempo. No OASIS as pessoas estudam, trabalham, jogam
-e interagem umas com as outras, e assim economizam combustível
-(recurso escasso), evitam ficar muito tempo em contato com a poluição e
-tem mais acesso a cultura e informações.</p></div></div><div class=section id=ainda-nao-ouviu-escute-agora><h2>Ainda não ouviu? escute agora!</h2><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-89 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3><i class="bi bi-download"></i> MP3</a>
-<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-89/castalio-podcast-89.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><p class="alert alert-info"><strong>Music (Música)</strong>: <a class="reference external" href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly Roll</a> by <a class="reference external" href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.</p></div></div></div><h2>Tags</h2><p class=lh-lg><a class="btn btn-primary btn-sm" href=https://castalio.info/tags/python-3/>python 3</a>
+de grid dos frameworks <strong>css</strong>.</p><p><img src=/images/appjar-grid.png alt></p><p>Código:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#f92672>from</span> appJar <span style=color:#f92672>import</span> gui
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>app<span style=color:#f92672>=</span>gui()
+</span></span><span style=display:flex><span>app<span style=color:#f92672>.</span>setFont(<span style=color:#ae81ff>20</span>)
+</span></span><span style=display:flex><span>app<span style=color:#f92672>.</span>addGrid(<span style=color:#e6db74>&#34;g1&#34;</span>,
+</span></span><span style=display:flex><span>    [[<span style=color:#e6db74>&#34;Name&#34;</span>, <span style=color:#e6db74>&#34;Age&#34;</span>, <span style=color:#e6db74>&#34;Gender&#34;</span>],
+</span></span><span style=display:flex><span>    [<span style=color:#e6db74>&#34;Fred&#34;</span>, <span style=color:#ae81ff>45</span>, <span style=color:#e6db74>&#34;Male&#34;</span>],
+</span></span><span style=display:flex><span>    [<span style=color:#e6db74>&#34;Tina&#34;</span>, <span style=color:#ae81ff>37</span>, <span style=color:#e6db74>&#34;Female&#34;</span>],
+</span></span><span style=display:flex><span>    [<span style=color:#e6db74>&#34;Clive&#34;</span>, <span style=color:#ae81ff>28</span>, <span style=color:#e6db74>&#34;Male&#34;</span>],
+</span></span><span style=display:flex><span>    [<span style=color:#e6db74>&#34;Betty&#34;</span>, <span style=color:#ae81ff>51</span>, <span style=color:#e6db74>&#34;Female&#34;</span>]]
+</span></span><span style=display:flex><span>)
+</span></span><span style=display:flex><span>app<span style=color:#f92672>.</span>go()
+</span></span></code></pre></div><p>Existem outros exemplos na coleção de widgets do AppJar
+<a href=http://appjar.info/pythonWidgets>http://appjar.info/pythonWidgets</a></p></li><li><p><strong>Sofwares para usar no Linux</strong>: A <strong>Awesome Linux Software</strong> é uma
+lista colaborativa disponível no github
+<a href=https://github.com/VoLuong/Awesome-Linux-Software>https://github.com/VoLuong/Awesome-Linux-Software</a> que traz uma boa
+seleção de softwares para Linux separados em diversas categorias.</p><p>A parte mais legal dessas listas é que você pode contribuir enviando
+um Pull Request e adicionando os softwares que você mais usa no
+Linux.</p></li><li><p><strong>Fuzzy Finder no terminal</strong>: O <strong>FZF</strong> é um software de Fuzzy
+Finder para terminal, e ajuda muito na hora de encontrar comandos,
+diretórios e arquivos digitando apenas uma parte do nome ou do
+caminho. A instalação é bem simples e as instruções estão no github
+<a href=https://github.com/junegunn/fzf>https://github.com/junegunn/fzf</a></p></li><li><p><strong>Publique seus Notebooks</strong>: O <strong>Binder</strong> cria uma coleção
+interativa contendo todos os <strong>JuPyter Notebooks</strong> encontrados em
+seu repositório no github. Você informa o caminho do repositório e
+ele cria um ambiente virtual onde os seus notebooks podem ser
+executados e então você pode adicionar uma <strong>badge</strong> no README de
+seu projeto. Veja mais em <a href=http://mybinder.org/>http://mybinder.org/</a></p></li></ul><h2 id=book-review>Book Review</h2><p>Hoje temos um convidado especial, o <strong>Thiago Perrotta</strong> que já foi entrevistado
+aqui no <a href=http://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html>episódio
+66</a>
+fez o review do livro <a href=http://www.goodreads.com/book/show/9969571-ready-player-one>Ready Player
+One</a> que foi o
+primeiro livro escrito por Ernest Cline. O livro é um romance com uma temática
+futurista. Foi lançado originalmente em 16 de agosto de 2011.</p><p>A história se passa no ano de 2044. O mundo passa por uma grande crise
+energética, onde destruição e pobreza são os cenários mais comuns. A única
+escapatória é o OASIS, uma realidade virtual onde a maioria das pessoas passa
+grande parte do seu tempo. No OASIS as pessoas estudam, trabalham, jogam e
+interagem umas com as outras, e assim economizam combustível (recurso escasso),
+evitam ficar muito tempo em contato com a poluição e tem mais acesso a cultura
+e informações.</p><h1 id=ainda-não-ouviu-escute-agora>Ainda não ouviu? escute agora!</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-89 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-89/castalio-podcast-89.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-89/castalio-podcast-89.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><div class="alert alert-info" role=alert><strong>Music (Música)</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></div><h2>Tags</h2><p class=lh-lg><a class="btn btn-primary btn-sm" href=https://castalio.info/tags/python-3/>python 3</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/nasa/>nasa</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/namedtuples/>namedtuples</a>
 <a class="btn btn-primary btn-sm" href=https://castalio.info/tags/namespace/>namespace</a>
