@@ -1,0 +1,149 @@
+---
+title: "Episódio 74: Python Brasil 12 - Parte 2"
+slug: episodio-74-python-brasil-12-parte-2
+aliases:
+- /episodio-74-python-brasil-12-parte-2.html
+date: 2016-11-12
+authors:
+- Og Maciel
+- Elyézer Rezende
+- Bruno Rocha
+podcast: "https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3"
+tags:
+- python brasil
+- python
+- turicas
+- serenata de amor
+- pybr12
+description: Como prometido segue a continuação das entrevistas na Python Brasil 12
+              com alguns integrantes do projeto Serenata de Amor, e também uma
+              entrevista sobre um assunto bastante interessante com o Turicas.
+image: /images/pybr-logo.png
+image-alt: Python Brasil
+---
+
+Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
+
+No episódio de hoje daremos continuidade a série de entrevistas rápidas feitas
+durante a [Python Brasil 12](http://2016.pythonbrasil.org.br/). Se você ainda
+não ouviu a primeira [escute
+agora](/episodio-73-python-brasil-12-parte-1.html)!
+
+As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, e nesta
+segunda parte os entrevistados são os membros da [Operação Serenata de
+Amor](https://www.catarse.me/serenata) (Felipe Linhares, andré Pinho e Eduardo
+Cuducos) e também o [Turicas](https://www.youtube.com/user/Turicas) (Álvaro
+Justen) que nos contou sobre a biblioteca
+[rows](https://github.com/turicas/rows) e aproveitou para falar sobre um outro
+assunto bastante interessante que ele também está envolvido no momento.
+
+O pessoal da [Operação Serenata de Amor](https://www.catarse.me/serenata) nos
+contou um pouco sobre a proposta do projeto que pretende ajudar a auditar os
+gastos dos parlamentares utilizando Inteligência Artificial. Eles falaram sobre
+quais tecnologias estão envolvidas, como contribuir tanto com o desenvolvimento
+quanto com a campanha de crowdfunding e também falaram um pouco sobre as coisas
+que gostam de fazer quando não estão desenvolvendo a Serenata!
+
+<div class="clearfix"></div>
+
+![Elyézer, Felipe Linhares, André Pinho, Eduardo Cuducos e Bruno Rocha.](/images/pybr12-serenata-de-amor.jpg)
+
+Em seguida falamos com o [Turicas](https://www.youtube.com/user/Turicas)
+(também conhecido como Álvaro Justen) que nos falou sobre o projeto que ele
+apresentou em sua palestra na conferência que é a biblioteca
+[rows](https://github.com/turicas/rows) que é bastante útil para tratamento de
+informações tabulares como arquivos csv, tabelas HTML e também planilhas xls.
+Além disso ele nos contou sobre uma das novidades que ele trouxe para os
+corredores da Python Brasil e que chamou atenção de todo mundo durante o
+evento!
+
+![Elyézer, Turicas e Bruno Rocha hipnotizados em uma das salas da Python Brasil.](/images/pybr12-turicas.jpg)
+
+Como sempre não poderiamos de deixar de perguntar sobre o que os entrevistados
+gostam de ler, assistir e escutar!
+
+Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no [Twitter](https://twitter.com/castaliopod) ou
+[Facebook](https://www.facebook.com/castaliopod).
+
+# Contatos Serenata de Amor
+
+Felipe Linhares
+
+- **Site**: <http://filipelinhares.com/>
+- **Twitter**: <http://twitter.com/ofilipelinhares>
+- **Github**: <http://github.com/filipelinhares>
+- **Facebook**: <https://www.facebook.com/ofilipelinhares>
+
+André Pinho
+
+- **Twitter**: <https://twitter.com/andresouzapinho>
+- **Facebook**: <https://www.facebook.com/AndreSouzaPinho>
+- **Github**: <https://github.com/andrepinho>
+
+Eduardo Cuducos
+
+- **Site**: <http://cuducos.me/>
+- **Twitter**: <https://twitter.com/cuducos>
+- **Github**: <https://github.com/cuducos>
+
+# Contato Turicas (Álvaro Justen)
+
+- **Twitter**: <https://twitter.com/turicas>
+- **Facebook**: <https://www.facebook.com/alvarojusten>
+- **Github**: <https://github.com/turicas>
+
+# Escute Agora
+
+{{< podcast castalio-podcast-74 >}}
+
+# Top 1 Felipe Linhares
+
+- **Filme**: [Léon: O
+    Profissional](http://www.imdb.com/title/tt0110413/)
+- **Música**: [Céu - Varanda
+    Suspensa](http://www.last.fm/pt/music/C%C3%A9u/_/Varanda+Suspensa)
+- **Livro**: [Como Conversar com Um
+    Fascista](https://www.goodreads.com/book/show/27308337-como-conversar-com-um-fascista)
+
+# Top 1 André Pinho
+
+- **Filme**: [Matrix](http://www.imdb.com/title/tt0133093/)
+- **Música**: [Fresno - Poeira
+    Estelar](http://www.last.fm/pt/music/Fresno/_/Poeira+Estelar)
+
+# Top 1 Eduardo Cuducos
+
+- **Filme**: [Dançando no Escuro (com
+    Bjork)](http://www.imdb.com/title/tt0168629/)
+- **Música**: [Bob Dylan - Blowin\'in the
+    Wind](http://www.last.fm/music/Bob+Dylan/_/Blowin'+in+the+Wind)
+- **Livro**:
+    [Musashi](http://www.goodreads.com/book/show/102030.Musashi)
+
+# Top 1 Turicas
+
+- **Filme**: [Matrix](http://www.imdb.com/title/tt0133093/)
+- **Música**:
+    [Imagine](http://www.last.fm/music/John+Lennon/_/Imagine)
+- **Livro**: [Python
+    Fluente](https://www.goodreads.com/book/show/22800567-fluent-python)
+
+# Agradecimentos
+
+- [Karla Magueta](http://karlamagueta.com) pelo apoio durante as gravações e também pelas fotos.
+
+# Links
+
+- [Python Brasil 12](http://2016.pythonbrasil.org.br/)
+- [Operação Serenata de Amor](https://www.catarse.me/serenata)
+- [rows](https://github.com/turicas/rows)
+- [turicas](https://www.youtube.com/user/Turicas)
+
+{{< alert >}}
+**Música**: [Ain\'t Gonna Give Jelly
+Roll](http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll)
+by [Red Hook Ramblers](http://www.redhookramblers.com/) is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+{{< /alert >}}
