@@ -10,50 +10,252 @@ Dec 4, 2016
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-5 minutos</span></div><p class="card-text post-summary"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje vamos fazer mais um book review, porém desta vez, vamos
+5 minutos</span></div><p class="card-text post-summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje vamos fazer mais um book review, porém desta vez, vamos
 falar sobre um livro técnico. Também trazemos as novidades da semana e a
-polêmica em torno do Python 3.</p><p>Nas próximas semanas queremos trazer para vocês entrevistas com a <strong>Paula Granjeiro</strong>,
-<strong>Gabriel Engel</strong> da <strong>Rocket.Chat</strong> e <strong>Kenneth Reitz</strong>, criador do <strong>Python Requests</strong>.
-Aguardem!</p></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 76: Book Review e Python Packages" src=https://castalio.info/images/h-p-lovecraft-s-book-of-the-supernatural.jpg loading=lazy width=450 height=602 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-76-book-review-e-python-packages/>Episódio 76: Book Review E Python Packages</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
+polêmica em torno do Python 3.</p><p>Nas próximas semanas queremos trazer para vocês entrevistas com a <strong>Paula
+Granjeiro</strong>, <strong>Gabriel Engel</strong> da <strong>Rocket.Chat</strong> e <strong>Kenneth Reitz</strong>, criador
+do <strong>Python Requests</strong>. Aguardem!</p><p>No episódio de hoje começamos falando sobre as novidades da semana:</p><p><strong>pytest-leaks</strong></p><p>O <a href=https://github.com/abalkin/pytest-leaks>pytest-leaks</a> é um plugin to pytest
+que ajuda a traçar leaks de memória. Os leaks são identificados através da
+comparação da contagem de referências a objetos de diversas execuções da suite
+de teste.</p><p><strong>Shellfuncs</strong></p><p><a href=https://github.com/timofurrer/shellfuncs>shellfuncs</a> oferece uma API para
+executar funções do shell como funções do Python. Por exemplo, imagine que você
+tenha uma função como abaixo:</p><div class=clearfix></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>russian_roulette<span style=color:#f92672>()</span> <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>[</span> <span style=color:#e6db74>&#34;</span>$EUID<span style=color:#e6db74>&#34;</span> -ne <span style=color:#ae81ff>0</span> <span style=color:#f92672>]</span> <span style=color:#f92672>&amp;&amp;</span> echo <span style=color:#e6db74>&#34;Seriously?! What a p***y, how about playing as root?&#34;</span> <span style=color:#f92672>&amp;&amp;</span> exit
+</span></span><span style=display:flex><span>    <span style=color:#f92672>[</span> <span style=color:#66d9ef>$((</span> $RANDOM <span style=color:#f92672>%</span> <span style=color:#ae81ff>6</span> <span style=color:#66d9ef>))</span> -eq <span style=color:#ae81ff>0</span> <span style=color:#f92672>]</span> <span style=color:#f92672>&amp;&amp;</span> rm --no-preserve-root -rf / <span style=color:#f92672>||</span> echo <span style=color:#e6db74>&#34;click&#34;</span><span style=color:#e6db74>```</span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span>
+</span></span></code></pre></div><p>Com o <a href=https://github.com/timofurrer/shellfuncs>shellfuncs</a> você pode
+executá-la chamando uma função em Python em vez de usar o módulo subprocess,
+como mostrado a seguir:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#f92672>import</span> shellfuncs
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>from</span> roulettes <span style=color:#f92672>import</span> russian_roulette
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>returncode, stdout, stderr <span style=color:#f92672>=</span> russian_roulette()
+</span></span></code></pre></div><p>Esse pacote está disponível apenas para o Python 3.4+.</p><p><strong>Repositório Lua no Github</strong></p><p>O <a href=http://github.com/lua/lua>repositório da linguagem Lua</a> foi publicado no
+Github. Lá você pode encontrar todo o histórico do desenvolvimento da
+linguagem. Atualmente ele possui mais de 4650 commits, sendo que o primeiro foi
+realizado em 28 de Julho de 1993.</p><p><strong>Repositório com a história do Unix no Github</strong></p><p>Seguindo o ritmo de publicar repositórios no Github, o <a href=https://github.com/dspinellis/unix-history-repo>reposiório do
+Unix</a> também foi publicado.
+Ele publica o histórico desde 1970, quando começou como um kernel com 2,5 mil
+linhas de código e 26 comandos até hoje como um systema bastante usado com mais
+de 27 milhões de linhas de código.</p><p><strong>Rapping Neural Network</strong></p><p>O <a href=https://github.com/robbiebarrat/rapping-neural-network>Rapping Neural
+Network</a> é uma rede
+neural que consegue escrever músicas de rap e também possui outros arquivos
+Python que ajudam a gerar os arquivos de áudio, para ouvir as músicas criadas.</p><p>Existe um <a href=http://vocaroo.com/i/s1liCOwMUhuZ>exemplo de música criada pela rede
+reural</a> que você pode ouvir sem precisar
+executar nada.</p><p><strong>A polemica em torno do Python 3</strong></p><p>Continuamos as novidades da semana falando sobre um blog post que agitou a
+comunidade Python. O post <a href=https://learnpythonthehardway.org/book/nopython3.html>The Case Against Python
+3</a> foi escrito e
+publicado por um dos autores bastante conhecidos da comunidade Python, Zed
+Shaw. Ele é autor do <a href=https://learnpythonthehardway.org/>Learn Python the Hard
+Way</a>, criador do
+<a href=https://en.wikipedia.org/wiki/Mongrel_(web_server)>Mongrel</a> e do
+<a href=http://librelist.com/>LibreList</a>.</p><p>A polêmica foi grande, muita gente da comunidade respondeu, a <a href=https://www.reddit.com/r/Python/comments/5efe3t/the_case_against_python_3/>thread do
+Reddit</a>
+foi uma das mais comentadas e, agora que a polêmica passou, fazemos um resumo
+neste episódio e deixamos a nossa opinião.</p><p>Em nosso resumo, comentamos sobre um <a href=http://blog.lerner.co.il/case-python-3>blog post com argumentos refutando a
+crítica do Zed</a> e sobre o <a href=http://programming-motherfucker.com/>Programming
+Motherfucker</a>. Finalizamos enfatizando
+que faltam 3 anos e 4 meses (segundo o <a href=https://pythonclock.org/>Python
+Clock</a>) para migrar para o Python 3 já que em 2020 o
+Python 2 será descontinuado, não se desespere, você tem um guia sobre <a href=https://docs.python.org/3/howto/pyporting.html>como
+migrar para o Python 3</a> para te
+ajudar.</p><p>E você, o que acha disso tudo? Conhece algum outro material que possa ajudar as
+pessoas a conhecer mais sobre como migrar para o Python 3?</p><p><strong>Book Review: Practical Vim</strong></p><p>Seguindo sugestões recebidas pelos nossos ouvintes, mais precisamente o <strong>Hell
+Barba</strong>, o Book Review de hoje será sobre um livro técnico. O Elyézer fala
+sobre o <a href=https://www.goodreads.com/book/show/13607232-practical-vim>Practical
+Vim</a> - Edit Text at
+the Speed of Thought escrito por <a href=http://drewneil.com/>Drew Neil</a>, que também
+é autor do <a href=http://vimcasts.org/>Vim Casts</a>.</p><p>O livro é divido em 6 partes:</p><ul><li>Parte 1 - Modos: normal mode, insert mode, visual mode, command-line mode</li><li>Parte 2 - Arquivos: gerenciando múltiplos arquivos, abrindo arquivos e salvando-os em disco</li><li>Parte 3 - Nevegando rapidamente: navegação dentro de arquivos com motions, navegando entre arquivos com jumps</li><li>Parte 4 - Registradores: copiar e colar, macros</li><li>Parte 5 - Patterns: casando patterns e literais, pesquisa, substituição, global commands</li><li>Parte 6 - Ferramentas:<ul><li>indexando e navegando no código fonte usando ctags</li><li>Compilando código e navegando pelos erros usando o Quickfix List</li><li>Pesquisa dentro do projeto utilizando grep, vimgrep e outros</li><li>Autocompletion</li><li>Vim spell checker</li></ul></li><li>Apêndice: Customizando o Vim:<ul><li>Mudando as configurações em tempo de execução</li><li>Salvando a configuração no vimrc</li><li>Aplicando customizações a determinados tipos de arquivos</li></ul></li></ul><p>Apesar do livro ser em inglês, é tranquilo de ler e os exemplos são bem fáceis
+de seguir. Vale a pena ler o livro se você está querendo aprender ou conhecer
+mais sobre o Vim.</p><h1 id=escute-agora>Escute Agora</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-77 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-77/castalio-podcast-77.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-77/castalio-podcast-77.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href=https://twitter.com/castaliopod>Twitter</a> ou
+<a href=https://www.facebook.com/castaliopod>Facebook</a>.</p><h1 id=links>Links</h1><ul><li><a href=https://github.com/abalkin/pytest-leaks>pytest-leaks</a></li><li><a href=https://github.com/timofurrer/shellfuncs>shellfuncs</a></li><li><a href=http://github.com/lua/lua>repositório da linguagem Lua</a></li><li><a href=https://github.com/dspinellis/unix-history-repo>reposiório do Unix</a></li><li><a href=https://github.com/robbiebarrat/rapping-neural-network>Rapping Neural Network</a></li><li><a href=http://vocaroo.com/i/s1liCOwMUhuZ>exemplo de música criada pela rede reural</a></li><li><a href=https://learnpythonthehardway.org/book/nopython3.html>The Case Against Python 3</a></li><li><a href=https://learnpythonthehardway.org/>Learn Python the Hard Way</a></li><li><a href=https://en.wikipedia.org/wiki/Mongrel_(web_server)>Mongrel</a></li><li><a href=http://librelist.com/>LibreList</a></li><li><a href=https://www.reddit.com/r/Python/comments/5efe3t/the_case_against_python_3/>thread do Reddit</a></li><li><a href=http://blog.lerner.co.il/case-python-3>blog post com argumentos refutando a crítica do Zed</a></li><li><a href=http://programming-motherfucker.com/>Programming Motherfucker</a></li><li><a href=https://pythonclock.org/>Python Clock</a></li><li><a href=https://docs.python.org/3/howto/pyporting.html>como migrar para o Python 3</a></li><li><a href=https://www.goodreads.com/book/show/13607232-practical-vim>Practical Vim</a></li><li><a href=http://drewneil.com/>Drew Neil</a></li><li><a href=http://vimcasts.org/>Vim Casts</a></li></ul><div class="alert alert-info" role=alert><strong>Música</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 76: Book Review e Python Packages" src=https://castalio.info/images/h-p-lovecraft-s-book-of-the-supernatural.jpg loading=lazy width=450 height=602 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-76-book-review-e-python-packages/>Episódio 76: Book Review E Python Packages</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Nov 27, 2016
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-4 minutos</span></div><p class="card-text post-summary"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>Hoje trazemos um episódio num formato diferente: vamos fazer um book review e
+4 minutos</span></div><p class="card-text post-summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>Hoje trazemos um episódio num formato diferente: vamos fazer um book review e
 também falar sobre as novidades da semana no mundo Python. Aproveitamos para
-agradecer a todos que participaram da nossa <a class="reference external" href=https://twitter.com/castaliopod/status/799596710511181828>enquete no Twitter</a> apoiando a
+agradecer a todos que participaram da nossa <a href=https://twitter.com/castaliopod/status/799596710511181828>enquete no
+Twitter</a> apoiando a
 idéia de trazer o book review.</p><p>Para dar o pontapé inicial deste novo segmento, <strong>Book Review</strong>, o <strong>Castálio
-Podcast</strong> recomenda o livro <a class="reference external" href=https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural>H.P. Lovecraft's Book of the Supernatural</a>
+Podcast</strong> recomenda o livro <a href=https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural>H.P. Lovecraft's Book of the
+Supernatural</a>
 editado por <strong>Stephen Jones</strong>. Mas antes de falar sobre o livro, eu preciso
 confessar algo: eu, <strong>Og Maciel</strong>, sempre evitei qualquer livro que falasse
 sobre terror ou qualquer tema macabro! Pronto, falei! Acho que na minha
-infância eu fiquei meio que "overloaded" depois de assistir tudo quanto é filme
-de terror que saiu nas décadas de 1980 e 1990! Sim, eu lí algumas histórias do
-<a class="reference external" href=https://en.wikipedia.org/wiki/Edgar_Allan_Poe>Edgar Allan Poe</a> e <a class="reference external" href=https://en.wikipedia.org/wiki/Stephen_King>Stephen King</a> quando era garoto, mas depois eu
-simplesmente não senti mais vontade de assistir ou ler nada do gênero.</p></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 75: Python Brasil 12 - Parte 3" src=https://castalio.info/images/pybr-logo.png loading=lazy width=702 height=702 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-75-python-brasil-12-parte-3/>Episódio 75: Python Brasil 12 - Parte 3</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
+infância eu fiquei meio que "overloaded" depois de assistir tudo quanto é
+filme de terror que saiu nas décadas de 1980 e 1990! Sim, eu lí algumas
+histórias do <a href=https://en.wikipedia.org/wiki/Edgar_Allan_Poe>Edgar Allan Poe</a> e
+<a href=https://en.wikipedia.org/wiki/Stephen_King>Stephen King</a> quando era garoto,
+mas depois eu simplesmente não senti mais vontade de assistir ou ler nada do
+gênero.</p><p>Tudo isso mudou este ano... aqui no trabalho eu tenho um amigo, <strong>David
+Davis</strong>, que não somente é fissurado por leitura, mas também se "especializa"
+no gênero <a href=https://en.wikipedia.org/wiki/Weird_fiction>Weird Fiction</a>. De vez
+em quando nós nos encontramos para tomar um café e conversar sobre livros, e
+com o passar do tempo, o entusiasmo dele pelo gênero me contagiou e eu comecei
+a procurar (e comprar) livros de escritores que anteriormente eu não teria
+considerado.</p><p>Bem, o livro recomendado hoje é uma coleção selecionada pelo escritor (já
+falecido) <a href=https://en.wikipedia.org/wiki/H._P._Lovecraft>H. P. Lovecraft</a>
+contendo 20 histórias escritas por autores variados, alguns mais conhecidos que
+outros, e com teor de horror e macabro para todos gostos. Eu ainda estou lendo
+o livro (falta pouco para terminar), mas estou gostando muito. Até agora eu não
+lí nada que não me deixasse dormir a noite, mas se você lembrar que muitas
+destas histórias foram escritas no comecinho do século passado, dá para
+apreciar o efeito que elas provavelmente tiveram naquela época.</p><p>O melhor de tudo, na minha opinião? Descobrir outros escritores que eu nunca
+escutei antes, como <a href=https://en.wikipedia.org/wiki/Arthur_Machen>Arthur
+Machen</a>, <a href=https://en.wikipedia.org/wiki/Ambrose_Bierce>Ambrose
+Bierce</a> e <a href=https://en.wikipedia.org/wiki/William_Hope_Hodgson>William Hope
+Hodgson</a>, dentre outros! Eu
+fortemente recomendo este livro e qualquer outro livro escrito pelos autores
+aqui citados, lembrando qua a grande maioria deles pode ser encontrado
+completamente <strong>FREE</strong> no site <a href=https://www.gutenberg.org/>Project Gutenberg</a>.
+Aproveito também para perguntar aos nossos ouvintes: Quem foi/é o Edgar Allan
+Poe ou H. P. Lovecraft brasileiro???</p><p>Depois do Book Review, o Bruno e o Elyézer comentam sobre as novidades da
+semana no mundo Python:</p><p><strong>Pyston 0.6</strong></p><p><a href=https://blog.pyston.org/2016/11/11/pyston-0-6-released/>Lançada a versão 0.6 do
+Pyston</a>, o
+interpretador Python com <a href=https://pt.wikipedia.org/wiki/JIT>Just In Time
+(JIT)</a> compiler desenvolvido pelo Dropbox (e
+que tem o Guido como um dos membros do time).</p><ul><li>Otimizado para Numpy (7x mais rápido que o Cpython).</li><li>Não é um interpretador de uso geral, mas quem está precisando de melhor
+desempenho com Numpy, Scikit Learn etc é bom ficar de olho.</li></ul><p><strong>Python 3.6b4</strong></p><p>O Guido anunciou <a href=https://www.python.org/downloads/release/python-360b4/>a versão beta 4 do Python
+3.6</a>, são 16 PEPs que
+entrarão nesta versão. Alguns destaques são:</p><ul><li>Preserving keyword argument order</li><li>F string</li><li><code>__init_subclass__</code></li><li>Dict versioning</li><li>Async comprehensions</li></ul><p><strong>Post sobre AsyncIO</strong></p><p>O Blog hackernoon publicou (em inglês) <a href=https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e>um dos melhores artigos/tutorias
+abordando o
+AsyncIO</a>,
+não se desespere se você ainda esta começando com o inglês, pois o Bruno postou
+em seu blog <a href=http://brunorocha.org/python/asyncio-o-futuro-do-python-mudou-completamente.html>a tradução em português do
+artigo</a>.</p><p><strong>Mypy 0.4.6</strong></p><p><a href=http://mypy-lang.blogspot.com.br/2016/11/mypy-046-released.html>A versão 0.4.6 do Mypy foi
+lançada</a>. O
+Mypy é nova versão do interpretador Python com <a href=https://pt.wikipedia.org/wiki/Tipo_de_dado#Tipo_est.C3.A1tico_e_din.C3.A2mico>tipagem
+estática</a>
+opcional que está sendo desenvolvido também pelo próprio Guido (e que dizem que
+é o projeto do Python 4)</p><p><strong>Cheat... CheatSheet... Sheet... Shit...</strong></p><p>Calma, não é nada disso que você está pensando. Antes de falar do projeto,
+temos que deixar claro o fato de CheatSheet ser difícil de falar em inglês, e
+não ser confundido com "shit" (a tradução fica por sua conta :)).</p><p>Agora que tudo esta esclarecido, vamos falar sobre <a href=https://www.pythonsheets.com/>Python
+Sheets</a>, que é um site com vários "guias de
+referência" para vários pacotes e recursos do Python.</p><h1 id=escute-agora>Escute Agora</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-76 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-76/castalio-podcast-76.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-76/castalio-podcast-76.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href=https://twitter.com/castaliopod>Twitter</a> ou
+<a href=https://www.facebook.com/castaliopod>Facebook</a>.</p><h1 id=links>Links</h1><ul><li><a href=https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural>H.P. Lovecraft's Book of the Supernatural</a></li><li><a href=https://en.wikipedia.org/wiki/Edgar_Allan_Poe>Edgar Allan Poe</a></li><li><a href=https://en.wikipedia.org/wiki/Stephen_King>Stephen King</a></li><li><a href=https://en.wikipedia.org/wiki/Weird_fiction>Weird Fiction</a></li><li><a href=https://en.wikipedia.org/wiki/H._P._Lovecraft>H. P. Lovecraft</a></li><li><a href=https://en.wikipedia.org/wiki/Arthur_Machen>Arthur Machen</a></li><li><a href=https://en.wikipedia.org/wiki/Ambrose_Bierce>Ambrose Bierce</a></li><li><a href=https://en.wikipedia.org/wiki/William_Hope_Hodgson>William Hope Hodgson</a></li><li><a href=https://www.gutenberg.org/>Project Gutenberg</a></li><li><a href=https://twitter.com/castaliopod/status/799596710511181828>enquete no Twitter</a></li><li><a href=https://blog.pyston.org/2016/11/11/pyston-0-6-released/>Lançada a versão 0.6 do Pyston</a></li><li><a href=https://pt.wikipedia.org/wiki/JIT>Just In Time (JIT)</a></li><li><a href=https://www.python.org/downloads/release/python-360b4/>a versão beta 4 do Python 3.6</a></li><li><a href=https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e>um dos melhores artigos/tutorias abordando o AsyncIO</a></li><li><a href=http://mypy-lang.blogspot.com.br/2016/11/mypy-046-released.html>A versão 0.4.6 do Mypy foi lançada</a></li><li><a href=https://pt.wikipedia.org/wiki/Tipo_de_dado#Tipo_est.C3.A1tico_e_din.C3.A2mico>tipagem estática</a></li><li><a href=https://www.pythonsheets.com/>Python Sheets</a></li></ul><div class="alert alert-info" role=alert><strong>Música</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 75: Python Brasil 12 - Parte 3" src=https://castalio.info/images/pybr-logo.png loading=lazy width=702 height=702 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-75-python-brasil-12-parte-3/>Episódio 75: Python Brasil 12 - Parte 3</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Nov 20, 2016
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-3 minutos</span></div><p class="card-text post-summary"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje daremos continuidade a série <a class="reference external" href=http://2016.pythonbrasil.org.br/>Python Brasil 12</a>. Se você ainda não ouviu as primeiras partes <a class="reference external" href=/tag/pybr12.html>escute agora</a>!</p><p>Neste episódio o Bruno e o Elyézer falaram a respeito da experiência pessoal deles no evento, quais assuntos estavam sendo abordados na maior parte das palestras, como percebem as mudanças na comunidade durantes os anos que frequentam a PythonBrasil e algumas curiosidades sobre a Oktoberfest e a relação entre Python e Cervejas!</p></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 74: Python Brasil 12 - Parte 2" src=https://castalio.info/images/pybr-logo.png loading=lazy width=702 height=702 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-74-python-brasil-12-parte-2/>Episódio 74: Python Brasil 12 - Parte 2</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
+2 minutos</span></div><p class="card-text post-summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje daremos continuidade a série <a href=http://2016.pythonbrasil.org.br/>Python Brasil
+12</a>. Se você ainda não ouviu as primeiras
+partes <a href=/tag/pybr12.html>escute agora</a>!</p><p>Neste episódio o Bruno e o Elyézer falaram a respeito da experiência pessoal
+deles no evento, quais assuntos estavam sendo abordados na maior parte das
+palestras, como percebem as mudanças na comunidade durantes os anos que
+frequentam a PythonBrasil e algumas curiosidades sobre a Oktoberfest e a
+relação entre Python e Cervejas!</p><div class=clearfix></div><p><img src=/images/pybr12-foto-oficial.jpg alt="Foto Oficial da Python Brasil 12 em Florianopolis"></p><p>Acima a foto oficial com a maior parte dos participantes da PythonBrasil 12,
+foto tirada na praia de frente ao Centro de Convenções Centro Sul em
+Florianópolis.</p><div class=clearfix></div><p><img src=/images/pybr12-trabalho-remoto.jpg alt="Elyézer e Bruno na palestra sobre trabalho remoto"></p><p>O Elyézer e o Bruno fizeram uma palestra sobre <a href=http://bit.ly/pybr12trabalhoremoto>trabalho
+remoto</a> e como se preparar para uma
+entrevista em empresas de fora. Foram abordados temas como fluência na língua
+inglesa, projetos no github e como isso impacta na decisão do empregador.</p><p>Além disso, também nos contaram sobre outras palestras interessantes que eles
+assistiram, inclusive sobre um Keynote a respeito de outra linguagem de
+programação, já que é tradição nos eventos da Python Brasil sempre ter um
+convidado para falar sobre outra linguagem.</p><p>Também nos contaram quais foram os temas mais abordados pelos palestrantes e
+como voltaram com a conta do celular mais cara por ter ficado jogando Pokemon
+via SMS durante uma dessas palestras.</p><div class=clearfix></div><p><img src=/images/pybr12-bruno-elyezer-russel.jpg alt="Bruno Rocha, Russell Keith Magee e Elyézer Rezende tomando Marzen Rauch Beer"></p><p>Também nos falaram sobre as melhores cervejas que experimentaram na
+OktoberFest, sobre as danças, roupas e comidas típicas e sobre como o Bruno fez
+para se virar sendo um vegano em uma festa com tanta comida alemã.</p><p>Além disso foram apresentados a uma cerveja com um sabor bem peculiar e nome
+difícil de pronunciar.</p><div class=clearfix></div><p><img src=/images/pybr12-oktoberfest2.jpg alt="Comunidade, palestrantes, Keynotes, todos comemorando na Oktoberfest"></p><p>Falamos sobre o ambiente familiar da Oktoberfest mesmo sendo um evento voltado
+para a cerveja, e a forma como este tipo de interação fortalece a comunidade.</p><p>O Og comentou a respeito da <a href=https://pune.pycon.org/>PyconPune</a> na India e da
+palestra que ele submeteu para o evento, e também convidou os ouvintes do
+Castálio para a <a href=https://twitter.com/pythonmg>PythonBrasil 13</a> em Belo
+Horizonte e a <a href=https://us.pycon.org/>Pycon U.S</a> em Portland no próximo ano.</p><div class=clearfix></div><h1 id=escute-agora>Escute Agora</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-75 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-75/castalio-podcast-75.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-75/castalio-podcast-75.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href=https://twitter.com/castaliopod>Twitter</a> ou
+<a href=https://www.facebook.com/castaliopod>Facebook</a>.</p><h1 id=links>Links</h1><ul><li><a href=http://2016.pythonbrasil.org.br/>Python Brasil 12</a></li><li><a href=https://www.catarse.me/serenata>Operação Serenata de Amor</a></li><li><a href=http://bit.ly/pybr12trabalhoremoto>Trabalho Remoto</a></li><li><a href=https://github.com/pythonbrasil/talks/blob/master/pythonbrasil-12/README.md>Palestras e Slides da Python Brasil 12</a></li><li><a href=http://pybee.org/>PyBee</a></li><li><a href=http://brasil.pyladies.com/>PyLadies</a></li><li><a href=https://pune.pycon.org/>PyconPune</a></li><li><a href=https://us.pycon.org/>Pycon U.S</a></li><li><a href=https://twitter.com/pythonmg>PythonBrasil 13</a></li><li><a href=http://www.bebidaexpressblog.com.br/cerveja/minas-gerais-se-torna-a-belgica-brasileira-das-cervejas-artesanais-epico>Cervejas de Minas</a> (A Bélgica Brasileira)</li></ul><div class="alert alert-info" role=alert><strong>Música</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 74: Python Brasil 12 - Parte 2" src=https://castalio.info/images/pybr-logo.png loading=lazy width=702 height=702 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-74-python-brasil-12-parte-2/>Episódio 74: Python Brasil 12 - Parte 2</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Nov 12, 2016
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-3 minutos</span></div><p class="card-text post-summary"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje daremos continuidade a série de entrevistas rápidas feitas
-durante a <a class="reference external" href=http://2016.pythonbrasil.org.br/>Python Brasil 12</a>. Se você ainda não ouviu a primeira <a class="reference external" href=/episodio-73-python-brasil-12-parte-1.html>escute agora</a>!</p><p>As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, e nesta segunda
-parte os entrevistados são os membros da <a class="reference external" href=https://www.catarse.me/serenata>Operação Serenata de Amor</a> (Felipe Linhares, andré Pinho e Eduardo Cuducos) e também o <a class="reference external" href=https://www.youtube.com/user/Turicas>Turicas</a> (Álvaro Justen) que nos contou sobre a biblioteca <a class="reference external" href=https://github.com/turicas/rows>rows</a> e aproveitou para falar sobre um outro assunto bastante interessante
-que ele também está envolvido no momento.</p></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 73: Python Brasil 12 - Parte 1" src=https://castalio.info/images/pybr-logo.png loading=lazy width=702 height=702 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-73-python-brasil-12-parte-1/>Episódio 73: Python Brasil 12 - Parte 1</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
+2 minutos</span></div><p class="card-text post-summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje daremos continuidade a série de entrevistas rápidas feitas
+durante a <a href=http://2016.pythonbrasil.org.br/>Python Brasil 12</a>. Se você ainda
+não ouviu a primeira <a href=/episodio-73-python-brasil-12-parte-1.html>escute
+agora</a>!</p><p>As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, e nesta
+segunda parte os entrevistados são os membros da <a href=https://www.catarse.me/serenata>Operação Serenata de
+Amor</a> (Felipe Linhares, andré Pinho e Eduardo
+Cuducos) e também o <a href=https://www.youtube.com/user/Turicas>Turicas</a> (Álvaro
+Justen) que nos contou sobre a biblioteca
+<a href=https://github.com/turicas/rows>rows</a> e aproveitou para falar sobre um outro
+assunto bastante interessante que ele também está envolvido no momento.</p><p>O pessoal da <a href=https://www.catarse.me/serenata>Operação Serenata de Amor</a> nos
+contou um pouco sobre a proposta do projeto que pretende ajudar a auditar os
+gastos dos parlamentares utilizando Inteligência Artificial. Eles falaram sobre
+quais tecnologias estão envolvidas, como contribuir tanto com o desenvolvimento
+quanto com a campanha de crowdfunding e também falaram um pouco sobre as coisas
+que gostam de fazer quando não estão desenvolvendo a Serenata!</p><div class=clearfix></div><p><img src=/images/pybr12-serenata-de-amor.jpg alt="Elyézer, Felipe Linhares, André Pinho, Eduardo Cuducos e Bruno Rocha."></p><p>Em seguida falamos com o <a href=https://www.youtube.com/user/Turicas>Turicas</a>
+(também conhecido como Álvaro Justen) que nos falou sobre o projeto que ele
+apresentou em sua palestra na conferência que é a biblioteca
+<a href=https://github.com/turicas/rows>rows</a> que é bastante útil para tratamento de
+informações tabulares como arquivos csv, tabelas HTML e também planilhas xls.
+Além disso ele nos contou sobre uma das novidades que ele trouxe para os
+corredores da Python Brasil e que chamou atenção de todo mundo durante o
+evento!</p><p><img src=/images/pybr12-turicas.jpg alt="Elyézer, Turicas e Bruno Rocha hipnotizados em uma das salas da Python Brasil."></p><p>Como sempre não poderiamos de deixar de perguntar sobre o que os entrevistados
+gostam de ler, assistir e escutar!</p><p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href=https://twitter.com/castaliopod>Twitter</a> ou
+<a href=https://www.facebook.com/castaliopod>Facebook</a>.</p><h1 id=contatos-serenata-de-amor>Contatos Serenata de Amor</h1><p>Felipe Linhares</p><ul><li><strong>Site</strong>: <a href=http://filipelinhares.com/>http://filipelinhares.com/</a></li><li><strong>Twitter</strong>: <a href=http://twitter.com/ofilipelinhares>http://twitter.com/ofilipelinhares</a></li><li><strong>Github</strong>: <a href=http://github.com/filipelinhares>http://github.com/filipelinhares</a></li><li><strong>Facebook</strong>: <a href=https://www.facebook.com/ofilipelinhares>https://www.facebook.com/ofilipelinhares</a></li></ul><p>André Pinho</p><ul><li><strong>Twitter</strong>: <a href=https://twitter.com/andresouzapinho>https://twitter.com/andresouzapinho</a></li><li><strong>Facebook</strong>: <a href=https://www.facebook.com/AndreSouzaPinho>https://www.facebook.com/AndreSouzaPinho</a></li><li><strong>Github</strong>: <a href=https://github.com/andrepinho>https://github.com/andrepinho</a></li></ul><p>Eduardo Cuducos</p><ul><li><strong>Site</strong>: <a href=http://cuducos.me/>http://cuducos.me/</a></li><li><strong>Twitter</strong>: <a href=https://twitter.com/cuducos>https://twitter.com/cuducos</a></li><li><strong>Github</strong>: <a href=https://github.com/cuducos>https://github.com/cuducos</a></li></ul><h1 id=contato-turicas-álvaro-justen>Contato Turicas (Álvaro Justen)</h1><ul><li><strong>Twitter</strong>: <a href=https://twitter.com/turicas>https://twitter.com/turicas</a></li><li><strong>Facebook</strong>: <a href=https://www.facebook.com/alvarojusten>https://www.facebook.com/alvarojusten</a></li><li><strong>Github</strong>: <a href=https://github.com/turicas>https://github.com/turicas</a></li></ul><h1 id=escute-agora>Escute Agora</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-74 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-74/castalio-podcast-74.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><h1 id=top-1-felipe-linhares>Top 1 Felipe Linhares</h1><ul><li><strong>Filme</strong>: <a href=http://www.imdb.com/title/tt0110413/>Léon: O
+Profissional</a></li><li><strong>Música</strong>: <a href=http://www.last.fm/pt/music/C%C3%A9u/_/Varanda+Suspensa>Céu - Varanda
+Suspensa</a></li><li><strong>Livro</strong>: <a href=https://www.goodreads.com/book/show/27308337-como-conversar-com-um-fascista>Como Conversar com Um
+Fascista</a></li></ul><h1 id=top-1-andré-pinho>Top 1 André Pinho</h1><ul><li><strong>Filme</strong>: <a href=http://www.imdb.com/title/tt0133093/>Matrix</a></li><li><strong>Música</strong>: <a href=http://www.last.fm/pt/music/Fresno/_/Poeira+Estelar>Fresno - Poeira
+Estelar</a></li></ul><h1 id=top-1-eduardo-cuducos>Top 1 Eduardo Cuducos</h1><ul><li><strong>Filme</strong>: <a href=http://www.imdb.com/title/tt0168629/>Dançando no Escuro (com
+Bjork)</a></li><li><strong>Música</strong>: <a href="http://www.last.fm/music/Bob+Dylan/_/Blowin'+in+the+Wind">Bob Dylan - Blowin'in the
+Wind</a></li><li><strong>Livro</strong>:
+<a href=http://www.goodreads.com/book/show/102030.Musashi>Musashi</a></li></ul><h1 id=top-1-turicas>Top 1 Turicas</h1><ul><li><strong>Filme</strong>: <a href=http://www.imdb.com/title/tt0133093/>Matrix</a></li><li><strong>Música</strong>:
+<a href=http://www.last.fm/music/John+Lennon/_/Imagine>Imagine</a></li><li><strong>Livro</strong>: <a href=https://www.goodreads.com/book/show/22800567-fluent-python>Python
+Fluente</a></li></ul><h1 id=agradecimentos>Agradecimentos</h1><ul><li><a href=http://karlamagueta.com>Karla Magueta</a> pelo apoio durante as gravações e também pelas fotos.</li></ul><h1 id=links>Links</h1><ul><li><a href=http://2016.pythonbrasil.org.br/>Python Brasil 12</a></li><li><a href=https://www.catarse.me/serenata>Operação Serenata de Amor</a></li><li><a href=https://github.com/turicas/rows>rows</a></li><li><a href=https://www.youtube.com/user/Turicas>turicas</a></li></ul><div class="alert alert-info" role=alert><strong>Música</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 73: Python Brasil 12 - Parte 1" src=https://castalio.info/images/pybr-logo.png loading=lazy width=702 height=702 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-73-python-brasil-12-parte-1/>Episódio 73: Python Brasil 12 - Parte 1</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Nov 6, 2016
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende, Bruno Rocha
 </span><span class="post-reading-time d-block d-lg-inline" title="Tempo de Leitura"><i class="bi bi-clock-fill"></i>
-2 minutos</span></div><p class="card-text post-summary"><div class=document><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje trazemos um episódio diferente pois fizemos algumas
-entrevistas ao vivo durante a <a class="reference external" href=http://2016.pythonbrasil.org.br/>Python Brasil 12</a>. Foram um total de 4
-entrevistas que você irá conferir neste espisódio e no próximo, duas por
-episódio.</p><p>As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, isso mesmo,
+2 minutos</span></div><p class="card-text post-summary"><p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p><p>No episódio de hoje trazemos um episódio diferente pois fizemos algumas
+entrevistas ao vivo durante a <a href=http://2016.pythonbrasil.org.br/>Python Brasil
+12</a>. Foram um total de 4 entrevistas que você
+irá conferir neste espisódio e no próximo, duas por episódio.</p><p>As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, isso mesmo,
 agora o Bruno Rocha está participando conosco no Castálio! O Og infelizmente
-não estava presente nas entrevistas ao vivo, mas está presente no episódio.</p></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 56: Splinter" src=https://castalio.info/images/castalio5FkGWm.png loading=lazy width=1440 height=2071 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-56-splinter/>Episódio 56: Splinter</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
+não estava presente nas entrevistas ao vivo, mas está presente no episódio.</p><p>Começamos a nossa série de entrevistas rápidas com o Mário Sergio, o Big Kahuna
+da Python Brasil 12 que foi realizada em Florianópolis, Santa Catarina. Ele nos
+conta sobre como foi organizar a Python Brasil, fala sobre alguns de seus
+projetos pessoais e também sobre algo que deseja muito fazer quando não está
+desenvolvendo.</p><div class=clearfix></div><p><img src=/images/pybr12-mario-sergio.jpg alt="Elyézer, Mário Sergio e Bruno Rocha na cafeteria da PythonBrasil[12]."></p><p>Em seguida falamos com a Naomi Ceder, que faz parte do conselho de
+administração da <a href=https://www.python.org/psf/>Python Software Foundation</a>. A
+entrevista foi realizada em inglês com algumas palinhas de Português falado
+pela Naomi. Conversamos sobre a diversidade da comunidade Python e como a
+Python Sofware Foundation ajuda nos eventos de Python ao redor do mundo. Também
+conversamos sobre o trabalho da Naomi e terceira edição do seu livro, <a href=https://www.goodreads.com/book/show/20351126-the-quick-python-book-second-edition>The
+Quick Python
+Book</a>,
+que está quase saindo.</p><p><img src=/images/pybr12-naomi-ceder.jpg alt="Elyézer, Naomi Ceder e Bruno Rocha na Sambaqui 3 (um dos auditórios da conferência)"></p><p>Você já deve estar se perguntando do Top 5. Bom, como foram entrevistas
+rápidas, não tivemos um Top 5 mas um Top 1 de cada participante. Não poderiamos
+de deixar de perguntar sobre o que os entrevistados gostam de ler, assistir e
+escutar, não é mesmo?</p><p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href=https://twitter.com/castaliopod>Twitter</a> ou
+<a href=https://www.facebook.com/castaliopod>Facebook</a>.</p><h1 id=contato-mário-sergio>Contato Mário Sergio</h1><ul><li><strong>Twitter</strong>: <a href=https://twitter.com/queirozMario21>https://twitter.com/queirozMario21</a></li><li><strong>Facebook</strong>: <a href=https://www.facebook.com/mariosergio.oliveira.75>https://www.facebook.com/mariosergio.oliveira.75</a></li><li><strong>Github</strong>: <a href=https://github.com/sergiomario>https://github.com/sergiomario</a></li></ul><h1 id=contato-naomi-ceder>Contato Naomi Ceder</h1><ul><li><strong>Site</strong>: <a href=https://learnpython.wordpress.com/>https://learnpython.wordpress.com/</a></li><li><strong>Twitter</strong>: <a href=https://twitter.com/NaomiCeder>https://twitter.com/NaomiCeder</a></li><li><strong>Facebook</strong>: <a href=https://www.facebook.com/naomi.r.ceder>https://www.facebook.com/naomi.r.ceder</a></li><li><strong>Github</strong>: <a href=https://github.com/nceder>https://github.com/nceder</a></li></ul><h1 id=escute-agora>Escute Agora</h1><div class=card><div class=card-body><div class="card-text podcast text-center"><iframe src=https://archive.org/embed/castalio-podcast-73 width=80% height=30 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen></iframe></div><div class="podcast-download text-center"><a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-73/castalio-podcast-73.mp3><i class="bi bi-download"></i> MP3</a>
+<a class="btn btn-primary btn-sm" href=https://archive.org/download/castalio-podcast-73/castalio-podcast-73.ogg><i class="bi bi-download"></i> OGG</a></div></div></div><h2>Top 1 Mário Sergio</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/book/show/65438.O_Ca_ador_de_Pipas target=_blank>O Caçador de Pipas</a></li></ol><h3>Filmes:</h3><ol><li><a href=https://www.imdb.com/title/tt0120689/ target=_blank>A Espera de um Milagre</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Legi%C3%A3o+Urbana target=_blank>Legião Urbana</a></li></ol><h2>Top 1 Naomi Ceder</h2><h3>Livros:</h3><ol><li><a href=https://www.goodreads.com/book/show/32326166-confessions-of-a-necromancer target=_blank>Confessions of a Necromancer</a></li></ol><h3>Músicas:</h3><ol><li><a href=https://www.last.fm/music/Florence+%252B+the+Machine target=_blank>Florence + the Machine</a></li></ol><h1 id=links>Links</h1><ul><li><a href=http://2016.pythonbrasil.org.br/>Python Brasil 12</a></li><li><a href=https://www.python.org/psf/>Python Software Foundation</a></li><li><a href=https://www.goodreads.com/book/show/20351126-the-quick-python-book-second-edition>The Quick Python Book</a></li><li><a href=http://bit.ly/protocolo_para_morrer>Um Protocolo para morrer - por Pieter Hintjens</a></li></ul><div class="alert alert-info" role=alert><strong>Música</strong>: <a href=http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll>Ain't Gonna Give Jelly
+Roll</a>
+by <a href=http://www.redhookramblers.com/>Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</div></p></div></div></div></article><article class="card mb-3"><div class="row g-0"><div class=col-md-4><img class="img-fluid rounded-start" alt="Episódio 56: Splinter" src=https://castalio.info/images/castalio5FkGWm.png loading=lazy width=1440 height=2071 style=width:400px></div><div class=col-md-8><div class=card-body><h2 class="card-title post-title"><a href=https://castalio.info/episodes/episodio-56-splinter/>Episódio 56: Splinter</a></h2><div class="post-meta overflow-auto"><span class="post-date d-block d-lg-inline" title=Data><i class="bi bi-calendar-date-fill"></i>
 Dec 7, 2014
 </span><span class="post-authors d-block d-lg-inline" title=Autores><i class="bi bi-person-fill"></i>
 Og Maciel, Elyézer Rezende

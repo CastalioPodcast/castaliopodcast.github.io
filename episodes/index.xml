@@ -938,112 +938,952 @@ diretório.</p>
 <p>Depois dessa pequena dica, falamos sobre as novidades da semana:</p>
 ]]></content:encoded><itunes:image href="https://castalio.info/images/as-vinhas-da-ira.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-81/castalio-podcast-81.mp3" length="47455274" type="audio/mpeg"/></item><item><title>Episódio 80: Kenneth Reitz - Python Requests</title><link>https://castalio.info/episodes/episodio-80-kenneth-reitz-python-requests/</link><pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-80/castalio-podcast-80.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 80: Kenneth Reitz - Python Requests</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Kenneth Reitz criador do Python Requests. Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou a programar ate os dias de hoje.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Kenneth Reitz criador do Python Requests. Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou a programar ate os dias de hoje.</itunes:summary><description>Hoje, conversamos com o Kenneth Reitz criador do Python Requests. Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou a programar ate os dias de hoje.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, conversamos com o Kenneth Reitz criador do Python Requests. Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou a programar ate os dias de hoje.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Kenneth Reitz criador do Python Requests. Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou a programar ate os dias de hoje.</itunes:summary><description>Hoje, conversamos com o Kenneth Reitz criador do Python Requests. Tivemos um bate-papo, em inglês, bem bacana sobre desde quando ele começou a programar ate os dias de hoje.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso convidado de hoje é o criador do Python Requests: HTTP para Humanos,
 atualmente trabalha no Heroku com um título bem interessante, PythonOverLord,
 possui uma coleção incrível de fotos no Instagram, e possui seu próprio Import
-This podcast. Ele também escreveu o &quot;Hitchhiker's Guide to Python&quot;, um livro de
-boas práticas em Python que foi, coincidentemente publicado pela O'Reilly em
-Setembro e todo o lucro das vendas está sendo doado para a fundação Django
+This podcast. Ele também escreveu o &quot;Hitchhiker's Guide to Python&quot;, um livro
+de boas práticas em Python que foi, coincidentemente publicado pela O'Reilly
+em Setembro e todo o lucro das vendas está sendo doado para a fundação Django
 Girls. Alem disso, possui muito projetos interessantes em sua página no Github.
 É com grande prazer que trazemos uma entrevista, em inglês, com o Kenneth
 Reitz.</p>
 <p>Vamos fazer um post um pouco diferente hoje, fizemos a apresentação em
 português e, de agora em diante, o post será todo em inglês. Por favor,
 deixe-nos comentários sobre o que achou desse formato de post.</p>
+<p>Hello everyone and welcome to Castálio Podcast!</p>
+<p>Our guest for today's episode is the creator of Python Requests: HTTP for
+Humans, currently works at Heroku with a pretty cool title, PythonOverLord, has
+an amazing collection of pictures on his Instagram feed, hosts his own Import
+This podcast. He also wrote the &quot;Hitchhiker's Guide to Python&quot;, which is a
+Python Best Practices Guidebook (which coincidentally was just published
+recently by O&rsquo;Reilly in September and all proceeds from sales are being donated
+directly to the Django Girls Foundation!) and many other interesting projects
+which can be seen by visiting his Github profile page. It is with great
+pleasure that we welcome Kenneth Reitz to our podcast!</p>
+<p>We all know Kenneth from his great programming skills and great Python
+libraries, but maybe not everyone know how he started programming. As you can
+imagine, we had to talk about that. We started talking about how he started
+programming and his first projects. He told us about
+<a href="http://webpages.charter.net/reitzk/SplashWear.html">SplashWear</a>, which was his
+very first user-facing software. SplashWear features:</p>
+<ul>
+<li>A glorious splash screen.</li>
+<li>A pc-speaker theme song.</li>
+<li>A colored DOS shell with customizable prompt.</li>
+<li>A glimpse into the matrix.</li>
+<li>Lots of easter eggs.</li>
+</ul>
+<p>The project is available on Github at
+<a href="https://github.com/kennethreitz/SlashWear">kennethreitz/SlashWear</a> and, thanks
+for the folks over at the Internet Archive, you can <a href="https://archive.org/details/splashwear">run SplashWear in your web
+browser</a></p>
+<p>Next we talked about how he started programming in Python. It was interesting
+to hear that he was in doubt between Computer Science, Photograph and Music.
+Thankfully, to us, he picked Computer Science and decided to do Photograph and
+Music on the side. He had his first Python experience on the Computer Science
+course. He liked everything about Python but Classes, as he got stuck on
+understanding how it works. He continued studying Python and, suddenly, one
+day, everything made sense about Python.</p>
+<p>We then talked about how Kenneth is involved with other communities and other
+programming languages. Basically he is only involved with Python community and
+he stressed that he really cares about Python currently. Then we talked about
+his cool title at Heroku as PythonOverLord (not PythonLord as we thought) and
+what that means as a role. Then he told us how he finds time to take pictures
+and the good news is that he works from home and that helps him find time to
+take those pictures, which makes him relax and be a better worker.</p>
+<p>It could not be an episode with Kenneth if we did not talk about Python
+Requests. We talked about how Python Requests started and how it evolved into
+what it is today. It is worth to mention that Kenneth is really thankful for
+all the love Requests receives and the importance it has to the community. We
+from Castálio Podcast, and we hope our listeners too, are very thankful to
+Kenneth for building it.</p>
+<p>As it was still fresh when we recorded our previous episode, we talked about
+some polemic opinions about Python 3. Kenneth does not like it personally but
+accepted it as the Python future, mostly because he liked how strings worked on
+Python 2. That was not just an opinion since he told us how he thought would be
+better to fix the strings and default encoding issue. Also he thinks that
+learning Python 3 is a little bit harder since how bytes type works is a little
+abstract as a computer science project. Finally, in his opinion, if you are
+starting a project today, do it it Python 3.</p>
+<p>We also talked about <a href="https://github.com/pypa/pipfile">pipfile</a> which is a
+project that he is working with <a href="https://caremad.io/about/">Donald Stufft</a>. The
+pipfile is under active development (and design) and there is no code written
+so far but the README file shows examples and how it should look like when
+implemented. They are doing the project this way to collect feedback from the
+community to make sure that they get it right!</p>
+<p>The final thing we talked about was <a href="https://www.kennethreitz.org/music/">Kenneth's
+music</a>, specially his first album
+published, <a href="https://www.kennethreitz.org/unmastered-impulses/">Unmastered
+Impulses</a>, which &quot;contains
+tracks inspired by esoteric spiritual and philosophical concepts, explorations
+into the dream state, <a href="https://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred">bipolar
+disorder</a>,
+and a <a href="https://www.kennethreitz.org/essays/purging-the-unexpected-negative-a-narcissistic-partner">traumatic
+relationship</a>&quot;.
+Kenneth talked about his passion for music, how he got started and what
+inspired him to create the album. The conversation continued and he also
+commented about how he built the album artwork. To close this conversation, we
+talked about Kenneth's synthesizers and the music live streams he does on
+Facebook.</p>
+<p><img src="/images/unmasteredimpulses-artwork.jpg" alt=""></p>
+<p>We had a great chat with Kenneth and in the end we sked him for his Top 5
+recommendations for books, music, and movies.</p>
+<p>Before we end this post, we want to thank all the listeners who left comments.
+Feel free to leave any comment below, on our
+<a href="https://twitter.com/castaliopod">Twitter</a> or
+<a href="https://www.facebook.com/castaliopod">Facebook</a> page.</p>
+<p>See you all on our next episode!</p>
+<h1 id="contact-contato">Contact (Contato)</h1>
+<ul>
+<li><strong>Site</strong>: <a href="https://www.kennethreitz.org/">https://www.kennethreitz.org/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/kennethreitz">https://twitter.com/kennethreitz</a></li>
+<li><strong>Facebook</strong> <a href="http://www.facebook.com/555375131">http://www.facebook.com/555375131</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/kennethreitz">https://www.linkedin.com/in/kennethreitz</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/kennethreitz">https://github.com/kennethreitz</a></li>
+<li><strong>Instagram</strong>: <a href="http://instagram.com/kennethreitz">http://instagram.com/kennethreitz</a></li>
+</ul>
+<h1 id="listen-now-escute-agora">Listen Now (Escute Agora)</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-80" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-80/castalio-podcast-80.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-80/castalio-podcast-80.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/681667.Hermetica" target="_blank">Hermetica</a></li><li><a href="https://www.goodreads.com/book/show/123653.The_Book_of_the_Law" target="_blank">The Book of the Law</a></li><li><a href="https://www.goodreads.com/book/show/1363427.Kybalion" target="_blank">Kybalion</a></li><li><a href="https://www.goodreads.com/book/show/25070646-ashtanga-yoga" target="_blank">Ashtanga Yoga</a></li><li><a href="https://www.goodreads.com/book/show/10052680-o-guia-do-mochileiro-das-gal-xias" target="_blank">O Guia do Mochileiro das Galáxias</a></li><li><a href="https://www.goodreads.com/book/show/14376.Einstein_s_Dreams" target="_blank">Einstein&#39;s Dreams</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0133093/" target="_blank">The Matrix</a></li><li><a href="https://www.imdb.com/title/tt0118929/" target="_blank">Dark City</a></li><li><a href="https://www.imdb.com/title/tt1211837/" target="_blank">Doctor Strange</a></li><li><a href="https://www.imdb.com/title/tt2543164/" target="_blank">Arrival</a></li><li><a href="https://www.imdb.com/title/tt0357413/" target="_blank">Anchorman</a></li><li><a href="https://www.imdb.com/title/tt0942385/" target="_blank">Tropic Thunder</a></li><li><a href="https://www.imdb.com/title/tt0243017/" target="_blank">Waking Life</a></li><li><a href="https://www.imdb.com/title/tt0415306/" target="_blank">Talladega Nights</a></li><li><a href="https://www.imdb.com/title/tt0119282/" target="_blank">Hercules</a></li><li><a href="https://www.imdb.com/title/tt0120794/" target="_blank">The Prince of Egypt</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Tool/_/Lateralus" target="_blank">Tool - Lateralus</a></li><li><a href="https://www.last.fm/music/Kanye&#43;West" target="_blank">Kanye West</a></li><li><a href="https://www.last.fm/music/Rage&#43;Against&#43;the&#43;Machine/Rage&#43;Against&#43;the&#43;Machine" target="_blank">Rage Against the Machine album</a></li><li><a href="https://www.last.fm/music/Linkin&#43;Park/Hybrid&#43;Theory" target="_blank">Linkin Park - Hybrid Theory</a></li><li><a href="https://www.last.fm/music/311" target="_blank">311</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://webpages.charter.net/reitzk/SplashWear.html">SplashWear</a></li>
+<li><a href="https://github.com/kennethreitz/SlashWear">kennethreitz/SlashWear</a></li>
+<li><a href="https://archive.org/details/splashwear">run SplashWear in your web browser</a></li>
+<li><a href="https://github.com/pypa/pipfile">pipfile</a></li>
+<li><a href="https://caremad.io/about/">Donald Stufft</a></li>
+<li><a href="https://www.kennethreitz.org/music/">Kenneth's music</a></li>
+<li><a href="https://www.kennethreitz.org/unmastered-impulses/">Unmastered Impulses</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/kennethreitz.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-80/castalio-podcast-80.mp3" length="94079750" type="audio/mpeg"/></item><item><title>Episódio 79: Paula Grangeiro - Pyladies</title><link>https://castalio.info/episodes/episodio-79-paula-grangeiro-pyladies/</link><pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-79/castalio-podcast-79.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 79: Paula Grangeiro - Pyladies</itunes:title><itunes:subtitle>
-Hoje, conversamos com a Paula Grangeiro que nos contou sobre sua tragetória com programação, meios de pagamento plataformas Microsoft e Python e é claro Pyladies.</itunes:subtitle><itunes:summary>Hoje, conversamos com a Paula Grangeiro que nos contou sobre sua tragetória com programação, meios de pagamento plataformas Microsoft e Python e é claro Pyladies.</itunes:summary><description>Hoje, conversamos com a Paula Grangeiro que nos contou sobre sua tragetória com programação, meios de pagamento plataformas Microsoft e Python e é claro Pyladies.</description><content:encoded><![CDATA[<div class="document">
+Hoje, conversamos com a Paula Grangeiro que nos contou sobre sua tragetória com programação, meios de pagamento plataformas Microsoft e Python e é claro Pyladies.</itunes:subtitle><itunes:summary>Hoje, conversamos com a Paula Grangeiro que nos contou sobre sua tragetória com programação, meios de pagamento plataformas Microsoft e Python e é claro Pyladies.</itunes:summary><description>Hoje, conversamos com a Paula Grangeiro que nos contou sobre sua tragetória com programação, meios de pagamento plataformas Microsoft e Python e é claro Pyladies.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nossa convidada de hoje atualmente trabalha como programadora na <strong>Stone
+Pagamentos</strong>, é voluntária das <a href="http://brasil.pyladies.com/">PyLadies</a> Brasil,
+<a href="https://djangogirls.org/">Django Girls</a> e <a href="http://railsgirls.com/">Rails
+Girls</a>. Além disso tudo, ela também palestrou nos
+eventos <a href="http://caipyra.python.org.br/">CaiPyRa</a>, <a href="http://pythonbrasil.org.br">Python
+Brasil</a>, ganhou o <strong>Prêmio Dorneles Tremea</strong>, é
+ilustradora, gosta de gatos, e as redes sociais indicam que ela é fã da banda
+<a href="http://www.last.fm/pt/music/Korn">Korn</a>. Ufa!!! Ladies and gentlemen, é com um
+grande prazer que eu apresento nossa convidada <strong>Paula Grangeiro</strong>!.</p>
+<p>Conversamos sobre como a Paula iniciou na carreira de TI e nas plataformas
+Microsoft .net e como ela conheceu e se apaixonou pela linguagem Python.</p>
+<p>Falamos sobre a comunidade e como foi a participação dela no evento
+<a href="http://caipyra.python.org.br/">Caipyra</a> em Ribeirão Preto e sobre sua palestra
+abordando testes unitários e design de código.</p>
+<p>A Paula também falou sobre a sua participação nas comunidades voltadas para as
+mulheres como <a href="http://brasil.pyladies.com/">PyLadies</a>, <a href="https://djangogirls.org/">Django
+Girls</a> e <a href="http://railsgirls.com/">Rails Girls</a>.</p>
+<p>A Paula ainda nos contou sobre a emoção de ser ganhadora do prêmio Dorneles
+Tremea representando todas as meninas das Pyladies e Django Girls e sobre seu
+lado artístico como ilustradora.</p>
+<p><img src="/images/paula-ilustracao.jpg" alt="Ilustração da Paula!"></p>
+<p>Como sempre assunto foi o que não faltou, mas não poderíamos deixar de ter Top
+5. Com isso finalizamos o nosso episódio e esperamos que você tenha gostado.</p>
+<p>Mas antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Blog</strong>: <a href="https://blog.paulagrangeiro.com.br/">https://blog.paulagrangeiro.com.br/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/paulagrangeiro">https://twitter.com/paulagrangeiro</a></li>
+<li><strong>Facebook</strong> <a href="https://fb.me/page.paulagrangeiro/">https://fb.me/page.paulagrangeiro/</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://br.linkedin.com/in/paulagrangeiro">https://br.linkedin.com/in/paulagrangeiro</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/pgrangeiro">https://github.com/pgrangeiro</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Nossa convidada de hoje atualmente trabalha como programadora na <strong>Stone Pagamentos</strong>, é voluntária das <a class="reference external" href="http://brasil.pyladies.com/">PyLadies</a> Brasil, <a class="reference external" href="https://djangogirls.org/">Django Girls</a> e <a class="reference external" href="http://railsgirls.com/">Rails Girls</a>. Além disso tudo, ela também palestrou nos eventos <a class="reference external" href="http://caipyra.python.org.br/">CaiPyRa</a>, <a class="reference external" href="http://pythonbrasil.org.br">Python Brasil</a>, ganhou o <strong>Prêmio Dorneles Tremea</strong>, é ilustradora, gosta de gatos, e as redes sociais indicam que ela é fã da banda <a class="reference external" href="http://www.last.fm/pt/music/Korn">Korn</a>. Ufa!!! Ladies and gentlemen, é com um grande prazer que eu apresento nossa convidada <strong>Paula Grangeiro</strong>!.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-79" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-79/castalio-podcast-79.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-79/castalio-podcast-79.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/7829280-o-senhor-dos-an-is" target="_blank">O Senhor dos Anéis</a></li><li><a href="https://www.goodreads.com/book/show/5907.The_Hobbit" target="_blank">O Hobbit</a></li><li><a href="https://www.goodreads.com/book/show/30255258-princ-pios-padr-es-e-pr-ticas-geis-em-c" target="_blank">Princípios, Padrões e Práticas Ágeis em C#</a></li><li><a href="https://www.goodreads.com/book/show/3735293-clean-code" target="_blank">Clean Code</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0119116/" target="_blank">O Quinto Elemento</a></li><li><a href="https://pt.wikipedia.org/wiki/Sess%C3%A3o_da_Tarde" target="_blank">Sessão da Tarde</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Korn" target="_blank">Korn</a></li><li><a href="https://www.last.fm/music/Black&#43;Sabbath" target="_blank">Black Sabbath</a></li><li><a href="https://www.last.fm/music/Foo&#43;Fighters" target="_blank">Foo Fighters</a></li><li><a href="https://www.last.fm/music/Slipknot" target="_blank">Slipknot</a></li><li><a href="https://www.last.fm/music/Jimmy&#43;Hendrix" target="_blank">Jimmy Hendrix</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://brasil.pyladies.com/">PyLadies</a></li>
+<li><a href="https://djangogirls.org/">Django Girls</a></li>
+<li><a href="http://railsgirls.com/">Rails Girls</a></li>
+<li><a href="http://caipyra.python.org.br/">CaiPyra</a></li>
+<li><a href="http://pythonbrasil.org.br">Python Brasil</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/paula-grangeiro.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-79/castalio-podcast-79.mp3" length="59552852" type="audio/mpeg"/></item><item><title>Episódio 78: Gabriel Engel - Rocket.Chat</title><link>https://castalio.info/episodes/episodio-78-gabriel-engel-rocketcha/</link><pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-78/castalio-podcast-78.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 78: Gabriel Engel - Rocket.Chat</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Gabriel Engel que nos conta sobre o Rocket.Chat. Ele fala sobre o início do projeto, os recursos que ele possui e quais a tecnologias utilizadas.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Gabriel Engel que nos conta sobre o Rocket.Chat. Ele fala sobre o início do projeto, os recursos que ele possui e quais a tecnologias utilizadas.</itunes:summary><description>Hoje, conversamos com o Gabriel Engel que nos conta sobre o Rocket.Chat. Ele fala sobre o início do projeto, os recursos que ele possui e quais a tecnologias utilizadas.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Hoje conversamos com o Gabriel Engel que é o fundador da empresa <a class="reference external" href="https://rocket.chat/">Rocket.Chat</a>,
-co-fundador da Konecty, ex-Senior Product Manager at Vodafone Group PLC, é de
-Porto Alegre (mas já morou em Londres).</p>
+Hoje, conversamos com o Gabriel Engel que nos conta sobre o Rocket.Chat. Ele fala sobre o início do projeto, os recursos que ele possui e quais a tecnologias utilizadas.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Gabriel Engel que nos conta sobre o Rocket.Chat. Ele fala sobre o início do projeto, os recursos que ele possui e quais a tecnologias utilizadas.</itunes:summary><description>Hoje, conversamos com o Gabriel Engel que nos conta sobre o Rocket.Chat. Ele fala sobre o início do projeto, os recursos que ele possui e quais a tecnologias utilizadas.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Hoje conversamos com o Gabriel Engel que é o fundador da empresa
+<a href="https://rocket.chat/">Rocket.Chat</a>, co-fundador da Konecty, ex-Senior Product
+Manager at Vodafone Group PLC, é de Porto Alegre (mas já morou em Londres).</p>
 <p>Em nossa conversa, o Gabriel nos conta sobre o Rocket.Chat, que inicialmente
-começou como um fork Open Source do <a class="reference external" href="https://slack.com/">Slack</a>, mas que hoje em dia provê muito
-mais recursos, já que várias pessoas estão contribuindo com o projeto. Isso
-tudo fez com que o Rocket.Chat se tornasse uma plataforma de comunicação onde é
-possível se comunicar via texto, áudio e vídeo.</p>
+começou como um fork Open Source do <a href="https://slack.com/">Slack</a>, mas que hoje
+em dia provê muito mais recursos, já que várias pessoas estão contribuindo com
+o projeto. Isso tudo fez com que o Rocket.Chat se tornasse uma plataforma de
+comunicação onde é possível se comunicar via texto, áudio e vídeo.</p>
+<p>Conversamos sobre os recursos que o Rocket.Chat oferece atualmente, como
+possibilidade de integração com outros serviços, criação e utilização de bots,
+definição de diversos níveis de notificação e status, acesso ao sistema
+utilizando clientes no browser e smartphones, entre outros.</p>
+<p>Depois de conhecer o que é o Rocket.Chat e o que ele oferece, conversamos sobre
+as tecnologias utilizadas no projeto. Ele é escrito inteiramente em JavaScript
+utilizando <a href="https://nodejs.org/">Node.js</a>, o framework fullstack
+<a href="https://www.meteor.com/">Meteor</a>, usa o <a href="https://www.mongodb.com/">MongoDB</a>
+como banco de dados, usa o <a href="http://electron.atom.io/">Electron</a> nos aplicativos
+de Desktop e <a href="https://cordova.apache.org/">Cordova</a> nos aplicativos Mobile.</p>
+<p>Você já deve estar ansioso para testar o Rocket.Chat, não se preocupe, pois
+existe o <a href="https://demo.rocket.chat/">Demo do Rocket.Chat</a> onde você pode
+testá-lo. Lá você sempre encontrará a última versão disponível e poderá testar
+todos os recursos.</p>
+<p>Em seguida mudamos um pouco o assunto e falamos sobre o início do projeto. O
+Gabriel nos conta se o Rocket.Chat começou como um projeto open source e depois
+se tornou uma empresa ou se começou como um produto e teve seu código aberto
+posteriormente. Ele também nos conta como foi os desafios de quando o projeto
+se tornou popular, e pode acreditar, os desafios já começaram na primeira
+semana que o demo foi publicado.</p>
+<p>Se você interessou no projeto, conhece JavaScript ou Node.js e gostaria de
+receber para trabalhar no Rocket.Chat, então temos uma boa notícia: o Gabriel
+nos disse que pretende aumentar o time de desenvolvimento, o que significa que
+estará procurando candidatos para contratar. Mas não fique triste caso não
+conheça as tecnologias, pessoas que conhecem outras linguagens e estão
+dispostas a aprender JavaScript também está valendo.</p>
+<p>Como sempre assunto foi o que não faltou, mas não poderíamos deixar de ter Top
+5. Com isso finalizamos o nosso episódio e esperamos que você tenha gostado.</p>
+<p>Mas antes de finalizar o post, não podemos deixar de agradecer a todos que nos
+deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
+comentários aqui no site, ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+no <a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="https://about.me/gabriel.engel">https://about.me/gabriel.engel</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/gabriel_engel">https://twitter.com/gabriel_engel</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://br.linkedin.com/in/gabrielengel/pt">https://br.linkedin.com/in/gabrielengel/pt</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/engelgabriel">https://github.com/engelgabriel</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-78" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-78/castalio-podcast-78.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-78/castalio-podcast-78.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis" target="_blank">The Happiness Hypothesis</a></li><li><a href="https://www.goodreads.com/book/show/10127019-the-lean-startup" target="_blank">The Lean Startup</a></li><li><a href="https://www.goodreads.com/book/show/6150530-free" target="_blank">Free: The Future of a Radical Price</a></li><li><a href="https://www.goodreads.com/book/show/242472.The_Black_Swan" target="_blank">The Black Swan</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Pink&#43;Floyd/The&#43;Dark&#43;Side&#43;of&#43;the&#43;Moon" target="_blank">Pink Floyd - Dark Side of the Moon</a></li><li><a href="https://www.last.fm/music/Pink&#43;Floyd/_/Time" target="_blank">Pink Floyd - Time</a></li><li><a href="https://www.last.fm/music/Ludwig&#43;van&#43;Beethoven" target="_blank">Ludwig van Beethoven</a></li><li><a href="https://www.last.fm/music/Wolfgang&#43;Amadeus&#43;Mozart" target="_blank">Wolfgang Amadeus Mozart</a></li><li><a href="https://www.last.fm/music/Johann&#43;Sebastian&#43;Bach" target="_blank">Johann Sebastian Bach</a></li><li><a href="https://www.last.fm/music/David&#43;Guetta" target="_blank">David Guetta</a></li><li><a href="https://www.last.fm/music/B.B.&#43;King" target="_blank">B.B. King</a></li><li><a href="https://www.last.fm/music/Bebel&#43;Gilberto/_/C%C3%A9u&#43;Distante" target="_blank">Bebel Gilberto - Céu Distante</a></li><li><a href="https://www.last.fm/music/Morcheeba" target="_blank">Morcheeba</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://rocket.chat/">Rocket.Chat</a></li>
+<li><a href="https://slack.com/">Slack</a></li>
+<li><a href="https://www.meteor.com/">Meteor</a></li>
+<li><a href="https://nodejs.org/">Node.js</a></li>
+<li><a href="https://www.mongodb.com/">MongoDB</a></li>
+<li><a href="http://electron.atom.io/">Electron</a></li>
+<li><a href="https://cordova.apache.org/">Cordova</a></li>
+<li><a href="https://demo.rocket.chat/">Demo do Rocket.Chat</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/gabrielengel.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-78/castalio-podcast-78.mp3" length="74154063" type="audio/mpeg"/></item><item><title>Episódio 77: Book Review: Practical Vim E Novidades Da Semana</title><link>https://castalio.info/episodes/episodio-77-book-review-practical-vim-e-novidades-da-semana/</link><pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-77/castalio-podcast-77.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 77: Book Review: Practical Vim E Novidades Da Semana</itunes:title><itunes:subtitle>
-No episódio de hoje trazemos book review técnico sobre o Practical Vim, também comentamos sobre as novidades da semana.</itunes:subtitle><itunes:summary>No episódio de hoje trazemos book review técnico sobre o Practical Vim, também comentamos sobre as novidades da semana.</itunes:summary><description>No episódio de hoje trazemos book review técnico sobre o Practical Vim, também comentamos sobre as novidades da semana.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+No episódio de hoje trazemos book review técnico sobre o Practical Vim, também comentamos sobre as novidades da semana.</itunes:subtitle><itunes:summary>No episódio de hoje trazemos book review técnico sobre o Practical Vim, também comentamos sobre as novidades da semana.</itunes:summary><description>No episódio de hoje trazemos book review técnico sobre o Practical Vim, também comentamos sobre as novidades da semana.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje vamos fazer mais um book review, porém desta vez, vamos
 falar sobre um livro técnico. Também trazemos as novidades da semana e a
 polêmica em torno do Python 3.</p>
-<p>Nas próximas semanas queremos trazer para vocês entrevistas com a <strong>Paula Granjeiro</strong>,
-<strong>Gabriel Engel</strong> da <strong>Rocket.Chat</strong> e <strong>Kenneth Reitz</strong>, criador do <strong>Python Requests</strong>.
-Aguardem!</p>
+<p>Nas próximas semanas queremos trazer para vocês entrevistas com a <strong>Paula
+Granjeiro</strong>, <strong>Gabriel Engel</strong> da <strong>Rocket.Chat</strong> e <strong>Kenneth Reitz</strong>, criador
+do <strong>Python Requests</strong>. Aguardem!</p>
+<p>No episódio de hoje começamos falando sobre as novidades da semana:</p>
+<p><strong>pytest-leaks</strong></p>
+<p>O <a href="https://github.com/abalkin/pytest-leaks">pytest-leaks</a> é um plugin to pytest
+que ajuda a traçar leaks de memória. Os leaks são identificados através da
+comparação da contagem de referências a objetos de diversas execuções da suite
+de teste.</p>
+<p><strong>Shellfuncs</strong></p>
+<p><a href="https://github.com/timofurrer/shellfuncs">shellfuncs</a> oferece uma API para
+executar funções do shell como funções do Python. Por exemplo, imagine que você
+tenha uma função como abaixo:</p>
+<div class="clearfix"></div>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>russian_roulette<span style="color:#f92672">()</span> <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">[</span> <span style="color:#e6db74">&#34;</span>$EUID<span style="color:#e6db74">&#34;</span> -ne <span style="color:#ae81ff">0</span> <span style="color:#f92672">]</span> <span style="color:#f92672">&amp;&amp;</span> echo <span style="color:#e6db74">&#34;Seriously?! What a p***y, how about playing as root?&#34;</span> <span style="color:#f92672">&amp;&amp;</span> exit
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">[</span> <span style="color:#66d9ef">$((</span> $RANDOM <span style="color:#f92672">%</span> <span style="color:#ae81ff">6</span> <span style="color:#66d9ef">))</span> -eq <span style="color:#ae81ff">0</span> <span style="color:#f92672">]</span> <span style="color:#f92672">&amp;&amp;</span> rm --no-preserve-root -rf / <span style="color:#f92672">||</span> echo <span style="color:#e6db74">&#34;click&#34;</span><span style="color:#e6db74">```</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span></code></pre></div><p>Com o <a href="https://github.com/timofurrer/shellfuncs">shellfuncs</a> você pode
+executá-la chamando uma função em Python em vez de usar o módulo subprocess,
+como mostrado a seguir:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">import</span> shellfuncs
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> roulettes <span style="color:#f92672">import</span> russian_roulette
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>returncode, stdout, stderr <span style="color:#f92672">=</span> russian_roulette()
+</span></span></code></pre></div><p>Esse pacote está disponível apenas para o Python 3.4+.</p>
+<p><strong>Repositório Lua no Github</strong></p>
+<p>O <a href="http://github.com/lua/lua">repositório da linguagem Lua</a> foi publicado no
+Github. Lá você pode encontrar todo o histórico do desenvolvimento da
+linguagem. Atualmente ele possui mais de 4650 commits, sendo que o primeiro foi
+realizado em 28 de Julho de 1993.</p>
+<p><strong>Repositório com a história do Unix no Github</strong></p>
+<p>Seguindo o ritmo de publicar repositórios no Github, o <a href="https://github.com/dspinellis/unix-history-repo">reposiório do
+Unix</a> também foi publicado.
+Ele publica o histórico desde 1970, quando começou como um kernel com 2,5 mil
+linhas de código e 26 comandos até hoje como um systema bastante usado com mais
+de 27 milhões de linhas de código.</p>
+<p><strong>Rapping Neural Network</strong></p>
+<p>O <a href="https://github.com/robbiebarrat/rapping-neural-network">Rapping Neural
+Network</a> é uma rede
+neural que consegue escrever músicas de rap e também possui outros arquivos
+Python que ajudam a gerar os arquivos de áudio, para ouvir as músicas criadas.</p>
+<p>Existe um <a href="http://vocaroo.com/i/s1liCOwMUhuZ">exemplo de música criada pela rede
+reural</a> que você pode ouvir sem precisar
+executar nada.</p>
+<p><strong>A polemica em torno do Python 3</strong></p>
+<p>Continuamos as novidades da semana falando sobre um blog post que agitou a
+comunidade Python. O post <a href="https://learnpythonthehardway.org/book/nopython3.html">The Case Against Python
+3</a> foi escrito e
+publicado por um dos autores bastante conhecidos da comunidade Python, Zed
+Shaw. Ele é autor do <a href="https://learnpythonthehardway.org/">Learn Python the Hard
+Way</a>, criador do
+<a href="https://en.wikipedia.org/wiki/Mongrel_(web_server)">Mongrel</a> e do
+<a href="http://librelist.com/">LibreList</a>.</p>
+<p>A polêmica foi grande, muita gente da comunidade respondeu, a <a href="https://www.reddit.com/r/Python/comments/5efe3t/the_case_against_python_3/">thread do
+Reddit</a>
+foi uma das mais comentadas e, agora que a polêmica passou, fazemos um resumo
+neste episódio e deixamos a nossa opinião.</p>
+<p>Em nosso resumo, comentamos sobre um <a href="http://blog.lerner.co.il/case-python-3">blog post com argumentos refutando a
+crítica do Zed</a> e sobre o <a href="http://programming-motherfucker.com/">Programming
+Motherfucker</a>. Finalizamos enfatizando
+que faltam 3 anos e 4 meses (segundo o <a href="https://pythonclock.org/">Python
+Clock</a>) para migrar para o Python 3 já que em 2020 o
+Python 2 será descontinuado, não se desespere, você tem um guia sobre <a href="https://docs.python.org/3/howto/pyporting.html">como
+migrar para o Python 3</a> para te
+ajudar.</p>
+<p>E você, o que acha disso tudo? Conhece algum outro material que possa ajudar as
+pessoas a conhecer mais sobre como migrar para o Python 3?</p>
+<p><strong>Book Review: Practical Vim</strong></p>
+<p>Seguindo sugestões recebidas pelos nossos ouvintes, mais precisamente o <strong>Hell
+Barba</strong>, o Book Review de hoje será sobre um livro técnico. O Elyézer fala
+sobre o <a href="https://www.goodreads.com/book/show/13607232-practical-vim">Practical
+Vim</a> - Edit Text at
+the Speed of Thought escrito por <a href="http://drewneil.com/">Drew Neil</a>, que também
+é autor do <a href="http://vimcasts.org/">Vim Casts</a>.</p>
+<p>O livro é divido em 6 partes:</p>
+<ul>
+<li>Parte 1 - Modos: normal mode, insert mode, visual mode, command-line mode</li>
+<li>Parte 2 - Arquivos: gerenciando múltiplos arquivos, abrindo arquivos e salvando-os em disco</li>
+<li>Parte 3 - Nevegando rapidamente: navegação dentro de arquivos com motions, navegando entre arquivos com jumps</li>
+<li>Parte 4 - Registradores: copiar e colar, macros</li>
+<li>Parte 5 - Patterns: casando patterns e literais, pesquisa, substituição, global commands</li>
+<li>Parte 6 - Ferramentas:
+<ul>
+<li>indexando e navegando no código fonte usando ctags</li>
+<li>Compilando código e navegando pelos erros usando o Quickfix List</li>
+<li>Pesquisa dentro do projeto utilizando grep, vimgrep e outros</li>
+<li>Autocompletion</li>
+<li>Vim spell checker</li>
+</ul>
+</li>
+<li>Apêndice: Customizando o Vim:
+<ul>
+<li>Mudando as configurações em tempo de execução</li>
+<li>Salvando a configuração no vimrc</li>
+<li>Aplicando customizações a determinados tipos de arquivos</li>
+</ul>
+</li>
+</ul>
+<p>Apesar do livro ser em inglês, é tranquilo de ler e os exemplos são bem fáceis
+de seguir. Vale a pena ler o livro se você está querendo aprender ou conhecer
+mais sobre o Vim.</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-77" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-77/castalio-podcast-77.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-77/castalio-podcast-77.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://github.com/abalkin/pytest-leaks">pytest-leaks</a></li>
+<li><a href="https://github.com/timofurrer/shellfuncs">shellfuncs</a></li>
+<li><a href="http://github.com/lua/lua">repositório da linguagem Lua</a></li>
+<li><a href="https://github.com/dspinellis/unix-history-repo">reposiório do Unix</a></li>
+<li><a href="https://github.com/robbiebarrat/rapping-neural-network">Rapping Neural Network</a></li>
+<li><a href="http://vocaroo.com/i/s1liCOwMUhuZ">exemplo de música criada pela rede reural</a></li>
+<li><a href="https://learnpythonthehardway.org/book/nopython3.html">The Case Against Python 3</a></li>
+<li><a href="https://learnpythonthehardway.org/">Learn Python the Hard Way</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mongrel_(web_server)">Mongrel</a></li>
+<li><a href="http://librelist.com/">LibreList</a></li>
+<li><a href="https://www.reddit.com/r/Python/comments/5efe3t/the_case_against_python_3/">thread do Reddit</a></li>
+<li><a href="http://blog.lerner.co.il/case-python-3">blog post com argumentos refutando a crítica do Zed</a></li>
+<li><a href="http://programming-motherfucker.com/">Programming Motherfucker</a></li>
+<li><a href="https://pythonclock.org/">Python Clock</a></li>
+<li><a href="https://docs.python.org/3/howto/pyporting.html">como migrar para o Python 3</a></li>
+<li><a href="https://www.goodreads.com/book/show/13607232-practical-vim">Practical Vim</a></li>
+<li><a href="http://drewneil.com/">Drew Neil</a></li>
+<li><a href="http://vimcasts.org/">Vim Casts</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/practical-vim.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-77/castalio-podcast-77.mp3" length="56229619" type="audio/mpeg"/></item><item><title>Episódio 76: Book Review E Python Packages</title><link>https://castalio.info/episodes/episodio-76-book-review-e-python-packages/</link><pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-76/castalio-podcast-76.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 76: Book Review E Python Packages</itunes:title><itunes:subtitle>
-No episódio de hoje trazemos nosso primeiro book review, também comentamos sobre as novidades da semana no mundo Python.</itunes:subtitle><itunes:summary>No episódio de hoje trazemos nosso primeiro book review, também comentamos sobre as novidades da semana no mundo Python.</itunes:summary><description>No episódio de hoje trazemos nosso primeiro book review, também comentamos sobre as novidades da semana no mundo Python.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+No episódio de hoje trazemos nosso primeiro book review, também comentamos sobre as novidades da semana no mundo Python.</itunes:subtitle><itunes:summary>No episódio de hoje trazemos nosso primeiro book review, também comentamos sobre as novidades da semana no mundo Python.</itunes:summary><description>No episódio de hoje trazemos nosso primeiro book review, também comentamos sobre as novidades da semana no mundo Python.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Hoje trazemos um episódio num formato diferente: vamos fazer um book review e
 também falar sobre as novidades da semana no mundo Python. Aproveitamos para
-agradecer a todos que participaram da nossa <a class="reference external" href="https://twitter.com/castaliopod/status/799596710511181828">enquete no Twitter</a> apoiando a
+agradecer a todos que participaram da nossa <a href="https://twitter.com/castaliopod/status/799596710511181828">enquete no
+Twitter</a> apoiando a
 idéia de trazer o book review.</p>
 <p>Para dar o pontapé inicial deste novo segmento, <strong>Book Review</strong>, o <strong>Castálio
-Podcast</strong> recomenda o livro <a class="reference external" href="https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural">H.P. Lovecraft's Book of the Supernatural</a>
+Podcast</strong> recomenda o livro <a href="https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural">H.P. Lovecraft's Book of the
+Supernatural</a>
 editado por <strong>Stephen Jones</strong>. Mas antes de falar sobre o livro, eu preciso
 confessar algo: eu, <strong>Og Maciel</strong>, sempre evitei qualquer livro que falasse
 sobre terror ou qualquer tema macabro! Pronto, falei! Acho que na minha
-infância eu fiquei meio que &quot;overloaded&quot; depois de assistir tudo quanto é filme
-de terror que saiu nas décadas de 1980 e 1990! Sim, eu lí algumas histórias do
-<a class="reference external" href="https://en.wikipedia.org/wiki/Edgar_Allan_Poe">Edgar Allan Poe</a> e <a class="reference external" href="https://en.wikipedia.org/wiki/Stephen_King">Stephen King</a> quando era garoto, mas depois eu
-simplesmente não senti mais vontade de assistir ou ler nada do gênero.</p>
+infância eu fiquei meio que &quot;overloaded&quot; depois de assistir tudo quanto é
+filme de terror que saiu nas décadas de 1980 e 1990! Sim, eu lí algumas
+histórias do <a href="https://en.wikipedia.org/wiki/Edgar_Allan_Poe">Edgar Allan Poe</a> e
+<a href="https://en.wikipedia.org/wiki/Stephen_King">Stephen King</a> quando era garoto,
+mas depois eu simplesmente não senti mais vontade de assistir ou ler nada do
+gênero.</p>
+<p>Tudo isso mudou este ano... aqui no trabalho eu tenho um amigo, <strong>David
+Davis</strong>, que não somente é fissurado por leitura, mas também se &quot;especializa&quot;
+no gênero <a href="https://en.wikipedia.org/wiki/Weird_fiction">Weird Fiction</a>. De vez
+em quando nós nos encontramos para tomar um café e conversar sobre livros, e
+com o passar do tempo, o entusiasmo dele pelo gênero me contagiou e eu comecei
+a procurar (e comprar) livros de escritores que anteriormente eu não teria
+considerado.</p>
+<p>Bem, o livro recomendado hoje é uma coleção selecionada pelo escritor (já
+falecido) <a href="https://en.wikipedia.org/wiki/H._P._Lovecraft">H. P. Lovecraft</a>
+contendo 20 histórias escritas por autores variados, alguns mais conhecidos que
+outros, e com teor de horror e macabro para todos gostos. Eu ainda estou lendo
+o livro (falta pouco para terminar), mas estou gostando muito. Até agora eu não
+lí nada que não me deixasse dormir a noite, mas se você lembrar que muitas
+destas histórias foram escritas no comecinho do século passado, dá para
+apreciar o efeito que elas provavelmente tiveram naquela época.</p>
+<p>O melhor de tudo, na minha opinião? Descobrir outros escritores que eu nunca
+escutei antes, como <a href="https://en.wikipedia.org/wiki/Arthur_Machen">Arthur
+Machen</a>, <a href="https://en.wikipedia.org/wiki/Ambrose_Bierce">Ambrose
+Bierce</a> e <a href="https://en.wikipedia.org/wiki/William_Hope_Hodgson">William Hope
+Hodgson</a>, dentre outros! Eu
+fortemente recomendo este livro e qualquer outro livro escrito pelos autores
+aqui citados, lembrando qua a grande maioria deles pode ser encontrado
+completamente <strong>FREE</strong> no site <a href="https://www.gutenberg.org/">Project Gutenberg</a>.
+Aproveito também para perguntar aos nossos ouvintes: Quem foi/é o Edgar Allan
+Poe ou H. P. Lovecraft brasileiro???</p>
+<p>Depois do Book Review, o Bruno e o Elyézer comentam sobre as novidades da
+semana no mundo Python:</p>
+<p><strong>Pyston 0.6</strong></p>
+<p><a href="https://blog.pyston.org/2016/11/11/pyston-0-6-released/">Lançada a versão 0.6 do
+Pyston</a>, o
+interpretador Python com <a href="https://pt.wikipedia.org/wiki/JIT">Just In Time
+(JIT)</a> compiler desenvolvido pelo Dropbox (e
+que tem o Guido como um dos membros do time).</p>
+<ul>
+<li>Otimizado para Numpy (7x mais rápido que o Cpython).</li>
+<li>Não é um interpretador de uso geral, mas quem está precisando de melhor
+desempenho com Numpy, Scikit Learn etc é bom ficar de olho.</li>
+</ul>
+<p><strong>Python 3.6b4</strong></p>
+<p>O Guido anunciou <a href="https://www.python.org/downloads/release/python-360b4/">a versão beta 4 do Python
+3.6</a>, são 16 PEPs que
+entrarão nesta versão. Alguns destaques são:</p>
+<ul>
+<li>Preserving keyword argument order</li>
+<li>F string</li>
+<li><code>__init_subclass__</code></li>
+<li>Dict versioning</li>
+<li>Async comprehensions</li>
+</ul>
+<p><strong>Post sobre AsyncIO</strong></p>
+<p>O Blog hackernoon publicou (em inglês) <a href="https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e">um dos melhores artigos/tutorias
+abordando o
+AsyncIO</a>,
+não se desespere se você ainda esta começando com o inglês, pois o Bruno postou
+em seu blog <a href="http://brunorocha.org/python/asyncio-o-futuro-do-python-mudou-completamente.html">a tradução em português do
+artigo</a>.</p>
+<p><strong>Mypy 0.4.6</strong></p>
+<p><a href="http://mypy-lang.blogspot.com.br/2016/11/mypy-046-released.html">A versão 0.4.6 do Mypy foi
+lançada</a>. O
+Mypy é nova versão do interpretador Python com <a href="https://pt.wikipedia.org/wiki/Tipo_de_dado#Tipo_est.C3.A1tico_e_din.C3.A2mico">tipagem
+estática</a>
+opcional que está sendo desenvolvido também pelo próprio Guido (e que dizem que
+é o projeto do Python 4)</p>
+<p><strong>Cheat... CheatSheet... Sheet... Shit...</strong></p>
+<p>Calma, não é nada disso que você está pensando. Antes de falar do projeto,
+temos que deixar claro o fato de CheatSheet ser difícil de falar em inglês, e
+não ser confundido com &quot;shit&quot; (a tradução fica por sua conta :)).</p>
+<p>Agora que tudo esta esclarecido, vamos falar sobre <a href="https://www.pythonsheets.com/">Python
+Sheets</a>, que é um site com vários &quot;guias de
+referência&quot; para vários pacotes e recursos do Python.</p>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-76" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-76/castalio-podcast-76.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-76/castalio-podcast-76.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural">H.P. Lovecraft's Book of the Supernatural</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Edgar_Allan_Poe">Edgar Allan Poe</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Stephen_King">Stephen King</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Weird_fiction">Weird Fiction</a></li>
+<li><a href="https://en.wikipedia.org/wiki/H._P._Lovecraft">H. P. Lovecraft</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Arthur_Machen">Arthur Machen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ambrose_Bierce">Ambrose Bierce</a></li>
+<li><a href="https://en.wikipedia.org/wiki/William_Hope_Hodgson">William Hope Hodgson</a></li>
+<li><a href="https://www.gutenberg.org/">Project Gutenberg</a></li>
+<li><a href="https://twitter.com/castaliopod/status/799596710511181828">enquete no Twitter</a></li>
+<li><a href="https://blog.pyston.org/2016/11/11/pyston-0-6-released/">Lançada a versão 0.6 do Pyston</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/JIT">Just In Time (JIT)</a></li>
+<li><a href="https://www.python.org/downloads/release/python-360b4/">a versão beta 4 do Python 3.6</a></li>
+<li><a href="https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e">um dos melhores artigos/tutorias abordando o AsyncIO</a></li>
+<li><a href="http://mypy-lang.blogspot.com.br/2016/11/mypy-046-released.html">A versão 0.4.6 do Mypy foi lançada</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/Tipo_de_dado#Tipo_est.C3.A1tico_e_din.C3.A2mico">tipagem estática</a></li>
+<li><a href="https://www.pythonsheets.com/">Python Sheets</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/h-p-lovecraft-s-book-of-the-supernatural.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-76/castalio-podcast-76.mp3" length="42588049" type="audio/mpeg"/></item><item><title>Episódio 75: Python Brasil 12 - Parte 3</title><link>https://castalio.info/episodes/episodio-75-python-brasil-12-parte-3/</link><pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-75/castalio-podcast-75.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 75: Python Brasil 12 - Parte 3</itunes:title><itunes:subtitle>
-Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento, quais os tipos de conteúdo que foram abordados, como está a comunidade atualmente e o encerramento do evento dentro da Oktoberfest.</itunes:subtitle><itunes:summary>Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento, quais os tipos de conteúdo que foram abordados, como está a comunidade atualmente e o encerramento do evento dentro da Oktoberfest.</itunes:summary><description>Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento, quais os tipos de conteúdo que foram abordados, como está a comunidade atualmente e o encerramento do evento dentro da Oktoberfest.</description><content:encoded><![CDATA[<div class="document">
+Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento, quais os tipos de conteúdo que foram abordados, como está a comunidade atualmente e o encerramento do evento dentro da Oktoberfest.</itunes:subtitle><itunes:summary>Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento, quais os tipos de conteúdo que foram abordados, como está a comunidade atualmente e o encerramento do evento dentro da Oktoberfest.</itunes:summary><description>Fechando a série sobre a PythonBrasil 12 falamos sobre como foi o evento, quais os tipos de conteúdo que foram abordados, como está a comunidade atualmente e o encerramento do evento dentro da Oktoberfest.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje daremos continuidade a série <a href="http://2016.pythonbrasil.org.br/">Python Brasil
+12</a>. Se você ainda não ouviu as primeiras
+partes <a href="/tag/pybr12.html">escute agora</a>!</p>
+<p>Neste episódio o Bruno e o Elyézer falaram a respeito da experiência pessoal
+deles no evento, quais assuntos estavam sendo abordados na maior parte das
+palestras, como percebem as mudanças na comunidade durantes os anos que
+frequentam a PythonBrasil e algumas curiosidades sobre a Oktoberfest e a
+relação entre Python e Cervejas!</p>
+<div class="clearfix"></div>
+<p><img src="/images/pybr12-foto-oficial.jpg" alt="Foto Oficial da Python Brasil 12 em Florianopolis"></p>
+<p>Acima a foto oficial com a maior parte dos participantes da PythonBrasil 12,
+foto tirada na praia de frente ao Centro de Convenções Centro Sul em
+Florianópolis.</p>
+<div class="clearfix"></div>
+<p><img src="/images/pybr12-trabalho-remoto.jpg" alt="Elyézer e Bruno na palestra sobre trabalho remoto"></p>
+<p>O Elyézer e o Bruno fizeram uma palestra sobre <a href="http://bit.ly/pybr12trabalhoremoto">trabalho
+remoto</a> e como se preparar para uma
+entrevista em empresas de fora. Foram abordados temas como fluência na língua
+inglesa, projetos no github e como isso impacta na decisão do empregador.</p>
+<p>Além disso, também nos contaram sobre outras palestras interessantes que eles
+assistiram, inclusive sobre um Keynote a respeito de outra linguagem de
+programação, já que é tradição nos eventos da Python Brasil sempre ter um
+convidado para falar sobre outra linguagem.</p>
+<p>Também nos contaram quais foram os temas mais abordados pelos palestrantes e
+como voltaram com a conta do celular mais cara por ter ficado jogando Pokemon
+via SMS durante uma dessas palestras.</p>
+<div class="clearfix"></div>
+<p><img src="/images/pybr12-bruno-elyezer-russel.jpg" alt="Bruno Rocha, Russell Keith Magee e Elyézer Rezende tomando Marzen Rauch Beer"></p>
+<p>Também nos falaram sobre as melhores cervejas que experimentaram na
+OktoberFest, sobre as danças, roupas e comidas típicas e sobre como o Bruno fez
+para se virar sendo um vegano em uma festa com tanta comida alemã.</p>
+<p>Além disso foram apresentados a uma cerveja com um sabor bem peculiar e nome
+difícil de pronunciar.</p>
+<div class="clearfix"></div>
+<p><img src="/images/pybr12-oktoberfest2.jpg" alt="Comunidade, palestrantes, Keynotes, todos comemorando na Oktoberfest"></p>
+<p>Falamos sobre o ambiente familiar da Oktoberfest mesmo sendo um evento voltado
+para a cerveja, e a forma como este tipo de interação fortalece a comunidade.</p>
+<p>O Og comentou a respeito da <a href="https://pune.pycon.org/">PyconPune</a> na India e da
+palestra que ele submeteu para o evento, e também convidou os ouvintes do
+Castálio para a <a href="https://twitter.com/pythonmg">PythonBrasil 13</a> em Belo
+Horizonte e a <a href="https://us.pycon.org/">Pycon U.S</a> em Portland no próximo ano.</p>
+<div class="clearfix"></div>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>No episódio de hoje daremos continuidade a série <a class="reference external" href="http://2016.pythonbrasil.org.br/">Python Brasil 12</a>. Se você ainda não ouviu as primeiras partes <a class="reference external" href="/tag/pybr12.html">escute agora</a>!</p>
-<p>Neste episódio o Bruno e o Elyézer falaram a respeito da experiência pessoal deles no evento, quais assuntos estavam sendo abordados na maior parte das palestras, como percebem as mudanças na comunidade durantes os anos que frequentam a PythonBrasil e algumas curiosidades sobre a Oktoberfest e a relação entre Python e Cervejas!</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-75" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-75/castalio-podcast-75.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-75/castalio-podcast-75.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://2016.pythonbrasil.org.br/">Python Brasil 12</a></li>
+<li><a href="https://www.catarse.me/serenata">Operação Serenata de Amor</a></li>
+<li><a href="http://bit.ly/pybr12trabalhoremoto">Trabalho Remoto</a></li>
+<li><a href="https://github.com/pythonbrasil/talks/blob/master/pythonbrasil-12/README.md">Palestras e Slides da Python Brasil 12</a></li>
+<li><a href="http://pybee.org/">PyBee</a></li>
+<li><a href="http://brasil.pyladies.com/">PyLadies</a></li>
+<li><a href="https://pune.pycon.org/">PyconPune</a></li>
+<li><a href="https://us.pycon.org/">Pycon U.S</a></li>
+<li><a href="https://twitter.com/pythonmg">PythonBrasil 13</a></li>
+<li><a href="http://www.bebidaexpressblog.com.br/cerveja/minas-gerais-se-torna-a-belgica-brasileira-das-cervejas-artesanais-epico">Cervejas de Minas</a> (A Bélgica Brasileira)</li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/pybr-logo.png"/><enclosure url="https://archive.org/download/castalio-podcast-75/castalio-podcast-75.mp3" length="62374123" type="audio/mpeg"/></item><item><title>Episódio 74: Python Brasil 12 - Parte 2</title><link>https://castalio.info/episodes/episodio-74-python-brasil-12-parte-2/</link><pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 74: Python Brasil 12 - Parte 2</itunes:title><itunes:subtitle>
-Como prometido segue a continuação das entrevistas na Python Brasil 12 com alguns integrantes do projeto Serenata de Amor, e também uma entrevista sobre um assunto bastante interessante com o Turicas.</itunes:subtitle><itunes:summary>Como prometido segue a continuação das entrevistas na Python Brasil 12 com alguns integrantes do projeto Serenata de Amor, e também uma entrevista sobre um assunto bastante interessante com o Turicas.</itunes:summary><description>Como prometido segue a continuação das entrevistas na Python Brasil 12 com alguns integrantes do projeto Serenata de Amor, e também uma entrevista sobre um assunto bastante interessante com o Turicas.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Como prometido segue a continuação das entrevistas na Python Brasil 12 com alguns integrantes do projeto Serenata de Amor, e também uma entrevista sobre um assunto bastante interessante com o Turicas.</itunes:subtitle><itunes:summary>Como prometido segue a continuação das entrevistas na Python Brasil 12 com alguns integrantes do projeto Serenata de Amor, e também uma entrevista sobre um assunto bastante interessante com o Turicas.</itunes:summary><description>Como prometido segue a continuação das entrevistas na Python Brasil 12 com alguns integrantes do projeto Serenata de Amor, e também uma entrevista sobre um assunto bastante interessante com o Turicas.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje daremos continuidade a série de entrevistas rápidas feitas
-durante a <a class="reference external" href="http://2016.pythonbrasil.org.br/">Python Brasil 12</a>. Se você ainda não ouviu a primeira <a class="reference external" href="/episodio-73-python-brasil-12-parte-1.html">escute agora</a>!</p>
-<p>As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, e nesta segunda
-parte os entrevistados são os membros da <a class="reference external" href="https://www.catarse.me/serenata">Operação Serenata de Amor</a> (Felipe Linhares, andré Pinho e Eduardo Cuducos) e também o <a class="reference external" href="https://www.youtube.com/user/Turicas">Turicas</a> (Álvaro Justen) que nos contou sobre a biblioteca <a class="reference external" href="https://github.com/turicas/rows">rows</a> e aproveitou para falar sobre um outro assunto bastante interessante
-que ele também está envolvido no momento.</p>
+durante a <a href="http://2016.pythonbrasil.org.br/">Python Brasil 12</a>. Se você ainda
+não ouviu a primeira <a href="/episodio-73-python-brasil-12-parte-1.html">escute
+agora</a>!</p>
+<p>As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, e nesta
+segunda parte os entrevistados são os membros da <a href="https://www.catarse.me/serenata">Operação Serenata de
+Amor</a> (Felipe Linhares, andré Pinho e Eduardo
+Cuducos) e também o <a href="https://www.youtube.com/user/Turicas">Turicas</a> (Álvaro
+Justen) que nos contou sobre a biblioteca
+<a href="https://github.com/turicas/rows">rows</a> e aproveitou para falar sobre um outro
+assunto bastante interessante que ele também está envolvido no momento.</p>
+<p>O pessoal da <a href="https://www.catarse.me/serenata">Operação Serenata de Amor</a> nos
+contou um pouco sobre a proposta do projeto que pretende ajudar a auditar os
+gastos dos parlamentares utilizando Inteligência Artificial. Eles falaram sobre
+quais tecnologias estão envolvidas, como contribuir tanto com o desenvolvimento
+quanto com a campanha de crowdfunding e também falaram um pouco sobre as coisas
+que gostam de fazer quando não estão desenvolvendo a Serenata!</p>
+<div class="clearfix"></div>
+<p><img src="/images/pybr12-serenata-de-amor.jpg" alt="Elyézer, Felipe Linhares, André Pinho, Eduardo Cuducos e Bruno Rocha."></p>
+<p>Em seguida falamos com o <a href="https://www.youtube.com/user/Turicas">Turicas</a>
+(também conhecido como Álvaro Justen) que nos falou sobre o projeto que ele
+apresentou em sua palestra na conferência que é a biblioteca
+<a href="https://github.com/turicas/rows">rows</a> que é bastante útil para tratamento de
+informações tabulares como arquivos csv, tabelas HTML e também planilhas xls.
+Além disso ele nos contou sobre uma das novidades que ele trouxe para os
+corredores da Python Brasil e que chamou atenção de todo mundo durante o
+evento!</p>
+<p><img src="/images/pybr12-turicas.jpg" alt="Elyézer, Turicas e Bruno Rocha hipnotizados em uma das salas da Python Brasil."></p>
+<p>Como sempre não poderiamos de deixar de perguntar sobre o que os entrevistados
+gostam de ler, assistir e escutar!</p>
+<p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<h1 id="contatos-serenata-de-amor">Contatos Serenata de Amor</h1>
+<p>Felipe Linhares</p>
+<ul>
+<li><strong>Site</strong>: <a href="http://filipelinhares.com/">http://filipelinhares.com/</a></li>
+<li><strong>Twitter</strong>: <a href="http://twitter.com/ofilipelinhares">http://twitter.com/ofilipelinhares</a></li>
+<li><strong>Github</strong>: <a href="http://github.com/filipelinhares">http://github.com/filipelinhares</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/ofilipelinhares">https://www.facebook.com/ofilipelinhares</a></li>
+</ul>
+<p>André Pinho</p>
+<ul>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/andresouzapinho">https://twitter.com/andresouzapinho</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/AndreSouzaPinho">https://www.facebook.com/AndreSouzaPinho</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/andrepinho">https://github.com/andrepinho</a></li>
+</ul>
+<p>Eduardo Cuducos</p>
+<ul>
+<li><strong>Site</strong>: <a href="http://cuducos.me/">http://cuducos.me/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/cuducos">https://twitter.com/cuducos</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/cuducos">https://github.com/cuducos</a></li>
+</ul>
+<h1 id="contato-turicas-álvaro-justen">Contato Turicas (Álvaro Justen)</h1>
+<ul>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/turicas">https://twitter.com/turicas</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/alvarojusten">https://www.facebook.com/alvarojusten</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/turicas">https://github.com/turicas</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-74" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-74/castalio-podcast-74.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="top-1-felipe-linhares">Top 1 Felipe Linhares</h1>
+<ul>
+<li><strong>Filme</strong>: <a href="http://www.imdb.com/title/tt0110413/">Léon: O
+Profissional</a></li>
+<li><strong>Música</strong>: <a href="http://www.last.fm/pt/music/C%C3%A9u/_/Varanda+Suspensa">Céu - Varanda
+Suspensa</a></li>
+<li><strong>Livro</strong>: <a href="https://www.goodreads.com/book/show/27308337-como-conversar-com-um-fascista">Como Conversar com Um
+Fascista</a></li>
+</ul>
+<h1 id="top-1-andré-pinho">Top 1 André Pinho</h1>
+<ul>
+<li><strong>Filme</strong>: <a href="http://www.imdb.com/title/tt0133093/">Matrix</a></li>
+<li><strong>Música</strong>: <a href="http://www.last.fm/pt/music/Fresno/_/Poeira+Estelar">Fresno - Poeira
+Estelar</a></li>
+</ul>
+<h1 id="top-1-eduardo-cuducos">Top 1 Eduardo Cuducos</h1>
+<ul>
+<li><strong>Filme</strong>: <a href="http://www.imdb.com/title/tt0168629/">Dançando no Escuro (com
+Bjork)</a></li>
+<li><strong>Música</strong>: <a href="http://www.last.fm/music/Bob+Dylan/_/Blowin'+in+the+Wind">Bob Dylan - Blowin'in the
+Wind</a></li>
+<li><strong>Livro</strong>:
+<a href="http://www.goodreads.com/book/show/102030.Musashi">Musashi</a></li>
+</ul>
+<h1 id="top-1-turicas">Top 1 Turicas</h1>
+<ul>
+<li><strong>Filme</strong>: <a href="http://www.imdb.com/title/tt0133093/">Matrix</a></li>
+<li><strong>Música</strong>:
+<a href="http://www.last.fm/music/John+Lennon/_/Imagine">Imagine</a></li>
+<li><strong>Livro</strong>: <a href="https://www.goodreads.com/book/show/22800567-fluent-python">Python
+Fluente</a></li>
+</ul>
+<h1 id="agradecimentos">Agradecimentos</h1>
+<ul>
+<li><a href="http://karlamagueta.com">Karla Magueta</a> pelo apoio durante as gravações e também pelas fotos.</li>
+</ul>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://2016.pythonbrasil.org.br/">Python Brasil 12</a></li>
+<li><a href="https://www.catarse.me/serenata">Operação Serenata de Amor</a></li>
+<li><a href="https://github.com/turicas/rows">rows</a></li>
+<li><a href="https://www.youtube.com/user/Turicas">turicas</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/pybr-logo.png"/><enclosure url="https://archive.org/download/castalio-podcast-74/castalio-podcast-74.mp3" length="51836311" type="audio/mpeg"/></item><item><title>Episódio 73: Python Brasil 12 - Parte 1</title><link>https://castalio.info/episodes/episodio-73-python-brasil-12-parte-1/</link><pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-73/castalio-podcast-73.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 73: Python Brasil 12 - Parte 1</itunes:title><itunes:subtitle>
-Hoje, trazemos um episódio diferente com duas entrevistas gravadas ao vivo durante o evento Python Brasil 12 com o organizador do evento, Mário Sergio, e uma entrevista em inglês com Naomi Ceder da Python Software Foundation.</itunes:subtitle><itunes:summary>Hoje, trazemos um episódio diferente com duas entrevistas gravadas ao vivo durante o evento Python Brasil 12 com o organizador do evento, Mário Sergio, e uma entrevista em inglês com Naomi Ceder da Python Software Foundation.</itunes:summary><description>Hoje, trazemos um episódio diferente com duas entrevistas gravadas ao vivo durante o evento Python Brasil 12 com o organizador do evento, Mário Sergio, e uma entrevista em inglês com Naomi Ceder da Python Software Foundation.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, trazemos um episódio diferente com duas entrevistas gravadas ao vivo durante o evento Python Brasil 12 com o organizador do evento, Mário Sergio, e uma entrevista em inglês com Naomi Ceder da Python Software Foundation.</itunes:subtitle><itunes:summary>Hoje, trazemos um episódio diferente com duas entrevistas gravadas ao vivo durante o evento Python Brasil 12 com o organizador do evento, Mário Sergio, e uma entrevista em inglês com Naomi Ceder da Python Software Foundation.</itunes:summary><description>Hoje, trazemos um episódio diferente com duas entrevistas gravadas ao vivo durante o evento Python Brasil 12 com o organizador do evento, Mário Sergio, e uma entrevista em inglês com Naomi Ceder da Python Software Foundation.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>No episódio de hoje trazemos um episódio diferente pois fizemos algumas
-entrevistas ao vivo durante a <a class="reference external" href="http://2016.pythonbrasil.org.br/">Python Brasil 12</a>. Foram um total de 4
-entrevistas que você irá conferir neste espisódio e no próximo, duas por
-episódio.</p>
+entrevistas ao vivo durante a <a href="http://2016.pythonbrasil.org.br/">Python Brasil
+12</a>. Foram um total de 4 entrevistas que você
+irá conferir neste espisódio e no próximo, duas por episódio.</p>
 <p>As entrevistas foram realizadas pelo Elyézer Rezende e Bruno Rocha, isso mesmo,
 agora o Bruno Rocha está participando conosco no Castálio! O Og infelizmente
 não estava presente nas entrevistas ao vivo, mas está presente no episódio.</p>
+<p>Começamos a nossa série de entrevistas rápidas com o Mário Sergio, o Big Kahuna
+da Python Brasil 12 que foi realizada em Florianópolis, Santa Catarina. Ele nos
+conta sobre como foi organizar a Python Brasil, fala sobre alguns de seus
+projetos pessoais e também sobre algo que deseja muito fazer quando não está
+desenvolvendo.</p>
+<div class="clearfix"></div>
+<p><img src="/images/pybr12-mario-sergio.jpg" alt="Elyézer, Mário Sergio e Bruno Rocha na cafeteria da PythonBrasil[12]."></p>
+<p>Em seguida falamos com a Naomi Ceder, que faz parte do conselho de
+administração da <a href="https://www.python.org/psf/">Python Software Foundation</a>. A
+entrevista foi realizada em inglês com algumas palinhas de Português falado
+pela Naomi. Conversamos sobre a diversidade da comunidade Python e como a
+Python Sofware Foundation ajuda nos eventos de Python ao redor do mundo. Também
+conversamos sobre o trabalho da Naomi e terceira edição do seu livro, <a href="https://www.goodreads.com/book/show/20351126-the-quick-python-book-second-edition">The
+Quick Python
+Book</a>,
+que está quase saindo.</p>
+<p><img src="/images/pybr12-naomi-ceder.jpg" alt="Elyézer, Naomi Ceder e Bruno Rocha na Sambaqui 3 (um dos auditórios da conferência)"></p>
+<p>Você já deve estar se perguntando do Top 5. Bom, como foram entrevistas
+rápidas, não tivemos um Top 5 mas um Top 1 de cada participante. Não poderiamos
+de deixar de perguntar sobre o que os entrevistados gostam de ler, assistir e
+escutar, não é mesmo?</p>
+<p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<h1 id="contato-mário-sergio">Contato Mário Sergio</h1>
+<ul>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/queirozMario21">https://twitter.com/queirozMario21</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/mariosergio.oliveira.75">https://www.facebook.com/mariosergio.oliveira.75</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/sergiomario">https://github.com/sergiomario</a></li>
+</ul>
+<h1 id="contato-naomi-ceder">Contato Naomi Ceder</h1>
+<ul>
+<li><strong>Site</strong>: <a href="https://learnpython.wordpress.com/">https://learnpython.wordpress.com/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/NaomiCeder">https://twitter.com/NaomiCeder</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/naomi.r.ceder">https://www.facebook.com/naomi.r.ceder</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/nceder">https://github.com/nceder</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-73" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-73/castalio-podcast-73.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-73/castalio-podcast-73.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 1 Mário Sergio</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/65438.O_Ca_ador_de_Pipas" target="_blank">O Caçador de Pipas</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0120689/" target="_blank">A Espera de um Milagre</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Legi%C3%A3o&#43;Urbana" target="_blank">Legião Urbana</a></li></ol>
+<h2>Top 1 Naomi Ceder</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/32326166-confessions-of-a-necromancer" target="_blank">Confessions of a Necromancer</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Florence&#43;%252B&#43;the&#43;Machine" target="_blank">Florence &#43; the Machine</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://2016.pythonbrasil.org.br/">Python Brasil 12</a></li>
+<li><a href="https://www.python.org/psf/">Python Software Foundation</a></li>
+<li><a href="https://www.goodreads.com/book/show/20351126-the-quick-python-book-second-edition">The Quick Python Book</a></li>
+<li><a href="http://bit.ly/protocolo_para_morrer">Um Protocolo para morrer - por Pieter Hintjens</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/pybr-logo.png"/><enclosure url="https://archive.org/download/castalio-podcast-73/castalio-podcast-73.mp3" length="49635796" type="audio/mpeg"/></item><item><title>Episódio 72: Eduardo Matos - PouchDB E Quadrinhos</title><link>https://castalio.info/episodes/episodio-72-eduardo-matos-pouchdb-e-quadrinhos/</link><pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-72/castalio-podcast-72.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 72: Eduardo Matos - PouchDB E Quadrinhos</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Eduardo Matos que nos conta o que é offline first e PouchDB além de falar sobre sua paixão por quadrinhos.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Eduardo Matos que nos conta o que é offline first e PouchDB além de falar sobre sua paixão por quadrinhos.</itunes:summary><description>Hoje, conversamos com o Eduardo Matos que nos conta o que é offline first e PouchDB além de falar sobre sua paixão por quadrinhos.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, conversamos com o Eduardo Matos que nos conta o que é offline first e PouchDB além de falar sobre sua paixão por quadrinhos.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Eduardo Matos que nos conta o que é offline first e PouchDB além de falar sobre sua paixão por quadrinhos.</itunes:summary><description>Hoje, conversamos com o Eduardo Matos que nos conta o que é offline first e PouchDB além de falar sobre sua paixão por quadrinhos.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Como sempre agradecemos a todos que passaram para nos deixar um recado e
 reforcamos o convite para que você deixe um comentário falando sobre o que está
 achando dos episódios e caso tenha alguma indicação para um episódio futuro
@@ -1052,70 +1892,524 @@ estamos a todo ouvidos.</p>
 Souza pela indicação. O Eduardo trabalha na BankFacil e nos conta um pouco como
 funciona o processo de code review e também comenta sobre o benefício de se ter
 um template para os Pull Requests. Durante a conversa sobre o template de Pull
-Request é comentado sobre o <a class="reference external" href="https://github.com/facebook/mention-bot">mention-bot</a>, um bot que menciona nos Pull
-Requests uma pessoa que é um potencial reviewer.</p>
+Request é comentado sobre o
+<a href="https://github.com/facebook/mention-bot">mention-bot</a>, um bot que menciona nos
+Pull Requests uma pessoa que é um potencial reviewer.</p>
+<p>Também conversamos sobre offline first e <a href="https://pouchdb.com/">PouchDB</a> um
+banco de dados que roda no navegador (browser) que permite aplicações salverem
+dados localmente, o que permite usuários usufruirem da aplicação mesmo quando
+eles estão offline.</p>
+<p>Antes de irmos para o Top 5, conversamos sobre quadrinhos e a paixão que o
+Eduardo tem por quadrinhos. Você pode ver isso na imagem abaixo onde o Eduardo
+compartilha conosco sua coleção de mais de 1000 quadrinhos. Finalmente falamos
+sobre o Top 5 e como sempre está cheio de indicações interessantes.</p>
+<p><img src="/images/eduardomatos-quadrinhos.jpg" alt=""></p>
+<p>Até o próximo episódio e não esqueça de deixar seus comentários aqui no site,
+ou no <a href="https://twitter.com/castaliopod">Twitter</a> ou
+<a href="https://www.facebook.com/castaliopod">Facebook</a>.</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="http://www.eduardomatos.me">http://www.eduardomatos.me</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/eduardojmatos">https://twitter.com/eduardojmatos</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://br.linkedin.com/in/eduardojmatos">https://br.linkedin.com/in/eduardojmatos</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/eduardojmatos">https://github.com/eduardojmatos</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-72" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-72/castalio-podcast-72.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-72/castalio-podcast-72.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/133017.Hellblazer" target="_blank">Hellblazer</a></li><li><a href="https://www.goodreads.com/book/show/15196.Maus_I" target="_blank">Maus</a></li><li><a href="https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1" target="_blank">The Sandman</a></li><li><a href="https://www.goodreads.com/book/show/472331.Watchmen" target="_blank">Watchmen</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0120689/" target="_blank">A Espera de um Milagre</a></li><li><a href="https://www.imdb.com/title/tt0137523/" target="_blank">Clube da Luta</a></li><li><a href="https://www.imdb.com/title/tt0068646/" target="_blank">O Poderoso Chefão</a></li><li><a href="https://www.imdb.com/title/tt0110912/" target="_blank">Pulp Fiction</a></li><li><a href="https://www.imdb.com/title/tt0944947/" target="_blank">Game of Thrones</a></li><li><a href="https://www.imdb.com/title/tt2575988/" target="_blank">Silicon Valley</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/AC%2FDC" target="_blank">AC/DC</a></li><li><a href="https://www.last.fm/music/B.B.&#43;King" target="_blank">B.B. King</a></li><li><a href="https://www.last.fm/music/Jimi&#43;Hendrix" target="_blank">Jimi Hendrix</a></li><li><a href="https://www.last.fm/music/Stevie&#43;Ray&#43;Vaughan" target="_blank">Stevie Ray</a></li><li><a href="https://www.last.fm/music/Tenacious&#43;D" target="_blank">Tenatious D</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://couchdb.apache.org/">CouchDB</a></li>
+<li><a href="https://github.com/eduardojmatos/dotfiles">dotfiles do Eduardo</a></li>
+<li><a href="https://github.com/facebook/mention-bot">mention-bot</a></li>
+<li><a href="http://eduardomatos.me/template-de-pull-request/">Post do Eduardo sobre Template de Pull Request</a></li>
+<li><a href="https://pouchdb.com/">PouchDB</a></li>
+<li><a href="https://github.com/eduardojmatos/vimrc">vimrc do Eduardo</a></li>
+<li><a href="http://www.paulhammond.org/webkit2png/">webkit2png</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/eduardomatos.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-72/castalio-podcast-72.mp3" length="35777086" type="audio/mpeg"/></item><item><title>Episódio 71: Bruno Rocha - Quokka CMS</title><link>https://castalio.info/episodes/episodio-71-bruno-rocha-quokka-cms/</link><pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-71/castalio-podcast-71.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 71: Bruno Rocha - Quokka CMS</itunes:title><itunes:subtitle>
-Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele comenta sobre o Quokka CMS e outros projetos pessoais. Além disso, ao final do episódio, temos o tão aguardado Top 5.</itunes:subtitle><itunes:summary>Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele comenta sobre o Quokka CMS e outros projetos pessoais. Além disso, ao final do episódio, temos o tão aguardado Top 5.</itunes:summary><description>Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele comenta sobre o Quokka CMS e outros projetos pessoais. Além disso, ao final do episódio, temos o tão aguardado Top 5.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele comenta sobre o Quokka CMS e outros projetos pessoais. Além disso, ao final do episódio, temos o tão aguardado Top 5.</itunes:subtitle><itunes:summary>Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele comenta sobre o Quokka CMS e outros projetos pessoais. Além disso, ao final do episódio, temos o tão aguardado Top 5.</itunes:summary><description>Hoje, conversamos novamente com o Bruno Rocha. Desta vez, ele comenta sobre o Quokka CMS e outros projetos pessoais. Além disso, ao final do episódio, temos o tão aguardado Top 5.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Hoje voltamos novamente com o Bruno Rocha, para continuarmos nosso bate papo,
 que como já esperávamos, foi muito bacana. Antes gostaríamos de agradecer a
 todos os comentários sobre o episódio anterior, muito obrigado a todos que
 dedicaram um tempinho para deixar uma mensagem.</p>
+<p>No episódio de hoje, o Bruno nos conta como e por qual motivo o <a href="http://quokkaproject.org/">Quokka
+CMS</a> surgiu, qual foram os desafios que ele
+encontrou no inicio do projeto, como depois de muito trabalho, ele se encontra
+hoje. O <a href="http://quokkaproject.org/">Quokka CMS</a>, como todo projeto Open Source,
+está aberto a contribuições, por isso o Bruno deixa o convite para todos que
+querem contribuir e também para todos que estão a procura de um CMS para entrar
+em contato.</p>
+<p>Continuando o assunto sobre o Quokka, o Bruno comenta sobre alguns dos plugins
+e as formas de instalar e experimentar o Quokka. Você já deve estar ansioso
+para testar o Quokka, então acesse o demo do projeto. Além disso, ele ressalta
+que o projeto deixa a desejar um pouco na documentação mas que é algo que está
+na lista para ser melhorado.</p>
+<p><img src="/images/quokka.jpg" alt=""></p>
+<p>Depois de conhecermos tudo sobre o Quokka e para quebrar o mistério deixado no
+episódio anterior, o Bruno nos conta sobre os demais projetos em que ele está
+trabalhando. É neste momento que ele nos fala sobre o
+<a href="https://github.com/rochacbruno/flasgger">Flasgger</a> (basedo no
+<a href="http://swagger.io/">Swagger</a>), o
+<a href="https://github.com/rochacbruno/dynaconf">Dynaconf</a> e sobre o novo curso de
+<a href="https://www.python.org/">Python</a> que ele pretende oferecer. O curso ainda não
+tem um nome definido, mas seria algo como &quot;Full Stack Python Developer
+Training&quot;.</p>
+<p>Antes de irmos para o Top 5, o Bruno comenta sobre o <a href="http://pythonclub.com.br/tag/what-the-flask.html">What the
+Flask</a>, uma série de artigos
+sobre o <a href="http://flask.pocoo.org/">Flask</a>, e na possibilidade de isso virar um
+livro no futuro.</p>
+<p><img src="/images/bruno_rocha_ozzy_tattoo.jpg" alt=""></p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="http://brunorocha.org/">http://brunorocha.org/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/rochacbruno">https://twitter.com/rochacbruno</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/rochacbruno">https://www.linkedin.com/in/rochacbruno</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/rochacbruno">https://github.com/rochacbruno</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-71" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-71/castalio-podcast-71.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-71/castalio-podcast-71.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/list/show/38032.S_rie_Vaga_lume" target="_blank">Série Vaga-lume</a></li><li><a href="https://duckduckgo.com/?q=De&#43;Alma&#43;para&#43;Alma&#43;Huberto&#43;Rohden" target="_blank">De Alma para Alma</a></li><li><a href="https://www.goodreads.com/book/show/12936088-o-zoo-humano" target="_blank">O Zoo Humano</a></li><li><a href="https://www.goodreads.com/book/show/9062565-o-macaco-nu" target="_blank">O Macaco Nu</a></li><li><a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer" target="_blank">The Pragmatic Programmer</a></li><li><a href="https://www.goodreads.com/book/show/1332383.Programming_in_Lua" target="_blank">Programming in Lua</a></li><li><a href="https://www.goodreads.com/book/show/80444.Python_Essential_Reference" target="_blank">Python Essential Reference</a></li></ol><h3>Filmes:</h3><ol><li><a href="http://www.terraqueos.org/" target="_blank">Earthlings (Terráqueos)</a></li><li><a href="https://www.imdb.com/title/tt0068646/" target="_blank">O Poderoso Chefão</a></li><li><a href="https://www.imdb.com/title/tt0086250/" target="_blank">Scarface</a></li><li><a href="https://www.imdb.com/title/tt0040522/" target="_blank">Ladrões de Bicicleta</a></li><li><a href="https://www.imdb.com/title/tt0027977/" target="_blank">Tempos Modernos</a></li><li><a href="https://www.imdb.com/title/tt2278388/" target="_blank">O Grande Hotel Budapeste</a></li><li><a href="https://www.imdb.com/title/tt2616280/" target="_blank">Derek</a></li><li><a href="https://www.imdb.com/title/tt1582457/" target="_blank">The Borgias</a></li><li><a href="https://www.imdb.com/title/tt0386676/" target="_blank">The Office (America)</a></li><li><a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a></li><li><a href="https://www.imdb.com/title/tt4158110/" target="_blank">Mr. Robot</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Ozzy&#43;Osbourne" target="_blank">Ozzy Osbourne</a></li><li><a href="https://www.last.fm/music/Jethro&#43;Tull" target="_blank">Jethro Tull</a></li><li><a href="https://www.last.fm/music/Yes" target="_blank">Yes</a></li><li><a href="https://www.last.fm/music/Alan&#43;Parsons" target="_blank">Alan Parsons</a></li><li><a href="https://www.last.fm/music/Anathema" target="_blank">Anathema</a></li><li><a href="https://www.last.fm/music/Pain&#43;of&#43;Salvation" target="_blank">Pain of Salvation</a></li><li><a href="https://www.last.fm/music/Dream&#43;Theater" target="_blank">Dream Theater</a></li><li><a href="https://www.last.fm/music/Morcheeba" target="_blank">Morcheeba</a></li><li><a href="https://www.last.fm/music/Lambchop" target="_blank">Lambchop</a></li><li><a href="https://www.last.fm/music/Massive&#43;Attack" target="_blank">Massive Attack</a></li><li><a href="https://www.last.fm/music/Belchior" target="_blank">Belchior</a></li><li><a href="https://www.last.fm/music/Clube&#43;da&#43;Esquina" target="_blank">Clube da Esquina</a></li><li><a href="https://www.last.fm/music/Milton&#43;Nascimento" target="_blank">Milton Nascimento</a></li><li><a href="https://www.last.fm/music/Kleiton&#43;&amp;&#43;Kledir" target="_blank">Kleiton e Kledir</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://github.com/rochacbruno/dynaconf">Dynaconf</a></li>
+<li><a href="https://github.com/rochacbruno/flasgger">Flasgger</a></li>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="https://github.com/opps/opps">Opps CMS</a></li>
+<li><a href="https://plone.org/">Plone</a></li>
+<li><a href="http://quokkaproject.org/">Quokka CMS</a>
+<ul>
+<li><a href="http://demo.quokkaproject.org/">Demo</a></li>
+<li><a href="https://github.com/rochacbruno/quokka/wiki#demo">Informações de acesso para o Demo</a></li>
+<li><a href="https://github.com/rochacbruno/quokka/wiki">Wiki</a></li>
+<li><a href="https://github.com/rochacbruno/quokka/wiki/installation">Instalação</a></li>
+</ul>
+</li>
+<li><a href="http://www.imdb.com/title/tt0432283/">Fantastic Mister Fox</a></li>
+<li>Treinamento Full Stack Python Developer (em breve)</li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/brunorocha.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-71/castalio-podcast-71.mp3" length="45101734" type="audio/mpeg"/></item><item><title>Episódio 70: Bruno Rocha - Flask E Veganismo</title><link>https://castalio.info/episodes/episodio-70-bruno-rocha-flask-e-veganismo/</link><pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-70/castalio-podcast-70.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 70: Bruno Rocha - Flask E Veganismo</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o micro-framewrok para a web Flask, assim como outros frameworks web escritos em Python. Também nos explica o que é o veganismo.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o micro-framewrok para a web Flask, assim como outros frameworks web escritos em Python. Também nos explica o que é o veganismo.</itunes:summary><description>Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o micro-framewrok para a web Flask, assim como outros frameworks web escritos em Python. Também nos explica o que é o veganismo.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o micro-framewrok para a web Flask, assim como outros frameworks web escritos em Python. Também nos explica o que é o veganismo.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o micro-framewrok para a web Flask, assim como outros frameworks web escritos em Python. Também nos explica o que é o veganismo.</itunes:summary><description>Hoje, conversamos com o Bruno Rocha. Ele comenta sobre o micro-framewrok para a web Flask, assim como outros frameworks web escritos em Python. Também nos explica o que é o veganismo.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Ficamos um bom tempo sem novos episódios, mas finalmente estamos de volta e
 esperamos que consigamos conciliar nossa agenda com mais frequência e agente
 consiga trazer episódios com a frequência de sempre.</p>
 <p>Sem mais delongas, no episódio de hoje trazemos nossa entrevista com o Bruno
-Rocha. Durante nosso bate-papo, ele nos conta o que é o <a class="reference external" href="http://flask.pocoo.org/">Flask</a>, um
-micro-framework em Python, e algumas das características que faz com ele curta
-bastante o framework. Ele também comenta sobre como o Flask se posiciona em
-relação a outros frameworks para web em Python, como o Django por exemplo.</p>
+Rocha. Durante nosso bate-papo, ele nos conta o que é o
+<a href="http://flask.pocoo.org/">Flask</a>, um micro-framework em Python, e algumas das
+características que faz com ele curta bastante o framework. Ele também comenta
+sobre como o Flask se posiciona em relação a outros frameworks para web em
+Python, como o Django por exemplo.</p>
+<p>Também conversamos sobre <a href="http://www.web2py.com/">web2py</a>, um outro framework
+web escrito em Python, e sobre o livro que o Bruno ajudou a escrever <a href="https://www.amazon.com/web2py-Application-Development-Cookbook-Richard-ebook/dp/B007KHZ1AA?ie=UTF8&amp;ref_=asap_bc">web2py
+Application Development
+Cookbook</a>,
+um livro com receitas de soluções para serem utilizadas com o web2py.</p>
+<p>No final da entrevista deixamos de falar de tecnologia, e aproveitamos a
+oportunidade para o Bruno nos explicar o que é veganismo e as dificuldades que
+as pessoas veganas podem encontrar para seguir o veganismo.</p>
+<p>No episódio de hoje não teremos o Top 5! Mas calma, isso não significa que não
+conheceremos o Top 5 do Bruno, mas sim que ele vai voltar novamente e, nessa
+segunda, oportunidade não deixaremos ele escapar sem nos falar do seu Top 5 :).</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="http://brunorocha.org/">http://brunorocha.org/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/rochacbruno">https://twitter.com/rochacbruno</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/rochacbruno">https://www.linkedin.com/in/rochacbruno</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/rochacbruno">https://github.com/rochacbruno</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-70" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-70/castalio-podcast-70.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-70/castalio-podcast-70.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="http://flask.pocoo.org/docs/0.10/blueprints/">Flask - Blueprints</a></li>
+<li><a href="https://www.amazon.com/web2py-Application-Development-Cookbook-Richard-ebook/dp/B007KHZ1AA?ie=UTF8&amp;ref_=asap_bc">web2py Application Development Cookbook</a></li>
+<li><a href="http://www.web2py.com/">web2py</a></li>
+<li><a href="http://quokkaproject.org/">Quokka CMS</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/brunorocha.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-70/castalio-podcast-70.mp3" length="42655038" type="audio/mpeg"/></item><item><title>Episódio 69: Renzo Nucciteli - Python Brasil</title><link>https://castalio.info/episodes/episodio-69-renzo-nucciteli-python-brasi/</link><pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-69/castalio-podcast-69.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 69: Renzo Nucciteli - Python Brasil</itunes:title><itunes:subtitle>
-Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.</itunes:subtitle><itunes:summary>Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.</itunes:summary><description>Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.</description><content:encoded><![CDATA[<div class="document">
+Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.</itunes:subtitle><itunes:summary>Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.</itunes:summary><description>Bate-papo super interessante com o Renzo Nucciteli sobre o planejamento e organização do evento Python Brasil 2015.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>No episódio de hoje trazemos nossa entrevista com o Renzo Nucciteli, um dos
+organizadores responsáveis pelo evento <a href="https://pythonbrasil.github.io/pythonbrasil11-site/">Python
+Brasil</a> este ano. Durante
+nosso bate-papo ele nos conta como que tudo começou e sobre as dificuldades e
+desafios que existem em planejar um evento de tecnologia deste porte no Brasil.
+Baseado na grade de palestras e os nomes dos palestrantes agendados a
+comparecer, eu recomendo fortemente que você prestigie a Python Brasil! Tenho
+certeza que será um marco na sua carreira profissional!!!</p>
+<p>Também falamos sobre o projeto <a href="https://github.com/pythonprobr/pythonbirds">Python
+Birds</a>, um curso de Python que
+promete te ensinar como programar de forma eficiente e com técnicas que não se
+aprende em qualquer escola! É claro que também não podíamos ficar sem falar
+sobre o <strong>Top 5</strong> do Renzo, que tem um pouco de tudo!</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="https://adm.python.pro.br/">https://adm.python.pro.br/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/renzoprobr">https://twitter.com/renzoprobr</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/renzonuccitelli">https://www.linkedin.com/in/renzonuccitelli</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/renzon">https://github.com/renzon</a></li>
+<li><strong>YouTube</strong>: <a href="https://www.youtube.com/watch?v=4CNQuuQ0qWE">https://www.youtube.com/watch?v=4CNQuuQ0qWE</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>No episódio de hoje trazemos nossa entrevista com o Renzo Nucciteli, um dos organizadores responsáveis pelo evento <a class="reference external" href="https://pythonbrasil.github.io/pythonbrasil11-site/">Python Brasil</a> este ano. Durante nosso bate-papo ele nos conta como que tudo começou e sobre as dificuldades e desafios que existem em planejar um evento de tecnologia deste porte no Brasil. Baseado na grade de palestras e os nomes dos palestrantes agendados a comparecer, eu recomendo fortemente que você prestigie a Python Brasil! Tenho certeza que será um marco na sua carreira profissional!!!</p>
-<p>Também falamos sobre o projeto <a class="reference external" href="https://github.com/pythonprobr/pythonbirds">Python Birds</a>, um curso de Python que promete te ensinar como programar de forma eficiente e com técnicas que não se aprende em qualquer escola! É claro que também não podíamos ficar sem falar sobre o <strong>Top 5</strong> do Renzo, que tem um pouco de tudo!</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-69" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-69/castalio-podcast-69.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-69/castalio-podcast-69.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/36361456-python-fluente" target="_blank">Python Fluente</a></li><li><a href="https://www.goodreads.com/book/show/1332383.Programming_in_Lua" target="_blank">Programming in Lua</a></li><li><a href="https://www.goodreads.com/book/show/24038.Dive_Into_Python" target="_blank">Dive into Python</a></li><li><a href="https://www.goodreads.com/book/show/17152735-python-cookbook" target="_blank">Python Cookbook</a></li><li><a href="https://www.goodreads.com/book/show/17565644-the-incredible-secret-money-machine" target="_blank">The Incredible Secret Money Machine</a></li><li><a href="https://www.goodreads.com/book/show/25895956-como-fazer-amigos-e-influenciar-pessoas" target="_blank">Como Fazer Amigos e Influenciar Pessoas</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0111161/" target="_blank">Sonho de Liberdade</a></li><li><a href="https://www.imdb.com/title/tt0112573/" target="_blank">Coração Valente</a></li><li><a href="https://www.imdb.com/title/tt0861739/" target="_blank">Tropa de Elite</a></li><li><a href="https://www.imdb.com/title/tt0816692/" target="_blank">Interestelar</a></li><li><a href="https://www.imdb.com/title/tt0443543/" target="_blank">O Ilusionista</a></li><li><a href="https://www.imdb.com/title/tt0482571/" target="_blank">O Grande Truque</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Pearl&#43;Jam" target="_blank">Pearl Jam</a></li><li><a href="https://www.last.fm/music/Legi%C3%A3o&#43;Urbana" target="_blank">Legião Urbana</a></li><li><a href="https://www.last.fm/music/Raimundos" target="_blank">Raimundos</a></li><li><a href="https://www.last.fm/music/Mamonas&#43;Assassinas" target="_blank">Mamonas Assassinas</a></li><li><a href="https://www.last.fm/music/Rastape%CC%81" target="_blank">Rastapé</a></li><li><a href="https://www.last.fm/music/Falamansa" target="_blank">Falamansa</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://github.com/pythonprobr">PythonPro</a></li>
+<li><a href="https://djangogirls.org/">Django Girls</a></li>
+<li><a href="https://www.djangoproject.com/">Django Framework</a></li>
+<li><a href="http://pycursos.com/python-para-zumbis/">Python Para Zumbis</a></li>
+<li><a href="https://github.com/pythonprobr/pythonbirds">Python Birds</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/renzonucciteli.png"/><enclosure url="https://archive.org/download/castalio-podcast-69/castalio-podcast-69.mp3" length="44623755" type="audio/mpeg"/></item><item><title>Episódio 68: Aurelio Jargas - Projetos</title><link>https://castalio.info/episodes/episodio-68-aurelio-jargas-projetos/</link><pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-68/castalio-podcast-68.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 68: Aurelio Jargas - Projetos</itunes:title><itunes:subtitle>
-Hoje, continuamos nossa conversa com o Aurelio Jargas. Conversamos sobre alguns projetos que ele desenvolveu, uma ferramenta para testar comandos de linha de comando e o tão esperado Top 5.</itunes:subtitle><itunes:summary>Hoje, continuamos nossa conversa com o Aurelio Jargas. Conversamos sobre alguns projetos que ele desenvolveu, uma ferramenta para testar comandos de linha de comando e o tão esperado Top 5.</itunes:summary><description>Hoje, continuamos nossa conversa com o Aurelio Jargas. Conversamos sobre alguns projetos que ele desenvolveu, uma ferramenta para testar comandos de linha de comando e o tão esperado Top 5.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, continuamos nossa conversa com o Aurelio Jargas. Conversamos sobre alguns projetos que ele desenvolveu, uma ferramenta para testar comandos de linha de comando e o tão esperado Top 5.</itunes:subtitle><itunes:summary>Hoje, continuamos nossa conversa com o Aurelio Jargas. Conversamos sobre alguns projetos que ele desenvolveu, uma ferramenta para testar comandos de linha de comando e o tão esperado Top 5.</itunes:summary><description>Hoje, continuamos nossa conversa com o Aurelio Jargas. Conversamos sobre alguns projetos que ele desenvolveu, uma ferramenta para testar comandos de linha de comando e o tão esperado Top 5.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Voltamos com a continuação da nossa conversa com o Aurelio Jargas. Mas antes
 gostariamos de agradecer aos comentários e tweets sobre episódio anterior, eles
 nos motivam a continuar e sempre trazer ainda mais entrevistas e episódios
 interessantes.</p>
+<p>Sem mais delongas, neste episódio o Aurelio nos conta como o período em que
+ficou &ldquo;desempregrado&rdquo; ajudou a escrever os livros e desenvolver seus projetos.
+Esse tempo livre permitiu que ele trabalhasse no que estava afim de fazer e
+resultou em bastante coisa interessante e divertida.</p>
+<p>Como no espisódio anterior o Og comentou sobre a possibilidade de escrever um
+livro e a possibilidade do livro behind the scenes da Conectiva, para não ficar
+atrás, nesse episódio, o Elyézer disse que pretende voltar a escrever em seu
+blog. Fiquem a vontade para cobrar ele se em breve ele não publicar nada.</p>
+<p>Um dos projetos do Aurelio que conversamos é o <a href="http://funcoeszz.net/">Funções
+ZZ</a>. Um projeto muito interessante que oferece vários
+comandinhos (quase 200 hoje) para a linha de comando do Linux e Unix. Por
+exemplo, você consegue consultar a cotação do Dólar sem sair do shell.</p>
+<p>Falamos também sobre o <a href="https://github.com/aureliojargas/clitest">clitest</a> e
+aproveitamos para anunciar o projeto para o mundo (que honra). O clitest
+(Command Line Tester) é um shell script POSIX portável que permite testar
+automaticamente comandos da linha de comand UNIX. Ele possui o mesmo conceito
+que o doctest do Python, onde você documenta o comando e a saída esperada e o
+clitest testa ele.</p>
+<p>Comentamos também sobre alguns outros projetos rapidamente e vamos deixar os
+links na seção de links. Corre lá para ouvir o episódio e nos conte o que
+achou, lembre-se que qualquer feedback é bem vindo e nos motiva a continuar.</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="http://aurelio.net/">http://aurelio.net/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/oreio">https://twitter.com/oreio</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/aurelio.jargas">https://www.facebook.com/aurelio.jargas</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/aureliojargas">https://github.com/aureliojargas</a></li>
+<li><strong>YouTube</strong>: <a href="https://www.youtube.com/channel/UCdvLgGyXwgMDz7Qfy-7-1jA">https://www.youtube.com/channel/UCdvLgGyXwgMDz7Qfy-7-1jA</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-68" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-68/castalio-podcast-68.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-68/castalio-podcast-68.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Filmes:</h3><ol><li>Documentários</li><li>Ficção Científica</li><li>Terror</li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Ramones" target="_blank">Ramones</a></li><li><a href="https://www.last.fm/music/Bad&#43;Religion" target="_blank">Bad Religion</a></li><li><a href="https://www.last.fm/music/Face&#43;to&#43;Face" target="_blank">Face To Face</a></li><li><a href="https://www.last.fm/music/Lagwagon" target="_blank">Lagwagon</a></li><li><a href="https://www.last.fm/music/No&#43;Fun&#43;at&#43;All" target="_blank">No Fun At All</a></li><li><a href="https://www.last.fm/music/NOFX" target="_blank">NOFX</a></li><li><a href="https://www.last.fm/music/Ten&#43;Foot&#43;Pole" target="_blank">Ten Foot Pole</a></li><li><a href="https://www.last.fm/music/The&#43;Vandals" target="_blank">The Vandals</a></li><li><a href="https://www.last.fm/music/Linkin&#43;Park" target="_blank">Linkin Park</a></li><li><a href="https://www.last.fm/music/System&#43;of&#43;a&#43;Down" target="_blank">System of a Down</a></li><li><a href="https://www.last.fm/music/The&#43;Toy&#43;Dolls" target="_blank">Toy Dolls</a></li><li><a href="https://www.last.fm/music/Raimundos" target="_blank">Raimundos</a></li><li><a href="https://www.last.fm/music/Ultraje&#43;A&#43;Rigor" target="_blank">Ultraje a Rigor</a></li><li><a href="https://www.last.fm/music/Matanza" target="_blank">Matanza</a></li><li><a href="https://www.last.fm/music/Tequila&#43;Baby" target="_blank">Tequila Baby</a></li><li><a href="https://www.last.fm/music/Iron&#43;Maiden" target="_blank">Iron Maiden</a></li><li><a href="https://www.last.fm/music/Attaque&#43;77" target="_blank">Attaque 77 (Argentina)</a></li><li><a href="https://www.last.fm/music/Los&#43;Mox!" target="_blank">Los Mox (Chile)</a></li><li><a href="https://www.last.fm/music/Die&#43;%C3%84rzte" target="_blank">Die Ärzte (Alemanha)</a></li></ol><h3>Podcasts:</h3><ol><li><a href="http://jovemnerd.com.br/categoria/nerdcast/" target="_blank">Nerdcast</a></li><li><a href="http://www.stuffyoushouldknow.com/podcasts/" target="_blank">Stuff You Should Know</a></li><li><a href="http://atp.fm/" target="_blank">Accidental Tech Podcast</a></li><li><a href="http://www.imore.com/debug" target="_blank">Debug</a></li><li><a href="http://androidbackstage.blogspot.com/" target="_blank">Android Developers Backstage</a></li></ol><h3>Sites:</h3><ol><li><a href="http://br-linux.org/" target="_blank">BR-Linux</a></li><li><a href="https://macmagazine.com.br/" target="_blank">Blog MacMagazine</a></li><li><a href="http://www.androidcentral.com/" target="_blank">Android Central</a></li><li><a href="http://www.windowscentral.com/" target="_blank">Windows Central</a></li><li><a href="http://blog.codinghorror.com/" target="_blank">Coding Horror</a></li><li><a href="http://thedailywtf.com/" target="_blank">The Daily WTF</a></li><li><a href="http://prog21.dadgum.com/" target="_blank">Programming in the 21st Century</a></li><li><a href="http://www.quirksmode.org/blog/" target="_blank">QuirksBlog</a></li></ol>
+<p>A lista de podcast foi enviada por email e não mencionada no episódio. Mas
+resolvemos adicionar assim mesmo para você conferir o que o Aurelio costuma
+acompanhar.</p>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://aurelio.net/moneylog/">MoneyLog</a></li>
+<li><a href="http://www.coisinha.com.br/miguxeitor/">MiGuXeiToR</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/aureliojargas.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-68/castalio-podcast-68.mp3" length="52604787" type="audio/mpeg"/></item><item><title>Episódio 67: Aurelio Jargas - Conectiva E Livros</title><link>https://castalio.info/episodes/episodio-67-aurelio-jargas-conectiva-e-livros/</link><pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-67/castalio-podcast-67.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 67: Aurelio Jargas - Conectiva E Livros</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Aurelio Jargas. Ele nos conta como foi as diversas fases de sua vida profissional, começando pela Conectiva, passando um tempo &amp;#34;desempregado&amp;#34; e como iniciou sua carreira como escritor. Foi uma conversa muito...</itunes:subtitle><itunes:summary>Hoje, conversamos com o Aurelio Jargas. Ele nos conta como foi as diversas fases de sua vida profissional, começando pela Conectiva, passando um tempo "desempregado" e como iniciou sua carreira como escritor. Foi uma conversa muito interessante e divertida.</itunes:summary><description>Hoje, conversamos com o Aurelio Jargas. Ele nos conta como foi as diversas fases de sua vida profissional, começando pela Conectiva, passando um tempo "desempregado" e como iniciou sua carreira como escritor. Foi uma conversa muito interessante e divertida.</description><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Hoje, conversamos com o Aurelio Jargas. Ele nos conta como foi as diversas fases de sua vida profissional, começando pela Conectiva, passando um tempo &amp;#34;desempregado&amp;#34; e como iniciou sua carreira como escritor. Foi uma conversa muito...</itunes:subtitle><itunes:summary>Hoje, conversamos com o Aurelio Jargas. Ele nos conta como foi as diversas fases de sua vida profissional, começando pela Conectiva, passando um tempo "desempregado" e como iniciou sua carreira como escritor. Foi uma conversa muito interessante e divertida.</itunes:summary><description>Hoje, conversamos com o Aurelio Jargas. Ele nos conta como foi as diversas fases de sua vida profissional, começando pela Conectiva, passando um tempo "desempregado" e como iniciou sua carreira como escritor. Foi uma conversa muito interessante e divertida.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Após um bom tempo sem episódio, hoje estamos de volta com uma ótima surpresa.
 Conseguimos entrevistar o Aurelio Jargas e nossa conversa foi muito
 interessante. Ele nos contou algumas fases interessantes que passou durante a
 sua carreira profissional.</p>
+<p>Ele nos conta como foi trabalhar na Conectiva, onde começou a trabalhar na
+década de 90. Se você está interessado em conhecer mais sobre os bastidores do
+ambiente profissional está no lugar certo!</p>
+<p>Após trabalhar alguns anos na Conectiva, ele deixa a empresa e inicia o período
+em que ficou mais de 5 anos &quot;desempregado&quot;. Foi durante esta fase que ele nos
+presenteou com os livros <a href="http://www.novatec.com.br/livros/expressoesregulares4/">Expressões Regulares &ndash; Uma Abordagem
+Divertida</a> e <a href="http://www.novatec.com.br/livros/shellscript/">Shell
+Script Profissional</a>.</p>
+<p>No episódio você encontra muito mais, então corre lá e ouça agora mesmo!</p>
+<p>Hoje não teremos o Top 5. Calma! Não precisa ficar nervoso, só respira fundo
+e&hellip; Aguarde que no próximo episódio tem mais. É isso mesmo, nossa conversa com
+o Aurelio foi bem interessante e ele desenvolveu outros projetos que apenas um
+episódio não foi o bastante! Por isso, no próximo vamos continuar nossa
+conversa falando sobre os projetos e o Top 5 do Aurelio.</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Site</strong>: <a href="http://aurelio.net/">http://aurelio.net/</a></li>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/oreio">https://twitter.com/oreio</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/aurelio.jargas">https://www.facebook.com/aurelio.jargas</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/aureliojargas">https://github.com/aureliojargas</a></li>
+<li><strong>YouTube</strong>: <a href="https://www.youtube.com/channel/UCdvLgGyXwgMDz7Qfy-7-1jA">https://www.youtube.com/channel/UCdvLgGyXwgMDz7Qfy-7-1jA</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-67" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-67/castalio-podcast-67.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-67/castalio-podcast-67.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://www.novatec.com.br/livros/expressoesregulares4/">Expressões Regulares &ndash; Uma Abordagem Divertida</a></li>
+<li><a href="http://www.piazinho.com.br/">Site do livro Expressões Regulares &ndash; Uma Abordagem Divertida</a></li>
+<li><a href="http://www.novatec.com.br/livros/shellscript/">Shell Script Profissional</a></li>
+<li><a href="http://www.shellscript.com.br/">Site do livro Shell Script Profissional</a></li>
+<li><a href="http://www.novatec.com.br/guias/expreg/">Expressões Regulares &ndash; Guia de Consulta Rápida</a> (agora faz parte do livro de expressões regulares. Acesse o <a href="http://www.piazinho.com.br/download/expressoes-regulares-3-tabelas.pdf">Guia de Consulta Rápida</a>)</li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/aureliojargas.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-67/castalio-podcast-67.mp3" length="42348179" type="audio/mpeg"/></item><item><title>Episódio 66: Thiago Perrotta - Leitura E Tecnologia</title><link>https://castalio.info/episodes/episodio-66-thiago-perrotta-leitura-e-tecnologia/</link><pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 66: Thiago Perrotta - Leitura E Tecnologia</itunes:title><itunes:subtitle>
-Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.</itunes:summary><description>Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.</description><content:encoded><![CDATA[<div class="document">
+Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.</itunes:subtitle><itunes:summary>Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.</itunes:summary><description>Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nós sabemos que ficamos um tempo sem publicar um episódio, mas como você já
+deve saber, não conseguimos devido ao trabalho e, também, por alguns
+desencontros de agenda com as pessoas que gostaríamos de conversar. Felizmente
+hoje vamos quebrar este gelo!</p>
+<p>Mas antes, durante este período, foi publicado dois artigos com sugestões e
+comentários sobre livros. Se você perdeu, dá uma olhada nos artigos <a href="http://castalio.info/livros-marco-de-2015.html">Livros -
+Março de 2015</a> e <a href="http://castalio.info/livros-abril-de-2015.html">Livros -
+Abril de 2015</a> e anota os
+livros que deseja ler.</p>
+<p>Não deixe a sua lista de livros para ler de lado, pois, no episódio de hoje,
+conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se
+apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias
+dicas de como adquirir o hábito de leitura e ler muitos livros. Se você é como
+o Elyézer, que está buscando novamente ler todos os dias, você irá curtir a
+conversa e as dicas.</p>
+<p>Além das dicas, falamos sobre o <a href="https://www.goodreads.com/">GoodReads</a> que
+ajuda a guardar os livros que você já leu e pretende ler. Você também pode
+atualizar o seu progresso a medida que está lendo um ou mais livros. Todos nós
+temos um perfil, e a vantagem é que assim podemos ver o que os outros estão
+lendo e encontrar livros interessantes.</p>
+<p>Para não perder o costume, conversamos sobre tecnologia. E como o assunto é
+sobre leitura, o Thiago deu algumas dicas de como ler livros técnicos.</p>
+<p>Ao fim da conversa, contamos com o Top 5 e hoje você irá encontrar um Top 5 de
+Podcasts além do de Livros, Filmes e Música. As indicações do Thiago são muito
+interessantes. Não perca mais tempo, vai lá ouvir o episódio :).</p>
+<h1 id="contato">Contato</h1>
+<ul>
+<li><strong>Blog</strong>: <a href="https://thiagowfx.github.io/">https://thiagowfx.github.io/</a></li>
+<li><strong>Facebook</strong>: <a href="http://facebook.com/thiagoperrotta">http://facebook.com/thiagoperrotta</a></li>
+<li><strong>Github</strong>: <a href="https://github.com/thiagowfx">https://github.com/thiagowfx</a></li>
+<li><strong>GoodReads</strong>: <a href="https://www.goodreads.com/user/show/7873832-thiago">https://www.goodreads.com/user/show/7873832-thiago</a></li>
+<li><strong>Vimeo</strong>: <a href="https://vimeo.com/thiagowfx">https://vimeo.com/thiagowfx</a></li>
+</ul>
+<h1 id="escute-agora">Escute Agora</h1>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Nós sabemos que ficamos um tempo sem publicar um episódio, mas como você já deve saber, não conseguimos devido ao trabalho e, também, por alguns desencontros de agenda com as pessoas que gostaríamos de conversar. Felizmente hoje vamos quebrar este gelo!</p>
-<p>Mas antes, durante este período, foi publicado dois artigos com sugestões e comentários sobre livros. Se você perdeu, dá uma olhada nos artigos <a class="reference external" href="http://castalio.info/livros-marco-de-2015.html">Livros - Março de 2015</a> e <a class="reference external" href="http://castalio.info/livros-abril-de-2015.html">Livros - Abril de 2015</a> e anota os livros que deseja ler.</p>
-<p>Não deixe a sua lista de livros para ler de lado, pois, no episódio de hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros. Se você é como o Elyézer, que está buscando novamente ler todos os dias, você irá curtir a conversa e as dicas.</p>
-<p>Além das dicas, falamos sobre o <a class="reference external" href="https://www.goodreads.com/">GoodReads</a> que ajuda a guardar os livros que você já leu e pretende ler. Você também pode atualizar o seu progresso a medida que está lendo um ou mais livros. Todos nós temos um perfil, e a vantagem é que assim podemos ver o que os outros estão lendo e encontrar livros interessantes.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-66" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-66/castalio-podcast-66.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow" target="_blank">Thinking, Fast and Slow</a></li><li><a href="https://www.goodreads.com/book/show/9969571-ready-player-one" target="_blank">Ready Player One</a></li><li><a href="https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone" target="_blank">Harry Potter</a></li><li><a href="https://www.goodreads.com/book/show/10052680-o-guia-do-mochileiro-das-gal-xias" target="_blank">O Guia do Mochileiro das Galáxias</a></li><li><a href="https://www.goodreads.com/book/show/28187.The_Lightning_Thief" target="_blank">Percy Jackson</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0241527/" target="_blank">Harry Potter e a Pedra Filosofal</a></li><li><a href="https://www.imdb.com/title/tt0120915/" target="_blank">Star Wars</a></li><li><a href="https://www.imdb.com/title/tt0120903/" target="_blank">X-Men</a></li><li><a href="https://www.imdb.com/title/tt0120737/" target="_blank">Lord of the Rings</a></li><li><a href="https://www.imdb.com/title/tt0361748/" target="_blank">Inglourious Basterds</a></li><li><a href="https://www.imdb.com/title/tt0137523/" target="_blank">Fight Club</a></li><li><a href="https://www.imdb.com/title/tt0454921/" target="_blank">À Procura da Felicidade</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Coldplay" target="_blank">Coldplay</a></li><li><a href="https://www.last.fm/music/Maroon&#43;5" target="_blank">Maroon 5</a></li><li><a href="https://www.last.fm/music/Foo&#43;Fighters" target="_blank">Foo Fighters</a></li><li><a href="https://www.last.fm/music/Linkin&#43;Park" target="_blank">Linkin Park</a></li><li><a href="https://www.last.fm/music/Bullet&#43;for&#43;My&#43;Valentine" target="_blank">Bullet for My Valentine</a></li><li><a href="https://www.last.fm/music/Eminem" target="_blank">Eminem</a></li><li><a href="https://www.last.fm/music/Taylor&#43;Swift" target="_blank">Taylor Swift</a></li></ol><h3>Podcasts:</h3><ol><li><a href="http://www.badvoltage.org/" target="_blank">Bad Voltage</a></li><li><a href="http://elementopie.com/everyday-linux-episodes" target="_blank">Everyday Linux</a></li><li><a href="http://hackncast.org/" target="_blank">Hack&#39;n&#39;Cast</a></li><li><a href="http://castalio.info/" target="_blank">Castálio Podcast</a></li><li><a href="https://papoacessivel.com.br/" target="_blank">Papo Acessível</a></li></ol>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://www.goodreads.com/author/show/630.Dan_Brown">Dan Brown</a></li>
+<li><a href="https://www.goodreads.com/book/show/968.The_Da_Vinci_Code">The Da Vince Code</a></li>
+<li><a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
+<li><a href="https://www.goodreads.com/">GoodReads</a></li>
+<li><a href="https://www.haskell.org/">Haskell</a></li>
+<li><a href="https://www.goodreads.com/author/show/22746.Jono_Bacon">Jono Bacon</a></li>
+<li><a href="https://kindle.amazon.com/">Kindle</a></li>
+<li><a href="http://ocaml.org/">OCaml</a></li>
+<li><a href="http://www.ogre3d.org/">Ogre 3D</a></li>
+<li><a href="http://www.openbsd.org/">OpenBSD</a></li>
+<li><a href="http://orgmode.org/">Org Mode</a></li>
+<li><a href="http://www.scala-lang.org/">SCALA</a></li>
+<li><a href="https://www.goodreads.com/book/show/6389228-the-art-of-community">The Art of Community</a></li>
+<li>Vídeo sobre como postar no blog utilizando o Org Mode <a href="https://vimeo.com/108656001">How do I blog with org2blog</a></li>
+<li><a href="http://www.vim.org/">Vim</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/thiagoperrotta.png"/><enclosure url="https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3" length="43318561" type="audio/mpeg"/></item><item><title>Episódio 65: Gustavo Sverzut Barbieri - ProFUSION E Enlightenment</title><link>https://castalio.info/episodes/episodio-65-gustavo-sverzut-barbieri-profusion-e-enlightenmen/</link><pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-65/castalio-podcast-65.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 65: Gustavo Sverzut Barbieri - ProFUSION E Enlightenment</itunes:title><itunes:subtitle>
 Neste episódio entrevistamos o Gustavo Barbieri, conversamos sobre sua empresa ProFUSION que foi comprada pela Intel em 2012, além de seu envolvimento no projeto Enlightenment, e finalmente sobre o seu Top 5.</itunes:subtitle><itunes:summary>Neste episódio entrevistamos o Gustavo Barbieri, conversamos sobre sua empresa ProFUSION que foi comprada pela Intel em 2012, além de seu envolvimento no projeto Enlightenment, e finalmente sobre o seu Top 5.</itunes:summary><description>Neste episódio entrevistamos o Gustavo Barbieri, conversamos sobre sua empresa ProFUSION que foi comprada pela Intel em 2012, além de seu envolvimento no projeto Enlightenment, e finalmente sobre o seu Top 5.</description><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
