@@ -66,13 +66,11 @@ livros e também tem um canal no Youtube com cursos online gratuitos de Java,
 Angular, Ionic e Javascript. É com grande prazer que nós recebemos nossa
 convidada, Loiane Groner.
 
-.. more
-
 Para não perder o costume, começamos perguntando como a Loiane conheceu a área
 de TI e como ela iniciou na carreira de desenvolvimento de software. Em
 seguida, perguntamos se a Loiane já sofreu algum tipo de preconceito ou
-dificuldade na área por ser mulher, pois como mencionamos no `episódio 99
-<http://castalio.info/episodio-99-tech-news-e-book-review.html>`_,
+dificuldade na área por ser mulher, pois como mencionamos no [episódio
+99](http://castalio.info/episodio-99-tech-news-e-book-review.html),
 programadoras do Facebook passaram por essas dificuldades.
 
 Continuando, perguntamos o que e full-stack developer e quais são as
@@ -84,9 +82,11 @@ front-end. Por isso, perguntamos quais as tecnologias a Loiane recomenda
 estudar para quem quer se especializar em front-end.
 
 No mundo do desenvolvimento mobile também encontramos varias tecnologias:
-`Xamarin`_, `Cordova`_, `Ionic`_, `Corona`_ e outros. E também várias abordagens como os
-Progressive Web Apps (PWA), que foi mencionado no `episódio 96
-<http://castalio.info/episodio-96-plataforma-de-desenvolvimento-da-microsoft-parte-2.html>`_.
+[Xamarin](https://www.xamarin.com/), [Cordova](https://cordova.apache.org/),
+[Ionic](http://ionicframework.com/), [Corona](https://coronalabs.com/) e
+outros. E também várias abordagens como os Progressive Web Apps (PWA), que foi
+mencionado no [episódio
+96](http://castalio.info/episodio-96-plataforma-de-desenvolvimento-da-microsoft-parte-2.html).
 Para ajudar quem esta começando nesta área, perguntamos para a Loiane quais a
 tecnologias ela indicaria e se ela acredita que o modelo PWA vai dominar sobre
 as native apps.
@@ -117,116 +117,88 @@ Confira a gravação do episódio no vídeo abaixo:
 
 Antes de finalizar o post, não podemos deixar de agradecer a todos que nos
 deixaram comentários. Se você tem algo a nos dizer, você pode deixar seus
-comentários aqui no site, ou no `Twitter <https://twitter.com/castaliopod>`_ ou
-no `Facebook <https://www.facebook.com/castaliopod>`_. Também não esqueça de
-seguir a `Playlist do Castálio Podcast
-<https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg>`_ e
-assinar nosso `canal do YouTube <http://www.youtube.com/c/CastalioPodcast>`_.
+comentários aqui no site, ou no [Twitter](https://twitter.com/castaliopod) ou
+no [Facebook](https://www.facebook.com/castaliopod). Também não esqueça de
+seguir a [Playlist do Castálio
+Podcast](https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg)
+e assinar nosso [canal do YouTube](http://www.youtube.com/c/CastalioPodcast).
 
 Até o próximo episódio!
 
-Contato
--------
+# Contato
 
-.. raw:: html
-
-    <div class="row">
-        <div class="col-md-6">
-            <p>
-            <div class="media">
-            <div class="media-left">
-                <img class="media-object rounded-circle img-thumbnail" src="/images/loiane-groner.jpg" alt="Loiane Groner" width="200px">
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Loiane Groner</h4>
-                <ul class="list-unstyled">
-                    <li><i class="bi bi-github"></i> <a href="https://github.com/loiane">Github</a></li>
-                    <li><i class="bi bi-link"></i> <a href="http://loiane.com/">Site</a></li>
-                    <li><i class="bi bi-link"></i> <a href="http://loiane.training/">Site de cursos</a></li>
-                    <li><i class="bi bi-twitter"></i> <a href="http://www.twitter.com/loiane">Twitter</a></li>
-                    <li><i class="bi bi-youtube"></i> <a href="https://youtube.com/user/loianeg">YouTube</a></li>
-                </ul>
-            </div>
-            </div>
-            </p>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/loiane-groner.jpg" alt="Loiane Groner" width="200px">
         </div>
+        <div class="media-body">
+            <h4 class="media-heading">Loiane Groner</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/loiane">Github</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://loiane.com/">Site</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://loiane.training/">Site de cursos</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="http://www.twitter.com/loiane">Twitter</a></li>
+                <li><i class="bi bi-youtube"></i> <a href="https://youtube.com/user/loianeg">YouTube</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
     </div>
+</div>
 
-Escute Agora
-------------
+# Escute Agora
 
 {{< podcast castalio-podcast-105 >}}
 
-
 {{< top5 >}}
 movie:
-    * O Senhor dos Anéis
-    * Star Wars
+    - O Senhor dos Anéis
+    - Star Wars
 music:
-    * Avantasia
-    * Angra
-    * Nightwish
-    * After Forever
-    * Within Temptation
-    * Céline Dion
-    * Blind Guardian
+    - Avantasia
+    - Angra
+    - Nightwish
+    - After Forever
+    - Within Temptation
+    - Céline Dion
+    - Blind Guardian
 book:
-    * O Senhor dos Anéis
-    * A Game of Thrones
-    * Harry Potter
-    * O Guia do Mochileiro das Galáxias
-    * Crepúsculo
+    - O Senhor dos Anéis
+    - A Game of Thrones
+    - Harry Potter
+    - O Guia do Mochileiro das Galáxias
+    - Crepúsculo
 {{< /top5 >}}
 
+# Links
 
-Links
------
+- [Entrevista da Loiane Groner para o Training Center](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-full-stack-developer-e-analista-de-neg%C3%B3cios-por-loiane-groner-6ab92c06c06c)
+- [Podcast PodProgramar](https://mundopodcast.com.br/PodProgramar/)
+- [ECMAScript](https://pt.wikipedia.org/wiki/ECMAScript)
+- [TypeScript](http://www.typescriptlang.org/)
+- [Babel](https://babeljs.io/)
+- [AngularJS](https://angularjs.org/)
+- [React](https://facebook.github.io/react/)
+- [JSView](http://www.javascriptview.com/)
+- [ReactiveX](http://reactivex.io/)
+- [Xamarin](https://www.xamarin.com/)
+- [Cordova](https://cordova.apache.org/)
+- [Ionic](http://ionicframework.com/)
+- [Corona](https://coronalabs.com/)
+- [Jasmine](https://jasmine.github.io/)
+- [PHP](http://php.net/)
+- [Python](https://www.python.org/)
+- [Desenvolvimento nativo para Android](https://developer.android.com/)
+- [Desenvolvimento nativo para iOS](https://developer.apple.com/ios/)
+- [TDC 2017](http://www.thedevelopersconference.com.br/tdc/2017/index.html)
 
-* `Entrevista da Loiane Groner para o Training Center`_
-* `Podcast PodProgramar`_
-* `ECMAScript`_
-* `TypeScript`_
-* `Babel`_
-* `AngularJS`_
-* `React`_
-* `JSView`_
-* `ReactiveX`_
-* `Xamarin`_
-* `Cordova`_
-* `Ionic`_
-* `Corona`_
-* `Jasmine`_
-* `PHP`_
-* `Python`_
-* `Desenvolvimento nativo para Android`_
-* `Desenvolvimento nativo para iOS`_
-* `TDC 2017`_
-
-.. class:: alert alert-info
-
-    **Music (Música)**: `Ain't Gonna Give Jelly Roll`_ by `Red Hook Ramblers`_ is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing) License.
-
-.. Mentioned
-.. _Entrevista da Loiane Groner para o Training Center: https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-full-stack-developer-e-analista-de-neg%C3%B3cios-por-loiane-groner-6ab92c06c06c
-.. _Podcast PodProgramar: https://mundopodcast.com.br/PodProgramar/
-.. _ECMAScript: https://pt.wikipedia.org/wiki/ECMAScript
-.. _TypeScript: http://www.typescriptlang.org/
-.. _Babel: https://babeljs.io/
-.. _AngularJS: https://angularjs.org/
-.. _React: https://facebook.github.io/react/
-.. _JSView: http://www.javascriptview.com/
-.. _ReactiveX: http://reactivex.io/
-.. _Xamarin: https://www.xamarin.com/
-.. _Cordova: https://cordova.apache.org/
-.. _Ionic: http://ionicframework.com/
-.. _Corona: https://coronalabs.com/
-.. _Jasmine: https://jasmine.github.io/
-.. _PHP: http://php.net/
-.. _Python: https://www.python.org/
-.. _Desenvolvimento nativo para Android: https://developer.android.com/
-.. _Desenvolvimento nativo para iOS: https://developer.apple.com/ios/
-.. _TDC 2017: http://www.thedevelopersconference.com.br/tdc/2017/index.html
-
-.. Footer
-.. _Ain't Gonna Give Jelly Roll: http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll
-.. _Red Hook Ramblers: http://www.redhookramblers.com/
+{{< alert >}}
+**Music (Música)**: [Ain\'t Gonna Give Jelly
+Roll](http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll)
+by [Red Hook Ramblers](http://www.redhookramblers.com/) is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+{{< /alert >}}
