@@ -36,7 +36,7 @@ ela mesma diz. Natalia Raythz, seja muito bem-vinda ao Castálio Podcast.
 <div class="row">
     <div class="col-md-12">
         <a href="http://mng.bz/Qxnj" target="_blank">
-            <img class="img-responsive" src="/images/women-in-tech-conference.jpg" alt="live@manning Women in Technology" />
+            <img class="img-fluid" src="/images/women-in-tech-conference.jpg" alt="live@manning Women in Technology" />
         </a>
     </div>
 </div>

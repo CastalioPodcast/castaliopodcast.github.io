@@ -38,7 +38,7 @@ Nosso convidado de hoje começou suas atividades com software livre em
 <div class="row">
     <div class="col-md-12">
         <a href="https://mng.bz/4B9V" target="_blank">
-            <img class="img-responsive" src="/images/rust-conference.jpg" alt="live@manning Rust Conference" />
+            <img class="img-fluid" src="/images/rust-conference.jpg" alt="live@manning Rust Conference" />
         </a>
     </div>
 </div>

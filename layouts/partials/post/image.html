@@ -1,3 +1,3 @@
 {{ if .Params.image }}
-<img class="float-start img-thumbnail post-image" src="{{ .Params.image }}"{{ if .Params.image_alt }} alt="{{ .Params.image_alt }}"{{ end }}/>
+{{ partial "helpers/image" (dict "filename" (printf "%s%s" .Params.image "?width=400px") "alt" .Params.image_alt "class" "float-start img-thumbnail post-image" "resources" .Resources) }}
 {{ end }}
