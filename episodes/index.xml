@@ -556,7 +556,7 @@ ela mesma diz. Natalia Raythz, seja muito bem-vinda ao Castálio Podcast.</p>
 <div class="row">
     <div class="col-md-12">
         <a href="http://mng.bz/Qxnj" target="_blank">
-            <img class="img-responsive" src="/images/women-in-tech-conference.jpg" alt="live@manning Women in Technology" />
+            <img class="img-fluid" src="/images/women-in-tech-conference.jpg" alt="live@manning Women in Technology" />
         </a>
     </div>
 </div>
@@ -670,7 +670,7 @@ Salvador, seja muito bem-vindo ao Castálio Podcast.</p>
 <div class="row">
     <div class="col-md-12">
         <a href="https://mng.bz/4B9V" target="_blank">
-            <img class="img-responsive" src="/images/rust-conference.jpg" alt="live@manning Rust Conference" />
+            <img class="img-fluid" src="/images/rust-conference.jpg" alt="live@manning Rust Conference" />
         </a>
     </div>
 </div>
