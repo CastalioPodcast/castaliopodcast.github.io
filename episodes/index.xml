@@ -172,19 +172,166 @@ atuando diretamente com os clientes e desenvolvedores, especialmente nas
 linguagens <a class="reference external" href="https://www.ruby-lang.org/">Ruby</a> e <a class="reference external" href="https://elixir-lang.org/">Elixir</a>.  George Guimarães seja bem vindo ao Castálio
 Podcast.</p>
 ]]></content:encoded><itunes:image href="https://castalio.info/images/george-guimaraes.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-141/castalio-podcast-141.mp3" length="70795164" type="audio/mpeg"/></item><item><title>Episódio 140: Eduardo Mendes - Live De Python</title><link>https://castalio.info/episodes/episodio-140-eduardo-mendes-live-de-python/</link><pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-140/castalio-podcast-140.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 140: Eduardo Mendes - Live De Python</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Castálio Podcast</itunes:author><itunes:title>Episódio 140: Eduardo Mendes - Live De Python</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso convidado de hoje é apto fazedor de lambdas, apaixonado por software
 livre e ciência. Tem um canal no YouTube com mais de 5 mil inscritos e 130 mil
 visualizações e é responsável pela Live de Python. Eduardo Mendes seja
 bem-vindo ao Castálio Podcast.</p>
+<div class="clearfix"></div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-140" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-140/castalio-podcast-140.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-140/castalio-podcast-140.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>Como o Eduardo começou na área de programação?</li>
+<li>Como que ele conheceu e começou a programar em Python?</li>
+<li>Como ele iniciou a produzir conteúdo no YouTube?</li>
+<li>O que é e como começou a Live de Python?</li>
+<li>Como o Eduardo se prepara para as lives?</li>
+<li>O que o motiva a compartilhar conhecimento com a comunidade?</li>
+<li>O que ele recomenda para quem está iniciando em programação e
+programação funcional?</li>
+<li>Qual foi a principal barreira que ele teve ao inciar na programação
+e como ele a superou?</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/3192495-o-apanhador-no-campo-de-centeio" target="_blank">O Apanhador no Campo de Centeio</a></li><li><a href="https://www.goodreads.com/book/show/7862896-o-mestre-e-margarida" target="_blank">O Mestre e Margarida</a></li><li><a href="https://www.goodreads.com/author/show/8483.Junji_Ito" target="_blank">Junji Ito</a></li><li><a href="https://www.goodreads.com/book/show/36361456-python-fluente" target="_blank">Python Fluente</a></li><li><a href="https://www.goodreads.com/book/show/25977827-functional-programming-in-python" target="_blank">Functional Programming in Python</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0087544/" target="_blank">Nausicaä of the Valley of the Wind</a></li><li><a href="https://www.imdb.com/title/tt2085059/" target="_blank">Black Mirror</a></li><li><a href="https://www.imdb.com/title/tt0229888/" target="_blank">Chapolin</a></li><li><a href="https://www.imdb.com/title/tt0098800/" target="_blank">Um Maluco no Pedaço</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Terno&#43;Rei/Violeta" target="_blank">Terno Rei - Violeta</a></li><li><a href="https://www.last.fm/music/Surra" target="_blank">Surra</a></li><li><a href="https://www.last.fm/music/Dance&#43;of&#43;Days" target="_blank">Dance of Days</a></li><li><a href="https://www.last.fm/music/Daft&#43;Punk/Random&#43;Access&#43;Memory" target="_blank">Daft Punk - Random Access Memory</a></li><li><a href="https://www.last.fm/music/Deadfish" target="_blank">Deadfish</a></li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/69ViqBRoEwk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/eduardo-mendes.png" alt="Eduardo Mendes" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Eduardo Mendes</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/dunossauro">Github</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/dunossauro">Twitter</a></li>
+                <li><i class="bi bi-youtube"></i> <a href="http://youtube.com/c/eduardomendes">YouTube</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-140" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-140/castalio-podcast-140.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-140/castalio-podcast-140.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://www.youtube.com/user/AkitaOnRails">AkitaOnRails</a></li>
+<li><a href="https://github.com/ansible/ansible">Ansible</a></li>
+<li><a href="https://apoia.se/livedepython">Apoia.se Live de Python</a></li>
+<li><a href="https://www.archlinux.org/">Arch Linux</a></li>
+<li><a href="https://github.com/behave/behave">Behave</a></li>
+<li><a href="http://ocaml.org/">Caml</a></li>
+<li><a href="http://coconut-lang.org/">Cocunut</a></li>
+<li><a href="https://djangogirls.org/">Django Girls</a></li>
+<li><a href="https://www.docker.com/">Docker</a></li>
+<li><a href="https://elixir-lang.org/">Elixir</a></li>
+<li><a href="https://github.com/kachayev/fn.py">Fn.py</a></li>
+<li><a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q">Fun Fun Function</a></li>
+<li><a href="https://docs.python.org/3.7/library/functools.html">Functools</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Functor">Functor</a></li>
+<li><a href="https://garoa.net.br">Garoa Hacker Clube</a></li>
+<li><a href="https://about.gitlab.com/product/continuous-integration/">Gitlab CI</a></li>
+<li><a href="https://www.haskell.org/">Haskel</a></li>
+<li><a href="http://hylang.org/">Hy</a></li>
+<li><a href="https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw">Ignorancia Zero no YouTube</a></li>
+<li><a href="https://www.goodreads.com/book/show/35109529-introdu-o-programa-o-com-python">Introdução à Programação com Python</a></li>
+<li><a href="https://docs.python.org/3.7/library/itertools.html">Itertools</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29%3CPaste%3E">Java</a></li>
+<li><a href="https://jenkins.io/">Jenkins</a></li>
+<li><a href="https://www.hardware.com.br/kurumin/">Kurumin</a></li>
+<li><a href="https://github.com/ramalho">Luciano Ramalho</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Monoid">Monoid</a></li>
+<li><a href="http://www.pingo.io/">Pingo</a></li>
+<li><a href="http://potigol.github.io/">Potigol</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional">Programação Funcional</a></li>
+<li><a href="https://www.pyladies.com/">PyLadies</a></li>
+<li><a href="https://us.pycon.org/2019/financial-assistance/">Pycon Financial Assistance</a></li>
+<li><a href="https://www.facebook.com/groups/python.brasil/">Python Brasil - Programadores (Grupo Facebook)</a></li>
+<li><a href="https://ark4n.wordpress.com/python/">Python para Desenvolvedores</a></li>
+<li><a href="https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA">Python para Zumbis</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://www.pmease.com/quickbuild">QuickBuild</a></li>
+<li><a href="https://www.seleniumhq.org/projects/webdriver/">Selenium</a></li>
+<li><a href="http://www.slackware.com/">Slackware</a></li>
+<li><a href="http://toolz.readthedocs.org/">Toolz</a></li>
+<li><a href="https://www.vagrantup.com/">Vagrant</a></li>
+<li><a href="https://www.vivaolinux.com.br/">Viva o Linux</a></li>
+<li><a href="https://github.com/dunossauro/python-funcional">python-funcional</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/eduardo-mendes.png"/><enclosure url="https://archive.org/download/castalio-podcast-140/castalio-podcast-140.mp3" length="68298483" type="audio/mpeg"/></item><item><title>Episódio 139: Elcio Ferreira - Padrões E Desenvolvimento Web</title><link>https://castalio.info/episodes/episodio-139-elcio-ferreira-padroes-e-desenvolvimento-web/</link><pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-139/castalio-podcast-139.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 139: Elcio Ferreira - Padrões E Desenvolvimento Web</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Castálio Podcast</itunes:author><itunes:title>Episódio 139: Elcio Ferreira - Padrões E Desenvolvimento Web</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso convidado de hoje é sócio fundador da Visie Padrões Web. Pioneiro no uso
 e divulgação dos padrões do W3C no Brasil, ele já treinou equipes de dezenas de
 empresas como Globo.com, Terra, Petrobras, iG e Locaweb. Além disso, tem
@@ -193,22 +340,296 @@ como Brastemp, Itaú Unibanco, Johnson &amp; Johnson e Rede Globo. Além palestr
 para milhares de pessoas em eventos como Encontro Locaweb, iMasters Intercon,
 The Developers Conference, PHP Conference Brasil. Elcio Ferreira seja bem-vindo
 ao Castálio Podcast.</p>
+<div class="clearfix"></div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-139" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-139/castalio-podcast-139.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-139/castalio-podcast-139.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>Como o Elcio iniciou na área de padrões e desenvolvimento web?</li>
+<li>O inicio do Tableless.</li>
+<li>Como os desenvolvedores comecaram a se preocupar com padroes web?</li>
+<li>O que focar quando esta iniciando a carreira como desenvolvedor web?</li>
+<li>Dicas de materias para quem quer aprender mais sobre JavaScript.</li>
+<li>Dicas de plugins para o Vim que ajudam na produtividade para
+desenvolvimento web.</li>
+<li>As boas e ruins partes do JavaScript:</li>
+</ul>
+<p><img src="http://www.secretgeek.net/higgins/image/javascript_good_versus_bad.jpg" alt="Fonte http://www.secretgeek.net/higgins/slides_alt_net.html"></p>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/38364667-stand-out-of-our-light" target="_blank">Stand Out of Our Light - James Williams</a></li><li><a href="https://www.goodreads.com/book/show/24038.Dive_Into_Python" target="_blank">Dive into Python</a></li><li><a href="https://www.goodreads.com/book/show/6919462-dive-into-python-3" target="_blank">Dive into Python 3</a></li><li><a href="https://www.goodreads.com/book/show/36361456-python-fluente" target="_blank">Python Fluente</a></li><li><a href="https://www.goodreads.com/book/show/42744608-o-milagre-da-manh" target="_blank">O milagre da manhã</a></li><li><a href="https://www.goodreads.com/book/show/41172720-pai-rico-pai-pobre-desenvolva-a-sua-intelig-ncia-financeira" target="_blank">Pai Rico, Pai Pobre</a></li><li><a href="https://www.goodreads.com/book/show/18518493-2001" target="_blank">2001: Uma odisseia no espaço</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0108052/" target="_blank">A Lista de Schindler</a></li><li><a href="https://www.imdb.com/title/tt0120915/" target="_blank">Star Wars</a></li><li><a href="https://www.imdb.com/title/tt0086567/" target="_blank">Jogos de Guerra</a></li><li><a href="https://www.imdb.com/title/tt0139809/" target="_blank">O 13º Andar</a></li><li><a href="https://www.imdb.com/title/tt2446980/" target="_blank">Joy</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Joss&#43;Stone/_/Right&#43;to&#43;Be&#43;Wrong" target="_blank">Joss Stone - Right to Be Wrong</a></li><li><a href="https://www.last.fm/music/Plas&#43;Johnson/_/Blue&#43;Jean&#43;Shuffle&#43;-&#43;Master" target="_blank">Plas Johnson - Blue Jean Shuffle</a></li><li><a href="https://www.last.fm/music/Pentatonix/_/The&#43;Little&#43;Drummer&#43;Boy" target="_blank">Pentatonix - The Little Drummer Boy</a></li><li><a href="https://www.last.fm/music/Estev%C3%A3o&#43;Queiroga/_/Se&#43;For&#43;Com&#43;Voc%C3%AA&#43;%28Pode&#43;Ser%29" target="_blank">Estevão Queiroga - Se For Com Você</a></li><li><a href="https://www.last.fm/music/Carl&#43;Orff/_/Ave&#43;formosissima" target="_blank">Carl Orff - Ave formosissima</a></li><li><a href="https://www.last.fm/music/Carl&#43;Orff/_/Carmina&#43;Burana:&#43;O&#43;Fortuna" target="_blank">Carl Orff - Carmina Burana: O Fortuna</a></li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/I8N7BYtWUGY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/elcio-ferreira.jpg" alt="Elcio Ferreira" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Elcio Ferreira</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/elcio">Github</a></li>
+                <li><i class="bi bi-link"></i> <a href="https://elcio.com.br/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/elcio">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-139" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-139/castalio-podcast-139.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-139/castalio-podcast-139.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://www.w3.org/">W3C</a></li>
+<li><a href="https://tableless.com.br/convertidos-tableless/">Convertidos do Tableless</a></li>
+<li><a href="https://whatwg.org/">WHATWG</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Microsoft_FrontPage">FrontPage</a></li>
+<li><a href="https://caniuse.com/">Can I Use</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Adobe_Dreamweaver">Dreamweaver</a></li>
+<li><a href="https://reactjs.org/">React</a></li>
+<li><a href="https://angularjs.org/">AngularJS</a></li>
+<li><a href="https://vuejs.org/">Vue.js</a></li>
+<li><a href="http://lesscss.org/">LESS</a></li>
+<li><a href="http://compass-style.org/">Compass</a></li>
+<li><a href="https://sass-lang.com/">SASS</a></li>
+<li><a href="https://nodejs.org/en/">Node</a></li>
+<li><a href="http://visie.com.br/">Visie</a></li>
+<li><a href="https://maujor.com/">Moujor</a></li>
+<li><a href="https://jquery.com/">jQuery</a></li>
+<li><a href="https://www.vim.org/">Vim</a></li>
+<li><a href="https://kde.org/applications/utilities/kate/">Kate</a></li>
+<li><a href="https://kde.org/">KDE</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://www.vim.org/scripts/script.php?script_id=13">closetag.vim</a></li>
+<li><a href="https://github.com/SirVer/ultisnips/">UltiSnips</a></li>
+<li><a href="https://github.com/mattn/emmet-vim">emmet-vim</a></li>
+<li><a href="https://github.com/scrooloose/nerdtree">NERDTree</a></li>
+<li><a href="https://github.com/godlygeek/tabular">tabular</a></li>
+<li><a href="https://github.com/tpope/vim-pathogen">vim-pathogen</a></li>
+<li><a href="http://www.web2py.com/">web2py</a></li>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="https://www.goodreads.com/book/show/2998152-javascript">JavaScript the Good Parts</a></li>
+<li><a href="https://github.com/braziljs/eloquente-javascript">Eloquent JavaScript (JavaScript Eloquente)</a></li>
+<li><a href="https://developer.mozilla.org/pt-BR/">MDN web docs</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/elcio-ferreira.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-139/castalio-podcast-139.mp3" length="73698346" type="audio/mpeg"/></item><item><title>Episódio 138: Ana Paula Gomes - Qualidade De Software</title><link>https://castalio.info/episodes/episodio-138-ana-paula-gomes-qualidade-de-software/</link><pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-138/castalio-podcast-138.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 138: Ana Paula Gomes - Qualidade De Software</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Castálio Podcast</itunes:author><itunes:title>Episódio 138: Ana Paula Gomes - Qualidade De Software</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nossa convidada de hoje é baiana com muito orgulho e desenvolvedora backend na
 Thermondo. Mestre em Ciência da Computação pela UFMG. Adora viajar, boas
 conversas e cervejas de cor avermelhada. Já foi perna de pau titular do time de
 futsal Boas Esporte, já se aventurou com chutes e cotoveladas no Muay Thai.
 Atualmente finge que é corredora. Ana Paula Gomes seja bem-vinda ao Castálio
 Podcast.</p>
+<div class="clearfix"></div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-138" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-138/castalio-podcast-138.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-138/castalio-podcast-138.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>Como a Ana Paula iniciou na área de desenvolvimento de software?</li>
+<li>Quais as tecnologias que ela usa no seu dia a dia como
+desenvolvedora backend?</li>
+<li>Dicas para quem gostaria de trabalhar e morar fora do país.</li>
+<li>O que é qualidade de software?</li>
+<li>Quais ferramentas e boas práticas podem auxiliar a manter a
+qualidade de software?</li>
+<li>O que motivou a Ana Paula a escrever o
+<a href="https://github.com/anapaulagomes/pytest-picked">pytest-picked</a>?</li>
+<li>O que é o <a href="https://github.com/codingjoe/relint">relint</a> e como a Ana
+Paula contribui com o projeto?</li>
+<li>O que é o <a href="https://lambdalint.github.io/">Lambda Lint</a> e como a Ana
+Paula contribui com o projeto?</li>
+<li>Recomendaçoes de livros e blogs para quem quer aprender mais sobre
+qualidade de software.</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/12158480-why-nations-fail" target="_blank">Why Nations Fail</a></li><li><a href="https://www.goodreads.com/book/show/39296119-how-to-be-successful-without-hurting-men-s-feelings" target="_blank">How to Be Successful without Hurting Men&#39;s Feelings</a></li><li><a href="https://www.goodreads.com/book/show/6184133-admir-vel-mundo-novo" target="_blank">Admirável Mundo Novo</a></li><li><a href="https://www.goodreads.com/book/show/36361456-python-fluente" target="_blank">Python Fluente</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt5834204/" target="_blank">The Handmaid&#39;s Tale</a></li><li><a href="https://www.imdb.com/title/tt5788792/" target="_blank">The Marvelous Mrs. Maisel</a></li><li><a href="https://www.imdb.com/title/tt7349662/" target="_blank">BlacKkKlansman</a></li><li><a href="https://www.imdb.com/title/tt1063669/" target="_blank">A Onda</a></li><li><a href="https://www.imdb.com/title/tt1727824/" target="_blank">Bohemian Rhapsody</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Luedji&#43;Luna" target="_blank">Luedji Luna</a></li><li><a href="https://www.last.fm/music/O&#43;Rappa" target="_blank">O Rappa</a></li><li><a href="https://www.last.fm/music/Johnny&#43;Hooker" target="_blank">Johnny Hooker</a></li><li><a href="https://www.last.fm/music/Nina&#43;Simone" target="_blank">Nina Simone</a></li><li><a href="https://www.last.fm/music/Baiana&#43;System" target="_blank">Baiana System</a></li></ol><h3>Podcasts:</h3><ol><li><a href="https://soundcloud.com/ummilkshakechamadowanda" target="_blank">Um Milkshake Chamado Wanda</a></li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/1O2Q6YbWpnM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/ana-paula-gomes.jpg" alt="Ana Paula Gomes" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Ana Paula Gomes</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/anapaulagomes">Github</a></li>
+                <li><i class="bi bi-link"></i> <a href="https://www.anapaulagomes.me/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/AnaPaulaGomess">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-138" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-138/castalio-podcast-138.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-138/castalio-podcast-138.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://www.goodreads.com/book/show/3735293-clean-code">Clean Code do Uncle Bob</a></li>
+<li><a href="https://pypi.org/project/flake8/">Flake8</a></li>
+<li><a href="https://golang.org/">Go</a></li>
+<li><a href="https://golang.org/cmd/gofmt/">Gofmt</a></li>
+<li><a href="https://google.github.io/styleguide/">Google Style Guides</a></li>
+<li><a href="https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests">Growing Object-Oriented Software, Guided by Tests</a></li>
+<li><a href="https://github.com/airbnb/javascript">JavaScript Style Guide (Airbnb)</a></li>
+<li><a href="https://github.com/LambdaLint">Lambda Lint Github</a></li>
+<li><a href="https://lambdalint.github.io/">Lambda Lint</a></li>
+<li><a href="https://www.goodreads.com/book/show/25148706-orienta-o-a-objetos-e-solid-para-ninjas">Orientação a Objetos e SOLID para Ninjas</a></li>
+<li><a href="https://www.anapaulagomes.me/pt-br/2018/04/melhorando-a-qualidade-do-c%C3%B3digo-junto-com-o-time/">Post: Melhorando a Qualidade do Código junto com o time</a></li>
+<li><a href="https://www.anapaulagomes.me/pt-br/2018/10/um-ano-de-alemanha-/">Post: Um ano de Alemanha</a></li>
+<li><a href="https://pypi.org/project/bandit/">Python Bandit</a></li>
+<li><a href="https://pypi.org/project/black/">Python Black</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/Refatora%C3%A7%C3%A3o">Refatoração</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/Test_Driven_Development">TDD</a></li>
+<li><a href="By%20Example%20do%20Kent%20Beck%20https://www.goodreads.com/book/show/387190.Test_Driven_Development">Test Driven Development</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/Teste_de_unidade">Testes Unitários</a></li>
+<li><a href="https://pypi.org/project/isort/">isort</a></li>
+<li><a href="https://github.com/anapaulagomes/pytest-picked">pytest-picked</a></li>
+<li><a href="https://pytest.org/">pytest</a></li>
+<li><a href="https://github.com/codingjoe/relint">relint</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/ana-paula-gomes.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-138/castalio-podcast-138.mp3" length="74825421" type="audio/mpeg"/></item><item><title>Episódio 137: Vicente Marçal - Filosofia Com Python</title><link>https://castalio.info/episodes/episodio-137-vicente-marcal-filosofia-com-python/</link><pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-137/castalio-podcast-137.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 137: Vicente Marçal - Filosofia Com Python</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Castálio Podcast</itunes:author><itunes:title>Episódio 137: Vicente Marçal - Filosofia Com Python</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso convidado de hoje é professor adjunto do Departamento de Filosofia da
 UNIR - Universidade Federal de Rondônia. Doutorando em Psicologia Social e do
 Trabalho pelo IP-USP - Instituto de Psicologia da Universidade de São Paulo.
@@ -222,63 +643,1095 @@ da UNIR em Porto Velho-RO. Com experiência em Filosofia, com ênfase em
 Epistemologia, Epistemologia Genética, Teoria do Conhecimento e Lógica. E nas
 horas vagas ele brinca com Python. Vicente Marçal seja bem-vindo ao Castálio
 Podcast.</p>
+<div class="clearfix"></div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-137" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>Como o Vicente entrou na área de Filosofia?</li>
+<li>Qual o interesse dos alunos por filosofia hoje em dia?</li>
+<li>É possível transformar o mundo utilizando tecnologia?</li>
+<li>Como o Vicente chegou até o Python?</li>
+<li>Quais os livros e cursos o Vicente recomenda para quem está
+iniciando com Python?</li>
+<li>Quais os livros e cursos o Vicente recomenda para quem está
+aprendendo programação? Principalmente para pessoas que não são da
+área de tecnologia.</li>
+<li>Como o background como filósofo ajudou o Vicente a aprender e
+utilizar a programação?</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.estantevirtual.com.br/livros/zelia-ramozzi-chiarottino/piaget-modelo-e-estrutura/1711628536" target="_blank">Modelo e Estrutura - Zelia Ramozzi</a></li><li><a href="https://www.estantevirtual.com.br/livros/zelia-ramozzi-chiarottino/em-busca-do-sentido-da-obra-de-jean-piaget/1815760251" target="_blank">Em Busca do Sentido da Obra de Jean Piaget - Zelia Ramozzi</a></li><li><a href="https://www.goodreads.com/book/show/7502434-adaptation-and-intelligence" target="_blank">Adaptation vitale et psychologie de l&#39;intelligence</a></li><li><a href="https://www.goodreads.com/book/show/1814504.Biology_and_Knowledge" target="_blank">Biologia e Conhecimento</a></li><li><a href="https://www.goodreads.com/book/show/14622485-la-psychanalyse-son-image-et-son-public" target="_blank">A Psicanálise, sua imagem e seu público</a></li><li><a href="https://www.goodreads.com/book/show/1728850.The_Origins_of_Intelligence_in_Children" target="_blank">O Nascimento da Inteligência na Criança</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0944947/" target="_blank">Game of Thrones</a></li><li><a href="https://www.imdb.com/title/tt1830617/" target="_blank">Grimm</a></li><li><a href="https://www.imdb.com/title/tt3749900/" target="_blank">Gotham</a></li><li><a href="https://www.imdb.com/title/tt0451279/" target="_blank">Mulher Maravilha</a></li><li><a href="https://www.imdb.com/title/tt0468569/" target="_blank">The Dark Knight</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Iron&#43;Maiden/Powerslave/Powerslave" target="_blank">Iron Maiden - Powerslave</a></li><li><a href="https://www.last.fm/music/Belphegor/_/Lucifer&#43;Incestus" target="_blank">Belphegor - Lucifer Incestus</a></li><li><a href="https://www.last.fm/music/Ratos&#43;De&#43;Por%C3%A3o/_/Conflito&#43;Violento" target="_blank">Ratos De Porão - Conflito Violento</a></li><li><a href="https://www.last.fm/music/C%C3%B3lera/_/Medo" target="_blank">Cólera - Medo</a></li><li><a href="https://www.last.fm/music/Garotos&#43;Podres/_/Eu&#43;n%C3%A3o&#43;sei&#43;o&#43;que&#43;quero" target="_blank">Garotos Podres - Eu não sei o que quero</a></li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/hl8qQpijrM4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/vicente-marcal.jpg" alt="Vicente Marçal" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Vicente Marçal</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-link"></i> <a href="http://lattes.cnpq.br/6291991365858479">Currículo Lattes</a></li>
+                <li><i class="bi bi-link"></i> <a href="https://www.vicentemarcal.com/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/vicentemarcal">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-137" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://www.gnu.org/software/bash/">Bash</a></li>
+<li><a href="https://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a></li>
+<li><a href="https://brasil.io/">Brasil.io</a></li>
+<li><a href="https://www.goodreads.com/book/show/23099363-django-essentials">Django Essentials</a></li>
+<li><a href="https://getfedora.org/">Fedora</a></li>
+<li><a href="https://www.youtube.com/watch?v=fft6IvL-y1g&amp;list=PLCuWRxjbgFnOgjL5rynXlnotsDhsi00Xa&amp;index=3">Flask Mega Tutorial</a></li>
+<li><a href="https://www.goodreads.com/book/show/35109529-introdu-o-programa-o-com-python">Introdução à Programação com Python</a></li>
+<li><a href="https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas">Jürgen Habermas</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Karl_Marx">Karl Marx</a></li>
+<li><a href="http://www.numpy.org/">NumPy</a></li>
+<li><a href="https://www.goodreads.com/book/show/40800648-pense-em-python">Pense em Python</a></li>
+<li><a href="https://mundopodcast.com.br/podprogramar/">PodProgramar</a></li>
+<li><a href="https://www.thevenusproject.com/">Projeto Venus</a></li>
+<li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+<li><a href="http://brasil.pyladies.com/">PyLadies</a></li>
+<li><a href="https://www.python.pro.br/">Python Pro</a></li>
+<li><a href="https://www.pycursos.com/python-para-zumbis/">Python para Zumbis</a></li>
+<li><a href="http://quebradev.com.br/">QuebraDev</a></li>
+<li><a href="https://twitter.com/RosieDaSerenata">Rosie da Serenata</a></li>
+<li><a href="https://sqlite.org/">SQLite</a></li>
+<li><a href="https://serenata.ai/">Serenata de Amor</a></li>
+<li><a href="https://www.goodreads.com/book/show/24488664-web-scraping-with-python">Web Scraping com Python</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Web_scraping">Web scraping</a></li>
+<li><a href="https://welcometothedjango.com.br/">Welcome to the Django</a></li>
+<li><a href="http://lattes.cnpq.br/2160365073619685">Zelia Ramozzi-Chiarottino</a></li>
+<li><a href="https://matplotlib.org/">matplotlib</a></li>
+<li><a href="https://scikit-learn.org/">scikit-learn</a></li>
+<li><a href="http://turicas.info/">Álvaro Justen (Turicas)</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/vicente-marcal.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-137/castalio-podcast-137.mp3" length="60791456" type="audio/mpeg"/></item><item><title>Episódio 136: Pizza De Dados</title><link>https://castalio.info/episodes/episodio-136-pizza-de-dados/</link><pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-136/castalio-podcast-136.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 136: Pizza De Dados</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
+Castálio Podcast</itunes:author><itunes:title>Episódio 136: Pizza De Dados</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nossos convidados de hoje são de um podcast amigo nosso o <a href="http://pizzadedados.com/">Pizza de
+Dados</a>. Hoje vamos conhecer um pouco mais sobre o
+podcast e seus participantes. Gustavo Coelho, Jessica Temporal e Leticia
+Portella sejam bem-vindos ao Castálio Podcast.</p>
+<div class="clearfix"></div>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Nossos convidados de hoje são de um podcast amigo nosso o <a class="reference external" href="http://pizzadedados.com/">Pizza de Dados</a>.
-Hoje vamos conhecer um pouco mais sobre o podcast e seus participantes. Gustavo
-Coelho, Jessica Temporal e Leticia Portella sejam bem-vindos ao Castálio
-Podcast.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-136" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-136/castalio-podcast-136.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-136/castalio-podcast-136.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>Como entraram para a aŕea de <a href="https://en.wikipedia.org/wiki/Data_science">data
+science</a>?</li>
+<li>Como surgiu o <a href="http://pizzadedados.com/">Pizza de Dados</a>?</li>
+<li>Por quê resolveram criar o <a href="http://pizzadedados.com/">Pizza de
+Dados</a>?</li>
+<li>Qual o objetivo do <a href="http://pizzadedados.com/">Pizza de Dados</a>?</li>
+<li>Quais os planos para o futuro do podcast?</li>
+<li>Quais as estatísticas do podcast?</li>
+<li>Quais as dicas para que outras áreas abraçem a programação? E quais
+as vantagens em ter a programação como ferramenta?</li>
+<li>Quais as recomendações para aprender mais sobre <a href="https://en.wikipedia.org/wiki/Data_science">data
+science</a>?</li>
+</ul>
+<h2>Top 3 - Gustavo Coelho</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy" target="_blank">The Art of Strategy</a></li><li><a href="https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction" target="_blank">Weapons of Math Destruction</a></li><li><a href="https://www.goodreads.com/book/show/32767.At_the_Mountains_of_Madness" target="_blank">Nas Montanhas da Loucura</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0209144/" target="_blank">Memento</a></li><li><a href="https://www.imdb.com/title/tt0800039/" target="_blank">Ressaca de Amor</a></li><li><a href="https://www.imdb.com/title/tt0081505/" target="_blank">O Iluminado</a></li><li><a href="https://www.imdb.com/title/tt1288558/" target="_blank">A Morte do Demônio</a></li><li><a href="https://www.imdb.com/title/tt2861424/" target="_blank">Rick and Morty</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Queens&#43;of&#43;the&#43;Stone&#43;Age/_/Go&#43;With&#43;the&#43;Flow" target="_blank">Queens of Stone Age - Go With the Glow</a></li><li><a href="https://www.last.fm/music/The&#43;Black&#43;Keys" target="_blank">The Black Keys</a></li><li><a href="https://www.last.fm/music/Chaos&#43;Chaos" target="_blank">Chaos Chaos</a></li></ol><h3>Pizzas:</h3><ol><li>Catuperoni</li><li>Aliche</li><li>Frango com Catupiry</li></ol>
+<h2>Top 3 - Letícia Portella</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/402093.Sh_gun" target="_blank">Shōgun</a></li><li><a href="https://www.goodreads.com/series/105522-as-cr-nicas-de-gelo-e-fogo-das-lied-von-eis-und-feuer" target="_blank">As Crónicas de Gelo e Fogo</a></li><li><a href="https://www.goodreads.com/book/show/51291.How_to_Lie_with_Statistics" target="_blank">How to Lie with Statistics</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0795368/" target="_blank">A Morte no Funeral</a></li><li><a href="https://www.imdb.com/title/tt0060125/" target="_blank">O Incrível Exército Brancaleone</a></li><li><a href="https://www.imdb.com/title/tt0357111/" target="_blank">RRRrrrr!!!</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Michael&#43;Jackson/_/Thriller" target="_blank">Michael Jackson - Thriller</a></li><li><a href="https://www.last.fm/music/Jason&#43;Myles&#43;Goss/_/Hospital&#43;Shirt" target="_blank">Jason Myles Goss - Hospital Shirt</a></li><li><a href="https://www.last.fm/music/B.B.&#43;King&#43;&amp;&#43;Eric&#43;Clapton/_/Riding&#43;With&#43;the&#43;King" target="_blank">B.B. King &amp; Eric Clapton - Riding With the King</a></li></ol><h3>Pizzas:</h3><ol><li>Marguerita</li><li>Peperoni</li><li>Escarola com Bacon</li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/HxrEUBNnz2Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/gustavo-coelho.jpg" alt="Gustavo Coelho" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Gustavo Coelho</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/gusrabbit">Github</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://gusrabbit.com/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/gusrabbit">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/jessica-temporal.jpg" alt="Jessica Temporal" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Jessica Temporal</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/jtemporal">Github</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://jtemporal.com/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/jesstemporal">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/leticia-portella.jpg" alt="Leticia Portella" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Letícia Portella</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/leportella/">Github</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://leportella.com/">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/leleportella">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/pizza-de-dados.jpg" alt="Pizza de Dados" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Pizza de Dados</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-facebook"></i> <a href="https://www.facebook.com/pizzadedados">Facebook</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://pizzadedados.com/">Site</a></li>
+                <li><i class="bi bi-link"></i> <a href="https://apoia.se/pizzadedados">Apoia-se</a></li>
+                <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/company/pizzadedados/">LinkedIn</a></li>
+                <li><i class="bi bi-medium"></i> <a href="https://medium.com/pizzadedados">Medium</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/pizzadedados">Twitter</a></li>
+                <li><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/c/pizzadedados">YouTube</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-136" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-136/castalio-podcast-136.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-136/castalio-podcast-136.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://developers.arcgis.com/python/">ArcGIS API for Python</a></li>
+<li><a href="https://archive.org/">Archive.org</a></li>
+<li><a href="https://www.audacityteam.org/">Audacity</a></li>
+<li><a href="https://guia.pizzadedados.com/">Guia Pizza de Dados</a></li>
+<li><a href="https://hootsuite.com/">Hootsuite</a></li>
+<li><a href="https://jekyllrb.com/">Jekyl</a></li>
+<li><a href="https://julialang.org/">Julia</a></li>
+<li><a href="https://www.mathworks.com/products/matlab.html">Matlab</a></li>
+<li><a href="https://medium.com/databootcamp">Medium Data Boot Camp</a></li>
+<li><a href="http://pizzadedados.com/">Pizza de Dados</a></li>
+<li><a href="https://www.podbean.com/">PodBean</a></li>
+<li><a href="https://www.r-project.org/">R</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Data_science">data science</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/pizza-de-dados.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-136/castalio-podcast-136.mp3" length="65290050" type="audio/mpeg"/></item><item><title>Episódio 135: Fernando Masanori - Ensino De Python Ao Redor Do Mundo</title><link>https://castalio.info/episodes/episodio-135-fernando-masanori-ensino-de-python-ao-redor-do-mundo/</link><pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-135/castalio-podcast-135.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 135: Fernando Masanori - Ensino De Python Ao Redor Do Mundo</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
+Castálio Podcast</itunes:author><itunes:title>Episódio 135: Fernando Masanori - Ensino De Python Ao Redor Do Mundo</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é professor na <a href="http://fatecsjc-prd.azurewebsites.net/">FATEC - São José dos
+Campos</a>, ama ensinar e já viajou para
+vários lugares do mundo para falar e ensinar <a href="https://www.python.org/">Python</a>,
+é o autor de um dos maiores cursos do Brasil sobre Python, o <a href="https://www.pycursos.com/python-para-zumbis/">Python para
+Zumbis</a> e, atualmente, tem
+ajudado jornalistas a entrar na área de programação e ciência de dados.
+Fernando Masanori, seja bem-vindo ao Castálio Podcast.</p>
+<div class="clearfix"></div>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Nosso convidado de hoje é professor na <a class="reference external" href="http://fatecsjc-prd.azurewebsites.net/">FATEC - São José dos Campos</a>, ama
-ensinar e já viajou para vários lugares do mundo para falar e ensinar
-<a class="reference external" href="https://www.python.org/">Python</a>, é o autor de um dos maiores cursos do Brasil sobre Python, o <a class="reference external" href="https://www.pycursos.com/python-para-zumbis/">Python
-para Zumbis</a> e, atualmente, tem ajudado jornalistas a entrar na área de
-programação e ciência de dados. Fernando Masanori, seja bem-vindo ao Castálio
-Podcast.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-135" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-135/castalio-podcast-135.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-135/castalio-podcast-135.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>Quando e como o Masanori iniciou na área de ensino?</li>
+<li>A quanto tempo o Masanori está dando aula?</li>
+<li>Como o Masanori conheceu o Python? E quando iniciou a utilizar ele
+para ensino de programaçao?</li>
+<li>O que motivou o Masanori a criar o <a href="https://www.pycursos.com/python-para-zumbis/">Python para
+Zumbis</a>? O que o
+deixou mais orgulhoso/feliz em ter criado este curso?</li>
+<li>Na opinião do Masanori, qual a área que o Python é aplicado e que
+poucas pessoas conhecem?</li>
+<li>Qual a relação entre lógica de programação e lógica matemática de
+primeira ordem?</li>
+<li>Quantos países o Masanori já visitou? Quantos Km já viajou?</li>
+<li>Qual a experiência de ensinar/falar de Python ao redor do mundo?</li>
+<li>Qual o envolvimento do Masanori com as
+<a href="https://www.pyladies.com/">PyLadies</a>?</li>
+<li>O que o Masanori mais gosta na prática do mergulho?</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment" target="_blank">Crime Castigo</a></li><li><a href="https://www.goodreads.com/book/show/12505.The_Idiot" target="_blank">O Idiota</a></li><li><a href="https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov" target="_blank">Os Irmãos Karamazov</a></li><li><a href="https://www.goodreads.com/book/show/4988505-dostoevsky" target="_blank">Dostoevsky: A Writer in His Time</a></li><li><a href="https://www.goodreads.com/book/show/36516509-a-sutil-arte-de-ligar-o-f-da-se" target="_blank">A sutil arte de ligar o f*da-se</a></li><li><a href="https://www.goodreads.com/book/show/18309595-os-miser-veis" target="_blank">Os Miseráveis</a></li><li><a href="https://www.goodreads.com/book/show/102030.Musashi" target="_blank">Musashi</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0109830/" target="_blank">Forrest Gump</a></li><li><a href="https://www.imdb.com/title/tt0080684/" target="_blank">Guerra nas Estrelas - Imperio Contra Ataca</a></li><li><a href="https://www.imdb.com/title/tt0034583/" target="_blank">Casa Blanca</a></li><li><a href="https://www.imdb.com/title/tt1375666/" target="_blank">A Origem</a></li><li><a href="https://www.imdb.com/title/tt0050083/" target="_blank">Doze homens e uma sentença</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Coldplay/_/Viva&#43;la&#43;Vida" target="_blank">Coldplay - Viva la vida</a></li><li><a href="https://www.last.fm/music/MGMT/_/Kids" target="_blank">MGMT - Kids</a></li><li><a href="https://www.last.fm/music/blink-182/_/I&#43;Miss&#43;You" target="_blank">blink-182 - I miss you</a></li><li><a href="https://www.last.fm/music/Boy/_/We&#43;Were&#43;Here" target="_blank">Boy - We Were Here</a></li><li><a href="https://www.last.fm/music/Skank/_/Esquecimento" target="_blank">Skank - Esquecimento</a></li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/U2KeD73Xhwk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/fernando-masanori.jpg" alt="Fernando Masanori" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Fernando Masanori</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/fmasanori">Github</a></li>
+                <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/fmasanori">LinkedIn</a></li>
+                <li><i class="bi bi-link"></i> <a href="https://about.me/fmasanori">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://www.twitter.com/fmasanori">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-135" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-135/castalio-podcast-135.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-135/castalio-podcast-135.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://www.ableton.com/">Ableton</a></li>
+<li><a href="https://docs.python.org/3/library/ast.html">Abstract Syntax Tree (AST)</a></li>
+<li><a href="http://coconut-lang.org/">Coconut</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/Coding_Dojo">Coding Dojo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Data_science">Data Science</a></li>
+<li><a href="https://www.djangoproject.com/">Django</a></li>
+<li><a href="https://djangocon.us/">DjangoCon</a></li>
+<li><a href="http://fatecsjc-prd.azurewebsites.net/">FATEC - São José dos Campos</a></li>
+<li><a href="https://rosettacode.org/wiki/FizzBuzz">FizzBuzz</a></li>
+<li><a href="https://gvanrossum.github.io/">Guido Van Rossum</a></li>
+<li><a href="https://jacobian.org/">Jacob Kaplan-Moss</a></li>
+<li><a href="http://www.acessoainformacao.gov.br/">Lei de Acesso à Informação</a></li>
+<li><a href="https://leportella.com/">Leticia Portella</a></li>
+<li><a href="https://minecraft.net/en-us/">Minecraft</a></li>
+<li><a href="http://pandas.pydata.org/">Pandas</a></li>
+<li><a href="https://pauleveritt.wordpress.com/">Paul Everit</a></li>
+<li><a href="https://py.processing.org/">Processing</a></li>
+<li><a href="http://www.python.org.ar/wiki/PyCamp">PyCamp PyConAr</a></li>
+<li><a href="https://us.pycon.org/2019/financial-assistance/">PyCon Financial Aid</a></li>
+<li><a href="https://www.pycon.jp/">PyCon JP</a></li>
+<li><a href="https://na.pycon.org/">PyCon Namibia</a></li>
+<li><a href="https://2018.pyconuk.org/">PyCon UK</a></li>
+<li><a href="https://us.pycon.org/">PyCon US</a></li>
+<li><a href="https://eventos.python.org.ar/events/pyconar2018/">PyConAr</a></li>
+<li><a href="https://www.pyladies.com/">PyLadies</a></li>
+<li><a href="https://www.pytennessee.org/">PyTennessee</a></li>
+<li><a href="https://2018.pythonnordeste.org/">Python Nordeste</a></li>
+<li><a href="https://www.pycursos.com/python-para-zumbis/">Python para Zumbis</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://www.raspberrypi.org/documentation/usage/camera/">Raspberry Pi Camera</a></li>
+<li><a href="https://www.raspberrypi.org/">Raspberry Pi</a></li>
+<li><a href="https://gumroad.com/l/software-quality-engineering">Software Quality Engineering (livro do Og Maciel)</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/fernando-masanori.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-135/castalio-podcast-135.mp3" length="46666335" type="audio/mpeg"/></item><item><title>Episódio 134: Rodrigo Senra - Jupyter Notebooks</title><link>https://castalio.info/episodes/episodio-134-rodrigo-senra-jupyter-notebooks/</link><pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-134/castalio-podcast-134.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 134: Rodrigo Senra - Jupyter Notebooks</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
+Castálio Podcast</itunes:author><itunes:title>Episódio 134: Rodrigo Senra - Jupyter Notebooks</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nosso convidado de hoje é diretor técnico na <a href="https://work.co/">Work &amp; Co</a>, PhD
+em Ciências da Computação, já contribuiu com inúmeros projetos open source em
+Python, ajudou a fundar a <a href="http://associacao.python.org.br/">Associação Python
+Brasil</a> e já foi premiado com o <a href="http://associacao.python.org.br/dorneles-tremea">Prêmio
+Dorneles Tremea</a> por
+contribuições para a comunidade Python Brasil.</p>
+<div class="clearfix"></div>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Nosso convidado de hoje é diretor técnico na <a class="reference external" href="https://work.co/">Work &amp; Co</a>, PhD em Ciências da
-Computação, já contribuiu com inúmeros projetos open source em Python, ajudou a
-fundar a <a class="reference external" href="http://associacao.python.org.br/">Associação Python Brasil</a> e já foi premiado com o <a class="reference external" href="http://associacao.python.org.br/dorneles-tremea">Prêmio Dorneles
-Tremea</a> por contribuições para a comunidade Python Brasil.</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-134" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>Como o Rodrigo iniciou na área de desenvovimento?</li>
+<li>Qual a tragetória do Rodrigo até iniciar programar com Python?</li>
+<li>O que seria <a href="http://jupyter.org/">Jupyter Notebooks</a>? O projeto
+sempre teve esse nome?</li>
+<li>O Rodrigo já fez alguma contribuição com o projeto Jupyter Notebooks
+e/ou iPython?</li>
+<li>Quais os recursos que o Rodrigo mais gosta no Jupyter? Quais os
+recursos que ele utiliza mais?</li>
+<li>Quais as recomendações do Rodrigo para quem está interessado em
+aprender Jupyter?</li>
+<li>Quais ferramentas, linguages e tecnologias o Rodrigo recomenda
+investir para a área de Data Science à longo prazo?</li>
+<li>É possível utilizar Jupyter notebook fora da área de Data Science?</li>
+<li>O Jupyter é um novo Bash e o JupyterLab seria um novo Eclipse do
+Cientista de dados?</li>
+<li>O que é <a href="https://mybinder.org/">Binder</a>?</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/6313614-the-monte-cristo-cover-up" target="_blank">The Monte Cristo Cover-Up</a></li><li><a href="https://www.goodreads.com/book/show/375802.Ender_s_Game" target="_blank">Ender’s Game</a></li><li><a href="https://www.goodreads.com/book/show/59097.Dear_and_Glorious_Physician" target="_blank">Dear and Glorious Physician</a></li><li><a href="https://www.goodreads.com/book/show/402093.Sh_gun" target="_blank">Shōgun</a></li><li><a href="https://www.goodreads.com/book/show/102030.Musashi" target="_blank">Musashi</a></li><li><a href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach" target="_blank">Gödel, Escher, Bach</a></li><li><a href="https://www.goodreads.com/book/show/150999.The_Turning_Point" target="_blank">The Turning Point</a></li><li><a href="https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_" target="_blank">Surely You&#39;re Joking, Mr. Feynman!</a></li><li><a href="https://www.goodreads.com/book/show/44882.Code" target="_blank">Code</a></li><li><a href="https://www.goodreads.com/book/show/9793361-the-decision-book" target="_blank">The Decision Book</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0040746/" target="_blank">Festim Diabólico</a></li><li><a href="https://www.imdb.com/title/tt0063415/" target="_blank">The Party</a></li><li><a href="https://www.imdb.com/title/tt0080684/" target="_blank">Star Wars Episode V - O Império Contra Ataca</a></li><li><a href="https://www.imdb.com/title/tt0087182/" target="_blank">Dune</a></li><li><a href="https://www.imdb.com/title/tt0088930/" target="_blank">Clue</a></li><li><a href="https://www.imdb.com/title/tt0097165/" target="_blank">Dead Poets Society</a></li><li><a href="https://www.imdb.com/title/tt0110917/" target="_blank">Una Pura Formalitá</a></li><li><a href="https://www.imdb.com/title/tt0133093/" target="_blank">The Matrix</a></li><li><a href="https://www.imdb.com/title/tt0390384/" target="_blank">Primer</a></li><li><a href="https://www.imdb.com/title/tt1935156/" target="_blank">Jodorowsky&#39;s Dune</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Jack&#43;Johnson" target="_blank">Jack Johnson</a></li><li><a href="https://www.last.fm/music/Adele" target="_blank">Adele</a></li><li><a href="https://www.last.fm/music/Kings&#43;of&#43;Convenience" target="_blank">Kings of Convenience</a></li><li><a href="https://www.last.fm/music/Claude&#43;Debussy/_/Clair&#43;de&#43;lune" target="_blank">Claude Debussy - Clair de lune</a></li><li><a href="https://www.last.fm/music/Carl&#43;Orff/_/Carmina&#43;Burana:&#43;O&#43;Fortuna" target="_blank">Carl Orff - Carmina Burana: O Fortuna</a></li><li><a href="https://www.last.fm/music/The&#43;Beatles" target="_blank">The Beatles</a></li><li><a href="https://www.last.fm/music/Sting" target="_blank">Sting</a></li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/nvHbLPLVLiA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/rodrigo-senra.jpg" alt="Rodrigo Senra" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Rodrigo Senra</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/rodsenra">Github</a></li>
+                <li><i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/rodsenra">LinkedIn</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://www.cinerdia.com.br">Podcast</a></li>
+                <li><i class="bi bi-link"></i> <a href="http://rodrigo.senra.nom.br">Site</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/rodsenra">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-134" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Alexandre_Oliva">Alexandre Oliva</a></li>
+<li><a href="https://www.anaconda.com/">Anaconda</a></li>
+<li><a href="https://zeppelin.apache.org/">Apache Zeppelin</a></li>
+<li><a href="https://medium.com/netflix-techblog/notebook-innovation-591ee3221233">Artigo Jupyter (Parte 1)</a></li>
+<li><a href="https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6">Artigo Jupyter (Parte 2)</a></li>
+<li><a href="http://associacao.python.org.br/">Associação Python Brasil</a></li>
+<li><a href="https://notebooks.azure.com/">Azure Notebooks</a></li>
+<li><a href="http://beakerx.com/">BeakerX</a></li>
+<li><a href="https://mybinder.org/">Binder</a></li>
+<li><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Clojure">Closure</a></li>
+<li><a href="https://colab.research.google.com/">Colaboratory</a></li>
+<li><a href="https://jupyter.readthedocs.io/en/latest/">Documentação Jupyter</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Donald_Knuth">Donald Knuth</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fernando_P%C3%A9rez_(software_developer)">Fernando Pérez</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fortran">Fortran</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GraphQL">GraphQL</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a></li>
+<li><a href="https://en.wikipedia.org/wiki/JSON">JSON</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Java_(software_platform)">Java</a></li>
+<li><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></li>
+<li><a href="https://github.com/jupyter/jupyter/wiki/Jupyter-kernels">Jupyter Kenels</a></li>
+<li><a href="http://jupyter.org/">Jupyter Notebooks</a></li>
+<li><a href="https://jupyter.org/hub">JupyterHub</a></li>
+<li><a href="https://github.com/jupyterlab/jupyterlab">JupyterLab</a></li>
+<li><a href="https://github.com/jupyterlab/jupyterlab">Jupyterlab</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Literate_programming">Literate programming</a></li>
+<li><a href="https://www.lua.org/">Lua</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MATLAB">MATLAB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Perl">Perl</a></li>
+<li><a href="https://www.youtube.com/watch?v=bp7KuOTU9nE&amp;list=PLrhOVGK6sXHCndw6Fy8YTVq_tbVk3D2_k">Playlist das palestras do Senra</a></li>
+<li><a href="http://www.cinerdia.com.br">Podcast Cinerdia</a></li>
+<li><a href="http://associacao.python.org.br/dorneles-tremea">Prêmio Dorneles Tremea</a></li>
+<li><a href="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#reproducible-academic-publications">Publicações acadêmicas de Jupyter Notebooks</a></li>
+<li><a href="http://qaweek.com.br/">QA WEEK</a></li>
+<li><a href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Scala_(programming_language)">Scala</a></li>
+<li><a href="http://spark-notebook.io/">Spark Notebook</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tcl">Tcl</a></li>
+<li><a href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a></li>
+<li><a href="https://work.co/">Work &amp; Co</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zope">Zope</a></li>
+<li><a href="https://ipython.readthedocs.io/en/stable/">iPython</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Música</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/rodrigo-senra.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-134/castalio-podcast-134.mp3" length="73894921" type="audio/mpeg"/></item><item><title>Episódio 133: Everton Melo - Criptomoeadas</title><link>https://castalio.info/episodes/episodio-133-everton-melo-criptomoeadas/</link><pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-133/castalio-podcast-133.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 133: Everton Melo - Criptomoeadas</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Castálio Podcast</itunes:author><itunes:title>Episódio 133: Everton Melo - Criptomoeadas</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso convidado de hoje é entusiasta e divulgador de software livre, escritor,
 podcaster, documentarista, referência internacional em Segurança Digital e
-Crypto-moedas, membro da <a class="reference external" href="http://comibit.org/">COMIBIT</a> (Conselho de Bitcoin e Blockchain) e
-contribui também com os projetos Hack'n'Cast, Hack'n'Cripto, Opencast,
-Tecnologia Aberta e SempreUpdate.</p>
+Crypto-moedas, membro da <a href="http://comibit.org/">COMIBIT</a> (Conselho de Bitcoin e
+Blockchain) e contribui também com os projetos Hack'n'Cast, Hack'n'Cripto,
+Opencast, Tecnologia Aberta e SempreUpdate.</p>
+<div class="clearfix"></div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-133" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-133/castalio-podcast-133.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-133/castalio-podcast-133.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>O que é moeda?</li>
+<li>O que é ativo financeiro?</li>
+<li>O que é e como funciona uma Criptomoeda?</li>
+<li>Como funciona a <a href="http://comibit.org/">COMIBIT</a> e qual é o papel do
+Everton na organização?</li>
+<li>O que você acha da regulamentação das criptomoedas?</li>
+<li>Qual a relação das criptomoedas com o golpe que ficou conhecido como
+&ldquo;Pirâmide&rdquo;?</li>
+<li>Como os mineradores de Bitcoins vão se comportar quando a emissão de
+Bitcoins chegar ao seu limite?</li>
+<li>Com o Bitcoin atingindo o máximo de mineração (e finalmente
+normalizando os preços das placas de vídeo), qual seria a principal
+moeda? O Ethereum?</li>
+<li>Quais são as skills técnicas necessárias para um profissional atuar
+como especialista em criptomoedas? E além de tecnologia o que é
+preciso saber?</li>
+<li>Detalhes sobre a <a href="https://github.com/omise/omise-php/issues/74">falha que o Everton encontrou na
+OmiseGo</a>.</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/40222464-a-arte-da-guerra" target="_blank">A Arte da Guerra</a></li><li><a href="https://www.goodreads.com/book/show/16119656-o-livro-dos-cinco-an-is" target="_blank">O Livro dos Cinco Anéis</a></li><li><a href="https://www.goodreads.com/book/show/21820378-mastering-bitcoin" target="_blank">Mastering Bitcoin</a></li><li><a href="https://www.goodreads.com/book/show/6542897-the-wall-street-journal-guide-to-information-graphics" target="_blank">The Wall Street Journal Guide to Information Graphics</a></li><li><a href="https://www.goodreads.com/book/show/13414215-humano-demasiado-humano" target="_blank">Humano, demasiado humano</a></li><li><a href="https://btcparaprogramadores.marcoagner.org/" target="_blank">Bitcoin para Programadores</a></li><li><a href="https://www.goodreads.com/book/show/33584554-mastering-ethereum" target="_blank">Mastering Ethereum</a></li><li><a href="https://www.goodreads.com/book/show/22628423-black-market-cryptocurrencies" target="_blank">Black Market Cryptocurrencies</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt1898069/" target="_blank">Deuses Americanos</a></li><li><a href="https://www.imdb.com/title/tt0120784/" target="_blank">O Troco</a></li><li><a href="https://www.imdb.com/title/tt0110912/" target="_blank">Pulp Fiction</a></li><li><a href="https://www.imdb.com/title/tt0421357/" target="_blank">Fullmetal Alchemist</a></li><li><a href="https://www.imdb.com/title/tt5618256/" target="_blank">Manhunt: Unabomber</a></li><li><a href="https://www.imdb.com/title/tt3312868/" target="_blank">Deep Web</a></li><li><a href="https://www.youtube.com/watch?v=yQGQXy0RIIo" target="_blank">Ulterior States</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Frank&#43;Sinatra/_/Flying&#43;to&#43;the&#43;Moon" target="_blank">Frank Sinatra - Flying to the Moon</a></li><li><a href="https://www.last.fm/music/Ant%C3%B4nio&#43;Carlos&#43;Jobim/_/Wave" target="_blank">Antônio Carlos Jobim - Wave</a></li><li><a href="https://www.last.fm/music/Dire&#43;Straits/_/Sultans&#43;of&#43;Swing" target="_blank">Dire Straits - Sultans of Swing</a></li><li><a href="https://www.last.fm/music/Al&#43;Green/_/Let%27s&#43;Stay&#43;Together" target="_blank">Al Green - Let&#39;s Stay Together (versão da Odara Sol)</a></li><li><a href="https://www.last.fm/music/Sepultura/_/Bullet&#43;the&#43;Blue&#43;Sky" target="_blank">Sepultura - Bullet the Blue Sky</a></li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/5JRApvElKCA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/everton-melo.jpeg" alt="Everton Melo" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Everton Melo</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-github"></i> <a href="https://github.com/EvertonMelo">Github</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-133" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-133/castalio-podcast-133.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-133/castalio-podcast-133.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://comibit.org/">COMIBIT</a></li>
+<li><a href="https://github.com/omise/omise-php/issues/74">falha que o Everton encontrou na OmiseGo</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <p><strong>Música de entrada</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.</p>
+<p><strong>Música de saída</strong>: <a href="http://freemusicarchive.org/music/Nine_Inch_Nails/The_Slip/Demon_Seed">Nine Inch Nails - Demon
+Seed</a>.</p>
+
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/everton-melo.jpeg"/><enclosure url="https://archive.org/download/castalio-podcast-133/castalio-podcast-133.mp3" length="80143887" type="audio/mpeg"/></item><item><title>Episódio 132: Túlio Faria - React JS</title><link>https://castalio.info/episodes/episodio-132-tulio-faria-react-js/</link><pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-132/castalio-podcast-132.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episódio 132: Túlio Faria - React JS</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
-
-
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+Castálio Podcast</itunes:author><itunes:title>Episódio 132: Túlio Faria - React JS</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Nosso convidado de hoje é Software Engineer na Toptal (EUA), Tech Evangelist na
 Codice Software (Espanha), Tech Mentor na VanHack (Canadá) e criador do
-<a class="reference external" href="https://www.devpleno.com/">DevPleno</a> - escola online para desenvolvedores (Brasil). No episódio de hoje
-vamos conversar com o <a class="reference external" href="https://www.tuliofaria.net/">Túlio Faria</a>, que vai nos ajudar a responder as nossas
-perguntas sobre o <a class="reference external" href="https://reactjs.org/">React JS</a>.</p>
+<a href="https://www.devpleno.com/">DevPleno</a> - escola online para desenvolvedores
+(Brasil). No episódio de hoje vamos conversar com o <a href="https://www.tuliofaria.net/">Túlio
+Faria</a>, que vai nos ajudar a responder as nossas
+perguntas sobre o <a href="https://reactjs.org/">React JS</a>.</p>
+<div class="clearfix"></div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute enquanto lê os show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-132" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-132/castalio-podcast-132.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-132/castalio-podcast-132.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="tópicos-abordados-neste-episódio">Tópicos abordados neste episódio</h1>
+<ul>
+<li>Como e quando o Túlio iniciou a sua carreira como desenvolvedor?</li>
+<li>Como que ele chegou até o React?</li>
+<li>O que é o React JS?</li>
+<li>Quais os conceitos e tecnologias que ele recomenda alguém aprender
+para que seja mais tranquilo aprender o React?</li>
+<li>Quais os pontos fortes do React?</li>
+<li>Quais os pontos fracos do React?</li>
+<li>Quais materiais o Túlio indica para quem está iniciando ou quer
+iniciar com React?</li>
+<li>O projeto <a href="http://www.patternfly.org/">Patternfly</a>?</li>
+<li>Perguntas dos nossos ouvintes:
+<ul>
+<li>Roberto Oliveira: Como vocês enxergam soluções pra simplificar o
+Redux, como Rematch?</li>
+<li>Roberto Oliveira comentou: Lembrando que a mudança de licença
+pra MIT é a partir da versão 16 do React. E perguntamos quais
+são os riscos de utilizar o React com a licença atual?</li>
+<li>Geysler Niclevicz: [OFF TOPIC] Qual é a câmera que o Túlio
+está usando? A imagem dela é muito boa.</li>
+<li>Élysson MR: Quais as vantagens do React em relação as outras
+bibliotecas JavaScript?</li>
+<li>Maycon Benito: Qual seria a biblioteca JavaScript para
+aplicacoes nativas? Seria o <a href="https://www.reactnative.com/">React
+Native</a>?</li>
+<li>Higor Vinicius: Para programar em React, qual o nivel de
+JavaScript o programador precisa ter?</li>
+<li>Jorge Ramos: Gostaria de saber qual a opinião do Túlio em
+relação ao <a href="https://preactjs.com/">preact</a>?</li>
+<li>Roberto Oliveira: O que o Túlio acha do trade off de cobertura
+de testes x velocidade de entrega? Porque no mundo real, nem
+sempre dá para escrever os testes como a gente gostaria...</li>
+</ul>
+</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://www.goodreads.com/book/show/29541762-escola-da-vida" target="_blank">Escola da Vida</a></li><li><a href="https://www.goodreads.com/book/show/17192929-os-quatro-compromissos" target="_blank">Os Quatro Compromissos</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt1105711/" target="_blank">1000 Ways to Die</a></li><li><a href="https://www.imdb.com/title/tt4189022/" target="_blank">Ash vs Evil Dead</a></li><li><a href="https://www.imdb.com/title/tt0903747/" target="_blank">Breaking Bad</a></li><li><a href="https://www.imdb.com/title/tt4548940/" target="_blank">Cosmos: A Spacetime Odyssey</a></li><li><a href="https://www.imdb.com/title/tt1632701/" target="_blank">Suits</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Angra" target="_blank">Angra</a></li><li><a href="https://www.last.fm/music/Black&#43;Sabbath" target="_blank">Black Sabbath</a></li><li><a href="https://www.last.fm/music/King&#43;Diamond" target="_blank">King Diamond</a></li><li><a href="https://www.last.fm/music/Megadeth" target="_blank">Megadeth</a></li><li><a href="https://www.last.fm/music/Mr.&#43;Big" target="_blank">Mr. Big</a></li><li><a href="https://www.last.fm/music/Paul&#43;Gilbert" target="_blank">Paul Gilbert</a></li></ol>
+<h1 id="assista-a-gravação-deste-episódio">Assista a gravação deste episódio</h1>
+<p>Este episódio foi gravado ao vivo em nosso <a href="http://youtube.com/castaliopodcast">canal no
+YouTube</a> e você pode assistir a gravação e
+os demos no vídeo abaixo:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/3yIj6sB1umI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Gostaríamos de agradecer a todos que ouviram e participaram ao vivo no Youtube
+e se você tem algum comentário ou sugestão por favor comente em nossas redes
+sociais no <a href="https://twitter.com/castaliopod">Twitter</a> ou no
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. E também siga nossa <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e e não se esqueça de inscrever-se no <a href="http://youtube.com/castaliopodcast">Canal no
+YouTube</a>.</p>
+<p>Até o próximo episódio!</p>
+<h1 id="contatos">Contatos</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/tulio-faria.jpg" alt="Túlio Faria" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Túlio Faria</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/tuliofaria">Twitter</a></li>
+                <li><i class="bi bi-link"></i> <a href="https://www.devpleno.com/">DevPleno</a></li>
+                <li><i class="bi bi-link"></i> <a href="https://www.tuliofaria.net/">Site</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Escute Agora</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-132" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-132/castalio-podcast-132.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-132/castalio-podcast-132.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://angularjs.org/">Angular JS</a></li>
+<li><a href="https://www.youtube.com/devplenocom">Canal do YouTube do DevPleno</a></li>
+<li><a href="https://twitter.com/dan_abramov">Dan Abramov (Twitter)</a></li>
+<li><a href="https://www.devpleno.com/">DevPleno</a></li>
+<li><a href="https://reactjs.org/docs/hello-world.html">Documentação do React</a></li>
+<li><a href="https://expo.io/">Expo</a></li>
+<li><a href="https://canvas.hubspot.com/">HubSpot Canvas</a></li>
+<li><a href="https://reactjs.org/docs/introducing-jsx.html">JSX</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+<li><a href="https://material.io/">Material Design</a></li>
+<li><a href="https://github.com/patternfly/patternfly-react">Patternfly React</a></li>
+<li><a href="http://www.patternfly.org/">Patternfly</a></li>
+<li><a href="http://prototypejs.org/">Prototype JS</a></li>
+<li><a href="https://twitter.com/reactjs">React JS (Twitter)</a></li>
+<li><a href="https://reactjs.org/">React JS</a></li>
+<li><a href="https://www.reactnative.com/">React Native</a></li>
+<li><a href="https://facebook.github.io/react-vr/">React VR</a></li>
+<li><a href="https://twitter.com/ReactTraining">ReactTraining (Twitter)</a></li>
+<li><a href="https://redux.js.org/">Redux</a></li>
+<li><a href="https://www.tuliofaria.net/">Túlio Faria</a></li>
+<li><a href="https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom">Virtual DOM</a></li>
+<li><a href="https://jquery.com/">jQuery</a></li>
+<li><a href="https://preactjs.com/">preact</a></li>
+<li><a href="https://www.meetup.com/grupy-sp/">Grupy_ABC</a></li>
+<li><a href="https://www.meetup.com/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/249463627/">Meetup Rust &amp; Ruby</a></li>
+<li><a href="http://Youtube.com/CursoDePython">Canal Curso de Python e Flask</a></li>
+<li><a href="https://twitter.com/sitedoseextra">Dose Extra</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/tulio-faria.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-132/castalio-podcast-132.mp3" length="59572336" type="audio/mpeg"/></item><item><title>Episode 131: Justin Keyes - Neovim</title><link>https://castalio.info/episodes/episode-131-justin-keyes-neovi/</link><pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-131/castalio-podcast-131.mp3</guid><itunes:author>
-Castálio Podcast</itunes:author><itunes:title>Episode 131: Justin Keyes - Neovim</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<div class="document">
+Castálio Podcast</itunes:author><itunes:title>Episode 131: Justin Keyes - Neovim</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Our guest for today&rsquo;s episode is Neovim maintainer, Vim contributor, and a
+software engineer. It is with a great pleasure that we welcome <a href="https://github.com/justinmk">Justin
+Keyes</a> to our podcast</p>
+<div class="clearfix"></div>
 
 
-<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
-<p>Our guest for today’s episode is Neovim maintainer, Vim contributor, and a
-software engineer. It is with a great pleasure that we welcome <a class="reference external" href="https://github.com/justinmk">Justin Keyes</a>
-to our podcast</p>
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Listen while you read the show notes!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-131" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-131/castalio-podcast-131.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-131/castalio-podcast-131.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="we-talked-about-these-topics">We talked about these topics</h1>
+<ul>
+<li>How he started programming carrer</li>
+<li>What kind of software he is developing</li>
+<li>What is the programming language he uses at work</li>
+<li>How did he get started with Vim and its community</li>
+<li>Did he try <a href="http://emacsrocks.com">Emacs</a>?</li>
+<li>How and when <a href="https://neovim.io">Neovim</a> was created</li>
+<li>How did he became lead maintainer for the project</li>
+<li>Differences between <a href="http://www.vim.org">Vim</a> and <a href="https://neovim.io">Neovim</a></li>
+<li><a href="http://www.lua.org">Lua</a> support in Neovim</li>
+<li>Future plans for Neovim</li>
+<li>Advantages for beginners to start with Neovim</li>
+<li>Books and tutorial recommendations for beginners</li>
+</ul>
+<h2>Top 5</h2><h3>Livros:</h3><ol><li><a href="https://news.ycombinator.com/" target="_blank">Hacker News</a></li><li><a href="https://www.goodreads.com/book/show/5470.1984" target="_blank">1984</a></li><li><a href="https://www.goodreads.com/book/show/22034.The_Godfather" target="_blank">The Godfather</a></li></ol><h3>Filmes:</h3><ol><li><a href="https://www.imdb.com/title/tt0083658/" target="_blank">Blade Runner</a></li><li><a href="https://www.imdb.com/title/tt2594098/" target="_blank">Apocalypse</a></li><li><a href="https://www.imdb.com/title/tt1386703/" target="_blank">Total Recall</a></li></ol><h3>Músicas:</h3><ol><li><a href="https://www.last.fm/music/Lamb&#43;of&#43;God" target="_blank">Lamb of God</a></li><li><a href="https://www.last.fm/music/Arch&#43;Enemy" target="_blank">Arch Enemy</a></li><li><a href="https://www.last.fm/music/Caji" target="_blank">Caji</a></li><li><a href="https://www.last.fm/music/Megadeth" target="_blank">Megadeth</a></li><li><a href="https://www.last.fm/music/Arcade&#43;Fire" target="_blank">Arcade Fire</a></li><li><a href="https://www.last.fm/music/Iron&#43;Maiden" target="_blank">Iron Maiden</a></li></ol>
+<h1 id="watch-the-recording-of-this-episode">Watch the recording of this episode</h1>
+<p>This interview was recorded live on our <a href="http://youtube.com/castaliopodcast">channel on
+YouTube</a> and to see the recording of this
+episode check out the video below:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/682mnDVEsp0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>We would like to thank everyone who have left comments. If you have something
+to tell us, you can leave your comments here on the site, or
+<a href="https://twitter.com/castaliopod">Twitter</a> or on
+<a href="https://www.facebook.com/castaliopod">Facebook</a>. Also follow our <a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg">Spotify
+Playlist</a>
+e and subscribe to our <a href="http://youtube.com/castaliopodcast">YouTube Channel</a>.</p>
+<p>See you on the next episode!</p>
+<h1 id="contact">Contact</h1>
+<div class="row">
+    <div class="col-md-6">
+        <p>
+        <div class="media">
+        <div class="media-left">
+            <img class="media-object rounded-circle img-thumbnail" src="/images/justin_keyes.jpg" alt="Justin Keyes" width="200px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">Justin Keyes</h4>
+            <ul class="list-unstyled">
+                <li><i class="bi bi-facebook"></i> <a href="https://github.com/justinmk">Github</a></li>
+                <li><i class="bi bi-twitter"></i> <a href="https://twitter.com/justinmk">Twitter</a></li>
+            </ul>
+        </div>
+        </div>
+        </p>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+<div class="card">
+    
+        <div class="card-header">Listen now!</div>
+    
+    <div class="card-body">
+        <div class="card-text podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-131" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </div>
+
+        <div class="podcast-download text-center">
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-131/castalio-podcast-131.mp3"><i class="bi bi-download"></i> MP3</a>
+            <a class="btn btn-primary btn-sm" href="https://archive.org/download/castalio-podcast-131/castalio-podcast-131.ogg"><i class="bi bi-download"></i> OGG</a>
+        </div>
+    </div>
+</div>
+
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="http://castalio.info/tag/english.html">Castálio Podcast&rsquo;s English Episodes</a></li>
+<li><a href="https://github.com/justinmk">Justin Keyes</a></li>
+<li><a href="http://emacsrocks.com">Emacs</a></li>
+<li><a href="https://neovim.io">Neovim</a></li>
+<li><a href="http://www.lua.org">Lua</a></li>
+<li><a href="http://www.vim.org">Vim</a></li>
+<li><a href="https://news.ycombinator.com/item?id=7278214">Hacker News about Neovim</a></li>
+<li><a href="https://github.com/onivim/oni">Onivim</a></li>
+<li><a href="https://google.github.io/xi-editor/">XI Editor</a></li>
+<li><a href="https://www.youtube.com/watch?v=SKtQgFBRUvQ">Rust Conf Video About XI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type">CRDT</a></li>
+<li><a href="https://pragprog.com/book/dnvim2/practical-vim-second-edition">Practical Vim</a></li>
+<li><a href="https://pragprog.com/book/modvim/modern-vim">Modern Vim</a></li>
+<li><a href="http://learnvimscriptthehardway.stevelosh.com/">Learn Vim Script the Hard Way</a></li>
+<li><a href="http://vimcasts.org/episodes/">Vimcasts</a></li>
+<li><a href="https://vim-bootstrap.com/">Vim Bootstrap</a></li>
+</ul>
+<div class="alert alert-info" role="alert">
+  <strong>Music (Música)</strong>: <a href="http://freemusicarchive.org/music/Red_Hook_Ramblers/Live__WFMU_on_Antique_Phonograph_Music_Program_with_MAC_Feb_8_2011/Red_Hook_Ramblers_-_12_-_Aint_Gonna_Give_Jelly_Roll">Ain't Gonna Give Jelly
+Roll</a>
+by <a href="http://www.redhookramblers.com/">Red Hook Ramblers</a> is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives (aka Music Sharing)
+License.
+</div>
+
 ]]></content:encoded><itunes:image href="https://castalio.info/images/justin_keyes.jpg"/><enclosure url="https://archive.org/download/castalio-podcast-131/castalio-podcast-131.mp3" length="51306202" type="audio/mpeg"/></item><item><title>Episódio 130: Lígia Dutra Zeppelini - E-Commerce</title><link>https://castalio.info/episodes/episodio-130-ligia-dutra-zeppelini-e-commerce/</link><pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate><dc:creator/><guid>https://archive.org/download/castalio-podcast-130/castalio-podcast-130.mp3</guid><itunes:author>
 Castálio Podcast</itunes:author><itunes:title>Episódio 130: Lígia Dutra Zeppelini - E-Commerce</itunes:title><itunes:subtitle></itunes:subtitle><itunes:summary/><description/><content:encoded><![CDATA[<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
 <p>Para o segundo episódio da campanha <a href="http://opodcastedelas.com.br/2018/02/opodcastedelas-campanha-2018/">O Podcast é
