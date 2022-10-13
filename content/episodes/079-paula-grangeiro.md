@@ -32,6 +32,8 @@ ilustradora, gosta de gatos, e as redes sociais indicam que ela é fã da banda
 [Korn](http://www.last.fm/pt/music/Korn). Ufa!!! Ladies and gentlemen, é com um
 grande prazer que eu apresento nossa convidada **Paula Grangeiro**!.
 
+<div class="clearfix"></div>
+
 Conversamos sobre como a Paula iniciou na carreira de TI e nas plataformas
 Microsoft .net e como ela conheceu e se apaixonou pela linguagem Python.
 

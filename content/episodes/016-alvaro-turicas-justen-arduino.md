@@ -66,6 +66,8 @@ mensagem \"lâmpada **on**\" que o arduino liga a lâmpada, e \"lâmpada
 **off**\" para desligá-la! Falamos de sua participação no **FISL 2011**,
 sobre sua viagem à **Bolivia**, terminando com o seu **Top 5**!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-16 >}}

@@ -36,6 +36,8 @@ está aberto a contribuições, por isso o Bruno deixa o convite para todos que
 querem contribuir e também para todos que estão a procura de um CMS para entrar
 em contato.
 
+<div class="clearfix"></div>
+
 Continuando o assunto sobre o Quokka, o Bruno comenta sobre alguns dos plugins
 e as formas de instalar e experimentar o Quokka. Você já deve estar ansioso
 para testar o Quokka, então acesse o demo do projeto. Além disso, ele ressalta

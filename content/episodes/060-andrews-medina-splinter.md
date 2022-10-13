@@ -39,6 +39,8 @@ vez conseguimos trazer o **Andrews Medina** da **Globo.com**, um dos primeiros
 desenvolvedores do Splinter, para nos contar um pouco sobre a história do
 projeto.
 
+<div class="clearfix"></div>
+
 Apesar de hoje passar mais tempo focando em seu novo projeto,
 [Tsuru](https://github.com/tsuru/tsuru), o Andrews ainda acompanha e ajuda a
 manter o Splinter e ultimamente está responsável por arrumar uns probleminhas

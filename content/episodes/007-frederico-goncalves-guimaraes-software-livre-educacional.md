@@ -29,6 +29,8 @@ que vocês, caso um dia se esbarrem na rua, possam reconhecê-lo(a) e
 convidá-lo(a) para tomar uma cerveja, café, vinho ou bebida preferida.
 :)
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-07 >}}

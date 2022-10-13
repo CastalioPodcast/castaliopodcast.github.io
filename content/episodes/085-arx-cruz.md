@@ -29,6 +29,8 @@ Nosso convidado de hoje trabalha como engenheiro de qualidade na equipe do
 filha muito bonita, já trabalhou e morou na República Tcheca. É com grande
 prazer que hoje conversamos com o Arx Cruz.
 
+<div class="clearfix"></div>
+
 A carreira do Arx na Red Hat começou com ele tendo que se mudar do Brasil para
 a República Tcheca. Por isso, começamos com o Arx nos contando como foi que
 tudo aconteceu.

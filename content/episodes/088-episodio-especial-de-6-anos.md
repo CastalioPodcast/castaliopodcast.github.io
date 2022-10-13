@@ -33,13 +33,14 @@ que o Castálio fez aniversário, dia 16 de fevereiro de
 2017. Além disso, tivemos a participação de nossos ouvintes que nos enviaram
       doze perguntas, spoiler: respondemos todas elas.
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-88 >}}
 
-```{=html}
 <br />
-```
+
 Começamos falando sobre a historia do Castálio desde o primeiro o episódio até
 o último lançado no momento da gravação, o episodio 87. Como não poderia
 faltar, falamos como o nome do podcast foi escolhido.

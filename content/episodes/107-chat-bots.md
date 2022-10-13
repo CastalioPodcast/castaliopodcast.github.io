@@ -43,6 +43,8 @@ Hoje falaremos sobre os aspectos básicos, filosóficos, o mercado e usabilidade
 envolvendo Chat Bots. Para nos ajudar com este tema, contamos com a presença do
 Caio Calado e Rafael Pacheco.
 
+<div class="clearfix"></div>
+
 Abordamos os seguintes tópicos:
 
 - O que é um Chat Bot e qual a sua utilidade?
@@ -57,8 +59,6 @@ Abordamos os seguintes tópicos:
     merecem ser mencionados?
 - Quais são os recursos (online, livros, artigos, etc) recomendados
     para quem quer começar a brincar com bots?
-
-<div class="clearfix"></div>
 
 Durante a gravação deste episódio fizemos o
 [sorteio](https://sorteador.com.br/sorteador/resultado/850847) do livro [Python

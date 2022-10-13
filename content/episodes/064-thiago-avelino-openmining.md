@@ -33,6 +33,8 @@ multi-dimensionáis, usando [Numpy](http://www.numpy.org/),
 [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/) entre
 outros.
 
+<div class="clearfix"></div>
+
 Conversamos sobre como ele aprendeu a melhorar a performance do
 [SambaPorno](http://www.sambaporno.com) (**ATENÇÃO**: Conteúdo Pornográfico
 **EXPLÍCITO**) que hoje é um site gerando **55 milhões de visitas diárias** e

@@ -56,6 +56,8 @@ ajudar contamos com a participação de dois especialistas na linguagem o
 [Guilherme Nogueira](https://twitter.com/nirev) e o [Renan (milhouse)
 Ranelli](https://twitter.com/renanranelli).
 
+<div class="clearfix"></div>
+
 Abordamos os seguintes tópicos:
 
 - Elixir é descrita como uma linguagem dinâmica, de alto nível, multi

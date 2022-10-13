@@ -41,6 +41,8 @@ cantando música do **Pixinguinha**!
 > ouvido, somando-se os versos da antiga música em português aos versos
 > do clássico recente em inglês. Simplesmente encaixou.\"
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-12 >}}

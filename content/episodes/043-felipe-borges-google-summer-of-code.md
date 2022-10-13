@@ -68,6 +68,8 @@ outono e a volta às aulas. Nada melhor então que bater um papo com o
 **Felipe Borges** que está participando do [Google Summer of
 Code](https://code.google.com/soc/) pelo projeto **GNOME**!
 
+<div class="clearfix"></div>
+
 Durante estes últimos meses o Felipe tem trabalhado no **GNOME
 Documents**, adicionando suporte para administrar e visualizar arquivos
 em dispositivos removíveis, e tendo como mentor o italiano **Cosimo

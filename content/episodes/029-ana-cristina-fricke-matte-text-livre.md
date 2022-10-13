@@ -60,6 +60,8 @@ editar um bate-papo muito interessante que tive com a **Ana Cristina Fricke
 Matte**, ou \"a **acris**  do [Texto Livre](http://www.textolivre.org/site/)\",
 como ele prefere. ;)
 
+<div class="clearfix"></div>
+
 A acris conta sobre como a idéia do **Texto Livre** nasceu depois de uma
 reunião com a equipe do **Ubuntu Brasil** em 2006, os problemas que enfrentou
 no começo, o progama de \"beta testers\" para professores, e os objetivos para

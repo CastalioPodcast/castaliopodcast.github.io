@@ -79,6 +79,8 @@ tornar o coordenador atual! Também conversamos sobre seu projeto de
 **mapear todos os bares de Belo Horizonte** e melhorar a qualidade e
 quantidade de mapas desta cidade (morei em BH em 1981-1982)!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-39 >}}

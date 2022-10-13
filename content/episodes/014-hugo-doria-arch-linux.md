@@ -47,6 +47,8 @@ Sergipe**, o processo para iniciar a sua startup chamada
 [POPCode](http://www.popcode.com.br/), gostando de música a partir do
 joguinho **Rock N\' Roll Racing**, e é claro seu **Top 5**!!!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-14 >}}

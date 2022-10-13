@@ -29,6 +29,8 @@ Nas próximas semanas queremos trazer para vocês entrevistas com a **Paula
 Granjeiro**, **Gabriel Engel** da **Rocket.Chat** e **Kenneth Reitz**, criador
 do **Python Requests**. Aguardem!
 
+<div class="clearfix"></div>
+
 No episódio de hoje começamos falando sobre as novidades da semana:
 
 **pytest-leaks**

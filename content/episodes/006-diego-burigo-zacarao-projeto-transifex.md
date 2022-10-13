@@ -35,6 +35,8 @@ participar de um projeto de software livre, veio a trabalhar para uma
 companhia grega, e hoje viaja pelo mundo participando de eventos e
 palestrando!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-06 >}}

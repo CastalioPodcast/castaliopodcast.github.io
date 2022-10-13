@@ -73,6 +73,8 @@ que faz ele destacar dos outros, a história do nome do projeto (você
 sabia que o nome original do projeto era **schizobird**?), como lidar
 com usuários nos forums de pergunta, sobre seu doutorado, e o seu Top 5!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-28 >}}

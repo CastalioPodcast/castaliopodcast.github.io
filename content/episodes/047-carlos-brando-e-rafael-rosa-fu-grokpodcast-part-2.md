@@ -69,6 +69,8 @@ já escreveu alguns livros sobre Ruby on Rails? Quem curte comédias e
 quem recentemente assistiu um filme sobre sushi? Escutem o finalzinho do
 nosso bate-papo para descrobir! :)
 
+<div class="clearfix"></div>
+
 Claro que vocês podem também assistir o vídeo da entrevista no canal do
 [Youtube](http://bit.ly/QDn1p2)!
 

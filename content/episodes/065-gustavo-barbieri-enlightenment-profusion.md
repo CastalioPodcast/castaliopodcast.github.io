@@ -33,6 +33,8 @@ Libraries) para Python. E, também, foi sócio da
 [ProFUSION](http://profusion.mobi/), uma empresa de desenvolvimento para
 dispositivos móveis que foi comprada pela Intel em 2012.
 
+<div class="clearfix"></div>
+
 Durante nossa conversa o Gustavo nos contou como iniciou o seu envolvimento com
 o projeto Enlightenment e com a EFL. Foi devido ao seu envolvimento com a EFL
 que surgiram os [bindings para

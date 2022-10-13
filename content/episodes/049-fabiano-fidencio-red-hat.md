@@ -36,6 +36,8 @@ qual o projeto que ele vai trabalhar (você vai ter de escutar o
 episódio), mas além de trabalho novo, ele também vai se mudar do Brasil
 para uma cidade européia, onde cerveja é mais barato que água!
 
+<div class="clearfix"></div>
+
 Como sempre, a entrevista foi gravada por vídeo e você pode assistir
 nosso bate-papo na íntegra e sem edição [aqui](http://bit.ly/Vfblgu),
 incluindo como que ele está se preparando para se mudar para a europa!

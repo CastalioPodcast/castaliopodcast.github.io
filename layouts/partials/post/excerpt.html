@@ -1,6 +1,6 @@
 {{- $content :=  "" -}}
 {{- if eq .Type "episodes" -}}
-  {{- $content = (index (split .Content "<!-- more -->") 0) | safeHTML -}}
+  {{- $content = (index (split .Content "<div class=\"clearfix\"></div>") 0) | safeHTML -}}
 {{- else -}}
   {{- $content = .Summary -}}
 {{- end -}}

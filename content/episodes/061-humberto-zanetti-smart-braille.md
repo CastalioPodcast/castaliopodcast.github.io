@@ -36,6 +36,8 @@ deixar um feedback por lá para nos ajudar a destacar o podcast.
 O entrevistado de hoje é o Humberto Zanetti, professor e coordenador da ETEC de
 Itatiba e professor na Fatec de Jundiaí.
 
+<div class="clearfix"></div>
+
 Durante nosso bate-papo conversamos sobre o projeto **Smart Braille**, que
 transforma impressoras matriciais em impressoras braille!!! A conversa estava
 tão boa que o episódio ficou com mais de 30 minutos, mas acredito que vocês vão

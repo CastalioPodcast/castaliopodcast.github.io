@@ -74,6 +74,8 @@ com o framework **Ruby on Rails** para este episódio! Dentre as pessoas
 que eu conheço (online e pessoalmente) o nome do **Júlio Monteiro** foi
 o primeiro que passou pela minha cabeça.
 
+<div class="clearfix"></div>
+
 Eu e o Júlio nos conhecemos na época que participávamos da comunidade
 **Ubuntu Brasil**, mas desde então eu tinha perdido um pouco de contato
 com ele, até descobrir que ele estava trabalhando para a **JobScore**

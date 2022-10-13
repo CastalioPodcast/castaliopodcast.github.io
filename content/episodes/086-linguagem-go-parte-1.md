@@ -30,6 +30,8 @@ específico e nos concentraremos nele. Mas calma, não para por aí! Além disso
 poderemos ter alguns convidados que vão nos ajudar com o assunto, respondendo
 algumas dúvidas e falando mais sobre ele.
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-86 >}}

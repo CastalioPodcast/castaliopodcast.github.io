@@ -81,6 +81,8 @@ bastante barulho ao adicionar vários recursos super avançados para a sua
 realmente impressionante e quando terminamos nossa entrevista eu fiquei
 literalmente fã número 1 dele! :)
 
+<div class="clearfix"></div>
+
 Durante nosso bate-papo ele conta todos os detalhes de como que o
 projeto nasceu, quais foram os obstáculos que enfrentou, e quais foram
 os motivos que o levou a parar o projeto. Também falamos sobre

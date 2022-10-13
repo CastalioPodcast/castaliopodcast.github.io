@@ -31,6 +31,8 @@ de 3, é um corredor ávido, usuário Vim e trabalha de Dijon, na França. É co
 grande prazer que trazemos mais uma entrevista em inglês e conversamos com o
 Tarek Ziadé.
 
+<div class="clearfix"></div>
+
 Já vai aquecendo o seu inglês porque de agora em diante o post será escrito
 nesta lingua. Como sempre, qualquer feedback que você tenha sobre esse formato
 de post é muito bem vindo.

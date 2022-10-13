@@ -51,6 +51,8 @@ mantenedor do web site de dicas e tutoriais Ubuntero! Com uma conexão
 **Carolina do Norte* - **Rio Grande do Sul** - **Califórnia**, batemos um papo
 muito legal com o **Danilo Resende** do **Facebook**!
 
+<div class="clearfix"></div>
+
 Durante nosso bate-papo, conversamos sobre como que o Danilo começou sua
 carreira no Facebook, começando como estagiário ainda na faculdade,
 quais os projetos que ele trabalha, sobre sua vinda do Brasil e se

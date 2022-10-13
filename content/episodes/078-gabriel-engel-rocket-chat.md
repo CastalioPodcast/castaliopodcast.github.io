@@ -31,6 +31,8 @@ em dia provê muito mais recursos, já que várias pessoas estão contribuindo c
 o projeto. Isso tudo fez com que o Rocket.Chat se tornasse uma plataforma de
 comunicação onde é possível se comunicar via texto, áudio e vídeo.
 
+<div class="clearfix"></div>
+
 Conversamos sobre os recursos que o Rocket.Chat oferece atualmente, como
 possibilidade de integração com outros serviços, criação e utilização de bots,
 definição de diversos níveis de notificação e status, acesso ao sistema

@@ -35,6 +35,8 @@ episódio para falar sobre estes temas, e depois o áudio (sem edição) foi
 publicado dentre os participantes para que cada um possa então editar e
 publicar o conteúdo da forma e quando quiser. Viva open source!
 
+<div class="clearfix"></div>
+
 Dando continuidade ao nosso episódio de natal, mais uma vez com o
 [Rafael Rosa Fu](https://twitter.com/rafaelrosafu) do [Grok
 Podcast](http://grokpodcast.com) e [Magnun

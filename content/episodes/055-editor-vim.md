@@ -34,6 +34,8 @@ explicação a vocês que sempre acompanhou o podcast\... por isso, quero
 então pedir 1,000 desculpas e que perdoem esta minha falta de
 profissionalismo.
 
+<div class="clearfix"></div>
+
 Durante os muitos meses que o podcast ficou parado, foram muitos os
 e-mails e comentários de amigos e ouvintes perguntando se o projeto
 estava realmente morto ou se existia alguma chance de trazê-lo de volta

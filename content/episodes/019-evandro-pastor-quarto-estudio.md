@@ -40,6 +40,8 @@ que ele pensa sobre os **cursos de web design no Brasil**, sua paixão
 por video games, sua mudança para o interiorrrr de São Paulo e o começo
 de seu Plano C.
 
+<div class="clearfix"></div>
+
 Este foi sem sombra de dúvidas a entrevista mais divertida que eu fiz
 até agora, provavelmente devido ao nível da intimidade que tenho com o
 Evandro e de poder fazer perguntas com um pouco de irreverência. A

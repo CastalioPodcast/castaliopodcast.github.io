@@ -29,6 +29,8 @@ vários de seus projetos como o [Stoq](http://www.stoq.com.br/pt-br), um
 software de gestão comercial livre, e é claro que não podia faltar o top
 5!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-09 >}}

@@ -21,6 +21,8 @@ em **Israel** com um **chefe Russo**, se perdendo na **Palestina**,
 fazendo renderizador de jogos \"no braço\", seu ódio pelo **Eclipse**, e
 muito mais!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-22 >}}

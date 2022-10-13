@@ -51,6 +51,8 @@ processo de criação deste livro e sobre alguns tópicos abordados no livro. É
 com enorme prazer que recebemos aqui no Castálio o Willian Molinari também
 conhecido como [PotHix](https://pothix.com/about/).
 
+<div class="clearfix"></div>
+
 Abordamos os seguintes tópicos:
 
 - Como o Willian começou sua carreira na computação.
@@ -73,8 +75,6 @@ Abordamos os seguintes tópicos:
 - Como o Willian aprendeu inglês.
 - Quais as principais diferenças que ele percebeu ao migrar de
     [Ruby](https://www.ruby-lang.org/) para [Python](http://python.org).
-
-<div class="clearfix"></div>
 
 Confira a gravação deste episódio no vídeo abaixo:
 

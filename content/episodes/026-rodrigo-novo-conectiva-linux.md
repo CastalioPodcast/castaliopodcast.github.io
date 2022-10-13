@@ -65,6 +65,8 @@ egg**\" que nunca foi publicado, onde será a próxima \"**Silicon
 Valley**\" brasileira, e seu interesse por **poker** e **filmes
 clássicos**!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-26 >}}

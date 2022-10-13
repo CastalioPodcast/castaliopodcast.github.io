@@ -41,6 +41,8 @@ estarão disponíveis no Python 2, então a hora de migrar é agora!
 Conheça agora algumas notícias, novidades e dicas de softwares e truques para o
 terminal Linux e no final do episódio um excelente Book Review!
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-89 >}}

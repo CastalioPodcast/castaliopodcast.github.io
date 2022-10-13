@@ -49,6 +49,8 @@ Ah, antes que me esqueça, agora você já pode acompanhar o **Castálio
 Podcast** pelo [iTunes
 Store](http://itunes.apple.com/us/podcast/castalio-podcast/id446259197)!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-11 >}}

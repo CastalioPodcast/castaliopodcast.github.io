@@ -65,6 +65,8 @@ organizou vários encontros do Grupy quando morava no Brasil e hoje mora e
 trabalha na Suíça. É com grande prazer que nós recebemos nosso convidado de
 hoje, Rodolpho Eckhardt.
 
+<div class="clearfix"></div>
+
 Normalmente nós começamos perguntando como o convidado começou a programar e
 como se envolveu com computação, mas recentemente o Rodolpho já respondeu isso
 tudo no canal do nosso amigo Avelino. Assista ao vídeo: [Como o Googler

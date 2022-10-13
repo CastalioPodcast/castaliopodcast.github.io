@@ -56,6 +56,8 @@ O entrevistado de hoje é o **Diego Rodrigo Santos**, criador do
 [SobreCervejas](http://instagram.com/sobrecervejas/), um projeto super bacana e
 de excelente qualidade e bom gosto!
 
+<div class="clearfix"></div>
+
 Durante nosso bate-papo conversamos sobre como que o projeto foi criado, como
 que ele consegue acesso a (grande) variedade de cervejas que ele apresenta,
 sobre o processo de degustação, e por quê é importante usar o copo certo para

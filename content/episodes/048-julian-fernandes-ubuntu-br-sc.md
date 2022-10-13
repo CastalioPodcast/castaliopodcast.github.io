@@ -37,6 +37,8 @@ serviço! Com uma média de 8 a 10 mil visitantes por dia, o Ubuntu BR SC
 conta com uma equipe super dinâmica que está sempre adicionando conteúdo
 ou respondendo os comentários e perguntas de seus visitantes.
 
+<div class="clearfix"></div>
+
 Durante nosso bate-papo conversamos sobre como que o site **Ubuntu BR
 SC** nasceu, quais as ferramentas e tecnologias que são usadas, quem são
 os integrantes da equipe responsável pela geração e seleção de artigos,

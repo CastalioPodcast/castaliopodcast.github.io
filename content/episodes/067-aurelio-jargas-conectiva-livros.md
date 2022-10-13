@@ -30,6 +30,8 @@ Conseguimos entrevistar o Aurelio Jargas e nossa conversa foi muito
 interessante. Ele nos contou algumas fases interessantes que passou durante a
 sua carreira profissional.
 
+<div class="clearfix"></div>
+
 Ele nos conta como foi trabalhar na Conectiva, onde começou a trabalhar na
 década de 90. Se você está interessado em conhecer mais sobre os bastidores do
 ambiente profissional está no lugar certo!

@@ -35,6 +35,8 @@ firulas. Tudo isso é feito de forma bem simples, e tudo que você precisa fazer
 arquivo gerado no seu sistema e iniciar o Vim para ativar o processo de
 configuração automática.
 
+<div class="clearfix"></div>
+
 Neste episódio conversamos sobre como o projeto começou, quais tecnologias são
 utilizadas no projeto e como ele funciona internamente. Também veremos alguns
 plugins que o [vim-bootstrap](http://vim-bootstrap.com/) instala para você

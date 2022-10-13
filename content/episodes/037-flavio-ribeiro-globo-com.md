@@ -96,6 +96,8 @@ entrevista! O Flávio é um **engenheiro de software** que trabalha na
 sentado bem no meio de **Interlagos** hehehe) e está na equipe
 responsável por toda a área de streaming de conteúdo pela net!
 
+<div class="clearfix"></div>
+
 Durante nosos bate-papo ele me contou sobre como que sua equipe usa a
 metodologia **SCRUM** para administrar e planejar suas tarefas, quais as
 tecnologias usadas internamente e como que o software livre faz parte do

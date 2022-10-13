@@ -88,6 +88,8 @@ oferece, e desde então eu tenho acompanhado o trabalho que o Henrique
 tem feito! Nesta última quinta eu tive a oportunidade de bater um
 bate-papo com ele via Skype, e entrevistá-lo para este episódio!
 
+<div class="clearfix"></div>
+
 Tanto o Welcome to the Django quanto a **Dekode**, companhia que evoluiu
 da mesma, mostram o entusiasmo e a competência que o Henrique tem pelo
 que faz. Ambos projetos nasceram da sua vontade de compartilhar seu

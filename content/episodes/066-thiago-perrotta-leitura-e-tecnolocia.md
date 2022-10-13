@@ -76,6 +76,8 @@ dicas de como adquirir o hábito de leitura e ler muitos livros. Se você é com
 o Elyézer, que está buscando novamente ler todos os dias, você irá curtir a
 conversa e as dicas.
 
+<div class="clearfix"></div>
+
 Além das dicas, falamos sobre o [GoodReads](https://www.goodreads.com/) que
 ajuda a guardar os livros que você já leu e pretende ler. Você também pode
 atualizar o seu progresso a medida que está lendo um ou mais livros. Todos nós

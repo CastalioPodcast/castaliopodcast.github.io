@@ -63,6 +63,8 @@ com uma equipe de colaboradores, o Ivan escreve artigos sobre todas as
 áreas relacionadas à tecnologia e tutorias, focando na área de software
 livre!
 
+<div class="clearfix"></div>
+
 A história do Ubuntero me lembra um pouco a história do
 [BR-Linux](http://br-linux.org/), começando como um catálogo de
 informações úteis para o Ivan e eventualmente tornando-se em um ponto de

@@ -66,6 +66,8 @@ livros e também tem um canal no Youtube com cursos online gratuitos de Java,
 Angular, Ionic e Javascript. É com grande prazer que nós recebemos nossa
 convidada, Loiane Groner.
 
+<div class="clearfix"></div>
+
 Para não perder o costume, começamos perguntando como a Loiane conheceu a área
 de TI e como ela iniciou na carreira de desenvolvimento de software. Em
 seguida, perguntamos se a Loiane já sofreu algum tipo de preconceito ou

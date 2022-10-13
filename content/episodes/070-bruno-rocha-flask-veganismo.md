@@ -34,6 +34,8 @@ características que faz com ele curta bastante o framework. Ele também comenta
 sobre como o Flask se posiciona em relação a outros frameworks para web em
 Python, como o Django por exemplo.
 
+<div class="clearfix"></div>
+
 Também conversamos sobre [web2py](http://www.web2py.com/), um outro framework
 web escrito em Python, e sobre o livro que o Bruno ajudou a escrever [web2py
 Application Development

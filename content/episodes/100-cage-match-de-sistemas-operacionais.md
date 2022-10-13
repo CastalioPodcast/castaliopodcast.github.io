@@ -55,6 +55,8 @@ resolvemos trazer um formato novo e esperamos que vocês gostem. Já sabem né?
 Queremos que você celebre esse marco conosco, então depois nos conte o que
 achou deste episódio e dos outros que já ouviu até agora.
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-100 >}}

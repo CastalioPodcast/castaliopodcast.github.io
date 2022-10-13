@@ -26,6 +26,8 @@ agradecer a todos que participaram da nossa [enquete no
 Twitter](https://twitter.com/castaliopod/status/799596710511181828) apoiando a
 idéia de trazer o book review.
 
+<div class="clearfix"></div>
+
 Para dar o pontapé inicial deste novo segmento, **Book Review**, o **Castálio
 Podcast** recomenda o livro [H.P. Lovecraft\'s Book of the
 Supernatural](https://www.goodreads.com/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural)

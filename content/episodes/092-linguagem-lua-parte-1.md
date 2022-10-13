@@ -55,6 +55,8 @@ projeto da Tecgraf na Petrobras. Mas devido a sua eficiência e clareza, passou
 a ser utilizada em outros projetos e então foi disponibilizada para uso geral
 sob a licença MIT.
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-92 >}}

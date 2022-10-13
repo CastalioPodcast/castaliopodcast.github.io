@@ -53,6 +53,8 @@ trabalha com python, o nome do Luciano não lhe deve ser estranho. Mas
 para mim, que moro há 21 anos no exterior, foi uma descoberta super
 maneira!
 
+<div class="clearfix"></div>
+
 Quanto mais eu pesquisei sobre ele, mais animado eu ficava em conhecer \"a
 pessoa por trás dos slides\" das apresentações [Python - Encapsulation with
 Descriptors](https://speakerdeck.com/ramalho/python-encapsulation-with-descriptors)

@@ -60,6 +60,8 @@ Microsoft que inclui ferramentas largamente utilizadas como C#,
 [.NET](https://en.wikipedia.org/wiki/.NET_Framework), ASP, SQLServer,
 Sharepoint, Xamarin e [Azure](https://azure.microsoft.com).
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê o show notes
 
 {{< podcast castalio-podcast-95 >}}

@@ -36,6 +36,8 @@ indicações, o Castálio é feito por todos nós e por isso a sua participaçã
 muito importante para o podcast. Que em 2017 agente consiga ter ainda mais
 entrevistas, book reviews e novidades da semana inspiradoras.
 
+<div class="clearfix"></div>
+
 Começamos hoje com uma pequena dica de Python, ou melhor, pip. Você pode criar
 um cache local de pacotes utilizando a opção `--download` do pip, com isso você
 pode ter seu backup de pacotes. Para salvar os pacotes em um diretório

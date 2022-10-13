@@ -54,6 +54,8 @@ voltado a tablets e dispositivos móveis, mas que também serve para desenvolver
 **Desktop GUI** para aplicativos Python de maneira bastante similar ao
 **Tkinter** que citamos no epiśodio 82.
 
+<div class="clearfix"></div>
+
 # Escute agora enquanto lê os show notes
 
 {{< podcast castalio-podcast-84 >}}

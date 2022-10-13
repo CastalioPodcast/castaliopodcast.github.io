@@ -98,6 +98,8 @@ isso teve na moral dos empregados, e como que a sua vinda está
 transformando a companhia em uma empresa mais moderna e com mais atenção
 à qualidade de seus produtos e bem-estar de seus empregados.
 
+<div class="clearfix"></div>
+
 Mais uma coisa bacana que aconteceu durante a gravação foi um commit que
 o Alexandre fez ao-vivo para o código do **Respect Doc** em
 [homenagem](https://github.com/Respect/Doc/commit/c1b6a473c62253725321eeb4a4125e3c25e709f1)

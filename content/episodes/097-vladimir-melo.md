@@ -36,6 +36,8 @@ e, por muito tempo, foi membro da equipe de tradutores do projeto
 Brasileiro. É com grande prazer que nós recebemos nosso convidado de hoje,
 Vladmir Melo.
 
+<div class="clearfix"></div>
+
 Começamos nossa conversa falando um pouco sobre a participação do Vladimir na
 equipe de tradutores to projeto GNOME. Conversamos sobre o que chamou sua
 atenção para ajudar nas traduções e como o processo de tradução é feito.
@@ -49,8 +51,6 @@ obesidade no Brasil e como a obesidade está mundo à fora.
 O Vladimir vem palestrando em escolas publicas sobre obesidade infantil. Ele
 nos conta como é este trabalho e qual é o objetivo dessas palestras para as
 crianças, seus pais e instrutores.
-
-<div class="clearfix"></div>
 
 ![](/images/vladimir-melo-palestra.jpg)
 

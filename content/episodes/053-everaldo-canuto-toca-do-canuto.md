@@ -74,6 +74,8 @@ se tornasse igual aquelas amizades que fazemos quando criança\...
 aquelas pessoas que não importa o tempo ou a distância, você sempre fica
 feliz de encontrar e bater um papo!
 
+<div class="clearfix"></div>
+
 O Everaldo teve uma das oportunidades que eu sempre sonhei em ter:
 trabalhar lado a lado com o **Miguel de Icaza**, um dos fundadores do
 **Projeto GNOME**, figura quase que mitológica do mundo do software

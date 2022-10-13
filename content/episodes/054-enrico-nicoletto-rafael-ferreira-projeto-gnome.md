@@ -72,6 +72,8 @@ trazer mais um episódio sobre o projeto **GNOME**! Desta vez convidei o
 processo de traduções, que mais uma vez promete entregar mais uma versão
 completamente traduzida para o nosso bom português!
 
+<div class="clearfix"></div>
+
 A entrevista aconteceu \"na estrada\" quando eu estava voltando de
 viagem, e acabei gravando o episódio de um hotel lá em Richmond no
 estado da Virgínia. Mesmo com alguns problemas iniciais (teve uma hora

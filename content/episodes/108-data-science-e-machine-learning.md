@@ -61,6 +61,8 @@ sobre Data Science e Machine Learning. Para nos ajudar com este tema, contamos
 com a presença do Eder Martins que é Data Scientist em um dos maiores Job
 Boards do Mundo e do Vinicius Mesel pesquisador de machine learning na USP.
 
+<div class="clearfix"></div>
+
 Abordamos os seguintes tópicos:
 
 - Qual o significado de Data Science, Machine Learning e Deep
@@ -87,8 +89,6 @@ Abordamos os seguintes tópicos:
 - Qual seria o \"Holy Grail\" da área de inteligencia artificial? Ou
     seja, qual seria o obstáculo de hoje que, se fosse resolvido,
     abriria as portas para um boom no progresso deste campo?
-
-<div class="clearfix"></div>
 
 Confira a gravação deste episódio no vídeo abaixo:
 

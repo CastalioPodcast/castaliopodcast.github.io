@@ -95,6 +95,8 @@ pouco sobre os fatores que tornaram o Ubuntu tão popular e o nome de
 vários usuários que começaram sua vida no mundo de software livre na
 comunidade Ubuntu Brasil!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-30 >}}

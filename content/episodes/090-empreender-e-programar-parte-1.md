@@ -40,6 +40,8 @@ de tempo. Por isso, no episódio de hoje falaremos sobre as dificuldades e
 desafios de ser um programador apaixonado pela tecnologia e ao mesmo tempo
 empreender em um produto ou empresa.
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-90 >}}

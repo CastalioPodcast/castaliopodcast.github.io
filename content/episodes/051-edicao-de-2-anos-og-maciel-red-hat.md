@@ -55,6 +55,8 @@ online ou e-mails em listas de discussões\... enfim, um podcast \"bom
 para castálio\"! Passados 50 episódios, no dia 16 de fevereiro este
 projeto completou **2 anos de vida**!
 
+<div class="clearfix"></div>
+
 Para comemorar este nosso marco histórico, resolvi atender os pedidos de
 alguns ouvintes e tentar novamente publicar uma entrevista comigo mesmo!
 Para as pessoas que acompanham o podcast, vocês devem se lembrar que o

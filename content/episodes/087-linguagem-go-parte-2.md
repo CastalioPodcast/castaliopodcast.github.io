@@ -28,6 +28,8 @@ episódios onde conversaremos sobre um tema específico. No Top 5 deste episódi
 nossos convidados vão comentar ferramentas e fontes de informação para que as
 pessoas interessadas em Go poderão começar e buscar mais informações.
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-87 >}}

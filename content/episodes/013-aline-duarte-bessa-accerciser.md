@@ -55,6 +55,8 @@ o que o Accerciser é:
 Também conversamos sobre sua formação, mudança para Belo Horizonte, seu
 Top 5, e o significado do quanto difícil é \"**fazer uma jaca**!!!\"
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-13 >}}

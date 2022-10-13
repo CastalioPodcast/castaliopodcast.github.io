@@ -58,6 +58,8 @@ Oliveira](https://twitter.com/_renatoOliveira).
 Fizemos mais algumas perguntas para os nossos participantes e ao final eles
 deixam um Top 5 de referencias para quem quer empreender.
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-91 >}}

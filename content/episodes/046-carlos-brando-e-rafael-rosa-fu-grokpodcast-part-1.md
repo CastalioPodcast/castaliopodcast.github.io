@@ -66,6 +66,8 @@ conversar com eles, e o bate-papo foi tão bom que eu decidi dividir a
 entrevista em duas partes para ficar mais conveninente para vocês
 escutarem.
 
+<div class="clearfix"></div>
+
 Nesta primeira parte conversamos sobre como que a idéia de criar o
 podcast surgiu em um barzinho em São Paulo, quando o Brando e Rafael
 conversavam com o **Fábio Akita** depois de um **RubyConf**. Logo depois

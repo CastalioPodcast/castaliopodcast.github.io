@@ -33,6 +33,8 @@ ficou "desempregrado" ajudou a escrever os livros e desenvolver seus projetos.
 Esse tempo livre permitiu que ele trabalhasse no que estava afim de fazer e
 resultou em bastante coisa interessante e divertida.
 
+<div class="clearfix"></div>
+
 Como no espisódio anterior o Og comentou sobre a possibilidade de escrever um
 livro e a possibilidade do livro behind the scenes da Conectiva, para não ficar
 atrás, nesse episódio, o Elyézer disse que pretende voltar a escrever em seu

@@ -34,6 +34,8 @@ Girls. Alem disso, possui muito projetos interessantes em sua página no Github.
 É com grande prazer que trazemos uma entrevista, em inglês, com o Kenneth
 Reitz.
 
+<div class="clearfix"></div>
+
 Vamos fazer um post um pouco diferente hoje, fizemos a apresentação em
 português e, de agora em diante, o post será todo em inglês. Por favor,
 deixe-nos comentários sobre o que achou desse formato de post.

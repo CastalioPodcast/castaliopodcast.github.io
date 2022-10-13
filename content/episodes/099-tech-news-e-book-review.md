@@ -74,6 +74,8 @@ gravado ao vivo por lá. Se você quer receber as novidades das próximas
 gravações ao vivo e outros conteúdos que estaremos publicando por lá, assine o
 [Canal do YouTube do Castálio Podcast](http://bit.ly/CanalCastalio).
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-99 >}}

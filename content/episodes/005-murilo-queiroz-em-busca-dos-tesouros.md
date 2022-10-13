@@ -23,6 +23,8 @@ e como que um passeio por um museu em Londres foi o catalisador de uma
 nova amizade. Também conversamos sobre microcomputadores como o **TK-85,
 ZX-81** e open source nos anos 80!
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-05 >}}

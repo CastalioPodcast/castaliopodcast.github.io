@@ -62,6 +62,8 @@ participação mais que especial do **Evandro Pastor**, que literalmente
 **casou, mudou e não me convidou**! :) Mas ele já está bem melhor e quem
 sabe não volta no próximo episódio?
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-18 >}}

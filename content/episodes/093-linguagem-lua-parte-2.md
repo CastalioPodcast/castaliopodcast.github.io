@@ -42,6 +42,8 @@ deste episódio, foi que o [Italo Maia](https://twitter.com/italomaia) nos
 enviou uma pergunta pelo Twitter e já começamos com ela logo no início. Também
 temos o Top 5 de links para aprender [Lua](http://www.lua.org/).
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-93 >}}

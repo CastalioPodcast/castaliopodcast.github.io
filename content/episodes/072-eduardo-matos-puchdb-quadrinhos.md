@@ -35,6 +35,8 @@ Request é comentado sobre o
 [mention-bot](https://github.com/facebook/mention-bot), um bot que menciona nos
 Pull Requests uma pessoa que é um potencial reviewer.
 
+<div class="clearfix"></div>
+
 Também conversamos sobre offline first e [PouchDB](https://pouchdb.com/) um
 banco de dados que roda no navegador (browser) que permite aplicações salverem
 dados localmente, o que permite usuários usufruirem da aplicação mesmo quando

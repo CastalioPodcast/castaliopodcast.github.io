@@ -39,6 +39,8 @@ $ grep cast pt\_BR.dic \> wordswithcast.txt
 Depois foram horas de muita risada! Agora, quer saber mais? Escute o
 episódio então\... :)
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-01 >}}

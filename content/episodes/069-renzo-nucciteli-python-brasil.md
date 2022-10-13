@@ -29,6 +29,8 @@ Baseado na grade de palestras e os nomes dos palestrantes agendados a
 comparecer, eu recomendo fortemente que você prestigie a Python Brasil! Tenho
 certeza que será um marco na sua carreira profissional!!!
 
+<div class="clearfix"></div>
+
 Também falamos sobre o projeto [Python
 Birds](https://github.com/pythonprobr/pythonbirds), um curso de Python que
 promete te ensinar como programar de forma eficiente e com técnicas que não se

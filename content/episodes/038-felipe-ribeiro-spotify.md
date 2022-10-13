@@ -58,6 +58,8 @@ leva a pensar que existe um movimento muito forte na **Paraíba** nas
 áreas de educação e software livre, já que foram várias pessoas da
 região que passaram por aqui. :)
 
+<div class="clearfix"></div>
+
 Mesmo já sendo tarde na Suécia onde ele mora desde janeiro deste ano, e
 de ter voltado de um happy hour que teve lá na Spotify, conversamos
 sobre o seu trabalho, começando pela passagem pela Espanha na companhia

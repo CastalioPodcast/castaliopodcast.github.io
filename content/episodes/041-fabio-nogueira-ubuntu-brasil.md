@@ -60,6 +60,8 @@ estas pessoas. Felizmente, nesta última semana, consegui bater um papo
 com o **Fábio Nogueira**, um dos primeiros integrantes e membro das
 primeiras \"safras\" de pioneiros da comunidade Ubuntu Brasil!
 
+<div class="clearfix"></div>
+
 Durante nosso bate-papo o Fábio conta como que sua participação nesta
 comunidade começou no finalzinho de 2005, ao pedir ajuda com certas
 configurações, e sobre sua subida meteórica que eventualmente o levou a

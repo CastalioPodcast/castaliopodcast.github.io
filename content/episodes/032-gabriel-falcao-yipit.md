@@ -87,6 +87,8 @@ Desta vez eu tive o enorme prazer de conversar com o **Gabriel Falcão**,
 desenvolvedor de vários projetos de software livre e que hoje mora em
 **New York City**.
 
+<div class="clearfix"></div>
+
 A história do Gabriel é um excelente exemplo de como o mundo do software
 livre pode abrir as portas do mundo profissional para aqueles que são
 trabalhadores e competentes no que fazem! Começando pela universidade,

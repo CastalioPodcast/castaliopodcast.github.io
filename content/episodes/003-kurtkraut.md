@@ -27,6 +27,8 @@ sociedades e orientadores sobre cursos formais na area de TI.
 > um e-mail, a controlar as finanças e lembrar o dia de pagar as contas
 > sem atrasá-las.\"
 
+<div class="clearfix"></div>
+
 # Escute Agora
 
 {{< podcast castalio-podcast-03 >}}

@@ -48,6 +48,8 @@ Hat, possui um monte de certificações de dar inveja a qualquer um (RHCSA, RHCE
 RHCA, RHCSS, RHCDS, RHCVA, RHCI) e hoje mora na Carolina do Norte. É com grande
 prazer que nós recebemos nosso convidado de hoje, Marcelo Mello.
 
+<div class="clearfix"></div>
+
 Este é mais um episódio que foi gravado ao vivo pelo [canal do
 YouTube](https://www.youtube.com/c/CastalioPodcast). Começamos perguntando para
 o o Marcelo como ele iniciou no mundo Open Source e como foi parar na Red Hat.

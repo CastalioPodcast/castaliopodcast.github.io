@@ -31,6 +31,8 @@ para efetuar estes testes seria fazer um mutirão no trabalho e testar
 tudo manualmente\... mas isso é coisa de iniciante, e todo engenheiro de
 automatização que se preze eventualmente tenta automatizar tudo.
 
+<div class="clearfix"></div>
+
 Apesar de usarmos o **Selenium** para efetuar testes de interface
 gráfica, o **Splinter** é uma excelente alternativa para quem deseja
 experimentar uma forma bem simples e fácil de interagir com um navegador

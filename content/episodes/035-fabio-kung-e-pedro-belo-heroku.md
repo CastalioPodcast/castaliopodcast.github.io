@@ -87,6 +87,8 @@ como que eu tenho usado os serviços que eles oferecem para hospedar e
 rodar alguns dos meus projetos. Então quando o Júlio se ofereceu para me
 apresentar ao pessoal da Heroku eu aceitei na mesma hora!
 
+<div class="clearfix"></div>
+
 Nosso bate-papo foi super divertido, e mesmo com os **três fusos de
 horário diferentes** (o Fábio na **California**, Pedro no **Texas** e eu
 na **Carolina do Norte**) conseguimos conversar sobre vários assuntos,

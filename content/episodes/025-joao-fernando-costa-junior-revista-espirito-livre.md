@@ -54,6 +54,8 @@ formato digital, a ser distribuída em PDF, gratuita e com foco em
 tecnologia, cultura livre, Internet, sempre tendo como plano de fundo o
 iniciativas como o software livre.\"
 
+<div class="clearfix"></div>
+
 Durante o nosso bate-papo, tive a oportunidade de aprender sobre como
 que o projeto foi iniciado, o seu objetivo, e perguntei tudo aquilo que
 você sempre quiz saber sobre a revista, mas tinha medo de perguntar! O

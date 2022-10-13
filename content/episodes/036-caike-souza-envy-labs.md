@@ -86,6 +86,8 @@ saber que ele trabalha na **Envy Labs** desde 2009 lá em **Orlando**, na
 vários projetos bacanas, como o **Rails for Zombies**, **Code School** e
 **TryRuby.org**.
 
+<div class="clearfix"></div>
+
 A primeira coisa que fica bem evidente sobre o Caike é que ele realmente
 curte muito o que faz, tem muito orgulho de onde trabalha, e é super
 humilde e divertido! Ele fala que programação é uma arte, e esta

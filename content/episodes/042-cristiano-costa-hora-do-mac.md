@@ -63,6 +63,8 @@ desta semana eu consegui achar um pouco de tempo para entrevistar o
 podcast [Hora do Mac](http://www.horadomac.com/) (**HDM**)! Quem ainda
 não conhece o **HDM** não sabe o que está perdendo!
 
+<div class="clearfix"></div>
+
 O **HDM** começou à quase 4 anos no fimzinho de 2008 lá em **Porto
 Alegre** e desde então o podcast já publicou **82 episódios** e só tem
 aumentado em tamanho de equipe (divertidíssima diga-se de passagem),

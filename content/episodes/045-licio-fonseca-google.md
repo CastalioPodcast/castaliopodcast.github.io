@@ -53,6 +53,8 @@ Desde então muita coisa aconteceu, e hoje ele trabalha na Google,
 fazendo toda a manutenção e administração da infra estrutura de toda a
 **América do Sul**!
 
+<div class="clearfix"></div>
+
 Durante nosso bate-papo, conversamos sobre o que ele faz por lá, sobre o
 seu dia a dia, como que conseguiu este trabalho, e sobre o processo de
 entrevistas e seleção para trabalhar na Google.

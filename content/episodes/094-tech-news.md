@@ -52,6 +52,8 @@ sobre o Castálio Podcast. Você sabe o quanto sua participação é importante 
 nós, não deixe de nos dizer o que esta achando dos episódios e também sugerir
 assuntos, notícias, dicas, enfim, o que você quiser.
 
+<div class="clearfix"></div>
+
 # Escute enquanto lê os show notes
 
 {{< podcast castalio-podcast-94 >}}

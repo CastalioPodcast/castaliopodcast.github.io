@@ -36,6 +36,8 @@ No episódio de hoje temos um convidado, o Rafael Rosa Fu que aceitou nosso
 convite e fez 2 book reviews, um falando sobre o livro \"36 Books that Changed
 the World\" e outro sobre o \"The Martian Chronicles\".
 
+<div class="clearfix"></div>
+
 A dica de Python da semana é sobre testes, mais especificamente sobre o uso do
 `subTest` que é um context manager que foi adicionado ao módulo unittest do
 Python3.4 e que já estava disponível no 2.7. Usando o unittest e o `subTest`

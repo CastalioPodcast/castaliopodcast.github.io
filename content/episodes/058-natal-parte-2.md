@@ -33,6 +33,8 @@ episódio para falar sobre estes temas, e depois o áudio (sem edição) foi
 publicado dentre os participantes para que cada um possa então editar e
 publicar o conteúdo da forma e quando quiser. Viva open source!
 
+<div class="clearfix"></div>
+
 Dando continuidade ao nosso episódio de natal, agora vamos discutir um
 pouco sobre as ferramentas e também um pouco da técnica usada durante o
 processo de gravação e edição de um episódio de podcast.
