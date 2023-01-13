@@ -6,4 +6,4 @@ image: images/qrcode.png
 image-alt: qrcode
 ---
 
-Não perca a primeira entrevista em inglês no dia 19 de sembro!
+Não perca a primeira entrevista em inglês no dia 19 de setembro!
